@@ -1,4 +1,5 @@
-name: Update measles news hourly
+name: Update measles news
+
 on:
   schedule:
     - cron: "10 * * * *"
@@ -21,7 +22,7 @@ jobs:
           node-version: "20"
 
       - name: Install dependencies
-        run: npm install rss-parser
+        run: npm install
 
       - name: Update news data
         run: node scripts/update-news.js
