@@ -1,0 +1,12 @@
+{
+  "name": "measles-news-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static measles news dashboard with hourly GitHub Actions updates.",
+  "scripts": {
+    "update-news": "node scripts/update-news.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
