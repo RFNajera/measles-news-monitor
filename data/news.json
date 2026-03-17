@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-03-17T11:27:18.776Z",
-  "itemCount": 77,
+  "updatedAt": "2026-03-17T12:31:03.139Z",
+  "itemCount": 76,
   "items": [
+    {
+      "title": "Measles cases are on the rise in Washington state - KNKX",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1ZnU0U1dFByZHppYjZUUjZpdkw0UFhJdWIwUmRfM2QxOTF6dDROVTZ3ZzBZdGM0V0IzRHUtRlB6UWt2T0FtS3RaTmQzN1ZpMlVLZlNtSEtONnd5akpLMlFsNWNGdm9PbnI1SHAxU0d2TlZSc19GM0c4dVZ6YTZlZV9fMXdfTU5UNTNocHFWUzI0em8?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 12:00:00 GMT",
+      "description": "Measles cases are on the rise in Washington state KNKX",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "We need to talk about measles, again – Measles Update – March’26 - Those Nerdy Girls",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mbUNYbFBmWUo3M3Y4aFp5Ukw1b0F6NE40VzhBR2hVd0UtM2R2SGdiaGVvbjVSUDhNdFdBOW9STjlaU0QxanJSdmZQVDN1RE5jVURhLTVzd1J2MzFIcVlwbQ?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 11:47:46 GMT",
+      "description": "We need to talk about measles, again – Measles Update – March’26 Those Nerdy Girls",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Health officials flag two Salt Lake County locations for measles exposure as cases rise - KUTV",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdE1SX1pYaFI4alJNM2hYRUtRTVdTMHRVdXEwdEpDR1o5VzJ4ZV9aT3RIT0ZETGNnYWJvRF85ekgyeUQxZllCa3c1VDN1QmwzekVOdlo2eUhydGxla1BBdmpQVmo1dmxReHRaOGxzbkF4R3JucEZPenB1Zlg1YWFhWTVJOWRReWJaQzNUeEJONDY5NWVsY2xXWk5haWRQMkpDTm5ENG5nYjNRblowTmVfTElXX1cyZw?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 11:40:48 GMT",
+      "description": "Health officials flag two Salt Lake County locations for measles exposure as cases rise KUTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Health officials flag two Salt Lake County locations for measles exposure as cases rise - kjzz.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbnNYSTlKRHdxS2tpQTJXRlpWdXU1UmhiS25vNE8xOEZKQktKeHFIZDVVOVpCclFndHFCN0xkSkJUNDA5U0Y1NUd4SnZRQW5pTkhqT1NCSThfZEFvdy1QNFVlMEIzYkE3UGV2Y1VTT2d2QUdHTlkzb2luZDkzcFB4ZWdmWVNKVGYyZlhMWDhlZGtZemlVNERzdEUzSmRfYU04M015VGNzanRLQ0l2SVRPYTJIMVJuRF9XakxMS3VnbGo?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 11:39:18 GMT",
+      "description": "Health officials flag two Salt Lake County locations for measles exposure as cases rise kjzz.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Unvaccinated 17-year-old dies of measles, Health Ministry says - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVkZqaHdEb1hKa083cU1IODNjWWdBbVJLcmdFSmRjWW1fa1VQeUQ5M2kwRF9DMy1oQ2tHLWhSYTNhT0I1WjFIdmlDVURBbEZUcFZUUEdhREpXbEVzT1lWRnZ6ZUFBQXpDNnZGTFJMQmhDWlJkVmJKTWV1MGFwUWhZa2U0R1BMZ2RMVnhVaDZkemkwMDlQZF9tNEtFY3VjNUNJODdlVGJQd0lROTg?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 11:38:18 GMT",
+      "description": "Unvaccinated 17-year-old dies of measles, Health Ministry says The Times of Israel",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "With measles surging in Florida, DeSantis gets vaccine pushback | Column - Tampa Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNzcweVlaTFMtclhDeU9hNTJOc2R6bExjbWF5NHF2SDAzcW1PQzZPZW5WVXJObWJHRDJ2WHRBZWdMZng0cmNvNm4xUjE4WWpmUVpaWnowTEh5ODlBRDlUQVVsRmFsUmxvWERmcTZaeTctME84SEk4Z0hhSndwZTZjNE56VU1KTkNneHNIc3QwbHUwYWd1WFZLNDFmY2xQZzZpRFRIeHBXbk1nZU5BME5ENVkwVW1zMG8?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 11:11:05 GMT",
+      "description": "With measles surging in Florida, DeSantis gets vaccine pushback | Column Tampa Bay Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Measles virus reaches Hawaii again as risks grow - Hawaii Tribune-Herald",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY05rSnA3ZFRHdEp2NWdyaWl4RG1QeXFEZFNHOHp6blRFMDRnV3FKRnZLZ3BjeUtXc2JFb1E1dU10Nng4bzFuQnk5VDNVN3p3UjF1UzUzVklyajJhRjdIb0M1VktQNTIzZ0tfcE1rRnBlRkg3Qnp1YVFuTGsxWHdUQVBqUHRLZDRqQ2FScnFUd1hOQS0wcDRkbERYci1BVUFfTU5kc0tEOWdIdUwzNUHSAbMBQVVfeXFMT0pjR0JYenBkRHk4dzdaTnR1WXVDWk1aU09TdGtsMk96Q21rNUlEWFRqS0RDa1MwaXctdkFDMG1MTDhfSm1QS09ZSDZCZkJwWktJNnh2Z2t6Z0ZLYmluWjNaRTBtN0p0ODBiOWZ6eTd2UGtyRkpnUHBaa1U4YUhBUnZpSWpfRS0zem95YVRtWnJPN0tHalV5Yl9kaDdSczdZdTJTUC1VczNIeXpHUy1oS1FRdUU?oc=5",
@@ -21,10 +75,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Doctors warn of a deadly complication from measles outbreaks - Los Angeles Times",
+      "title": "Doctors warn of a deadly complication from measles outbreaks - Los Angeles Times - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0t2ejk5V0xxOGwxSVE3T0FiSWE5bWRWcVhTdGsyakFxU0VTdFZZYWxXNWx0WlhtLW1qT3VlVkcwNDB3ZEtybGpzSjNiSG5JN2hkMmVWV294dE9mbVdBU2pacjh5M18zQW83RnJ5WE43dF9mUEVhRmZuR2xrSnk1cjE5UjFEVlM5NEZWSFZldFdmVDE0TzdkVWpkZURYcEtWdXJrV0l3bWpQWWs?oc=5",
       "pubDate": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "description": "Doctors warn of a deadly complication from measles outbreaks Los Angeles Times",
+      "description": "Doctors warn of a deadly complication from measles outbreaks - Los Angeles Times Los Angeles Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -34,15 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMEZJZFlKWjM0Z0hESVFZLW1WX3VRUTVSamcxTjRINWdEcDUyYURlVFZ3QlhaZDBHU09uQ2VreUJYNWhBQ3Y3eFExMnpzY05oaXJlODh0U0NCaHNMSmxNYUVFLWpod0FQejhrZThvM3JUVWpiSGdKU2NENnpDX0d2Wk9UVEJvUTFPYXhkbFdaQnU0dWdOMnJV?oc=5",
       "pubDate": "Tue, 17 Mar 2026 10:00:00 GMT",
       "description": "North Dakota continues to reel from measles outbreak MinnPost",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "With measles surging in Florida, DeSantis gets vaccine pushback | Column - Tampa Bay Times",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNzcweVlaTFMtclhDeU9hNTJOc2R6bExjbWF5NHF2SDAzcW1PQzZPZW5WVXJObWJHRDJ2WHRBZWdMZng0cmNvNm4xUjE4WWpmUVpaWnowTEh5ODlBRDlUQVVsRmFsUmxvWERmcTZaeTctME84SEk4Z0hhSndwZTZjNE56VU1KTkNneHNIc3QwbHUwYWd1WFZLNDFmY2xQZzZpRFRIeHBXbk1nZU5BME5ENVkwVW1zMG8?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "description": "With measles surging in Florida, DeSantis gets vaccine pushback | Column Tampa Bay Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -124,15 +169,6 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGdObDVEUWg0MHMtbUVLdkpBOTZGM2hMdzZKLTlweDFDVXN5Qnp5M0xrNXJMVG9JODVmd0hKaE5xWkw2cDNQRHd0OEtMVjJ6Zk10ZlAzU2ZmbWJWR09ZVi02TUNhWlY2dWE5am03TUgxX2E1SWVSVFlLMk1JZ2d3N0gzSmpONm9lWnd0UnpPMmJrekI0VTFXaUFqZFA?oc=5",
       "pubDate": "Mon, 16 Mar 2026 21:17:00 GMT",
       "description": "Walgreens stresses up-to-date vaccines with Measles cases WIFR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Health Officials Warn of Possible Measles Exposure in Independence - KMCH.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOczZGcEZJYTFidFRyLUV1QU1BLTRHSmtGY3RCTXJ4STFDSW5MWUpzZWthcmlKSGdtZVFPMWhPM19iR1JqM1RDUGstOERzSTBvR19HcXBndnZuelE1OElRNE10Rk1aTVhKTHJPT0h6dndpSnBVX1RvZjZPdmxjTllzOWY3TndheGlaVWc2azM2WHBuMEViVjV1OFpNbw?oc=5",
-      "pubDate": "Mon, 16 Mar 2026 19:44:46 GMT",
-      "description": "Health Officials Warn of Possible Measles Exposure in Independence KMCH.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -248,7 +284,7 @@
     {
       "title": "The 9 places listed as possible exposure spots for measles case in Southeast Michigan - ClickOnDetroit | WDIV Local 4",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbnF4NTZhYnZzWnlYQzVuSGxHV2pXeUwtekdhVWFmaG9TX19FQnJBVksxY01ieUM1U08zZ3AxaGZ4Mnk3OWdWSkhSdUotTG82YUg1NnViMHo5ZWgxVDBMVVRiMmVQcTMyVEZKWnFrTHV2dV9yLXZWbDg4b2swQmJHWFNRSlc4OFVKZ0J6d3NaY1A0LUYwTEs4UHhmTnE4cERfb0xEb3JHYzlfV3pCcFVIVlJxUzhvV1AwMmVoQnZrbFA3QURXYVlVNzFuYVdQLTlwM3NQazJn?oc=5",
-      "pubDate": "Sun, 15 Mar 2026 09:01:09 GMT",
+      "pubDate": "Sun, 15 Mar 2026 09:00:00 GMT",
       "description": "The 9 places listed as possible exposure spots for measles case in Southeast Michigan ClickOnDetroit | WDIV Local 4",
       "source": "news.google.com",
       "sourceType": "news",
@@ -286,6 +322,15 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjZkbi1sY0xxcDdqYWtPYjZPYVhHdWV0MUQ4dnRaTkYyMVphQVM5ano5b25hZWZLNkNtdmVuX2NtZHhpY3oyN2VGREFkek9UVmNTbzVJcjNCRWkza04yamx0RDFlTmpROXJmTmdad1VTRnVUM1J2OHVvcGc5N2dLc3pwQ2dDbkFSeEZZ?oc=5",
       "pubDate": "Sat, 14 Mar 2026 22:28:00 GMT",
       "description": "Should you get a second dose of the measles vaccine? How you can find out WXII",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles case confirmed in DeKalb County, officials warn of possible exposure at Walmart and US Post Office - ABC7 Chicago",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPblc1TExLR3lURmZoeXNGcU1QbU5nSkFDNmROZWNVVzVRNWRfMVRsbGoydC1hTG1OdklscEhOSk5tMGJBODNHTkktMkF4aGk0alhhenZLVG42ZFR1NlBhTENqbzU5TFB2eExBUUZRRzNLZGRkQ1VSc01CekpVZFZGd1I2ekpSMTl0aVNDYjM3dEl6X1dOZWlPdWtMTzBoWHhYWDBaWXl6NjlTc1lDSDFrTEctN1ZyMWQySnRTdGt3eWlBTG1idXFyelM5RdIB0AFBVV95cUxQS1RMRzV0T1pVcmhMU3FCNDNKUWtkNm9rODF0NGFRVE8wR1Rld0Iwa0RKc08zNnlacVRKejJoNDdCMVlSM1dYX2dHbXlJci1EazFBenU5RXp2bmFKYjl3eFZ2aW9GR2tPS09uTmpZUUlzdkdoUUtUamhEZXN4QlA4YTduV0tVSGJKU2tmUzZKUjV5bGZWM0tvRkRaSnJkMWZpWThQVmxsMHZhcTExRFlqSEtMNWRSMXdMaUhROXZVbWRKdEk5QUZXeFF4Tzg0Sngw?oc=5",
+      "pubDate": "Sat, 14 Mar 2026 13:03:48 GMT",
+      "description": "Measles case confirmed in DeKalb County, officials warn of possible exposure at Walmart and US Post Office ABC7 Chicago",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -363,15 +408,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "5 new measles cases in Upstate since last week, bringing total to 996 - WYFF News 4",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmlFb1ZFTjBzLWppaERyTzBnT0NVbE5wdjZMZUZMcUJCVjlNSlNoWFV2Y1B3M055V1c1VHpTQU1xV3NIbDVyZ1duNGxrYWZXTFk4Ujlwd3ltR25JNkowb3NoZjhyWGhoYXlGdTVYOHFidXV4YjA1eTVLaEdBMEZ3Yi1kVGU2ZDRLRDFVYmNHcw?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 21:56:00 GMT",
-      "description": "5 new measles cases in Upstate since last week, bringing total to 996 WYFF News 4",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Most South Carolina measles cases involve children; total nears 1,000 - WCIV",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZm5rTzJyS09wYU9EeDdtaWticjgtMUlDenc1QnlkdTFkUnc3Vkc3OGVBOF9nT2xPRlJCNEJjQzBPY1V3dGxjcG9BcmIxVXoxTlpseURhZWF0N3ozdWE4ME5sLXdwbDR2eS1TMmVSREZEdUdlVFFaSVpqakZUa3ZZQW1lbzl1X054T0ZUSHRJcXV3RkxYbWNXdkp1MzM2TW5wTmYyWmJVNE5ZeUg1R3NfQXRXTV9DVTlvWVR1RXY0cHNibVRnX0xkTUtIUy01eDNfVVY2X0ZWbEkwdllvbzVMaFRGeVRLdU13UGlidWpDTzBtWlNGcUxCQmpSdw?oc=5",
       "pubDate": "Fri, 13 Mar 2026 21:32:54 GMT",
@@ -399,15 +435,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials confirm measles case in Las Vegas convention attendee - KSNV",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHdkbzljU3cxRmlYQW1qWi1uYlhnRlh6ZTZxajRVZjUtaWpMbFpVcnZDcGV1T0ZESk9SWHhmTHcxTDRxRGIzLXBVQmtiWFdDVU5TRFpXNmpuLVYyMjFKQXV2WEpxU1k1TjBaNkZTWjVsR1hMMVBqSWxHZ2g3SXNYN0ZOTWt5cF9NdzBsSC1XNUhRb01wamtjTTNwQ2txY09KaW1lckVxUWVoQTkxRXJhSWFuc01qbHdzSVNHcXR5Vk9RWGFROElhdnpR?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 20:47:36 GMT",
-      "description": "Health officials confirm measles case in Las Vegas convention attendee KSNV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Vaccinated Teen with Autoimmune Disorder Ends Up on Life Support After Contracting Measles - People.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbklscGRZblVaZzYxMGM5WTZoUGVvbm1uelZ1UWtQOFZyb0UyaFQ4N24wV1h5S0FBQmVYclJzNE1VUUxIQkM3ekc3WXpZai1hQ2t6ZWNiaXBnck1YRmRlcHNLZjlRN0hQTFNpeGY5UGZrMXZYaDFuSVVXZV9CRE9vcElRbEZEVzlKUDRXbkpsa2t4eDhwejQ1Nk9VdTA4Zw?oc=5",
       "pubDate": "Fri, 13 Mar 2026 20:44:30 GMT",
@@ -417,10 +444,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases continue nationwide spread as South Carolina outbreak slows, Utah outbreak rises - American Hospital Association",
+      "title": "Measles cases continue nationwide spread as South Carolina outbreak slows, Utah outbreak rises | AHA News - American Hospital Association",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMEtabTdQQ0FpazVLR3oxd2diMTY4cDlpYXZDUG1pMnJfT2xsOHE1bzJWNVZmaldDa2RsS050VllfWnBCRUxwVU8wblUtWVJPbzhIajdqMFlFYlBVOWJVbkFVMC1XdmZuTkJobFR5RTdvQmtQR3FZY3ZLUXkwRFdhY1R0dGJMQUxQcGR6djFkSUZsb1ppLXFnZ3dNUEZ2VVpjMGFrckJTZm9NVXRncTZhY055MWE1aDMtalNTSFliRExzSVdOYnV2aFdXMDdvS1Fa?oc=5",
       "pubDate": "Fri, 13 Mar 2026 20:33:57 GMT",
-      "description": "Measles cases continue nationwide spread as South Carolina outbreak slows, Utah outbreak rises American Hospital Association",
+      "description": "Measles cases continue nationwide spread as South Carolina outbreak slows, Utah outbreak rises | AHA News American Hospital Association",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -484,42 +511,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdlpkMDdsakdWMzh5MTlPMEV5VjgxWUl5M2RYa0pXU05BLWRjUGJjVDFTTVJBeWFTTEhDLUdDZ3VqQ004NE1jcnliR2txYmpxZmM5a1MyZ3hlbW4yZzY1eDk2NnduTmV3UUtFWEpWTnBxUHBWVkFJdEdIYlY4di00UElsUVF1Z9IBmgFBVV95cUxPUlRqc3NJRzNSRFNzQlNYQmp3cUptaXAtYktkTnBxZ3JhQWpXTW1Oc3hkMDlpMHdfRmFTRFNMbkJneDh2VEdDN3FrSDQ1akVFX1IwWEMxa1NSUEptT3Q5WkhsR3V3UjJ3SzFkT0VRbEs0NWhSaGZGTkxuYW1fLVpVZFE3TTRUQUVDNEx1T2xUVzFzWnlfZ0lqLUhn?oc=5",
       "pubDate": "Fri, 13 Mar 2026 17:51:00 GMT",
       "description": "Second suspected measles case reported in Washtenaw County WILX",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "South Carolina wants to avoid a spring break measles outbreak surge, enlists school help during closures - Chalkbeat",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2huTnNKcE9JMVdsamhDc21DbXp1TTl4NjQxTE1zWUtUMUt4WE1vNEZHc04tZ2M3VHVvc3QxRDFDWGNLT3l3bXp0UEU1WjRRVkhuZll2UEt3dXJXLTVuc0U0TGhjQXFCVHpCc0lHeWEtcnVPSnNCUEI4R00xTlVPbUF4VTc1cENrR0ZucHZzMDlsUjVmbG9oQmRJTQ?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 17:23:00 GMT",
-      "description": "South Carolina wants to avoid a spring break measles outbreak surge, enlists school help during closures Chalkbeat",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "South Carolina won’t let guard down yet on historic measles outbreak - Post and Courier",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWVWOE5idjRFTHJxQllLVEVvZ0UxMEwyNVZiY3BfeHl6MEVDZndxN0lYWTRXQzJjYzB5ZVdzdy0xZEFnMVV0QnBUT1BKQ2VZX3E3ZGdBMmI4a09lTHVXZGJJU09EbnozYUtMQzJiSURUMnlQdGZVMnRKcVBfWjY0d1VONGFDdk45WmJaNzFhVjREa1g1b2RacWdiMHBuT2V4elFzbk92SDNBVGlVeUtUUkFrNVZLR24xZ0tSa002cGJ2MW9KRGIzcDVaSlVSRFhheFNtcg?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 17:10:00 GMT",
-      "description": "South Carolina won’t let guard down yet on historic measles outbreak Post and Courier",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "South Carolina reports three new measles cases, outbreak total rises to 996 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdDZ2N2NZTjBUZ09ROFJjWkRhWTRUcHpqaTJSRlJVNnNPZXNCTTZsZUI5bU51dWtPdS1DLXNVdzNmTmZEdDBGcGt6NWExeDZKdlE3dGlvTzgtVzdsUWViRWdfRzBNWTNHbWhMVHRCYnd3cmpRcTVqTnYyYWF5eUZlNVpNNmk4OVlOOUhyOVVxNVZLSWdIOWVRLUR4VXd3Qmx1Y3BvOXpqcmV5Sml3TTVfbnM4UEdmNnYxcnEyQjNxWUdvTFdwV2hmRG5NYXRoY2NZLXF5TUxUT2JjQlk?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 17:07:26 GMT",
-      "description": "South Carolina reports three new measles cases, outbreak total rises to 996 Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "DPH: 30 people remain in quarantine, 3 new cases in Upstate Measles Outbreak - FOX Carolina",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZUZhUXByUjU2U1lXVHZVcWJHTUlrdjVuU0pSbnhGME5RTjUtNG1ZZVVpaEY5SG1mbVc2T2N3R1pYWW1DUGtnWFZfZ0VGcEZKWkRhbGhsWXkyYXBIWU1iSUktVDJmYURkRVZPRTVkVjJ6RzVzUmpMdkNCZ19qRTZ4cmhUY24tMEJCLWk3WjVKdWpZU18tZ2dWeXBobFFCR0JWVEJqSm81VVlFSjlo?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 17:07:00 GMT",
-      "description": "DPH: 30 people remain in quarantine, 3 new cases in Upstate Measles Outbreak FOX Carolina",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
