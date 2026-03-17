@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-17T01:46:22.959Z",
-  "itemCount": 80,
+  "updatedAt": "2026-03-17T03:10:49.357Z",
+  "itemCount": 82,
   "items": [
     {
       "title": "Measles can be Dangerous - WNEG Radio",
@@ -61,6 +61,15 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGdObDVEUWg0MHMtbUVLdkpBOTZGM2hMdzZKLTlweDFDVXN5Qnp5M0xrNXJMVG9JODVmd0hKaE5xWkw2cDNQRHd0OEtMVjJ6Zk10ZlAzU2ZmbWJWR09ZVi02TUNhWlY2dWE5am03TUgxX2E1SWVSVFlLMk1JZ2d3N0gzSmpONm9lWnd0UnpPMmJrekI0VTFXaUFqZFA?oc=5",
       "pubDate": "Mon, 16 Mar 2026 21:17:00 GMT",
       "description": "Walgreens stresses up-to-date vaccines with Measles cases WIFR",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Health Officials Warn of Possible Measles Exposure in Independence - KMCH.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOczZGcEZJYTFidFRyLUV1QU1BLTRHSmtGY3RCTXJ4STFDSW5MWUpzZWthcmlKSGdtZVFPMWhPM19iR1JqM1RDUGstOERzSTBvR19HcXBndnZuelE1OElRNE10Rk1aTVhKTHJPT0h6dndpSnBVX1RvZjZPdmxjTllzOWY3TndheGlaVWc2azM2WHBuMEViVjV1OFpNbw?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 19:44:46 GMT",
+      "description": "Health Officials Warn of Possible Measles Exposure in Independence KMCH.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -147,15 +156,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "After nearly a year, measles outbreak in northeast B.C. shows signs of slowing down - CBC",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRmpvWGtFQ0FRbXFUTkhuT2hmNlJSaWNJaG9iaFVQY2pBZkdnaC1QeVVwbmpEVTBiVTdVYTNfQm1kRzh3Y25wVnVPdFkzdjc1UUhqWkQ4cmdZai02cXFTQnhSV3RZQ04xUUgtdUxiamZjY18wWTAtUjNMYlNEMjdjelJGUnRUMkR2U01RRzc2RjQ5Q25JcGxlWFFiVUZOUQ?oc=5",
-      "pubDate": "Mon, 16 Mar 2026 12:00:00 GMT",
-      "description": "After nearly a year, measles outbreak in northeast B.C. shows signs of slowing down CBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles virus reaches Hawaii again as risks grow - Honolulu Star-Advertiser",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWx3bkpmNUVPaG1aRFJSQXZwcmZxU19wbXZsRHl1ZGlZT3JDd0NURlIyRk50d0JOdE44bFlCaTVvaHpHTmdlWWZsVnpld1JrN2pYa1c3TnlpSldSaFBsY3VsdmhZbnFJYV9DbXEzRlpMdU5nN2pQamNoaFFCTjhYbklRWGREVzJtdnZlU3h0VVd5Z2RlS3J0MThjSXN2TDkyTGQweTdR?oc=5",
       "pubDate": "Mon, 16 Mar 2026 10:07:07 GMT",
@@ -221,7 +221,7 @@
     {
       "title": "The 9 places listed as possible exposure spots for measles case in Southeast Michigan - ClickOnDetroit | WDIV Local 4",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbnF4NTZhYnZzWnlYQzVuSGxHV2pXeUwtekdhVWFmaG9TX19FQnJBVksxY01ieUM1U08zZ3AxaGZ4Mnk3OWdWSkhSdUotTG82YUg1NnViMHo5ZWgxVDBMVVRiMmVQcTMyVEZKWnFrTHV2dV9yLXZWbDg4b2swQmJHWFNRSlc4OFVKZ0J6d3NaY1A0LUYwTEs4UHhmTnE4cERfb0xEb3JHYzlfV3pCcFVIVlJxUzhvV1AwMmVoQnZrbFA3QURXYVlVNzFuYVdQLTlwM3NQazJn?oc=5",
-      "pubDate": "Sun, 15 Mar 2026 09:00:00 GMT",
+      "pubDate": "Sun, 15 Mar 2026 09:01:09 GMT",
       "description": "The 9 places listed as possible exposure spots for measles case in Southeast Michigan ClickOnDetroit | WDIV Local 4",
       "source": "news.google.com",
       "sourceType": "news",
@@ -322,6 +322,15 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSldSVjQ4aWYzakxxaTdlbzFTZm1TRUI0M0pwN19fZHBET0VmbGtGUE0zTS1SQ0tKVFd3OFRRUGZWRURjaUw5Zk1kNzRMa0FSSGZtZHlQQkljR0JJbW1ESjU3UDBPVEY5NXBWRUUtSmV2akJBTzhhTnBnOEZyWFFLOUlDWWpfMjVJOW5oSm9WVTdISUJxNWZEMVA5VWtLV0hELVHSAaoBQVVfeXFMTWN3MERfUjVXTnlRTm5zVEkydVZYMTJCOVhqRUwweUNQTF9FRy0tdFcwYWNtWjRYemdwNjlvSW5NU2dZaXZ3TUloaUpQRy1wVDF1c1psMUxwbHVkT05UUTgtdlN2RktCbFdEMU1QQXNwSlRmZWtrT0RUVndyckpiSWtPN0pqdEh4VGkzMVc0OXNyNzc4VW9IdEI2eVFOVXk1Tzg0SVUtdHpHX2c?oc=5",
       "pubDate": "Sat, 14 Mar 2026 02:14:00 GMT",
       "description": "Expert on what to know about measles vaccine following surge in cases NBC Bay Area",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "California sees rise in measles cases amid vaccination concerns - KSBW",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdENWY2o0bThXUk5DVVBaSkRONWxSa3JPcVQ4eXoxamdOZWJlckYwajAxVmhHdGV2VGtSZE5qTDh1TzB3T0YtbmhfdU9NcTQ4TGRkUlhqLXN6bndoYkVHYjl2ZHFIcVhvVjBWUnpWYVRqOEN3YXlMZFVjUWtBUUNjNGhLbU9GZWdtZFE?oc=5",
+      "pubDate": "Sat, 14 Mar 2026 02:09:00 GMT",
+      "description": "California sees rise in measles cases amid vaccination concerns KSBW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -660,15 +669,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials warn of possible measles exposure at Arvada pub - kdvr.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMmFFblhFNVhNNUNuTXM3RXEzMDE4akhuWjBJalRwaUFFYmV3QTFtNzFLM3FqUENGMU5iUWphQnRDZktjTnZPbGhhblNVaXNqZXhfVTZ1REVabF9PR2duWGVkTkVYNUd2eUthNzdITEJhOUR1N2lFUzJZQ0tvbDVlaWpFR0M3WWNQMGJZSjZRZmZybmdRaTY0aNIBngFBVV95cUxQSlV2cnZ5NXM5MGctcTFuaTdWN0JuamQ0dWczS1AyZ2Q3Q0NGN1d3WU41ZkRCZ1BKVm94UDhfU0lLRHlILW5IYTg3ZzdQZHdPbU9fWnA2azNoSnFwSHpRRjVBY3ZJb1Vqa3BqNVU2Q29GbThVRWstSGsyVkZIYVBTRFl0VTZJLVVYbUE3aHV5VUxGM2k4TVVfSEU2QVpndw?oc=5",
-      "pubDate": "Thu, 12 Mar 2026 19:48:32 GMT",
-      "description": "Health officials warn of possible measles exposure at Arvada pub kdvr.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "2nd Washtenaw County measles case exposed others at mall, gym - Detroit Free Press",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnB6MnhBMDVoY2duTWY2cnRPS1hfOE1RT0RrQlVRYkp5ei1ORHlWSktSX1lqZWNLV3A3VXItVzRicTZUYWlNSWU5dHZmM3d5dV83S0o1UVRLdGJnU2p5NEZsU21WMGtUODdISVVwckE5eU9xLUxfTmQ4N29oWHB0TkE3UFBLczNTTDJmVWVFLWdtSVlVM2tpM0NvcTI5b2kyNHRRSlVKMENlZGtTSVJpMFBB?oc=5",
       "pubDate": "Thu, 12 Mar 2026 19:10:28 GMT",
@@ -678,10 +678,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "DeKalb County Health Department responds to first measles case in 6 years - WIFR",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qZ191bTV2U3pxMW42UEJrSG8yTF94OXl5ejlDZjY4eERNMUJxRFBuV3p6bm1uZVhsMWJkWlJhLWlqNG9hdlFCRFd0eWp1QzBaeTc0SlhTZkZ6dU5BY2FVMU8yVWdsekZ2U3pUX1U0WnBjZjBmeXZZUXJB0gGOAUFVX3lxTE5rUUNxNUJ3YWlJalRWQjAtcDFzNUlqVzA3clVFZ2dTN091bXktT1NVd3NodVkzaGVtbmhMVWRuSFBCLW90ZXh4VEstYTlRenRmUlN5UElWMWExaGlyY3RRZ1UwaDJsQm5XMXU4U3hGM000bDA5UWJZZDNlaFF6SVFDbFZPaWg1MnBfZEVFN3c?oc=5",
+      "pubDate": "Thu, 12 Mar 2026 17:40:00 GMT",
+      "description": "DeKalb County Health Department responds to first measles case in 6 years WIFR",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "We study pandemics, and the resurgence of measles is a grim sign of what’s coming - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHpjT1dDQkpua1NiNVBsMThWNTdpUWZFWmxqd04taVVIR19hVC1xTHVEcFJGeklkaHFDTjdRQ0VvY1lBQUgweFhCXzBGRjhjYWlUb2hEUnBkRXplM25qWXEzZUtDZnBSTVdsYktjVUNJZEtWclRUTllkWWo0bXZydVVIc2U0bVdLMmhDd1lIRUxfb3h4M04zZHNJcTRXT0ZzVE9pYkN1S3RKZGJLWHVlVlNjVl8?oc=5",
       "pubDate": "Thu, 12 Mar 2026 12:27:54 GMT",
       "description": "We study pandemics, and the resurgence of measles is a grim sign of what’s coming The Conversation",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "'Perfect storm:' Measles outbreak hits Broomfield and spreads fast after unvaccinated, infected teens attended two schools and roamed throughout Denver's suburbs - UCHealth",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwVi15UDd6MFNHT0ZEMTlucl90ODFnUnBMTTFxNTAtekFlSXk2aHRnc1pyelQ1clFKekZjRTFjVktVaTc4LU1PRnFUNE53TURsSFhxaW9ORXR5SkdGd3R6Y0NObE5MZ3VzVUd1N2xwc0pfd1hLbWN3X214Tk8?oc=5",
+      "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "description": "'Perfect storm:' Measles outbreak hits Broomfield and spreads fast after unvaccinated, infected teens attended two schools and roamed throughout Denver's suburbs UCHealth",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
