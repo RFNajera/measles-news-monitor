@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-03-18T19:29:36.555Z",
-  "itemCount": 71,
+  "updatedAt": "2026-03-18T20:24:40.278Z",
+  "itemCount": 72,
   "items": [
+    {
+      "title": "Quick takes: More meningitis at University of Kent, Texas measles outbreaks, dengue in Samoa - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMWtFZ1lhbWVXZDdJV0pTS0RqaGpJTnZVTjJRWFR4NnpEX3JLTWNWakdON2w1eXRabkplTGI3SUJWclRZVm9QSlI3X2F3b01CQ3pOcHAtVTRoc2FsbVc0a1M5UFpqRW9iVnpWcFdhY1RPZkMtdFFxcFl6RE0zeWJEZHFzMmRaajZCdm1vS2VaUHpFZkhYX0VGcEpKZ0hRb0pNY25icFNMaHVFWEloUzQ5THI1bElDaXd2UEE?oc=5",
+      "pubDate": "Wed, 18 Mar 2026 20:16:00 GMT",
+      "description": "Quick takes: More meningitis at University of Kent, Texas measles outbreaks, dengue in Samoa CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Federal report commends NM health officials on measles outreach, vaccine efforts in 2025 outbreak - Source New Mexico",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUE9zdEhDTFVsWXlPMG9YaTIxdF9feWhlLTRBdDRCSkw3Q1F2TEcyUnhlMUtKOUtfX0YxbHkxb21wYlVMendTLVNmQlEtUkpCZUFTa2VYcXlISjRleEJudzVTTV9seW5GSG1jU1VJWFNneU1tUUZISXg2SWhYS2U2dGVibGNXdk5VdWNkZ2hvM1o5NVhvdmJiZlk1UVlmZ1BxVllkX282dHE3YVhSZGpRc2VBZTVlVzJzLWdXZlR4XzRCRllkWTI2T1UwMDlQbFMxYnJF?oc=5",
@@ -228,15 +237,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "SC measles cases nudging the 1,000 mark - WLTX",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWVFfaTE2MGlsdGgyWWJHZFhUdjYzUDZ0TlQ4UVBXYXNRZmdrcUI3V2JzLXM1MzhwWENoVGo5Mm9UVFpTRkpXaGNqRlRIbzN6R0xTYWI0NUI2azhKMktxYTY5dmQzQXBzRGRDNU45UWxoQkw0QUsxVVE3WUt6ZWN2d3BSODVaYnNUTWlCM2JhMkRoR3hKQmE2eXp6UVE2SWRTVDJ2MVNVOVRnamdvdVoyb0xmQVQ1UFVo?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 22:11:00 GMT",
-      "description": "SC measles cases nudging the 1,000 mark WLTX",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles outbreak surveillance confirms utility of wastewater-based epidemiology for monitoring infectious disease surges - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazZtWFdHY04yZkIzZWc3cFBfQklqWEs0WE1BNTZyTW9US2NvclY2T1NpdkRiUHhKazcxYkdXNVhESjV6V1lNaDd6R2tmaEdtNlhlOEw3TGFVZWR0V2ItVWZ0WWhoZFotbjZpcVhtdGVmODBCUUtrenNTaElSdGJySnp0U1NVc3FVVXRFZzlIUFlpOHdv?oc=5",
       "pubDate": "Tue, 17 Mar 2026 21:40:03 GMT",
@@ -426,6 +426,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Why the MMR Vaccine Still Matters - European Medical Journal",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOalBLMG0zRW40OWJwdGJvSTlrdDJLUzF2VWpPZExxellMc2FoQmIyM2JYUE16aFZKVW5NUU9GeUVRMjZVNEhYV0NTTUx0bjcxR241MHFhZDZncVp1UFpJZGJpcElwV0lfbU93QVEtREZBV1ppX2s4WkduWk1tYzhIMlFlVjc4OFliZHN1LWJYT1JzMkJieE5JakR4NjhuYTZG?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 09:16:11 GMT",
+      "description": "Why the MMR Vaccine Still Matters European Medical Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Chatham County Board of Health Urges Routine Vaccinations With Measles Cases on the Rise - Chapelboro.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTUQ5U1dvZ05BdUdRYkl6V0JrNWVLd2NOZ3Y3dG5kOWVaQUVNZkdNclBIWUt1UG1udjc2M1Y1NVBxVkMzOF81bjZhSURZVUkyWG1XdWpLbjBQVkFDeUc5OVNCTnFJWkZ2OTdJS21OMk5tZlF0MkhQem45eHYyMVQ3Y0t5M3FUa0lVaVEyU3RFQk5wSVhTNnBudlAwYzM4a1U1MnpBUldIamRtMGZ3eWJjd0dybWx4ZklFVHZ1aWhjTGY?oc=5",
       "pubDate": "Tue, 17 Mar 2026 09:04:25 GMT",
@@ -462,10 +471,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Partial government shutdown impacts, measles case and NBA expansion talk - KNPR",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRV84N3NoQk9QbzF6TVZmdGltTW1iaWp2SFB0bnFfX01ka01YZzBQRUNFWXVrNUpwWXVQbUwxeWs5RURZRXNMc1ZlT1B2YlI2UklUd2htanNuVTRaVU91dDVvNDlRM3JOdkRqblVkcDlNWGw1cU5YN0tENGJUNWJaX2E1aTd3UFJPekt3ZEs2MDd2QkpOQ2NXZmEtSE5nUjlJdU4tQkFwNUliamY3a2h3U3pyVQ?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 19:14:00 GMT",
+      "description": "Partial government shutdown impacts, measles case and NBA expansion talk KNPR",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Florida's West Coast's Measles Outbreak Continues - Vax-Before-Travel",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzhEWU5DN0JSdnloU3pJcVpuUllkamJXTGdRMzdvSVZ2dm5YYVJfaV9Qbnk5SnVZb0Z5OWhtX3dYY3IwQmpndGxOcEJtdWVySUFSdWx5T2Q4MjE4b0ZlOGx0d3FTdUxIbFRnUjQ5S0gxMzBlc1NuOGszZ2x5NzVYdHJrMmw0dTNwWUtXc3pfRUFQZW1kZzNB?oc=5",
       "pubDate": "Mon, 16 Mar 2026 14:36:15 GMT",
       "description": "Florida's West Coast's Measles Outbreak Continues Vax-Before-Travel",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles And Spring Break Travel, Indy Airport Expects Near Record Travellers, Judge Retention, New Drone Law, Purdue Men’s Basketball Are Big Ten Champs, Indy Book Crawl - WFYI",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNd1JhbmVFYXlJY0RUS2M1NWxjaGZhSlg2bE55Yy0wcUg5YVB5ai1wTlN6OGl0VGUtdk10WEdLYzFtVEhicEdMQzNtVHlfaEFIMHpPMnlZdmV0cEJuUUdXank3dTdoX0lGenF5TVdRWGpXQTcwNE5VZlo4ODZVd3BGTk1xUDdyeTlJU2lKakZxbko2bmdXbHNMUGJSNEdLSm9TOW1rQnVWUHZIYlc3WjB4YlJweTM5M1FlMWxsbUlfcHVyWS1Gbkt1U2E1V3ZJVTZ2eGF3ZVpiOUo4OFNBd1NvT1hwSnNEc0FIZVU3VVdNbEZFdEd1dkJTc2hPbDV0YkdsV3Y4d3pNeHBpLXlrR0RLWU02NkRjTVJDcWszclJvNDlwRFA4aGdrZDZVcGMtQ01ubXJFal9TUG4?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 14:29:14 GMT",
+      "description": "Measles And Spring Break Travel, Indy Airport Expects Near Record Travellers, Judge Retention, New Drone Law, Purdue Men’s Basketball Are Big Ten Champs, Indy Book Crawl WFYI",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -588,24 +615,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Public health officials confirm measles case in Las Vegas visitor who attended convention - KLAS 8 News Now",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQck9oMUVKMHItWG43MVVFMlY1NEo3NXRBSlp4TEw3NS1HN3l6QlIzTVFFVWlBcFlWdzBsSVpYNERDMjY0cjZCdzk5TTAwanF1TlplUDlDeGFJY2FuODExLUxWU3Vtem85Z2tNd1dxcWhGeVdqY1FONmkzaHZYNHlHUG1URnZCQklSaEdUcFNMUHl0MXFEQUZhTVNlaXhSczduR0Rybk1LRzBhVmVwMi1yMG9iblRQaHltaDdHaXJhZTByLS1Gdk00c3ExQdIB0AFBVV95cUxPX2pLRG50TER5LWE5OW1CSG1VSmpPUXhQSUluSXdlZ3BoaV9rdWFYUWlTd0Q0TlRxWElkek9uWko1LXhweDZDeEJ5ZThNUFA1WGl0TjBQbWVpNmhNNFVsUno5MGIxOWw0ZzA1RTBiSVExSEhJUGNvY2JnbHJxMXBxN2s3bXFlWDZnYnYxY0xUYjI1RHRieVNzd25OUGZ1R05LZTV6bWpEbXFfYjFkRjNGWHJtLWMybGt2ZFdsODljTGFpanl4RGdUTTVFTXlSeWtR?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 21:01:23 GMT",
-      "description": "Public health officials confirm measles case in Las Vegas visitor who attended convention KLAS 8 News Now",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Utah measles outbreak speeds up but there are few changes to daily life - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOai1IUm52aXp4Ti1qMjRQVlFZN2FKQTJRSmtibEdoSzNpVEprZk5QU1BPQzc0Z1dTdEwwSkM3NlJTeVZlUXFzQzg1M3RiNm54cml5bGhycnkxTUVUZV9qaUhoU1U3UW5tdXdwTkxXMUNUbHJHczRESUpuTVZVcjB6YnZ1aGtOVTF0clpiVGdCcXFQbG5za1duOGcxeFRhSE8ySlhN?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 20:28:02 GMT",
-      "description": "Utah measles outbreak speeds up but there are few changes to daily life NBC News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Loveland Aquarium, gymnastics meet among sites of recent measles exposures - FOX 13 News Utah",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQenNRZHJ5b3RHbkRuaU8tZDlrMlptU0xhM1dDdEZjdTFxdHlOMlpSTUk1eU1oQkZpbVNuem1WZWo2Z0JVWnVWNUFqYkFRRmVEOXZrdzd4R1VkcnJVNGZqZC1TNzJnUVI3MlZ1dTJZWWlSZ0xzcHJjeDRFMHlCWV9valNYalZxMnh2S3J1azRlVXM2Tmd1T1ZEMjROSy1pYnhuSDJPYUZ6b3BDSWhLbWtWMWNKQmo?oc=5",
       "pubDate": "Fri, 13 Mar 2026 17:01:07 GMT",
@@ -624,19 +633,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "City of Lynchburg Encourages Residents to Follow VDH Guidance Following Potential Measles Exposure - City of Lynchburg (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4waDQwdkNzX3RnTnZDaXJsTkhPT19iN3ZpWDFaNk9ROHZmb3l0V1RVUV9GV2Uwb2RycWN0UVJFeFR5WGdvM2pYRmltRmhvWU82UllJdk9xU05hTnlh?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 09:22:47 GMT",
-      "description": "City of Lynchburg Encourages Residents to Follow VDH Guidance Following Potential Measles Exposure City of Lynchburg (.gov)",
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
+      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
-      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
+      "title": "Measles outbreaks slow in South Carolina, Arizona, but Utah sees cases skyrocket past 400 - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaHBuaGM5bnBraS01WlBmMEwzbGpmOURkSngzaWd3VU9iSF8wZmpCSE1iaW5wU3hxNzBnMHBfMWtNSEt1cWtkOEc0ZmJpZFlPYmJkbm9qdDZjdUR5Z2toWEdPMVFRY3piRXpPazRFWXNKaDFldW1TMV8xMXlSREw3THFUWTM2bjJSRk8wZ1ZkSzRNOWZSWUQ5MUV5c21FRWdQSzFXampHdDJxenBwNVY2VnFGajRTUQ?oc=5",
+      "pubDate": "Wed, 11 Mar 2026 20:58:50 GMT",
+      "description": "Measles outbreaks slow in South Carolina, Arizona, but Utah sees cases skyrocket past 400 CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
