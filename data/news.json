@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-19T11:22:55.552Z",
-  "itemCount": 77,
+  "updatedAt": "2026-03-19T12:26:49.245Z",
+  "itemCount": 80,
   "items": [
     {
       "title": "Strengthening Malawi’s Measles & Rubella Surveillance—Kamuzu Central Hospital Laboratory Achieves Full WHO Accreditation (2025–2026) - WHO | Regional Office for Africa",
@@ -102,10 +102,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles confirmed in Weld County resident, possible exposure at northern Colorado hospital - Greeley Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQkE0UFRMOHh1dU9oTHpsN2VmNXNCN3VHWFREQnY3R05waEpoa0NLQ09QbzR4OUc5d1FSTWo0THhHaHRfR2FiU2tvWFdrOEJtOENhcUl0MS03bnRTbGRPdFVMS1l2UVhWbS1uZ2ZVMFdlbEZGU3k5VVJucF8xNENLemUyLWVzczVqUUE?oc=5",
-      "pubDate": "Thu, 19 Mar 2026 02:15:06 GMT",
-      "description": "Measles confirmed in Weld County resident, possible exposure at northern Colorado hospital Greeley Tribune",
+      "title": "Measles confirmed in Weld County resident, possible exposure at northern Colorado hospital - The Denver Post",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmN2cVlEaVYycnlCX2lpODRHdVNwdGZ1OERBZ2QzNUlfaEFFbFRKS094SDRaUldmRWxlQ201MUlaUmVJVF82NnAyOVYwUVVEbXNIU0EwYnZkaWRQSWhlOTNiQVhoRVdhZUpHT0NOeDFZaV9PZjhVcl9hSWx6cEYyYzEtVmU?oc=5",
+      "pubDate": "Thu, 19 Mar 2026 02:13:36 GMT",
+      "description": "Measles confirmed in Weld County resident, possible exposure at northern Colorado hospital The Denver Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -606,10 +606,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "What to know about measles in Washtenaw County - The Eastern Echo",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS2FDMGEwX3hxTHFZQTFlWFRma1M5b3NWMzBBLTlDejhrZTZmdURiaXJybHdzOVhNUjZsd1dyTzhNb05hZ3Z5ZjhWSTA2cG1jSU5ndnB2X29uSEpEWFpJakxhTkRmcFgySDFMVW9aWTVvYnFpOGVHNWRpOFBHdTNIMVFOc05jNWFPWGptSFpTajlJREFp?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 12:05:01 GMT",
+      "description": "What to know about measles in Washtenaw County The Eastern Echo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles outbreak surges in North Dakota, putting immunocompromised in danger - MPR News",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObXQ1Wk9NcVM0Y3B5NGo0blpiRmptRzF2TFpKQWlMNlhRQ2JKWDhZX1dOMzliSTEwZ2lGY3h6bkpXY0dJeEJRZVB3eWtkMTdzOVBmYXhpQ3lDSG5NbUpSUWpaOWNUamhuMGFzRjA2Rms5WXJTd2hFYk9Eb0FMM1gxOHAwWGYycFlUMjIwTVRVeTM0LUhmSGhRQ3Z5M1BFdjk4S0l3OURjelNIVmIzV1BvZUlsbGhiV0E?oc=5",
       "pubDate": "Mon, 16 Mar 2026 09:00:00 GMT",
       "description": "Measles outbreak surges in North Dakota, putting immunocompromised in danger MPR News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "'Perfect storm:' Measles outbreak hits Broomfield and spreads fast after unvaccinated, infected teens attended two schools and roamed throughout Denver's suburbs - UCHealth",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwVi15UDd6MFNHT0ZEMTlucl90ODFnUnBMTTFxNTAtekFlSXk2aHRnc1pyelQ1clFKekZjRTFjVktVaTc4LU1PRnFUNE53TURsSFhxaW9ORXR5SkdGd3R6Y0NObE5MZ3VzVUd1N2xwc0pfd1hLbWN3X214Tk8?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "description": "'Perfect storm:' Measles outbreak hits Broomfield and spreads fast after unvaccinated, infected teens attended two schools and roamed throughout Denver's suburbs UCHealth",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -628,6 +646,15 @@
       "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQYTc1S3F4R1dHZkdXSFdXRzRDMms3WmhzSTBfVThfd2lmZGpxa3JBcHZSTFhjT0ZJVzRiZFFCdGNUcUtpY3YtTXowc3B0VWtzaERWZHFDMlhsV0wxVzFUdlktOGZ3eW1VaHFWSXNwQllDRng2Nm9EY2tLUVpDZXNIaDJNWVgtSExhV2dkdHlwZFF3VVl2eUNNUDhtckxxeC1JV2liTkl0RUtNVVBxQk1fVFFXZ0sxaFUxS3pkdWhudUk0RFJZRnRGRERHTzFEaFJJZmVVZEM3NVI2ZFR0N2xmUF9XdEtkUkFPdEprWlNJbG5XaldlZlE1eF9oazFFMWFoYk0wY1l1UXE0OGpBM0R2UF9IcU9QcnJ1ZlZPbXlPZw?oc=5",
       "pubDate": "Sun, 15 Mar 2026 15:13:23 GMT",
       "description": "Second suspected 2026 measles case in Michigan likely due to exposure from the first WWMT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles' resurgence in the US is a grim sign of what's coming - Live Science",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZC1jOVRxZjdUQlF3bHNxeW5BVGp4QVFQaktkVC1WRm5JZFJ3WHlJbTI3cEpzZmh5MVdXaG9GWGsyYWF6TlRnLXpOSkJTLVVHLU1sOXhfd1JiSmxkTU9UNlV0QkdUVndPRVBZUDVxdEhjbDEzNjlJY0U4ZWJlM0tvbGVTckJhQUtHd2JxQlN1Q1dYSGJ1OXhNUFhoWXp5bWFORU82RWIwWW5GaERqSWhFX01rbUJJcFVwYkI5TDZR?oc=5",
+      "pubDate": "Sun, 15 Mar 2026 14:00:00 GMT",
+      "description": "Measles' resurgence in the US is a grim sign of what's coming Live Science",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
