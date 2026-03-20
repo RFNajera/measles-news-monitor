@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-20T09:24:05.941Z",
-  "itemCount": 94,
+  "updatedAt": "2026-03-20T10:22:13.260Z",
+  "itemCount": 93,
   "items": [
     {
       "title": "Opinion | Our Hospitals Are Unprepared for the Return of Kids With Measles - The New York Times",
@@ -34,6 +34,15 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbDk0YkhubGhKZ3BpbUxFMTY3R0JYZVVCM3d4YXpkS2Z3ZmxON3hIVXNwaVRXd2ZqZTMzVWdGN3JoMGpjTlhRSEFxcnQ0V2JTQzlmbFcxX3BGdjdabTBmVUVIeDdENUttcWk5MlBGaTI0ZU94Y2NJekJEWkRjN1gtNWstdkFPS0Jrdy1mN0l1UU9uLXJuUWozZFdsSElEZw?oc=5",
       "pubDate": "Fri, 20 Mar 2026 05:02:58 GMT",
       "description": "Measles diagnosed in Kootenai County resident who spent time in Sacred Heart emergency room The Spokesman-Review",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Dr. Roach: Determining whether the MMR vaccine is necessary to get now - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZWs5QW9fNXZiMkJ1Z0dEYnhSQ25kV0JqOXRlOUFIMklSb19Ld25SV3BCcFl6bURnVE82bDZYOVFwVjNqLUdDRzd2SlVzWmItQ21QNU5CUU5KMWRWcnEwZmhVWXVQMTUwVGpLTkl6LU9NTHotand0elF4OHlUVWpMYXUybGE5R1k0SlExN3lTOXpGbkR6TE80dzRZMGpZNFVQMWVqem51ajFZZFFqNUphWEVLUUNXazNqdGJtcEp3S2M1TWlocGNBTXNkaHpqNUhtelNMdQ?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 05:00:00 GMT",
+      "description": "Dr. Roach: Determining whether the MMR vaccine is necessary to get now The Detroit News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -79,15 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNVWFJVzVpVW1GVUN2NE5QSmM0eVFyV2ZaT3JiV1k1cjlaUFpGdzcyblZHTER0bHJkSWk5OTUxODQwQXhmMjVBbFg0RjhCRTNTREtYQzF3VnRRa19KakJEbHRXem11cHRWOU04amNSNWxQdzA?oc=5",
       "pubDate": "Fri, 20 Mar 2026 04:22:00 GMT",
       "description": "NM measles cases rise to 13 KOAT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Dr. Roach: Determining whether the MMR vaccine is necessary to get now - The Detroit News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZWs5QW9fNXZiMkJ1Z0dEYnhSQ25kV0JqOXRlOUFIMklSb19Ld25SV3BCcFl6bURnVE82bDZYOVFwVjNqLUdDRzd2SlVzWmItQ21QNU5CUU5KMWRWcnEwZmhVWXVQMTUwVGpLTkl6LU9NTHotand0elF4OHlUVWpMYXUybGE5R1k0SlExN3lTOXpGbkR6TE80dzRZMGpZNFVQMWVqem51ajFZZFFqNUphWEVLUUNXazNqdGJtcEp3S2M1TWlocGNBTXNkaHpqNUhtelNMdQ?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 04:15:47 GMT",
-      "description": "Dr. Roach: Determining whether the MMR vaccine is necessary to get now The Detroit News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -300,10 +300,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials warn of potential measles exposure at a Westerville CVS - 10TV",
+      "title": "Health officials warn of potential measles exposure at a Westerville CVS - 10tv.com",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSE80a2p3aXEtaC1vREpKTnZpNl9CbkF0aUlZTnY4Vm1wUVJDX1RCanlZZFRaMEtyeEwwX21tX21yZGQ3VzVtdVptaG9VekdiZTE3bnRLXzQ1VmFTUjZCTmY0NGtLa0REX3BLZW5EMkpDS19IOHRYM0pOQk1IRnp0eXhLN2dDYXV0dG9ZQmZHV2JXbzR1T0t6WnBIZExjeERYVFNxcTBiQnozRkJta2w2NGhQc1UzRm4wU1JHZWowQkFHS0lCYUZTekt6S0draTZkTlRRNUE4al9QanNhUHRaWXJhWnFkejRr?oc=5",
       "pubDate": "Thu, 19 Mar 2026 22:44:00 GMT",
-      "description": "Health officials warn of potential measles exposure at a Westerville CVS 10TV",
+      "description": "Health officials warn of potential measles exposure at a Westerville CVS 10tv.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -471,10 +471,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Guilford County health officials warn of measles exposure - WUNC",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmxCVVIxX1A1NkcyNVFpNU1LRVhlZnU1cDdWSGo1TDVSalB1alVMUnFXMk82WTNIa2IxMVFlVVVjSnFfdHVBZ19Vbk10ZFFmMHk0elNwU3NVdzAyaEFSNkdITWhlb0lCaS1GdlJMVVRNYmZYUHR5VFNWX0pGTXFOOHBLUFk0NkFRdEtxbVVWeXJTSDQ?oc=5",
+      "title": "Guilford County health officials warn of measles exposure - WFDD",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlBuV0JXckZpX1FwZHFDbHljbHJpUmNOOVRwX0x3WVlEZlB3WG5iRjQ1UlJzZW9NWVFsUkVDeDIzeGx2ekJaN2hNb1dEazRBaGhPSHlLQUZTQVpoSjAxWkx2UTNRZldyOGcxZUNHdmNnZE9KQnZsV3YzTjJ2MDVrb0MxNjBLYndXQWJlY2t6LTVNR0ZyemVzSkgyaFFJcGxDQndNbk1B?oc=5",
       "pubDate": "Thu, 19 Mar 2026 20:08:00 GMT",
-      "description": "Guilford County health officials warn of measles exposure WUNC",
+      "description": "Guilford County health officials warn of measles exposure WFDD",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -482,7 +482,7 @@
     {
       "title": "Measles outbreak reported in Washtenaw County after 3 linked cases detected, officials say - CBS News",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlRud25tN1c0anU0bTRPX2N1ZjJtTHkyeXpnNkZKN3YxTWswejFrYjlsOHh4MHgyb2syc3JQZEcyeVVQS2NjYkVfMTBOWlMtR0JRc0txeEJwYWtoZXU3SnU0VjJjTWg5QUVlRVBNeWVVblNmU3dpd3FDR0oyZ3JPZ3BTWlU?oc=5",
-      "pubDate": "Thu, 19 Mar 2026 19:53:36 GMT",
+      "pubDate": "Thu, 19 Mar 2026 19:53:00 GMT",
       "description": "Measles outbreak reported in Washtenaw County after 3 linked cases detected, officials say CBS News",
       "source": "news.google.com",
       "sourceType": "news",
@@ -525,15 +525,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles exposure reported at Moore County golf course, officials say - CBS17.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEVCNkg0T2RUbm5VWFRHZXZ2XzBYeU1pM2FxdkxubGRTUWhmMEljVlZabzcyZl9QZVVPLVhMZlFlUkw0Wk9QaU5palhieHgzVjA0OG5UUU1QaHMzekJsOXdPMy1HbzN2Y3hrYzJvNHFLOWZJOV80Ry14WVNsN3hNNEhfdi1iTUp1WGV6UnlfU0pTS2JGZjRqcTNyajI1STZoeE9BQndFQWI5QdIBrwFBVV95cUxPdi1XUVp2bDZrb3pLZ0p1b1RtX0xQSkRkdzU1eUNfM2FXUjZrb3dpOXRPSnFnSDdtc29zYXF5aWJvWkR1V3JNRWVPSVZUSDJER0c5cWNvX2haMUFNeE0wWFI0RU5HTzNYTFZPX0VvVzRxYWthMG04MkFNS1VGOEpnX1Z6NDNCbjIyOHhzaFJ6WVdfUDNtaDlMSkhwUzlkTHZMc1pXanlxQjVERTlLRHJ3?oc=5",
-      "pubDate": "Thu, 19 Mar 2026 19:13:05 GMT",
-      "description": "Measles exposure reported at Moore County golf course, officials say CBS17.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Local health officials urge measles vaccination before spring travel - MLive.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmg5NjJBcV9MN05ZMlBtSU5CN2ZjZHQ0S1JyaWRZdHJpV3l0TzhXZm52XzlBdzlIWWtxZXdSR2ZxWmNSbTVfYTljOEUxRTBlWlN1OUJ0MENqZHJ2OEw2T0xyR1B5ckdWY21LQ1lkdm1kc29wVTllNS1oblBlczIwQ3FmV1p0TTZEeG5VN2p1emc0VTFURXRyQTBBTFd4WnBXTERBSlJMVWFEWWs2X1ZqRThzdVNxVk1CNXdIZ1ZpUy1neHfSAdcBQVVfeXFMUE52ZVdPdV9ndGJtbEt5WWRvbk1TWC1Jckk2OW1XTjZHSEZGVWpocXlmc2lUZVpTd2Fub0RIMGl2eTVqaVR1R3hDcmQwemxYUW94OUpMRG5JeFZTLWc3cmZLU0J0N3Fyc2dmcmtiQWlzU0FPSXZWRjRJT3p2UjNzSXUtWnVfdUpIekY0UDd5QXBfcG84MXVPMDUxM2tzN190MVRoMng3cDVOZkZDNDltSHRUR1ZyTkpJeWoxaV9teTVRY1VJb1JlZTFHNTk3bVEzTGtIOU0tTnM?oc=5",
       "pubDate": "Thu, 19 Mar 2026 19:11:00 GMT",
@@ -547,24 +538,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb09lYkJlZDlablVvYjUtNjRIRjdWbG5fVTVWNERXSWwzUG1jWmJuOHdBZ2JPQ3lOUzFMTXJTQWtHZ3hzSkZVRXU4VWNlcXlDX29na3VrbXNlckVxR1JFWWgzWlZ0aE91Y1MwTVlzbmQ2U2ZQNHhBeVhGNkFOZTg5emxyendOUzJka2pTMFJ5RmtfaFU?oc=5",
       "pubDate": "Thu, 19 Mar 2026 18:07:00 GMT",
       "description": "Seven new measles cases reported in Collier County WGCU",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles today, polio tomorrow? - The Star-Herald • Kosciusko, Mississippi",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82emNjNkdxbU5RQjNqb2xGT2lmSU1DVGVHR2xVc2NMWlFhbW1KMmRjTC1hNXlDVEh3ek95NWY2Um5meXFZaEl0NV9EbFg2QnNOZzN5d3ZDMEJtQmJhdlhaQjZJQUdoTXd5VHNsRFNOWDVLMllfU1ZoZg?oc=5",
-      "pubDate": "Thu, 19 Mar 2026 17:36:51 GMT",
-      "description": "Measles today, polio tomorrow? The Star-Herald • Kosciusko, Mississippi",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "'Measles alert' in the Piedmont Triad | What we know - WXII",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQmV4dEJBa0lsaGhHcWdvZ2ZIaFlUYXVtNnluRlAtdko2bEd4OERIZThhUFBiOEkwS3BnRTlFZlVOcFliMm4wcFMwNDQxOEhaWXRveURiUENSNEgxbUhJMkdfeElhVGZPb1h2WDZyUUdTOWF1T0tHNDRvcm5aZ09kZmlXR1FWc19uV3hoTElnSWhrcVRiNEVkNzBxV0pWdFE?oc=5",
-      "pubDate": "Thu, 19 Mar 2026 17:32:00 GMT",
-      "description": "'Measles alert' in the Piedmont Triad | What we know WXII",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -669,15 +642,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "New measles case reported in Weld County unrelated to Broomfield outbreak - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmxDeXB3ODhzSGZvYzRrbmhnemtfelpLM3BYdE1mMGc4QU9WcnlVWXlzX0tSdDJ1ODRMOElkalRkdW1LVEtiZ2FXbjVkUk1yNUJBUHE4YUt5RDgzWWNpMG1iLWNuUEFMSURDUFN5QUpNYVR0TjJuWXJuUlhNbURLQWpjMXNvVV9jT3FTX0NOQU52Z1JKWHVLWWNBeXpRb08wdkNJY1lFSmZzVWtXWGNOYXJUdw?oc=5",
-      "pubDate": "Thu, 19 Mar 2026 12:59:00 GMT",
-      "description": "New measles case reported in Weld County unrelated to Broomfield outbreak CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Spring break 2026: Busy travel season risks spreading measles amid rising U.S. cases - Healthbeat",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMExjZXhabzZFQjlfWUVpaWtmV1Q1TThGdHNOREhHWE5qZEFkbVlSU1I4bUVFc0x0T3h2YlRTUlhRUHpsUFBSTFBuVXdQbnZvR2ZTMVJaQWNzQjA3aWRaUmtpQ0h3ME1jc1hrMk1sSm1VRk5LaGMzX3lwajF0bzg5UEhZUkU3dlg4aGtrVQ?oc=5",
       "pubDate": "Thu, 19 Mar 2026 09:00:00 GMT",
@@ -741,6 +705,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Two confirmed measles cases reported in Grant County children - KXLY.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRUN6eFZ2aGR2SVRVWVFfMnROUGtrOVU2NnBQb0R4VlozMTUzcW1jZjZOT3BJTWVXWUltZl9mR0x3elBPR0RpUXRFc2ZQSGktbzdXWndIcXpnNFlTMjVTVVFSNGdjMHBKcHBEU3NrTVJWXzZGdHQzVHNVLUFyanptVngySUlFWGNxN3lPblVMdTlZeVlQSk1IUXB0dGVRd3dNbGQwRnI0VDIwQ3kwY29fOGRidWlwSjZ2ZmdRdWJ6cHhDNnpxRFVlVnNfTEE2YnRvNTlV?oc=5",
+      "pubDate": "Thu, 19 Mar 2026 01:17:46 GMT",
+      "description": "Two confirmed measles cases reported in Grant County children KXLY.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "New measles case reported in Weld County, Colorado’s 12th of the year - The Colorado Sun",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUMHBNRjBmVUtrR0x2bWZ2NUk0Z0pKM3dzT29sNVBRQmE1XzduVFZ2a1laamJ6dVZXUjZSWXBWV2d3VjNYQnpaMHNfblZlWTQwOEJIMzNwZ2ZqTmdEOXF6ODBYbi10OTJyaDhaMk1KcUE1c2RXVm8wbU12NUxuSjQ?oc=5",
       "pubDate": "Thu, 19 Mar 2026 01:13:57 GMT",
@@ -777,6 +750,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "US measles cases creep to over 1,300. We track its spread. - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONGNPTi1tN0dhSTRDR0k0YlFGQ0dobkx6TXpRNllZYTM2T1k4dHhQZk9obzh1R2huUFh0b3hHcmdqaGJiU2tYSmJOeGRiZHVtdU43ZkxWcVNzM0RFelZKcjRDckFzMkhmT3ZHTDg2R294cDlpNVdRZFZjcmpQdEhPOGtQckZWckJZMEtvc2J2YkFyZ2tNSFZzdjdxb0ZkQQ?oc=5",
+      "pubDate": "Wed, 18 Mar 2026 16:41:00 GMT",
+      "description": "US measles cases creep to over 1,300. We track its spread. USA Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "CDC report highlights New Mexico as measles response model - Searchlight New Mexico",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeDVjcWVRZ0laT0lhd0ZneTlYbW5SaHZZWmR6dkJ4V1B4MzZFX3JoZDltcmw5SDNJVENUd2tBM2I0VEtOcHBtMFlzMWQzSEtqcE04N0NrNGFGSlFMSy1NU2FBVFFxenVCNk1sVGJEOHYySWk5S1pNUlNkQ0FiQW1kN1NtZTJrdFVrYjNfSXNR?oc=5",
       "pubDate": "Wed, 18 Mar 2026 15:11:49 GMT",
@@ -790,6 +772,15 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUxpRnVwVmx5NGlOQzBRYy1OTC1ZRW5IUE04VWV2N0tPUVoybUlRdC0yWDV1OHdvc1JoSk1BX3UzZXJnNzRpeU5kRUp3TzRNSVlQU21DMXRqV2djYlJkX1Ffd0lIOGI5UGtNUjJUR2tpaDRURFMxTDdRdHM2aFhDdVM3a0hfVTl3?oc=5",
       "pubDate": "Tue, 17 Mar 2026 22:56:59 GMT",
       "description": "147 measles cases reported in Texas so far this year, most of them in federal detention centers The Texas Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Report: Utah has \"barely acknowledged\" ongoing measles outbreak - Axios",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ0lHTjE1Qm5ISlZOXzVOQXAydUtBczg3cGQ2aWdjclFaUUx6MGNaWnBBWXk4ODFtQ2lHaE9JcnE3LUN0TFNwb3hFdk1OS0ZMcnhCdC1NUVNmTU16blk4VnJVcUcyUnZSQ0tvNDNzamhzdzZHOGxLMF9XU1NCQWJHTlVkSVhmM0FQWlRJMnpn?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 22:28:35 GMT",
+      "description": "Report: Utah has \"barely acknowledged\" ongoing measles outbreak Axios",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
