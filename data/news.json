@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-03-20T07:29:32.473Z",
-  "itemCount": 96,
+  "updatedAt": "2026-03-20T08:23:11.276Z",
+  "itemCount": 97,
   "items": [
     {
-      "title": "Michigan declares measles outbreak following three linked cases - The Jerusalem Post",
+      "title": "2 measles exposure locations identified in Salem medical offices - KATU",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbU04QXFHS3M5bHVsUnZRRUNLUUQ2NTNJNXdMX09qZ2R0QTRpaUFseFBBR1VnOEpfaURLdXkxSW5KbEtCeF8xNTFub0dJTnRrNE5sR29wWmxtUHRwZlN2OTJkWGk2OGR4Ujd2cW9HRTM2dDhnR2RuY09MTWZkaUZySkx2S0daZmFrYmJXYVZBM1pUckt1VmNn?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 07:16:06 GMT",
+      "description": "2 measles exposure locations identified in Salem medical offices KATU",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Michigan announces measles outbreak after three linked cases reported - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2w0SDBrZ01ncUdlbm1JRXQyS0xSbWY2aU9oSVJBUF9PR2oyaHc3cWxzT2sxMy02U3pRTUpGWTdnS2RqV1BaTFBGOGJGSXVoWWQyTDV5dkNCRnplUC1xS3dLcnUxSUpfMFY0cXRZM3pJdWZrNzdUQ3dHWF80ZC1LUm90aDRlbE15VkpTTHA2U0dsVFQtaDlTcQ?oc=5",
       "pubDate": "Fri, 20 Mar 2026 06:43:34 GMT",
-      "description": "Michigan declares measles outbreak following three linked cases The Jerusalem Post",
+      "description": "Michigan announces measles outbreak after three linked cases reported The Jerusalem Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -48,6 +57,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Salem hospital, medical office among new measles exposure sites - Statesman Journal",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQlNPN0VBdTRWeU4wZUpsdTMycDJ4cElTRlNIbk9OaXktNTVkUW0wTC1mdE9jdnZZeHlUdWtCSU1zLVlHRVA2bzFCbnhfWkJBbk96QXAzd2tmX1o5RFoycHlCSDhzWl9HTnNldmdSS1ZaX1lYc2ZCajNCMVlIU01EaFFRVFo5NEVYSGN6bGp3alJDS2RvQ2gtLVp0SFl1enJsZmdKVw?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 04:29:00 GMT",
+      "description": "Salem hospital, medical office among new measles exposure sites Statesman Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "NM measles cases rise to 13 - KOAT",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNVWFJVzVpVW1GVUN2NE5QSmM0eVFyV2ZaT3JiV1k1cjlaUFpGdzcyblZHTER0bHJkSWk5OTUxODQwQXhmMjVBbFg0RjhCRTNTREtYQzF3VnRRa19KakJEbHRXem11cHRWOU04amNSNWxQdzA?oc=5",
       "pubDate": "Fri, 20 Mar 2026 04:22:00 GMT",
@@ -70,15 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNnhXSllRVTQ3RTNmN1hscmwyM2Z6elE5b0ZsTkVsa2Z2bUVjY0s3b29wRlN6c1RMX0psbXBua2o0UE5ta295dWtZX281SC1HVTM2dFMxR3RDQjZoTC1QaGt3TlpUM21Ka3NJczRyMTZBeDZFV1RMRlJmbWg0VG1VY25IVFpfcTVBT0V0S3BKek15XzFiQXNGQ3ZKWnBFUFhrUmRpSHVPbjFWckxGX1NKa1VRZDAtNzJwV0Vmd2kzeXV0VVVHdGk1a0lsUXBzc1ZUQ0E?oc=5",
       "pubDate": "Fri, 20 Mar 2026 03:58:00 GMT",
       "description": "Measles exposure reported at Providence Sacred Heart Hospital KXLY.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "2 measles exposure locations identified in Salem medical offices - KATU",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbU04QXFHS3M5bHVsUnZRRUNLUUQ2NTNJNXdMX09qZ2R0QTRpaUFseFBBR1VnOEpfaURLdXkxSW5KbEtCeF8xNTFub0dJTnRrNE5sR29wWmxtUHRwZlN2OTJkWGk2OGR4Ujd2cW9HRTM2dDhnR2RuY09MTWZkaUZySkx2S0daZmFrYmJXYVZBM1pUckt1VmNn?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 03:30:30 GMT",
-      "description": "2 measles exposure locations identified in Salem medical offices KATU",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -138,15 +147,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Salem hospital, medical office among new measles exposure sites - Statesman Journal",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQlNPN0VBdTRWeU4wZUpsdTMycDJ4cElTRlNIbk9OaXktNTVkUW0wTC1mdE9jdnZZeHlUdWtCSU1zLVlHRVA2bzFCbnhfWkJBbk96QXAzd2tmX1o5RFoycHlCSDhzWl9HTnNldmdSS1ZaX1lYc2ZCajNCMVlIU01EaFFRVFo5NEVYSGN6bGp3alJDS2RvQ2gtLVp0SFl1enJsZmdKVw?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 01:59:26 GMT",
-      "description": "Salem hospital, medical office among new measles exposure sites Statesman Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Oregon warns of possible measles exposure at Salem hospital, medical office - OregonLive.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaFFHTE1jOWRZZW9UWGRkZUdjRktpR0R1am4tbXloN0lQY1BIalYzeU5XaVpDRC1EXzNnZEtrVHRsamx1MVJKeXFiUHFBaE5uZy1SMzRRcjNRMkxBemxFQWdpT0t2WkJDQTdLUWVWaXRfd0RoQkN6aUMyc3I3aWRrSDBmYjdhTndQQXRJeC1qYkh5TWlOZTZOUmU0RnlKREpRN2xLeFh0WXVwRUpMV25IZndKLVVsc0lUWHhJaHhB0gHSAUFVX3lxTE51Z0NqWnFTbXpIQ2UzNXNuOTlWbXpqa0lsT01aWTRva2lwZWJYNXFkWnhmN25ycVZUcjA0NHhZOEdoelJtcC1jU0xmMjlpd2NXZV8yUldYc1lhZDhvV1ByeWkxNktCcHJFdU9JSkZGNVQ4dXAySjg1VER6RU9qcmc0eVdxOXFCVmt0enF5YWh4YzN4ZmxNZEJjWjNOZzNQTU9ZY1NiMkh0RU1DcldWZGVTUjhQTk1iQzhNZF9OcDhqeklLYkZYU2NzWWk0RGJ4eVkwUQ?oc=5",
       "pubDate": "Fri, 20 Mar 2026 01:59:00 GMT",
@@ -187,6 +187,15 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb0l3WjdGVkpSbHUxdnpVMlc2RVo5V3lWUldmM1QybWFIbDZ0YXNRcHBuM1poM1lKdjcxam55Q3ZzdUVFbEZzd29OMldnbXBfcHpYa0NJc21VVllCVWM1S1hMZ1lpdlhwODNmVy1KNVJDUmxfOU8zVV9kV2xCUklmLXhBdEkwRnlTSXJtYXBEWmdheWF6M1NlS3M1OUtTc05hdUHSAbYBQVVfeXFMTUtUeEpYVGM5cWQtdHY0YnNJX3hWdDRDOXZyMDlTWnZ5UXV2WXh3YzN3aXliMHVoV1BZYWFIZ0xvLTBRd2JLRGRaY0NEZzVvWUFFd2VVcHFiVXo4QW1WUXMtaDBsMUxtU1R2SDRmUVJqNUw2V2RpTmpVd1ctbnc1UzdFcGVjVXpIdmktZUE2bm5mY0s0TEhKc0JwajFFQmd2cDJjM1JRYjlHSDhiX19WQ0x2cnNQamc?oc=5",
       "pubDate": "Fri, 20 Mar 2026 01:35:00 GMT",
       "description": "Salem medical office, waiting room identified as measles exposure sites KPTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Nation's measles prevalence stays low - China Daily",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kalIwc0dNM2FEdUF3SGZIb0FvY1ZWTXd3aWkwb2Z1aDFNbmlIaEEyM2FDcnBLbjRONXdOWGxuRXB4U1VpVzY0UG1GZkdjMGhpbWpjQ0U0SWxJZWVrcE9SdXU4ZzlHMTYtY214MjZBdEtWSGJtamsxaDNuOFJYQQ?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 01:30:00 GMT",
+      "description": "Nation's measles prevalence stays low China Daily",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -471,10 +480,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Guilford County health officials warn of measles exposure - WFAE",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUGlvcVVTZEIxOElmWWVNazRFaHdlNGZheEY4X1J2OGhic2dHY3BBVHBPemtKN1VvWDVFQ25JTm5ONl90aHdpc1VEdGZzdmlkU0RjQ01aSjFReGFjQU02d28yNTBpVEZ1SE1HQk1SOEFZM1F4SktxWEx0QldUQklUYkZYeVhkU1hkVjVSR0FsYVA4MjQ?oc=5",
+      "title": "Guilford County health officials warn of measles exposure - WUNC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmxCVVIxX1A1NkcyNVFpNU1LRVhlZnU1cDdWSGo1TDVSalB1alVMUnFXMk82WTNIa2IxMVFlVVVjSnFfdHVBZ19Vbk10ZFFmMHk0elNwU3NVdzAyaEFSNkdITWhlb0lCaS1GdlJMVVRNYmZYUHR5VFNWX0pGTXFOOHBLUFk0NkFRdEtxbVVWeXJTSDQ?oc=5",
       "pubDate": "Thu, 19 Mar 2026 20:08:00 GMT",
-      "description": "Guilford County health officials warn of measles exposure WFAE",
+      "description": "Guilford County health officials warn of measles exposure WUNC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -669,10 +678,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "As vaccine hesitancy rises, Wake urges parents to vaccinate kids for measles - Raleigh News & Observer",
+      "title": "As vaccine hesitancy rises, Wake urges parents to vaccinate kids for measles - News & Observer",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BWDZpLXRPMFlPWDJ3bHEtYk96SDNEZTVSMWFaVWh3S2t4UC0wdUhGdFlYSnNpbnJ1emFPeWpDSGM5ZFc5SW5oLTVCWmVqZGFDVEJXaXlySGxKMDF4czl5anpNZ2ZFdDc0LVBEMlVSd2I4cDkxT2FvN3VmMNIBe0FVX3lxTE1YUVJpdllCTVhBdE13bURhSUVvQmhzTFM5OUIwVHJvTVkzdXpsVE1wX0dSbVNVQV9mRzBHSUZ3X2duTnZWYTg4QUREbmplMnZ4ZC1XTkFhMlBWb3RjcFNBbUk2UUJnZXdiMXNOdUJrS2UwRTNVLXdPdllwRQ?oc=5",
       "pubDate": "Thu, 19 Mar 2026 13:51:51 GMT",
-      "description": "As vaccine hesitancy rises, Wake urges parents to vaccinate kids for measles Raleigh News & Observer",
+      "description": "As vaccine hesitancy rises, Wake urges parents to vaccinate kids for measles News & Observer",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -732,10 +741,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles confirmed in Weld County resident, possible exposure at northern Colorado hospital - The Denver Post",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmN2cVlEaVYycnlCX2lpODRHdVNwdGZ1OERBZ2QzNUlfaEFFbFRKS094SDRaUldmRWxlQ201MUlaUmVJVF82NnAyOVYwUVVEbXNIU0EwYnZkaWRQSWhlOTNiQVhoRVdhZUpHT0NOeDFZaV9PZjhVcl9hSWx6cEYyYzEtVmU?oc=5",
-      "pubDate": "Thu, 19 Mar 2026 02:13:36 GMT",
-      "description": "Measles confirmed in Weld County resident, possible exposure at northern Colorado hospital The Denver Post",
+      "title": "Measles confirmed in Weld County resident, possible exposure at northern Colorado hospital - Greeley Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQkE0UFRMOHh1dU9oTHpsN2VmNXNCN3VHWFREQnY3R05waEpoa0NLQ09QbzR4OUc5d1FSTWo0THhHaHRfR2FiU2tvWFdrOEJtOENhcUl0MS03bnRTbGRPdFVMS1l2UVhWbS1uZ2ZVMFdlbEZGU3k5VVJucF8xNENLemUyLWVzczVqUUE?oc=5",
+      "pubDate": "Thu, 19 Mar 2026 02:15:06 GMT",
+      "description": "Measles confirmed in Weld County resident, possible exposure at northern Colorado hospital Greeley Tribune",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -804,6 +813,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Public Health Alert: Measles Exposure at Legacy Golf Course - The Pilot Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVm80MUUxdkxaU1djTkpWSVB6NFZYN200anUwTU5GZF9DMmQ5UkgzTWt1RE1GR0tYeWFyWlpFRlVoQ0VIYkRuUkpkWWpyd2pxSkQzZHJQbm5ZRkFLczhVOHBFcU5pZVZRRHEwRlBRUW42YnJuQVBLVC1SRXpEeW9FU1A2SGh3dmtPSHQwUFBQblZZOHBTTFB6MW1qZmdoMjJHOGVFSU9DcXlFd0VmLURPMU1HTEFhN19xR09lSW9GWkZUWEdrcDZraU5BaUxYNHlHTlpHcw?oc=5",
+      "pubDate": "Wed, 18 Mar 2026 04:00:00 GMT",
+      "description": "Public Health Alert: Measles Exposure at Legacy Golf Course The Pilot Newspaper",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "147 measles cases reported in Texas so far this year, most of them in federal detention centers - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUxpRnVwVmx5NGlOQzBRYy1OTC1ZRW5IUE04VWV2N0tPUVoybUlRdC0yWDV1OHdvc1JoSk1BX3UzZXJnNzRpeU5kRUp3TzRNSVlQU21DMXRqV2djYlJkX1Ffd0lIOGI5UGtNUjJUR2tpaDRURFMxTDdRdHM2aFhDdVM3a0hfVTl3?oc=5",
       "pubDate": "Tue, 17 Mar 2026 22:56:59 GMT",
@@ -844,15 +862,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObXQ1Wk9NcVM0Y3B5NGo0blpiRmptRzF2TFpKQWlMNlhRQ2JKWDhZX1dOMzliSTEwZ2lGY3h6bkpXY0dJeEJRZVB3eWtkMTdzOVBmYXhpQ3lDSG5NbUpSUWpaOWNUamhuMGFzRjA2Rms5WXJTd2hFYk9Eb0FMM1gxOHAwWGYycFlUMjIwTVRVeTM0LUhmSGhRQ3Z5M1BFdjk4S0l3OURjelNIVmIzV1BvZUlsbGhiV0E?oc=5",
       "pubDate": "Mon, 16 Mar 2026 09:00:00 GMT",
       "description": "Measles outbreak surges in North Dakota, putting immunocompromised in danger MPR News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "'Perfect storm:' Measles outbreak hits Broomfield and spreads fast after unvaccinated, infected teens attended two schools and roamed throughout Denver's suburbs - UCHealth",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwVi15UDd6MFNHT0ZEMTlucl90ODFnUnBMTTFxNTAtekFlSXk2aHRnc1pyelQ1clFKekZjRTFjVktVaTc4LU1PRnFUNE53TURsSFhxaW9ORXR5SkdGd3R6Y0NObE5MZ3VzVUd1N2xwc0pfd1hLbWN3X214Tk8?oc=5",
-      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "description": "'Perfect storm:' Measles outbreak hits Broomfield and spreads fast after unvaccinated, infected teens attended two schools and roamed throughout Denver's suburbs UCHealth",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
