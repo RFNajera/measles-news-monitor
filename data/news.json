@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-03-20T18:24:08.961Z",
-  "itemCount": 99,
+  "updatedAt": "2026-03-20T19:24:42.049Z",
+  "itemCount": 95,
   "items": [
+    {
+      "title": "US measles outbreak approaches 1,500 cases - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaFY0OVJHaXFPc3c3ZEhnMHg0eFZ5QnFETFliT0FKN0dDcGZEN1ZuYjYwdG1sVXlwNEJwSV8xUF9QNi0tbGtpendKbVNNdnhDdEppRDBHXzV1Q1BSb0J2Q0trd3pFYTlneDQ3S3B5OWNnUkc2dE4tQVR0S1ZkcXZFelR3?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 19:15:47 GMT",
+      "description": "US measles outbreak approaches 1,500 cases CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Scotland County Improves Vaccination Rates Against Measles - Border Belt Independent",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYWFibmE1aGRwczY5dHdOT3RNVHNrRnF4NXJUN1NfajRlQ1ZkSzNqZGk1aWNSMENXbVJMUUZOQlZmRkltY0lEcGhSYlNTaGI1YmhBbGNYVWpWcHZUd25KUjl0SHNmY3NtdllRSjJEanFfQ2ZUdXFNRzlKYndGZTBLOVlJQ0QzOU51VFE?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 19:00:23 GMT",
+      "description": "Scotland County Improves Vaccination Rates Against Measles Border Belt Independent",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "SC measles outbreak hits a milestone, as officials report no new cases - Greenville Online",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb2xhMk1lVmZkQUZPeWdpSEQ0REFHeUlBWUFJeGtRSEhOUVdKc3E3a1FJN0c4Ym9CbmZscTljYlppeS1YdV9aMTZlajA0RDlaMWN6QklXazVwbTk3ZW9HOC02TW9kb2dkX3V5ekRnSVhDVkVucnotZ3lNZG4waDBJd2kzRUhDSHpTanNGajMyWVNQWFFVd3RFLUZyRnNJLVhXQkJYcV9WZl9qcXJGeHJ5T2lHUWppTjAxdHBZRDg5dmhJOGtEWnVWbW1fNTZyM2s?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 18:58:40 GMT",
+      "description": "SC measles outbreak hits a milestone, as officials report no new cases Greenville Online",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Department of Public Health reports no new measles cases, outbreak total remains 997 - WCIV",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNamJkVDlWUXV6Uk1tU05Yd0Z6bVhnYmQ0bzJIejRNVURVbzV1eGctamxaYkMxRlF0QVBDb1YwZ2FCVG5Ld3o1cTBaZGtYc1lVRTRZazItbFBmMDNhd3NsQ0FXbzNXei1VcUZvS3VNQmlyNmw3M2x1M3FRZUlfelAtd3dMbUc0aTNxZ01tYV95Z1NWZURFanZ2WHFScmp4cExSU3hoUVBQMERlVVJqWnhMMldJVlJHSFhJT0pJUEFfd2tlN3E1Q21TcWswdUctQzJMXzBqTExUV3h1ckUwNFpYMkJJSQ?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 18:29:46 GMT",
+      "description": "Department of Public Health reports no new measles cases, outbreak total remains 997 WCIV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Measles today, polio tomorrow? - The Northside Sun",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KT0FybmhjWmstdzNvemVXclFudkZQSVdId0g3SU5ETy1Sc040M2FmMkx5a2d6VkpoLXd3VFg0MWJwZll4Wnl6Z09zU3YySF9ESXByLTBNS3Vqb0hMOG9WS2JKSzhMMFJk?oc=5",
@@ -43,6 +79,15 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMjBwamVIYUZveFNlMlE4aGtURW4yejJDQkI3X2tpdTNibk04eVhqN1VaUTZtX095REltakJ2SmFNZkN1dGxjTUtDY0l5d1NuV0lfVnRPM2ZVZWczYmE5Tk9KdlpyZ0tqNXBQeG9UTGNyb09EMVNBZDgyR0V4cmRPUQ?oc=5",
       "pubDate": "Fri, 20 Mar 2026 17:40:00 GMT",
       "description": "Upstate measles outbreak potentially nears end after state health officials report zero new cases WYFF News 4",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "No new measles cases reported in South Carolina, total at 997 - WSPA 7NEWS",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWx6U3d0YV9JdnAwZVAyYmVMRWpMbVRLZEw4RFRwY2d0dWZmc1VVTE9IWVduLVh6STlPdVJvdjBaRS1RMmppVjVQZlc3MU5fbXFCRGhGZE1JZWJ0OTd5em9wTmtwcW1EZ2Z2cjFvUVFQMkRqWkRKR3VSaTNrZjFPbFB6U2VVXzYyMDFScjJnV3fSAZYBQVVfeXFMUGlGUkdOYjJXZkhqTmJPdEJmVW4yN2JZOFVlSUFfeEpTMDNVbDl1cU4tazJ4a3lzVy10d2ZBYm9zS21pbG5qLVVZczBKbzUxYWFfSVdRR29sZ0dFMkF6ejBLeUtsS0ZhbEtjNHNQOTZTUDlnQVZLbzhGblJyUC1USTh4TFlSVXliNzJCbTdjbEZFRm5wRlRB?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 17:32:59 GMT",
+      "description": "No new measles cases reported in South Carolina, total at 997 WSPA 7NEWS",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -93,15 +138,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Department of Public Health reports no new measles cases, outbreak total remains 997 - WACH",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT3M3cjhJRUF6d1FjNHRZVVFFU0w3d0Y4SFZMcGRwYzI3RVd3Q2xoMkhLWEVlS2FBRk1MaElzMnQ4aDRJbUoyNlZvUXVySkFSN2pPdVRsZkpVN2F3bHBRMEt1SFg1ZWhLLXpvTmVLQS1LdU5MX0liNFhlM0NfX0hKYnoyWTFOX2VnYUVUdGRwYW83TGN0bjNTUVN3RlZrWXN1dTRkOTZ3ekhHb1RlMGhXZHgtZWN4NFBQS2Jid2FuaThjUmZkZlpPVGpycmV6ZklUZ2N1WlRWSmJSX3BOUUE?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 17:16:21 GMT",
-      "description": "Department of Public Health reports no new measles cases, outbreak total remains 997 WACH",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "New measles cases reported at Primary Children’s and Megaplex Theaters - ABC4 Utah",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHVCUVJXN0RwbXJWNjJlcG5HZko0SkFqcUU1VXppTHpVbHgzTzJ2MTUyR3B1LW9VN19rUUpvTVB2SmxmQmkyUVIxX0RaSV9DUlJjd0hYdHF5Ylc0eFpzT3BQSVVLZmpiOGxseU42d2tNclN2SXhLOVcxSW11V1VsNHloNjFIRElyVkhNMHhlQlbSAZYBQVVfeXFMTm1QNFYzTUVIZjdzd2dVeGJYNE5iRXNOMEhEY0E5OFVMRkJjNndlQ3hUUEx5bTg3MzZUUjNuenhVeWxYTXUzdHpXOEM3S3BOclIwVG80MVpPcVp6YnREaG5jNjZBQ2VTSzRSQnhXelFISEVyeTdGZHdLbExHWDc4OU1QaW56NnBxbFhWMnFRRWg0eDJaOXJB?oc=5",
       "pubDate": "Fri, 20 Mar 2026 17:04:41 GMT",
@@ -120,6 +156,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Person infected with measles visited golf courses in Cumberland and Moore counties, officials warn - WECT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVctYU9HUDgxOFJfMnc3YzhTQlRuNEo0RzE1QTI4Yl9WRGZwX205aVJLTXE1ajJXNE1kcENqS09xajlnV093UFlXczhsb3JKNVZfajcxOUlFa1dVRkhRU0hsa2NYNWlPaHhrcUxPeTFpcDE1V2ktMC1VUUlpV1VrajdVd1dTUTFLVHgwbnpTdXlKWmdYT21HOWJrTHFzUVl4TXE5S0xITHRObEtKc3QxX253Ty11MGFZWC1zcFFLbnHSAdQBQVVfeXFMUGpzOXRVM3J1M1Nra3gtSXBieC1jdlZScWJIRFpyOFhwTkZvdmE3U2gzbko5Nk9XakRIX3pPay1jNVlmejRScnVQYVQ0emlJWGZsc2tPTjJocVRacUZiMmlHMXZNUkZJTWNraUN0WVBKVTBNTzBUMjVjRm9NUVY1ZHRtZmRGMngzdmdkaWVfNU04UGx5U0d6ZUpkdFEyQ3cwUVpSMHFTU1NjYnlFLThJVnJjNXFMNTNJcmpXRGlJVUtuMHVJNTJYclJFaURTS2g4dkVIai0?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 16:16:47 GMT",
+      "description": "Person infected with measles visited golf courses in Cumberland and Moore counties, officials warn WECT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "DHS clears detention center of measles cases; health officials sound alarm - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY1pubzhscW5KUS03cFBHQzlqaEU0TGlhb3lPZVNBVGFQblZ5dWJFMExsUnZnWXZ6b2FtUlhyWV9KbVJ1MElTcEJFdG43RHVhQ0NwazZPNVhXWVBrNHRGRGh6YTBSZFdqV05CbVhBaTJtNXd2WVN5cmt4UUpsUU1ZNndtU1FHYjFtRjhkU0VURG9MUGJ3WjB5LXpB?oc=5",
       "pubDate": "Fri, 20 Mar 2026 15:54:42 GMT",
@@ -129,10 +174,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Officials warn of potential measles exposure at a Westerville CVS - 10TV",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQndZc1AycV9IajUyTHJpbEpPYkdJSGFRQk5uQ2I4ajRMeHJmamd6R2pjcUpMNWxERkozcnVXUUtkekNxQmRqelVZVEZHdWI0WDJHbG5HVk8wNzVzN3N3Nk54anI0QzNrUGJpVE0yWENJVGF5ZVdnbTZ2NDljMURmVi1MX25mTmR4MmdnVnpDUEdHa2RuWDBidUtzVlB2T2ZGNUVzNURTYjc0YmlCcjRnM1NIdUlraG1XWGdNVDdwcGZxLUZQNWczWE9IT3JESnRNSWo1d3diUHdLOGxzbHhBTG1LUXhMQmNhQ2c?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 15:34:00 GMT",
-      "description": "Officials warn of potential measles exposure at a Westerville CVS 10TV",
+      "title": "Michigan Confirms First Measles Outbreak As Cases Surge - 103.3 WKFR",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkeUFDQkR1ZEtabEZEeVV6cFZYSjJjbDNKQ1Z4VWdJcnhOYTBvbkVkcGVDNWZVck0wWWdHUERqaXY1SE8waWs3V0M5TlhONm1PNldWTlpR?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 15:31:08 GMT",
+      "description": "Michigan Confirms First Measles Outbreak As Cases Surge 103.3 WKFR",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -142,6 +187,15 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZeTdwdHIzVUxSZnZqOWdlNnRpTXBxbnM5SGRITzVOeXg5N09nUS10Wk1IRDFta2F3Rm5IejA5RFktYk4xZzgyU0Zyd0J1Z3U2YlFDZFNKSW5NS3NiRDEtal9BaVdGZ2daTi0teHZ3aGhpV2RaTkE4aHhaZ2M?oc=5",
       "pubDate": "Fri, 20 Mar 2026 14:58:48 GMT",
       "description": "Measles cases in 2026 now at 13 in New Mexico KOB.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New Mexico measles cases rise to 13 - KOAT",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNVWFJVzVpVW1GVUN2NE5QSmM0eVFyV2ZaT3JiV1k1cjlaUFpGdzcyblZHTER0bHJkSWk5OTUxODQwQXhmMjVBbFg0RjhCRTNTREtYQzF3VnRRa19KakJEbHRXem11cHRWOU04amNSNWxQdzA?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 14:09:00 GMT",
+      "description": "New Mexico measles cases rise to 13 KOAT",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -264,15 +318,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "NM measles cases rise to 13 - KOAT",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNVWFJVzVpVW1GVUN2NE5QSmM0eVFyV2ZaT3JiV1k1cjlaUFpGdzcyblZHTER0bHJkSWk5OTUxODQwQXhmMjVBbFg0RjhCRTNTREtYQzF3VnRRa19KakJEbHRXem11cHRWOU04amNSNWxQdzA?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 04:22:00 GMT",
-      "description": "NM measles cases rise to 13 KOAT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles Resurgence 2026: Navigating Strategies for Restoring MMR Vaccine Confidence - Infectious Disease Advisor",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR3Nnek5RZFVnd1Q2cXhnLVNqOEFPREtPNFFrLUt2WFlWUGxhM1ZlY2g0WS04aXVuWUJBQlRHY2NhMEZNTkppa1lXTHlnRE01Rk5yRW95U25RdEVka1Y4cm1TQXlQVnVXTWllRTgwci1VM0w0SGo1aGUycnpaS3ZDZEZGdkJBeW1pYTdVVkpoRUVJQQ?oc=5",
       "pubDate": "Fri, 20 Mar 2026 04:00:00 GMT",
@@ -354,15 +399,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "NM says measles cases now at 13, including 3 at Doña Ana County jail - KTSM 9 News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0hVaE9qZzN6LUF5cHRMekM3dXZhVGd3NWxLN21oRXIyWlc0NnpxSDRieWxxbm1NaFBNeTZaVWM5WUVFTWFkZTNwTEt2SXAzVGVVdV9xSFdDbU5oUlA0bDB4cjZqLUhoNWNVUGZjQ2tFdUtKVHNWUndmX1dST1lXYkVLaUgxYkNZZm00bGdqTTlFZTZ4QXM1dk5n0gGfAUFVX3lxTE1GS1lWZ3Job0lndUxnY1k0Vjl4aDBUd2lrNkR6Y2M0RkUxUmd4TTZDMkFqTnZyTmwtby1RdnVfbGp4b3RuV0NXSkNieXdURG1NQmJ3Rk9Bb205eFg3VDU2M0d3NWpxbDIyQmQ2WUJRMU82N0lwZmNiUTVWTlNSa3F6ZnVyZXFxSGpRdExtd0ZEajEtUHh5b0RGM1pGV0dtcw?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 01:46:30 GMT",
-      "description": "NM says measles cases now at 13, including 3 at Doña Ana County jail KTSM 9 News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Oregon health officials warn of 2 new measles exposure sites, both in Salem - KGW",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQVUpRZmluOXRacS15LVZZY1hIQS1HMldaSWNsUTRodWZocHduWjR0TmpJa1REMTd2V05Ra2U2WDc1VklLYUh1a2s4MDBESjN1VW9YSU9pcjU0QlozVDVIQ2NHV0RZWjJvUFoxZ0ZjaklzOF9tSVl5Y2I2cGJNTWhxNUlSeFc3RzM2bHFtNzZ2WUlYRzlNd185VTktZ0M0c3BDYlRnRXpHdGdZNHl4dTFNdVdlNHpwVE40TURzWVROVllpNjMtNENWU2ZYb25HU084VVF3Tnp2TE9LWEsyMWhadGdKcmVTdDVVZVRsSVVoMm5aOXRtTmx3RTIyTzZ4aG1VT0Y3U3J4NFAtUGtTTFZhS1R3?oc=5",
       "pubDate": "Fri, 20 Mar 2026 01:44:00 GMT",
@@ -421,15 +457,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbEp3Q1ZYMlJpMF96a3V4TWxQTGpQNngzQkdBVGJJczVEQnMtd3MxbkZGdjFiUk5aU29GR3NoaWs4RDFiMEZlZkxaUmN5SklockZxTjRlS2hVZzRWYWdvajRvMTV5OWJYWnQ0b2xXNTFodnJPZGVrT2k1Z1haWjl3M3lWTHNoZDQ0bmtrekNQX3h5WUZxa3c?oc=5",
       "pubDate": "Fri, 20 Mar 2026 00:30:53 GMT",
       "description": "Washtenaw County Confirms Third Measles Case, Outbreak Declared The Sun Times News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Person infected with measles visited golf courses in Cumberland and Moore counties, officials warn - WECT",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVctYU9HUDgxOFJfMnc3YzhTQlRuNEo0RzE1QTI4Yl9WRGZwX205aVJLTXE1ajJXNE1kcENqS09xajlnV093UFlXczhsb3JKNVZfajcxOUlFa1dVRkhRU0hsa2NYNWlPaHhrcUxPeTFpcDE1V2ktMC1VUUlpV1VrajdVd1dTUTFLVHgwbnpTdXlKWmdYT21HOWJrTHFzUVl4TXE5S0xITHRObEtKc3QxX253Ty11MGFZWC1zcFFLbnHSAdQBQVVfeXFMUGpzOXRVM3J1M1Nra3gtSXBieC1jdlZScWJIRFpyOFhwTkZvdmE3U2gzbko5Nk9XakRIX3pPay1jNVlmejRScnVQYVQ0emlJWGZsc2tPTjJocVRacUZiMmlHMXZNUkZJTWNraUN0WVBKVTBNTzBUMjVjRm9NUVY1ZHRtZmRGMngzdmdkaWVfNU04UGx5U0d6ZUpkdFEyQ3cwUVpSMHFTU1NjYnlFLThJVnJjNXFMNTNJcmpXRGlJVUtuMHVJNTJYclJFaURTS2g4dkVIai0?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 00:27:32 GMT",
-      "description": "Person infected with measles visited golf courses in Cumberland and Moore counties, officials warn WECT",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -561,37 +588,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Washington sees spike in measles cases - KIRO 7 News Seattle",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb29wMjNaaVpNUndDTnYxNkZOeVdveHNkaF95Zm9MMlhzOWQ2Y09NWUhLNGRSazczenJOaEhzNmZGanNPLTdXQ3d6RGlLNGxaY3RVYlRWc29nMThrUm9IU0duNlRFaERpOHZNR0MxVGliM0t0ai1WMnpLb2pJdHhQRXNONVJWUG53OHRpeVBkcU5WbUxwQmNaQzBDLVfSAbABQVVfeXFMUGoyOWM3YjliMWpXZDQyZVVRVnpBWEV6X2lRRUdIWmJjQlg1enlPN3AwUTBXaldzSFZqMlJrTDJhMHZNd2VYdW9pZ0cxV2lDRjhHUGM1N0JobEdubHRGZFJFR2J1NWJwc2FiNk0zM0NONmpPN1pSV3VhRjJHcnpBcHQzbFRYd2RDNnh2ZUJMZkNnT3RWNVFHUXBIa2lmLXcycTlNRmU2NHZBTHFTaXVDUlY?oc=5",
-      "pubDate": "Thu, 19 Mar 2026 20:45:05 GMT",
-      "description": "Washington sees spike in measles cases KIRO 7 News Seattle",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases rise: health alert for Michigan travelers - WJRT ABC12",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMjNYLUhKWE9ZRkRBWGNPWDRITmdvMnNwakh5aV95MnhOT19fc1dNc1Q5RDZVb3lmVGhXQ2hreVpzUXJnZ0l5UUg0U290NG9wYzhzS280SzJWbDZXWmZacVpSaEFSa0U1T1RSTVFaMVBNTmR6bEtkazBNWVI4eW1DN1BCenJLc2xfY1VpWENsOEpzaGFKNG9yVlFzVjNUNGxtdExhamRjRFZWRUNKTGJhRUZSWVU1SVFvdjRrdEZxQTFaUlViOEdpLTAtMA?oc=5",
-      "pubDate": "Thu, 19 Mar 2026 20:29:00 GMT",
-      "description": "Measles cases rise: health alert for Michigan travelers WJRT ABC12",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Person infected with measles visited golf courses in Cumberland and Moore counties, officials warn - WRAL",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSHRWYlBLdHV4cGN4QXRFX0dXRTRjZDhkZWtVMi1jSnRUVTc2LTl2eWZwWXJHUDBNYTdteFk0Uk5DcGRITk16TmFmczgwUEN6WlR6M3N3NXlEVk5NT19aS2JHbmNqRFhWSkVnbE9OZEJ0ZDFURjJiTkFkMFF4a0xLbXp3?oc=5",
       "pubDate": "Thu, 19 Mar 2026 20:26:11 GMT",
       "description": "Person infected with measles visited golf courses in Cumberland and Moore counties, officials warn WRAL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Michigan’s first measles outbreak of 2026 declared in Washtenaw County - WOODTV.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM25sQTByLXd4VnF4NjROVTVjd0padGlfQXQ5Zi0tTklXN1ZQSnZnVVRqUGpvbklFbm41djB0NDh5cnJONUFpWmVLbDVFR2xBLUpteWFBTTJISEs2a01ERVJiSEU4M1Z0NEh5MUN3NnFuWUVXNDk4Nzc3R3dlcm5adV9xazdoUmt6V3hZX3FwT3hDOEtvTWVGaDFnM1p3SmV0NVh1a1FtR1czOUHSAbABQVVfeXFMTXExdGJVanE1bEU4RExWX2pqd2Y5cGZXVUpjLUtVNXVhZHJTcGFrUndWeU1wenRHeXVGY1hHcDJQRU12LWhqeFpoSFViU0NUY1lLUU56czBaUEd3ZVhfb2FENFpqYmNVTFQ0dzJiN2JCaDkxTUh5YWtYcDVudHlHRjZkTDdETlNLNXJtUnhhUE1IS2RMUEZaZEJveFg2Z0xfRE4zNFg3c0xjTHJuWjZqNFA?oc=5",
-      "pubDate": "Thu, 19 Mar 2026 20:23:34 GMT",
-      "description": "Michigan’s first measles outbreak of 2026 declared in Washtenaw County WOODTV.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -610,24 +610,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmxCVVIxX1A1NkcyNVFpNU1LRVhlZnU1cDdWSGo1TDVSalB1alVMUnFXMk82WTNIa2IxMVFlVVVjSnFfdHVBZ19Vbk10ZFFmMHk0elNwU3NVdzAyaEFSNkdITWhlb0lCaS1GdlJMVVRNYmZYUHR5VFNWX0pGTXFOOHBLUFk0NkFRdEtxbVVWeXJTSDQ?oc=5",
       "pubDate": "Thu, 19 Mar 2026 20:08:00 GMT",
       "description": "Guilford County health officials warn of measles exposure WUNC News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles outbreak reported in Washtenaw County after 3 linked cases detected, officials say - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlRud25tN1c0anU0bTRPX2N1ZjJtTHkyeXpnNkZKN3YxTWswejFrYjlsOHh4MHgyb2syc3JQZEcyeVVQS2NjYkVfMTBOWlMtR0JRc0txeEJwYWtoZXU3SnU0VjJjTWg5QUVlRVBNeWVVblNmU3dpd3FDR0oyZ3JPZ3BTWlU?oc=5",
-      "pubDate": "Thu, 19 Mar 2026 19:53:00 GMT",
-      "description": "Measles outbreak reported in Washtenaw County after 3 linked cases detected, officials say CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Michigan health officials confirm measles outbreak in Washtenaw County amid national surge - WZZM13.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQek45Y1RIM1cybWg5STR2TUQzeVhtaUFrTmtMVUtTSVllcFEzYzBDQWVNbGo0VXRjaHdlSFdiMURVLUd1a3NtZUdlOHE5YURjSzU1QzRFUW5jOHd3cno0dEhjcW9vNGF2MUZ2aEI3REVCLUw5bUVFWTIzTmJ2N3pMT2FzajZSQVE2bkhlakdMRGpjZmtJcTMzbHQ3RThrMWFrSWZzWm9BdUpaam9OeVZuTjNyTEd4ZlR1Y0E0UHpsR0U0bkVkeG5wRngzVkRzdWhoR2NsZVl3MnVCMEdfSy1uX1hoS0I?oc=5",
-      "pubDate": "Thu, 19 Mar 2026 19:51:00 GMT",
-      "description": "Michigan health officials confirm measles outbreak in Washtenaw County amid national surge WZZM13.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -862,24 +844,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdlIzc0pKMXZyUWJPNkZQUG1XZjVnaVVpVFZ1X3RrZ2pIVkF2cG1lOWpOcFpwNno1Ulgyc2stUUhuMmY3YkZEZGJWbnNxODBwY1lUTF9ud3E3MFNraXl2TzJYZVo2Wk4tenpVSjRWaWlVeFJxNFZJZ0xBeVJldXpIV3VaT1lIQlFweDlZaQ?oc=5",
       "pubDate": "Tue, 17 Mar 2026 20:31:00 GMT",
       "description": "South Carolina measles outbreak reaches 997 cases CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "State health officials report one new measles infection as state spread continues to slow - South Carolina Public Radio",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSFN5eTRYcDNHY2ZDWnA1OVRBQk5GM3FQeFdLX2kyVDVnYzdXaEpoYkR3X3hBM2R1R2RHVlBCNkw3aGc2akxJWDZJWV8xR2c4amM5dUJQUmFMVEU5M2pfRnJ5dXR5X1Z0ZEhCVUlDak9JN2g2aTJPcWw1RHdTalg0aE5RVlpGamlQQndvdldEbklpRk00NmxwbUZTSXBvYWlQVnBuMlo0ODBfTnYxb2JMU1MyOGp1UkZiTVR1ZlhOWi10NlZwTEkydEd3WV9xNWVUOVpGWndNa0xMZ2RrUzZTcDRYaw?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 19:13:00 GMT",
-      "description": "State health officials report one new measles infection as state spread continues to slow South Carolina Public Radio",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases are on the rise in Washington state - Oregon Public Broadcasting - OPB",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeGZfM1NPNEZVZlVVbk5oeXc3V3FnQXhqdTZyMURsLXctb1dLdzNjcy1Mck1DQTdQMS05SzNleGpObTJrVFhYN09ldGFfNUljRmxrZWFqdDQ1N1FpbEJja0hXWGVuR2dHTXNIWVdVNlJDcnRabFdxZkl4anhHTUxEWQ?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 18:21:17 GMT",
-      "description": "Measles cases are on the rise in Washington state Oregon Public Broadcasting - OPB",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
