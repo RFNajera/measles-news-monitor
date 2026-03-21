@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-03-21T03:51:39.401Z",
-  "itemCount": 100,
+  "updatedAt": "2026-03-21T04:43:47.372Z",
+  "itemCount": 99,
   "items": [
+    {
+      "title": "Pandemic Researchers See Measles Resurgence as a Grim Omen - the-scientist.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMmNqcVhiVXk4NlVwS3czRUZaTDc2ZFhraUh5T256dV91Y09KWk5sZDNCbTlnY25ZcEplOG5uUXF6dVdFOF8tbm40NWNEYnBpUlgyZ1FUMTY3VDhzT1ZvVWdBUkwwVkp5bHpiUlJYNWhfRDFsYzJCVmVud25Ba1pYOWEyMzhlUGg4MGNITVJob3p3RGliLVlVbFV3?oc=5",
+      "pubDate": "Sat, 21 Mar 2026 04:19:32 GMT",
+      "description": "Pandemic Researchers See Measles Resurgence as a Grim Omen the-scientist.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Measles exposure reported at Sea-Tac Airport; health officials urge vaccination check - B-Town Blog",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmEtVkR1NmgyMlY5WE9VZWZsYlRGSUQ0YkpJdUNCclUzM05obHNzYVE4c21uZVEyTXVWa2E2RjkwQmcyQ0d5c3hyUlBVVVFSODlNcGFSNVVManVBTV82dGlJQ01QNXA3a0dwMDNIYzlMMmFhOW1tZEo2bGQ2OHF5STYtd0pFOVB5Tm9DSjV0NjN4UW1sSEo5X3d5bW1QYTF3X2dPU3ZKTnRLQm41?oc=5",
@@ -22,18 +31,9 @@
     },
     {
       "title": "Health officials warn of possible measles spike after Westerville exposure case - WSYX",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObEZCSXVkYUlVX0FSRnh4U2ZyY2htM2M0WWRFUDZ4Tm5NN1ZSWG9JUGlQNnp5Z2tLdTVac1VydVpsbDNUblpuYWxtUDdjZUliSlVzUEk1Mkw5QUpkaW5ZYm1rTDQwQ3ZFRmNFSUo0Z2M4aGFFenpHZGpSMXJnRy1YWkUyQmRtWUplVUJ3UWJ4U1p5Y2pETU0yS01aOU5TQTFDOW1aSlUxdWlqQjEzOVQxMXJwWEhIbmU2a0RmR2RzenRocHdIT0VfcC1KV19SX2lzVnpEZGZqdHU0S094Tlc0emxR?oc=5",
-      "pubDate": "Sat, 21 Mar 2026 02:07:32 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWEJJVlpjeEo2Nl84NlZCbzctYjAyM1k4T2xvUVl0YXY3UThCUDZXbVpyTTFKRTRtZVhpSzAzYzVfN0lxODE2SzhGZVJpRFBXTWpQeHE3VXVkVnpkTVBsclZkVGlsV21Ub1JvQXFBTTU3TmYwNEZJMjBPeW5maFhoc1NXMU5zX3A4YjRDWGh3REZSN0gtMXlVT0JjUldXRG1lV3pLSHhkY2VqOTRFaGQxZlV4c3owYVJZVjlDSS10LXc0aE1FNF9ZWnF6YkkxUU1Ib3pwaXhndw?oc=5",
+      "pubDate": "Sat, 21 Mar 2026 01:59:21 GMT",
       "description": "Health officials warn of possible measles spike after Westerville exposure case WSYX",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Health officials warn of possible measles spike after Westerville exposure case - WTTE",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS1lHSFlybUI1MEgxZXJmY2lOX0VoNUxJdUxYT2t5V2daZF9aa2ozWG5IbmtuRTZNbnV3ekxzdUpxYUpXampWSlVILTdHWWNaUTNxeUNxYjczWnBZSktodjlYZG1lNV8taUhVVU9MQlpDcXNWQ3ZGRTJmM0NlOXNKWV9EMmFuS3U2UEZ4Zk5CTnlySTRHSk5SMk5VSDZhREJLeVRoZnNBQ01lWGJaVUFuZndJdjl1R2NYTTdlLXZ1c1JzQmRETzVmYUYxdTlVUEQ0N0R2WG5ULVVHRWhxQThLemRhdw?oc=5",
-      "pubDate": "Sat, 21 Mar 2026 02:06:28 GMT",
-      "description": "Health officials warn of possible measles spike after Westerville exposure case WTTE",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -138,10 +138,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "No new measles cases reported in South Carolina as outbreak total holds at 997 - WLTX",
+      "title": "SC's Upstate measles outbreak nears 1,000 cases but no new ones have been reported since Tuesday - WLTX",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNmlyeGNNd1dTdFRPeEczMGU4RTJrN3RSXzNEdk1zdHA4Z3pzUF9jLWhxaWhhUXhjaWY5dzg3QWN4eDVVZHZJaGFkbW1mQ2ZWcXRjS3ZwbDkwdzBreEpxVmozdHFvc1RmN2JnekVGOGFva2JjcGZfdEx0cFppMXZMVExSZjl4M3JpaFJiNDBvNXI3S0JfS2ZqRzE5Y09mTzkyVV9LRlpZbzZyMVZnZ210TmZQRkU1UDFpWmt1dFAtZkdwcF9KY2pTNg?oc=5",
       "pubDate": "Fri, 20 Mar 2026 22:13:00 GMT",
-      "description": "No new measles cases reported in South Carolina as outbreak total holds at 997 WLTX",
+      "description": "SC's Upstate measles outbreak nears 1,000 cases but no new ones have been reported since Tuesday WLTX",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -525,15 +525,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "2 measles exposure locations identified in Salem medical offices - KATU",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbU04QXFHS3M5bHVsUnZRRUNLUUQ2NTNJNXdMX09qZ2R0QTRpaUFseFBBR1VnOEpfaURLdXkxSW5KbEtCeF8xNTFub0dJTnRrNE5sR29wWmxtUHRwZlN2OTJkWGk2OGR4Ujd2cW9HRTM2dDhnR2RuY09MTWZkaUZySkx2S0daZmFrYmJXYVZBM1pUckt1VmNn?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 03:30:43 GMT",
-      "description": "2 measles exposure locations identified in Salem medical offices KATU",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "North Carolina health officials confirm potential measles exposure at Greensboro Wendy's - WXII",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZDRUNjMyQUNkc18wam0wYnVpTmd0YmxWSWNaZzJyR1p6Y1F4aDZoOW9DekdxUHBxMENHQUFKclhHcms1anJWeFlqWkZSZkUtc0FDMXBYM1dEMXVjRmQ0OXo1clJSOGQyUHJ3aXBfbzZraGRUUDVTbEJmVEhLY0JQem9jQk14LTl4NlJPdU5WVmRJa0k?oc=5",
       "pubDate": "Fri, 20 Mar 2026 03:10:00 GMT",
@@ -565,6 +556,15 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaFFHTE1jOWRZZW9UWGRkZUdjRktpR0R1am4tbXloN0lQY1BIalYzeU5XaVpDRC1EXzNnZEtrVHRsamx1MVJKeXFiUHFBaE5uZy1SMzRRcjNRMkxBemxFQWdpT0t2WkJDQTdLUWVWaXRfd0RoQkN6aUMyc3I3aWRrSDBmYjdhTndQQXRJeC1qYkh5TWlOZTZOUmU0RnlKREpRN2xLeFh0WXVwRUpMV25IZndKLVVsc0lUWHhJaHhB0gHSAUFVX3lxTE51Z0NqWnFTbXpIQ2UzNXNuOTlWbXpqa0lsT01aWTRva2lwZWJYNXFkWnhmN25ycVZUcjA0NHhZOEdoelJtcC1jU0xmMjlpd2NXZV8yUldYc1lhZDhvV1ByeWkxNktCcHJFdU9JSkZGNVQ4dXAySjg1VER6RU9qcmc0eVdxOXFCVmt0enF5YWh4YzN4ZmxNZEJjWjNOZzNQTU9ZY1NiMkh0RU1DcldWZGVTUjhQTk1iQzhNZF9OcDhqeklLYkZYU2NzWWk0RGJ4eVkwUQ?oc=5",
       "pubDate": "Fri, 20 Mar 2026 01:59:00 GMT",
       "description": "Oregon warns of possible measles exposure at Salem hospital, medical office OregonLive.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Health officials announce possible measles exposures at Salem Hospital ER, Kaiser Skyline clinic - Salem Reporter",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdGphN3BTZWZXWjkzeUFUYmttQ0NhNjZnaWtBcGdJZFNPZnVwc3hxN2ZkR2E3THBWVjBscEJ6azNtSnp6el9HY0ZoX05HanFPVVdGVzdaVFN2ZUhYWG9LNzFTX0JkeGxfa2xqVzlCOEliUUlDZ2pXVDdybEFtejBBSTJneDhJdGp5ZUItTURrbFFMVGNIQml2ZDJsY1BfcDJiRWQwcDVXSTZEUUMwdENVR0RLOTJjZ25tNTlaWjVtRTNOZEZJX3pET2ctMzdyd244OU1v?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 01:57:54 GMT",
+      "description": "Health officials announce possible measles exposures at Salem Hospital ER, Kaiser Skyline clinic Salem Reporter",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -642,15 +642,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak confirmed in Washtenaw County -- Here’s what to know - ClickOnDetroit | WDIV Local 4",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbWMtdnc0dnR4bS1pUVZ3Zm5IVU9yaWZSTWd3elBJd19BRDZ5SU56d0c2T3JSaGNNd1BabTBkeGxiYkJZSjFmVWEzUVl2QjQ5NTYyc3JuTGJJcWYyR3JhLUI2ZHNQZ2tyZlpjaHR0OVE1VUFrVHNmSVFuSTZGaW9jcmNMbW5adE5MeFJOcHdpTlNYaWx5VWhRQWZNdFB6WVNmSHRwUmY3ZXBxbF84SFFqN1hwZldFbkc0YTdR?oc=5",
-      "pubDate": "Thu, 19 Mar 2026 21:24:23 GMT",
-      "description": "Measles outbreak confirmed in Washtenaw County -- Here’s what to know ClickOnDetroit | WDIV Local 4",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles outbreak confirmed in Washtenaw County: What to know - The Detroit News",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeDhpMU9sR0pEeXdPd20wOHdHZmFJU2xLME91SE9vRXo1R2FYYzV6dk1jOFZ1QXVsdVNFaVZhbEpFdGdSM09EeFlzck9PdzBpU0t4d2ZaSUFrWm5rUU9XTWlFZ2JISUdSb0NGNEY1S0pDTTJGWHRGVXhjMnJrOGxvdGdiYnRzWS1iQ1kzN1NJaFRIek1XSTVnclZOdWFiZzFVNEE5QmdQeUxYM0FOamNhVlJnSzJtVUNac21QUmxEU3hpcVA4ZkdyUXEtc19GSldfWWo0?oc=5",
       "pubDate": "Thu, 19 Mar 2026 21:22:00 GMT",
@@ -709,6 +700,15 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmxCVVIxX1A1NkcyNVFpNU1LRVhlZnU1cDdWSGo1TDVSalB1alVMUnFXMk82WTNIa2IxMVFlVVVjSnFfdHVBZ19Vbk10ZFFmMHk0elNwU3NVdzAyaEFSNkdITWhlb0lCaS1GdlJMVVRNYmZYUHR5VFNWX0pGTXFOOHBLUFk0NkFRdEtxbVVWeXJTSDQ?oc=5",
       "pubDate": "Thu, 19 Mar 2026 20:08:00 GMT",
       "description": "Guilford County health officials warn of measles exposure WUNC News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Mid-Michigan health departments warn of rising measles risk - WNEM",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaU1ac2FCTlhud1JkV0RyVzZFdHBIaVRRVjhldjlpM1VHR2RZU29CSnRXYVdoUF9hZmoxNTRuMDZyZlM1ckpabThFR2h2anpKeXJHQUcyRXA2cHV5MURmSG5CeUE4SHNNcUdKdkt3Qk5Lc0s3anJuOW1KSmlTOEN5WUtzdXdBUzBabjlaUFRDUDlXRTg?oc=5",
+      "pubDate": "Thu, 19 Mar 2026 19:33:00 GMT",
+      "description": "Mid-Michigan health departments warn of rising measles risk WNEM",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -880,15 +880,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUE9zdEhDTFVsWXlPMG9YaTIxdF9feWhlLTRBdDRCSkw3Q1F2TEcyUnhlMUtKOUtfX0YxbHkxb21wYlVMendTLVNmQlEtUkpCZUFTa2VYcXlISjRleEJudzVTTV9seW5GSG1jU1VJWFNneU1tUUZISXg2SWhYS2U2dGVibGNXdk5VdWNkZ2hvM1o5NVhvdmJiZlk1UVlmZ1BxVllkX282dHE3YVhSZGpRc2VBZTVlVzJzLWdXZlR4XzRCRllkWTI2T1UwMDlQbFMxYnJF?oc=5",
       "pubDate": "Wed, 18 Mar 2026 18:15:01 GMT",
       "description": "Federal report commends NM health officials on measles outreach, vaccine efforts in 2025 outbreak Source New Mexico",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "147 measles cases reported in Texas so far this year, most of them in federal detention centers - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUxpRnVwVmx5NGlOQzBRYy1OTC1ZRW5IUE04VWV2N0tPUVoybUlRdC0yWDV1OHdvc1JoSk1BX3UzZXJnNzRpeU5kRUp3TzRNSVlQU21DMXRqV2djYlJkX1Ffd0lIOGI5UGtNUjJUR2tpaDRURFMxTDdRdHM2aFhDdVM3a0hfVTl3?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 22:56:59 GMT",
-      "description": "147 measles cases reported in Texas so far this year, most of them in federal detention centers The Texas Tribune",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
