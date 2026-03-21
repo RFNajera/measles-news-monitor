@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-03-21T03:04:25.992Z",
+  "updatedAt": "2026-03-21T03:51:39.401Z",
   "itemCount": 100,
   "items": [
+    {
+      "title": "Measles exposure reported at Sea-Tac Airport; health officials urge vaccination check - B-Town Blog",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmEtVkR1NmgyMlY5WE9VZWZsYlRGSUQ0YkpJdUNCclUzM05obHNzYVE4c21uZVEyTXVWa2E2RjkwQmcyQ0d5c3hyUlBVVVFSODlNcGFSNVVManVBTV82dGlJQ01QNXA3a0dwMDNIYzlMMmFhOW1tZEo2bGQ2OHF5STYtd0pFOVB5Tm9DSjV0NjN4UW1sSEo5X3d5bW1QYTF3X2dPU3ZKTnRLQm41?oc=5",
+      "pubDate": "Sat, 21 Mar 2026 03:33:00 GMT",
+      "description": "Measles exposure reported at Sea-Tac Airport; health officials urge vaccination check B-Town Blog",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "First Coconino County measles case of 2026 confirmed in Page - Navajo Times",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXFkMWZSWkxieW1OTzBkNVNPRU5wcGQzOFpoekV6MnBkRzlqZEphaVFxYkF5ZXZIRHBFbEYwaWlZUktqbzlXWHdtOE9YVlM5Wm8xemh1WkpmQWg1T1k5aEJodWFyMmxuMzBRVU9pQWFUVmZGSy1zdlZ1VG9XUURiXzh0cmVVekdfZm13NGpsaGFNR1prRlhySg?oc=5",
@@ -43,15 +52,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNEZadml3NHhtT19ZMDFaSlpTN2ViX2tkcjJBV3F5a2dUT0ZMbnVHRUE4ODhxRzl1WUsyTlViODdNY3JjZ1Nqb2ZHUm1VRW1HWlVTMGYxMWk2Z2FiU3JoSS03UUZWOTZGWFBqSGtBOFo1djM0SExSRmRBVEJEdktlUU5EbE9OQWVlSVB5SEJfeWNFREZueURkNm9kQmdfNHBENm9VVXhpQU5reFpXRUFWMzBhZWNoeXNHaDhQNHBFelYtS2swQkhlUXExWE0wa3Q2Z1RWeWJMUTE?oc=5",
       "pubDate": "Sat, 21 Mar 2026 01:08:00 GMT",
       "description": "Health officials warn of 2 new measles exposure sites in Salem KGW",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles case prompts Sacred Heart exposure alert - KXLY.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNUNIV0N3emZURjFRS0Vvdk9wRlBwNENNWW1PT2RGSnhXT01TdVVHODdlYWhWMjFRZ2U1OTZ1VWVqQmJRU3d3bWZwUmxqbDdfWFJ1NU5SZjhrOC13NE90bGdPQ3Fjak9uMG9xTS1EQWZ4TER0UDdQdUFHdWN3ci1HYkY1VEwwMzhlVXpIb05fblRIV3I1bnBQYWxyUkV3ZHlVRGFuc29PM2ZyYnoxRHk3Z05Ydkxxc0RyWHNHUlA3ZjhBQQ?oc=5",
-      "pubDate": "Sat, 21 Mar 2026 00:55:00 GMT",
-      "description": "Measles case prompts Sacred Heart exposure alert KXLY.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -241,6 +241,15 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb0p6bFk3NkRZb0Zjc3g4VVl1QlhqdzNuTmpDSnlEYTM1a3NwUWZxSGFBMDd6M3BqZVAxeE43UmZkRVhJMWxxY2xWWWoyTVNPTkVmMk5FaEY1bEJUMHdBWk5iQk9FVVhWSVFjSXh4bUJyWjFhMVl5VlV3THd3VDYwcUZXNUJVMmhDVVozTUs0SEJrTHZKdzhKMVFISThvTFc0bTBoeHNXYnhhQkptZFhXNkhuUUVBN0dsQzRDS0xrRDMzZjBTZjlFM1d6MWVSM3pmcGEzcWhDVjFnTVE?oc=5",
       "pubDate": "Fri, 20 Mar 2026 20:31:00 GMT",
       "description": "Coconino County confirms first measles case of 2026 12News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "DPH reports no new measles cases in latest March update, outbreak still not over - South Carolina Public Radio",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWZTZ2t6TWtmaGFKSGRGX2EtRXBNRG02M1I0MUloY2FpWWtlVVNWbVk2QkN5T2dYWHVHd2IyZ2lOLXBPMmk3OS1jczhDMnJmRUZiVFZxRFNrNFlHS2N2Yk1jdWt2bHVNUWt6aWRCZG5sT3hVVEUxcXlfVEdSalNXZklhdlA2U0NGcS1rZThKVV9jQmNDeWVpTUQ5a3pUejdiS2JTMV8zTXFfSlFUWGhQUm1FSHBXSjRzZ0xpX0h0MUtHQVdZNVcwVGFFV3FLOFR4eW9oX3Bn?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 20:28:00 GMT",
+      "description": "DPH reports no new measles cases in latest March update, outbreak still not over South Carolina Public Radio",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -493,15 +502,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVItQUUxbFE4ZmZXNGFLR21pb2h5Nkh3VThzUlhsSGZnc3JUR3AtM2ZSX0k1TFVHdEVYYVVCN2Z5eFRxcnBQWml3UmJpM2xzelFaNGNZUUhuczVEVjVtZE1CbnlyaERUWkU4c0dzbnlXbkR4NjM1bTY5aXo1akpic1o3SllmZw?oc=5",
       "pubDate": "Fri, 20 Mar 2026 09:03:07 GMT",
       "description": "Opinion | Our Hospitals Are Unprepared for the Return of Kids With Measles The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Michigan announces measles outbreak after three linked cases reported - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2w0SDBrZ01ncUdlbm1JRXQyS0xSbWY2aU9oSVJBUF9PR2oyaHc3cWxzT2sxMy02U3pRTUpGWTdnS2RqV1BaTFBGOGJGSXVoWWQyTDV5dkNCRnplUC1xS3dLcnUxSUpfMFY0cXRZM3pJdWZrNzdUQ3dHWF80ZC1LUm90aDRlbE15VkpTTHA2U0dsVFQtaDlTcQ?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 06:43:34 GMT",
-      "description": "Michigan announces measles outbreak after three linked cases reported The Jerusalem Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -876,6 +876,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Federal report commends NM health officials on measles outreach, vaccine efforts in 2025 outbreak - Source New Mexico",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUE9zdEhDTFVsWXlPMG9YaTIxdF9feWhlLTRBdDRCSkw3Q1F2TEcyUnhlMUtKOUtfX0YxbHkxb21wYlVMendTLVNmQlEtUkpCZUFTa2VYcXlISjRleEJudzVTTV9seW5GSG1jU1VJWFNneU1tUUZISXg2SWhYS2U2dGVibGNXdk5VdWNkZ2hvM1o5NVhvdmJiZlk1UVlmZ1BxVllkX282dHE3YVhSZGpRc2VBZTVlVzJzLWdXZlR4XzRCRllkWTI2T1UwMDlQbFMxYnJF?oc=5",
+      "pubDate": "Wed, 18 Mar 2026 18:15:01 GMT",
+      "description": "Federal report commends NM health officials on measles outreach, vaccine efforts in 2025 outbreak Source New Mexico",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "147 measles cases reported in Texas so far this year, most of them in federal detention centers - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUxpRnVwVmx5NGlOQzBRYy1OTC1ZRW5IUE04VWV2N0tPUVoybUlRdC0yWDV1OHdvc1JoSk1BX3UzZXJnNzRpeU5kRUp3TzRNSVlQU21DMXRqV2djYlJkX1Ffd0lIOGI5UGtNUjJUR2tpaDRURFMxTDdRdHM2aFhDdVM3a0hfVTl3?oc=5",
       "pubDate": "Tue, 17 Mar 2026 22:56:59 GMT",
@@ -889,15 +898,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdlIzc0pKMXZyUWJPNkZQUG1XZjVnaVVpVFZ1X3RrZ2pIVkF2cG1lOWpOcFpwNno1Ulgyc2stUUhuMmY3YkZEZGJWbnNxODBwY1lUTF9ud3E3MFNraXl2TzJYZVo2Wk4tenpVSjRWaWlVeFJxNFZJZ0xBeVJldXpIV3VaT1lIQlFweDlZaQ?oc=5",
       "pubDate": "Tue, 17 Mar 2026 20:31:00 GMT",
       "description": "South Carolina measles outbreak reaches 997 cases CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases in South Carolina rise by one to 997, state health department says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaWZObDFTdEJxM3oxUVFIRzNPTUh0dlFCc1dWOGpWMVZZNHFNM1VhM3VVNWhJZkpxZW1HUjJuQkNRR2tZTEF5ME1ZRG1OOUVMSm1qaGlRb1RJV0FJdFl5RWtwcnFobm1WTnNKTjJzSi0tZzdQZEhwQWNqVTliQ3FxUmc0WjRyRUlNRHdKdE9DbnZjSm1MbEhhQk8tbXF1QkR6MkJDNGoxdzFuRGJRWEtYUWJGUnZRWUdMN0JWN2p0SW1GZ3JPcDQ3UFRMSUs3OFlTbXQzVGN5eE5PSlZ2MHc?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 17:03:51 GMT",
-      "description": "Measles cases in South Carolina rise by one to 997, state health department says Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
