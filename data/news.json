@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-03-22T01:46:25.897Z",
-  "itemCount": 93,
+  "updatedAt": "2026-03-22T03:13:51.410Z",
+  "itemCount": 95,
   "items": [
+    {
+      "title": "Measles exposure reported in Coconino County - AZ Family",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVndCTGV4b19RSzM3eExRcTZMeDJGdkQ1cEtYY2cwS2tjTExUUjRBSDRoR2NtdlQzQjNBQjJyOFU1TkhSaUF1U090SDF0RkIyVnl5WXB5bXZfdHlfY3BsNzFBX1ByTmV0YXJuR1VnOWRLTjZXLTJPLVVHRk5RbWVYZV9kWWNDRzA1SFNCSg?oc=5",
+      "pubDate": "Sun, 22 Mar 2026 03:05:00 GMT",
+      "description": "Measles exposure reported in Coconino County AZ Family",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "New interactive tool allows people to check measles risk by ZIP code - KXLY.com",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOME5nQkZaNDAxbnNxcnhkbHJyMU5nZkp4T0pOZFVEOFNHZ2htLXl5cTV6QlNHNkptR2xPbHRCS1RWM2QzRnhNS1B6SzZfbTdaM1pnQ01YSGlnMlNKNndjT3R5OTNLZ2tvUTh4Znc2THJPUjJDSzR4bFl6alg2aUJFM3ZOckdvTm91NDZKWkhJWEFtQWlKb0g3NFpDQlZzWUFGV2lCbHFvb0FZWDFqS0tYQ0pWWEptazVIRlZuRlhTYjdiQndBOHd6RTR6NU5odXpCUVVvZk1EX1FHdVVy?oc=5",
@@ -79,15 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWVZKZGRwSHJuZlZIU2g1Z0FuWlU1dWljOHN4akJ0V2I2ZUtpcmhPT2Jqd3FzN0tYT0xWaHFHRUpmd0k0VE4wMXRvRXB5S0Rlc1cycHVCbWlHOVgzQ2QtTmNSX0VFVjcxcnpyTkl3VmhpRlFZSmVjaVhGeE9yaGYzcEVKSEJZNHNkaEFRVXlUZ29iUFp2aWN5M3ZpSkZqYjNoakg5VVh4QUx1V2R0NVJrTWZDVFBBcUlOMk83cHppYmMtZldMRnBYdzlLaEExNTdmQUM1WlB0OTRjdw?oc=5",
       "pubDate": "Sat, 21 Mar 2026 20:00:00 GMT",
       "description": "Fourth suspected measles case reported in Washtenaw County The Detroit News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Washtenaw County measles Archives - The Sun Times News",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IN0RFLTQtRHdneUQ0TkU2TzRPeTNacV9tQVZveUl2OG1xbnNRRk5IYXpxZ1BLTE14eHlicGVOZHRicjJGRGx1eWNTNGNGdTdqRjdwSDF0aGZDeXBJdE84Z1BaUGJZWGhj?oc=5",
-      "pubDate": "Sat, 21 Mar 2026 19:53:20 GMT",
-      "description": "Washtenaw County measles Archives The Sun Times News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -826,6 +826,24 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONGNPTi1tN0dhSTRDR0k0YlFGQ0dobkx6TXpRNllZYTM2T1k4dHhQZk9obzh1R2huUFh0b3hHcmdqaGJiU2tYSmJOeGRiZHVtdU43ZkxWcVNzM0RFelZKcjRDckFzMkhmT3ZHTDg2R294cDlpNVdRZFZjcmpQdEhPOGtQckZWckJZMEtvc2J2YkFyZ2tNSFZzdjdxb0ZkQQ?oc=5",
       "pubDate": "Wed, 18 Mar 2026 16:41:00 GMT",
       "description": "US measles cases creep to over 1,300. We track its spread. USA Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "147 measles cases reported in Texas so far this year, most of them in federal detention centers - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUxpRnVwVmx5NGlOQzBRYy1OTC1ZRW5IUE04VWV2N0tPUVoybUlRdC0yWDV1OHdvc1JoSk1BX3UzZXJnNzRpeU5kRUp3TzRNSVlQU21DMXRqV2djYlJkX1Ffd0lIOGI5UGtNUjJUR2tpaDRURFMxTDdRdHM2aFhDdVM3a0hfVTl3?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 22:56:59 GMT",
+      "description": "147 measles cases reported in Texas so far this year, most of them in federal detention centers The Texas Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "South Carolina measles outbreak reaches 997 cases - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdlIzc0pKMXZyUWJPNkZQUG1XZjVnaVVpVFZ1X3RrZ2pIVkF2cG1lOWpOcFpwNno1Ulgyc2stUUhuMmY3YkZEZGJWbnNxODBwY1lUTF9ud3E3MFNraXl2TzJYZVo2Wk4tenpVSjRWaWlVeFJxNFZJZ0xBeVJldXpIV3VaT1lIQlFweDlZaQ?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 20:31:00 GMT",
+      "description": "South Carolina measles outbreak reaches 997 cases CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
