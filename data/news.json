@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-03-23T17:28:44.937Z",
-  "itemCount": 92,
+  "updatedAt": "2026-03-23T18:27:38.240Z",
+  "itemCount": 91,
   "items": [
+    {
+      "title": "Measles exposure reported in Cumberland - mydailyrecord.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcW5xeE9vNklMY1NpUVlNQlVSYVBHWEpCaVV2S3piOTR6SGl0dEpjY1ZJNm9mWm13LXNhbDdKZXlUc3Z4Q2x5dFVkRFIyaHFjUnI1azc3aGZhTFhKSkQ4WTVhWlZ5NGppVGVTcXF5NXpBX0p4SDEyc25ubEJPN1lvakpqOUMwc0xzbFRzZVRPUkpndGJyZmNZeXI1WXgtVkFxRHdDWDFPNWJmdjYySTV5YWQycXhfbkhkbDRuZF95LXJoUQ?oc=5",
+      "pubDate": "Mon, 23 Mar 2026 17:32:00 GMT",
+      "description": "Measles exposure reported in Cumberland mydailyrecord.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Pockets of Unvaccinated Communities are Driving Measles Outbreaks in California, Including Riverside - ie community news",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT0NvR3B4SlltV3R2U1RXdmw1VkdqTXhqSkt5LWhaMU8tazhhb3BBeGxRRVB0QVJPTWZ6dVlHN2JmUjQyYVBjRUxvZ21zSWxtWTk5aEhCNzlvdVlvZDh6VE5lQkI4UElSdEQ4c1E4dDlSX1dzVW9CM2ltcER3R0F6aEwzMkw3akRMTi1XUG8wcVZ0dzJ6RU1oTGNmNzE2RE1MUlNFVzFZQWJ4RFRGWDN2TEVXRkJjSTY5?oc=5",
@@ -25,15 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUtDYy0xZE03SWJjYnRGTTc5ZTlJb19fN3o4ZGRrSVV6N1dFY0o4b1IyQS1uUmJ1bTVmYkNSc0E0cTExZlc0ODJSOEI2NXhseVlqeDVTMTVqU3NaVEdtV3h4TzUxNXNUNkxPSXhNd0F6SmxVdnQ5M0lWU3BsWkhLQTdaTkNLdHZCUlFqcGFRblpNMDhYTUZfTFFlNGsyYnlmaC10OHpPb3A1b0hrMGc?oc=5",
       "pubDate": "Mon, 23 Mar 2026 16:17:21 GMT",
       "description": "SEUHD confirms positive Measles case at Sally Mauro Elementary | KOAl - Price,UT Castle Country Radio",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "DRC rolls out anti-measles campaign targeting 260,000 children - APAnews - Agence de Presse Africaine",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeTRXTDJ6Y19QYTdBWmNNZ29JdVdQNjR1WHIyZmlnR2lEZC10d0tNLWw4UTdEMlNsVUU4NTJjV2YybU1peVJpZXNnUGZKQmRCQVN2eHpwSlN6cmZYd1UyWEYxUlFIeDRTT1lOZ2xpRzNjVHhwNUhSS3ByMW9DbXhwaHdCanVfaERUd0E?oc=5",
-      "pubDate": "Mon, 23 Mar 2026 15:55:36 GMT",
-      "description": "DRC rolls out anti-measles campaign targeting 260,000 children APAnews - Agence de Presse Africaine",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -165,15 +165,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Urgent disease alert for major Aus city - News.com.au",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNSmdsVDZTcnNMelFJMk80TXhNU0U1YU9FNHJXdWY2dGpJaGstSFhLanYwdmlORnJ3YWxhcEhIbnVJVU9CNEFaUENpcUtpU1RqOEZVLUxsbi1PdUVqeFVqTmJWQXM3T2trS2Ffdm1ibzZCWFJXUmJ3SVhZTFZHamZvcFJRUmJ6cXFoN29zNmJ6ZFZkT1RFOUlBRWJBYldxd2xlcG03aDUybGlwanhlV2RrcGJDNEljaEJ3MDVXLXdwSElnNXNieHRLU1ZuYXBKenJaSGxUSkJoVXh1TFJMM0puTEIwM1IwU1ItaXRjM1dfNE1ZaHdpWVFXc0VuVVZ4aGJMU3ZJSldlTVU4LUNFRkxQa2JmbjNQWlZYRWfSAZ8CQVVfeXFMTUN2OEZIakVGRUVRUDRFbGdXREtUYm1EMDhQSVFDN3ZpeVU3T1Z4SjBtQk15ckNSRXc4ZlJiQld2THhpTUZxWW0tV253RlRRUm5lc2FkLTRPSmt2LWRISzNDcWcweEJTT2UwcXdVRUR4eGxTYklzWnA0V2pObm81aHhMRWZLZkJqbmRGWWNxdENNbFhrNEw1alZtcVh0N2Fxb1RFSE1SR0l0eHFCOFV1aE5sVHdzdTkzRTJOMENVaUR2WlNjcURUZzljWGtFR3ktWkI4WlZ2eEhwczVKa3BYN09pbVdmYnNIdTBBR3RNenJPN0lIX1pQOVllTG0xRVYwem9qa21TUGJQYklQckV1ME5sbjFENzdab283Yk81eG8?oc=5",
-      "pubDate": "Sun, 22 Mar 2026 20:10:29 GMT",
-      "description": "Urgent disease alert for major Aus city News.com.au",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Wake County childcare centers take preventive measures as measles cases rise - WRAL",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjhaR2Z3RVNNVXJ6YXpaQUZMLThNLUVhX0RmdnJNakVpS3VnRDF0SXpEcjh5c01walVDME5HaHdoZEJJaWxlUmt5Wno1MHBUQjJmWFVjV2tHZDRXU1ZmLTA1WWQ4ZG5XdFk3U0IzenRqX0NWQTZ1WXU1SmRGcl83Rm1PMUVyOWFzLVQ0b21oUjc?oc=5",
       "pubDate": "Sun, 22 Mar 2026 15:41:51 GMT",
@@ -255,10 +246,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Why Utah uses sewage to find measles, COVID, flu outbreaks - Deseret News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUF5bVpPM2FzNzIzT1dqbHVNN21zVDNDNE9GM1AxTE1BRWlPc0ZtbmZEMW83OS13M1VKQXVTNmIxVXlhbmZyZnNmTkY2aF9xQzFxTzNhWEVQVVdtaTk1aGdhU3ZNOWgtNkhlOElPNjNGeHBOSFZkMXlZd191ekRSMHlXSURnaXd0UzBXcHpOM3loUnZ4bExXYU1ZTlNUdWFaWGdjTThfT2hYcHdmZkE?oc=5",
+      "pubDate": "Sat, 21 Mar 2026 17:04:03 GMT",
+      "description": "Why Utah uses sewage to find measles, COVID, flu outbreaks Deseret News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "The Relentless School Nurse: There is Nothing “Just” About Measles - The Relentless School Nurse",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWgwaEFTNEtMdml1bVN0cmg5VnFZM0xqWWJqLWNOeGlWUjB6bXdLRTBzQkdEVTh0Y0VtczVDTVdRYXZycGJzSkZ2VWJOMjBpTllkMHNwNm9TYTVRRV9FclZRLW5HQWVFMEtXckVsMXM2V3pWdEFSejZNTFVMXzVocThJbF9LcnkyOUdnbkk4MkxJdFFTQjBCc2RWS2ZUclFoY3FxSXp0dG9lbFo3Y0HSAbMBQVVfeXFMUDlKR3d3T0dtWFp1MzNtR0xDV3E1Y3NHWTg1TGs2b2w3ZUZrOXlhVlBrbGJ3Q2czTUNxWjBHOExqRldEeHM4Znh2MTlzTFZheWdoM09DZmg0cWFocGVSZTdrZ05tY0VET0J2SWRfMHNYNDMyYnlxMVlucVM3YTRHN0RXeWZLbF9aa0Eyc01ybU94c1NtT2tTN0dvQzQ4Q3BmSXBMaTMyYTJ2RG43bV9TV2wtR0E?oc=5",
       "pubDate": "Sat, 21 Mar 2026 12:05:46 GMT",
       "description": "The Relentless School Nurse: There is Nothing “Just” About Measles The Relentless School Nurse",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Marin County warns public of measles risk, RSV surge, heat, food safety concerns - Local News Matters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDlfSmNLNEF5bWdZV2tOR0NSejhfeGVnYVpUQkdXXzk4alUzamFYcGFkb3dZcU81ZmZabnhEbDJ0VWhpS0F5LTBsbTFsRGtYZEdpcFJ5OUwwLUF4SG9FVms4dmlGWVoyZGhBcWR3aUllc3FFcDNQM1VpRkw3YzdJNWc4bW1rR1VvQ0JKR2tyby1ZUlp1WWZNbGxhcGdUdmxickowc3RuY2YyV0psalJocFIyOVhSZEdvNEE?oc=5",
+      "pubDate": "Sat, 21 Mar 2026 10:00:00 GMT",
+      "description": "Marin County warns public of measles risk, RSV surge, heat, food safety concerns Local News Matters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -331,15 +340,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSEVqUExfS3BPMWM4VDdhZXZyWlc5SUQzNUI5VENIdGNiSHBxdVJrc2s2dDl3U1cyNnJ2RTNhRUJSWjlIZTMwYlBKcXIxdGJwQ0VGbmMwUy1oY28tckZkMS1kVXlLWGZWRHhrcHkwakRxNXFWVXZWdnpuM0xfUmw2cTFnS0JCZ1BUbmZjdE5iLWh2RHR5MExlMjhNSmwxaWFmWDM1WlI5Q1JIbS1JRC1vMFFESzFsdmFnTTdYUzNlaWk5eXgxeDU1a0Z4NkxqTUhvbFNqaW1iaDB0X1k?oc=5",
       "pubDate": "Fri, 20 Mar 2026 22:49:00 GMT",
       "description": "Measles outbreak confirmed in Washtenaw County: 3 cases linked to unvaccinated individuals ClickOnDetroit | WDIV Local 4",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Costa Rica Reviews Tourist Vaccination Rules After Measles Cases - The Tico Times",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZU9rcGJ4bm94cFIxUmhoMVJ2R1V2R21hTzFnNDdpejRpMjNzYjZIWGdsUHhYeEFVZ1hETVNtUFZEUFBTZENjR2lheGR1N19PUnlVRjA3UE1KR2FjVWRqV21vQlZYdjVSbV9nQWFCaEI4dkZxZG5RR3lVd1FxU3lLQkNoM2Q3Ui1XQlcyS0xfZEIxVkdUR3BkWXVhM1ZBdw?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 22:00:00 GMT",
-      "description": "Costa Rica Reviews Tourist Vaccination Rules After Measles Cases The Tico Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -619,15 +619,6 @@
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSE80a2p3aXEtaC1vREpKTnZpNl9CbkF0aUlZTnY4Vm1wUVJDX1RCanlZZFRaMEtyeEwwX21tX21yZGQ3VzVtdVptaG9VekdiZTE3bnRLXzQ1VmFTUjZCTmY0NGtLa0REX3BLZW5EMkpDS19IOHRYM0pOQk1IRnp0eXhLN2dDYXV0dG9ZQmZHV2JXbzR1T0t6WnBIZExjeERYVFNxcTBiQnozRkJta2w2NGhQc1UzRm4wU1JHZWowQkFHS0lCYUZTekt6S0draTZkTlRRNUE4al9QanNhUHRaWXJhWnFkejRr?oc=5",
       "pubDate": "Thu, 19 Mar 2026 22:44:00 GMT",
       "description": "Health officials warn of potential measles exposure at a Westerville CVS 10tv.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases rise to 13 in Southern New Mexico jails - Santa Fe New Mexican",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYVJlcUl5UWIyNE50T3B2UEUwNHhxdjhyNDVKaDhLS2J1dnJ5UmR4ODlOSnZ0OFIyZ2lMcWlBak9qYUx6bG90SDBtLW9qTzdFT2Q2MUJ3OVZtRFRCelZhV1ptY1YwLTNNRFlMMWc1WDdzRXNPUDlMRUVJdzk2Wkw0X21xeGstQXpEX192dndSbWlFQmtYLTVIbWJSMWFwNWp2XzkwRFZaM3RJamgxTW1jQlRkNkFoLVhPMlloMW1HdlhIb3ZIODRuWnFKT3B4QnJybUNGdlEyYWdOWllwZTJNaC1zYmhoZ1hB?oc=5",
-      "pubDate": "Thu, 19 Mar 2026 22:15:00 GMT",
-      "description": "Measles cases rise to 13 in Southern New Mexico jails Santa Fe New Mexican",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
