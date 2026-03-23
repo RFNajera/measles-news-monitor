@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-23T08:30:41.317Z",
-  "itemCount": 90,
+  "updatedAt": "2026-03-23T09:33:24.717Z",
+  "itemCount": 93,
   "items": [
+    {
+      "title": "Takeaways From the Times’s Inside Look at the C.D.C. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkxWLVd0OW5od0xFam5ySk9QWjY5T1BwbTdxNmJBUEJtTEFPcF96OU5sM3hYcEFKcjZ2bS1GeFNSUnAyeHFpcWJqbGxGWHhDWUo0SUpOZm41cGxLWGphTzdwaGlpWVdmUHJZd2dQM0E3Z1RjZU9QRFAxMVJKTFVGXw?oc=5",
+      "pubDate": "Mon, 23 Mar 2026 09:30:05 GMT",
+      "description": "Takeaways From the Times’s Inside Look at the C.D.C. The New York Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "CDC studying Spartanburg measles cases to help manage future outbreaks - Greenville Online",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV2JJNW9GVW9reHphc0RxME5MVTkyQjRSOVFlQXhNeXpkVHNla1RDaWQ0a2V6UW1OaFhnQ0d3em5OdXlKNXBqaDZaTWM1NEEzUzhJMG5wc3pJcWdSX3VPbHdzU1BhMFBEUHQxNjNMV3ZBMGdLWkpVcFFoRDhWbDAtVmVZWjZTbEF3ZGxyZXBaTGFBdVFJRm1QdWx0dVlkeldyMmlvSFl2ampxN21LMThuaG9YYUg2cXRVZnYyR1dYMTZsWkE?oc=5",
+      "pubDate": "Mon, 23 Mar 2026 09:14:19 GMT",
+      "description": "CDC studying Spartanburg measles cases to help manage future outbreaks Greenville Online",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Will ‘measles districts’ tip the balance of the House? - Daily Kos",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0pTYWtRR1plbkpQNVRSbzBHemlLNk9NbGNHekY0V09QeW5nYW5vUlctdDl4SWRNNXctTXoxLWF1NUIxS3FRLXNhLUM5ZHZyRU9QU0RTXy1nc1Mybi1YZVlLckpYWUxnR09UOE5yNTRSeWE2MTBDX3dZS3ZJYVFBaFlDWEFpS1ltU21JOHM2Zy1YVFNyNE1mNGZWSk5xODMxSTB6V1pR?oc=5",
@@ -79,15 +97,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDcyX2paRGFJS1czbWE5djdVc3Fva0FqQk85czlIWS1VQWpULVg1RkQ2bTJDcmRzRklzZnRIWUtyd0l0aFhrZ2RVMTQ0YWhsSHptVjlYY2FNSVNabWRIRzh3WjlHVTVDWFUtNWZhS255RHNVNkhDTlpONmVRUlktd2phREZJMTFnWUNUU0pWSGI4b2Y4M0VSQkRQejBENlhibnlCOUZ5QXEzMWVtbTd6Ym9NS0NkQQ?oc=5",
       "pubDate": "Sat, 21 Mar 2026 23:10:00 GMT",
       "description": "Grant County measles cases stable at two NonStop Local KHQ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Fourth suspected measles case in Washtenaw County - FOX 2 Detroit",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PUzNuNUEwd3Z2OS1KZXZ2SVJ2bzNNX2ozMDVLTS1Fa3VRb2hxNE9SajI5TXRQU3l4NDZ6R0oxVXVTRDFpdXY2SFk5QTNsdnViT1VFVDhDU205b0UwN2VqNllKejnSAWpBVV95cUxNZlZhb25ibkpLeHkxWW0zT1pNWnp0VFF3Sjl0Sy1nUGg3V2lzTUxyellnZEhVOEZxT1BZWjFwSFppdERHcUl5WlhDRV9IU2kwdzUzTmxTVVBTeUZ1dnZNWkpKOEJia1F0ZU5n?oc=5",
-      "pubDate": "Sat, 21 Mar 2026 22:26:21 GMT",
-      "description": "Fourth suspected measles case in Washtenaw County FOX 2 Detroit",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -489,6 +498,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Health officials announce possible measles exposures at Salem Hospital ER, Kaiser Skyline clinic - Salem Reporter",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdGphN3BTZWZXWjkzeUFUYmttQ0NhNjZnaWtBcGdJZFNPZnVwc3hxN2ZkR2E3THBWVjBscEJ6azNtSnp6el9HY0ZoX05HanFPVVdGVzdaVFN2ZUhYWG9LNzFTX0JkeGxfa2xqVzlCOEliUUlDZ2pXVDdybEFtejBBSTJneDhJdGp5ZUItTURrbFFMVGNIQml2ZDJsY1BfcDJiRWQwcDVXSTZEUUMwdENVR0RLOTJjZ25tNTlaWjVtRTNOZEZJX3pET2ctMzdyd244OU1v?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 01:57:54 GMT",
+      "description": "Health officials announce possible measles exposures at Salem Hospital ER, Kaiser Skyline clinic Salem Reporter",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Salem hospital, medical office among new measles exposure sites - Statesman Journal",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQlNPN0VBdTRWeU4wZUpsdTMycDJ4cElTRlNIbk9OaXktNTVkUW0wTC1mdE9jdnZZeHlUdWtCSU1zLVlHRVA2bzFCbnhfWkJBbk96QXAzd2tmX1o5RFoycHlCSDhzWl9HTnNldmdSS1ZaX1lYc2ZCajNCMVlIU01EaFFRVFo5NEVYSGN6bGp3alJDS2RvQ2gtLVp0SFl1enJsZmdKVw?oc=5",
       "pubDate": "Fri, 20 Mar 2026 01:46:38 GMT",
@@ -583,6 +601,15 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFlaTWtEWUc3WTVoMGg1Umh2TnBjMC1Ya3FQQU14SEtNdWpBYm0wbTVWcGwxMnh2Qkd3UjAzUmhHamh5djYtVEx4U0ZEWVBJVm5RLXZKdndCczJPbEp0ejdndHkxUFNGbWVqRzJxSXJaaVZYdHlkcXpYX3RxWHJ2bVNCZGpTekdDSUJEQ1JlaFF1cEtjUUUwUTVQbEhtYXRZQS0xUEU2bFFuaGfSAbABQVVfeXFMUDBqVklSWnRYNWdXSFVBRU1naUxaRHBwVlktMzJiQ1pJSmN2enAyanVnZFRWa3ZyQlRKRmRvd2t6ZFF6Zno4U0NhQzNKajUwWml4czNkVWZjZ2lNWjVoX1pOdGV0VEQzeGVpbEZXQ3NKMUtqa0JBTTNJbFNHcXU1Vkl1akNCcjdOTl9sZVUxSGtseEJYQWRpNWZZLVZuUXAtemFQbm9ESE1KVkdIbWZMdms?oc=5",
       "pubDate": "Thu, 19 Mar 2026 22:13:25 GMT",
       "description": "Confirmed measles case being investigated in Westerville NBC4 WCMH-TV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "'Perfect storm:' Measles outbreak hits Broomfield and spreads fast after unvaccinated, infected teens attended two schools and roamed throughout Denver's suburbs - UCHealth",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwVi15UDd6MFNHT0ZEMTlucl90ODFnUnBMTTFxNTAtekFlSXk2aHRnc1pyelQ1clFKekZjRTFjVktVaTc4LU1PRnFUNE53TURsSFhxaW9ORXR5SkdGd3R6Y0NObE5MZ3VzVUd1N2xwc0pfd1hLbWN3X214Tk8?oc=5",
+      "pubDate": "Thu, 19 Mar 2026 21:36:50 GMT",
+      "description": "'Perfect storm:' Measles outbreak hits Broomfield and spreads fast after unvaccinated, infected teens attended two schools and roamed throughout Denver's suburbs UCHealth",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
