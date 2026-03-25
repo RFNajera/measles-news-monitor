@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-03-25T20:22:39.439Z",
-  "itemCount": 86,
+  "updatedAt": "2026-03-25T21:21:54.080Z",
+  "itemCount": 85,
   "items": [
+    {
+      "title": "Measles cases discovered in Southwest Virginia - WSLS",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXNsYU01TjhfdF9ackRXWVllbGdCX0NhLUlua2lCS3pzby11Q1FDRTFEdEZyUDFlMVVsV0lyN0RGUXNHUUE4UWtXTXQxUlNqaDJkczJSNWFsaDlvTzE0QzRRa0l5elduMnlmcWQtMFhZX1FVYzlCT1A2MzhQbWhwUWFVSWN4WVBUTzh2SWpqVDM3UHFy?oc=5",
+      "pubDate": "Wed, 25 Mar 2026 21:12:38 GMT",
+      "description": "Measles cases discovered in Southwest Virginia WSLS",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Washtenaw County measles outbreak rises to 7 cases, health officials say - wwmtarc",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZmdWT0pxTmp4Wmh1eEUwcVdtRWwtLWlQVmVxemxfSWxpdkhtaEtLMlJLWElLak9xWG1zc0l1b2RTSFBXWU9HeGhGSWN0NWk4d0g2V3I3VnE2YmtscXpTaXd2UjJZRE1ueGNITENacHdCdThsaTRFaUVOX2tLbDNYOUtmelQ1V3lYWHNCa05yYlAyT0cwWlotY0ZjLVN2eFZEMzlTR1ZLRHpKbjhHUnhYOWpBTl9YdFZUWVFWX1lpaXA5dGtyU0RXU1JvcTAzaGgxSlN5aTJXOHRHTHFVYlE?oc=5",
+      "pubDate": "Wed, 25 Mar 2026 21:02:17 GMT",
+      "description": "Washtenaw County measles outbreak rises to 7 cases, health officials say wwmtarc",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "measles exposure sites Archives - The Sun Times News",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KRm94M1MtVnRTMVZudUV1X3lYUW0zdnBEb1FYT0hUTDRlb0tTSGhwYTdWem5BbFkyUEVGZWZaSkxudmpFY1o1dENuQUpyOFJySzRZZWtIcmtZVlR2ZHd5QVc5NzVqZw?oc=5",
+      "pubDate": "Wed, 25 Mar 2026 20:47:03 GMT",
+      "description": "measles exposure sites Archives The Sun Times News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "'Breakthrough' measles case brings Shasta County total to 10 - Record Searchlight",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUFJyXzlwajZCUHA3ZTEwUl9vWGI5UDhZV1A0blpTYTFxYkgzcEpBVW9xWWNnNlYtT1NOcGM0Rk0yU01yR0FfcDFCbFdHUVNBTDB4MllMUEg4RXg2MTBLdlRYaS1KcHI5akUxYXBxRFRVT2NMR2hLS2tNNXRMbTZNWWRKUzlyR28wdWxqZjJKdUkyY3FCMkpRcVFLenpRVllZMDZzZXpxaER1RlBtbGNVSEdtcEQ1cGR5Ql9Tbi1VQnk?oc=5",
@@ -48,15 +75,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Washtenaw County measles outbreak grows to 7. What you need to know - Detroit Free Press",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaEhiWVd5VG1vc2ZlQkJ6ZDktY2dkb0s1Rm12NmxIZzVqM0tOVDRzcnRTSjY3NV9ZWHd0U0xnVkUtOUVvY2hYNGdUU1BIdFdQMkF5Sy0yNjdUQmRxTTJOc2pHS2pVRkNUQmt3TXZuY3YwSXhJcHE2RmJWVTVwNjMxSHZzZXVCMG9hSHNpT2NQVU5NTzRwRTQ0Rm5Pcy1nRnB0TXRlbkJiUVlaT2s3X1l3dg?oc=5",
-      "pubDate": "Wed, 25 Mar 2026 19:18:46 GMT",
-      "description": "Washtenaw County measles outbreak grows to 7. What you need to know Detroit Free Press",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Spring break 2026: Travel season risks spread of measles across U.S., state officials say - Caledonian Record",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQR1FtSEdVSnMwaVYyb3BvdHFNRzc0ZndUaWU5YWhwVzdTSlh0NmxKMTY4ZTh0Q1BJNXJreWxGYXVGbDJfMzJSZWJlWmxXMWJoRlltOEZZSFZQQWJLbnJLenJ4UFBGQ29ibjdkaGt1c2ZtbTJLeU1hTHYwZXNJdmktUzBNcDRJZEZzLVJCcHljZHlpRWRUa09rbjU4bmZyazBXbDVkZTdkdEtRbkVjTWs5WkhzODhpaUhsenk0NG1fbURQUmZCZVhSa0dGMFNGMlR1amRwUjltSlFFV3NaYjN2ZTBsZDgtQXhESG1fTTJIUk5MVE43TV9meU44LXVMUQ?oc=5",
       "pubDate": "Wed, 25 Mar 2026 19:00:22 GMT",
@@ -97,15 +115,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxObzd4SEctOGJjY0Faalo2S0tIZHNkaS1URm80aDh5Mk9qWnd3cjJIWVlXMjRkbWVLRG0xb1JFS3JQNk9WUXM0YjFfT2haT2thNzRrVFZrbWd3UWltSGVvTElBcFRlZk5YVGt2S20tUi1sTVVTY2FjZU9vU3BhY2RBdFBTb3hPak1ha1J1NjdUQVQzUzZfMWJqem1KM0FNQ000RDE4bDFrbDlJRkozRFhweDhuMTl0SlNia0o3ZGJBYVBlM2dkTGs0REo4NlRWUkd3WVRCOHJJRldUUTRhSGI1RVpWVWM4Qkt6LVdfc05FZ0N0OXlHUmNtN3lMb1R3Ykg3NmpJejhn0gGLAkFVX3lxTFA4LWU3S21vN0ZUaUVLUGtSU2ZvanB6NUt6ZnpTZlhyZkhDXzNwdVZvbnlIMEl5OHY1bUxrWnFIdk5VWGY0elZmaXhvV3J2ZmVsWnNaekN1b0tURDIzNGctSmFTUUZaalpmMkpjVHhZNmZnNnhjd2xFTTVHcTBieWw4WE9GTGVNTEhaV0ZWM3pUVzFHY21qaDY4Um5VeHplM3Z5dHgtZXdGeTVOakIxcnB6R25rRjdvVG9jSkNWcnFwYmlpYUpXQ2lBMHBNcW9NLXRLaXRXbVE1bkV2NDRrdW1rQl83NzZuNk1HRWdpMTlNeVFKZ2ptNDBZV25keFg4RnlQZjhKZ2FSNEZZQQ?oc=5",
       "pubDate": "Wed, 25 Mar 2026 18:02:08 GMT",
       "description": "Measles outbreak grows to seven cases in Washtenaw county; unvaccinated children and adults affected The Economic Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "South Carolina could declare measles outbreak over by April 26, health official says - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb182ZU1zczFsS3p5Q1JKcVlzeHBVY1pwMUxhYmJoVml3RC12VkhLOFU1a29kN3EwS2M3UEt0T19rbjJsUERoSnpBTk9TaldEWDBIbDE3S0xMcjlGT25RdjJGUmM0Mm45Tk1hSjBEVEJQNmVUTDd3OFFYX0dWWXJBZmtnekRwVXlfOF9hUTdKMTFxU2JlVTVJMkk4dkNqUFV4Ny1UQTdTYjcyWVJlYlF4TWdYbjNZV19BX20wVlFOamE3TEEteG9wUGJaRmU4V2ZYNkE?oc=5",
-      "pubDate": "Wed, 25 Mar 2026 18:02:00 GMT",
-      "description": "South Carolina could declare measles outbreak over by April 26, health official says marketscreener.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -175,7 +184,7 @@
     },
     {
       "title": "Measles cases up to 7 amid outbreak in Ann Arbor area - MLive.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVFo0RHlCMllmdUVMOXVFN3J2eHJnQzd2T0liQkQ0VWpMQW9pa0x6QkVFNFBOUm9lQ0U5UkxSOEtMWkYwZWVORmRjVENxU2o2RFJVR3hTczRpVl9TNGt5bExnLS15YkduVE5UVllXY0hlZmdtYlNETk5rUWYwakNveVE0WmtoLTh2cG5JWFRuOTVaYUxfRUMzOGVweWtQT09peElVUE9B0gG6AUFVX3lxTFBBYl9lQ3NlTWlhU1gwZXNnRURkeTRJWWdSTUF3WUZKdEZ3UFdySUtuc1hYLXA1SzdPNmdqcW9UYmN6SmVjX3A3MFBvZWdmVmFFa3FubGJOV3B1dHdRMDFnc0s4MGpualhsNEc3WVdNU0VSTlpKNEJtbGo0SGNpbUo4LTdlSl9BeU1KYVdfY0RFbmM0eHB1QjF0aFhveVpkN2N0alE3ekRQcUZZRWo5V3F6T0hTT3VWQUlZZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVFo0RHlCMllmdUVMOXVFN3J2eHJnQzd2T0liQkQ0VWpMQW9pa0x6QkVFNFBOUm9lQ0U5UkxSOEtMWkYwZWVORmRjVENxU2o2RFJVR3hTczRpVl9TNGt5bExnLS15YkduVE5UVllXY0hlZmdtYlNETk5rUWYwakNveVE0WmtoLTh2cG5JWFRuOTVaYUxfRUMzOGVweWtQT09peElVUE9B?oc=5",
       "pubDate": "Wed, 25 Mar 2026 16:56:00 GMT",
       "description": "Measles cases up to 7 amid outbreak in Ann Arbor area MLive.com",
       "source": "news.google.com",
@@ -204,7 +213,7 @@
       "title": "Washtenaw County confirms 7th measles case -- Here’s a list of new exposure sites - ClickOnDetroit | WDIV Local 4",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUjhCbVNCbHVXaXRScjlvRGNsS3VFUlZoSDFnM0tleXFBWUE3SFExVVlVTW85UnZhVHJmQW5TX25nXzc4OUVscE9qZ2s1TGVFc1doUF9VTGh6MmcwV1ZYYWVrd1FjbnVBelBHM3NLb3dfak42cng4SWd1TW1McnFNVjZUa1VINEtmMzlTbGFEdUxBTVhtM1N2TXBmVFNrQXRHcmV2RjNaNHRLdU0zVURsNlRLZHdtOThvNUppQlpoZWhiQVVuT0EtZmRzNA?oc=5",
       "pubDate": "Wed, 25 Mar 2026 16:35:28 GMT",
-      "description": "Washtenaw County confirms 7th measles case -- Here’s a list of new exposure sites ClickOnDetroit | WDIV Local 4",
+      "description": "Washtenaw County confirms 7th measles case -- Here’s a list of new exposure sites ClickOnDetroit | WDIV Local 4 Measles outbreak in Washtenaw County now at 7 cases CBS News Washtenaw County measles outbreak grows to 7. What you need to know Detroit Free Press",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -250,15 +259,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNay1LRkZGaDFCalRDQ2I3T3B0c1I1bzNHdXNMRGVYX193LWs5dTJCMUlTN2xtVVQxbEhyWkFNMk1PdWZKZWYzR21PRFQyN0dyRnl5a0ZiaWdtVDZuR3JUejZ6YzFpSXRoWVM3cVhvUFVZRlc3ZWE4d0dOZmVJSnJqeUJQeHlnVElXbjROTmNNWHRGRHZiQ3RFc1ZLWWd2WnhjUHAtNUNfMmc0R3gyTW9yZy1EVmotX0lGUFBmTi13YUdJY2hreXFQc1pjcU4?oc=5",
       "pubDate": "Wed, 25 Mar 2026 13:37:57 GMT",
       "description": "Failing the Stress Test: What the Measles Resurgence in Mexico Reveals About a Fragmented Health System Mexico Solidarity Media",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles, heatstroke, tropical diseases: Mass. health leaders prep for the worst ahead of World Cup - The Boston Globe",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXV6eWZvMGJkeE8zQV9zWi1BaE1uQjJWS0lCdmd3dVpNV2Flcmx5SGU4MG9lakhMem1vb09PRm5TSHQ2cTd3WlBXM0prMlVGR1pzTE54cDBfM1dRWGpFNm9qczRhNk5DS216YVMzSC1zc1lPX2o1dTVWZ0Rtc3Y5RXJYMXBuSEQyTGx0VFVPa1FNNU0?oc=5",
-      "pubDate": "Wed, 25 Mar 2026 11:54:15 GMT",
-      "description": "Measles, heatstroke, tropical diseases: Mass. health leaders prep for the worst ahead of World Cup The Boston Globe",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -340,24 +340,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEowRHRqZng0X09aS1V4ejk4RURzTW1XOURWSTRxbHZ6eExOYnJKS0hqQzlKLTQwVHpQWndXcVpoYUN4SFBWdUZFNnZqSEdudV91c0t5OG5hMkpfMGcweDUyUHNmMDJSNmlTWS1qSFR5NE9DbjlTMnUwMDQzS3lpaExseVBGN3E5X0NJSlJjRjZBZFB3YnVmZDN4YUUydHg1?oc=5",
       "pubDate": "Tue, 24 Mar 2026 22:33:00 GMT",
       "description": "Officials: Upstate measles outbreak could end in less than a month KBTX News 3",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Officials: Upstate measles outbreak could end in less than a month - WSMV",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVndOaXVBM2RiRHhzZ0d0YWJFQmY5a2pNaWxROUQtd3B3cTFRSlJqT244NnNNamxNbEVuemNab0xaUUxmQzdOd0U3Q0JXakZDUzdqa3FDdE5QYkp5Rmx0OEw2alppM0l1T2VrdGphS01NOWJHZmhGVW8xcHJWdGJfc256M0dUbHVJNEZjUTNzMFl0bXh2QzFUWmN4ZzNNeFJK?oc=5",
-      "pubDate": "Tue, 24 Mar 2026 22:33:00 GMT",
-      "description": "Officials: Upstate measles outbreak could end in less than a month WSMV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Officials: Upstate measles outbreak could end in less than a month - Live 5 News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdS16N2VWOGo4MTJfd2E3WjUyblRoVF9jS2lEcUgtaU5Ic1dFSzJnOFJjU3dvbnhSTEVEbS1VajBST2RRaExvb3pqSkM4bWtFdUctbmk5N25YS1VNaC1wa3lKcUdpa0R4dk0yLVlkalczME5GT1NiSFhaYmdfTURBWFJvdVg2dnZ1MjVUbVFKSXE3SEpXSFQ3dHREa2VxVHJLMDVMUkE5bw?oc=5",
-      "pubDate": "Tue, 24 Mar 2026 22:33:00 GMT",
-      "description": "Officials: Upstate measles outbreak could end in less than a month Live 5 News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -489,6 +471,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Consider measles risks in spring break vacation plans, health officials urge Manitoba parents - CBC",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNclIzeGJ3X0dFRVM4SlJfbjBxWVBnSnZlN3Ffb2RHWHBWX2ttY3QwdFdxMWhCQmN0dWt2RXFpTWhVZmNtdEFHVjNwRlJxNU1CRjlCU19ld3dDRklOZWxBam1lN1hvY0EzbG1iZGNLNWloVFA4Wm1ScXgzNURoS3BERE5QRkNhdlJjMjRETnAxQzU?oc=5",
+      "pubDate": "Mon, 23 Mar 2026 23:22:16 GMT",
+      "description": "Consider measles risks in spring break vacation plans, health officials urge Manitoba parents CBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Grant County to offer free drive-thru measles vaccines on Tuesday - krem.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaEtMR3Q3N3o5bUNaODZKTmJ2UURyMzMxQm9XZHd0ZmlYQkpDODZxYWtsZ2l0MjY2LWdSWXNKb2FlV0VqYjlYR241aHpQNExrYzNYTVktUFFZY0dhQlhnejYyN0RxSmNDT185MUZncVVoaEpPVlpFc3N6X1cyWWFYdGQ2b2R2UjV6elp1eDA3MmNqYl9vQTNHM2VCYmdtU2NCRzBDQ1dCcTNlM3puc1VwM2Q3XzJUUXdlSE1UbWRjQUZwZw?oc=5",
       "pubDate": "Mon, 23 Mar 2026 22:24:00 GMT",
@@ -570,10 +561,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Coconino County confirms first measles case of 2026 - AZ Family",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbWpqUkIwSmttZ0JETkNqRXk1dERzeG1ubDlIR2M1UWFLaGkzaEhWQWx5RjUydl9XVTR3VDZrQlB5bmdreUNSTHpUNXFQcVh0UnppdDN4NG4zTXQ3RWhEaXBySXExeXpUSS01YXI1NkE1TEpvTWJuZWNIZF9PX1A4aWc1NHM5cFl2b3VHS0pB0gGiAUFVX3lxTFBGTFNyRXk1YjgwOUIzdlV1djZaTHkwbllwc0hITW11Zmx2MXR5Mlo2dkNXMG8zQjZoa2VtUHh3RnhsQ0EyQVFUblJIbXlzeDQ5NWJ6ZjVYRzZjcnNENHZZZFM1SDN6eURBWmdRVnhyaW1TSC1iU2lNUEJOSjB3dlVVdlo1TVhpcVlIQlE3OS05THNEQ2c3VkpMNTFpbXVFbHpTdw?oc=5",
+      "pubDate": "Sat, 21 Mar 2026 23:26:00 GMT",
+      "description": "Coconino County confirms first measles case of 2026 AZ Family",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "New measles exposure locations identified at Washtenaw Community College, in Ypsilanti - The Eastern Echo",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLV9MTDU5YTJoSVN2d0xCaXQtVWo0a3p5NWJ3b2NBYmVvN2x2NldIOUs1cWxuUm9Hby1pSFpOYUk3RjN1Q0U0TDAzYTNlZnJBcDBtZDEwUEFybGZJUzhsZ25EZkFjYXEzNWlZRkVVZlRXRjVzNjV0cDJFTFFpUHlyYm1aUnJhUUlKSzQxSjFSMDZOa3FGTlc3UmFrVnBfYVNmWUQyY2dn?oc=5",
       "pubDate": "Sat, 21 Mar 2026 22:22:11 GMT",
       "description": "New measles exposure locations identified at Washtenaw Community College, in Ypsilanti The Eastern Echo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles outbreak continues to expand in Washtenaw County, fourth case now suspected - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLV9kSWFZUTcyN0NHb2RzRUxmQURtUmlHLVY2c1JKQ2w5MmFlSUFHRjNJYTJreE5QbGxBd3czaWlJa0N6WTdqajNtdnhJYmtBSTI4SkI2UldzWmVBcnVNNTRlNHdZVVlUZ1k2Nkt5QkE1WGl3ZFZsUmx5X3dfRWltWnJQcDRXR0poYUU4dlloMm5yNTZENEtj?oc=5",
+      "pubDate": "Sat, 21 Mar 2026 21:31:00 GMT",
+      "description": "Measles outbreak continues to expand in Washtenaw County, fourth case now suspected CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -588,15 +597,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Fourth suspected measles case reported in Washtenaw County - The Detroit News",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWVZKZGRwSHJuZlZIU2g1Z0FuWlU1dWljOHN4akJ0V2I2ZUtpcmhPT2Jqd3FzN0tYT0xWaHFHRUpmd0k0VE4wMXRvRXB5S0Rlc1cycHVCbWlHOVgzQ2QtTmNSX0VFVjcxcnpyTkl3VmhpRlFZSmVjaVhGeE9yaGYzcEVKSEJZNHNkaEFRVXlUZ29iUFp2aWN5M3ZpSkZqYjNoakg5VVh4QUx1V2R0NVJrTWZDVFBBcUlOMk83cHppYmMtZldMRnBYdzlLaEExNTdmQUM1WlB0OTRjdw?oc=5",
-      "pubDate": "Sat, 21 Mar 2026 20:00:00 GMT",
-      "description": "Fourth suspected measles case reported in Washtenaw County The Detroit News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles outbreak grows in Washtenaw County as fourth suspected case emerges - MLive.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWXhJWkw5QU5RU1MtdWlJVVRqNlhRb2xfWnlXdDQ1bm5wRVZqc0pIcVFQNEdGWkp2OXVvRzQwYS1NY1BuY0FuY0FJQmJpY3k3Qkt3cF9fZHpsb3A2WERwN2JlN3JnQ0tZcG1Bc0IxWFl6aEJoRExDdG9va3l6bVN1QktzZHlpOTlEc2ptLVcwSHpDbnJVdzhPNGp1VVhucnptME50Q2EzUks4TUVqQmpha3RWSGhaSTA2ZG5XTmlVbmJuNFnSAdcBQVVfeXFMT1FyeWNuTmlKc1o2VWlucGJ4Q1l6dE5JTEhWOFY4YUVrazVvV09DN3lUZ1dkSFFUeUh0SU4zZDItZ3J0Qzk0UU50aDBtWjJsa2N5dE9PQ053elk1WkNIN3lSSDFQWVVxQ3JhUFcyVWRRZ2g1eEtMSEFoMDJvUTdjZ29fMjZkdUtLaTh3R2l5amJqU04waWNNRTE1SWFDSDlJXzIySlZWY3YydFNmWFdNSGtJeDdJeXBCQm1DWHk4eUxEX3JORlhuY0xLeEp6UUlRM0Y2WDh4Mlk?oc=5",
       "pubDate": "Sat, 21 Mar 2026 19:21:00 GMT",
@@ -606,10 +606,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "The Relentless School Nurse: There is Nothing “Just” About Measles - The Relentless School Nurse",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWgwaEFTNEtMdml1bVN0cmg5VnFZM0xqWWJqLWNOeGlWUjB6bXdLRTBzQkdEVTh0Y0VtczVDTVdRYXZycGJzSkZ2VWJOMjBpTllkMHNwNm9TYTVRRV9FclZRLW5HQWVFMEtXckVsMXM2V3pWdEFSejZNTFVMXzVocThJbF9LcnkyOUdnbkk4MkxJdFFTQjBCc2RWS2ZUclFoY3FxSXp0dG9lbFo3Y0HSAbMBQVVfeXFMUDlKR3d3T0dtWFp1MzNtR0xDV3E1Y3NHWTg1TGs2b2w3ZUZrOXlhVlBrbGJ3Q2czTUNxWjBHOExqRldEeHM4Znh2MTlzTFZheWdoM09DZmg0cWFocGVSZTdrZ05tY0VET0J2SWRfMHNYNDMyYnlxMVlucVM3YTRHN0RXeWZLbF9aa0Eyc01ybU94c1NtT2tTN0dvQzQ4Q3BmSXBMaTMyYTJ2RG43bV9TV2wtR0E?oc=5",
-      "pubDate": "Sat, 21 Mar 2026 12:05:46 GMT",
-      "description": "The Relentless School Nurse: There is Nothing “Just” About Measles The Relentless School Nurse",
+      "title": "measles - Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MTWF1WnlQZ3pzaVBoUkRqb2VJZnNuT0xKcGdSRExEMzRFSWNHa3RlRG9nNGlYTkhvQnNXS1NldUNtdmppa0VaZHZLbFZPUVJPUTIyTw?oc=5",
+      "pubDate": "Sat, 21 Mar 2026 05:00:00 GMT",
+      "description": "measles Britannica",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -646,6 +646,15 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSEVqUExfS3BPMWM4VDdhZXZyWlc5SUQzNUI5VENIdGNiSHBxdVJrc2s2dDl3U1cyNnJ2RTNhRUJSWjlIZTMwYlBKcXIxdGJwQ0VGbmMwUy1oY28tckZkMS1kVXlLWGZWRHhrcHkwakRxNXFWVXZWdnpuM0xfUmw2cTFnS0JCZ1BUbmZjdE5iLWh2RHR5MExlMjhNSmwxaWFmWDM1WlI5Q1JIbS1JRC1vMFFESzFsdmFnTTdYUzNlaWk5eXgxeDU1a0Z4NkxqTUhvbFNqaW1iaDB0X1k?oc=5",
       "pubDate": "Fri, 20 Mar 2026 22:49:00 GMT",
       "description": "Measles outbreak confirmed in Washtenaw County: 3 cases linked to unvaccinated individuals ClickOnDetroit | WDIV Local 4",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Tracking the 2026 U.S. Measles Outbreaks | Health News | U.S. News - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ2dmWVRZcGJ5N1d2cy1VNnYxTnRuVFBkRkRacU9PVkxQQVZCdVdUZFNfdGEtMW90bDF6LXJzZG1pNHI0ZVVoNHd2VDF0ZDNFeXNwT2ZyUkJuVVR2cFZVSHlvV1kySHBxMXhoVjNVNHJDRkVEOEJKTE9kVkNqcWpzZy0tcUF6c01FcUhyQ2RBQ0JXMmdwMGdSS253d3M5VWxD?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 21:48:00 GMT",
+      "description": "Tracking the 2026 U.S. Measles Outbreaks | Health News | U.S. News U.S. News & World Report",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -723,15 +732,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Opinion | Measles Is Roaring Back. We Are Not Ready. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVItQUUxbFE4ZmZXNGFLR21pb2h5Nkh3VThzUlhsSGZnc3JUR3AtM2ZSX0k1TFVHdEVYYVVCN2Z5eFRxcnBQWml3UmJpM2xzelFaNGNZUUhuczVEVjVtZE1CbnlyaERUWkU4c0dzbnlXbkR4NjM1bTY5aXo1akpic1o3SllmZw?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 09:03:07 GMT",
-      "description": "Opinion | Measles Is Roaring Back. We Are Not Ready. The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
       "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT",
@@ -763,15 +763,6 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwVi15UDd6MFNHT0ZEMTlucl90ODFnUnBMTTFxNTAtekFlSXk2aHRnc1pyelQ1clFKekZjRTFjVktVaTc4LU1PRnFUNE53TURsSFhxaW9ORXR5SkdGd3R6Y0NObE5MZ3VzVUd1N2xwc0pfd1hLbWN3X214Tk8?oc=5",
       "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
       "description": "'Perfect storm:' Measles outbreak hits Broomfield and spreads fast after unvaccinated, infected teens attended two schools and roamed throughout Denver's suburbs UCHealth",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "County Notifying People Potentially Exposed to Measles from Out-of-State Traveler - San Diego County News Center",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeVV0Y1pDZ2FyWERGZDlMblZBdGJUVGFKSU5kamlzVk9sN1plYXJLMVlDZXdaeElNakVhVmVPRm1iRUlrTnpVQ0xUWXA1ZGJqUWprcmpSUXM2eU8tT0tuNGwtejdrRmo4VnFZT3pYanpyUk9yelRYQXdPQ0czemNhbVk4eEd2aE1rNG42b0FxZXh2VnBkd1hHbHN1OUZ0VGVpc0t4VDgzQ3dHLXdxcDVCcUd5aHdHd9IBuwFBVV95cUxPRmJ5Qmw5YldjdFN3UUZURE5XWW1uNUFTR0hBY3h2Rm5QXzZiUGNJbnhBbWJzTWwxclB6dWdaVzdfTzdWZDJrQTYySUJVWFZsM21RZm04NzJ5NUY5dVZwcEU0YjVRdzVFS01Yd21WcFJtWGo0QWNha1d1c0RUUXFXdEtMUHo3M01ITzZmN3NnalVUdXc4eWUtRmlWcWstVVVGd1dubWNXU0sxYmFLbjVpMWRMcTlnTVU3ZUE4?oc=5",
-      "pubDate": "Wed, 18 Mar 2026 23:26:18 GMT",
-      "description": "County Notifying People Potentially Exposed to Measles from Out-of-State Traveler San Diego County News Center",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
