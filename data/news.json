@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-27T14:30:58.992Z",
-  "itemCount": 88,
+  "updatedAt": "2026-03-27T15:27:54.873Z",
+  "itemCount": 87,
   "items": [
     {
       "title": "Hello, Ann Arbor: Reporters can get the measles too - MLive.com",
@@ -32,7 +32,7 @@
     {
       "title": "Measles found in NJ wastewater. What does that mean for residents? - Bergen Record",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzRJM3lYckdiZDFYV2JrRmhxNXdxc1l3cnNiTXdFZ2c1SG1OTzlwWmF3VHFMYl9Ebk9IMDVnUFBSdkZNZFhtTE9IYVJCOHE5QVduVHlZVV9Cc2JFZHBib0dKcEVRWmZ1VHA2bUlCOXlhdEpPaUlYUTRZR2MxdVpDU1M5aWVKUTZuMEc4dmpQcFQydjVqbk81M3pPeU14S19NMkJQdkZoOU5nT0l1cEJxVWtmbUxGWlAxS3JsX0NQMHRpdw?oc=5",
-      "pubDate": "Fri, 27 Mar 2026 12:49:48 GMT",
+      "pubDate": "Fri, 27 Mar 2026 12:59:52 GMT",
       "description": "Measles found in NJ wastewater. What does that mean for residents? Bergen Record",
       "source": "news.google.com",
       "sourceType": "news",
@@ -381,15 +381,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Washtenaw County measles outbreak - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5La3ZxZy1mZVl4WkxwMkJ2NkV5ckNPZlR4VXJCNlBPQ0E4b2ZVUmRqQVJDNUFFbmNUVXFpNGlyY0Q1d0RyU0hrNVJRVU1nX0pkOGVnOFNobkRReFpaa1Q4WXdjSlZuQndsR3Iyc0Y1VDg3TEh4S1lGTkxEQjM?oc=5",
-      "pubDate": "Thu, 26 Mar 2026 16:46:00 GMT",
-      "description": "Washtenaw County measles outbreak CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "The US could lose measles elimination status. Vaccine policy is fueling the chaos. - The Hill",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVVNZRzhNaHc3bjc4eWF6MW9SVndUazRKeDR5bUgtWnhLNGVoYjZBV2JPYUVLUmJMZjRvS2NsR0doaW55R2NtMkktdUxDcFVaSEhsTkdFcV9hdVhhWDZpQWxSOXFsSHdBSXN4VkM4bGNyNUhMYzAzeVhNTU5mZ0hENnFrZThmX20tckloWkdjM0tlOVnSAZgBQVVfeXFMUGNkemlac1hyalk1aUZfSVFyejVEZ25IZHZCa1ZVQlktdkhsRnFrUVNQZ2tsdGw4dlhyQVhBUDJLODluS0huWEtzQlFwMzktVm5sM29jTy1HdVBzUFFVXzJUUnNMd245VjcwMjAwOEdqX3lnVUFuYlFNN0Y5WjMzbGpqY3AwbGM2ZjNldllQTXYyR1gzLVZfSkk?oc=5",
       "pubDate": "Thu, 26 Mar 2026 16:30:00 GMT",
@@ -714,6 +705,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Ottawa County measles case prompts health reminders amid travel season - WTVG",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNl9UUFhVbWdnSGpLLVItdFJjQm92OTVfZUdzNHFvVjNyUlJUNWtTaFVNaG1UdDZob25jNHRHUGpiNkE1OGZIWTZxN1pXUEpZUGNqc2J3QndWWDdBemYwVXZuQ3h0aFYzWlpaNFJoSHN6MmM4YTNKdGFYQXZIcGRQbGpwcFNQRXhER2w5QjJyT2swYWQ0SXlYYmI1bW9NSWJucjZ2QWZzWdIBuwFBVV95cUxPVklxODdqTEl0REM0SjhwUEFUYmxfWExDbC1QcDFieGt1UW45UUVRbmJ4NFlVWEgyYWZILWxWU0Nva1V5MWtWVjhkRUV4NHpRWUYzXzJ3TkJTS25rdHVqNUVGZWViZVAxb0hsa3ROaHE1MHVEdjhyTDNDczFtQmJySkZnb0ZDR1kycjU5U1ZrbEd0akR1ODFmMmo4d01sMDhGRE1KMzU4dmg2Tk4zT180RXdrOHBaNl81V01J?oc=5",
+      "pubDate": "Tue, 24 Mar 2026 03:26:00 GMT",
+      "description": "Ottawa County measles case prompts health reminders amid travel season WTVG",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles Is on the Rise. Have You Reviewed Your Vaccine Policies Since Covid? - corporatecomplianceinsights.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaDlGUnp5ckRJUEpyQkZhRkdWNndmLUNUVXRsMDF1MmluY2tnYWlWeE9ZN2JMWERWSFhuYnFYUkRUU0hrZFhadUlaVWlxcS0wWG9KR3JJZUpKd25pUWNiUTAyaGFBUEVkdmRSaHJ3cFBEbndCWDZzdGI3MjV6SnpyMFlTVTVEanJCTy1HX1FPR1NqZ3dscnlv?oc=5",
       "pubDate": "Mon, 23 Mar 2026 11:02:26 GMT",
@@ -763,15 +763,6 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOGpzS2ItVHFtYVMyMWdZem9PSThWcV9SNDNzTmVqY1c5UTZ6dmpCZnRMOEY1R2RJWTFCRGVnTTdidGtWR2VPVGtYbUFEYzNEbG9RZUVNcVFFemYzRDY3dEYtdHpCVHFuUnFaWm9ETWlFVVBFRW4zbE1sUlVJUlVwSXdRSTg2TmJ5MTYzS0hhOHNFU004MjBBT2lMQmRYeWRCaDk5SnFDWC1aZDhfbzVwcTI1aUo5SmNqLUkyOXFuNlpWc2lTd0YxdktTOA?oc=5",
       "pubDate": "Sat, 21 Mar 2026 20:46:47 GMT",
       "description": "Washtenaw County reports fourth suspected measles case, lists exposure locations ClickOnDetroit | WDIV Local 4",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles outbreak grows in Washtenaw County as fourth suspected case emerges - MLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWXhJWkw5QU5RU1MtdWlJVVRqNlhRb2xfWnlXdDQ1bm5wRVZqc0pIcVFQNEdGWkp2OXVvRzQwYS1NY1BuY0FuY0FJQmJpY3k3Qkt3cF9fZHpsb3A2WERwN2JlN3JnQ0tZcG1Bc0IxWFl6aEJoRExDdG9va3l6bVN1QktzZHlpOTlEc2ptLVcwSHpDbnJVdzhPNGp1VVhucnptME50Q2EzUks4TUVqQmpha3RWSGhaSTA2ZG5XTmlVbmJuNFnSAdcBQVVfeXFMT1FyeWNuTmlKc1o2VWlucGJ4Q1l6dE5JTEhWOFY4YUVrazVvV09DN3lUZ1dkSFFUeUh0SU4zZDItZ3J0Qzk0UU50aDBtWjJsa2N5dE9PQ053elk1WkNIN3lSSDFQWVVxQ3JhUFcyVWRRZ2g1eEtMSEFoMDJvUTdjZ29fMjZkdUtLaTh3R2l5amJqU04waWNNRTE1SWFDSDlJXzIySlZWY3YydFNmWFdNSGtJeDdJeXBCQm1DWHk4eUxEX3JORlhuY0xLeEp6UUlRM0Y2WDh4Mlk?oc=5",
-      "pubDate": "Sat, 21 Mar 2026 19:21:00 GMT",
-      "description": "Measles outbreak grows in Washtenaw County as fourth suspected case emerges MLive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
