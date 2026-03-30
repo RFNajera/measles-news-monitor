@@ -1,12 +1,66 @@
 {
-  "updatedAt": "2026-03-30T13:44:52.450Z",
-  "itemCount": 71,
+  "updatedAt": "2026-03-30T14:43:16.662Z",
+  "itemCount": 74,
   "items": [
     {
-      "title": "Measles outbreak grows in NM detention centers - alamogordonews.com",
+      "title": "After measles outbreak, why are feds keeping Texans in the dark? | Dallas Morning News - Arizona Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX3BEOFR6NHJQbktnbERSYjhVUld2TXpickFVNnRFblhMOWtLX1pZR09JTWpTa0lCc2lydTYtZWMtWlZLRkxMeWQ1NGxkYjZFOTFWYVNzQi1hZG5pdjNySjNUTFNKdVhHdk95YjRIUnl4SzdSaVZfR1AwTjQ0LVJ0N1hwYXYwemMyOTU4?oc=5",
+      "pubDate": "Mon, 30 Mar 2026 13:45:00 GMT",
+      "description": "After measles outbreak, why are feds keeping Texans in the dark? | Dallas Morning News Arizona Daily Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "After measles outbreak, why are feds keeping Texans in the dark? | Dallas Morning News - Wisconsin State Journal",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUVhnQ1ZlQ1U3NnhXTllVb2JoTG1LXzl2RFNhcUpTeXl5YmFwb3pFMUxVYlVsZlpEUlVxNHAyam8wTVhzd090RlFYYnBHd01ROHBHMEs4N2xUVHdIODdNWVRDd3M5NHpNRG5UakVEUWl6REdoaVlTRkpuQS0xNkduMldUd0RaOHp3eXZEOQ?oc=5",
+      "pubDate": "Mon, 30 Mar 2026 13:45:00 GMT",
+      "description": "After measles outbreak, why are feds keeping Texans in the dark? | Dallas Morning News Wisconsin State Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "After measles outbreak, why are feds keeping Texans in the dark? | Dallas Morning News - Tulsa World",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRDZyVzV2ZE9QV2haQzY3WV84b2JOdkRFQlJSdnBydnlTaG5UakhEVnVMVWF5VGs1THVzODU2bEQ0c1BCZnQ2SHYtZEdLMXBWNlFzTzdZa00xVzFDSzBLR1FrQ21iYUt6UDA1dWd6YUlnWDlyZnh1N0gydXpMR3JEVXRpX1FGU0kwQjhkUVFfTl8?oc=5",
+      "pubDate": "Mon, 30 Mar 2026 13:45:00 GMT",
+      "description": "After measles outbreak, why are feds keeping Texans in the dark? | Dallas Morning News Tulsa World",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "After measles outbreak, why are feds keeping Texans in the dark? | Dallas Morning News - Winston-Salem Journal",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYVpZV3FydVpxOU9HWndJWWlYRWtsd1J6b3VoWWpWYnNWblk3UEZxdW5meEN0d1E1SE9DQTNkVUFodHl0RG5FbW5JQWRNMk1xY3l4bVl5OGF1VXBsaHZfenRQTDR0SnFTazBtNlJtWGtYQkowYjNmSFI4WG9yWVBLYVdMT1BGUEFOcW13S0JpajY?oc=5",
+      "pubDate": "Mon, 30 Mar 2026 13:45:00 GMT",
+      "description": "After measles outbreak, why are feds keeping Texans in the dark? | Dallas Morning News Winston-Salem Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "After measles outbreak, why are feds keeping Texans in the dark? | Dallas Morning News - fremonttribune.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPajVoYk9SUzhrdndZR1VXdXJqUXVSejFNeXdqUlNFWV9NeThhLWxFY3lFZHg3QzdXODV0OHo0c3JwQlVKdFgyWlNwYzVSa3pKVjh0TUt2MU0tTDJKd3lHRVllUnQ4d0dLR2NiMHhKZUVOaF90MUExWDloRVltckk0S25oSXd0eEs1aG9Wa2t3WTZVY2R5TFE?oc=5",
+      "pubDate": "Mon, 30 Mar 2026 13:45:00 GMT",
+      "description": "After measles outbreak, why are feds keeping Texans in the dark? | Dallas Morning News fremonttribune.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Health Department confirms 7th measles case in Washtenaw - The Manchester Mirror",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTVpRSVVaSFUyYy11RElhblB4OEhoWEhDNUl4WnoyaEkwSk41cF9QcldTS3VHZWhLWkJHWkw0bWhhS0xPcjhGQkVXVy1LY0pQWXltSjk0LWhCZU9SeE81OF96NmRqbGxvVFREUkZEREM3eHp0Nl9nT3dCVi0zWlF1UE1NMTc4Vzh1S082OGVMTURZQWszZERObUFIR1hrSURpNmc?oc=5",
+      "pubDate": "Mon, 30 Mar 2026 13:42:46 GMT",
+      "description": "Health Department confirms 7th measles case in Washtenaw The Manchester Mirror",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles outbreak grows in NM detention centers - Alamogordo Daily News",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNemxwZXFrRF9palQ5MjVqallSbTRjaDd5NmtnSUFlOWZOZVZMTkdpYkRCbGlyYUJhcGpEeXhCT0VxVVRrX250Y0Jhc2dpcVlRR0JkTlNLSm5SdzVvR1FHZmlpelVGeHByX1l0amxjTExLWnQzMWsxclJsdlk0NmdBRVhKQjZDZ2Y4ZW5oUWZnYw?oc=5",
       "pubDate": "Mon, 30 Mar 2026 13:00:00 GMT",
-      "description": "Measles outbreak grows in NM detention centers alamogordonews.com",
+      "description": "Measles outbreak grows in NM detention centers Alamogordo Daily News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -39,19 +93,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "'I caught a Victorian disease that made people avoid me - and fell pregnant' - mirror.co.uk",
+      "title": "'I caught a Victorian disease that made people avoid me - and fell pregnant' - The Mirror",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHA1OHBlNWU0Rlk1NE5uQml0cnc0LWNCNVBUc0h1N1p2RlVneDJJb3BETWVJSWQyUEM1SXBRMTBUXzF4WWxxcWZJbmVqQXFiejhiVU5lRlVySFlDbEo5RkN0VkZRYXVZbUJsWmtNR203SHRaei04TU5LOE5xdWVHdGtfTdIBiAFBVV95cUxNWlhrblZ4bjVzS2pWLTV4aklWNFVvN0FFV05HVkRlTnMyRnV1ajB5bDV6aHQ0dDRlX25DRlpvZlhrS3FLVTJFa25aczQxa0VpUVRtMVlVSDFIZV8zTEZxWnROQ2NGRGpfcUt3ekl3RW1wSnkzVzZsSzNWYldaTU8tT2JSZEU3RkFa?oc=5",
       "pubDate": "Mon, 30 Mar 2026 06:38:00 GMT",
-      "description": "'I caught a Victorian disease that made people avoid me - and fell pregnant' mirror.co.uk",
+      "description": "'I caught a Victorian disease that made people avoid me - and fell pregnant' The Mirror",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Bolivia measles vaccination campaign: 1st phase completed - Outbreak News Today",
+      "title": "Bolivia measles vaccination campaign: 1st phase completed - outbreaknewstoday.substack.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1V4YmxfYmVUVlE3TENXMjY3VXlQaEtfWEhqd0ZTekE0ZjhjRG43VVNkbFMwSjZjZHduOENUMlNrbWVjME0wWjhlM3UzNVpQUFZVQU5YUC13andHbTRuR3NZM3N0RWhGS0ZhTW4xc1M0X1kzZnRYVElUVmV2Y3pLT0k0cw?oc=5",
       "pubDate": "Sun, 29 Mar 2026 23:25:59 GMT",
-      "description": "Bolivia measles vaccination campaign: 1st phase completed Outbreak News Today",
+      "description": "Bolivia measles vaccination campaign: 1st phase completed outbreaknewstoday.substack.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -67,7 +121,7 @@
     },
     {
       "title": "Measles outbreak spreads from London to Birmingham - thetimes.com",
-      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNLVFOVnh4aXQ1S19EQjJQWFE1RTVYeHF5V2Rqc3IxWnh6R1QtdE5PQkdmdTdhWE1pcXcwTW1FMnRFNkJuTV9iaU5TV3lVTWZjalZOYWJhTVZOSzd1bEFoXy1oTTVrWmpDN1FpMHNfX0tzYjN5WGNGMmdUQ2l6UU1QYjhocGU5ZVg2T2taNUpfaDRVWjVud3JvYWVwSHVfbk5qbTRqTUtvOXNRWjBxalQ5VzhpWHRPZktkTVlOSDQ2V0RuMk1Dc3p3ZklkZnVLNFBHbEJWSW1ETldIajk0ckNtNzVOUm9pcDZFNlB1WGdlanJfaEhIWWpSQlEwZk9adDhxMDNaRllQQm1fTWlTeURtWEtiRkx3MEZrLU1Yc0dFY3V1U2JXeUxjd3F6YlRiNkhkZWw5dk5WYnFsTDViNURxSTJzQTJMTjZJdllOanlhU1djaW1SWkwyeWQtblZxQXJPczUyeS02eGRoZm5aU3BDQ256STNDQVpjam1MVkFBbkluN1RMb3JzVkVlUnpGSXFrTjdiTjlJTGxXd3hUX1dia2RMdmhCSS03MzdXQnozZmg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxOdG8zbENXbldHaEo3bzVfbTdLclFSeklJWEUyenFseHllUk80QWVxZDJmd0Mtd2JhakE2WWtzcjB4QTFnRVhYdXp2VTN0TTdsY2IwNHR1MjNFdEdNNHZRZHlUWm1KNWc3NDJhYnR3WDRfZFJjYjZaRkUxMUpwNXVoUmxzeFY1WHBTMkx2NWpDNS1OMG5LQVJ3RnlJMzl6eG1SR0VxOUs3cnUtVnlKaUlwY2lZUzRWQ3B3czVUdXZvaEVSdS1HMFp1YldzaGZ4WTZ4NzZoMi1HS0NDMkxnZmVCUzZ2ZnIxSjZhZE1wVDk4WVY5bjVwLUcyajd5dVFHUkM1TGR0XzY2dHZJWjk0dm9QQ21SV1gyTnZveGhzTmUwMmVqSFNucE5YbDQ5dlpUeUZEX2ZmaFFmd1hLeG9aZkV1anpicTkwbU9MWVlYaUVLbmNFa2FEN0RKcWRGMGRBVzhvdE5nQ2t4OTA2dUU2YmJ3TTJCRGx6YnZIbG1sV2htaVlxWkpWV29TTHAtQzJua2hxbzF4UUg0bnpieWx5YWtiMm9ldjROMzNQQW5LVTZFSkk?oc=5",
       "pubDate": "Sat, 28 Mar 2026 20:40:00 GMT",
       "description": "Measles outbreak spreads from London to Birmingham thetimes.com",
       "source": "news.google.com",
@@ -84,10 +138,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "There's a massive measles vaccine campaign in Mexico. Is the public on board? - NPR",
+      "title": "There's a massive measles vaccine campaign in Mexico. Is the public on board? - npr.org",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4ydy11eWJkaWhCVkd3cW5Nb2ZVUl9TX19DTThtVGtKblZVaXZnSDNmdjR0YUdKdmp2cEo4S1lzRzRoazRSQUk4VDdlSWRzVHFxU1hWSEVSanN0U3F3dlhlN3VNXzhkVlN4RU5wTS1RWkFMYnlC?oc=5",
       "pubDate": "Sat, 28 Mar 2026 11:17:36 GMT",
-      "description": "There's a massive measles vaccine campaign in Mexico. Is the public on board? NPR",
+      "description": "There's a massive measles vaccine campaign in Mexico. Is the public on board? npr.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -291,10 +345,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Resurgence 2026: Navigating Strategies for Restoring MMR Vaccine Confidence - Pulmonology Advisor",
+      "title": "Measles Resurgence 2026: Navigating Strategies for Restoring MMR Vaccine Confidence - pulmonologyadvisor.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQVpSUE53di1fR2hhVFpQNkpiOHZlVnQwb2VzaDBGdUpDUDM4cEZNUzNuUHpUTnV6OUpya08xcmdQbUYxLXllYVRwbEJ2RWpObEdqOTlXS0tMOU5LM3pVb21qQ0RQR2hwVUJZa1ZOQk9WWUk5WDlOQURzcDhfZV9hMGo1ZzVBVG1DY3c?oc=5",
       "pubDate": "Fri, 27 Mar 2026 04:00:00 GMT",
-      "description": "Measles Resurgence 2026: Navigating Strategies for Restoring MMR Vaccine Confidence Pulmonology Advisor",
+      "description": "Measles Resurgence 2026: Navigating Strategies for Restoring MMR Vaccine Confidence pulmonologyadvisor.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -363,10 +417,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Mexico: Measles outbreak tops 8,000 cases in three months in 2026 - Outbreak News Today",
+      "title": "Measles outbreak in federal detention facility reaches the Texas public, records show - Denton Record-Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcFBuaWg5S3VqN1VzUW9BQW9SOVJ0ck5uNlpzb29BM2dxWXBZbEdJYzcycVNhdXBKTVduWGlLTWpzV3dzazVNVU1BN2MxUW1qWWlybTR2VFVCSUxnMy1wTVRsRFItOEtuWnphdkJtNHZYYzFqbk43YXYySWROcGkzSGN2b0xWcEhQRFA4NmwwREdKQW9CYWZrZ1M5U29peUdzYndtUmRRQ3hTTWIxVlByWUZOWjE5enBxckVob0xRa3dzc2pPTTMwcnQ5VGtWYWxneUdpTG5yQXVWRVVOVDg4V1JaRXhHdUlSLWQ4QUlZTnVmUWxCYXBjbXcyNA?oc=5",
+      "pubDate": "Thu, 26 Mar 2026 23:00:00 GMT",
+      "description": "Measles outbreak in federal detention facility reaches the Texas public, records show Denton Record-Chronicle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Mexico: Measles outbreak tops 8,000 cases in three months in 2026 - outbreaknewstoday.substack.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yajVYUWVWY09iWV9EQ2VjZ1dXQ05qZHpkeHU1NU9aLXpiaHdFOGpYaHZBLWpOY0pwTk9MWVdKdzhtYUNvR1hMVHlfVHQ2bEE1N1BEVXk1Q3BoQ0lJa0x5NmotQl94VWZPRDVieV80d19BNHhrb3ZBTktzVFZOUGM?oc=5",
       "pubDate": "Thu, 26 Mar 2026 22:27:21 GMT",
-      "description": "Mexico: Measles outbreak tops 8,000 cases in three months in 2026 Outbreak News Today",
+      "description": "Mexico: Measles outbreak tops 8,000 cases in three months in 2026 outbreaknewstoday.substack.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -462,10 +525,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles case confirmed in Middle Tennessee school system - The Lynchburg Times",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95RC1YMHJOSWJEWkp1dWs1YzdMSnJBZVBPZEZnQWtJOW1BaDdjX1c1aGxwRFMxajlUeEp6ODdsZ3NaY0lHZVNIODQ5SkY2SE5obXJ3S2JLZm9jeTFuY3hVNWNnTGdWRnpmSEJmTDBqbjY2UnNrYjlOT08wMFc2Zw?oc=5",
-      "pubDate": "Wed, 25 Mar 2026 23:48:42 GMT",
-      "description": "Measles case confirmed in Middle Tennessee school system The Lynchburg Times",
+      "title": "Measles outbreak in NM detention centers grows to 15 cases - newsfromthestates.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYU1OWm9qdjNINTdsTHZDS0pVRXAtMG5jOWNWLW1BSXVNcVpzTERNek9HZHJEcmMzaUFqcHpBMlR6MFpVRm9IWmZWWHV4d3FRS2pCSmhZWVplQ2tfaDNfWDRwYnhuekVBWlpvWjdMdVQxQTJqeGl3bkU2NHJmSG9zMEk1a3piaTc5cE9ucU9uNW5TZGprYjZvX3pB?oc=5",
+      "pubDate": "Wed, 25 Mar 2026 22:52:41 GMT",
+      "description": "Measles outbreak in NM detention centers grows to 15 cases newsfromthestates.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -525,10 +588,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Washtenaw Co. measles outbreak has grown to 7 cases, officials say - The Detroit News",
+      "title": "Washtenaw Co. measles outbreak has grown to 7 cases, officials say - detroitnews.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaG5faWpNb053S3VNWDNOeEpBQnBtUi1KOXRzQW1EdFdoZHdzQzFSX29XZ1VtRERwbnIwUklvZDB2dEpyUFROMXJmNjN0OE9MYjk1LUlTRGJxNThRWFE3WFNlbEhkNU9HVkh4Um14SHNnWHVGVEhsYlhPVXRwcnJkWWNCbGtEQWgwRWl3VF9xcnJDemNrTG9iOF9xbjFISnJGeU5YY244MnFRZHZGYXpiTEtvUEp1Z0RTSEdTRVJndEhySmdUcGNFb3Zncw?oc=5",
       "pubDate": "Wed, 25 Mar 2026 20:16:00 GMT",
-      "description": "Washtenaw Co. measles outbreak has grown to 7 cases, officials say The Detroit News",
+      "description": "Washtenaw Co. measles outbreak has grown to 7 cases, officials say detroitnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -597,46 +660,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Four cases of measles reported in Washtenaw County amid rising nationwide vaccine skepticism - The Michigan Daily",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdjU4U0VkdjR4ZUtYOVFSeVJtS0lYcnBpWEtUZXk4WTNkbUQtVFJfLTdHb2JyV0V6NWdTd1BzR3lFZUFVRHpsaGh5bHhscUdBUlN5QllwZ1YxbTlMcUtSVTZ2anIta0ViTWlZczEwVkwzUWxsMng5NXpraWotUnpLbFhpRnhEZXl5dFBuSDJGdzRiT3ROSlZGNUxBTG5BbXkzLXVWRWpYeUQ4MGs4QXFtVXlOWGh5MXVveTJiRkRhZmRKQ3lCYzNVcm9TN1B3ZjBtNDR3?oc=5",
-      "pubDate": "Wed, 25 Mar 2026 04:24:07 GMT",
-      "description": "Four cases of measles reported in Washtenaw County amid rising nationwide vaccine skepticism The Michigan Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Utah nears 500 measles cases, with dozens of confirmed exposure locations - ABC4 Utah",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kNU1UTEE4cnRiRmpOenRrTF9nTmxEUmxRcXBieTdsMkRBQjNfUE1JbkJ2TzU4elR2TzRmNUxKd25HaEJGNUZRRVQ4NmFCbVVSdHFZZ0g2QUpjb29TWUhmOFFaa2E5cmtYMVJBcDcyRdIBdEFVX3lxTE1hRWFsTndGQzdvSXdyNWlvNy1WR3hnT0dQYW94N1JYTTBIV1M4cWdmV3FOTER1YzUtN2lTc2pDUi1kRHpMdzh0R2RtN0xoVnhNaVlsZVVhdlB3Mi0xX2I2ZUpzOXJZSUFVaktjYWg0U1VlcW9N?oc=5",
-      "pubDate": "Tue, 24 Mar 2026 22:46:52 GMT",
-      "description": "Utah nears 500 measles cases, with dozens of confirmed exposure locations ABC4 Utah",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "No new measles cases reported in Upstate South Carolina outbreak in a week - WBTV",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVhlOU9wdkRFSTZkUFdlUmhHWnV4R2pDNFNnWi01d0Y5YkdmbUxqYml1c1o1S2hYVjhCSVY1V3RUUGR5elVWenJnOGstdkstUmdHOEJMOTl2SF9lNW80cFM5cFk1ZHBUd1dZOWkxcGM2ZGN0QWE3QWxSSjBKLXVPTkZXeTd4cklzQW5DaGNERU1udnlIZ1dzTnQzRTctZHhJc0piZ0Vvbw?oc=5",
-      "pubDate": "Tue, 24 Mar 2026 21:43:00 GMT",
-      "description": "No new measles cases reported in Upstate South Carolina outbreak in a week WBTV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "South Carolina: No new measles cases in Upstate outbreak - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQXpER2FyXzA4V3VSaHNYSWR5NlJyTWJDNTRHTWJfa0ZvajlOSWd3NnlnWTNwTXhyMlJfaE4wZ3pUTlM5NDhWdklmMXcxQnRUQTJzdjVwMEU1bDg1dzlTM21lM2hlVk9ES1NzZ0hka0xjZnVPMjlQYWhiaVd6QWh6R09ROHJudGVlaXpqSTZqRG8?oc=5",
       "pubDate": "Tue, 24 Mar 2026 21:00:00 GMT",
       "description": "South Carolina: No new measles cases in Upstate outbreak CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Florida health officials report another seven measles cases - Florida Phoenix",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZTNTelpGOFRYYUQyOTJVQlFDOC00WlRxWlBOMmNUTlJQQ0s2V28tSTZqM1NVMjZ0Zm1RYlpYLXEyc2Z1TGNKangwNmZ6bnFIT1VRWkVjaDQ1UXRGdWhndFVmNHZ1ejJYWlZnNTdTQzRRTnRvRzlkbVpYczczNWcxcmp1d202aEN4eVY1TjZ2VlNoRXpOamZCSjRNTG1rcW8?oc=5",
-      "pubDate": "Tue, 24 Mar 2026 16:06:18 GMT",
-      "description": "Florida health officials report another seven measles cases Florida Phoenix",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
