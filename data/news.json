@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T03:17:56.282Z",
+  "updatedAt": "2026-03-30T05:07:04.810Z",
   "itemCount": 71,
   "items": [
     {
@@ -7,6 +7,15 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1V4YmxfYmVUVlE3TENXMjY3VXlQaEtfWEhqd0ZTekE0ZjhjRG43VVNkbFMwSjZjZHduOENUMlNrbWVjME0wWjhlM3UzNVpQUFZVQU5YUC13andHbTRuR3NZM3N0RWhGS0ZhTW4xc1M0X1kzZnRYVElUVmV2Y3pLT0k0cw?oc=5",
       "pubDate": "Sun, 29 Mar 2026 23:25:59 GMT",
       "description": "Bolivia measles vaccination campaign: 1st phase completed Outbreak News Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "At least 38 children dead in measles outbreak - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVkw5R2IxSUV6RHpxWnR0cXVIU010dkpzSlpPQnVqUFhPRmU5akRYc3EzdUdxeDM1V3BxSlhZbXlRNTFHaWlxYmttRTdpWURPUFFhSDJaN0F0MTBTVzVGejZTZTBGYVJoa0VXRHZoR196dlFMNjJnT3RGNm94d0N4VDQyY1loY2w0TklkdHhOVDlSbVhEVWFlandzOTUtUQ?oc=5",
+      "pubDate": "Sun, 29 Mar 2026 20:38:23 GMT",
+      "description": "At least 38 children dead in measles outbreak The Daily Star",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -25,15 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4ydy11eWJkaWhCVkd3cW5Nb2ZVUl9TX19DTThtVGtKblZVaXZnSDNmdjR0YUdKdmp2cEo4S1lzRzRoazRSQUk4VDdlSWRzVHFxU1hWSEVSanN0U3F3dlhlN3VNXzhkVlN4RU5wTS1RWkFMYnlC?oc=5",
       "pubDate": "Sat, 28 Mar 2026 11:17:36 GMT",
       "description": "There's a massive measles vaccine campaign in Mexico. Is the public on board? NPR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Health warning issued after highly infectious disease detected on the Gold Coast - 9News",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWjV4Y0ZsYjF2R0txckRfU19iQ0xhN3hubGc0LXV1b2NKOWFXT3cxVUJtLU1xOEJZQWN0OTRTdUtPQ0FESGF2ZVhFaFhCUl9XZ2Q5RHVHWFZKRmpxcmo3QTFHVG9CQmRyc0libmx0N0s5ODRQOFZTMWFWeFJhVndLd1pXWGVIVVdWMkVsaHVvYmlvcDUtR2EwamNjUkJ3akpnQ0YyTTZfSGV6RFdTM2RMa0RYN3F0VzhaZXJrOW5UbV95TktIZ2I3dXp5cEdPY2FDSjdTaGhfV1lRSzd0aHBIUG5lOFhtZ9IBeEFVX3lxTE4tUFBQT1hLZHM4UVA2UTRtek5ZeTItd0haQXpfZV93czQwX2xiMldoY2xJaWZoMFQxNU04RndWSlZmLWNhZGpEV04xcS1nWmhWby04X01jbGx6QXRlWnd6UHFpak1BVUdxcU5SODJDeVRQcE4wdE1PUA?oc=5",
-      "pubDate": "Sat, 28 Mar 2026 09:10:14 GMT",
-      "description": "Health warning issued after highly infectious disease detected on the Gold Coast 9News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -228,10 +228,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles infection confirmed in Spokane County, health district warns of possible exposures - KXLY.com",
+      "title": "Measles infection confirmed in Spokane County, health district warns of possible exposures - kxly.com",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUlgtSnJLLUlDTHFfUXZrRDZ3TGc3bkloQ3lVWWtyYmNheXpRbUFtbGtwb1B2ZUR0ZlpGazVjVGl1WVlsanl0TXhLUnNwN1hfS1FURV84VGRiUllsLVhJZ1dxVHQybExaVkxJNDVpUWhHSFlqanJZclpjQmYwQzNjam8tOXYxT2tNRUZKM1BQTE9xQU96RzZQd1NvTWpzMmFiUXc1UmZ4ZEF3SFJyaU9VQ0lkelN4dlhOUnpfc2dqdmI4ZUZEVXF1Y3BfY3d5VEU5YlFLYms3eTJNTm5RcGYtV09MU1pHSm43Qnl1SUI5eGxmSm9ENlNkUg?oc=5",
       "pubDate": "Fri, 27 Mar 2026 03:54:28 GMT",
-      "description": "Measles infection confirmed in Spokane County, health district warns of possible exposures KXLY.com",
+      "description": "Measles infection confirmed in Spokane County, health district warns of possible exposures kxly.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -246,10 +246,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Multnomah County confirms measles case linked to Gresham WinCo exposure - Oregon Public Broadcasting - OPB",
+      "title": "Multnomah County confirms measles case linked to Gresham WinCo exposure - opb.org",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXpGYWJ6RmpJZFBhUUlMXzRZbGxnTW1ydk9xVjg2SW4zSk12LS00MGRseWNLeGhaWmR3VTBtV0x6N2VhT1hLVUxXcXRaVThXNnlZakkxMjhyLThMaXJPYmNzdUxMZW1JUW1CVWRpSEZlV1BLMEhUWExGZ3hKcXZpLXFpcV8?oc=5",
       "pubDate": "Fri, 27 Mar 2026 01:21:57 GMT",
-      "description": "Multnomah County confirms measles case linked to Gresham WinCo exposure Oregon Public Broadcasting - OPB",
+      "description": "Multnomah County confirms measles case linked to Gresham WinCo exposure opb.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -336,10 +336,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak in Southeast Michigan now at 7 cases - CBS News",
+      "title": "Measles outbreak in Southeast Michigan now at 7 cases - cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZXZ1MU9WalpHQzZJMk1wSkNiSHczaXhSb0xDTlpMV1JSWnhtMDZDeDltU0gtN2Zsb3BXM2FORW9nT3ZoMEhpd2wzRXpPbGhranVjakU1MG5RNHVweGNFc01QZ3BPWnZwWUYweE8yblA2SjBlMm1iUk5oMUJtY1p0ZGJZUVN5U29TOExjUHBhcjJlYUFxYnA0?oc=5",
       "pubDate": "Thu, 26 Mar 2026 20:45:00 GMT",
-      "description": "Measles outbreak in Southeast Michigan now at 7 cases CBS News",
+      "description": "Measles outbreak in Southeast Michigan now at 7 cases cbsnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -444,10 +444,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Michigan measles outbreak: Confirmed cases grow to seven, including child under 5 - Bridge Michigan",
+      "title": "Michigan measles outbreak: Confirmed cases grow to seven, including child under 5 - bridgemi.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY0FvUDZrelhwS3JtbWpwVGljSWlDNmIzbWcyeFllMUVuUVdPVi1ObEtZcjZRbW5fb3haVUZ6YUdmT3dlVFJGMlBMcTZTQW5vZXNTZ2Foc0tvTWNzeDdScWpfNmV5UWF0MTZnSjE5bHJLTmZQdUh6bDZJYk5GY1dRanI2dkNidnZpakhlQW5RTDhQdnhBdHBHdnNXLWtHcU92cW40YnNWaGVkbUVSdVRVMzFZOUJEdlRIUTlVMHRjUng?oc=5",
       "pubDate": "Wed, 25 Mar 2026 21:39:49 GMT",
-      "description": "Michigan measles outbreak: Confirmed cases grow to seven, including child under 5 Bridge Michigan",
+      "description": "Michigan measles outbreak: Confirmed cases grow to seven, including child under 5 bridgemi.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -534,19 +534,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "South Carolina could declare measles outbreak over by April 26, health official says - Reuters",
+      "title": "South Carolina could declare measles outbreak over by April 26, health official says - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSnpEM1FBUUZxX3QzUzNRU1N4anNCbWlUcG80NVdhbWhZcXRTOFlhdnlCc3VPRkdud1l1b1NuYXctQnRlbUhVd3c4bndSazY1cV8wYVRWVW5iMlR3NktDU1hMSlZpelJIOExOSHYtRGhmb0ZLRW5aU0t4TGlVQmU1ck1fTkVienEySEN5bVUxNTRxZ0tfR2hVdDJGSXE5S1UyeUZHVzZHNjVHTWIzeVdZU3JlYzI0RDVlWTNVV2dNRl83QWpTVWNuNUItSVA2c1BQbGpyZWczUFVTREFKZnpn?oc=5",
       "pubDate": "Wed, 25 Mar 2026 17:16:06 GMT",
-      "description": "South Carolina could declare measles outbreak over by April 26, health official says Reuters",
+      "description": "South Carolina could declare measles outbreak over by April 26, health official says reuters.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak in Southeast Michigan now at 7 cases, health officials say - CBS News",
+      "title": "Measles outbreak in Southeast Michigan now at 7 cases, health officials say - cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR1BFQmw5RGtLRlVoSmNwd3NVX2NidWs1TUVaVGVaZ0VqZmFCTVB4TUJKOE11dVhRMzJGbEg0YmVsX1kxZFdXM0FuaGpXWGZYWGJTa2dJZjdFaGVQdjNYOWtveTl0NTNDSjlKS1JVWHFkNmJ1SmFsbEw2eExDSXdtbUlxLVVKQQ?oc=5",
       "pubDate": "Wed, 25 Mar 2026 17:07:00 GMT",
-      "description": "Measles outbreak in Southeast Michigan now at 7 cases, health officials say CBS News",
+      "description": "Measles outbreak in Southeast Michigan now at 7 cases, health officials say cbsnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -579,10 +579,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Utah nears 500 measles cases, with dozens of confirmed exposure locations - ABC4 Utah",
+      "title": "Utah nears 500 measles cases, with dozens of confirmed exposure locations - abc4.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kNU1UTEE4cnRiRmpOenRrTF9nTmxEUmxRcXBieTdsMkRBQjNfUE1JbkJ2TzU4elR2TzRmNUxKd25HaEJGNUZRRVQ4NmFCbVVSdHFZZ0g2QUpjb29TWUhmOFFaa2E5cmtYMVJBcDcyRdIBdEFVX3lxTE1hRWFsTndGQzdvSXdyNWlvNy1WR3hnT0dQYW94N1JYTTBIV1M4cWdmV3FOTER1YzUtN2lTc2pDUi1kRHpMdzh0R2RtN0xoVnhNaVlsZVVhdlB3Mi0xX2I2ZUpzOXJZSUFVaktjYWg0U1VlcW9N?oc=5",
       "pubDate": "Tue, 24 Mar 2026 22:46:52 GMT",
-      "description": "Utah nears 500 measles cases, with dozens of confirmed exposure locations ABC4 Utah",
+      "description": "Utah nears 500 measles cases, with dozens of confirmed exposure locations abc4.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
