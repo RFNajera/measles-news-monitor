@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-03-30T23:21:46.449Z",
-  "itemCount": 68,
+  "updatedAt": "2026-03-31T00:55:24.130Z",
+  "itemCount": 69,
   "items": [
+    {
+      "title": "Pharmacies offering measles shots to Manitobans aged 2 to 19 - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KWEdQUElqVUtwQjAtRExIVnJYNENxSGI4SlM3QW9nY3BHSXM3SDN0bUk0T29vd1lHUG1iUmljc3VMbTJCRjFKZ0Mya213cjZ4ZVo2TjdiWnFqUQ?oc=5",
+      "pubDate": "Mon, 30 Mar 2026 23:24:09 GMT",
+      "description": "Pharmacies offering measles shots to Manitobans aged 2 to 19 CBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Latest measles exposure sites include Winnipeg Ikea, Winkler bank - CBC",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03dEROVVVuaFdPQ2Uzejc2ek5ma0pDb1ROYzA4QW95ZlI3TkxYelpfbEhqSUF1aklPY2MwR05PTW5yQVBISm04MHRrV0p4eWgwLXhuS3FQNW04WlQzVU1lY253STV4ZGlxcWdGM2twZnp3dlhaQnlYN3JucGg?oc=5",
@@ -120,10 +129,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "CDC Lists Measles Outbreak Alert for These Popular International Destinations - travelawaits.com",
+      "title": "CDC Lists Measles Outbreak Alert for These Popular International Destinations - TravelAwaits",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVWljd1djN0ZwLTlYRDlabWtlZ3F2VUthZTVRT1VYM3JSaDctemJkek11UENJX0RuQkNsb2M1bHlxNEloR2d6cTF6d1dYRWhncWsweEFtSENuVUFrc2JaVFk1SnpLZUJ5YjA1NTlYX3ZKTnptQ3pkZFNlcHViazZJS3VQOEpIQU0xNWNubFhVZEJqcW9MdUZDTVdUMG90djBZM0VLWA?oc=5",
       "pubDate": "Mon, 30 Mar 2026 15:57:50 GMT",
-      "description": "CDC Lists Measles Outbreak Alert for These Popular International Destinations travelawaits.com",
+      "description": "CDC Lists Measles Outbreak Alert for These Popular International Destinations TravelAwaits",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -165,19 +174,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "After measles outbreak, why are feds keeping Texans in the dark? | Dallas Morning News - Winston-Salem Journal",
+      "title": "After measles outbreak, why are feds keeping Texans in the dark? | Dallas Morning News - journalnow.com",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYVpZV3FydVpxOU9HWndJWWlYRWtsd1J6b3VoWWpWYnNWblk3UEZxdW5meEN0d1E1SE9DQTNkVUFodHl0RG5FbW5JQWRNMk1xY3l4bVl5OGF1VXBsaHZfenRQTDR0SnFTazBtNlJtWGtYQkowYjNmSFI4WG9yWVBLYVdMT1BGUEFOcW13S0JpajY?oc=5",
       "pubDate": "Mon, 30 Mar 2026 13:45:00 GMT",
-      "description": "After measles outbreak, why are feds keeping Texans in the dark? | Dallas Morning News Winston-Salem Journal",
+      "description": "After measles outbreak, why are feds keeping Texans in the dark? | Dallas Morning News journalnow.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Health Department confirms 7th measles case in Washtenaw - themanchestermirror.com",
+      "title": "Health Department confirms 7th measles case in Washtenaw - The Manchester Mirror",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTVpRSVVaSFUyYy11RElhblB4OEhoWEhDNUl4WnoyaEkwSk41cF9QcldTS3VHZWhLWkJHWkw0bWhhS0xPcjhGQkVXVy1LY0pQWXltSjk0LWhCZU9SeE81OF96NmRqbGxvVFREUkZEREM3eHp0Nl9nT3dCVi0zWlF1UE1NMTc4Vzh1S082OGVMTURZQWszZERObUFIR1hrSURpNmc?oc=5",
       "pubDate": "Mon, 30 Mar 2026 13:42:46 GMT",
-      "description": "Health Department confirms 7th measles case in Washtenaw themanchestermirror.com",
+      "description": "Health Department confirms 7th measles case in Washtenaw The Manchester Mirror",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -219,6 +228,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Travel bug fears: Doctors urge Brits jetting off abroad over Easter to be extra vigilant amid rise in holidaymakers returning with diseases such as gonorrhoea, malaria and measles - dailymail.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWHFGVjdlb2QxRkQtYlItREhxTC0tWC1PWFhleW0wWTc5MmwtMVhfc21tTC1KZndTMlFoN3hwZnJCVU1tUFVRSUJUS0xZeVpOamdDaHh3VFZYTlZyeDdpY3BmOVd1aG5lc29HUVhmZXlaXzMxRnVRZ05oamJ5SWJubWRzZERsT08tUzVIWktUYUdhdVF6Q1RUZW16NU1yYURWQmZUMlk3dVTSAa4BQVVfeXFMTVJmWjVnSzdaSjRwSUtMY0dfajNVdWtrbzNYT3dQTVNYUGpFMUJ5blVZNkRzbU50T2hvZV9WVU9OSXZYUGdpdDQyRkEtTzZyOURCbGg5MTcyNkZidjFaM1pxaks2dW9DRlFzcWhxLTlIQldnbjdNUUczck9pWHhaZ01yVk1CSXFMV1Jsc0ZwWnhEMlR6SG1SbnNlWmtMQUNRWTJYanJOYWtLMjhDN3lR?oc=5",
+      "pubDate": "Sun, 29 Mar 2026 10:18:05 GMT",
+      "description": "Travel bug fears: Doctors urge Brits jetting off abroad over Easter to be extra vigilant amid rise in holidaymakers returning with diseases such as gonorrhoea, malaria and measles dailymail.co.uk",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles are a ‘matter of life and death’ for Utah children, in this week’s Inside Voices - The Salt Lake Tribune",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNekZBdURUN0RjUU5qN0tBVFNnVjZhNjg1YWN6bnIxWXFNWDdpSk16elJKX1M1R1ZaSWtLZzNDWUY4MTlmQUxhUWJKQWhZanRaU0NkTGlwd09NSEkyNDlXMUFESVgzOC1fV0NCWFptbF9FNDRLcDBhSnJqVWRIc0s3eDJhTFdXeUU5c29jYVdrWGQyUQ?oc=5",
       "pubDate": "Sat, 28 Mar 2026 12:09:13 GMT",
@@ -228,10 +246,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "There's a massive measles vaccine campaign in Mexico. Is the public on board? - npr.org",
+      "title": "There's a massive measles vaccine campaign in Mexico. Is the public on board? - NPR",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4ydy11eWJkaWhCVkd3cW5Nb2ZVUl9TX19DTThtVGtKblZVaXZnSDNmdjR0YUdKdmp2cEo4S1lzRzRoazRSQUk4VDdlSWRzVHFxU1hWSEVSanN0U3F3dlhlN3VNXzhkVlN4RU5wTS1RWkFMYnlC?oc=5",
       "pubDate": "Sat, 28 Mar 2026 11:17:36 GMT",
-      "description": "There's a massive measles vaccine campaign in Mexico. Is the public on board? npr.org",
+      "description": "There's a massive measles vaccine campaign in Mexico. Is the public on board? NPR",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -264,10 +282,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "SC measles outbreak remains stalled with no new cases reported - greenvilleonline.com",
+      "title": "SC measles outbreak remains stalled with no new cases reported - Greenville Online",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOGFqMTdFeHhDZGkxYmdxM3ZMbkdObFlDRWkyOVIyVVM1MVdXTzRER2pGallEWjVzX1V0NDY3NHhGdFBSazJzY1RrZEJxX1pwOEI5TXppRUtOQ3pnRXgyWUdOaVduclNwMTE2a3BJNE5rZGdSZ0pUNHBWSGtka19PNm1vWC1fWUlmTEVVZ1BhQUVDZTVldWlpVDIwSW1BZnp6V2pzYXRhMVE3S2ZGRzQ3c1dLZHRxTDlIMWhBQkIwUmNSM2FBRjFv?oc=5",
       "pubDate": "Fri, 27 Mar 2026 21:44:00 GMT",
-      "description": "SC measles outbreak remains stalled with no new cases reported greenvilleonline.com",
+      "description": "SC measles outbreak remains stalled with no new cases reported Greenville Online",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -318,10 +336,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles found in NJ wastewater. What does that mean for residents? - northjersey.com",
+      "title": "Measles found in NJ wastewater. What does that mean for residents? - Bergen Record",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzRJM3lYckdiZDFYV2JrRmhxNXdxc1l3cnNiTXdFZ2c1SG1OTzlwWmF3VHFMYl9Ebk9IMDVnUFBSdkZNZFhtTE9IYVJCOHE5QVduVHlZVV9Cc2JFZHBib0dKcEVRWmZ1VHA2bUlCOXlhdEpPaUlYUTRZR2MxdVpDU1M5aWVKUTZuMEc4dmpQcFQydjVqbk81M3pPeU14S19NMkJQdkZoOU5nT0l1cEJxVWtmbUxGWlAxS3JsX0NQMHRpdw?oc=5",
       "pubDate": "Fri, 27 Mar 2026 18:07:00 GMT",
-      "description": "Measles found in NJ wastewater. What does that mean for residents? northjersey.com",
+      "description": "Measles found in NJ wastewater. What does that mean for residents? Bergen Record",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -381,15 +399,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Hello, Ann Arbor: Reporters can get the measles too - MLive.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1lCTjVZQ2xoTkh3LWx4aTU4Z0Nmd0hPUmh6ZVVJcFdFY1E3QVp0MnQ2dkJaNF9Xc0VkNG5tSE54cmtDYTd3U2JRaV9XSnVzMDFPNWpnNmhoMnQ0OU9rZElWLWZCT0ZDcXFwYWZ6N3pHV2tJbFZwdFJHQkgxSGpXQXVOMmFfVVBadndMaUxMSlZsM3I2cDdFUXlhNm95bm850gG0AUFVX3lxTE9PLXhjY1pVSFFzYTZuU0V0SzlMNUQtZTVUeDY2VG4yOGJIeG9BVUJQazFydWRKeklVNVYyb2VVTE8tRDE2Y2NYWm1YcUhpUHdzRVlzVlVfQUc5MmJ0Yld6VHlhYzg1UkVDSWYwSnVibGw2Nkd6cjhyNGZlS2d2ajljWElWN19WNnhJcWlaRFIzOU9fQUluYUtmSS1EaXdmWm12YXYxaEhBQ1VYSDd3ZW9teUZaNg?oc=5",
-      "pubDate": "Fri, 27 Mar 2026 14:00:00 GMT",
-      "description": "Hello, Ann Arbor: Reporters can get the measles too MLive.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "South Carolina has gone a full week without a new measles case - Healthbeat",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzNXY21EUThiWXd3eXh5ZmIxUjBSU2V4TXRKZmdSbnZLWG9BMzVUcDBpbWZNV1N3NV9lc2pBSDhBQTFNdnE5SXQtdE1xQkF1TTU1MFRocHh6b2J3Ylh6ZzRreXh0Q3FSbFNjcTNBUHNvbXFVOF9VWTF4dEZhdXpBS21Mby1VZlpOY1E?oc=5",
       "pubDate": "Fri, 27 Mar 2026 09:00:00 GMT",
@@ -444,19 +453,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles infection confirmed in Spokane County, health district warns of possible exposures - KXLY.com",
+      "title": "Measles infection confirmed in Spokane County, health district warns of possible exposures - kxly.com",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUlgtSnJLLUlDTHFfUXZrRDZ3TGc3bkloQ3lVWWtyYmNheXpRbUFtbGtwb1B2ZUR0ZlpGazVjVGl1WVlsanl0TXhLUnNwN1hfS1FURV84VGRiUllsLVhJZ1dxVHQybExaVkxJNDVpUWhHSFlqanJZclpjQmYwQzNjam8tOXYxT2tNRUZKM1BQTE9xQU96RzZQd1NvTWpzMmFiUXc1UmZ4ZEF3SFJyaU9VQ0lkelN4dlhOUnpfc2dqdmI4ZUZEVXF1Y3BfY3d5VEU5YlFLYms3eTJNTm5RcGYtV09MU1pHSm43Qnl1SUI5eGxmSm9ENlNkUg?oc=5",
       "pubDate": "Fri, 27 Mar 2026 03:54:28 GMT",
-      "description": "Measles infection confirmed in Spokane County, health district warns of possible exposures KXLY.com",
+      "description": "Measles infection confirmed in Spokane County, health district warns of possible exposures kxly.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Comes to Multnomah County - wweek.com",
+      "title": "Measles Comes to Multnomah County - Willamette Week",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSEtJT0FmaHFjLS03am9maFZlQWFuVEVUZVhhSWhabDA3VWJ5ckdwb1ByQzliWkJkM0xqQUN4N1RkZVlqdHI1RlVmOWpCMkVNQVYxRVI1MGJmakZWVm1KUG9kWDg5cHVVZFJoVGF0YlVBY28xZGVpZEV1bFA2SDFMMVZFTGRfUQ?oc=5",
       "pubDate": "Fri, 27 Mar 2026 02:09:00 GMT",
-      "description": "Measles Comes to Multnomah County wweek.com",
+      "description": "Measles Comes to Multnomah County Willamette Week",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -471,10 +480,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "The impact of measles in Southeast Michigan - fox2detroit.com",
+      "title": "The impact of measles in Southeast Michigan - FOX 2 Detroit",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Zb1NnRy03b2hCaDF0Wmx1Sm1sVlhSMzFHT3c4dkRpckNKZFliOGFJanhmYS1VRWpaV1FjSkVCUkI1TktSWTRNRk1RRTRVT2h3bVlOX1VQSXBOWExfQ050MkNEenJITGlFLWJoNkM2N3RQWVJI0gF6QVVfeXFMTWpWTXZVa18yTVJ5QjhWdGZkU2k4aGpGcHk4SXctdjhKVk9wVF8zSXNtZ01yRXRBN18zdk1hMGpvZldyS2J6S09GbEJVTmVjU0VFWWptQlZBcFEzVVhYczdIemN4TmwzTjdSTEc2WV9DYXJwZUVHZUx1Q2c?oc=5",
       "pubDate": "Fri, 27 Mar 2026 01:15:34 GMT",
-      "description": "The impact of measles in Southeast Michigan fox2detroit.com",
+      "description": "The impact of measles in Southeast Michigan FOX 2 Detroit",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -516,10 +525,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak in federal detention facility reaches the Texas public, records show - Denton Record-Chronicle",
+      "title": "Measles outbreak in federal detention facility reaches the Texas public, records show - dentonrc.com",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcFBuaWg5S3VqN1VzUW9BQW9SOVJ0ck5uNlpzb29BM2dxWXBZbEdJYzcycVNhdXBKTVduWGlLTWpzV3dzazVNVU1BN2MxUW1qWWlybTR2VFVCSUxnMy1wTVRsRFItOEtuWnphdkJtNHZYYzFqbk43YXYySWROcGkzSGN2b0xWcEhQRFA4NmwwREdKQW9CYWZrZ1M5U29peUdzYndtUmRRQ3hTTWIxVlByWUZOWjE5enBxckVob0xRa3dzc2pPTTMwcnQ5VGtWYWxneUdpTG5yQXVWRVVOVDg4V1JaRXhHdUlSLWQ4QUlZTnVmUWxCYXBjbXcyNA?oc=5",
       "pubDate": "Thu, 26 Mar 2026 23:00:00 GMT",
-      "description": "Measles outbreak in federal detention facility reaches the Texas public, records show Denton Record-Chronicle",
+      "description": "Measles outbreak in federal detention facility reaches the Texas public, records show dentonrc.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
