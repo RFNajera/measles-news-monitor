@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-03-31T06:42:26.679Z",
-  "itemCount": 59,
+  "updatedAt": "2026-03-31T07:42:10.428Z",
+  "itemCount": 63,
   "items": [
+    {
+      "title": "Measles outbreak: What you need to know - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS2dvZHFlYXc2OG8tU1VOdXVqR1JPY0tjc0djUmN6RU5VeHdtc3oxdVd3WUxNUUhYV01fYlNQRjVwZUdHUGVvckhpb3AtR2tWVjVDRXhPTUQ5SnhVOXZBVlUzdFdTUGY4UHJlU0VCS0RFQzJ2Y0hNbU9WckdlSEhpUkVnRE1XeTg2VFNydGxsOHFJTU1tQWJZWQ?oc=5",
+      "pubDate": "Tue, 31 Mar 2026 06:52:04 GMT",
+      "description": "Measles outbreak: What you need to know The Daily Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Sudden Measles outbreak nationwide: What went wrong? - The Business Standard",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm1zWVd2V21IekZxVnYxdktqM2xsYXVUZ3djc21FWktmNUliQjMzSVdINFhERzItYl9PcElYVE9zbGtrY25ILVF6dEdyc2pob3NaU0Nwb1E1eEJ6VzVVeVdTeGNHVUZqX1pTTjdvLUhIWEdqVXJnZzcwODNtV1hZNkp5cmU3NnlNVUw5Zjc2ckNaazlPdlZkRmdKd3Q1TTJMaWfSAacBQVVfeXFMTWNLUzlkNXNxTkhMRERXZFVHMERaZWVZOU9hTzUzdXlUMXFQWmJ0TnhGZDhxTzZxbnRNX242QTAxX1dUY2xXaEM3QzFIUHJQUERjRzBhT043S3VDZGlXTEhfZEpCNHV0d1Y2Z011NklqYVFnSUI0UTZLTFlQZlhNaV9YQVloZ2hVMTRzOC1ESllBSUFWbnZ2LXY4YVJ5Y3BqR2FRQXRZbms?oc=5",
@@ -25,15 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rV3pSN3g2QUh6aHpXVmRISGd0dUhYS01vYzhXRGg4MXBCajZzMU9mNGJzOXpzTlNLWnNweENQS25ITlgzSmpjNzBNeFJ5V3ZkY1JQOVZ1OVNidEhpY1h2UHYxc0ZnQdIBa0FVX3lxTE9CSl9xS2dEMUZMS3A0MEs1ZWxYMWRnc3lpRlZVUTRidnJKQW5TUTdTdFF0NDJXSVFIMzkxblR3andlVE1weGZmS253SWFkcjRRN3hFYWJpUExJYXh2bmpmUUEtNlp2dXR6SWFj?oc=5",
       "pubDate": "Tue, 31 Mar 2026 04:13:03 GMT",
       "description": "Coconino County reports 2nd measles case FOX 10 Phoenix",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles outbreak: What you need to know - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS2dvZHFlYXc2OG8tU1VOdXVqR1JPY0tjc0djUmN6RU5VeHdtc3oxdVd3WUxNUUhYV01fYlNQRjVwZUdHUGVvckhpb3AtR2tWVjVDRXhPTUQ5SnhVOXZBVlUzdFdTUGY4UHJlU0VCS0RFQzJ2Y0hNbU9WckdlSEhpUkVnRE1XeTg2VFNydGxsOHFJTU1tQWJZWQ?oc=5",
-      "pubDate": "Tue, 31 Mar 2026 04:01:14 GMT",
-      "description": "Measles outbreak: What you need to know The Daily Star",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -66,10 +66,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "State urges measles vaccination after cases reported in Sacramento region - Paso Robles Daily News",
+      "title": "State urges measles vaccination after cases reported in Sacramento region - pasoroblesdailynews.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmxtZUxJajBReEJyeUxoa3ZRSjl3ZmE2YjFMWEVtc0VIVzVqSEZkanZKZnFVLUtzWWhhRDhtcWxybWFXS25qTlc1UXZyaXVDejY2aEE0Rkwxc0Z4eW5QSWh3dVhiRkdJX2R2ZnU2U3BPUHdkdGFsaEVRLUQzZE1RWW9US2lGbjBTUlFNb09NWHdqQmowLWFPUENGOUItTzV6SUszMmRXdmVGaC1fYUZCRVBhRQ?oc=5",
       "pubDate": "Mon, 30 Mar 2026 22:47:06 GMT",
-      "description": "State urges measles vaccination after cases reported in Sacramento region Paso Robles Daily News",
+      "description": "State urges measles vaccination after cases reported in Sacramento region pasoroblesdailynews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -140,7 +140,7 @@
     {
       "title": "After measles outbreak, why are feds keeping Texans in the dark? | Dallas Morning News - Montana Standard",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZFE3T2ZNM240VDZJOXkzYXJqbThTR2xzMy1VbkVCX0tvVFo1S1lNeEFPS1VDSzBycUgwOWZ1OXlzWHFuanFCT09rNUg4RzNWMW1tdWJFSW5mZERGaTNIME1OVkp4MVFrd0U1QmZUWXlDdHM3OWZkUTN1cW1vY25mUGdSeVBaQnJ5UzB2UkNOdmY?oc=5",
-      "pubDate": "Mon, 30 Mar 2026 19:26:00 GMT",
+      "pubDate": "Mon, 30 Mar 2026 19:25:41 GMT",
       "description": "After measles outbreak, why are feds keeping Texans in the dark? | Dallas Morning News Montana Standard",
       "source": "news.google.com",
       "sourceType": "news",
@@ -246,10 +246,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health warning issued after highly infectious disease detected on the Gold Coast - 9News",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWjV4Y0ZsYjF2R0txckRfU19iQ0xhN3hubGc0LXV1b2NKOWFXT3cxVUJtLU1xOEJZQWN0OTRTdUtPQ0FESGF2ZVhFaFhCUl9XZ2Q5RHVHWFZKRmpxcmo3QTFHVG9CQmRyc0libmx0N0s5ODRQOFZTMWFWeFJhVndLd1pXWGVIVVdWMkVsaHVvYmlvcDUtR2EwamNjUkJ3akpnQ0YyTTZfSGV6RFdTM2RMa0RYN3F0VzhaZXJrOW5UbV95TktIZ2I3dXp5cEdPY2FDSjdTaGhfV1lRSzd0aHBIUG5lOFhtZ9IBeEFVX3lxTE4tUFBQT1hLZHM4UVA2UTRtek5ZeTItd0haQXpfZV93czQwX2xiMldoY2xJaWZoMFQxNU04RndWSlZmLWNhZGpEV04xcS1nWmhWby04X01jbGx6QXRlWnd6UHFpak1BVUdxcU5SODJDeVRQcE4wdE1PUA?oc=5",
-      "pubDate": "Sat, 28 Mar 2026 09:10:14 GMT",
-      "description": "Health warning issued after highly infectious disease detected on the Gold Coast 9News",
+      "title": "Health officials give update on Upstate measles outbreak - WCIV",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcnNtd2ZVLUxLbnJTQjlrdXlqWWQ1bjhfMHQ4b0c2a3V0NWlpQUFlQ0pfbEZKeG1IbXBEUFNkNzk0NnhUNF9WSmFIVGRhY1Z3TEkya2ZPY1J2WmRXXzFDVC1OVV8wYjZUUVAxdDJ0RGs5MlJrTlZUNVRRalJ1N3VGV29yRGhxV1IwUldNS0NkZ2tJQTBLZW5mNDRUNFIyZmRLOVE?oc=5",
+      "pubDate": "Sat, 28 Mar 2026 03:47:34 GMT",
+      "description": "Health officials give update on Upstate measles outbreak WCIV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -277,6 +277,15 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOGFqMTdFeHhDZGkxYmdxM3ZMbkdObFlDRWkyOVIyVVM1MVdXTzRER2pGallEWjVzX1V0NDY3NHhGdFBSazJzY1RrZEJxX1pwOEI5TXppRUtOQ3pnRXgyWUdOaVduclNwMTE2a3BJNE5rZGdSZ0pUNHBWSGtka19PNm1vWC1fWUlmTEVVZ1BhQUVDZTVldWlpVDIwSW1BZnp6V2pzYXRhMVE3S2ZGRzQ3c1dLZHRxTDlIMWhBQkIwUmNSM2FBRjFv?oc=5",
       "pubDate": "Fri, 27 Mar 2026 21:44:00 GMT",
       "description": "SC measles outbreak remains stalled with no new cases reported Greenville Online",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Manitoba surpasses 400 measles cases so far this year - CBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIOWV5ZXBDNkpWc3VjVnB6dXYyel9Ga21XSlRHVUl4WjZiSmVZTGx2SUtzRlpVUHdLVjF0WWlkMEFsTnRpOXVtWkVGNlAzRC11N25xOEI1cWEyQXNKUnlIRndCc0pKT2IwOTdNT2tVSDNTNHAwSW04?oc=5",
+      "pubDate": "Fri, 27 Mar 2026 20:32:20 GMT",
+      "description": "Manitoba surpasses 400 measles cases so far this year CBC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -349,6 +358,15 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtWEwzeV9MYVVSd2tlR01vOTZ5YkdBN0pHWVIwTVNxTUZSY2xpZm05ZkNlX1hnVVpMZmMzQXRWTWxyajdhUUxaWnI1M29GTDJiNUZfSmw2T3RaaHJQQkR1ZFYwYzgwQmhwQjRDaWZoanM?oc=5",
       "pubDate": "Fri, 27 Mar 2026 14:57:26 GMT",
       "description": "Measles Update: March 27, 2026 Contagion Live",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Michigan measles outbreak: Confirmed cases grow to seven, including child under 5 - dailypress.net",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUmV1bUtwcG13UVNvM3JNd1pUT3A4Zk5zMkNfR3JodVJYbUd6bWFpVXRNSG5RTkYwYnpvVC01YXdPTzhVZktrbUpKcFZaczh3VjYxbC1jeFJ6VVRPbGRnVl9MbFlIY2U2YUNvM1lLQ2twdEQ5V2thQ0lQcTFqZFc0OTFUYjVla0E4dktjRmtidkJIX1dYY1RZdXh0YndpRmVkUko1b1RzOUFCNVhtUGc4Rm9LMEVhX1ZrR2RvZWFkTnk5UlJfV1M0NTJERQ?oc=5",
+      "pubDate": "Fri, 27 Mar 2026 07:01:17 GMT",
+      "description": "Michigan measles outbreak: Confirmed cases grow to seven, including child under 5 dailypress.net",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -444,6 +462,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles case confirmed in Multnomah County linked to Gresham WinCo exposure - KATU",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSUhyME9LX1I3S0t0NFlIbzlNcXlYbXV4VTFrbHpOaUxleGxzdi1KZ1ZrOUVpOVNKdnVyeWNKZXlnb3BranJBVktXc2ctLVdHekZ3TXA1TEdYV0MxVTFqU2ZnVi1NdktId3pRaEtCSWpIWEJFU2poNlJ5S0NxaTdwLVo3cmxkampBaWN2eDFMMWJWVDVsNXdCMERENm4ta2Z6T0pvc0lGSzdCTnBReFVmTzFiejZkcGE5QklaMDJGWXF6Z2dGWGw3QjNSbnJUcG1IYzhQM0J3eHpJWVJtN2d1TEtmZw?oc=5",
+      "pubDate": "Fri, 27 Mar 2026 00:22:52 GMT",
+      "description": "Measles case confirmed in Multnomah County linked to Gresham WinCo exposure KATU",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Health officials confirm measles case in Multnomah County, related to previous Gresham WinCo exposure - KGW",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenNueTNva3V1aTdtY3JpSVlOWU5DNTFSODJ0c2ZvWUx0QW9Jb3M0aXExRzNqeURoLWJPNDdpclU5N2l6by1Pdlp2VWEzMkU5UkxyUXljNUk2aUJzNWQ1dmNscVJUN1luME1nY3ZIenYzMFVDc1dtWUYtTEh4cmFLY0pTYTVsUFNPZ1ZnRHQtS1BWbkhTaXhXc1U2WFlQMnp3dFgzdkZBMnUxakhaLTZtV1JId0YybUdvOWR1X0VuQUZXUWgwaDEwZ3pPQkZmenQx?oc=5",
       "pubDate": "Fri, 27 Mar 2026 00:09:00 GMT",
@@ -453,10 +480,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Michigan measles outbreak: Confirmed cases grow to seven, including child under 5 - bridgemi.com",
+      "title": "Measles outbreak in federal detention facility reaches the Texas public, records show - Denton Record-Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcFBuaWg5S3VqN1VzUW9BQW9SOVJ0ck5uNlpzb29BM2dxWXBZbEdJYzcycVNhdXBKTVduWGlLTWpzV3dzazVNVU1BN2MxUW1qWWlybTR2VFVCSUxnMy1wTVRsRFItOEtuWnphdkJtNHZYYzFqbk43YXYySWROcGkzSGN2b0xWcEhQRFA4NmwwREdKQW9CYWZrZ1M5U29peUdzYndtUmRRQ3hTTWIxVlByWUZOWjE5enBxckVob0xRa3dzc2pPTTMwcnQ5VGtWYWxneUdpTG5yQXVWRVVOVDg4V1JaRXhHdUlSLWQ4QUlZTnVmUWxCYXBjbXcyNA?oc=5",
+      "pubDate": "Thu, 26 Mar 2026 23:00:00 GMT",
+      "description": "Measles outbreak in federal detention facility reaches the Texas public, records show Denton Record-Chronicle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Michigan measles outbreak: Confirmed cases grow to seven, including child under 5 - Bridge Michigan",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY0FvUDZrelhwS3JtbWpwVGljSWlDNmIzbWcyeFllMUVuUVdPVi1ObEtZcjZRbW5fb3haVUZ6YUdmT3dlVFJGMlBMcTZTQW5vZXNTZ2Foc0tvTWNzeDdScWpfNmV5UWF0MTZnSjE5bHJLTmZQdUh6bDZJYk5GY1dRanI2dkNidnZpakhlQW5RTDhQdnhBdHBHdnNXLWtHcU92cW40YnNWaGVkbUVSdVRVMzFZOUJEdlRIUTlVMHRjUng?oc=5",
       "pubDate": "Thu, 26 Mar 2026 22:46:24 GMT",
-      "description": "Michigan measles outbreak: Confirmed cases grow to seven, including child under 5 bridgemi.com",
+      "description": "Michigan measles outbreak: Confirmed cases grow to seven, including child under 5 Bridge Michigan",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
