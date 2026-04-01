@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-01T11:30:05.661Z",
-  "itemCount": 61,
+  "updatedAt": "2026-04-01T12:35:32.628Z",
+  "itemCount": 62,
   "items": [
     {
       "title": "How leadership disruptions at the CDC endanger American health - Healthbeat",
@@ -30,10 +30,28 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Cook County health officials warn of measles exposure at O'Hare Airport, Niles, Mount Prospect - ABC7 Chicago",
+      "title": "Cook County health officials warn of measles exposure at O'Hare Airport, Niles, Mount Prospect - abc7chicago.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZXZNVVh6VmdrUzNZdDA3bkZPdlhpamJ1S3lHVXBiaGVMY3E0MFZ0RHRkeVBnV0RPWFNMSk0zRGc0QThGQndFY1cyTHI3c0tmWG5oY0tSV19HcWlmeTg4d0FFV3dGdTdxUXRrTU55cmZTcEd6MUNJdWpLbkppb2dfejlmOC1LRV95eGlESGRSTEJnMTZRZDlBank5cHdpeFBPb0hOelpsUFdpU2dsbjZKQ2JyYXFEdW5aSEU1S3l5a3llUdIBxwFBVV95cUxPX2c3TWVoYlpQRkQ4ZHVIM2lSVm1VUWFBX2xyai1VeWRFVW5sRWhpQmdoakpzOVNzVWIweGVXRTdjZnFUOC1KYzBaZUhxd2JiRTd3cjVkQXFlazl1VWV5VDNob3BYb2hKa2lmaVU0SUhraW1vOE5OTVRkbklrUzhvTmVnVk5jdmp2QjVWUlV6WUlaQmRnNlpKOU5OU0NVVzdac0I3Mng4YzYzb3dpTTdqNHh6UF9QVkpYbUJTaE01a2FuR0JVQkhz?oc=5",
       "pubDate": "Wed, 01 Apr 2026 10:18:54 GMT",
-      "description": "Cook County health officials warn of measles exposure at O'Hare Airport, Niles, Mount Prospect ABC7 Chicago",
+      "description": "Cook County health officials warn of measles exposure at O'Hare Airport, Niles, Mount Prospect abc7chicago.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles outbreak continues in Latvia – number of cases rising - Baltic News Network",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGtER091MFJxRUZRQlN1Z1JGNm5OUG10TGluekkwQk5wUHB1ZmNzTGZJeHVJejYzRGxhWHdIcDA0LWlDRGVITGl5UGNSQXBqckpPdElvNlRXYWtRVzgzblhPOENPbzBBTXFwS002TkdRc3ZxeWlGRllQa2RuWVJoa0RtWTZTV0trdjRhQ0hneTU?oc=5",
+      "pubDate": "Wed, 01 Apr 2026 09:20:00 GMT",
+      "description": "Measles outbreak continues in Latvia – number of cases rising Baltic News Network",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases in Japan increase rapidly - nhk.or.jp",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUHRZLXd0ekpIS3YtWU5EQUR0NDdGZzRneVBVcFFhZ3dKRFhNemYxMWNpVXlNT01sblJmc0loUnpOWmlPTUJSODg0THNYN2JGdEl0a3JaRmpxN3ZJWG1za1dn?oc=5",
+      "pubDate": "Wed, 01 Apr 2026 08:19:08 GMT",
+      "description": "Measles cases in Japan increase rapidly nhk.or.jp",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -43,15 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS2dvZHFlYXc2OG8tU1VOdXVqR1JPY0tjc0djUmN6RU5VeHdtc3oxdVd3WUxNUUhYV01fYlNQRjVwZUdHUGVvckhpb3AtR2tWVjVDRXhPTUQ5SnhVOXZBVlUzdFdTUGY4UHJlU0VCS0RFQzJ2Y0hNbU9WckdlSEhpUkVnRE1XeTg2VFNydGxsOHFJTU1tQWJZWQ?oc=5",
       "pubDate": "Wed, 01 Apr 2026 05:37:01 GMT",
       "description": "Measles outbreak: What you need to know The Daily Star",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases in Japan increase rapidly - nhk.or.jp",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUHRZLXd0ekpIS3YtWU5EQUR0NDdGZzRneVBVcFFhZ3dKRFhNemYxMWNpVXlNT01sblJmc0loUnpOWmlPTUJSODg0THNYN2JGdEl0a3JaRmpxN3ZJWG1za1dn?oc=5",
-      "pubDate": "Wed, 01 Apr 2026 05:13:26 GMT",
-      "description": "Measles cases in Japan increase rapidly nhk.or.jp",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -102,19 +111,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Possible measles exposure reported at O'Hare Airport, suburban stores - NBC 5 Chicago",
+      "title": "Health officials warn of possible measles exposure at O'Hare Airport, suburban stores - NBC 5 Chicago",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2NCaEJGd2QxWlBSRjNVbnFabWR0ODhYR2wxdmdCVEFZcWxHZ1FTRmJzMjN3RGtQa1B6YzB1YnFKdXJGWGVpVEU4QlFFdkZnS0V3MHVGNXpEcFprTEtmX3d3Slh1NmVVMDNJNEpsb3F1RmpXT1NJa1ZrcV80UHlXc3BORTk5RXZnb3JwbDJTYWQ3MGFaZUVpS1Q1SFhRV3ZLTU9sMVpPdExiWWl5RTRXTXlZWE3SAbwBQVVfeXFMUEZaeVc2MzJfTXUxNGliTXVzdmNGTFRQbkw0RHEyTlMySWFzamZLb3lrMGlNa2sxZjlpSnNGTVVUQS14LWJvZU5WNW9Yank5ZzdXU0JybURxeTgwemI0Vm9VQ1B6U1pnRXF6MkNkVmpLcnFES1N5cDZlMGZnTkt3a0Z2N3U2XzBLZ2dYUG5Ta18yS2cySF9uNGFITjhsUzBya3RSUE91RHRld1QtZ2xaMHdMODJVa3JVNjFyWmg?oc=5",
       "pubDate": "Tue, 31 Mar 2026 23:17:17 GMT",
-      "description": "Possible measles exposure reported at O'Hare Airport, suburban stores NBC 5 Chicago",
+      "description": "Health officials warn of possible measles exposure at O'Hare Airport, suburban stores NBC 5 Chicago",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Walmart, Deer Valley Resort, LDS Church meetinghouses among measles exposure locations as Utah hits 559 cases - abc4.com",
+      "title": "Walmart, Deer Valley Resort, LDS Church meetinghouses among measles exposure locations as Utah hits 559 cases - ABC4 Utah",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWLWoxcmtRSEZCcjllSjJHdFI5ODdoMmJxa3A3MmhMNVgzSkJiTW5SVmZYbEtrdHVBbGFTZmtOYktDNWcyenh5OHhSSGNNX0RtdjNXTGVSbkQzbTM0T01nWDU2RW9DNVllcGVEdNIBckFVX3lxTE1qZkpBZldrUGJrdmt3bWtGdVNqTDV1cFRfeUEwOGlHTDJtT1ZQT3k5dHM2aV9mbXlZTVFWeFA0dWpBbjdjRDNZRWpMaW9pdldEYmp5Q2p0TmoxZHBScXdiNzhEZUN6VFpOWHdZWkwwekNoUQ?oc=5",
       "pubDate": "Tue, 31 Mar 2026 23:04:13 GMT",
-      "description": "Walmart, Deer Valley Resort, LDS Church meetinghouses among measles exposure locations as Utah hits 559 cases abc4.com",
+      "description": "Walmart, Deer Valley Resort, LDS Church meetinghouses among measles exposure locations as Utah hits 559 cases ABC4 Utah",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -139,7 +148,7 @@
     },
     {
       "title": "Possible measles exposure at Chicago O’Hare airport and Niles stores, health officials warn - WGN-TV",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZWM1Z2kzdXpUbV80QUNxcnhKQ2UwZjR2WWpCMjQ3RUd4LW53QXdvbXBiZmxPSlk0NGw0TUVZVkRxMWRGR2pTNFJDVDh1TUt2Ny01ZFl5THBILTZQU1p2QU0zZGhLbEFYU19pMWs0WnZYamZXTjZtSmdPMGpSZ3paUERnQ04wbHU0LTJCd19wSnZQX3ZHQWJYTURJSndnYXUyMGhaby1GTmFlaUNxVVdWWFNfSy0zaTRBQVZnU2tLVG5fd2RqbFHSAcsBQVVfeXFMTmxVY2JfU3ZVX1pDUXhoeDFzSUw2Wk4tX0llbWQ3TUxWbzhlUy12aWpqYzBlUWtpZ2w5TlNQNnEzckZXT2dQcllCWm5CcHJuTEl2eDk1WWQ4NW9VaWFSTlRYYTdKSF93RloydmlubDBkNlJCaUhJYTdrTTFEb09WQzI1bXFCODlraXlIWW96VXhTVmN0Q1FlRUFFaDBKNmtsQzA4b1Z6cmFjRjJ0NFd3M3FaVXJVWTRrZDk0UnZ1R3lxRjFvOGkzQnJYek0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZWM1Z2kzdXpUbV80QUNxcnhKQ2UwZjR2WWpCMjQ3RUd4LW53QXdvbXBiZmxPSlk0NGw0TUVZVkRxMWRGR2pTNFJDVDh1TUt2Ny01ZFl5THBILTZQU1p2QU0zZGhLbEFYU19pMWs0WnZYamZXTjZtSmdPMGpSZ3paUERnQ04wbHU0LTJCd19wSnZQX3ZHQWJYTURJSndnYXUyMGhaby1GTmFlaUNxVVdWWFNfSy0zaTRBQVZnU2tLVG5fd2RqbFE?oc=5",
       "pubDate": "Tue, 31 Mar 2026 22:09:31 GMT",
       "description": "Possible measles exposure at Chicago O’Hare airport and Niles stores, health officials warn WGN-TV",
       "source": "news.google.com",
@@ -219,10 +228,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Guatemala reports thousands of measles cases in first months of 2026, First deaths in years - outbreaknewstoday.substack.com",
+      "title": "Guatemala reports thousands of measles cases in first months of 2026, First deaths in years - Outbreak News Today",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSW9aall5eWlnSDVfc3ljUVI0SnlTS0hoUGkwS1J1NkhHZ3ZwVUF6YnhYSGZZRkhvcWEtWXgzRDhsRlJweC1KR2I3a1QyaHk2X3ZRUnhiUlpXWS1vWUtueXFiNkQ0NV9uZmZhMFRlSWRsM3Njd0xfbTZtWVNDX1hHdlJuRHJlQQ?oc=5",
       "pubDate": "Tue, 31 Mar 2026 21:02:05 GMT",
-      "description": "Guatemala reports thousands of measles cases in first months of 2026, First deaths in years outbreaknewstoday.substack.com",
+      "description": "Guatemala reports thousands of measles cases in first months of 2026, First deaths in years Outbreak News Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -300,10 +309,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Mexico eases measles crisis with 17M vaccines: Tuesday’s mañanera recapped - Mexico News Daily",
+      "title": "Mexico eases measles crisis with 17M vaccines: Tuesday’s mañanera recapped - mexiconewsdaily.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdC1NU3prTWRkekVVUjM3aE1MSjJDZTJwVmZZd2xrazJYZkRHNVZlT19fTWxSZURkSUZDbmV4NGxndDhLZFh5bVFOR2REU1NkTXhZU2NnMGd0M1Q5Qm5oZVBTNnhoRjZFVUdDN1ZxMjBrbVpUTEgzUWVGTWVBV0k0T2tiS0lrZw?oc=5",
       "pubDate": "Tue, 31 Mar 2026 17:25:47 GMT",
-      "description": "Mexico eases measles crisis with 17M vaccines: Tuesday’s mañanera recapped Mexico News Daily",
+      "description": "Mexico eases measles crisis with 17M vaccines: Tuesday’s mañanera recapped mexiconewsdaily.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -354,10 +363,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Coconino County confirms second measles case, identifies new public exposure sites - Navajo Times",
+      "title": "Coconino County confirms second measles case, identifies new public exposure sites - navajotimes.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUl9uZ3AwQkFzMjJIV251S3BrWkZlNnowdHA1QjF5RTFQZkVVY0ZTNnhlWEY4bm44QWVIZFpnQWVubUk4aEJrQUFoRFFRam5vc2tqYmJYU0s3UFozS0hQVGZ4MGwwaXYzdzNQTkI0Rldkb0lkclNrQV9DUXhMclVQbDc1TXFmamM4b201bUdaMk1TOThJYUxvRXd4UGRMOXBXSFo5d2RqU0JZRDB4R0V2VXIwTlk?oc=5",
       "pubDate": "Tue, 31 Mar 2026 04:24:04 GMT",
-      "description": "Coconino County confirms second measles case, identifies new public exposure sites Navajo Times",
+      "description": "Coconino County confirms second measles case, identifies new public exposure sites navajotimes.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -462,10 +471,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Bolivia measles vaccination campaign: 1st phase completed - outbreaknewstoday.substack.com",
+      "title": "Bolivia measles vaccination campaign: 1st phase completed - Outbreak News Today",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1V4YmxfYmVUVlE3TENXMjY3VXlQaEtfWEhqd0ZTekE0ZjhjRG43VVNkbFMwSjZjZHduOENUMlNrbWVjME0wWjhlM3UzNVpQUFZVQU5YUC13andHbTRuR3NZM3N0RWhGS0ZhTW4xc1M0X1kzZnRYVElUVmV2Y3pLT0k0cw?oc=5",
       "pubDate": "Sun, 29 Mar 2026 23:25:59 GMT",
-      "description": "Bolivia measles vaccination campaign: 1st phase completed outbreaknewstoday.substack.com",
+      "description": "Bolivia measles vaccination campaign: 1st phase completed Outbreak News Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -516,10 +525,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Cases and Outbreaks - cdc.gov",
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
       "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
-      "description": "Measles Cases and Outbreaks cdc.gov",
+      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
