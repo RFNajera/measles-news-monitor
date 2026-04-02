@@ -1,12 +1,57 @@
 {
-  "updatedAt": "2026-04-02T11:27:20.918Z",
-  "itemCount": 73,
+  "updatedAt": "2026-04-02T12:34:05.423Z",
+  "itemCount": 75,
   "items": [
     {
-      "title": "US scientists sequence 1,000 genomes from measles, a disease long eliminated with vaccines - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTWZ1VFpLRXVnRkszN2hrUmIxUmVYTnc1RFhDVEF4dTFFaEotSGUtU3JlVWoxVlUtSjR1Tk5lS2pCdlZtdkIwNFdHQ0FHZlFBOG9NdjZXV29aODJQd0RncEc2Q3VGa0JwbTRiR0xrRXlzdXRqTG56SWg0bkhTUjBqd0wtLWpuQUNfYW9MNjNfLVktdFFjYnRuRzZuak1fWHZIM3lsc2k0ZzZqTUtjcDBuWUpJcnZnTnhId2xPNDJqV1U5bmgxb0FBYURYb1JZUkgzS3c?oc=5",
-      "pubDate": "Thu, 02 Apr 2026 10:39:00 GMT",
-      "description": "US scientists sequence 1,000 genomes from measles, a disease long eliminated with vaccines News-Medical",
+      "title": "Utah sees sharp rise in measles cases as outbreak includes a Trader Joe’s and LDS temple open house - The Salt Lake Tribune",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmdVI0SnJTNWU3dTJrSW5ab1hwNWExeEVYbi1OWUNfTWZVSWxpNjB2bDdJaHhzN2ZKbzhrbExMVTdSX0luMTQwU0pjbFdsWF84VlZIcGkxWC1ER3NPXzZZUHdpNUF5N2tZVzdGekFZYTlUelRLMWtjN1ZTY3ZIdw?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 12:06:16 GMT",
+      "description": "Utah sees sharp rise in measles cases as outbreak includes a Trader Joe’s and LDS temple open house The Salt Lake Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Health officials flag several University of Utah areas for possible measles exposure - KUTV",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYlFjTTZyLU5KRDVqOVdiMjhfRHBoWFkxVzQ5MDhGVHFQUXQ4RXRHRjdGWWR4SlpjbzZQczdoaTBsUkxRbkpHVWJpbHNmb1VIdDhiRFRZdWhoOEFzcGd3X1pxQ2J6eHFfSkxaSThnNDdJN0h6U2xZU1NnNzN1cjBFMXpELVdTUmFtYm94OXdqb0U4dTNwNjdrTXM4RXRFaFp0cTNndXpSaXJDd193aGpRN0xR?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 12:03:07 GMT",
+      "description": "Health officials flag several University of Utah areas for possible measles exposure KUTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Bangladesh missed its last measles vaccine drive. Now dozens of children are dying - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcllIajBXSFQxQ2pfdGJfVk5ESm56cS0ycHdjWHktRDRHMnBHMEZydjAyekwwZHFJOC03TlBxRHROUXhXMWJZaThJNmVnRlNBaXJJWlNRZFRobjVEZUh2NGFuNjVPd3BMNTBHcVFwZ292ZzRpSXV0R2FpbTB2VThhMDA4RjByZ2xtaUdldFFXRlFTVC1ObWFQdUNB?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 12:01:00 GMT",
+      "description": "Bangladesh missed its last measles vaccine drive. Now dozens of children are dying The Independent",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Collier County confirms 2 more measles cases, total nears 110 in Southwest Florida - Gulf Coast News and Weather",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQclZwS3NxM1RMZjIwRlc2NVFWM2pGeFIwWEdCQ21CQlVpc2ZmRkt5eHBKWGhxX2RWN0EwT3lxMDNuZU83NXdQMWhMd1pTQTRGUkN2WFhMUkhYQnpsejhHazN5bG9rejdYbUpxQnJtU3lBS192VFJtaG5rWlF3UnZDVWNVN2dWMm1GX3VLTDNTaEFfeU9qVEE?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 12:01:00 GMT",
+      "description": "Collier County confirms 2 more measles cases, total nears 110 in Southwest Florida Gulf Coast News and Weather",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Genomic Data Tracks Measles Spread - Conexiant",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWZET0lfZFR1d05tMkNobm5yTGstaVk1eUZzNEFyTjFtQmFVY3lPMkVlMVF0bmw4NEV6a19SYjdzZkNGazdZQmtvOURJNlNfN2Q4NFNGY1hyQlAxVGFNRjFlMENPcTNlN3FGcXBlbmFXUUxMaE9BUnUwY0VKTElVdUVVb2p0dGtQUFZvVHFn?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 11:51:30 GMT",
+      "description": "Genomic Data Tracks Measles Spread Conexiant",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Berrien County health officials concerned over spike in measles cases - paxtonmedia.com",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQcklHLTh5cUZlbDNyQU4zT2cxWWpsZVJjTk0tUjBHY3pHYUdjU3ZjbHRIbXd2RWY4S0t6Ul95a0Y1dWxEY3RZeDVWQUtqSVl1cDg4V1daLUFQbEJUdEdtOC1SdnpSekRldk9GV0pRX05iV1RGYlpaMXljazJrVzl1TWUyV1ZjS3pTaWJMUDZYY3lFcTA1eGhZSG1IU0xjNDZfaWlVSHFXYWtyOW84VXhfRE9BWW0xYXUzaDE0ZHREamMzOWM5RzdMYkNKWlBETFRjZXVTMU5Wd3dsVmJlS19rU2d3ZTIwNG9WMjRfZUMyWWVDS3lGdDlTQlNLdDVZR2pIVWxn?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 10:01:00 GMT",
+      "description": "Berrien County health officials concerned over spike in measles cases paxtonmedia.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -39,15 +84,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "So-Called Eric Clapton Fan Safely Protected Against Measles and Rubella - The Hard Times",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX044X0lVOHFaalJCQkNsa2Z0cGpjLVpoREtvVVhiNDJTUVJqZjVfUWJrUkVJbVZfVjNIN05jUTZWUTFsbjZqbmt5YXFUb0VXdGotNmx0QWk5Q3BDenFsenhkR0dtLUd4S1ZxV2dMU0wwbUc5Sk1POGIxbHhiZ1lOU29jU2d6d181NU1sQjY3Z0ZHWjYwc2tGQTFTY0R3Y3pPdElsbVBlcGFkRTgy?oc=5",
-      "pubDate": "Thu, 02 Apr 2026 05:00:00 GMT",
-      "description": "So-Called Eric Clapton Fan Safely Protected Against Measles and Rubella The Hard Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "University of Utah campus locations highlighted as measles exposure areas - ABC4 Utah",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdXRoRzJjWXM5aThNblFneTh5T29xd1dTMTloNkk5R2JyVUx6bGctUkswUi02ZXZfVWlISnpQU3U3Q2dPczNTdm1Nc1FVdlgtYlNwVzlEZV9aQmlucmpOeHRqQzB3YnRSTkszVUhYMlJIdlpkTjhfZ2tVQ3VhR1FFTV9R0gGHAUFVX3lxTFBob3FsSnoyaVhnUk1qMVd6STl3Z0tVMVh5TEZOOG1hQnFILVlmQmh4SklTVVRlMjlOcUhnVXhqVmtSc25wV1ZQQ3I0MjRDS2VnMDZrVWQ5ZllueXBITFUycUM2VmJmT09RV3BVbWY5TDVzUWxQVThuVldtWDdGeFE3MzJmSXNXYw?oc=5",
       "pubDate": "Thu, 02 Apr 2026 04:21:26 GMT",
@@ -66,19 +102,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles exposure location confirmed at Providence Portland Hospital ER waiting room - KATU",
+      "title": "Measles exposure location confirmed at Providence Portland Hospital ER waiting room - katu.com",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORWdEMzVtc1FGMk1RZVpZZGxGZnJxUGdKM3pTTEZEOVZ2WGFiWUJPdFpPTU4zcDlZcEdrbzVvS0JiX1Eyb3VfdlFPY3g5c0hsVUlVRDBDcXFTc2NLaDZ6b1Uya19MZHhPc2RLVi1yUWQ5cTdBYnJQOTU1aG5oZFFFQXc0Q1llQUFaSV9FT1JDbUxDNWRfLUdwRWU3ZXQ1eTJYWDN1dHYxMVQ3dlhsaVlOOXVZVzlkcFZKajFnWnRuYXJPMzZTR2FjMmxRYlZDcUNnc0JpTHM5N3ZaVFY2em5XbGw4U0lvN1lmZ0xFWnM5ZnBGMVc0NThHYjRvS0o1M1NHMERxR1V5c0c1cF9fRkE?oc=5",
       "pubDate": "Thu, 02 Apr 2026 02:54:04 GMT",
-      "description": "Measles exposure location confirmed at Providence Portland Hospital ER waiting room KATU",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "‘Early warning system’: Experts use wastewater to track diseases in Utah - ABC4 Utah",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KRVlSRTVtTGJmYlYydmxZaGlqQzdtNUs3Rnp3Z3VIaFNTWkZNb21rVjUzcUk0b2FWTEdmdGRIcTh1RzdJWXdFS1p0NzJkZjhtSUROUGl2bjNOc3A0MVpVWHFiVEctUXU2RmlmN29Ddk92OFlF0gF6QVVfeXFMTmR1TGdsVDNLTUF5RDRBLWZERXRpMm5qdkJ5UjZ5U0gzTHBRbUJNZFBrRkk2NVpwQjRDZ0szS0s2emVCUzFWM1pNczZuX1hNaVZaZTBsUGtYV2pSQkQxdFhSdXpMVzBvWjcyRjR3LVpncWI5c0pJamtoU2c?oc=5",
-      "pubDate": "Thu, 02 Apr 2026 02:25:23 GMT",
-      "description": "‘Early warning system’: Experts use wastewater to track diseases in Utah ABC4 Utah",
+      "description": "Measles exposure location confirmed at Providence Portland Hospital ER waiting room katu.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -129,10 +156,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Another measles exposure site confirmed at Multnomah County ER - kgw.com",
+      "title": "Another measles exposure site confirmed at Multnomah County ER - KGW",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSmlnbnJWUU5RdkpSYW0wSGFaRHBHSWlMT3NEOE9fNEIyaE9uMk02cVNJS0ZwekdTQm5HYWNsakxKLVJXOVVtMUZZVFlrSGdUa3pIejh5OTIyWGVEeTgwUml3ZzFDVVVZcTZUeVA3VmVzeXZfYXdhanJYQ2FRcHlfU2xzRE9GSFFQQ25JaE1FOUxmeDlGSWk1R0NhNXFoMkw2eVdHVEZ0RWhDMjVEbHpKTkt5VG5ydzFfWmUxa3ZvUElrOS0xZXlYc1o2U2U4dG1Od3BzMjk5RQ?oc=5",
       "pubDate": "Thu, 02 Apr 2026 00:11:00 GMT",
-      "description": "Another measles exposure site confirmed at Multnomah County ER kgw.com",
+      "description": "Another measles exposure site confirmed at Multnomah County ER KGW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -210,10 +237,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials confirm another measles exposure site at Multnomah County ER waiting room - kgw.com",
+      "title": "Health officials confirm another measles exposure site at Multnomah County ER waiting room - KGW",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZFMxZG9qOEZ3VkJLdXhtMHVGRE1ldm4tVlBuWS1aNHBMUjkyenpFb2U2TDB2aEpQeDBkUDZ3UzRjSXo5cnp4TXdQemVWY0FpQlltZkpGQTFJTXR4WU9OZTZzN2tncGN6cFhVZlpzZXlmZk1FU2NqdXUxb0NDTnVzN3NsVm5lWVZwTVo4cTRlUFg5R3pteUdFNW9keEpIaERSeEFSaU8tbFNfc1dLdFZlM3F6V1FyYzBlWUpBWHFqYTh5aGtZXzFGNDVab2NKaUcwTHRTWWl4WG5LcDgyMDRxczdwSGtPUmwxYUE?oc=5",
       "pubDate": "Wed, 01 Apr 2026 21:18:00 GMT",
-      "description": "Health officials confirm another measles exposure site at Multnomah County ER waiting room kgw.com",
+      "description": "Health officials confirm another measles exposure site at Multnomah County ER waiting room KGW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -462,15 +489,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles vaccination rates for toddlers plummet across LI - Newsday",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0NxWWU2a3BNRF9pbVpXTW95anFQNFJLXzQwX21LbFRVU2RKS0hyeElCRDZuLUtlTXNwY1lDak9sQThSajJxQmxOUHN6NE5tVndiT3A5dUdpRGtTZDc4ZW9CV1NHcVdGcnF4aFpJUWR5YURjX1ZLZE1JRVNjRTJKb29aUkg0VzFDNmNnSmtMQXV6T0NuelFIWmhZQ0lfdGR5eUM3QUdaR3M4ZTJ2UWRfeEV2c3Iwdw?oc=5",
-      "pubDate": "Tue, 31 Mar 2026 21:58:21 GMT",
-      "description": "Measles vaccination rates for toddlers plummet across LI Newsday",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Possible measles exposures at Chicago’s O’Hare Airport, Niles stores, officials say - FOX 32 Chicago",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vb05VNnFjYUFBQnhVa0YyRk9Tc1VGU0xzSFhhN2d4c0hZSV9ZbWNYU0x5c0dZUU8wNmVrdUlCUVdPYVBTVllKZ0l0b2JwSjdpRlJLck1laTZSRzczM1p5dFR1b0ZXOS16Wm9iNjc0c0NjZ9IBd0FVX3lxTE1td0pKNElGRnFCbG1mdVBOZmVKdTJYWnFIOGV4bG9GaWkxLWZsQ3Iyc0psWVdtTS14Nklhc19GcGNFZktua0lJcXMxUm96dlpJcXI3OERTUzljUkFkSlNsZXh4MEFTa2ZLRmNCa1ctZURhRGZ6Z293?oc=5",
       "pubDate": "Tue, 31 Mar 2026 21:42:08 GMT",
@@ -489,10 +507,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Guatemala reports thousands of measles cases in first months of 2026, First deaths in years - Outbreak News Today",
+      "title": "Guatemala reports thousands of measles cases in first months of 2026, First deaths in years - outbreaknewstoday.substack.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSW9aall5eWlnSDVfc3ljUVI0SnlTS0hoUGkwS1J1NkhHZ3ZwVUF6YnhYSGZZRkhvcWEtWXgzRDhsRlJweC1KR2I3a1QyaHk2X3ZRUnhiUlpXWS1vWUtueXFiNkQ0NV9uZmZhMFRlSWRsM3Njd0xfbTZtWVNDX1hHdlJuRHJlQQ?oc=5",
       "pubDate": "Tue, 31 Mar 2026 21:02:05 GMT",
-      "description": "Guatemala reports thousands of measles cases in first months of 2026, First deaths in years Outbreak News Today",
+      "description": "Guatemala reports thousands of measles cases in first months of 2026, First deaths in years outbreaknewstoday.substack.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -642,19 +660,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Cases and Outbreaks - cdc.gov",
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
       "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
-      "description": "Measles Cases and Outbreaks cdc.gov",
+      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Exposure in Spokane County - Spokane Regional Health District",
+      "title": "Measles Exposure in Spokane County - srhd.org",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ocmJYYVNGQUhFa3FFSVRQMDFmLUlMRUpLUkJKSmVPdVVBOFJSOFlsZER2THZOMXBNb3luUzZEV2Z6OGRzRUNVM3FpejJRWmMyMml6cDdwckRHZGFzM3k5YUp6Q2JTaVdKdDFkcjJiTDF5QkE?oc=5",
       "pubDate": "Thu, 26 Mar 2026 21:09:08 GMT",
-      "description": "Measles Exposure in Spokane County Spokane Regional Health District",
+      "description": "Measles Exposure in Spokane County srhd.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
