@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-04-02T22:19:13.560Z",
-  "itemCount": 82,
+  "updatedAt": "2026-04-02T23:19:45.818Z",
+  "itemCount": 84,
   "items": [
+    {
+      "title": "King County confirms new measles cases - KING5.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNem01TmdPLUVYNVRUbi1rRklpaDhyczhHdEF4RjRSX2I3VGczcm5kUjhjdDhJTno5T1h3SnlVa010VW9SN3Z5RG8zLXdMOHdvUlNlaG1FOEU2NmoyN09SNWpvZlNBbFFHczVmMFdjT3FFQlFEOHl3eDNhMmtUdEtxeEVHRTFrbDh1MlVCTlZOMWtzbFdleV9lcVpoeXhJd25UWlp6R1pxc1YzZ1FoX0twSTZRTXFlSGxMWTQ0?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 23:10:00 GMT",
+      "description": "King County confirms new measles cases KING5.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Michigan measles outbreak: State urges earlier vaccination for infants - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSnZJRXA1R3E0MHdSSk8xekgyTlZBYjl1REFnVVNXNDZwLWt1N0tsRkVoNlNBelBpUy1vdG9IdkhQaERONlFrQ3FycWRZZ3RuMFBjSUVkT3RMT3U5QVFkY1FlaHg1SHV0aDFPVER5YjBneGhZVFJ3S0NTaUNhZUNEajN5RUFaS3I3Xzhlc2cwTVctLXI5UTM4TmhoOFdBci04em96U0VFLTVoN1VFNm1ucEN2NkJFY0txUHhUXzRVUmE0ZjVFdVpTejJ4M1dOY3BCSXBHbWsxTEJaMnZ2NXFTXw?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 23:01:00 GMT",
+      "description": "Michigan measles outbreak: State urges earlier vaccination for infants The Detroit News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Explained: 7 Facts You Need to Know - University of Missouri Health Care",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbVpSUWEwdGlKTmV5N045OG9rZThOdkpHQzNNRFh0TjhRQjVPclA5eDJ6cU9PYldlNkJvbmNmSU5GM0FoWGlpVmxXczU1MVJIcDVVQzlUWHA1TkdBcmctanc2ZmlpOW1JVUxIbkp2ZDNFZmR0ZGxMVjRfd014b1F6NnNB?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 22:41:15 GMT",
+      "description": "Measles Explained: 7 Facts You Need to Know University of Missouri Health Care",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "South Carolina state epidemiologist who led COVID response retires - WYFF News 4",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcE1jOUg4LUYwWVh3RGdXVWhnSmNsQ1lPeGdENzhmMThwNEd5dTRiWWJvVFBIM05XNDhXYjdRNUhqaUtaRkpRZTRxTTNvcXU1NWFXLUlFcmFtUlMwN2M3WFBfcndMcU45ZzFRYjhuTnFTcmlia3ZaVmNKYi1FQUZEdDQtN1cwd2FtMURVeFZTUllWUnJfVVlV?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 22:33:00 GMT",
+      "description": "South Carolina state epidemiologist who led COVID response retires WYFF News 4",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Possible measles exposure at O’Hare, in suburbs, Cook County officials warn - Chicago Tribune",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXFsVTJSdXlybEY5amxBdTlVTXJObU16eGExWnBla09RR0tpRXpGc2FLLXpiUU1QcGVCcFlDMmQxV3U2LURiN29ZRkZxd0tqYXV3bDFRTWowNjNTeHdZa1A4cjRGMTlPQW1ncXEySGNnaW4wcG5QV19yOUI3Q3lDTjNORHYyVTJRZkV4Y3lKU3JsNWoyRWhLUUthYnFaMDBROGRGV1Q4LUJZQm9uQ1Zsb091M2J0Zw?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 22:31:11 GMT",
+      "description": "Possible measles exposure at O’Hare, in suburbs, Cook County officials warn Chicago Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Measles cases slow down in Florida, but numbers remain historically high - Central Florida Public Media",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbjhVOTQ3VUtBVFg4R1R2M2NLZWliRWUyYjk2dm5xcndYR1QzbEVuTGF4ek03MUdrYWNxcXJ3ZUprdlFtazhBbG9FbWphalBJZVhZOGprcTRyZEJSelFqS25uLVU4WWhKM1QzUWt2M29mc2U0LWhDTW0zSmpnRDZHX09nSE9LaVlRbjVoajlPZkFubXplUTBsZDJZVmpIX25EUkthM1h3cXpYc2g0aWdRb2dxZ0k?oc=5",
@@ -39,28 +84,19 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles exposure reported at 2 Portland-area restaurants - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0hnR2VzeVdxUnhnSEVCZ1kwZ0hmaVFwUFhCODE4a0hFOFdKMDFHcU9OOFZsekg0dTJEZ0xGYXRXSzhZT3Z5UGpvSFVaUTB3TUJmUk9ZZl9pcjRISkxqU3pFNmhsRFVUakRHMV9RMDlJWGhKMkRoRndMVVo2dlM2YjBhN3hOcFB1Q1FrRnUxWWd0RG9RUG96MGV2cm1EMkRFTHhqT29R0gG6AUFVX3lxTE12dmdmakxlT2lMT0p0S1JGWkZuMVVfblFYX0RGV3lFZ0pScHViOUh2cVN0NllZTnpyQjFnN2M2NnFON0ZIX0dvT0RZM1ZmWGdUU1laYTh3QzZQTXNILUtyX2phaEV3WENDOUlKcU1DVHNXX0kzZ3NHMnIxTGxQZDI2a1N2VHpkWkxRRUIwVjZua1N0eV9BYTB4cHhuQmZLa0VtdE9UMjR6cFBLbHNpcTJRb01CdDZhcUhyQQ?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 20:56:00 GMT",
+      "description": "Measles exposure reported at 2 Portland-area restaurants OregonLive.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Monroe County reports measles case, exposure at multiple locations - Toledo Blade",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc1dVYzJ5enVMN3NocVp5QnU3aERRTGlWS1JJZjJQa3FjNlRZMF9ZSzdJLW9xWllCekZGM3oxMTgtLWdkNEFEbUxLZVNyVTk5M3dfVlRzdERKU2xKVG9oVURxbnFqeUhoZHUyMzBEYlV5Vk1leV9HeXViTER6WXRGc1FGaGFBcl8yQU1DOGktOHVWQXFFd2pOMlZJNnAzUFR2TWFYek03YzFlYl96X3poZ0xfYXM1bXcycUxpbmNQTkpUZU5uRTFUQVpiMmlhczZ1RXlv?oc=5",
       "pubDate": "Thu, 02 Apr 2026 20:23:01 GMT",
       "description": "Monroe County reports measles case, exposure at multiple locations Toledo Blade",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Health officials confirm measles case, exposure sites in Monroe County - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMnJrUVd3bER1bVdHTzV6djhjY3VLWFlYeGgteGFZRVRmV202dVN0Rlh5S1VzeXp6akNnN21iSFhVNTZadm1EcXhGY3JYeGZtSmRhelVTcVR3aThVQ0JIVTN0M2lwNmN5eWJERDQ4Z2RvLWxLendsTlFaU2Z3eURVa3NLTjJ2UlExRjZTUnktSUFzcnpEZmRLYTF5MWpiMUNBUjE5a1JGcTNiUXRk?oc=5",
-      "pubDate": "Thu, 02 Apr 2026 20:10:00 GMT",
-      "description": "Health officials confirm measles case, exposure sites in Monroe County CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Two new measles exposure sites confirmed in Portland metro - KATU",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOVhHRXFtRVhRNS1LdTJad29vN0M2TXQzMzJ0dk9oQktHRC1MeWNSbWlLaGoyY204QzhqMExya0Y0Y2hDUUhwUVJqVjM5d21hR21xMFk1N3hYSnlGdGU1YVpOdzVYc3h6X1pFTTdyQWc5Tm5RcTlWNFVJYTBSNzFqbU4zTkFiQnZZQlAwTHFWUU55dm9iTGx4WkdYZWNUOGFyQVFYNWM1cjRNdHN1OUwzMmw0YUp2aUZnSVlIZlB1N3RmV1QzZ0FzRm9IclNjai16UW1INU1nTURGcjVvNzhPdGNnUjVNdmJNenc?oc=5",
-      "pubDate": "Thu, 02 Apr 2026 20:09:50 GMT",
-      "description": "Two new measles exposure sites confirmed in Portland metro KATU",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -102,19 +138,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles exposures recorded at two Portland-area restaurants: What to know - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWmlZblppbTl4QTdMbFFUWWxYS0RHSVdKVUkzVmlDV2F2RG4zNXhoeEY2YXVMSld2djF2MGtjRmR5Wk1UcENBNFl3c3BvSUFTWFpLUFA1NldlNDhQYUZSOEk5bVdhbjJ1NnlNbEVnV0VPRTB1RG5nWl9wYkhlV3JPeTN2ZzBtTXR5dkh6d2E3WlFFSkhn?oc=5",
-      "pubDate": "Thu, 02 Apr 2026 19:14:33 GMT",
-      "description": "Measles exposures recorded at two Portland-area restaurants: What to know Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "West Linn cafe, Gresham restaurant identified as new measles exposure sites - KPTV",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPem9xMGppQzRQN05nbnBDb0RIS3JtelJtamx1TV92b2Z6aHhnQ0U2bkl5b0NsVHdnUE5hNGh2UWtxai13NFZhdURxUmRGMzBvWk15RTVkN1pjWDEwWVVKNnJUWWZZZWxqWTRrY0dhMV81czJjWkczQWJIZ1BVRldNMFhjTC1rZmxlY1RVMC04N2dHT3ctbFNoSUtJYzVwRGJ3Sm5ycUJEWQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPem9xMGppQzRQN05nbnBDb0RIS3JtelJtamx1TV92b2Z6aHhnQ0U2bkl5b0NsVHdnUE5hNGh2UWtxai13NFZhdURxUmRGMzBvWk15RTVkN1pjWDEwWVVKNnJUWWZZZWxqWTRrY0dhMV81czJjWkczQWJIZ1BVRldNMFhjTC1rZmxlY1RVMC04N2dHT3ctbFNoSUtJYzVwRGJ3Sm5ycUJEWdIBuwFBVV95cUxNV0ZnbU9GVzhrZjJWbllCT2FnOTlUVGZLaGdOdk1BbGhKMFlSMWlrLWp4R1lMYWlJc1RUTkc5MHF1czlpVXNqSHZvV0lVeUdpUUFQMHNtUjRDQWV3UGlkY25IYUNWUWdjb1kzazNTRUQtMVJNVE1CVWFKSjBjQUtnOG5Pd19mWmM5VUNiSlhxZkNFb3N1QUxrc1dmUXpkQi05Z2NYWVdXWGg4TWQ1Rld6a09sWTB5WFJ4a2lz?oc=5",
       "pubDate": "Thu, 02 Apr 2026 19:08:00 GMT",
-      "description": "West Linn cafe, Gresham restaurant identified as new measles exposure sites KPTV Measles exposure location confirmed at Providence Portland Hospital ER waiting room KATU Measles exposure reported at 2 Portland-area restaurants OregonLive.com",
+      "description": "West Linn cafe, Gresham restaurant identified as new measles exposure sites KPTV Measles exposure location confirmed at Providence Portland Hospital ER waiting room KATU Measles exposures recorded at two Portland-area restaurants: What to know KOIN.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -156,6 +183,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "No new measles cases in South Carolina for a week, but CDC outbreak models warn about underreporting - TPI Media Group",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdWM4M1pHWXd6NWpWa2VQeEgxN1U1RHBtcWlJWGhHUVM0TlI0bzJWQ0pTNlVhSEIxV09HS2FTNXZ2cGNyTU9oZnJBRndVZzJKeGhsZDFqTXpJVnhEY2FXZEhmYTNJWHpOSUU0TGl0TkZ4VGZ5Mk8xZkZCUUQ0ZUViazFMYWFaSXB5Uk5VaGh5R2otNWJCcHhyS2F0c1ptWjJBdWxyTHZhakdneGxyQWI5YmJ6ZHZWRVdVZGlpemVacUx1ZnVselotYWZOYWpncUhUbGVDcXdkWVhfOVcxdUE3NUJkS2t3WVctc3RoWUs3ZTNELXpQdGJ4bk5RcjM3ek1SdkE?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 18:35:17 GMT",
+      "description": "No new measles cases in South Carolina for a week, but CDC outbreak models warn about underreporting TPI Media Group",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "No new measles cases in South Carolina for a week, but CDC outbreak models warn about underreporting - Iosco County News Herald",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb2lpWEREUThtU2xFaE1qaS1kS2FWRFhEcHlxTXROX3k4YmxsSFVWc3JWRFJRUXNUVDJUdjdMMjNuLVVJMWJXSUhvNDYwTng4QTB4TU1ZdDByYW05WlVicnQtWXFTR1Y4Xzg1NEtGcWZuVkVFbGpYelFVSzNKUDc3NENPaU9kSWw1NzRfdENPMEE?oc=5",
       "pubDate": "Thu, 02 Apr 2026 18:35:17 GMT",
@@ -165,10 +201,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "No new measles cases in South Carolina for a week, but CDC outbreak models warn about underreporting - TPI Media Group",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdWM4M1pHWXd6NWpWa2VQeEgxN1U1RHBtcWlJWGhHUVM0TlI0bzJWQ0pTNlVhSEIxV09HS2FTNXZ2cGNyTU9oZnJBRndVZzJKeGhsZDFqTXpJVnhEY2FXZEhmYTNJWHpOSUU0TGl0TkZ4VGZ5Mk8xZkZCUUQ0ZUViazFMYWFaSXB5Uk5VaGh5R2otNWJCcHhyS2F0c1ptWjJBdWxyTHZhakdneGxyQWI5YmJ6ZHZWRVdVZGlpemVacUx1ZnVselotYWZOYWpncUhUbGVDcXdkWVhfOVcxdUE3NUJkS2t3WVctc3RoWUs3ZTNELXpQdGJ4bk5RcjM3ek1SdkE?oc=5",
-      "pubDate": "Thu, 02 Apr 2026 18:35:17 GMT",
-      "description": "No new measles cases in South Carolina for a week, but CDC outbreak models warn about underreporting TPI Media Group",
+      "title": "Measles exposure confirmed at Providence Portland Medical Center - Rogue Valley Times",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWklnWlhldndwMjJXcWJmd2hnQWhwODd5cnJSYmNnNUFacjY5TmpPZHF5aUVRVzJzajJ5U21XcUJ1WEVtdmVOU2RCNU5ldFFza1ExMVZRLVpQMTNnbmVod2VqVkgzMjNCUFRZS0lJd1ZCWW5NekFLSnduRkhidVE4cUU0dnZWMjliMGJwZUlybDlPVHVyeF9zc2pQaVVLdw?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 18:12:41 GMT",
+      "description": "Measles exposure confirmed at Providence Portland Medical Center Rogue Valley Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -183,10 +219,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles case confirmed in Monroe County - detroitnews.com",
+      "title": "Measles case confirmed in Monroe County - The Detroit News",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTdUWTNIUUVIQzhEbkdCUlNoc3RlcVp0Y0I3NEdGWXdaaFM1Y0NSVXlEazFGZ3hka3ZGRnBpb2VySmZvTW1wNG84Z1R2WjA0eGV3Ry1UVU96ejdwNFJ1TWRQNWNKeUlEVlEzeWNQcUZGZmdXTnZjNUM0Z3BWc2J1YTNaVmxnYzFXOVpZdUx0aUpWcGEtYTlEYS1CNjlwT2ZObnRtTzI2TzNiN1Nhams5VlNSaVdPZUUw?oc=5",
       "pubDate": "Thu, 02 Apr 2026 18:07:00 GMT",
-      "description": "Measles case confirmed in Monroe County detroitnews.com",
+      "description": "Measles case confirmed in Monroe County The Detroit News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -201,28 +237,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles exposure confirmed at Providence Portland Medical Center - The Portland Tribune",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOTVlNFFGdy02dWo0OGRtcHUyVmZabGFNQVdIQmdseWdtNkNlQ004RUJRYVVWMFNVTk9WLUt6U0xYTktpOUVyN0FYQTI0TS1Oc01FVWF6cmE4TE1SMFN0Z0cxTHNTZ0J2WEd4M053R1ZRakVDQ21QaC1sZkUzc0syNFE3NllhRURLUkpfc3JFcFRwSmVzT29Cb0pFS3F1TlpjczVib3FCOA?oc=5",
-      "pubDate": "Thu, 02 Apr 2026 17:34:28 GMT",
-      "description": "Measles exposure confirmed at Providence Portland Medical Center The Portland Tribune",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Chicago authorities warn of possible measles exposure at O’Hare - The Hill",
+      "title": "Chicago authorities warn of possible measles exposure at O’Hare - thehill.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZktmTjlwRVlKbFloMUNhUmxMMURZQWhTd1JqWWVVeEQ2d1BaZG9BYnY5amdHNU8wMktEQi1qZG83MUJoMWs1UEVMMWM0a3NkQTV5ZkZFNXIzMGtDVndXdWVha0M5QUV0ZVN0M0FKTFFpTFEwaFI1TldoRFluNTZQNjN3ONIBiAFBVV95cUxORm5hamt2Ymw3RzNjVzQxYUtCV1JrcFJKUFFSNDdUM09fOXVDVXJwLTh5Vk42VjZOWlRxOW1pSGhnVkRTUTEtSV9aTXRNekNOZTVlR21YZ3V2LUl1NDE2UXk5NEtLR0toQzAwVG01WmFfSzZxdUdyYUVTZWZlcVlTMXFvTEo2WW9Q?oc=5",
       "pubDate": "Thu, 02 Apr 2026 17:34:00 GMT",
-      "description": "Chicago authorities warn of possible measles exposure at O’Hare The Hill",
+      "description": "Chicago authorities warn of possible measles exposure at O’Hare thehill.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Exposure Reported at Milan Urgent Care - The Sun Times News",
+      "title": "Measles Exposure Reported at Milan Urgent Care - thesuntimesnews.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPck55eTJSUFNwMkxPYVEtNkE5TDFmTW4tM0Q1Q3pGQkFwakFkeDlLZ05RLWlCUWFlMWVobEM1bU1oRUZBV3hVRWN1ZU5sNUdFRlJreHkyYk9XTzhDamNvSF9PdFlZNlBNaFpZa1JwSHFBWmQ0R3lvckRvemZhQXdGVw?oc=5",
       "pubDate": "Thu, 02 Apr 2026 17:19:46 GMT",
-      "description": "Measles Exposure Reported at Milan Urgent Care The Sun Times News",
+      "description": "Measles Exposure Reported at Milan Urgent Care thesuntimesnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -232,6 +259,15 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLVhMd2Y5ZnYyLVhfdlE5OEJNUHB5ZURjRW5DOWNTM19XY0pJNFpsTGdIeW1ybmpraWdxM0JfaGxpMVljRkpwdUpJMEY4QXdWTWQzWEpqN3BJT2VVOVV1SXlibW1uU3VJR1YzWEtQeGRCNzV5QTNrbElMaG00NEVzR1hIQTBlWmJua0xheVFoS2hEUdIBlwFBVV95cUxQcVJOcjdaRkR1dHZycFB5clZaVTNQT0wwaG5sTnJVakR4aTd5R19PdmwyVHZIRFZidkYzNF96YjBHdUw3TWdldEJlSWNZUk5Dc21oZUl5T3FkYjl1d2hXeE1PNHlVNGR0ckRKNlZMRnJGbk5GX3N2elZIUGFBZEIxa2JwZ2RZRDM3LVRtQmMwZVg3SnJvc2VJ?oc=5",
       "pubDate": "Thu, 02 Apr 2026 17:03:09 GMT",
       "description": "Monroe County reports measles case; exposure sites and times FOX 2 Detroit",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Health officials confirm measles case, exposure sites in Monroe County - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNEZNWTVtUkJwQUJYMWxDOW1uUGdXemtnUUM2RnlUWEFIQ1VHd3UxMGRPR3lKZEl3UmFISm44eVo2YzhPaWNyblZhejBNMHhCSThqSXB1RHFrT29DS256dGZZM2F0WU9Wb0N5V2o2QTlZc0ZlNV9UVlRtU3BQaVU0VV9NbjJVdw?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 16:45:29 GMT",
+      "description": "Health officials confirm measles case, exposure sites in Monroe County CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -264,28 +300,28 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles case confirmed in Monroe County -- here’s a list of exposure sites - ClickOnDetroit | WDIV Local 4",
+      "title": "Measles case confirmed in Monroe County -- here’s a list of exposure sites - clickondetroit.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTB6OVBkdHQ4T3ExUENXRVlFckZ6OXVpaWJtOGY0RHZTUHVZWVNWWGV0aVFjOXNqUWJiaUg3ODBuRTdyZFZKejBOTkRaaW11am9QUVY4UFB4WlgzRHRiZXdJcjNsM3daRUppUWhfazhtc05lYnQtZXNRekNoZDY2alRJRndpODdMYUdidEI3cER5T2hBRnk0d2NZZmFYRHNmbThzZVhjRXZVdFFMeWxoMWRoM3o3cGZ3cXpNeG9ROWl1dw?oc=5",
       "pubDate": "Thu, 02 Apr 2026 15:52:29 GMT",
-      "description": "Measles case confirmed in Monroe County -- here’s a list of exposure sites ClickOnDetroit | WDIV Local 4",
+      "description": "Measles case confirmed in Monroe County -- here’s a list of exposure sites clickondetroit.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Staying informed: Measles awareness and prevention - inside.wfu.edu",
+      "title": "Staying informed: Measles awareness and prevention - Inside WFU",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvREpjS0M0Q1RPRDZCS2Q2OWRDNU1VelNZRnFWenJUVXA1X0E0VDlqWG43WjRNYVpkcHZULWN6MS16YjRDTnR5R0o1OGplX0RtM1ZxOGZRdFplM19tS1R3b0x0YnloN3IwdTlNNEc1cDh3dw?oc=5",
       "pubDate": "Thu, 02 Apr 2026 15:46:44 GMT",
-      "description": "Staying informed: Measles awareness and prevention inside.wfu.edu",
+      "description": "Staying informed: Measles awareness and prevention Inside WFU",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Monroe County reports measles case, potential exposures - monroenews.com",
+      "title": "Monroe County reports measles case, potential exposures - Monroe Evening News",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ5cXZXTnBaOGhlNjFtN2tVNDlKalROMzZkTnRkd3g2SjRVMGhnQVFPUmNWYTM5Tkt0dUtXcmtqNjhjbnR6X1hDRm1yTG9NTkJWWjlIUUxCZk1xSl9IcWZjclo4M0dvRmpRbjNtdVJheHpoT3EyOU5sVzl3dnhNTjRyMFZya2cyWWkyTGF2S05STy1zZUJObVR5NTlPUmxfN0s4djdBVDVfV1h2RG11QlcxOTNNYmp6OV9aTGtR?oc=5",
       "pubDate": "Thu, 02 Apr 2026 15:34:00 GMT",
-      "description": "Monroe County reports measles case, potential exposures monroenews.com",
+      "description": "Monroe County reports measles case, potential exposures Monroe Evening News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -304,15 +340,6 @@
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeFloVU9HYkFZVWpFdVpWWWVSYkxmRHpmUEdKT0V1R2JUQ0JBcXhDVkJuTThxcGRRaGxRUDVFMVZIV0Z6ZGxocVZNZldaN1ZEWXJ5SWZIcVJPT1FJSDRTNXNEdWR4QWNEQndwZkRCUDc0S1pseFRWMk5SaklFSXRGazZYRUY3MVRKYk45allMR3RlZXg0M0pSUlNZU0FYZ3AyU0hsS1BaWHVSeV9QSHduVHJiQmlkYUJuSk5TLV9tMnhhcmM3UjRSU3ROeXJpVXNoZElWejJsNDNOWXlsNncyaU4wRlMxLVdJYmxV?oc=5",
       "pubDate": "Thu, 02 Apr 2026 14:11:00 GMT",
       "description": "Lead state epidemiologist who helmed response to measles outbreak and COVID-19 pandemic retires South Carolina Public Radio",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles outbreak: What you need to know - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS2dvZHFlYXc2OG8tU1VOdXVqR1JPY0tjc0djUmN6RU5VeHdtc3oxdVd3WUxNUUhYV01fYlNQRjVwZUdHUGVvckhpb3AtR2tWVjVDRXhPTUQ5SnhVOXZBVlUzdFdTUGY4UHJlU0VCS0RFQzJ2Y0hNbU9WckdlSEhpUkVnRE1XeTg2VFNydGxsOHFJTU1tQWJZWQ?oc=5",
-      "pubDate": "Thu, 02 Apr 2026 14:09:07 GMT",
-      "description": "Measles outbreak: What you need to know The Daily Star",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -399,10 +426,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Bangladesh missed its last measles vaccine drive. Now dozens of children are dying - independent.co.uk",
+      "title": "Bangladesh missed its last measles vaccine drive. Now dozens of children are dying - The Independent",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcllIajBXSFQxQ2pfdGJfVk5ESm56cS0ycHdjWHktRDRHMnBHMEZydjAyekwwZHFJOC03TlBxRHROUXhXMWJZaThJNmVnRlNBaXJJWlNRZFRobjVEZUh2NGFuNjVPd3BMNTBHcVFwZ292ZzRpSXV0R2FpbTB2VThhMDA4RjByZ2xtaUdldFFXRlFTVC1ObWFQdUNB?oc=5",
       "pubDate": "Thu, 02 Apr 2026 12:01:00 GMT",
-      "description": "Bangladesh missed its last measles vaccine drive. Now dozens of children are dying independent.co.uk",
+      "description": "Bangladesh missed its last measles vaccine drive. Now dozens of children are dying The Independent",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -489,10 +516,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Two new measles cases confirmed in King County, WA - FOX 13 Seattle",
+      "title": "Two new measles cases confirmed in King County, WA - fox13seattle.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QRklpOHk4UmROZzR4X2V1U0FNZ29CWkNEN2t1bDdnT1VTU2Z6LWp3TC1KVEN1bTBsaXFkLTljWGZzLVpGa3FCUlhmSndReXlOazFqeURQNUpBVGxfS2ZUV2oyQVlrVFdscEZTdEw0Yzl2WFk0VGR3dEpYQl_SAYIBQVVfeXFMT1o4WXJnNlFyZmFFRlN0MVFfejdfb3A1UDZyYnMtLXNHeTZBN29jTk1NVEZwNThHclJWZVphQnVrWjZlUnBrSlRXMGlNLXRxbGJtQWVVVVQxXzR6TTI4RTlkdEhSTVlsTmtSUlkxWEt2MnpJcTdNT0xGa2djZVROaC05Zw?oc=5",
       "pubDate": "Thu, 02 Apr 2026 00:04:55 GMT",
-      "description": "Two new measles cases confirmed in King County, WA FOX 13 Seattle",
+      "description": "Two new measles cases confirmed in King County, WA fox13seattle.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -534,19 +561,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Utah measles outbreak brings its biggest surge yet - axios.com",
+      "title": "Utah measles outbreak brings its biggest surge yet - Axios",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNek1yaktBX1hWdjh1ejZ6MElES0tFd19wTHB4LXI5UEU1eVp6N3oyMmZWdVQwTXAzekp0YW5yYTBsN2Zab0Q1c2lVOTRVWDdVckVvVGFWdFNOSTJaMzhJcVFlaGw0Y3VLU1dLT29xVTBaUGpRSFlZWmVWajJ2VHNYY2QwM2w2WFpub2I4ekZjVEZzUzRKdDJMeQ?oc=5",
       "pubDate": "Wed, 01 Apr 2026 20:42:54 GMT",
-      "description": "Utah measles outbreak brings its biggest surge yet axios.com",
+      "description": "Utah measles outbreak brings its biggest surge yet Axios",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "End in sight for South Carolina’s measles outbreak; Chicago on alert after potential airport exposure - cidrap.umn.edu",
+      "title": "End in sight for South Carolina’s measles outbreak; Chicago on alert after potential airport exposure - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTk13RjJ6WjdsSHhoMUotazZiZlNDcTd5VUx6eHA5VGNUQ3I0WXRDU24wOENZb0Nxbzk0ZWx5YTcwcXRRM2pKSngxckRqNW9WWHNuWEYyQXlrOFBYU1VwZmF3eThkVGx2RGtSZjRGZXhpRUt3bjc2R0w2MVNPRTVDRzU2TWh1LWlTd1BmYnF2OVV5bGktOHdZQjdfNjUwYzB2WkhfX1o5MzJMODd1MGQxbnpTN2Z5b1hLS3VoZXZ0alIxNk0?oc=5",
       "pubDate": "Wed, 01 Apr 2026 19:52:10 GMT",
-      "description": "End in sight for South Carolina’s measles outbreak; Chicago on alert after potential airport exposure cidrap.umn.edu",
+      "description": "End in sight for South Carolina’s measles outbreak; Chicago on alert after potential airport exposure CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -565,15 +592,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzczZ2ZqZS14WF9FVldiMlJqbTd3NEI1OW9VWGhVTFl0MHY4MFl1bDNuSjFzY2dIN3lLcVJRRDljU3dXc2Y5RGgtUHhvVUk3QUtuOXdPeXNhaFpzQmJVU255QmFvUFd0MFFVdDlrTlVQejdQaWh1c2QxS09OaGk5ODh1TGpELV8zUkZ3MnJlRW13V0k5Mm9OMWJtMTBoNGNUN2ptWGhIMkczdDlQd1ljSkRmSnVfbDBmWlg3SHl3eDc?oc=5",
       "pubDate": "Wed, 01 Apr 2026 19:06:12 GMT",
       "description": "Ransom County reports first measles case of 2026, increasing North Dakota total to 27 North Dakota Monitor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles case confirmed in Ransom County - KFYR-TV",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EdHBWTkFpeWg0ZlRhUDRjV3hWYmQwc0ktMFg3a08yMXRvQW5xUTlNeWJrdjczM0hqVWV5em45ZDRDcG5UeE1yLU1Hb2c5c09mQkdlMzAwcW1hYW1QaHdVQTNlWTdtMHp3Q0xBXzJxZDd1N0RSV2hPLW0tVdIBjwFBVV95cUxPc2VSdjgwSU9mOHdsT0l4NHIyS0pEYVljdkZwTnYxQ1c1c281SV9NOEJjRGttNndrbXR0dEFKTVJxWHBNTXNyQU5qeHRXR0JLZVh1eVVldDBkU1dTNUVvV25jNWIwZlNFMDdhWDRhdEl2cHV1aUhYUXF2LXVteS1nODBSb3ozTEFwN3VKZXcwUQ?oc=5",
-      "pubDate": "Wed, 01 Apr 2026 18:10:00 GMT",
-      "description": "Measles case confirmed in Ransom County KFYR-TV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -660,10 +678,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Possible measles exposure at Chicago O’Hare airport and Niles stores, health officials warn - wgntv.com",
+      "title": "Possible measles exposure at Chicago O’Hare airport and Niles stores, health officials warn - WGN-TV",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZWM1Z2kzdXpUbV80QUNxcnhKQ2UwZjR2WWpCMjQ3RUd4LW53QXdvbXBiZmxPSlk0NGw0TUVZVkRxMWRGR2pTNFJDVDh1TUt2Ny01ZFl5THBILTZQU1p2QU0zZGhLbEFYU19pMWs0WnZYamZXTjZtSmdPMGpSZ3paUERnQ04wbHU0LTJCd19wSnZQX3ZHQWJYTURJSndnYXUyMGhaby1GTmFlaUNxVVdWWFNfSy0zaTRBQVZnU2tLVG5fd2RqbFHSAcsBQVVfeXFMTmxVY2JfU3ZVX1pDUXhoeDFzSUw2Wk4tX0llbWQ3TUxWbzhlUy12aWpqYzBlUWtpZ2w5TlNQNnEzckZXT2dQcllCWm5CcHJuTEl2eDk1WWQ4NW9VaWFSTlRYYTdKSF93RloydmlubDBkNlJCaUhJYTdrTTFEb09WQzI1bXFCODlraXlIWW96VXhTVmN0Q1FlRUFFaDBKNmtsQzA4b1Z6cmFjRjJ0NFd3M3FaVXJVWTRrZDk0UnZ1R3lxRjFvOGkzQnJYek0?oc=5",
       "pubDate": "Tue, 31 Mar 2026 22:09:31 GMT",
-      "description": "Possible measles exposure at Chicago O’Hare airport and Niles stores, health officials warn wgntv.com",
+      "description": "Possible measles exposure at Chicago O’Hare airport and Niles stores, health officials warn WGN-TV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -687,10 +705,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Possible Measles Exposure Reported At O’Hare Airport - Block Club Chicago",
+      "title": "Possible Measles Exposure Reported At O’Hare Airport - blockclubchicago.org",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFdsc3N0ZlNkalRHMFhtbXUxLXdlbG13TTRuVzJGVUVKaVVoMXJPaDBaTjlnZGJUcEVBUmZSSFhzUEo4OWNTeHZTOUduMHkyVG1HQW11azZGZFNJYm4walNjZ1RrSmJNT0FiUzl5R0k1dHVKV2w3bmNQZlF4X2J0NFAxdHQxeEw2UDhzVU1hc3dpRmdyWEg0?oc=5",
       "pubDate": "Tue, 31 Mar 2026 21:41:15 GMT",
-      "description": "Possible Measles Exposure Reported At O’Hare Airport Block Club Chicago",
+      "description": "Possible Measles Exposure Reported At O’Hare Airport blockclubchicago.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
