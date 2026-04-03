@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-03T10:25:05.709Z",
-  "itemCount": 84,
+  "updatedAt": "2026-04-03T11:24:26.226Z",
+  "itemCount": 86,
   "items": [
     {
-      "title": "Measles Outbreak Drives Push for Vaccination in London - European Medical Journal",
+      "title": "Measles Outbreak Drives Push for Vaccination in London - EMJ",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEZEZTZqUlFVZlp6Z3FFa3d2QUY2SVZlM0RHUTRXY1JqQWpkS09HNFByczZlMnY1MmdoMzh3UGtwMTVuWDZoRUNxNXFlTUVtTWtEYUowQnY2Z1hUN0FaclVVY2FKeVUtcWRnSHJ5aDhGUTlOTUlWbEEwYkp5em1LNXlqR0VZZEpUcWRZMlBRbVk2bGtTLUlqU1RHQlFVeDd5YXZSdW1xZ2pfZkc5M2ZWbFItU0VZMzFZeGcwbQ?oc=5",
       "pubDate": "Fri, 03 Apr 2026 10:03:21 GMT",
-      "description": "Measles Outbreak Drives Push for Vaccination in London European Medical Journal",
+      "description": "Measles Outbreak Drives Push for Vaccination in London EMJ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -66,10 +66,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "OHA warns of measles exposure risk at multiple locations in Portland metro - KGW",
+      "title": "OHA warns of measles exposure risk at multiple locations in Portland metro - kgw.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWWdkaUJoaDY1Y1F1ckFqUmZxSmxuR2R1YVM2TUZMUXVBMHkwMHRma3hCdVFaMldySHpUSlFQckFRbEV4YlRuc2c1S0QwQy1tdkE3WmcxZ2pPNnFQaFZLeG94QS10VzRkOFFNR0cwT0N2dDZXU2ZWekkyTk1BNENfYThncnlhREF5NnQ5VlNlMUNBSzNFMDh1dlNobHFycHN3VzJzR3RRQWhNbFRfMks5X1J6bnZObGRER0VZOFFxS3BJUGltT3ZrNUFRcHB1QQ?oc=5",
       "pubDate": "Fri, 03 Apr 2026 06:23:00 GMT",
-      "description": "OHA warns of measles exposure risk at multiple locations in Portland metro KGW",
+      "description": "OHA warns of measles exposure risk at multiple locations in Portland metro kgw.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -138,10 +138,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases slow down in Florida, but numbers remain historically high - WUSF",
+      "title": "Measles confirmed at Safeway in Portland, health officials say - KMTR",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWEt6ck5JMXE5eHlER2QyZUx5b3ZtaG1wcXdFSWE1aUJpZzcwYXNGTlM0ZjlUX0dPdkMtUVNFbHFUc2VOZXNjQk5xeFA2OHJtdXc1NDVxekhPNjF1ajZGX1VSRk1ZR1Rrd0E0TW43bDJYek96dUtPSGt2akRYRjh5VGZPUDB5eUlZc19fbkhPM1Zjd09ENjg3QnB1OHdzUXRYUTZzZ0NsVlN2d3I4MFk4?oc=5",
+      "pubDate": "Fri, 03 Apr 2026 01:01:32 GMT",
+      "description": "Measles confirmed at Safeway in Portland, health officials say KMTR",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases slow down in Florida, but numbers remain historically high - wusf.org",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU3hCZUVveG9nMU1VcjE5RWQ0Nzc1WGdUdE1aRmZWMHVrdHNDNExVTUhXZnM3Q1UwZS1JRHROcTgxVHNoT3NOTzROSVdmVnpQeW9iMFhMak9jR0JOX3ExbHFTbGJYVUVvVlEtWGQ2SUxpWjBqVHZnTzRZQnlzNnlpOUw4eUcwejh3VkRZUlpFVVVpZG9RSlRIUkNtQjRlb3REdmViLVpveEZHUmVlM3RPemdPQXNZRGxGbmhldEMyN2U?oc=5",
       "pubDate": "Fri, 03 Apr 2026 00:56:00 GMT",
-      "description": "Measles cases slow down in Florida, but numbers remain historically high WUSF",
+      "description": "Measles cases slow down in Florida, but numbers remain historically high wusf.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -156,10 +165,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Michigan urges early measles vaccines after eighth case confirmed - mlive.com",
+      "title": "Michigan urges early measles vaccines after eighth case confirmed - MLive.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeWxzX1g5cWJyLUhtWU1rbFFMOTNYM2pseUhCX2ZtS3lMeVhkd3VqcjktWjBQNHJVOUNyX2tQd0UxMlFHZ0tnczF3U25fdURzeG5aczBCaDg3dllhUFNWMEFMd0RKdnNZNUYzcnJaYXRqYWlaVFdwMjRMbTFQOFlXd2g1akFScUdjOWF1eGRteUYtU1hyWWQyUC1GWE9Ga0puNzVsZ2U0ZmkwbnluMVAzZ1V3ONIBxwFBVV95cUxQLU84aTZrYWZKT0lFRV8zV0c5MWRfdHJ5TDV3aDRyaDExU0xkeF9weUZPeUk3VXg3WDdxY2NDR21VbGNEajV0Nmd0VVFpM0MzdFhESGQ1RXRlMzRfZHItbTktTUIwVjlvWFVFcHc3aV9RRkhKR1VzTTFpajBLOEs0MnVsT29PaXo3NkVzeVdad3E1VTNvRUdtVXp1Rk51MzQ4cktRUWRROUt1SXYtT2NPX3N4TE1DRmNPenRvV215QzVNdEhSY2tV?oc=5",
       "pubDate": "Fri, 03 Apr 2026 00:20:00 GMT",
-      "description": "Michigan urges early measles vaccines after eighth case confirmed mlive.com",
+      "description": "Michigan urges early measles vaccines after eighth case confirmed MLive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -228,10 +237,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases slow down in Florida, but numbers remain historically high - cfpublic.org",
+      "title": "Measles cases slow down in Florida, but numbers remain historically high - Central Florida Public Media",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbjhVOTQ3VUtBVFg4R1R2M2NLZWliRWUyYjk2dm5xcndYR1QzbEVuTGF4ek03MUdrYWNxcXJ3ZUprdlFtazhBbG9FbWphalBJZVhZOGprcTRyZEJSelFqS25uLVU4WWhKM1QzUWt2M29mc2U0LWhDTW0zSmpnRDZHX09nSE9LaVlRbjVoajlPZkFubXplUTBsZDJZVmpIX25EUkthM1h3cXpYc2g0aWdRb2dxZ0k?oc=5",
       "pubDate": "Thu, 02 Apr 2026 22:13:00 GMT",
-      "description": "Measles cases slow down in Florida, but numbers remain historically high cfpublic.org",
+      "description": "Measles cases slow down in Florida, but numbers remain historically high Central Florida Public Media",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -300,10 +309,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Oregon Health Authority reveals further measles exposure locations at restaurants in Gresham and West Linn, Safeway in Portland - KGW",
+      "title": "Oregon Health Authority reveals further measles exposure locations at restaurants in Gresham and West Linn, Safeway in Portland - kgw.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcnNTOENJN3FMSkttWlZnSVMtTXdUbEVtWWdSN2xjaGVRVjc5Zmt5VGxHRmZhZlgtWlhRd2g1RWVOcUw4aWVwS2s3QlIwMnZ3ZThxb09LQ09NYllaUXlwUGpMR2xaR0psc3BVc19Sd1F0LVhfeEt0NWFXcmlMallrTm5YSFhTa1ZKa0M1V0dtY3dyRkoyb0tSSklhMDc5SFVvcjlybDR1dzJUOXZNdXBid0tQQWFITjRmSHUwcTJiN2hwUDQ3RWNFUlVmbkU4WU1IM0E?oc=5",
       "pubDate": "Thu, 02 Apr 2026 19:37:00 GMT",
-      "description": "Oregon Health Authority reveals further measles exposure locations at restaurants in Gresham and West Linn, Safeway in Portland KGW",
+      "description": "Oregon Health Authority reveals further measles exposure locations at restaurants in Gresham and West Linn, Safeway in Portland kgw.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -345,10 +354,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "No new measles cases in South Carolina for a week, but CDC outbreak models warn about underreporting - Northeast Mississippi Daily Journal",
+      "title": "No new measles cases in South Carolina for a week, but CDC outbreak models warn about underreporting - djournal.com",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOOERvRE1vMGNVTVQyQ0Y2Z3BqN1Y4LVVhSDJTWFZ1Z1pVWU04THBoYmxYWkRaNGFtMk54aF8zb2ZQRXdIT2FpSjJLS0JwTVdHVG4yRnNvWkV6aFNRNEp1NmV3OEpSSVdTTzRMMWFSbm1yWDNvSkFtRHVNM00tS1gtT05YU2lSVTYxWkY3Z191RFRpUnVJQzhGTF9scXhobjlQZU5vc2lfQ054TVI2N1QwdUZTNlhwa01IQ0NrbUpZa3B2bGxuZGdaTmlKTjJzOEVlcUlRR0xtQ3BYWFpvekUzak9SOWZpRTJsUS05UjgyeVhETWxGVl9TWm1VZw?oc=5",
       "pubDate": "Thu, 02 Apr 2026 18:35:17 GMT",
-      "description": "No new measles cases in South Carolina for a week, but CDC outbreak models warn about underreporting Northeast Mississippi Daily Journal",
+      "description": "No new measles cases in South Carolina for a week, but CDC outbreak models warn about underreporting djournal.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -498,15 +507,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "'Bob's Burgers' Actor Hospitalized; COVID Vax Trial Halted; Utah Measles Cases Rise - medpagetoday.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MM295aW5tbnUwaTFxV2dwdkIxTmFWdEFGeTNWeGh3dVRDcWpMRjhpQWxvMklkdkRkVko4aklFSTh0dlJJTXFNa2RqdWtvY1BQVnZmbm04QmNsOVM2MFlhOFRMT0JUZmVmSkIxZ1IwYjM2M0k4aVpLbTlscw?oc=5",
-      "pubDate": "Thu, 02 Apr 2026 13:24:33 GMT",
-      "description": "'Bob's Burgers' Actor Hospitalized; COVID Vax Trial Halted; Utah Measles Cases Rise medpagetoday.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Florida measles cases jump to 144. What do measles symptoms look like? - Naples Daily News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY1VaR2dLT1R3YURzbjRLNTA5ekVIRUdHZlFUVjY1RTdMVXdXemoybF9KbS1hUmt4d3BTSG5USk0wNmhMM2FLQmI2RXNfRDlTWncxcHctSHNhTUhnd2Nlc1RPLXVlaElsVE9SZWtOMFZxNDBwUDUyVGpNU1E1SVZVeS1Ia2JUbDhYVnZqRDFZeDUxZWs0dUd4UTM5QWNvTHM?oc=5",
       "pubDate": "Thu, 02 Apr 2026 13:07:00 GMT",
@@ -534,10 +534,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials flag several University of Utah areas for possible measles exposure - KUTV",
+      "title": "Health officials flag several University of Utah areas for possible measles exposure - kutv.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYlFjTTZyLU5KRDVqOVdiMjhfRHBoWFkxVzQ5MDhGVHFQUXQ4RXRHRjdGWWR4SlpjbzZQczdoaTBsUkxRbkpHVWJpbHNmb1VIdDhiRFRZdWhoOEFzcGd3X1pxQ2J6eHFfSkxaSThnNDdJN0h6U2xZU1NnNzN1cjBFMXpELVdTUmFtYm94OXdqb0U4dTNwNjdrTXM4RXRFaFp0cTNndXpSaXJDd193aGpRN0xR?oc=5",
       "pubDate": "Thu, 02 Apr 2026 12:03:07 GMT",
-      "description": "Health officials flag several University of Utah areas for possible measles exposure KUTV",
+      "description": "Health officials flag several University of Utah areas for possible measles exposure kutv.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "US Scientists Sequence 1,000 Genomes From Measles, a Disease Long Eliminated With Vaccines - KFF Health News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM0lSc1JhRFN5ZlFGcDhOWUE4czdrMzNQY09kOGtwTUtoaUJoUHlhUV9PenRWeVJPdXhaOFVkY05SMTdQc0RNVXdlT3lvc2N5aEE3d0FrYUJBWHA1d2ZNNVVIcExOLWM3Q21PQXdnbkJOQ0JESzZFOWRrT2kzYmYyRnBXTFZRUXRHNk52MnI5WEhfVFd3WkVQM3lRZV8?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 09:00:00 GMT",
+      "description": "US Scientists Sequence 1,000 Genomes From Measles, a Disease Long Eliminated With Vaccines KFF Health News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -561,10 +570,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Public Health warns of measles exposure in Seattle, Bellevue and Kirkland - KOMO",
+      "title": "Public Health warns of measles exposure in Seattle, Bellevue and Kirkland - komonews.com",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZjNYaEVCZVI5YjNYVW9ZTVAtRzJSWkhCd3EwNHJheVNMVWdEVmsyVkRiM05iRGlLZzJTdnFsNThfX0xXVWhFTU9OYm1ZMV9vRFdrZmpGak5qTG11OXFqM2lsTUF0a2ZDTDNhcXNNbkN5TmstbFFjNktORnlmWm84cGhxOFFlSm1pUDJjRWJPWTFub1ZFMEx5UUtVLVZXNlhxZk1pdnBuZTlNRkhTSkZEU3dQNWNvTmhvVWNVSWlEQzVVUlNpa3hvR25Pb3NxcUg2dDM2dzRLcjhHMGJoejJWVnp0Z1d3ZUhHUDd6ODZObEVacERfZkRCcGF0c0lHTkkwOGc?oc=5",
       "pubDate": "Thu, 02 Apr 2026 00:33:24 GMT",
-      "description": "Public Health warns of measles exposure in Seattle, Bellevue and Kirkland KOMO",
+      "description": "Public Health warns of measles exposure in Seattle, Bellevue and Kirkland komonews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -606,10 +615,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials confirm another measles exposure site at Multnomah County ER waiting room - KGW",
+      "title": "Health officials confirm another measles exposure site at Multnomah County ER waiting room - kgw.com",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZFMxZG9qOEZ3VkJLdXhtMHVGRE1ldm4tVlBuWS1aNHBMUjkyenpFb2U2TDB2aEpQeDBkUDZ3UzRjSXo5cnp4TXdQemVWY0FpQlltZkpGQTFJTXR4WU9OZTZzN2tncGN6cFhVZlpzZXlmZk1FU2NqdXUxb0NDTnVzN3NsVm5lWVZwTVo4cTRlUFg5R3pteUdFNW9keEpIaERSeEFSaU8tbFNfc1dLdFZlM3F6V1FyYzBlWUpBWHFqYTh5aGtZXzFGNDVab2NKaUcwTHRTWWl4WG5LcDgyMDRxczdwSGtPUmwxYUE?oc=5",
       "pubDate": "Wed, 01 Apr 2026 21:18:00 GMT",
-      "description": "Health officials confirm another measles exposure site at Multnomah County ER waiting room KGW",
+      "description": "Health officials confirm another measles exposure site at Multnomah County ER waiting room kgw.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -624,10 +633,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "End in sight for South Carolina’s measles outbreak; Chicago on alert after potential airport exposure - cidrap.umn.edu",
+      "title": "End in sight for South Carolina’s measles outbreak; Chicago on alert after potential airport exposure - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTk13RjJ6WjdsSHhoMUotazZiZlNDcTd5VUx6eHA5VGNUQ3I0WXRDU24wOENZb0Nxbzk0ZWx5YTcwcXRRM2pKSngxckRqNW9WWHNuWEYyQXlrOFBYU1VwZmF3eThkVGx2RGtSZjRGZXhpRUt3bjc2R0w2MVNPRTVDRzU2TWh1LWlTd1BmYnF2OVV5bGktOHdZQjdfNjUwYzB2WkhfX1o5MzJMODd1MGQxbnpTN2Z5b1hLS3VoZXZ0alIxNk0?oc=5",
       "pubDate": "Wed, 01 Apr 2026 19:52:10 GMT",
-      "description": "End in sight for South Carolina’s measles outbreak; Chicago on alert after potential airport exposure cidrap.umn.edu",
+      "description": "End in sight for South Carolina’s measles outbreak; Chicago on alert after potential airport exposure CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "SC health official who led public response to COVID, measles retires - Greenville Online",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTUtibUhydXAzTXJqb0xRbVYzZUVjenZGeXdMVlh0ajI3c3FGVUMxa2ZnempweDF1bFNUdEdLbFUzbzJhaDdDVllRRGszVWFKRGJUeHhmbDNrZkVFU1Nra1FsLTIwaG96dU9tcU0zOEdfMWR6ampfRlFNNEZjOEZmSE5OODFfTERKUFJKcWFGM3p6ZFRYai1qanlMLTBFZHN6QlJrMUxLcFFMblY5QmVTZ0ZZYU5oV2pkNE1qbDFnRHBqNVk2VkJvcENfbzdadnp1Q3liRXJPNHFBeGM?oc=5",
+      "pubDate": "Wed, 01 Apr 2026 19:19:00 GMT",
+      "description": "SC health official who led public response to COVID, measles retires Greenville Online",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -651,10 +669,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "One case of measles reported in Ransom County - hhs.nd.gov",
+      "title": "One case of measles reported in Ransom County - Health and Human Services North Dakota (.gov)",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VVHQwSllZNDB1bzBUUkJ3bnk2dHRpWDZwQ1RQa24xLWxpeEJUU29VRkZsamt4ZVJ0QkFmRlkwbUcyUzJaa0kzOVNHZklWcXJjZy1IX2FrS294MlRQZXA1R3d3TXhralVOWU5xeTlGeDNXQWZtSXc?oc=5",
       "pubDate": "Wed, 01 Apr 2026 11:00:00 GMT",
-      "description": "One case of measles reported in Ransom County hhs.nd.gov",
+      "description": "One case of measles reported in Ransom County Health and Human Services North Dakota (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -696,10 +714,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Possible Measles Exposure Reported At O’Hare Airport - blockclubchicago.org",
+      "title": "Possible Measles Exposure Reported At O’Hare Airport - Block Club Chicago",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFdsc3N0ZlNkalRHMFhtbXUxLXdlbG13TTRuVzJGVUVKaVVoMXJPaDBaTjlnZGJUcEVBUmZSSFhzUEo4OWNTeHZTOUduMHkyVG1HQW11azZGZFNJYm4walNjZ1RrSmJNT0FiUzl5R0k1dHVKV2w3bmNQZlF4X2J0NFAxdHQxeEw2UDhzVU1hc3dpRmdyWEg0?oc=5",
       "pubDate": "Tue, 31 Mar 2026 21:41:15 GMT",
-      "description": "Possible Measles Exposure Reported At O’Hare Airport blockclubchicago.org",
+      "description": "Possible Measles Exposure Reported At O’Hare Airport Block Club Chicago",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -741,10 +759,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "US measles cases top 1,500 as Texas outbreak grows - cidrap.umn.edu",
+      "title": "US measles cases top 1,500 as Texas outbreak grows - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGdiMVZYeFFRd05FMzVSRG9qRHNsNDlkdkF6Z0VWYURYWnBmUllnYUdKVWJ1Xy1PS3UyMmYxTGVNZFNyRG90UnFkSVZaaXZsMjlzald5S3FZUVJ2YXZCWFIxV3ZmVkxhS3BxUjhvRlVrcVdlT0d3T3BfUE9yX3RnUjlsbktOc1hp?oc=5",
       "pubDate": "Fri, 27 Mar 2026 20:31:04 GMT",
-      "description": "US measles cases top 1,500 as Texas outbreak grows cidrap.umn.edu",
+      "description": "US measles cases top 1,500 as Texas outbreak grows CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
