@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T05:06:51.242Z",
+  "updatedAt": "2026-04-06T05:52:42.973Z",
   "itemCount": 75,
   "items": [
     {
@@ -57,15 +57,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Bangladesh measles outbreak kills over 110 children, emergency vaccination launched - Yeni Safak English",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV3pEMFMtbHlIUUNHdTFqOUdzOWF4WkNCZmU5aUJoRTRXMlRFRndQNnNlQ2NTZW52aG1KUmtRS3JBcllVRTlJZi15ejRuR2l6bGpoQWd5dWhOdEU0akRfeGQzaUwyTlJFSUF5THVnQ0w4YzdvMzdvdjJfeXZkMGFPNGRmM1d0XzNtbDh3M3pORVg5b1hoT1pzSks5TUpnUGYxVzZEZmdJcnNKQ18wNjhra0UtVmk4aVNMRGJSeVZR?oc=5",
-      "pubDate": "Sun, 05 Apr 2026 22:33:46 GMT",
-      "description": "Bangladesh measles outbreak kills over 110 children, emergency vaccination launched Yeni Safak English",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Bangladesh launches emergency vaccination campaign as measles outbreak spreads - The Hindu",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUDVnWHNZbUh2Vmc0VHUxbUs1WkxxLThDbGlDS091NXFfMHNqZXQtREpRT1dIc0Roem5nWXhqbFJoN09uTFF5Qms3bXZPd1VhejZuN3E1dm9fOUtLcWxqNVpIVTZlcXR5aVBBSjNjQlNaZlJBQnN3eVlSMDBSOGdjUjI5cWJIbDR6eEtSd2dPbUV3dXdLQTFjTG9IQU40T29PQ3VvVkxyTGlONTBjTzlvTHFOZ2RCb0llOGdn0gHCAUFVX3lxTE9ELXJmNUdPSGVVRTRyd1RORkN4RTJNdXZZYkJaWHZhejVYT0J6MllJRWcxcDBYQ1cxck1xWnBXMFZ3ekxiZXYxcnY2aDBoMS1OdTFfQmhTN2NLajJrWmhYdmdiMHp6M25RZTVpWWswNTM3cWgtTkwwa2FjNXlOVzBiSlE3RGhsR1phc1N2Vl9ibmRnNE1lemdvWlhRQWlHSkVZR0tVM2tPdVpveGdFTHdhOThsWlBvVm5Ya0xXZXRsRjdB?oc=5",
       "pubDate": "Sun, 05 Apr 2026 17:35:57 GMT",
@@ -75,10 +66,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "U.S. scientists sequence 1,000 genomes from measles, a disease vaccines had long eliminated - missoulian.com",
+      "title": "Bangladesh confirms 94 children died in 19 days due to measles - Deccan Herald",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTI2WFltNFBHOEtvM1p0SkltVkljcGxFUnFZVlA4NFVmdVhLd0NjTFpEeWYtTm9vYkN5LWUzYTVUcC1GM2FpVUR5MG9mN1pEWlJfNkp5VjBhRFBXUUlIVXA1dlZzWjg0YmZNQ2g4ODE3VVNmMVJ3ZWNWNXo1alA1aW5RS0xMOGdUc3g0VUJGWXFvaHhQQjR5SmxOTG90YXlxRzVTWTJTdDZpNVJqSlMwUGRzSFlXWllscDN3?oc=5",
+      "pubDate": "Sun, 05 Apr 2026 17:01:53 GMT",
+      "description": "Bangladesh confirms 94 children died in 19 days due to measles Deccan Herald",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "U.S. scientists sequence 1,000 genomes from measles, a disease vaccines had long eliminated - The Missoulian",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLVc0eTlIU0xwdG5pY3JqMmhCOVZLU1R6SDdmLU9hd3RBY2xjQjZFLXR0SEY2dTNidFVBVkJ4azQ1WnRvQ2lXVnFGOGFROUdzTTVncjdFUjd3STM5eHJ3THhlUnNIZFNzaE4yenhhaEdhV0ZCLW9QSlRmZHFYbHF1MDZwNTRtZ2VCanR4YWdXN3RRMFMyVEI4SUkzLWZIbVNyRTlvXzIyZHRRdw?oc=5",
       "pubDate": "Sun, 05 Apr 2026 17:00:00 GMT",
-      "description": "U.S. scientists sequence 1,000 genomes from measles, a disease vaccines had long eliminated missoulian.com",
+      "description": "U.S. scientists sequence 1,000 genomes from measles, a disease vaccines had long eliminated The Missoulian",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -147,6 +147,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles case identified in Walla Walla County - Union-Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYVpyWVBQalpkeVhicTJkSmFjZmttd3BueHRNWW5mX2Z3eW5IWFVESjNGTzFDcFFmRDcxV0pxWGp6YlV4czA1bl9WUERqLW1ZcTQ0TGtBVHNPUDk2VmFpVXp1alVmTnhHY3JkQ2J2MGYyNk5jckEyLVZkNEJYTURtTG1EcjBha0wzTlc4QzB4dzQ3emxuX3lXNk5aQTF5ejRHRTZObWFKWDdyaDY1a2RhTlc2enJvdF9tU01SYUV5V01zcW55aXFvelMzSkFhQUkzbnpNMFRXcE9jS2lB?oc=5",
+      "pubDate": "Sat, 04 Apr 2026 01:00:00 GMT",
+      "description": "Measles case identified in Walla Walla County Union-Bulletin",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles could explode in Oregon in under-vaccinated areas, health officials warn - OregonLive.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeTktNXdVa2RKZWUtbUxjMlNaX0FiQkRlQzlUSW5ILU5VekdQMlduWUdMRy1ZalJnS2Z5X081b1ZpMzQtY3lfRzRpNjJvcldqdmtzem0tUDBEdG9nOFlfVWJCTUNjTWpBTjdRZ3ZFNlgtSmFzNC1UTEJZMlhCamk0c0FDLWFjeTdrNURzdlVOQ0x2NlhpX05kQmdFMWpEN09iTTMyQm9ZNVlyT2VVOVpxbFlnV0diN1JBbGhuaUZsUVpTMVRs0gHYAUFVX3lxTE1HYlNkS0E0SEtGV1ljRW5ZeWR4dFVMU1UwUGxBMDRGamFWdmxxWDM1enBhSS1FR2lWeU5DbmUzZ0xsY3E1ZnZBLVhrdVAyMDBJNklJS3JnOVNNdGhNNDJBOVBiX29xRGRscXhibEJvZ1FBNUJEUE93eV95RV84dmxnb29CajZGWHF1aThmQmgwSk5TZzh0Q1Q0ZXhOa0pWQzFCUXJpejgwZXkxWXVYSlJwc25jbEF4VFZBTFh2Ym5QR3RsTWdjbndGWUlqcm45bmN1QzlvMzdDUw?oc=5",
       "pubDate": "Sat, 04 Apr 2026 00:54:00 GMT",
@@ -192,10 +201,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases are increasing in Oregon. Here’s what to know - Oregon Capital Chronicle",
+      "title": "Measles cases are increasing in Oregon. Here’s what to know - oregoncapitalchronicle.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeU9lMnE1Q0daMmJqdmxYRWpiamlaTDhpREliaFhJQ0ZveE9wMm9wMVFqX1A4bHhRZ2tYeHJuWjJ6ckdOV1FhZ0c1ckU2aUgzYldhR0ZXUUN1ekNLVFhGUUdxOHZCVVJrSzJpT05DcU1SWUh6YWhNeXdkTXJNWkpRMjhIajljR256TDZ1bEtTOFdQalVQZjlzV2hsT2E0M0F6TW54ZnBaNA?oc=5",
       "pubDate": "Fri, 03 Apr 2026 22:19:30 GMT",
-      "description": "Measles cases are increasing in Oregon. Here’s what to know Oregon Capital Chronicle",
+      "description": "Measles cases are increasing in Oregon. Here’s what to know oregoncapitalchronicle.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -345,19 +354,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Are measles fatal? Hundreds of measles cases reported to CDC so far - delawareonline.com",
+      "title": "Are measles fatal? Hundreds of measles cases reported to CDC so far - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0Q1eHpZNWxaYVQ0bG9UN0puTk9VX25yT1g2dkRCTlBSZDh2WVdJbjNMQkljZzFQZEtkNzNCeFRxaVIzbDVzODlPaV9XRmhhU0Uxb0R0OFJGMVdlTEZfUTI4SlFsbWcta1dZcFJwOU5sNkd5VW5VOFk5dnRtdi03UFFWTDl5LWpWX3lpN3hLSERpajItWlN3dVF2UXVBZ0c1RDFxcFJhRkJkY1dzU1JVQ0NFS3V3bFV6RjNOWVI1VHlKSExzVWRpbkhCT08?oc=5",
       "pubDate": "Fri, 03 Apr 2026 17:13:00 GMT",
-      "description": "Are measles fatal? Hundreds of measles cases reported to CDC so far delawareonline.com",
+      "description": "Are measles fatal? Hundreds of measles cases reported to CDC so far The News Journal",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Collier County shows more cases of measles - WGCU",
+      "title": "Collier County shows more cases of measles - wgcu.org",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGdQRVUwZnBwckVITmgwcDBTR3ZHNFUtTVF2LXEwdzBaTzMydHRHbk9sY21reVk4MDJLMUwwLTlvYW9NWDNwLXVjVmJQellTTVMzcFhiZlVsUjlZMTVzS2lkSUNqcVhTU2xLTF9meWZLWWg2Q1FVUHBxd3FmZndvdjUtOVBEbTRi?oc=5",
       "pubDate": "Fri, 03 Apr 2026 17:10:00 GMT",
-      "description": "Collier County shows more cases of measles WGCU",
+      "description": "Collier County shows more cases of measles wgcu.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -381,10 +390,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "State lowers vaccine age recommendation in SE Michigan amid measles outbreak - Bridge Michigan",
+      "title": "State lowers vaccine age recommendation in SE Michigan amid measles outbreak - bridgemi.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTWRSbVBqN2E5WngxM0pFeXl6dm5pYzBtRzdFVC1KeDNBLTc4OXNxMXNObWpuZVYxYXhVXzl6bTNFSlZfa3h6LXVWcVhUdGtTMVduQkVZbzM3WGVoRU9Wa3NLbDBkbEw4RlNFQUxOQzEzaVB1akdjY0xnRkdWRjZFZ01CZlA1bnhSaTBOT0dRWktINDdmeHJ1OUZ4UmY4TEVqWExDWU84eTFjdURJT1hWd2NHc0k2aHhYS1JsSQ?oc=5",
       "pubDate": "Fri, 03 Apr 2026 15:49:14 GMT",
-      "description": "State lowers vaccine age recommendation in SE Michigan amid measles outbreak Bridge Michigan",
+      "description": "State lowers vaccine age recommendation in SE Michigan amid measles outbreak bridgemi.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -448,15 +457,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYlhtakFkcmVDU01qUDYxNUxxN2ZoSHo1VExBV1dUMTJOSlZKSTVrS0ktRGFrZVpPdXRMVjJ2MUNWTnBfYlV6S0ZpRkoyTTJmRXR1YlJIZ2tUcWY0b1ZiRkM1c00zRy1NNV8taHhoemxOeHlvWGoxU2M1R011ZHF0QnJ4Si1XWlFSSFhpRVRuR0E1NERpV1AxdzM2MGQxc0tNT3c?oc=5",
       "pubDate": "Fri, 03 Apr 2026 10:00:00 GMT",
       "description": "Texas Biomed to test potential measles treatment amid outbreaks San Antonio Report",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "MDHHS Recommends Early Measles Vaccine In Areas Of Possible Community Transmission - WHMI",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNTh0REVDQ3pSVVBheWlkTWJwTE0wQTBGS196bGFIUWNScFdNc2MtbEl1U2FVTm5rZEh4UDM3X2NVVUJGMjBXUlJKMnZSQ1djaVRqT2g1N08xNmpqTWc3cUNLZy1vdi04WmJCMWJSRkdUTHlodXFnYXppLXhuRDcyZXN5bEY?oc=5",
-      "pubDate": "Fri, 03 Apr 2026 08:34:20 GMT",
-      "description": "MDHHS Recommends Early Measles Vaccine In Areas Of Possible Community Transmission WHMI",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -534,10 +534,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Michigan measles outbreak: State urges earlier vaccination for infants - The Detroit News",
+      "title": "Michigan measles outbreak: State urges earlier vaccination for infants - detroitnews.com",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSnZJRXA1R3E0MHdSSk8xekgyTlZBYjl1REFnVVNXNDZwLWt1N0tsRkVoNlNBelBpUy1vdG9IdkhQaERONlFrQ3FycWRZZ3RuMFBjSUVkT3RMT3U5QVFkY1FlaHg1SHV0aDFPVER5YjBneGhZVFJ3S0NTaUNhZUNEajN5RUFaS3I3Xzhlc2cwTVctLXI5UTM4TmhoOFdBci04em96U0VFLTVoN1VFNm1ucEN2NkJFY0txUHhUXzRVUmE0ZjVFdVpTejJ4M1dOY3BCSXBHbWsxTEJaMnZ2NXFTXw?oc=5",
       "pubDate": "Thu, 02 Apr 2026 23:06:29 GMT",
-      "description": "Michigan measles outbreak: State urges earlier vaccination for infants The Detroit News",
+      "description": "Michigan measles outbreak: State urges earlier vaccination for infants detroitnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -588,10 +588,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Eastern Utah measles infections double within a week, health officials say - KSL.com",
+      "title": "Measles: 38 children dead in Bangladesh outbreak - bmj.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuQTdBZGN3MXN2MVJZczdZWmpQX1poLUdndF8xbEQ1Sm1HdjNvZFJZQzEzM1ZpN3lfVUJ4WlFSNmlyTEwzNGQtdXRVZnlWWUhtZ3c?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 16:27:21 GMT",
+      "description": "Measles: 38 children dead in Bangladesh outbreak bmj.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Eastern Utah measles infections double within a week, health officials say - ksl.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQTVoYXpFZENyTDB0blFRNHJmZ2drM1FLRTNDS3daZlMtZUItdGRkblU0c1JRTmxsTWNwZDhGNUJpX20tcmZFSjJFLVd1cVBieGxISk1BNk1sNFU0Y1NqOW9Kak1HN1hTTlFibmFyS1ZTdHg0YnZvRHhKeWE3WDR5QTF3Ti1Pa181TTN0WGNHcFVlWDExTDNkMUNPODJOZXkzck1UTXVWN096ZDFRb1pF?oc=5",
       "pubDate": "Thu, 02 Apr 2026 16:01:50 GMT",
-      "description": "Eastern Utah measles infections double within a week, health officials say KSL.com",
+      "description": "Eastern Utah measles infections double within a week, health officials say ksl.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -615,10 +624,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Utah sees sharp rise in measles cases as outbreak includes a Trader Joe’s and LDS temple open house - sltrib.com",
+      "title": "Utah sees sharp rise in measles cases as outbreak includes a Trader Joe’s and LDS temple open house - The Salt Lake Tribune",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmdVI0SnJTNWU3dTJrSW5ab1hwNWExeEVYbi1OWUNfTWZVSWxpNjB2bDdJaHhzN2ZKbzhrbExMVTdSX0luMTQwU0pjbFdsWF84VlZIcGkxWC1ER3NPXzZZUHdpNUF5N2tZVzdGekFZYTlUelRLMWtjN1ZTY3ZIdw?oc=5",
       "pubDate": "Thu, 02 Apr 2026 12:05:18 GMT",
-      "description": "Utah sees sharp rise in measles cases as outbreak includes a Trader Joe’s and LDS temple open house sltrib.com",
+      "description": "Utah sees sharp rise in measles cases as outbreak includes a Trader Joe’s and LDS temple open house The Salt Lake Tribune",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -633,10 +642,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Possible measles exposures in Seattle area prompt alert - seattletimes.com",
+      "title": "Possible measles exposures in Seattle area prompt alert - The Seattle Times",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUU52ZFB0X0JiblpiNEIzdWlJWjU2bkROazctT05odlY5V24wXzhJTDB6eklxdXdEV2V0ZmwxSklkRUUwd1lOWHh3QnF2bGNGM2JPTzVGS3Q3Zkd4dmNqZVhlTk9NaW91ZkJIZ09qdW0xN3pSZ2JndWo0VXM4M2gxYUJBbGdQLTczMkt4Q1NNVmxmcVpmekoxay1qaUdIdEJ4Z3JURTlRVVpMRUxiOHA0MDV0aWlnc2dBenc?oc=5",
       "pubDate": "Thu, 02 Apr 2026 01:09:20 GMT",
-      "description": "Possible measles exposures in Seattle area prompt alert seattletimes.com",
+      "description": "Possible measles exposures in Seattle area prompt alert The Seattle Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -664,15 +673,6 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VVHQwSllZNDB1bzBUUkJ3bnk2dHRpWDZwQ1RQa24xLWxpeEJUU29VRkZsamt4ZVJ0QkFmRlkwbUcyUzJaa0kzOVNHZklWcXJjZy1IX2FrS294MlRQZXA1R3d3TXhralVOWU5xeTlGeDNXQWZtSXc?oc=5",
       "pubDate": "Wed, 01 Apr 2026 11:00:00 GMT",
       "description": "One case of measles reported in Ransom County Health and Human Services North Dakota (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Health officials stress safety measures after Helena measles exposure at local hospital - Montana Free Press",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QN3dSZHNhMzhvZHp4LVdqcTlTNE80TEx5b0hCSXpXeFlmQVBZaWcwenRYazdTY3cxVUppcGpqYnB5Zlg1WjR6ZUhQR2hGUXNPVlRZS2RBNWJVakxJaTczQS0yZkRYZzhOUFR5d0hFRjJ1UQ?oc=5",
-      "pubDate": "Tue, 31 Mar 2026 22:54:56 GMT",
-      "description": "Health officials stress safety measures after Helena measles exposure at local hospital Montana Free Press",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
