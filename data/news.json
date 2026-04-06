@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-06T06:52:44.541Z",
-  "itemCount": 73,
+  "updatedAt": "2026-04-06T07:45:14.547Z",
+  "itemCount": 72,
   "items": [
     {
       "title": "Oregon measles cases already surpass 2025 total, near outbreak levels - KEZI",
@@ -43,15 +43,6 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUEdHcC15RDd2amdyZ2lRc0J5aWVtTFotb2t1dkhSWmFlbUg0TTZpbE9CVmRhcVhFNVIzMEJRaGpSNllRb0ZpY2hTbG9ZSGkzc01Vckw1YVJjd1dwRUhOcEZMM0NlbjBBWHIyR0Rwc2JDV3JLU2JOUWtReXdrT1hoQ1hoaG5IRFNGZzdpUE9JSFZtNUZST0RiZHZOazBOaGRubjlRR2F3QW5nSEFhZ0pvdUcyd1owT2pYUXdxdDBDa0dreGlWei1WTE53?oc=5",
       "pubDate": "Mon, 06 Apr 2026 00:30:00 GMT",
       "description": "13 measles cases reported in Oregon since start of year KEZI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles Resurgence Prompts CDC to Sequence 1,000 Virus Genomes - National Today",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd0d6bUlQRWNaWS1DdFFyWWxhTEdEejlnamU5V2NDSUxYc04weTNVWVdRX2dJcF9aWWM4RDRqWE5ncG5QenVmODhGR1RxNi1tUzlEQVlaenV0SzVGa1EtNXFpaGpDejlaeXZqZkZ6UFQxTlNuOGVuS2d0SDMwckdCeTF3TXV0M1d3T3ZxU2V0dGFXS2dSOVBNMmZBamQteDMxNW5yemRKbXY2QWxKaGpxWlJabDRnd3NlMlE?oc=5",
-      "pubDate": "Sun, 05 Apr 2026 22:53:33 GMT",
-      "description": "Measles Resurgence Prompts CDC to Sequence 1,000 Virus Genomes National Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -120,10 +111,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Case of measles confirmed in Kittitas County - applevalleynewsnow.com",
+      "title": "Case of measles confirmed in Kittitas County - AppleValleyNewsNow.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVkIyYTVyUE5IV1JrblNtYTctRktidzJaNUZDMnBhbFg2LWhybTl6OEVDX0ljUjkxR0pHbTdnTGFTWHExNHlpdTBmZTJ6X0ZNcmh0VzFoOVB5eUstNVYyM0hIMmcyRGVnX0F2OW80Q3JkbFZfSFVYaUxDZUhvMGVyRmpyZ01wMXZWa1pnT3QxOEx4QjV1V2lwYVQ0MEMxTEEwcjl1WEZ5ZDd5Qm1sZUZwanE3LVMxT1kzWkNKbEpyQ0JoZmY4RFBpTDNnTTFoLTQ?oc=5",
       "pubDate": "Sat, 04 Apr 2026 12:02:00 GMT",
-      "description": "Case of measles confirmed in Kittitas County applevalleynewsnow.com",
+      "description": "Case of measles confirmed in Kittitas County AppleValleyNewsNow.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -133,6 +124,15 @@
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWUlCczhuSi02bVpYNkZUTnVsSUVOR0ltZ1JnRVJ5Um5DZVFlNTRrTHA4MUNuTWFTeXFjSUM4R21PWTdxZXNHU3VNWjFwNGgzZTNjYmdkX042NFl1VDZuclplZjJqVnlxNlR1TTVacnp1U0U2aTF3LUdIeEpXUTNCU1h2X2JtLWdqMmZGUFVUZ0xhb0VaQkFIN3RrY21aUjlwVFoyZ1FTV01RV0lQV0RMMlFQYWpucE40RXpUY2dVZ0J2OXpyYUhiZjhoMXZPWUJDUjVHM2RnNG5CSC1SLUdfcUEtZzZVUzAtNzFMXzhaRmNJY05mSUNmUmlLYW4?oc=5",
       "pubDate": "Sat, 04 Apr 2026 05:36:34 GMT",
       "description": "MDHHS recommends early measles vaccine doses in areas of the state with possible community transmission thealpenanews.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles case identified in Walla Walla County - Union-Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYVpyWVBQalpkeVhicTJkSmFjZmttd3BueHRNWW5mX2Z3eW5IWFVESjNGTzFDcFFmRDcxV0pxWGp6YlV4czA1bl9WUERqLW1ZcTQ0TGtBVHNPUDk2VmFpVXp1alVmTnhHY3JkQ2J2MGYyNk5jckEyLVZkNEJYTURtTG1EcjBha0wzTlc4QzB4dzQ3emxuX3lXNk5aQTF5ejRHRTZObWFKWDdyaDY1a2RhTlc2enJvdF9tU01SYUV5V01zcW55aXFvelMzSkFhQUkzbnpNMFRXcE9jS2lB?oc=5",
+      "pubDate": "Sat, 04 Apr 2026 01:00:00 GMT",
+      "description": "Measles case identified in Walla Walla County Union-Bulletin",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -174,10 +174,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles case reported in Kittitas County - Yakima Herald-Republic",
+      "title": "Measles case reported in Kittitas County - yakimaherald.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcWNDcU8zTjJjVFZqOGhVbE0wcmcyWmF2RTdvUThPOVRYZi12cDlwZnM5aEVXSmtlc2ZpQkR6dHp0dWdvOGdRbnRtMlRDc0Q0X3J2ck1hRmVTMmFOeFJFQUxod09TRnN1MFRjbW9uODV5QzNXeGFHZVZxYW9EQUJYV1FyN05TZGpPSEhqM01acUNUbXNoU1ZWZW5ZNW01OFBsWHJaeG0zcE14SW5JVWFDT05EY2ZBaElkNnN6R1VrNGhVVTlkT2Y0dy130gHPAUFVX3lxTE9HSkhDNW1JX1dQX295TjB3MFJ2aXlTWnhxaWhOUkFfRWhvMlR3N1NfMk9fQ0FlVjJhS2ZNcXFGNkxsVXhKckx2YzN5M0luT25Veldtc21URUVWTUFKTlpQTVdHaEY5VnQ1d291WHVwSkZtNEowRkV4SEx0US1nd0lHN2M5b2VHbTFnSjNnZ21YbVZhVkNoSWhXRDZjRFlzV0NFT2t4NUZSd1RLbDJlQVZScWVWb195RG5KdHRIVVB2djZOeVM0R3NxUUpqYWgxQQ?oc=5",
       "pubDate": "Fri, 03 Apr 2026 23:40:00 GMT",
-      "description": "Measles case reported in Kittitas County Yakima Herald-Republic",
+      "description": "Measles case reported in Kittitas County yakimaherald.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -192,10 +192,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases are increasing in Oregon. Here’s what to know - oregoncapitalchronicle.com",
+      "title": "Measles cases are increasing in Oregon. Here’s what to know - Oregon Capital Chronicle",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeU9lMnE1Q0daMmJqdmxYRWpiamlaTDhpREliaFhJQ0ZveE9wMm9wMVFqX1A4bHhRZ2tYeHJuWjJ6ckdOV1FhZ0c1ckU2aUgzYldhR0ZXUUN1ekNLVFhGUUdxOHZCVVJrSzJpT05DcU1SWUh6YWhNeXdkTXJNWkpRMjhIajljR256TDZ1bEtTOFdQalVQZjlzV2hsT2E0M0F6TW54ZnBaNA?oc=5",
       "pubDate": "Fri, 03 Apr 2026 22:19:30 GMT",
-      "description": "Measles cases are increasing in Oregon. Here’s what to know oregoncapitalchronicle.com",
+      "description": "Measles cases are increasing in Oregon. Here’s what to know Oregon Capital Chronicle",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -219,10 +219,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "OHA reports increased rate of measles in Oregon - KGW",
+      "title": "OHA reports increased rate of measles in Oregon - kgw.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2Z0RHdmT0NLc3lZaVYxODNYQy1vOENsWEYtaFg4bmlCTGdjOU9pZ1M3bEVaS3pXTUN3UldpN1pvemdNS2VJaVBEMFVBTThFczcyM3lhU3ZzemxLaENkWjAyZVNMbkRGb1V1N1FOVVFoTlhPcEpheTBETnVkSHhHcnZ6YmpUcGtHemoyS1FtbFRVR2s0SUVQZVF3RTZtYlQ1X0lFMWZUWE9zbUFa?oc=5",
       "pubDate": "Fri, 03 Apr 2026 21:21:00 GMT",
-      "description": "OHA reports increased rate of measles in Oregon KGW",
+      "description": "OHA reports increased rate of measles in Oregon kgw.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -345,10 +345,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Are measles fatal? Hundreds of measles cases reported to CDC so far - The News Journal",
+      "title": "Are measles fatal? Hundreds of measles cases reported to CDC so far - delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0Q1eHpZNWxaYVQ0bG9UN0puTk9VX25yT1g2dkRCTlBSZDh2WVdJbjNMQkljZzFQZEtkNzNCeFRxaVIzbDVzODlPaV9XRmhhU0Uxb0R0OFJGMVdlTEZfUTI4SlFsbWcta1dZcFJwOU5sNkd5VW5VOFk5dnRtdi03UFFWTDl5LWpWX3lpN3hLSERpajItWlN3dVF2UXVBZ0c1RDFxcFJhRkJkY1dzU1JVQ0NFS3V3bFV6RjNOWVI1VHlKSExzVWRpbkhCT08?oc=5",
       "pubDate": "Fri, 03 Apr 2026 17:13:00 GMT",
-      "description": "Are measles fatal? Hundreds of measles cases reported to CDC so far The News Journal",
+      "description": "Are measles fatal? Hundreds of measles cases reported to CDC so far delawareonline.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -399,10 +399,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases slow down in Florida, but numbers remain historically high - WLRN",
+      "title": "Measles cases slow down in Florida, but numbers remain historically high - wlrn.org",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSnUxWTlWWV9LUEJwUU1XcWRIMmV0NFFrS0FneXBfUl9iMnF6MUJBZXVhN2VfendBSmEtc0tqQ1p2aDZCVVZBQjBocjRWcnVQRVRkSUktTm1SblRBam52M3k1UW9jU3cySnZpbXVpd1JMWWhuVFBzMFNZcDFfaUlqdTIzOVRqczB4dDZBSDBYWVBGdzZkOS1Yb2VqdW43MVNtSUc3SVB4Yk9RM0xmY1ZV?oc=5",
       "pubDate": "Fri, 03 Apr 2026 14:07:00 GMT",
-      "description": "Measles cases slow down in Florida, but numbers remain historically high WLRN",
+      "description": "Measles cases slow down in Florida, but numbers remain historically high wlrn.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -426,10 +426,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Michigan officials urge measles vaccination as 8th case reported - KPTV",
+      "title": "Michigan officials urge measles vaccination as 8th case reported - kptv.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmlUVjJ3bURubVJSTzVoU25OOXNET1M4RGk0bWgyRVFmdllGUWxpcEQ5NW9ONXdLeEtwSFNQYXVBRHcwbV8wVE1ON21QUHpDbl9FVTRod0M1V0xReEZ5eFlhQmZwc3lkdmVvTEI2YmY1a3VtZk8zM3gzUDhRZGNTZ0NxNXVQOUd0dU8yRW1BWDFQaS05UHJ4U1BXbWNLRTdtS0E?oc=5",
       "pubDate": "Fri, 03 Apr 2026 11:48:00 GMT",
-      "description": "Michigan officials urge measles vaccination as 8th case reported KPTV",
+      "description": "Michigan officials urge measles vaccination as 8th case reported kptv.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -453,19 +453,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Gresham restaurant owner in shock after news of measles exposures - KPTV",
+      "title": "Gresham restaurant owner in shock after news of measles exposures - kptv.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdzducTBaYkI2RU9fTmlpbVNyQ00xNTFURklzbFppYzJpa2M1aHc2OFVSb0xGQVQxVkNGbXZaWHViOFREOTNtTTBTdFJWVTdpVFJlbi1pakhzcTFRRlBuZjh3RTFxcGZTQ1RxQnBTM09rV1VvV2s1dENwWEVPOWhvRXpIOTNKNm16WTZJVi0wWDJnYWdqWjI40gGrAUFVX3lxTE5IRkY2U0k5cTlxbnZQWEFtY3gzS2R6bmFJeEJ0YklxSllCNFlPTUdtMG5wV3NnR2d2bEFLUnNnWWY0eUxrSE52aDk2WTZRamhzck5NOGdQdkJwdXlxV29JSW05R2FZV1Q2dHRYRWNYdzJ3VWx3QnlNVTdHdTZLa0FpUGpwWmFwd3Vtc2VhVDhjbWlMNzRXVGZoUWlKWXN6ZVdJUkVBZTNGOTZlQQ?oc=5",
       "pubDate": "Fri, 03 Apr 2026 06:11:00 GMT",
-      "description": "Gresham restaurant owner in shock after news of measles exposures KPTV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "measles - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MTWF1WnlQZ3pzaVBoUkRqb2VJZnNuT0xKcGdSRExEMzRFSWNHa3RlRG9nNGlYTkhvQnNXS1NldUNtdmppa0VaZHZLbFZPUVJPUTIyTw?oc=5",
-      "pubDate": "Fri, 03 Apr 2026 05:00:00 GMT",
-      "description": "measles Britannica",
+      "description": "Gresham restaurant owner in shock after news of measles exposures kptv.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -507,10 +498,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Safeway in SE Portland identified as measles exposure site - KPTV",
+      "title": "Safeway in SE Portland identified as measles exposure site - kptv.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQVp0NTZMdjdoSmVnRXBhdzViMW9PcUFrTmlnQ0M5Sm04UEU0akM5b0pOcW94OEtyNmVBQ2ZPdTdyMlZ1TWVWLXk1NlFfc294R00xdm9QNkF4dlNGdXVMQW01N2RvdWRVT1BsUmpkMExKNVd6VWRDWW1sSHBpU25RcEc4aE1sRzh6aE1PQS1n?oc=5",
       "pubDate": "Fri, 03 Apr 2026 00:29:00 GMT",
-      "description": "Safeway in SE Portland identified as measles exposure site KPTV",
+      "description": "Safeway in SE Portland identified as measles exposure site kptv.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -534,10 +525,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Michigan measles outbreak: State urges earlier vaccination for infants - detroitnews.com",
+      "title": "Michigan measles outbreak: State urges earlier vaccination for infants - The Detroit News",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSnZJRXA1R3E0MHdSSk8xekgyTlZBYjl1REFnVVNXNDZwLWt1N0tsRkVoNlNBelBpUy1vdG9IdkhQaERONlFrQ3FycWRZZ3RuMFBjSUVkT3RMT3U5QVFkY1FlaHg1SHV0aDFPVER5YjBneGhZVFJ3S0NTaUNhZUNEajN5RUFaS3I3Xzhlc2cwTVctLXI5UTM4TmhoOFdBci04em96U0VFLTVoN1VFNm1ucEN2NkJFY0txUHhUXzRVUmE0ZjVFdVpTejJ4M1dOY3BCSXBHbWsxTEJaMnZ2NXFTXw?oc=5",
       "pubDate": "Thu, 02 Apr 2026 23:06:29 GMT",
-      "description": "Michigan measles outbreak: State urges earlier vaccination for infants detroitnews.com",
+      "description": "Michigan measles outbreak: State urges earlier vaccination for infants The Detroit News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -552,37 +543,46 @@
       "sourceLabel": "News"
     },
     {
-      "title": "West Linn cafe, Gresham restaurant identified as new measles exposure sites - KPTV",
+      "title": "Measles exposures recorded at two Portland-area restaurants: What to know - KOIN.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDN5VENoS0ExV3doeUlCM3NvMV9YY3FBNW9rMFg4TmY4X04tYzNPUndpZDdGOW14Q1JWeXZLVG53YVc5YlgteVRpaUFoRWNyaVE2TEpqOVlERWluQXZtcmxicXlId19OMm1YWEJwNjhRb3Z2YWJXaWk5MV9OUjhMalZ5NkxYVWY1cmhlUmh0LU9lZWI4UUExZDg0Njc0b196SksweVV3U29BT2UxczBBTUotcnI0WHc3a1h1VGhIY9IBxAFBVV95cUxNcUYtN0ktWWZLZkhPWGJrcURUY1dBT1VzMEsxYU40cURGMlVpMHlRbndYemFLeVFQRFZIZ2x5cV85Y1dLaXJwSDJkWmNEcHNpNTBQZ1dVZE5SN0VpZmw0TzMyeTJSaUlzcndkaVB1VEk3SEJ3ZFlLa3kyVUY0ZW9Nc2JaQnZIak5TRWd6amFHTk1GTC16Z2RIZXl4aWl3blhDLVRUX3BwMWIyNG5VODMzZTg4My01REJCd1A5N0c1d2kyb3kt?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 19:14:33 GMT",
+      "description": "Measles exposures recorded at two Portland-area restaurants: What to know KOIN.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "West Linn cafe, Gresham restaurant identified as new measles exposure sites - kptv.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPem9xMGppQzRQN05nbnBDb0RIS3JtelJtamx1TV92b2Z6aHhnQ0U2bkl5b0NsVHdnUE5hNGh2UWtxai13NFZhdURxUmRGMzBvWk15RTVkN1pjWDEwWVVKNnJUWWZZZWxqWTRrY0dhMV81czJjWkczQWJIZ1BVRldNMFhjTC1rZmxlY1RVMC04N2dHT3ctbFNoSUtJYzVwRGJ3Sm5ycUJEWdIBuwFBVV95cUxNV0ZnbU9GVzhrZjJWbllCT2FnOTlUVGZLaGdOdk1BbGhKMFlSMWlrLWp4R1lMYWlJc1RUTkc5MHF1czlpVXNqSHZvV0lVeUdpUUFQMHNtUjRDQWV3UGlkY25IYUNWUWdjb1kzazNTRUQtMVJNVE1CVWFKSjBjQUtnOG5Pd19mWmM5VUNiSlhxZkNFb3N1QUxrc1dmUXpkQi05Z2NYWVdXWGg4TWQ1Rld6a09sWTB5WFJ4a2lz?oc=5",
       "pubDate": "Thu, 02 Apr 2026 19:08:00 GMT",
-      "description": "West Linn cafe, Gresham restaurant identified as new measles exposure sites KPTV",
+      "description": "West Linn cafe, Gresham restaurant identified as new measles exposure sites kptv.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles exposure sites in Utah include UofU, Trader Joe's, Wal-Mart and schools - FOX 13 News Utah",
+      "title": "Measles exposure sites in Utah include UofU, Trader Joe's, Wal-Mart and schools - fox13now.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZE8xaXR0R3NkS1FRbkdDcGxJMWgyT0lwcW8zSkFpZlVmR1JUSTBTYWI1dUtsbUt0MkZ3YVNaT0hGMTBIaFhiSFUtYmxtVjFlalMtcWg2dHFTZGtIYmdnell3VEdHUGlrS01UQWcxRzJDQzk0N0lHWGtBNGE2dDZnNVQtSmRZeWJQcVlISE8tUUV1d3ZhSFZreThpTENLM1JoUk56RlNFckhuVHNyQWlaR0M1Zi1iM3ZN?oc=5",
       "pubDate": "Thu, 02 Apr 2026 17:47:28 GMT",
-      "description": "Measles exposure sites in Utah include UofU, Trader Joe's, Wal-Mart and schools FOX 13 News Utah",
+      "description": "Measles exposure sites in Utah include UofU, Trader Joe's, Wal-Mart and schools fox13now.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Chicago authorities warn of possible measles exposure at O’Hare - thehill.com",
+      "title": "Chicago authorities warn of possible measles exposure at O’Hare - The Hill",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZktmTjlwRVlKbFloMUNhUmxMMURZQWhTd1JqWWVVeEQ2d1BaZG9BYnY5amdHNU8wMktEQi1qZG83MUJoMWs1UEVMMWM0a3NkQTV5ZkZFNXIzMGtDVndXdWVha0M5QUV0ZVN0M0FKTFFpTFEwaFI1TldoRFluNTZQNjN3ONIBiAFBVV95cUxORm5hamt2Ymw3RzNjVzQxYUtCV1JrcFJKUFFSNDdUM09fOXVDVXJwLTh5Vk42VjZOWlRxOW1pSGhnVkRTUTEtSV9aTXRNekNOZTVlR21YZ3V2LUl1NDE2UXk5NEtLR0toQzAwVG01WmFfSzZxdUdyYUVTZWZlcVlTMXFvTEo2WW9Q?oc=5",
       "pubDate": "Thu, 02 Apr 2026 17:34:00 GMT",
-      "description": "Chicago authorities warn of possible measles exposure at O’Hare thehill.com",
+      "description": "Chicago authorities warn of possible measles exposure at O’Hare The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Eastern Utah measles infections double within a week, health officials say - ksl.com",
+      "title": "Eastern Utah measles infections double within a week, health officials say - KSL.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQTVoYXpFZENyTDB0blFRNHJmZ2drM1FLRTNDS3daZlMtZUItdGRkblU0c1JRTmxsTWNwZDhGNUJpX20tcmZFSjJFLVd1cVBieGxISk1BNk1sNFU0Y1NqOW9Kak1HN1hTTlFibmFyS1ZTdHg0YnZvRHhKeWE3WDR5QTF3Ti1Pa181TTN0WGNHcFVlWDExTDNkMUNPODJOZXkzck1UTXVWN096ZDFRb1pF?oc=5",
       "pubDate": "Thu, 02 Apr 2026 16:01:50 GMT",
-      "description": "Eastern Utah measles infections double within a week, health officials say ksl.com",
+      "description": "Eastern Utah measles infections double within a week, health officials say KSL.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -606,10 +606,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Utah sees sharp rise in measles cases as outbreak includes a Trader Joe’s and LDS temple open house - The Salt Lake Tribune",
+      "title": "Utah sees sharp rise in measles cases as outbreak includes a Trader Joe’s and LDS temple open house - sltrib.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmdVI0SnJTNWU3dTJrSW5ab1hwNWExeEVYbi1OWUNfTWZVSWxpNjB2bDdJaHhzN2ZKbzhrbExMVTdSX0luMTQwU0pjbFdsWF84VlZIcGkxWC1ER3NPXzZZUHdpNUF5N2tZVzdGekFZYTlUelRLMWtjN1ZTY3ZIdw?oc=5",
       "pubDate": "Thu, 02 Apr 2026 12:05:18 GMT",
-      "description": "Utah sees sharp rise in measles cases as outbreak includes a Trader Joe’s and LDS temple open house The Salt Lake Tribune",
+      "description": "Utah sees sharp rise in measles cases as outbreak includes a Trader Joe’s and LDS temple open house sltrib.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -637,15 +637,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZjNYaEVCZVI5YjNYVW9ZTVAtRzJSWkhCd3EwNHJheVNMVWdEVmsyVkRiM05iRGlLZzJTdnFsNThfX0xXVWhFTU9OYm1ZMV9vRFdrZmpGak5qTG11OXFqM2lsTUF0a2ZDTDNhcXNNbkN5TmstbFFjNktORnlmWm84cGhxOFFlSm1pUDJjRWJPWTFub1ZFMEx5UUtVLVZXNlhxZk1pdnBuZTlNRkhTSkZEU3dQNWNvTmhvVWNVSWlEQzVVUlNpa3hvR25Pb3NxcUg2dDM2dzRLcjhHMGJoejJWVnp0Z1d3ZUhHUDd6ODZObEVacERfZkRCcGF0c0lHTkkwOGc?oc=5",
       "pubDate": "Thu, 02 Apr 2026 00:33:24 GMT",
       "description": "Public Health warns of measles exposure in Seattle, Bellevue and Kirkland KOMO",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "End in sight for South Carolina’s measles outbreak; Chicago on alert after potential airport exposure - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTk13RjJ6WjdsSHhoMUotazZiZlNDcTd5VUx6eHA5VGNUQ3I0WXRDU24wOENZb0Nxbzk0ZWx5YTcwcXRRM2pKSngxckRqNW9WWHNuWEYyQXlrOFBYU1VwZmF3eThkVGx2RGtSZjRGZXhpRUt3bjc2R0w2MVNPRTVDRzU2TWh1LWlTd1BmYnF2OVV5bGktOHdZQjdfNjUwYzB2WkhfX1o5MzJMODd1MGQxbnpTN2Z5b1hLS3VoZXZ0alIxNk0?oc=5",
-      "pubDate": "Wed, 01 Apr 2026 19:52:10 GMT",
-      "description": "End in sight for South Carolina’s measles outbreak; Chicago on alert after potential airport exposure CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
