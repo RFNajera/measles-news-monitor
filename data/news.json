@@ -1,12 +1,57 @@
 {
-  "updatedAt": "2026-04-07T19:34:34.215Z",
-  "itemCount": 58,
+  "updatedAt": "2026-04-07T20:23:55.946Z",
+  "itemCount": 62,
   "items": [
     {
-      "title": "Snohomish County health officials declare end of measles outbreak - heraldnet.com",
+      "title": "Placer County warns of measles exposure in Auburn, urges unvaccinated residents to take precautions - ABC10",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRGJSeTZrSnE0bHJUbmFOV3BPYlFDUkpaZ0pEa1BrZWRUaE03UU85VTRPVy1xWl9qM21BSEUwOU8wSTBfYnNuT3ZnVEpQMDFXZTBzWURPU1BsdncwOGJpNGtCb01IbVVNektucVNqSXpzTDJwZDZoV2NqUEhuaWRYbHdTVldoRWRlNVB5MkFxdXRwYW8yaWpFWEtCaGhpV3JlMmU0RUZIWEdBU3phUXVQSW92WFF6YlVLRHMxZTV4elVzUUxaWmJtRmtiSEQzczNRM01NLWJTN3FxQlE0SlRHd3Y4blhSM013NldlRTl5eTZnQQ?oc=5",
+      "pubDate": "Tue, 07 Apr 2026 20:12:00 GMT",
+      "description": "Placer County warns of measles exposure in Auburn, urges unvaccinated residents to take precautions ABC10",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Cases Rising in Oregon, Set to Outpace Prior Peak Year - The Corvallis Advocate",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRlhwd21Qdnh1RGp1b2ZCRXVRRVJRYVZQeGRqUjhHdC05RVFoZlVkUVZlQmlPWmlvd29sSGI0Vm1QNGFIc0hENXM5VkoxSUJLNlhSRmJ5R2k4VnF5NWhrSE42X29HZW5wck1qcng3V1VIbFVxNVlEaVRaQmxmVUFyaDVMQXFuRWY1dVU3OWdKaHQzelAxczRr?oc=5",
+      "pubDate": "Tue, 07 Apr 2026 19:38:11 GMT",
+      "description": "Measles Cases Rising in Oregon, Set to Outpace Prior Peak Year The Corvallis Advocate",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children - Aurora Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQanFsX2FlUF8tcmhFTUFLMGdiSDh1N2NkNHlrT0Z0cUo5RWxQRGVNU05YYXpDazhTUlpkM0FlSnpETnNBa2l5TjNpU3ZvVVA3NXNQTDlyMFYwbVpUbFhDVFd6Y2dndFotMTJHUnJ1TUtURHBUWmNNbHF2dFk0Q3dMMWpqOWxZeEtkS0JRTDNtVl9STzBwQWVOM0xPR3hGR1lmN1NpR3JaUk81dlJudWsyVVZ4dVZHcHBfNjd0YjRJZ2pjTXVjeUQxRnBHeFVkaktL?oc=5",
+      "pubDate": "Tue, 07 Apr 2026 19:37:49 GMT",
+      "description": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children Aurora Sentinel",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Outbreak Declared Over in Snohomish County - Lynnwood Times",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4WnBRSlJTWmtJckpZd05BMm1maWp5VWNwM2tnU01RbVdrN0RBeUE0U3dzdWxFVTFBZUFlOWZLOTRkSUZmMXgzQmlhUTlEVWQ2U2tOYUtNQ2k?oc=5",
+      "pubDate": "Tue, 07 Apr 2026 19:35:14 GMT",
+      "description": "Measles Outbreak Declared Over in Snohomish County Lynnwood Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Ransom County Reports One Measles Case - Midwest Medical Edition",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUk1nZ0dLTmN6MS1hQnRNblhRLXo1cGZ4aTEwa1RSQjROb20tTHpncVI0eVRmNDVwcHNHdUU2SUdaREZxR2ZVM1JlWFNrZTd4N2tOS0NvRFVYVzAta19rMzYxb3VXejdXeFJBY0Z1bC1MZWpYVXpFUDl6cFpZSUNMUWxJWjZRRU14ZTlGZGRn?oc=5",
+      "pubDate": "Tue, 07 Apr 2026 19:10:45 GMT",
+      "description": "Ransom County Reports One Measles Case Midwest Medical Edition",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Snohomish County health officials declare end of measles outbreak - HeraldNet.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOemJWTlJCVHJRSDN0bDVCbVpqV1RPb2hSSjJqOVR1eTdkTmgtTVd3NXBlcGptUFNxREktSkRiQVdkMHd2WjVWV3hTU3QzTDdGZkg2aFl4bGNBa2JsLUNzYndsZVNpdjJORzhGeXo3TFp0UkU4R2g3T0dSOGQ4cVU4REkxWXJBbVpTWk5iMHdmRWpLUWFBZVZvMUhQb0hCd3M1UEp4aGh3?oc=5",
       "pubDate": "Tue, 07 Apr 2026 18:43:39 GMT",
-      "description": "Snohomish County health officials declare end of measles outbreak heraldnet.com",
+      "description": "Snohomish County health officials declare end of measles outbreak HeraldNet.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -75,6 +120,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles cases surge in Japan - nhk.or.jp",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BbU1MZUFLYk9xZHZTZDQxb1hHZW9td0VrQzBhSTFQcW1oU1gtZXN1Zi1ubVpQWEN1VHRfNGFDTUx3ZmdWZF9BMUoyN00yQy1La1MxUGt3YnphLVpsSmNFQS1n?oc=5",
+      "pubDate": "Tue, 07 Apr 2026 17:35:12 GMT",
+      "description": "Measles cases surge in Japan nhk.or.jp",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "No new measles cases reported as outbreak total holds at 997 - WLTX",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWVNaSW5WR00tUGhlblMxQTJPZzBXWW5VUDNOekR6bDg2cGppRmQxX2l0WjNiSHVtY3loZzhDSWprNEd1TUZBTFFaOUxCTFItbXg1ZTJvYTFqdjNqOThPV1JQV053bGZwMkhxdThXenE5Z2dObHVrVjI3clFMNmE3NWxjTW5MTElybkJ5MXlSWnF6dTNpSC12bWpTVjNfRVlmdDVOZjlKLXc2alJ3YklNV3FR?oc=5",
       "pubDate": "Tue, 07 Apr 2026 17:34:00 GMT",
@@ -129,19 +183,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles death toll surges in Bangladesh as outbreak overwhelms hospitals - telegraph.co.uk",
+      "title": "Measles death toll surges in Bangladesh as outbreak overwhelms hospitals - The Telegraph",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX2RDQmJkRUVEQ1dpVlNWQXpCSU8tSjBWeHhDWVZmTXpxOHlZRk5QTzUtdlZqMXpQRFBmX1NxeERGUXpYTWotcXFrcXpKelNhMkFWcHZ0T0hLa2JYZ21ETjVsTzY3RThaamR6OGpnOVcwU1FUREVvSURpSXVvM1VFMFA1b28yQ180OFZzZ3phbEhSSVNhN0Y1emNENHVMTmRaMnNwVUZRejhya2lnaUpteFVUd3JBWE93S0xXamlEWQ?oc=5",
       "pubDate": "Tue, 07 Apr 2026 15:51:00 GMT",
-      "description": "Measles death toll surges in Bangladesh as outbreak overwhelms hospitals telegraph.co.uk",
+      "description": "Measles death toll surges in Bangladesh as outbreak overwhelms hospitals The Telegraph",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Bangladesh rolls out emergency measles vaccination drive as child deaths surge - aa.com.tr",
+      "title": "Bangladesh rolls out emergency measles vaccination drive as child deaths surge - Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdE5EU2Q4VHRjUWdVMkRCWGdkNElqWlJvUVJLMFdNSVhtR1ZLQjNCQW9yUW1taEFSX2JiWGQtMU9yY3d5a3h6LUNnUU80Q2R4TW15X29ZLXBFXzNONnUwNmQ3SG5ySVVGeFBLTzVUSDBVQVpHWFNONndlajdJZlZ1TTZuaGk3dEdEenV2OWVodjFaZlMtdTlwbnp5ZVZNczVaQ3dibXdFYjZNVUF4UnBfNlBNMFpQU3NXUDl6bA?oc=5",
       "pubDate": "Tue, 07 Apr 2026 15:31:15 GMT",
-      "description": "Bangladesh rolls out emergency measles vaccination drive as child deaths surge aa.com.tr",
+      "description": "Bangladesh rolls out emergency measles vaccination drive as child deaths surge Anadolu Ajansı",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -156,10 +210,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "At Least 100 Children Dead in ‘Alarming’ Measles Outbreak - AOL.com",
+      "title": "At Least 100 Children Dead in ‘Alarming’ Measles Outbreak - aol.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWXl0OUFXVlpsSmRiNUVWVEVQd2lmSTJCVjhXV0pwd2NkZllsczhHYzdFczRNckxFR2VIZVlDZWhJOG5kZVNFWVVReUhSSUJZYmtYOFlYMDVRTlpoRGNxNDc0MzRVbWt1N3psZXkyZ253Yzh1WmZMczYxeWRFYmYwR3lR?oc=5",
       "pubDate": "Tue, 07 Apr 2026 15:30:52 GMT",
-      "description": "At Least 100 Children Dead in ‘Alarming’ Measles Outbreak AOL.com",
+      "description": "At Least 100 Children Dead in ‘Alarming’ Measles Outbreak aol.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -219,15 +273,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "21 children die of measles; 128 suspected deaths reported - The Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS1NtVWtvU2JHbk5Gdl9xbVBMMDhmdWlsLUljVXZHU01WRFlyQ1kwTk1VTlhlb2FoaXkybVQzN19VVEdLd3hmajV4ajdZWHZFR0R0SkZGYjJhZ09BUXRKeUxmWUNORk52NTh6a3JGQWVxMDBFTEJnUUlGeThqamNtOS1nWHF3UC1tOUlFYTNZNW5mcFk5cWM2ZldCc2xTNDhjWDJXMVZB0gGrAUFVX3lxTE9iTDFXdnhUU2tJTnlPbW9mQnBGSTlkdHpSTmp6bncwcnBNbE13QzR6dlhQYXRnblN0WUN6bjFValJrdkx5TTlsblhxRWNudExCOFVaNERBWDVITzN2eGtLSjBKd1R1czdjcjUtNWtmd0VJWDB6UllHTU51cVp4czZSRDkzVkFvLUppcTluQU5oak1pX1dNMFh3a3g4V2hOMUFIUmRDcllQb1NlSQ?oc=5",
-      "pubDate": "Tue, 07 Apr 2026 11:25:00 GMT",
-      "description": "21 children die of measles; 128 suspected deaths reported The Business Standard",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Bangladesh Measles Outbreak: Will It Affect Indian Border States? Tips To Keep Yourself Protected - NDTV",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSzktb1liNWJzM1FmTTRnSzhtM3haeWI1QjVqeUt3TV9SMlNwRlhwQ1dPcU5Wc3Itbkg1SmpoLVIzRGhCOHdrTXIzbkhYWndOcjN1TDk4NnUtWHVwY3FvLTk0MVY0R0FOM3pJWlZVOVVTRUpCV2NJMDQwelNOa0oteW5CMDhsTlNCOEJSc3kzemotOHZ0OXhCVzg3ZjFuZW02a0Z5MDJVVlhhOGY0ZVZVWDBEN3pCc3RPZ294Rk9RMk1LbmJkTnluX01HdUXSAdQBQVVfeXFMTzJKeE5WelFVUUp1QzNzNUh5UktMTFRDaklPY1NzNl9nQjBQaEZTc2thb0N5YXhINzBEeUpHOEFSUkV4cS0yWk14UlR0ZjZnV0FiUkM5Vmh2cldtOFRQNUxJVzNPRkNRV0RqSzhURE9Lbm9kbzhvdVRQeWdLRGFSZ0oxUVo4SVRsWnFET0VhZGdPVEZSZDh4NzlJT0NzYVdkTWp3Y0FnbTBnUkFERUZWS2FzSmJHN1dzSTN3S3VVS3BuN2lsU0hlQmpNYVdYUk1DS09sY0o?oc=5",
       "pubDate": "Tue, 07 Apr 2026 10:32:30 GMT",
@@ -255,10 +300,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWNNNW9ralB6bldmekNVWDcwa0FXMjJrYWVUOVZhVlBXaXphSDk5ZTJpRGZDSFRENXJIZHctcDc0SFNxeURrZ1p0UWxpUVlsSV9yckNJaEFnTDI1aDV3QktYMDVILW80M2JNNkV6VDZMSERJS1haTHZiaFRMZEJBTHVTSkNKZUc4aFhVYUhULUN0SktFaWduZTB3ZUliQjFa?oc=5",
-      "pubDate": "Tue, 07 Apr 2026 07:11:21 GMT",
-      "description": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children Yahoo",
+      "title": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children - AP News",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUlFGX0IweFlHWkkzUlVIUklXbk5SYUNtRWF5TVpaZUYtLW9LQ1JnLUpkY3Z4TURBQ1JxQUEweFpnTC1sR3J6YWR2b3ZraTh5a3hfZmlJVnpvdURvLU9WR0FaTG80N1hlUGdsQUExTHZGS0lkU2h3VmlnRmFLSU5HYlZpVmhkTmFtcFFvM043YXhsYVdRYm9jTnY0aXVQbXk3WHhkRmdMVFlmRWhmZDlUVEN6bUU2YU5ma1ZBYTBNQ1FJQmYyR1c4Q283a3lWU2N1VUl6ZGdla0NLR2JfejR1RDNHMA?oc=5",
+      "pubDate": "Tue, 07 Apr 2026 07:14:00 GMT",
+      "description": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children AP News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -268,15 +313,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSm95aFlNRXRmazZ3UEVJRG5UUlpyQlBLcUhoZmlnUWJxTlhYR0oyYzhPMkl6SE5jR1VUa3IxeFdVVWJsVHhGQ085NmtlTl90bzhYTDhiZDlpeE16bmpjejF6RW9SRjV4YmsweXlLem1kVEV5OUl0dW9XRC1kSFpaZ24tMlR6Q2tnZmtHX2pIM3FxS1dHVUVTLTQwOThoTTZNQVpua2FCN2U4OXRqRmNMX0VxU0lEUWMxZG5V?oc=5",
       "pubDate": "Tue, 07 Apr 2026 06:19:00 GMT",
       "description": "Two new measles cases in Sacramento | National News | 2news.com KTVN",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles Exposure Reported at Two Salem Businesses - National Today",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ01CdWd3UUJ0aTJZUG81RjlodU9vRnRvMEdJVk1RSUlwU25XZTZJbS00QWE2a2V3OTVEcEtKal9odVRTZlpGekNzRkgyQTlMOFZjVHoxWmotUzYzZVJjV1VPZ0J0NkstLURPc2FTbXgtazZKMjV6OHBaNzhjcUprYVlNbm9rRGZ3dUhPMUI2LVRjNTdFdmdEY3FHMlhpSkpURmZTbEFIVQ?oc=5",
-      "pubDate": "Tue, 07 Apr 2026 05:35:56 GMT",
-      "description": "Measles Exposure Reported at Two Salem Businesses National Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -294,7 +330,7 @@
       "title": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children - NBC News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkxjaml2UU1BX09UUnhzVDRUYVg3ZXBkVUVQTVBOYUh0a2tWSlEyc3NSNHdZNXNRN3Z3b1lfVWNnYUtPTWlPVFlRR19xLWRiRTZPeXZrd0pvaE5qcS1WT0puRDg3VUtYU2FQbmdieVB6dzd2dkhhSjFSUzhTTWRmSDR1ZFdDVTVGd0dFbDFQMllpUEtZUnZ5TmpjWjZzV1lEeXVSbVNLWkcyUGZNUkJJbUVFNXdzUQ?oc=5",
       "pubDate": "Tue, 07 Apr 2026 04:27:00 GMT",
-      "description": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children NBC News Measles: Why Bangladesh is seeing a deadly spike in cases bbc.com Snohomish County declares measles outbreak over, warns travel could bring new cases KOMO",
+      "description": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children NBC News Measles: Why Bangladesh is seeing a deadly spike in cases BBC Snohomish County declares measles outbreak over, warns travel could bring new cases komonews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -318,10 +354,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMnZYXzgzTFFCV3NwczJoNlhzU1RWT29QMmdkeVB0aG1QYnE2VG12OVRKMm5CdjIzOFZTczFnQ0FUOHBIVWY4U3o0bWtPRnV0N051LXIyQmVPX0gydjhCWVlHYnowNmh6eWhMbEdVbXVMNE4tY0tCZ3ZOaXNYX1pDV0llWlNhamlqbDY0VDhUMXVWSlE5bHNSOXE4TUR2dF9iU0hV?oc=5",
-      "pubDate": "Tue, 07 Apr 2026 03:03:00 GMT",
-      "description": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children AP News",
+      "title": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children - Ottumwa Courier",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOelAyM3FFZ2hlbURseVM2TXFnZEhOM0Q0VUtiRGVYOXVQR3NGWXpFYW9oc2RBdE9vTk5IaXRpaFcyT3BZSmRhQ2doekhpTl91MzdJdWJZZDg5SFpUb1ZPaEJaNDZHNklCQlpfa2pMRXlHZFZGN1dNMWhiTkh5WEFYY3JrajZLaGJMTkV5Vl9fTFhJVTZPaFdWZHQ2MVlvZGNlQXA5a2lwRTNfSGc4VEEwMWEzZXNfcnJ5ZmZRd3EzejlFQi1BVE40aDZ5djlBblFrMHcxMjZ6M2plUXp4Y2RpZldkY2RvWkFwZ2IxSlA3dG5zMTlPbFZDQmRDUFUwY24wdkJwUzhQLXRBSDl3VzVxMnlMeUhtRl9BSDFN?oc=5",
+      "pubDate": "Tue, 07 Apr 2026 03:03:33 GMT",
+      "description": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children Ottumwa Courier",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -372,10 +408,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Sacramento County confirms 2 additional measles cases, bringing the total to 5 this year so far - kcra.com",
+      "title": "Sacramento County confirms 2 additional measles cases, bringing the total to 5 this year so far - KCRA",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQTVDclh2SnpEZ0lPaHlfYlUzQm5Ha1BKaEt1R01YUmZmRUpMbmdjdjIxWDVDTl93U2xtWTRHY0l5VzJEVGtHbElOU1Q0Y2puTUpyU0k2aTBhWlJMX0h0MFhYTjVESXVoN2VLMkRvcjNNZVh6YlhXcG1oblN0dzczeGxDSmYtMmp2Ul9YSVRheVFRQ0FE?oc=5",
       "pubDate": "Mon, 06 Apr 2026 23:44:00 GMT",
-      "description": "Sacramento County confirms 2 additional measles cases, bringing the total to 5 this year so far kcra.com",
+      "description": "Sacramento County confirms 2 additional measles cases, bringing the total to 5 this year so far KCRA",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -399,10 +435,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Oregon Health Authority identifies two measles exposure sites in Keizer - kgw.com",
+      "title": "Oregon Health Authority identifies two measles exposure sites in Keizer - KGW",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMHR0NzFrWmpKNkRTZWl2NUNjTDREdnM0TmhBTk03Nm5rWVM2ZmViTUtmS2p0RFgwN1Jha0o5UERQa3V1WC1lemFRTE9NTkpmX1B6WTA1bmhzMGNSbkgtM0dsTHBBX1lneElGdTlzUUY0bFc4Q3VQRHNLd1UySWlXdDVlWG8yUEhsWnhWbkg1OUtQTmptajlBWklLM2UxS1VFV1d1cXE5V2dOb3g4RGhBZTdCOHVkWjZERFNrVUFQVXhUR1VJSkVxdjZuejFiYXhxeWR6cUEwblZOdkJCYk82ZA?oc=5",
       "pubDate": "Mon, 06 Apr 2026 23:38:00 GMT",
-      "description": "Oregon Health Authority identifies two measles exposure sites in Keizer kgw.com",
+      "description": "Oregon Health Authority identifies two measles exposure sites in Keizer KGW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -417,19 +453,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles exposure reported at two Keizer businesses - kgw.com",
+      "title": "Measles exposure reported at two Keizer businesses - KGW",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQblBNSUN3d3B5MXU0dFVVZmpJbU1JU0l1T0ttdkRSYkRIcDliOHRLcEZubTJXRHp6STdZU1ZrU1dUcmFPWEYyc2FGZXJVV3RBU2UzQkpnYnFiOV9rUmhOZXViNVhwWjlmR2pqX3Y2WkllRUhTSURiaXFpcXB2NHdpbHRHS1BzcEFXMmRGSVNfb1hmUDlIU0RqX0ctLVA3WTFKZ0ZqNXRXdzN4VGxOUGNGblNDc2swTDRVVXVVR0U3Ql9uMDJUcFR6MQ?oc=5",
       "pubDate": "Mon, 06 Apr 2026 23:15:00 GMT",
-      "description": "Measles exposure reported at two Keizer businesses kgw.com",
+      "description": "Measles exposure reported at two Keizer businesses KGW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Confirmed Measles Case Reported in Kittitas County, Health Officials Monitoring Situation - yoursourceone.com",
+      "title": "Confirmed Measles Case Reported in Kittitas County, Health Officials Monitoring Situation - Source ONE News",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxObzUyR3ByZWk5Y3pDWktNV1plclpvUVREY2NuVjYwSml1aDRyeDlPckJRN2g5X0tqSm9hc1ljd05VUjRFY2YtSHd2Vk5mUFJDZ2ZlU2NWTDNycGh5NkxpYTBjai15V0ZnLTZ3MlkyWGg4TmN4T0ppTXRUUUQ5bHdHcnZLNWdoZkloQkZxRnRGVU1ZclEwMksxVnA4VjdETmw5TUVIY3hCNkx1b2hJTDJvSjJaTWt4T1BKajl4ek1NY21reUhEUWNzNG4xMk04Zm9QN3NBZXg3aDQyZTRmRVA3MWFXMjlmNlViVTZTV0dGQTBncVV2TlpFSFltS3E1ZmM5d2tKUTlGTkw4TjV3VURyQw?oc=5",
       "pubDate": "Mon, 06 Apr 2026 23:12:00 GMT",
-      "description": "Confirmed Measles Case Reported in Kittitas County, Health Officials Monitoring Situation yoursourceone.com",
+      "description": "Confirmed Measles Case Reported in Kittitas County, Health Officials Monitoring Situation Source ONE News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -462,10 +498,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials warn of potential measles exposure in Keizer - kptv.com",
+      "title": "Health officials warn of potential measles exposure in Keizer - KPTV",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMWdRbnZqcHJoN2R3SU5fQTNRcEg4WmNNYV9DZDBxd2trelhvamVvTVQ4S2VWYmNDOTVoMGVxNEoydXhGNnpsSFJhc2NvQ1diZWZzRWxKMVlaQ3h1bWpqSERDeENLQlNfWVRZaFJYaGxlVFNsLTVLRmQwMGo4ajg2X3I2YkF4VDRaS0dKZU81RzFydw?oc=5",
       "pubDate": "Mon, 06 Apr 2026 22:09:00 GMT",
-      "description": "Health officials warn of potential measles exposure in Keizer kptv.com",
+      "description": "Health officials warn of potential measles exposure in Keizer KPTV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -516,10 +552,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "One case of measles reported in Ransom County - Health and Human Services North Dakota (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VVHQwSllZNDB1bzBUUkJ3bnk2dHRpWDZwQ1RQa24xLWxpeEJUU29VRkZsamt4ZVJ0QkFmRlkwbUcyUzJaa0kzOVNHZklWcXJjZy1IX2FrS294MlRQZXA1R3d3TXhralVOWU5xeTlGeDNXQWZtSXc?oc=5",
-      "pubDate": "Wed, 01 Apr 2026 11:00:00 GMT",
-      "description": "One case of measles reported in Ransom County Health and Human Services North Dakota (.gov)",
+      "title": "End in sight for South Carolina’s measles outbreak; Chicago on alert after potential airport exposure - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTk13RjJ6WjdsSHhoMUotazZiZlNDcTd5VUx6eHA5VGNUQ3I0WXRDU24wOENZb0Nxbzk0ZWx5YTcwcXRRM2pKSngxckRqNW9WWHNuWEYyQXlrOFBYU1VwZmF3eThkVGx2RGtSZjRGZXhpRUt3bjc2R0w2MVNPRTVDRzU2TWh1LWlTd1BmYnF2OVV5bGktOHdZQjdfNjUwYzB2WkhfX1o5MzJMODd1MGQxbnpTN2Z5b1hLS3VoZXZ0alIxNk0?oc=5",
+      "pubDate": "Wed, 01 Apr 2026 19:52:10 GMT",
+      "description": "End in sight for South Carolina’s measles outbreak; Chicago on alert after potential airport exposure CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
