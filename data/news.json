@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-10T01:47:02.375Z",
-  "itemCount": 84,
+  "updatedAt": "2026-04-10T03:17:17.819Z",
+  "itemCount": 82,
   "items": [
     {
       "title": "New measles case confirmed in Maricopa County - FOX 10 Phoenix",
@@ -25,6 +25,15 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTXhoWXg2NG9TOTd4Njg5eFd0QjdFMENkcE5hM2ZjYVRqMjdKZ0MxakNMUjRBQmZRNE51aW4ydW0tTE51MXJBdHlFLWF0VTFUQWhlNEk2dHBmLW45WkgwMk52aTg1RXp4VUJuSXJjdkNsVVJ1M0pWYVRkYVhMMFNJaUtWMTdoN05NVmhhR2hfUUlGMlRhZE40UTBDalJqUjk4ZXJ6M2RfdlAtS2Q5MW02VlRMc0t6bEEtUmQ4MHpfNVhveDB5a0RMeDc0ZDZJeFVqSFVTNS02UnozeGZHWVJr?oc=5",
       "pubDate": "Fri, 10 Apr 2026 00:10:00 GMT",
       "description": "Possible measles exposure occurs at Boise Airport Big Country News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Public Health Confirms Local Measles Case, Public Exposures Identified - Maricopa County (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aNkktVXRONFZ5dkszM3ZfZUxMSjlIdEI0UEo4OERxS0NJR2Z1R0V1WEl2UkRVbC1RMzdGWlFyQ250UURTVmlDaWJwTzFNMkhXT0UzOUxpcEI3bVExWnRF?oc=5",
+      "pubDate": "Thu, 09 Apr 2026 23:49:16 GMT",
+      "description": "Public Health Confirms Local Measles Case, Public Exposures Identified Maricopa County (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -246,15 +255,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Public Health Confirms Local Measles Case, Public Exposures Identified - Maricopa County (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aNkktVXRONFZ5dkszM3ZfZUxMSjlIdEI0UEo4OERxS0NJR2Z1R0V1WEl2UkRVbC1RMzdGWlFyQ250UURTVmlDaWJwTzFNMkhXT0UzOUxpcEI3bVExWnRF?oc=5",
-      "pubDate": "Thu, 09 Apr 2026 19:52:40 GMT",
-      "description": "Public Health Confirms Local Measles Case, Public Exposures Identified Maricopa County (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Montezuma County reports zero measles cases in 2026, but flu hospitalizations rise - Front - The Journal",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM0lNQmRPOUpGVmpQbF9PQktRWlh0dUlublFiOTRXVmxpdF9EeGtNcVQ4MzhfeTJLRDZhNFJyQ2VVR2Q5WHBHZk1RMXYzMmtyN2dyR1BOSkhtNm0yTmQ4Y3lzQ0UyRS0tcXFudDMyeE9JSWs4TUl5Uk9kRFZUSTNPQnpiVnp1YWJPRjNLak5ZLUNEQmpCb3B6U01vX1VSQnl3ekNUUi1ETXh0ZjZudTMzcW5OcklseUdNTmpF?oc=5",
       "pubDate": "Thu, 09 Apr 2026 19:32:24 GMT",
@@ -309,15 +309,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "NanoViricides files for Rare Pediatric Disease Designation for Measles Drug - Proactive financial news",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS1Jld1lyUkhjc0tCUkFkYjR0Z2dkQk5zN1Q5Y2s5TDVrNWJWOENZRTN0YjFrSDc5d05xTVNBdFhyUV9rb1NpalNaLXNlVlFZVTdQb0hEWG01T0hvbDFMVVJxSWlJaHhhcUNfb3J1ZjVIck9ySWZqV25qSkJKRTJmMWpOdTdwLW9XaTFZc29UcEFjMXRnU0JkRl9OOERCUE5jdWJrSDl1d2J5LVQtSVpuSGdITEUzMVNXR3EyRk1KM0hZZEwybmJYNmpoTC1sZGpxaXlidQ?oc=5",
-      "pubDate": "Thu, 09 Apr 2026 16:50:20 GMT",
-      "description": "NanoViricides files for Rare Pediatric Disease Designation for Measles Drug Proactive financial news",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles Elimination Status: Why Review Has Been Delayed | Newswise - Newswise",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3l0RFB6T1lhZXJUcnZUVi1nNEdRRlJIWldsOW15ZXNtZDZjaEVDWEVFVS1adjIwTTRTUTBxbTdmaTkxT0RXN2hyb04xM0JpaVhWUzJTcE9fc1NLOE5pRmVlTDdNcVBOZUVKeWhtYVNNRTVNNTM5TlJzN2xEdlJ3QUEyN3Zla2lOQXV5VnJBWEpIZ9IBkgFBVV95cUxPV3l0RFB6T1lhZXJUcnZUVi1nNEdRRlJIWldsOW15ZXNtZDZjaEVDWEVFVS1adjIwTTRTUTBxbTdmaTkxT0RXN2hyb04xM0JpaVhWUzJTcE9fc1NLOE5pRmVlTDdNcVBOZUVKeWhtYVNNRTVNNTM5TlJzN2xEdlJ3QUEyN3Zla2lOQXV5VnJBWEpIZw?oc=5",
       "pubDate": "Thu, 09 Apr 2026 16:00:00 GMT",
@@ -349,15 +340,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdW9seF9rQ0ZpQ3pnS0llXzFMRGJqMklLTUhpNmYtZGQxREtwMnZFUHRaZWVFRldjZi1tbkRSRjVkZElVRlA3RHlNM29vZEZOdVRXN1hldFI5TnNQVU91SVNlM2NfNTR1NGpmVnA5cTNJSVVrSlBOWm1EVDhuOWotdWpDRDZJYW11WXlWRlhzbDczS2hETXMtTGQtM29lLXhsQ2dEdXl3dkc0Y3N3RnZfaHZzNURBUlctVmxSX2dR?oc=5",
       "pubDate": "Thu, 09 Apr 2026 14:35:00 GMT",
       "description": "Bangladesh Measles Outbreak Kills 100+ Kids, Emergency Shots Begin HealthDay",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Two more measles cases confirmed in Weld Co.; people at a Colorado Springs Chick-fil-A may have been exposed - Denver7",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTGZYYlFtMXFIZC1EdzdoRGp2Z2M5OGpzdDNQNUcxNHBiTFJreHVnRTlCSDVmNk9lenBLeFlYV05MbzFRdHJRNXRiWUFPZllvUEZFbkpkMWtLSHNrMFl5aTlrVkYxQmNxcE9aSlJBaHQwMjEzRHRaU1pidWVMV2J2cGlCaUN1NWlXWHkzaGYxbW03TTNIazZyVXBIcTRXZF9RZDRiUkRsWEhwS20wd24xQWNpUTJ3ZF9wMHJNamh0djhSUndqbzNrUlRUaGpITFcwc2dwYXNGemtDcWV0V210cjlkZkg?oc=5",
-      "pubDate": "Thu, 09 Apr 2026 13:33:08 GMT",
-      "description": "Two more measles cases confirmed in Weld Co.; people at a Colorado Springs Chick-fil-A may have been exposed Denver7",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -678,15 +660,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Scientists sequence 1,000 genomes from measles, a disease long eliminated with vaccines - Yakima Herald-Republic",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZkdtWGRHWjJQdVBEZEd5RUM1WERyMFViNGtycTF4cFNzQW9VMC1YcGlzU2tpdjVHeWMyYmNpaG91Zld0UkVmMGtSWjZxdXhvay1zRmFKOEFSdmNheTk5Wl9oekNJUnlpTWVQOVNCRE5ndXJuWWN6a0tRaGNZXzAzeGE2TGZzcjMxaFFfYnlUMjFlWEpBZUdLOHZQa0Q1b0dPR1NIX1JxWjNLLU9KTkRfQUdNMExmUURwLURUWGZzOGxhMkxia2JDbldtTC1ERVlqV1huTHBrWmJSUExNbmdHT1JreHQxOVExYVNfaHg1MldXZVFoVUpGeHl1M0Q1Rm5PWlcwRTVXMXI4YlNQ0gGSAkFVX3lxTE5pQ1Z5Tm4xQzJKTm01MDZGb21Hd3hZcGFmUWxMcUxaNWdPalEzbDQ4SmEydWZYaDNsODhHZEg2NTB4N2xBVEd4cldJOVNkOFVkNXBuLUdFczVGVmoyZ1dkRkVyay1Jd3NoTXBqdUZOR2hfLV95cnR5NXhlZE5ueXo4SFZkZExiRE1PNHVwemE4RWRLMFhPdTktc0h6UkNxN0gzY1Z0VzRvSk5ORjhMN2lRRHFDemdvUVFuMDFNbURtbmtuN29rNV9XbThFZGcwbjNQdEhDVHk3Qkk2VTZ5aFJ0MGRZWGZCVS1CZVBQV0hpbmR5ZWNrSEM2U1AyYV9YbTNtbTVpT2xIUkZ0MnhSeklDekE?oc=5",
-      "pubDate": "Tue, 07 Apr 2026 12:15:00 GMT",
-      "description": "Scientists sequence 1,000 genomes from measles, a disease long eliminated with vaccines Yakima Herald-Republic",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Tuesday, April 7, 2026: Measles spread brings new concerns, school cell phone policies, and beavers in Denver? - Colorado Public Radio",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbFNZQXBwQXdEakN2cmtTV1NWVTlRdXBQVHh5UUZldXZFcGVMQ3FDUmxMM2Nqa2hHSEZ5V2tmdlc2QWFTX25iN1ZzVmJfQ1h6SGwwMTUwV2E3dWRWV1c5QmNEelh0OXFnU0s2d2xETUZQM0FhbmJaQnVIUjZlR1VTS2VBbUdBSkRLU0w0ckhQaWx0UU9sVTZudzZjY1pydVNIdlM2Ym9TeHh3VkFQVkZxSzJoTF9kdkZ6TTNNdGJzRjBoc3NKaDc3TmdCUzlSSVItY2xwb2pvV0o?oc=5",
       "pubDate": "Tue, 07 Apr 2026 11:38:11 GMT",
@@ -696,10 +669,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Latest Oregon measles exposure sites: 2 Salem-area businesses - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1pQcnRtR0REdGR5NjJKTVZDT2lkTUwtMzE1Y191R1o4d19WaWRmbEtXRDZGd2xuNHRUU2xGWWwzcXpoYXA1RHF6ZHBEZnR1S3N5SUZybnNNTnNoMUdxVFphTmNuYzl3WVdOUXBYRkcyamRfTEh6WU5QYWt3LTNLR0NvTURtT09iSFhzb3ZRTVE2dXB4R1AwczJqMERqODRKbWdrYjAzZ3RsMlnSAb8BQVVfeXFMUC1WQlVaR2xSZHhFMDQtNHI1R3dfc29uV29HWGQ5cEdkZUFHNU0zX0ZNbUNuWkp4Z05vWW12Yjl1bHhwZUFybl8tbmpSSUczU1BYQTBhT1NLaEdWSl9vZlktTkJHZGtqMUtFcmR4UzFTV2czWnl1OWxORzJFaUVMLUx1cE5kN1NfWm94cmxrV2dVZmEwbTd2WWx6eHQ1bjlCVWQ0VmpSeVVkMWItSTUzekJVVlA4aDlYWjdFUUhNT3M?oc=5",
-      "pubDate": "Tue, 07 Apr 2026 00:07:00 GMT",
-      "description": "Latest Oregon measles exposure sites: 2 Salem-area businesses OregonLive.com",
+      "title": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMnZYXzgzTFFCV3NwczJoNlhzU1RWT29QMmdkeVB0aG1QYnE2VG12OVRKMm5CdjIzOFZTczFnQ0FUOHBIVWY4U3o0bWtPRnV0N051LXIyQmVPX0gydjhCWVlHYnowNmh6eWhMbEdVbXVMNE4tY0tCZ3ZOaXNYX1pDV0llWlNhamlqbDY0VDhUMXVWSlE5bHNSOXE4TUR2dF9iU0hV?oc=5",
+      "pubDate": "Tue, 07 Apr 2026 03:03:00 GMT",
+      "description": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children AP News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -745,6 +718,15 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpVmZSQURqQWV6czMwMGNBbXd6UWUzcmV5MzRzV3BrUzFwUC1uSDVLQzBqNHJERmdlUm1KSUpBS0l0b0twYkNfLUdPM0FxLXhFc0tEUm4wRmU0Zw?oc=5",
       "pubDate": "Mon, 06 Apr 2026 09:59:40 GMT",
       "description": "Measles: Why Bangladesh is seeing a deadly spike in cases BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "measles - Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MTWF1WnlQZ3pzaVBoUkRqb2VJZnNuT0xKcGdSRExEMzRFSWNHa3RlRG9nNGlYTkhvQnNXS1NldUNtdmppa0VaZHZLbFZPUVJPUTIyTw?oc=5",
+      "pubDate": "Mon, 06 Apr 2026 05:00:00 GMT",
+      "description": "measles Britannica",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
