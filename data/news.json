@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-04-10T20:20:10.524Z",
-  "itemCount": 71,
+  "updatedAt": "2026-04-10T21:21:52.765Z",
+  "itemCount": 76,
   "items": [
     {
       "title": "Too young for MMR shot, babies become 'sitting ducks' in measles outbreaks - The Daily Tribune News",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVXNYQUJ1R1BQdTVfSUlGd204bjZCOUFtbGc1SVJQZTd3bWsxd3dEN3ozSlNRelhjWlFjSTZUWTBGRmFLRnRtNDktWnRfOUlzenFJeVU5LXEtWWlyeEZlUDNCeG1HRGF1RXhyR3dhdVNzVHdDVl81Wl9rR3RNT3EtejJKVncxZXB2Wm92NTlJc29sMzdONG4yUGx5NDR5MXZ5MGtCcmVlZ0g4SFJxN25CZ2RkQWF1RzJIUDY4djd0Nk5LeExMZUk4cS0xZmtTeTJDQUJ1TU8wbWlWOUI0UFI1NWNwYzJ3TTN5cTctZWpHOUlFcW5jVVJGWWx0Q0l6UFdLWG44YUxn?oc=5",
       "pubDate": "Fri, 10 Apr 2026 19:30:00 GMT",
       "description": "Too young for MMR shot, babies become 'sitting ducks' in measles outbreaks The Daily Tribune News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles threatens babies in the US as community vaccination rates decline - Shoreline Media Group",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZlVGNmxDQXJneG1Eal9tem91Q1RzcDRfdEhOb3h3djQ3RWxyUjdsTTVZOFZUZW41WEdlUXBfVF9Gd2RxZXY1MkEyNUYyTFFJSnF6ajdaMk5NeHpISDU0akwxVEw4cThISDFyR1NRQ2p2VVFCb3VyQlBUYUJick9iMTMtdTQ0QndIY3g0QzhzYjV6LS15Q2t5VmZIN0g5eTRTaVMxb3lkbU5EUzVCNm9zMTlxemluS3JfUXVuaWJZNlA1Y2VBbS1rVExQSXhYMlNELV8zZHJ0UkxIeGdrOWxtODVlOW85cVd3U3paX1RzMEJOVUdQamkxMkFoZVNDaU5fUmc0S1ByT2FzNkgt?oc=5",
+      "pubDate": "Fri, 10 Apr 2026 19:24:13 GMT",
+      "description": "Measles threatens babies in the US as community vaccination rates decline Shoreline Media Group",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -30,6 +39,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Why is the US seeing over 1,600 measles cases in 2026, the worst outbreak in decades? | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUHg1V2Rhbm41RGViQ2s4Mkp0SGxmMGxKMzc2TUJ0N19NSVl1Unc4TDBWRUJNVXJUX3Z5Nnc0ZWx3WnB2cnFXZ01IMVZESnhDYjN4VXQ5ZDlhTmFSN3ZrdHdyamFHMTF4WUdITWR0d0s3QVVkck8yRHphUWhIZVQtaWJMSUlwd1hqRC1vZDB3Y2FfOUNRTUJFX01NVEZHR1JUMXhoUDBScnJUX3Axd0JBWmFxTzF5cWxETTJQR2lkbXNfdV9RNWpqdXdYTDE3dTBGY3NFZmZsSGJVX3lfSzc4TVNJREdwWEc2T2fSAe8BQVVfeXFMTUhnUjRvWktMdnB6YU1IaEh1WTBUSWxCMGRxQ2VWVlhNMFBBdERfNUNvd0Z0aUFta0o4Qkk3OERoYTI5dnJLOEw2YTVtVUVUX0txc05Qb25FeGlvSW0yVTJMTWZ5bVJFMUVjcUd0T2F4cDJQV3drSnd6VHJYejVwcl9iUlNvZTF0blFaN1ZfcUg5MkswbGMxRmlSZUZTWVdReUVFUVNFVm0zRzdyNV9DLUstdDh2MVlFZTZkeG44ME1TRU5fb0JReW9FalNNZFZvUmpoRWVMTXJZYkMxS0xwTkVkcnNwbXVOMGZ0OFM2RkE?oc=5",
+      "pubDate": "Fri, 10 Apr 2026 18:31:45 GMT",
+      "description": "Why is the US seeing over 1,600 measles cases in 2026, the worst outbreak in decades? | Hindustan Times Hindustan Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Mexico’s Measles Outbreak Accelerates Despite Vaccination Push - Mexico Business News",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbkZzTUgyemtKdlBGd1FTbkYtU1EzZXNDY0w1R05mR1dSMkZ6cmpiSkREVTNTN3hETUwtMlRPYkx4aHROUUE2anB4OW5vQ2VLbGdJS1IzT1M4dmVrcHNQNGZRREY4eXZmcjMxM1Fob3pnLTNIUTFFdXpvWHFoWmhhc0F1QmVTZ096VEx3aFk4bDloQ28tc2EyV2xRdFpaVFNLSEhN?oc=5",
       "pubDate": "Fri, 10 Apr 2026 18:30:00 GMT",
@@ -43,6 +61,15 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUdRWEZiS3JOSlhNZktBcDliY1VWel8tdFN2TUtaMHlweVZDT19URTBjT2RLUl9tX2tuWFhQVzlEdDZRMW95TGlOR2hRdW96ZmVKNW1jeGxqWGJTQk9OM1M4WTc5QmVfSm1RY1k3d0tFVHhDcWJRZld6eldrU09RSU9iS2E4R3NmVHh3LU85N3lxZU9jOEhvYzk2MHhxN2VtYlYyTjJNOFlwUE1ZSWRPUUxoLWhDVk0?oc=5",
       "pubDate": "Fri, 10 Apr 2026 18:30:00 GMT",
       "description": "Too young for the MMR shot, babies become 'sitting ducks' in measles outbreaks The Daily Progress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Too young for the MMR shot, babies become 'sitting ducks' in measles outbreaks - Montana Standard",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGhCdWN5VEVreVZ3NDY3NmJfWnFTMTZLUXd1LUNIaFcyTmZkTmpMeWhtak5KaVlBTUJJTkEwTjQ5TjNSdE95UVNGM1Z4Rkl1NHNOeURGUlltOUpCZmxnUzNWN3g2em9ObjdUWmo5N0NSa1VWbDBmNFp0TzZaeUtoa3F6RUpJQkxuUHNqMFBsLVdSWFZzM18tOGRkTTlUVkxELUhIY1Jrb1kxa0s2dWVmUnpEMA?oc=5",
+      "pubDate": "Fri, 10 Apr 2026 18:30:00 GMT",
+      "description": "Too young for the MMR shot, babies become 'sitting ducks' in measles outbreaks Montana Standard",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -151,24 +178,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQVpQZXJQdjl5aHhNYzBQRDlOM1RTNUpsSFE5VHhob2lNRzg2X0dOejVVS0dnTEIzdXRTM1FEcmtacG9OUDI5SFYtNlJ3NWtnZl9aVVE3dlF5WUhJcXdobkRvcEwwWTBWSHM1Z3FZUTYwOFJMZUJhN2tMd3ZZLU9ud19tVkpTMEVubjQ4OFdCNkpNc29oTm1RQTNBT01lNjZZYVFmZmF5R3N3TGlza2VncWhmRUpFNk1XdzZzaVd5bkhFZw?oc=5",
       "pubDate": "Fri, 10 Apr 2026 18:30:00 GMT",
       "description": "Too young for the MMR shot, babies become 'sitting ducks' in measles outbreaks Wahoo Newspaper",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Too young for the MMR shot, babies become 'sitting ducks' in measles outbreaks - Ravalli Republic",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWEtmVG9ITVh3dEZMRDVNZFU5bUJwdmR1a3ZwNWlHUGh1Z2VKd1U3RGtLUGRMSmxBSFJXUmMyRlQ1Q2pBQWNhX04zQ0h3RHRPOHliQ2Z2X0RZNXFLNlY3bmx0OUtwWF9RaGhZQmtIQXhjUlVZZVJIcG94VVYzYkoyTmFZOWZ5WFJiTmlIQy1JWm1VMEx1cEVVVzNvWE9UMlM2czc1WWFUWHM0c2xfdDdUSTJEa0w4MmFhRGc?oc=5",
-      "pubDate": "Fri, 10 Apr 2026 18:30:00 GMT",
-      "description": "Too young for the MMR shot, babies become 'sitting ducks' in measles outbreaks Ravalli Republic",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Too young for the MMR shot, babies become 'sitting ducks' in measles outbreaks - Kenosha News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMjBxclo5eGllWEhMWVBYTmYwVGU1aDVJSW9wWGV3dkttTzkyZXJ1eTVFV3lab0JZNzgxa1BXN2tZTTJ3b3JoeEE1MVR6ODZfaWZqMGxTRHEwVUtLbTdHektjdzA0TDNxU3JYYlFMN2syUjhNb1UwZE5YdFNiN1RfUnV3enljbE5QUzQ0M282V2ppazBHT1JxTThfNlpOVlppWFd1YVQtMnYxSWlSSkc0cFBLX3M?oc=5",
-      "pubDate": "Fri, 10 Apr 2026 18:30:00 GMT",
-      "description": "Too young for the MMR shot, babies become 'sitting ducks' in measles outbreaks Kenosha News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -309,6 +318,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles threatens babies in South Carolina and the nation as community vaccination rates decline - Sioux City Journal",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdWI3Y0NfNm9PWXdKNGlFVk11SjNRbDF2cTJqcnd6WnZkXzY1a0FUbWg5TDZONExaQVFfWV94RnlTZl9KOWJzaU5yN2U2VHNjSGlKcDBRSmtGU2pPaUZDV25LeEVIcUJoNzFycHFOTFRlQzVaSGVQZktsS0lNUnRKbmNERzRPZnhUUzRURDUtbVAyUGd3RkliUV9lQ21JeFktQjhmQTRUMVV5LXZsLV8zLXkyY192TS1T?oc=5",
+      "pubDate": "Fri, 10 Apr 2026 15:45:00 GMT",
+      "description": "Measles threatens babies in South Carolina and the nation as community vaccination rates decline Sioux City Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles threatens babies in South Carolina and the nation as community vaccination rates decline - Lincoln Journal Star",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVl91cElBdTNjazR1Z0NaTUlrT2RSei04UkRnQUl6TThKZTk2WDZGWlBHZndaLTdybi1TY0V6N21TakxrUFg3dkZoRVZwaVlHUjJrRm1xYjl2Tk5MQkFBdHFuQm1UZWNiOXdNS1g2bXZtSjZhRkRZSXVhZ0tCeDN3bXh1TXY5NVhBdU1pZjR3NjduRTFGQTNxMmpRZWxaYlpIdHc3dnVIMVZ4b1RPWkpJNl9B?oc=5",
       "pubDate": "Fri, 10 Apr 2026 15:45:00 GMT",
@@ -322,6 +340,15 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRWZ6Z2FNQUlpamxhSjJYN3VUQ2dxVmRsOXRuOUkzTUtKYUk5QjdtcnpnZ1MwMTlGNE9oUEV4aTQzSTRWZVB3OHZ1UHBhakpWa252c09PMi1yWnBSSVJiLUliS3lWQm9pMkNXMXZIX2x4ay1zLUdRdU1IZWdzdkg4akZubnpoMlVtRUxDS3lIWi0wMjktVkJaZDVaRGdjWWVjT2dLTWs4M1JuNUdTbTRZcWZ2OA?oc=5",
       "pubDate": "Fri, 10 Apr 2026 15:36:00 GMT",
       "description": "Measles-Babies Channel 3000",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "‘The risks are higher:’ Children’s vaccination rates in Mass. steady, but cracks show in coverage - The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWERrbzBJTm5qb1B2TTVSaW5XWVhVcDYxTWRQbFVBQXdVZll1cTczdzhJTUs0LXViOEM0VG5ieFVDM3J0d1BhWDdQeWZSSlpOVlY3UHF1WWhaMW1na2FnUlpGNDBsWi1ZSEF0ZEVJUi1jdmlmLXg2b08yVHE3aFdQbGZQak1EZTVlNmlqRmstcDZ5R25DR1NvTmQ1amhFUTFUNjZ2NktpbWtpdldTTGlBZnNMTGMwSVVs?oc=5",
+      "pubDate": "Fri, 10 Apr 2026 15:23:45 GMT",
+      "description": "‘The risks are higher:’ Children’s vaccination rates in Mass. steady, but cracks show in coverage The Boston Globe",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -372,15 +399,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Utah Measles Outbreak Spreads to University of Utah Campus - National Today",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUswSms3Nlc4VHJiekN2bEtWUll2UTRjdGZOdlVMWFZBczl2b1lYUmIyVWl4c3MzNC0zb1RRY2o1T3pNVExYeDBVS1g0V2t0LWVaZ1IwWXJQYU5aQVhuSzktOHRsNG1kdmh1Vm1YcHVZRTlSRklxNVk2aUJUeVhwRVgxZVA1b0hrZnpUVDVJRm5UTHprVFlsdTFCcWRMMTBnTEYtaElKc1ZlN05lZWp1aGJiS2JhUXRuNklLdW9MSQ?oc=5",
-      "pubDate": "Fri, 10 Apr 2026 12:07:50 GMT",
-      "description": "Utah Measles Outbreak Spreads to University of Utah Campus National Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "H.C. Wainwright reiterates Invivyd stock rating on measles program - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX0RVSUZwTXZmSVNFMVdyWlhvOEFVbENnTzFMRDVnZWpsRC1mbjVfdVFvd0RaRmUyOHlQNENIYmRvV3FWTEZmYzNTMDR4RkZHWEpsclBBNnNaRWRodkRFOXVHdE9EUFVLblpuT3c4am1TTTBIak5YTmhCNWdhN1JsYVMtdTExZEcyS3o1NUJaNkdmMkJacEktQUlwc0Q3OHJSaGJtU1BWY3FVNTlYaXpXOWEtalBjSGwyUS12alVKOXowZw?oc=5",
       "pubDate": "Fri, 10 Apr 2026 11:42:50 GMT",
@@ -394,6 +412,15 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV09RSHZ5VTI4OWc3b2MtNlY2a1daLXFjaFZmSWJMOHIzZkdpbVBEZHhYeHlpWklpWkt3WXg2cmV4NzZ5MDZGSGY0MGJRM1VaV3RKdERVYTdKVVdVVVBFT3psZF9UeWpNd09iV3BVcGhrS25NY2JCa2hfanp2VDF2MzBHbWZsSDJlMzM2QncxV0sycHlsOHBnQndLWTBWaU9EdlE?oc=5",
       "pubDate": "Fri, 10 Apr 2026 11:32:32 GMT",
       "description": "Measles is spreading in many states, with 17 outbreaks this year WKRG",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "AM Roundup: AZ leaders talk ICE facility overcrowding, Ian Mitcham found guilty, Queen Creek measles exposure - ABC15 Arizona",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONTlCZEc2OG9OQ252UnRJUE9wbUtYeVdfNTVqWW9zNVhaOHpRLTBpWk16a1Jqd0h5NEFJLVVaRnVBUjNIUHFuS3BCUEd0YzV5NlFmVXNkemJzOWhNNTNOTjZVMlJkVUlFSGUtTHhfOGptVXdqVkNGWXlkUmd6dk91RHZLcm44ck85ZzRTeWRFVVAtVnZ0MHpaTG02OThNMm5TcVFXZFFjTXRibXREcnFqZTBmT1hObnJhNnQ2YnRqbzl5RnhPNmNRTlBwSVJwbnpKcHNzbGViYzBjRDc1?oc=5",
+      "pubDate": "Fri, 10 Apr 2026 11:19:00 GMT",
+      "description": "AM Roundup: AZ leaders talk ICE facility overcrowding, Ian Mitcham found guilty, Queen Creek measles exposure ABC15 Arizona",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -426,6 +453,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles is spreading in many states, with 17 outbreaks this year - WSPA 7NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX1l3cEJIVzR1Zk0wSXhzMm1NNUd0Yk44Z2VCUkZqeWkzdGRuUUpPMkdIempSMnZYaENMWE51R0Y0eGMxTldIZjBpdEp0TE9IMjkteXBxQ1JMZ1lWSW1LaDJITTF3cUdmWUhpMDZneVQtSHlCYTFHMTBKU1lUck13Mm82ZlBJMFh6b1NWRXM5MXpfUVFCLWIyejBlOFRhbXFfYVE?oc=5",
+      "pubDate": "Fri, 10 Apr 2026 10:01:00 GMT",
+      "description": "Measles is spreading in many states, with 17 outbreaks this year WSPA 7NEWS",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles is spreading in many states, with 17 outbreaks this year - WFLA",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHF0LWRpd1llbS0xTXVqNGVLS1RZZ2h1OHc0VXNJYmFzWkpoRnd5WTAzUThYRlh1X01TQTc5R0xDd2ZjLWFoSTRnSVNWS1BwTDE4RndZLTBWMGNVeVVxVW1JZlpXbGFNTkNLN3ZSNzFVX2ZIeFBuQWxCNms2VEloamNmQXpaNzRqSk51MGpWS29ZX1dRNGpCc1NjV2I0MU9iN1E?oc=5",
       "pubDate": "Fri, 10 Apr 2026 10:01:00 GMT",
@@ -439,15 +475,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeU5QeGRiRlNFZERYX21NWEdHaUhVbS1lb0FEWnBTQ0dhQkNGbFRWNlRUYThWMldFdU5pdE9kRUJVbS1fQVZFNXNHN2NWdE9VWVAxTW40OWd4bkVXU2VSNlRfRV9rbjVrdUxXdGl6TnBOdm5CRUdOZDRpQzAzQkRHUE1BX3JRWlpzQTJaRDE4RlFKNXhDLUJLMHd2cGM1UVN0RDhqZGJHQjNncll5cV93NU80UHdWUlFUdlMyRENXbkFrc2tKdDZUNWZJb1MwLUZCcTlzaFRMT2ttSmt1SmJrZER3?oc=5",
       "pubDate": "Fri, 10 Apr 2026 07:41:20 GMT",
       "description": "Vaccine gaps fuel Bangladesh's deadly measles crisis Caledonian Record",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Vaccine gaps fuel Bangladesh's deadly measles crisis - hpenews.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONnM5MWQ3amVXd1d4N0JMQ3dUR2NsbDQ2OEY0UzVrb1EwTU5lSWotQ0Jtclo0QW8yYmdNcHY1UXp6em1LYTJaQm8xWUR6a2JzQkIxMFpwOWdnUjN5R0xUR01BN1czMElLY0JnY2w5N3hUQl9RQ0hyRWxLYWJUbThnYmVITjZFblViTE5OSndHTmxkT0Z2VkVrcFhJNUZ1bnp1OHZmRHlyamdNWU1MTlBTR3NQLU5Ea1BwMVNhQ0VXNC1xUGhhWXZySmY3MEtPZTlrSDBxb0Fn?oc=5",
-      "pubDate": "Fri, 10 Apr 2026 07:20:26 GMT",
-      "description": "Vaccine gaps fuel Bangladesh's deadly measles crisis hpenews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -590,7 +617,7 @@
     {
       "title": "Maricopa County public health officials confirm measles exposure in Queen Creek, list locations - ABC15 Arizona",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYm1IbWt2LWxyeWFUX0pKYng1OVlUV2EySDVTc0Nrd0lsODBHUVhManNTQXlmS21iVGNkQjV6c2czWm9QRWpmNFBReXdkdXp5R0U3MWFMRFVQUnZjQUNTS0hBQlNaQURHbXE3ai1iaXN3UG1oSWNIR3BGcndrSXhLWjlYVlVKMHctU01SQkFRRG93TnpYS0FsUWZnTmc4OEczQjQ1b3NVQnI1NHQ4ajVLNDR0RUdPdw?oc=5",
-      "pubDate": "Thu, 09 Apr 2026 20:09:00 GMT",
+      "pubDate": "Thu, 09 Apr 2026 20:11:41 GMT",
       "description": "Maricopa County public health officials confirm measles exposure in Queen Creek, list locations ABC15 Arizona",
       "source": "news.google.com",
       "sourceType": "news",
@@ -633,10 +660,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "At Least 100 Children Dead in ‘Alarming’ Measles Outbreak - People.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNRVZ2cnZBOEthS2ZUNDN6Qm5kbFZPWW1EeGNqNENOU0x4Y0xvZ2JYZjJsY1E5cHR0WnlCY2MzSVpmMWFMaTBkX2FfWWV4c1o2Q0wydl9iOWJSWWktdnNhTVhkSUVNWENSc1lKVnJ4ckJrZ1I5bW5rYw?oc=5",
+      "pubDate": "Tue, 07 Apr 2026 15:30:52 GMT",
+      "description": "At Least 100 Children Dead in ‘Alarming’ Measles Outbreak People.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles: Why Bangladesh is seeing a deadly spike in cases - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpVmZSQURqQWV6czMwMGNBbXd6UWUzcmV5MzRzV3BrUzFwUC1uSDVLQzBqNHJERmdlUm1KSUpBS0l0b0twYkNfLUdPM0FxLXhFc0tEUm4wRmU0Zw?oc=5",
       "pubDate": "Mon, 06 Apr 2026 09:59:40 GMT",
       "description": "Measles: Why Bangladesh is seeing a deadly spike in cases BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "measles - Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MTWF1WnlQZ3pzaVBoUkRqb2VJZnNuT0xKcGdSRExEMzRFSWNHa3RlRG9nNGlYTkhvQnNXS1NldUNtdmppa0VaZHZLbFZPUVJPUTIyTw?oc=5",
+      "pubDate": "Mon, 06 Apr 2026 05:00:00 GMT",
+      "description": "measles Britannica",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
