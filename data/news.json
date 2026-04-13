@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T01:01:44.190Z",
+  "updatedAt": "2026-04-13T01:47:10.660Z",
   "itemCount": 65,
   "items": [
     {
@@ -16,6 +16,15 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMEpJb0JYb3Bmc0lya2tLU3VaWk13OE5XLXVpTVZ3VEoxUGE0djdaemZrXzJZOWp2WXl3T2pJRG9xcW9MNnk5cWY5YnBwLTJGb1YwRFFTWmxTc0R0aF9taGNabE1vWTg1Wmo3VWYyME8wMnZqVmh1YjludVdlVkR2QTlvckVQRjIyR1p2b05PVENKY1J1eUMwX1JEQktFRHExd2c?oc=5",
       "pubDate": "Sun, 12 Apr 2026 23:21:53 GMT",
       "description": "Measles is spreading in many states, with 17 outbreaks this year KXAN Austin",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Vaccination starts in cities, 151 die with measles symptoms - Newagebd.net",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRnlTdVExYmRDcjYtZTVLZUtZRjkybGFmRDF3TTgyWC1SY3hoNEZmeWdRY210aVdHQ3RlRk1Md09KR2RINEtvbEpXYXhIRHM1eUJNR2kzVU53X2tOb3BITU55ZjMyaXh5SEpxZ3NWcUFua1JjTEdSREg1dlNxTW5DWmhzOWdzQkU4WWdVeFpwWjgwRjNwMkZzaEJTYkxpR19paDgxQ0xn?oc=5",
+      "pubDate": "Sun, 12 Apr 2026 19:02:49 GMT",
+      "description": "Vaccination starts in cities, 151 die with measles symptoms Newagebd.net",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -88,15 +97,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcEd6UUFld0NSaE43TEFvSDIzTTY3MXI4XzZLMWp4QXZqXy1pNFhuTFN3eTRzWGYwWHlMRXJ4cEtZalRuRVNSU0UyZDFDYm91RXhrMFlOU2M2SHk5VFZjS2xrN3J4dFJ6UGF5bFBhS0FmZDhQajdHQlR3UjZtaGFsdXdwa1V5V2t1Z3h3YndmdHFGckFkU2oweHlYanEyOTFaSVE?oc=5",
       "pubDate": "Sun, 12 Apr 2026 07:55:06 GMT",
       "description": "Bangladesh Measles The Killeen Daily Herald",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Bangladesh Measles - The Herald Journal",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVHVXcW91Q0U1eWNYRGlpSVJsT2o0Tk5kWm50cGppRlRWQWJKNm9ZYVUtbloxdUhGdmF4cW5rMHBLaFNBTFdYVkJmM2RtSDN5MHJVUzlmNTZSLWpoUlFybDJEUGhUMTl4OHZJaHl4TkdGVjVpN0hFb3pQbXFvaXNiOFo1NXBCSGltemFVSUNtajNLTzY0S3ZvN1N1cw?oc=5",
-      "pubDate": "Sun, 12 Apr 2026 07:55:06 GMT",
-      "description": "Bangladesh Measles The Herald Journal",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -318,6 +318,24 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Utah now ‘epicenter’ of U.S. measles outbreak - St. George News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkU1T2pYaU15WTlISEV3d2VfenQwbDNWM1YxVXdXVG5KcHM2c3hxSzhlOTVvbjRockdCWExzcDM0eTMybXFpM2dwVVZYcjFjckRDZ2Rkc29JeE5MOVRmb3dRNVhXeGVuNnNtRWpWQ0NEcXN4Y2RsN1RYMmpyam1zcUdIWWJDZExLUkZzVzctSVNuVzVTM1RBeTNXR29UWDgyRFlsSTZORFpUXzBzNFNETy1Mb3lDQTVMeFV1c2Nvejg0NkRE?oc=5",
+      "pubDate": "Fri, 10 Apr 2026 19:00:00 GMT",
+      "description": "Utah now ‘epicenter’ of U.S. measles outbreak St. George News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Utah leads US in active measles outbreak as South Carolina reports no new cases - KMYU",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnpQSGZfS1dWVGxtUm5zZ2Q1bHZZWF9jTHNjcXBWOWRkRjQzbmlMVW5iMWxiU3k3cktZaVpnSUtSOFNaS2Q2aGFGYjgzM0gya1l5bml1Y2hwekRfbEZMT1lTSUlOMHlSRHFKNkNUZUJpT1dyWjFBdGpFVkRZUGFPRE1DeU1XSVUzbnVvbzZBeEZMQ1p2OVd5ZEQ1MjhjNk9jRHZyaER1dkFXdw?oc=5",
+      "pubDate": "Fri, 10 Apr 2026 18:13:49 GMT",
+      "description": "Utah leads US in active measles outbreak as South Carolina reports no new cases KMYU",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles outbreak continues along Arizona-Utah border - The Center Square",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTFFraGJNZWdhbFRSZkdoZU1UZkl3cUtKZ05GVGQxd1l0cHhhbUFzc2w5V0xielhpVkQ4eWg3a0ZJVlc3ZmhMUTVteE9qazdyYnFlbnFvaTZZZVpRVjFUNlc2MUJMS0k3Y2t6MnRIZm1zZ3lNbGVaamxoeVd3N1M4dlUxbmktZGotUThXbks4RXJUY1XSAZgBQVVfeXFMTUdrSHJJNWl0Zy1ybmNsZHdwSnk0aFlXdlYza2FhXzRibHFTVDRRZFVYYTFzdnVlZFVNUVk4eHFWcWVEZmZHLVFDdFZWaDVNUDFGU3lrTWJlNVludHVCTjRaMlJya0h4OHJGU1ZoYW9URE5PV0JpOGhyTWZYRmt6MlR5akE5bkprOHJpdmJmS19BV0g4NmhzSnk?oc=5",
       "pubDate": "Fri, 10 Apr 2026 18:00:00 GMT",
@@ -331,15 +349,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPanFxU0FKTXNCT0tKUkc1SGNwNnJRSTlBa1FIa1pOUHZrc203Z2hFRklybVpJcUxMT2l2bzZHTHM2MTZzQnZEenNMc0lPVjZDVm0zdWNoS3FGbjN1WjVCZ2NSNER5RVhMaExvcVpIRlBCWDhRWGFqT2ZjMW81djN5RXUyZHV2TG9CX0FUQmFOSzMyMG5XXzlQZlh0NmlMLXRHNkJsWjdoc1FBTkk4WTlZcC1fMktuMlBwQVRBbVFyTXdrV3QxUnRWeE9jTW1iX05PYXNLdFpEdlpxY2ZOcWp3?oc=5",
       "pubDate": "Fri, 10 Apr 2026 17:45:00 GMT",
       "description": "Monroe County schools notifying families of measles exposure policies Monroe Evening News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Utah becomes epicenter of U.S. measles outbreaks as cases in South Carolina stall - ABC4 Utah",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON1hMdVFEQldScTVWZUZ1REtaM2J2UFBrMHN2Yjc1WEtUR1g5M0RnWEZmVHM5RnJuVXMxZUZveWhkelM1U2FrNnBINVh5cHNUQmJOaXN0OTU1RHNJaFNkRjM5d291WnlwZFBHVWlTS3BPbnJXSjVqRXA3SUpNMVpaWDV0c9IBiAFBVV95cUxQMm5UZjJYelAwUThYeFBPVklWZ2gwT21EMUVBTTk5OWMtMzJib0kxUk5PLVQ0UUpUeFVBRlFiMHhmbkFtSzAtQmJGeThYQ0JOYnJqUkFFWGp5XzJNbmpKWnZ0LUduU0VCSDdLS3VRbUpfQjloWHhtN2lZVlhBSEVDVnAzRlRQWFV3?oc=5",
-      "pubDate": "Fri, 10 Apr 2026 17:18:08 GMT",
-      "description": "Utah becomes epicenter of U.S. measles outbreaks as cases in South Carolina stall ABC4 Utah",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -430,15 +439,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2RCaS1iUkFBYnR5ejNja0JqLW5XdHl3Y09iem40bV9YMTI4RVpMcTEzQ3V2X2hYTkFPTEpOSXE3MV93ZVZheVFxM2R0d0ZpbW4xXzFtSk9LbEd6MG5sQVdDQW9kLUJPNlBnQmJKb1praXh6ZDNTV2JrNm0zRUpYNUE5VUt3UjFfSk9HcA?oc=5",
       "pubDate": "Fri, 10 Apr 2026 10:27:15 GMT",
       "description": "Utah Becomes Unfortuante Measles Leader Vax-Before-Travel",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
-      "pubDate": "Fri, 10 Apr 2026 07:00:00 GMT",
-      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
