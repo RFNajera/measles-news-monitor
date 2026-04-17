@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-17T05:55:32.940Z",
-  "itemCount": 89,
+  "updatedAt": "2026-04-17T06:52:14.419Z",
+  "itemCount": 91,
   "items": [
     {
       "title": "Measles: Maricopa County confirms new case - FOX 10 Phoenix",
@@ -25,15 +25,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdC1DSW91Vl81Y25ubUdJNm5Rb1REUHBLc2Ytb0pBbTdZaTNoSkpoeHo4RFRrd09FeXJuZ0FNZVBkQ040VUs0b1k2OExINW5QREpGUGJXaElvdmp4SmJGanlDMTZfdjBsU2ZwV1BES1QxUW9iVUJIbFVVZ2k1cmltSTQwX0RMc0lWWG5FeDBKUi1xakFmOXd5R3A5dGVMQmJZd0w1SDFoUGp2VzlIOHNGMy1TdnFOZGwwQ1NkTEU0emU?oc=5",
       "pubDate": "Fri, 17 Apr 2026 03:09:58 GMT",
       "description": "Sixth measles case confirmed in Maricopa County; possible exposures in Queen Creek and Mesa AZ Family",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "RFK Jr. faces barrage from Democrats in House hearings - Axios",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcmdjUmQ5ZHNiRFdXVDB1ZUxMenpOZmZGQk5ZQXM3cTM1eXU0ZWJqWFNXcUxLRExmRjJpM2VwZmNNVW00Rmw5SVRsblpYZHUxTzJWYVROZkxFMnhGWTIwQk1lWnpzQndZdEhPS1ZpZWVURzk5OUhmLUFndWpZc0I0cVhYT1U3UnJhWThsWVFNdw?oc=5",
-      "pubDate": "Fri, 17 Apr 2026 02:41:09 GMT",
-      "description": "RFK Jr. faces barrage from Democrats in House hearings Axios",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -102,10 +93,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Exposure At MHCC - JAM'N 107.5",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yS3JCUVdxTi1vaFNQSHNVOU1tTTlPSjhBMGFBZ1dIa1dTaTN4VmtsMDhZNmh1LWltWjBvVDg1dkdkOUJoUnd2ajRHNEpLaG4yV19pd0RQYkVycTUtdjd4YmtsaTFNeHN3aVZDYVhVMDNSbE5TSGJSNHFVVUs?oc=5",
+      "title": "Measles Exposure At MHCC - News Radio 1190 KEX",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41UDdHSkhPTm5Dc0Z0MzBlUTc1UHZzNm1mUFdCSnBoRmpBN0pKdDBVemFvVkw4V2tLSTdvZkU2Y0xWVHJkRGQ2S2FHUkRSS1diVzBEWl93di1EemtSUFlVZkZiMTQ3SkxMOGxUcHFjS0s2WXIwVVB1TFJnZ9IBgwFBVV95cUxQZWdub0ZCajlfZDFDQWhyaUZkdzJDRWZxOUVyc1ZXMEFZTWktRXE5UllHTzludllpNFZER2M2ajFaTnBueVNWdjdMdHU0Yzc0c2lNWW42MlZ2VDU3b09Fb18xM2Zla2c1X1RLYnJEQ3pYc2hGaWlibHBIQ1Vfak84Z0tPTQ?oc=5",
       "pubDate": "Fri, 17 Apr 2026 00:48:00 GMT",
-      "description": "Measles Exposure At MHCC JAM'N 107.5",
+      "description": "Measles Exposure At MHCC News Radio 1190 KEX",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -219,6 +210,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Utah Becomes the New Center of U.S. Measles Cases - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hQ2dXa3N6TG9ZVTdISUxDRlpYWjVvQ2R1WUN3QTc1c2NIdkc3bGQ5MTFqMGNqTXhUdXhwNVFKQVBQYTBKRENOeGlObm9zZ3g3LXpmTDJEYVJIM24xTEI1bmNZWXQxVTVhdjRlMDFtSTg?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 22:42:01 GMT",
+      "description": "Utah Becomes the New Center of U.S. Measles Cases The New York Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "New measles exposure site added in Maricopa County as officials confirm sixth case this year - 12News",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPckNua0dldUtIYzJORFNfQnBmejljbVBlUlloOEJQbVhzY2JXZlBsOUNsdklJOG9FMW9ic1F5ZmZTUU1aS3NTUE54Sng0cTROdFNiN1NyQWhtZW11ejVyMjNQWXJPczNJaFJoUXpxTndkelJENThqNzJWR0k0SmlyX1hKdDNjM0xfN3BzaUQ5dEtPb3BZSnQ1c1RLV0ZxQzJ4UWhQUUdPRF9YMnF3dkh5OFRMNE1TUWZlU2txb2dfamgwWXROSFNj?oc=5",
       "pubDate": "Thu, 16 Apr 2026 22:39:00 GMT",
@@ -264,19 +264,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles case confirmed in Grand Forks County - The Flag - AM 1100 and FM 92.3 WZFG",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZkVRRFRseHZXeGVrLVZ6LTUwSW1Vb3l5anBMWW5XbXNhSF9lM1VEeG1PUk5PN2ZKdHRqcXNISHU0M1VBRzg4dlBVZ0kwelRvWW4zczBJVDdsbTlKdmNkQi0tYUxmaWxYV1ZYMER1V0RwWkgwNTliQ1VSODk5bW9sMVRZcXdBVkU?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 21:54:07 GMT",
-      "description": "Measles case confirmed in Grand Forks County The Flag - AM 1100 and FM 92.3 WZFG",
+      "title": "Maine avoids measles outbreak after cases popped up in February - newscentermaine.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNHc4bjhWVHFfTEw5OERrRTNsaTIyWjNrUU5kQkR0R1daZ3RwOFRrb2FCaW9wUU43Q0taM0dPXzF2RnhWekYtazNHSFRYU2UxTTVwcWljZmRMMzFvcjkwQkhEUGJNOGt3MnZkV19VWVp3cTQxYnJQcUJQZ01zWEJOZjBoMnpQUFJEc1RGbFVaMmh0dHc1SjJQRmFQMnV0SVJzNFdEXzlyOUdidTZSVldrZFJMSjFqMERoMG1vNGVEZE9kYkprYmhPcmIxN1JOaTNFT3ZOY0VjbjQ?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 21:48:00 GMT",
+      "description": "Maine avoids measles outbreak after cases popped up in February newscentermaine.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Maine avoids measles outbreak after cases popped up in February - newscentermaine.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNHc4bjhWVHFfTEw5OERrRTNsaTIyWjNrUU5kQkR0R1daZ3RwOFRrb2FCaW9wUU43Q0taM0dPXzF2RnhWekYtazNHSFRYU2UxTTVwcWljZmRMMzFvcjkwQkhEUGJNOGt3MnZkV19VWVp3cTQxYnJQcUJQZ01zWEJOZjBoMnpQUFJEc1RGbFVaMmh0dHc1SjJQRmFQMnV0SVJzNFdEXzlyOUdidTZSVldrZFJMSjFqMERoMG1vNGVEZE9kYkprYmhPcmIxN1JOaTNFT3ZOY0VjbjQ?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 21:48:00 GMT",
-      "description": "Maine avoids measles outbreak after cases popped up in February newscentermaine.com",
+      "title": "RFK Jr. faces barrage from Democrats in House hearings - Axios",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcmdjUmQ5ZHNiRFdXVDB1ZUxMenpOZmZGQk5ZQXM3cTM1eXU0ZWJqWFNXcUxLRExmRjJpM2VwZmNNVW00Rmw5SVRsblpYZHUxTzJWYVROZkxFMnhGWTIwQk1lWnpzQndZdEhPS1ZpZWVURzk5OUhmLUFndWpZc0I0cVhYT1U3UnJhWThsWVFNdw?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 21:39:25 GMT",
+      "description": "RFK Jr. faces barrage from Democrats in House hearings Axios",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -309,6 +309,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles case confirmed in Grand Forks County; Altru ER listed as exposure site - Valley News Live",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWjBYOEFyVzB4NTM0QUVPU051WXB2RmRnRjROSzVmVWF4ejlsS2x3ZmFwMGkxMTAtMEFTVkRoLXlabDk4UGNRcjNCMkZwU1ZOR0R6LTVPOXNwVkRhY1VvLV96RlhfY0g1QU1ucG84bXozS2lLRFNNQVhmSWVMR1pNT0hJVzY0SmdjNDNibVFwRTNOaVkxbldOaHMwVFpYM0JiMmxwWGE4SzZQeGV4TDBxLUdSd3fSAcgBQVVfeXFMTm5pZkV6bXVUVlJxMXk2Nm1hVC1EOVVLenIwWU5RZVFkUFB1MTZzNl9aRFd6WnNSQ0RIOGZlVkdBRTNBY0ZFblg5bHd0UEhhTEdCUVU5eHFTSHZzZ3RCTnN5N3dhRFNRaU1jU0JlSkRxV2pJa29OQWtGQUkyVGNmSkNBczNMYTNTckNEYTlleFVfTDFsMHVGVlU2QlVDWURGVjFfQ2xpaWdhR3dWclExRlFNX1JCeUwtT1dkOERkVDJhRnpOZms5Vmc?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 21:19:00 GMT",
+      "description": "Measles case confirmed in Grand Forks County; Altru ER listed as exposure site Valley News Live",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "As Measles Outbreak Grows, Michigan Physicians Urge Families to Protect Their Children - msms.org",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalViTGpfWlJ6VEdGRmdRU3NwbHNobWVEN013LVk5bFJtTkhJMjNZMVNKd0JQaks4eWdUdTBFODRJY0lIZUpjN05SMGJhOGNUXzdLd0kwM2RSTVpmZEtnczR1MWVuXzAxVlVaeGpsYUMxVGdvNXhEQS14ckJZOWxVbm1MX2tTcWVXT2NaRnU5bkNib2dZMFFhMUw2a0lQdVNpQ1c0Q3VDMW8?oc=5",
       "pubDate": "Thu, 16 Apr 2026 20:49:44 GMT",
@@ -327,10 +336,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "RFK Jr. Faces Congress With Plans to Stay Mum on Vaccines - Bloomberg",
+      "title": "RFK Jr. Faces Congress With Plans to Stay Mum on Vaccines - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRC0wYTlIV1FqUEZKVnJya2xkWkt3MUE3Vk9kU25yVjZpenRGV0dzbHFZZlc4Qkw1QWROaVFUSUdVTThrTFFPR1RzdTRudUpJOF9yUFQzS1lqN2ZVUmhoSGhwejEwOEFxWjRkY2RHVzR0V2piSFZlbzdsSVQzM0RUdy1LV0tLd1dxTVJzcmlRQnZIdENheXpYX0FkM2Flc0ZXdUNSanpVODNjc1E?oc=5",
       "pubDate": "Thu, 16 Apr 2026 20:39:16 GMT",
-      "description": "RFK Jr. Faces Congress With Plans to Stay Mum on Vaccines Bloomberg",
+      "description": "RFK Jr. Faces Congress With Plans to Stay Mum on Vaccines Bloomberg.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -340,6 +349,15 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkV3b29vNFM5X1NINW9Sa3Z2angtSHJ0UnpZbm53bl9icFZFbXUyQ1h4N3dLT1BOc2otUTMyVzc3MjZRVUJNY1ZNM0p5a2RBUG1MR1UtZmhzbFJSTHY0aThhLU9OU0ZlSGdDZHN5bjh5X19PSDNydGtGck9ncjBlY2xnZWUzWTlDZl80WEszN2dpQURyZGVGZFp3T3poVzNSZjhScExB?oc=5",
       "pubDate": "Thu, 16 Apr 2026 20:38:00 GMT",
       "description": "Another measles case reported in Florida. Symptoms to watch for Naples Daily News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles case confirmed in Grand Forks County - WDAY Radio",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZlRVZkdybGdsbDhyR2FmYWR6dWYxQUV0Q3haU0JSalU5NTFydzBDVFlsY1J3eG9BZ01qVWdVeURZMEZQTllHaE1iRzh5Mi1jLVEzMGxGY19RWHY4bXNHNEk4bDdseGF5aHdzUXpZOUQ0d24wWHRRT1ZtZGpJTGNvSnlJa1NUd3BfNmF1eF9ReEs1Q0lN?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 20:24:07 GMT",
+      "description": "Measles case confirmed in Grand Forks County WDAY Radio",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -507,15 +525,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Utah Becomes the New Center of U.S. Measles Cases - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hQ2dXa3N6TG9ZVTdISUxDRlpYWjVvQ2R1WUN3QTc1c2NIdkc3bGQ5MTFqMGNqTXhUdXhwNVFKQVBQYTBKRENOeGlObm9zZ3g3LXpmTDJEYVJIM24xTEI1bmNZWXQxVTVhdjRlMDFtSTg?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 13:48:25 GMT",
-      "description": "Utah Becomes the New Center of U.S. Measles Cases The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "CIDRAP Op-Ed: Measles, misinformation, and what's actually in the MMR vaccine - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFM2LXFrdTNJR3RYZ2Q3RmtBYUo0ckhWYjRfck0tYmFsTXlWTDRHYk5TUFFaX25yUVNtTS1LVmRjczViLXpjMjRET3MxbUlIRVlBTkcyb2hiVDFxTVR6SXMzWGRqcm9ESXEwZHg5dG5rcW9IUXVta1MxaV9xcFQxWUxaa0dIVEJobTNJbkcwa29wR245TXBSeDB5UDAtaGJ0b3dz?oc=5",
       "pubDate": "Thu, 16 Apr 2026 12:49:18 GMT",
@@ -673,6 +682,15 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbnlwWngyeW9BQ0loWE9CZi1sT3ktbTBsTVRodElRLTdCQldIdnBwbjgtSVl5SnlPbFk5bHkyRW53MDV1b1p4VHVxa0h5WEljWVhNZGlaRVgtTnhqM3A2clBNRThyTWFPME4xZm5TUFNXSDExWW90U05sWHFCZUM2aGRfX2dILUdQVlFQUFhFaWhnYzlsbU1lMC1pWQ?oc=5",
       "pubDate": "Wed, 15 Apr 2026 12:00:00 GMT",
       "description": "Nearly 20 million lives saved in Africa through measles vaccinations WHO | Regional Office for Africa",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Nationwide Response Mobilized to Contain Measles Outbreak in Bangladesh - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaV9wek5TZ1RmSk1qRGRnbDgzYlhfNkV6ejlNS2tUa1BCODAxd3RFTEpqWTYta0tVdHRkRmlDSXdXSzF2RXZoV2FnU1g4NnZlLWRXazBwdmh1Y1dIM0wySlIyYS01SUFnN1lmX1BVdjZ6akxScUVTTEZsdmg2WkJPNA?oc=5",
+      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "description": "Nationwide Response Mobilized to Contain Measles Outbreak in Bangladesh World Health Organization (WHO)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
