@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-04-17T15:33:11.228Z",
-  "itemCount": 84,
+  "updatedAt": "2026-04-17T16:29:39.043Z",
+  "itemCount": 87,
   "items": [
+    {
+      "title": "Mt. Hood Community College added to list of measles exposure sites - KOLD",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdlJmVUg4QTlIc093RVE4aDdid0d1eC1YVXg1cUtwUTNaVm1HVjFUd0pKMWFMRmZvakNTZjE5MHp0WGZLeUtlZDllSC1FOE93ZjlRRWdWMHVrclN2dlpoWTM5TGtFS2toZWVpSVRUZEd6SzQxRmFMb1FsbjJyMjhtdDlKczBSVjBvM2E3QXBfUEd1aW1jYU0waF94ZzNZTUU?oc=5",
+      "pubDate": "Fri, 17 Apr 2026 16:19:00 GMT",
+      "description": "Mt. Hood Community College added to list of measles exposure sites KOLD",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Kennedy On Measles: 'We’ve Done Better Under My Leadership Than Any Country' - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVG1UeEUtR3AxcDl3V2s1dDhIX2VmLXQ5RnVzQUxiUDFyM2MwZ1BGZ0ZCNFhDZjd5N3dMNkZ1ejJ5cWl6RklKOVljeXRGUm9mZ1Q0Y1MxZWl1R25zcERwekw4bEhPWUR1Vlo5bVdqbFZTUEhHMWZXTDR3RU81b0p2UHJEUUlkS0xp?oc=5",
@@ -16,15 +25,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcURnRDVNRU1kb1NVQnNrclRiZ19lV1VjXzRMSTFNWWtRRUhycWg1Rjc2cjJ3SVNKck9MSnM0bjlyRHRSVFQtekxEZlUwSFcxbHVkWVRiWTg5MU40SkU0MzBwX09UelY2cEZEVUFDSGkyX0FPZDRHQVZDbEVjaTBfalFXVGlEazVYQUsza1B3blEyVWNUbjgtN0swOWZxRURXWWd3d2FuUHItZw?oc=5",
       "pubDate": "Fri, 17 Apr 2026 13:49:00 GMT",
       "description": "California sees more measles cases this year than all of 2025 USA Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Maine avoids measles outbreak after cases popped up in February - newscentermaine.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQnBrTVRvZmZXSWtKZHl0YXFfV1hnazNpcHY1LWd4R3hLZHJRd2FlRXpfMHZNaUhEbUpHYTJ3ZmpmRzJWTUVXLVZpQjk5cmJEOXVJdjRkTi0tOVcybXNJNk9QX2xqUS1WS1MwYXVzOUd5NFJ1UHYyUG9LRUM2aXo1OVkwaXVpRGhPcFpHWU8yYlZucDJTMi14SnF6WWJHNkFiUHJDWlI5bjVyTzNpMjA5dkJKMzRVbkQzOU90OW5RcG43dlZ4T0c1LVdRWXdrNGNiMHlLclEyOGZfeC0xdU0xUlN4UF9pMkN0?oc=5",
-      "pubDate": "Fri, 17 Apr 2026 12:22:00 GMT",
-      "description": "Maine avoids measles outbreak after cases popped up in February newscentermaine.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -129,10 +129,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Maricopa County reports another measles case and exposure site in Mesa - azcentral.com and The Arizona Republic",
+      "title": "Maricopa County reports another measles case and exposure site in Mesa - The Arizona Republic",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVFo3YmcyeS1pZXBtN0t1N1hkVzJjNmlKWTlhVVRxYU81ZXpsQ1AwLXRLazJZQjlZWERXcE1WXzVHT3g2SGxsQVlqV2VYZnRic1pxbWZvMlYwSWRnOVFFbHZ1Y01PX0gwWWJpMWx5bUdwd3hXT2k0SE1wR1JEcThXdXAyd1BBMUhwdFhZVlRlTldoSnlldXI2ZGFYdTVJazlvYmF5T2huNFNPa29SamxSbW4zSHQ5LTljUVR2dHBZb3czblU3cWI1ZGQwSXZKQQ?oc=5",
       "pubDate": "Fri, 17 Apr 2026 00:57:00 GMT",
-      "description": "Maricopa County reports another measles case and exposure site in Mesa azcentral.com and The Arizona Republic",
+      "description": "Maricopa County reports another measles case and exposure site in Mesa The Arizona Republic",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -228,15 +228,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Maricopa County health officials confirm sixth measles case of 2026 and identify new exposure sites - ABC15 Arizona",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTHNIN0trSDBxTjFrREhlZXE2WVB3ZHEwV2RUSW1WYWJ5enlvaS1BMl92Si1OODRTZ2FkUEY1eDNoQmY5T25CMVNKeWxNWk1VTFVqdzN4UDhNNk9uUklwU1BpeXVUc19ydlU3MnI3ZldNWU12SmdCbW44M2VIbEtsRExFY2N2U0VmRlJBM2hFcExiNEZwQnNfRmpqNlE0S2JzNTRMMVg4RFd4SG92NVlUaUVTYUw5aWFZNGxKVkhwcHhGcThYcXY1YjVnX0U0a3g4VUphTHVaV2otMngtdzJTT0dLci1XRnJYSzhF?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 23:08:00 GMT",
-      "description": "Maricopa County health officials confirm sixth measles case of 2026 and identify new exposure sites ABC15 Arizona",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles case confirmed in Grand Forks County - KX News",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWZ2cDFIQy0xNzl1TGJBN1RQeVRVQ3E0MThhN0I3aUpFN3dsUVpaaGJFd1B3b1VpX3EzWVR6Y1RVcEpCOWliZEM4ZHN4RmxJWHo5Q1dMS08xSVg5YTZIX3lMLXZ3RWoydmZEaVZpQTJuWDBad3loOU0tVUdKQzF2b3FKU3ZBSE1pbnBraw?oc=5",
       "pubDate": "Thu, 16 Apr 2026 23:04:39 GMT",
@@ -264,10 +255,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "New measles exposure site added in Maricopa County as officials confirm sixth case this year - 12News",
+      "title": "New measles exposure site added in Maricopa County as officials confirm sixth case this year - 12news.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPckNua0dldUtIYzJORFNfQnBmejljbVBlUlloOEJQbVhzY2JXZlBsOUNsdklJOG9FMW9ic1F5ZmZTUU1aS3NTUE54Sng0cTROdFNiN1NyQWhtZW11ejVyMjNQWXJPczNJaFJoUXpxTndkelJENThqNzJWR0k0SmlyX1hKdDNjM0xfN3BzaUQ5dEtPb3BZSnQ1c1RLV0ZxQzJ4UWhQUUdPRF9YMnF3dkh5OFRMNE1TUWZlU2txb2dfamgwWXROSFNj?oc=5",
       "pubDate": "Thu, 16 Apr 2026 22:39:00 GMT",
-      "description": "New measles exposure site added in Maricopa County as officials confirm sixth case this year 12News",
+      "description": "New measles exposure site added in Maricopa County as officials confirm sixth case this year 12news.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -309,6 +300,24 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Maine avoids measles outbreak after cases popped up in February - newscentermaine.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNHc4bjhWVHFfTEw5OERrRTNsaTIyWjNrUU5kQkR0R1daZ3RwOFRrb2FCaW9wUU43Q0taM0dPXzF2RnhWekYtazNHSFRYU2UxTTVwcWljZmRMMzFvcjkwQkhEUGJNOGt3MnZkV19VWVp3cTQxYnJQcUJQZ01zWEJOZjBoMnpQUFJEc1RGbFVaMmh0dHc1SjJQRmFQMnV0SVJzNFdEXzlyOUdidTZSVldrZFJMSjFqMERoMG1vNGVEZE9kYkprYmhPcmIxN1JOaTNFT3ZOY0VjbjQ?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 21:48:00 GMT",
+      "description": "Maine avoids measles outbreak after cases popped up in February newscentermaine.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "RFK Jr. faces barrage from Democrats in House hearings - Axios",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcmdjUmQ5ZHNiRFdXVDB1ZUxMenpOZmZGQk5ZQXM3cTM1eXU0ZWJqWFNXcUxLRExmRjJpM2VwZmNNVW00Rmw5SVRsblpYZHUxTzJWYVROZkxFMnhGWTIwQk1lWnpzQndZdEhPS1ZpZWVURzk5OUhmLUFndWpZc0I0cVhYT1U3UnJhWThsWVFNdw?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 21:46:21 GMT",
+      "description": "RFK Jr. faces barrage from Democrats in House hearings Axios",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "RFK Jr. spars with House Democrats over vaccine policies amid rise in measles cases - abcnews.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT01uS25PUVFPZHVCd2dmamc0bDRQOHRIY3czU3dLanRBdVhGSTQ0OTZSNnNXVGJ1dHh3Nzg3SGUxTk5jVlIzUDQxYXhCTE55TGtHMElpS2hiam00djM2ZnBaYnlwbVY1bXBkS1plblFnWXJzaXJQNFRkMkJHQkxHQmR4eWd3VFdYd29lMnJ4bnE5SFo5Szh0X01nZ2HSAaIBQVVfeXFMTk9HdDV3TXVEc0hwR2djSlNheV9IMFJmanV0NEZuaGhLdVJURk1TRmdSdTZsZEVrNmItaEQ5a093SzNTaVlTbzFEUXdITzMxUXZ3cFgtZ1FOdFBjcTlCTHM3V2NDRW9Qa042cUN3a2k2YUJmR1piSEloTVRRRXJCX3pSc0V0UWxGb2xtT2tFVkxqWlVoblZlMUN4UDd6VTlNUXFR?oc=5",
       "pubDate": "Thu, 16 Apr 2026 21:24:25 GMT",
@@ -331,15 +340,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWjBYOEFyVzB4NTM0QUVPU051WXB2RmRnRjROSzVmVWF4ejlsS2x3ZmFwMGkxMTAtMEFTVkRoLXlabDk4UGNRcjNCMkZwU1ZOR0R6LTVPOXNwVkRhY1VvLV96RlhfY0g1QU1ucG84bXozS2lLRFNNQVhmSWVMR1pNT0hJVzY0SmdjNDNibVFwRTNOaVkxbldOaHMwVFpYM0JiMmxwWGE4SzZQeGV4TDBxLUdSd3fSAcgBQVVfeXFMTm5pZkV6bXVUVlJxMXk2Nm1hVC1EOVVLenIwWU5RZVFkUFB1MTZzNl9aRFd6WnNSQ0RIOGZlVkdBRTNBY0ZFblg5bHd0UEhhTEdCUVU5eHFTSHZzZ3RCTnN5N3dhRFNRaU1jU0JlSkRxV2pJa29OQWtGQUkyVGNmSkNBczNMYTNTckNEYTlleFVfTDFsMHVGVlU2QlVDWURGVjFfQ2xpaWdhR3dWclExRlFNX1JCeUwtT1dkOERkVDJhRnpOZms5Vmc?oc=5",
       "pubDate": "Thu, 16 Apr 2026 21:19:00 GMT",
       "description": "Measles case confirmed in Grand Forks County; Altru ER listed as exposure site Valley News Live",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "RFK Jr. faces barrage from Democrats in House hearings - Axios",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcmdjUmQ5ZHNiRFdXVDB1ZUxMenpOZmZGQk5ZQXM3cTM1eXU0ZWJqWFNXcUxLRExmRjJpM2VwZmNNVW00Rmw5SVRsblpYZHUxTzJWYVROZkxFMnhGWTIwQk1lWnpzQndZdEhPS1ZpZWVURzk5OUhmLUFndWpZc0I0cVhYT1U3UnJhWThsWVFNdw?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 21:05:40 GMT",
-      "description": "RFK Jr. faces barrage from Democrats in House hearings Axios",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -516,6 +516,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "San Francisco reports first infant measles case in 7 years - San Francisco Examiner",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOclF1UlhrSHJSUTNTU2puSnd4VjdQai1lOEd3RzRqbXFnQU5nanR4bm5nUjVoVUxaUWMwa3llUHc5TjRQRlZyNFlfUi1IeXNxNHl0cEhGeHNEZ190ZS1NOXlTOVRkNDZIbjlLRnlmczVhdTYyMThYejc2c2dMenFpc3ZzZVExLW9QRV9YRjhSMmtuLUFvc1VzdEdRYlI2TFBCend2c0JoWDZCX1dXY1BvTFFINGgwc2xCdGo0enZ1a3RTX3V0blJFTk1HbmZ0Z3lBWFRTODdMWHVtLUZVQlBzUk1nckJnSDRzZGc?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 11:00:00 GMT",
+      "description": "San Francisco reports first infant measles case in 7 years San Francisco Examiner",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "California sees the most measles cases in 7 years as disease resurges nationwide - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmNhUXFzSC1TSnJ4eG56YjJtazVWRmltRDV1dlNTZkRCdV9aY3VCWGNISGNLeDIxbzJXSWlvRzJUQUtzLUpYN19MbU5TUlJtbVdaZjhBZWt3bU9QdkRUeVNJeGt4aXQwdjJLVnZQVlRvMHpHZWZiOXp6Y2RIaldsZWk3VU9KbUxSRjN0MEZySzg3bzlYeEhMMW1oazg5T0J2aEhYMVl4UmY4ZFZWS2VzZmNB?oc=5",
       "pubDate": "Thu, 16 Apr 2026 10:00:00 GMT",
@@ -597,6 +606,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Sacramento-area measles cases surpass previous years. Health officials explain why - Sacramento Bee",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUWFQZHZJUS1fWTZZbWRIRXJ3UTg2NlVGUjdFcWdIV1VhLXlWcFNfaEtHX0huSVlPVk1hZVVkOTZtcC1BX0FwWnJ3c0Z4NlNxTWs4aWlCcnNzWkU1c29ZdjlkS0xNaDlhSkhaRjMzRDVkbFdnRXBTdzQ2LWJwUjJxNdIBgAFBVV95cUxNcXhLblQ4SW1EZjM5cFZjZEhVV0lHR1IzT2JvWS1CVGdXRnU0bTZWNmQ1cWk0c3FoQ1NYVWRDVDhzQnU4dXJjdkxFTXp5bnc1NE1ZRmlCRlZqVF9fUEI1UFgwRVJhSERhaE1HcnFSU0xRejA4ang0eXZaSHZuSlFSRg?oc=5",
+      "pubDate": "Wed, 15 Apr 2026 20:39:43 GMT",
+      "description": "Sacramento-area measles cases surpass previous years. Health officials explain why Sacramento Bee",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Utah measles outbreak tops 600 cases, now most active in the US - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT2VCa1lkYml1amNzbWJubkFMY0kxY0EwNlpDNnB1MmgyN2kxSjc1QXV4X0pzOVBVWXdScWtmS1NJWlM0YkJVN3puLVFJZVdHcDY1MGk1QWc1cW0zUmVncTZjOEFIM01yZXByMnQ2RXRYbTFWTzZNTnZkRDNvRE9Eam54U3ZOVjlfUjh5QVBEb19iRF8w?oc=5",
       "pubDate": "Wed, 15 Apr 2026 20:31:00 GMT",
@@ -610,6 +628,15 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT1lLbWhtLXlhMUI4bUJXa0d2VHQwVlQtaTJyQXVaeko1UHhiSWtlTXQySjQ0VFdWUnNrMEUtc0ZmT2dPaUEzaGFBWHE5OExEYW5nbWQtdjlvS3FWT0FGcE8tM3o0VF90ckIxQWFJczdaQVFzcUlWVF9LNVM5T3pXTGtnQ0Y0VG9WaHRWdzZUazRWNEdIYkhGRnljbGxsUU5q?oc=5",
       "pubDate": "Wed, 15 Apr 2026 20:25:00 GMT",
       "description": "San Francisco health officials confirm measles in infant; first case since 2019 CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Sacramento County reports 6 new measles cases amid outbreak, urging vaccinations - ABC10",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTkJxcUQyeThqWVVxTWt4MmE2SlZRanJ2WUJReXo2eG85ZFAtZWdjUnFGWDdBTjAyRWNNdEUyOTgtcWZtMkU5alowUzBuX013V2ZZMjJTSExFcEhBX25xT2dTdXBxUGk5cDVoOFM4TWdUSlludXRfQjlsVGw5ZkV2X0N4N2FrdTBrdFVPREo3cS1QOE9na2VuYUVuam10d0Zhcm1vM1llZ1ctWmhMTU9ZRTVyLXdDT0U0eV9VYjNoc2RhR0I4ZDExNkZoalZSYnlzYk52c1lhT2ZlZw?oc=5",
+      "pubDate": "Wed, 15 Apr 2026 19:51:00 GMT",
+      "description": "Sacramento County reports 6 new measles cases amid outbreak, urging vaccinations ABC10",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -705,10 +732,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles case tied to 3 Queen Creek locations, health officials warn - azcentral.com and The Arizona Republic",
+      "title": "Measles case tied to 3 Queen Creek locations, health officials warn - The Arizona Republic",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2JaeTlTS3BfVHRjVlBjNkJNbjFhdklGUVFBWDU2alBacU9KaG5tS2hGMktmaERoVl8yN3RTN1ZCbXJZbHVEOWlJckw1cWszWXRYOTZvMzd6MHZjaV9BWTMyZXlvR2JNb24zRDA3N3pOWmQ3MWJKOFFZOUU2dVFhTFhTZHM4eEJuSFFCaWRuWEpaaWNXWW9TWEpPSmpkV3NvQ092azE1TnlrM0Q1Y3BHa0gtSQ?oc=5",
       "pubDate": "Tue, 14 Apr 2026 23:46:09 GMT",
-      "description": "Measles case tied to 3 Queen Creek locations, health officials warn azcentral.com and The Arizona Republic",
+      "description": "Measles case tied to 3 Queen Creek locations, health officials warn The Arizona Republic",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -732,6 +759,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Middle school in SE Portland identified as measles exposure site - KPTV",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeG55SEh1ejlDVEZILXVTQVpNVWNmMW4zeldsNjlaUlNyYmNvN1NzQXlyX3JVbmhWeXY0RW9pbWZZUUpqUG9QbE9ESTNVeW5USXJObnZZNGlLS2gwdTdkWWEzb0V4TW1xbk40SVpXOVNnNUE3NFFvWlphXzVyaDBhZTNDa0lWVnlNeHJ3dTgzWjJSMDBxdFHSAaoBQVVfeXFMUG5vRm9IMXY4NGNkcDJYOU9GWkllVFdMY0FXSzdMUDRVU0NfNV9EdmlTM3RFWjMta1UyRGhKM0NPTWJXeGtRSm55QVNmWVNQN3J2ZVFtOWdkdERRSEVsRzJjeXFTcFlUMG9hNE1kdFZIU0E1TWxySHBobGhmNlkzMnZTQlFaQS1WaDhvTXFfSWFwSnhKc1l4SEhkU0VwQjBHMWF2SVNXYmVfWHc?oc=5",
+      "pubDate": "Tue, 14 Apr 2026 16:08:00 GMT",
+      "description": "Middle school in SE Portland identified as measles exposure site KPTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles takes a plane to Idaho, which has worst vaccination rate in US - Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXpIcVJaRXpyODhRWEJ4bGY4LS1GNFZFVmRKWWJ1TlYtVmctc0otdmxUWU9sMmJ5UnFJeDh6VzZrQXJIcEVnNXdQZmdRUXBUdHZ1SEdMaGgtZzREelFUYTdnZEozVS1RUGROczI0NndHc3dZMVE2NUJRRDZSaEtUeDhhbzNxdGdzdkhzSWcweUtPM0FFQk9fRDNpaW5mUWNQd3N6dGZPeFFRS0k2NVBjTkI4cw?oc=5",
       "pubDate": "Mon, 13 Apr 2026 21:32:48 GMT",
@@ -745,15 +781,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0RULWNNOF9UallkWnh2NWZoX1Q5cjduczVaQUJ1ZUZLUjlHTHFuS1lxenQ4c2hpcmxXSnVvdk1NNmlxM0s3SE9NUjlmUy1PT1JRODFIak5ncVlqY20xZVgxTXVWc2VHZmIzZjd5MzRBamFFOWhhY2R1aDdBWUNVTlAyeGdZVDctbXY4NVRCQVJNQjUyZFVTdXJTS2N0a1Q2Y3pCSzBRVEFDUDRfWTkw?oc=5",
       "pubDate": "Sat, 11 Apr 2026 17:29:40 GMT",
       "description": "Babies too young for MMR vaccine become ‘sitting ducks’ in measles outbreaks PBS",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "What's Behind the Global Resurgence of Measles? - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZkg5Y0ZHSTZHSmdhd3ZRS0FwdlhFNThBejh6V2Q4QlFlUGNmMERVTEU5bUg5LWx4Tmxyc2JxUmVVOGpacjRkVjg0Y2VaWkNoTlpsV0J1UDB1d1dUeEw0d3Q2OEt5eEhWbE9OenFhNXQtcFJKR0RTNzV3LWVvLXkwWDBDcDJzazNfckt5TFcxa1IxNjkzM0pnVUhGVjBxRXZ0Znp5bGJVbGt1UTZ0?oc=5",
-      "pubDate": "Fri, 10 Apr 2026 16:20:43 GMT",
-      "description": "What's Behind the Global Resurgence of Measles? Council on Foreign Relations",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
