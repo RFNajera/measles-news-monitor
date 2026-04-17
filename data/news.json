@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T05:10:03.256Z",
+  "updatedAt": "2026-04-17T05:55:32.940Z",
   "itemCount": 89,
   "items": [
     {
@@ -25,6 +25,15 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdC1DSW91Vl81Y25ubUdJNm5Rb1REUHBLc2Ytb0pBbTdZaTNoSkpoeHo4RFRrd09FeXJuZ0FNZVBkQ040VUs0b1k2OExINW5QREpGUGJXaElvdmp4SmJGanlDMTZfdjBsU2ZwV1BES1QxUW9iVUJIbFVVZ2k1cmltSTQwX0RMc0lWWG5FeDBKUi1xakFmOXd5R3A5dGVMQmJZd0w1SDFoUGp2VzlIOHNGMy1TdnFOZGwwQ1NkTEU0emU?oc=5",
       "pubDate": "Fri, 17 Apr 2026 03:09:58 GMT",
       "description": "Sixth measles case confirmed in Maricopa County; possible exposures in Queen Creek and Mesa AZ Family",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "RFK Jr. faces barrage from Democrats in House hearings - Axios",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcmdjUmQ5ZHNiRFdXVDB1ZUxMenpOZmZGQk5ZQXM3cTM1eXU0ZWJqWFNXcUxLRExmRjJpM2VwZmNNVW00Rmw5SVRsblpYZHUxTzJWYVROZkxFMnhGWTIwQk1lWnpzQndZdEhPS1ZpZWVURzk5OUhmLUFndWpZc0I0cVhYT1U3UnJhWThsWVFNdw?oc=5",
+      "pubDate": "Fri, 17 Apr 2026 02:41:09 GMT",
+      "description": "RFK Jr. faces barrage from Democrats in House hearings Axios",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -120,15 +129,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Maricopa County health officials confirm sixth measles case of 2026 and identify new exposure sites - ABC15 Arizona",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTHNIN0trSDBxTjFrREhlZXE2WVB3ZHEwV2RUSW1WYWJ5enlvaS1BMl92Si1OODRTZ2FkUEY1eDNoQmY5T25CMVNKeWxNWk1VTFVqdzN4UDhNNk9uUklwU1BpeXVUc19ydlU3MnI3ZldNWU12SmdCbW44M2VIbEtsRExFY2N2U0VmRlJBM2hFcExiNEZwQnNfRmpqNlE0S2JzNTRMMVg4RFd4SG92NVlUaUVTYUw5aWFZNGxKVkhwcHhGcThYcXY1YjVnX0U0a3g4VUphTHVaV2otMngtdzJTT0dLci1XRnJYSzhF?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 23:49:27 GMT",
-      "description": "Maricopa County health officials confirm sixth measles case of 2026 and identify new exposure sites ABC15 Arizona",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles and Moab? Pitkin County Public Health raises awareness in off-season - AspenTimes.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVktLUngyWTdIRkhvckFHTGQ4T09Kd0k1MVgwQjNpeTRrbDFidTI1V3dPeDFpbFdGd0o1cUVtdFEzeEw2WFRwc2FMY3pMaUFvd3NfYVhZWTdQZHU5U2tlSjNMbXpzVlg5eEZ5OWRRSkxydUF0R3pEOG1QM3NYVlpwcnY1WmpRazNKXzlleVVZWk1Od005RkJkc3FMMEJzTGJKbFBuYjNxUlJpR3Vn?oc=5",
       "pubDate": "Thu, 16 Apr 2026 23:38:35 GMT",
@@ -156,10 +156,37 @@
       "sourceLabel": "News"
     },
     {
+      "title": "California sees the most measles cases in 7 years - KTLA",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNalhlSW9LUEhCMHZNZ2NGelRaRzh3WFN5Y1hwWklIbHVycktTQUk4V0ZhZVk4OC02cXBGb1NjVTlmV2F5R3NaWXRVVFpSLWN2ZDRVZTVpTVFqNDZBOHVJRlIxQTFiYkY5N2J2djZ4S1RnSnJVemxTWnFyVXBjN0kyUkpLZ19mRDJ5d2c?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 23:26:34 GMT",
+      "description": "California sees the most measles cases in 7 years KTLA",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Kennedy Defends His Record on Measles, Prior Auth in Traditional Medicare - MedPage Today",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13dDdHLUhWanZJdFh3RTR4bzlPSktmMmY1RXBPbkQyTkRCVzNEMWpISzhxOWI3dzFaWnlsVm4zeV80eVZEWnQ3NGNkZExHOU8yZUVGazNwU0dqRGhtRllPUmc1eVZTQWVXanpCSGl3bFNRQzFmTjhYLQ?oc=5",
       "pubDate": "Thu, 16 Apr 2026 23:25:23 GMT",
       "description": "Kennedy Defends His Record on Measles, Prior Auth in Traditional Medicare MedPage Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Kennedy announces policy changes and faces criticism at House hearings - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV29QZFhCOG1mNUZIa0s5eHZHRjc3QVZRNG9kVkJSVjRKZkx1ZnAwU2FmVndJRzQxYUtvVWx6TktlSU9zVnpqWV9QY0lPd00xdEwwQ2k0eGJDMEdsOWlCZUUtcHJPeXk4UDlJT3ZnVEZ1d21sUkZpRy1CWEhsV1V0dmsxR3oyTlVEYlRFTHBXYmkwWHpiVmNHNEdBcTl6UkxVLUF2Vk4yRlYyUFNwWHNxbTh1MC1XUklJ?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 23:20:00 GMT",
+      "description": "Kennedy announces policy changes and faces criticism at House hearings NBC News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Maricopa County health officials confirm sixth measles case of 2026 and identify new exposure sites - ABC15 Arizona",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTHNIN0trSDBxTjFrREhlZXE2WVB3ZHEwV2RUSW1WYWJ5enlvaS1BMl92Si1OODRTZ2FkUEY1eDNoQmY5T25CMVNKeWxNWk1VTFVqdzN4UDhNNk9uUklwU1BpeXVUc19ydlU3MnI3ZldNWU12SmdCbW44M2VIbEtsRExFY2N2U0VmRlJBM2hFcExiNEZwQnNfRmpqNlE0S2JzNTRMMVg4RFd4SG92NVlUaUVTYUw5aWFZNGxKVkhwcHhGcThYcXY1YjVnX0U0a3g4VUphTHVaV2otMngtdzJTT0dLci1XRnJYSzhF?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 23:08:00 GMT",
+      "description": "Maricopa County health officials confirm sixth measles case of 2026 and identify new exposure sites ABC15 Arizona",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -313,15 +340,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkV3b29vNFM5X1NINW9Sa3Z2angtSHJ0UnpZbm53bl9icFZFbXUyQ1h4N3dLT1BOc2otUTMyVzc3MjZRVUJNY1ZNM0p5a2RBUG1MR1UtZmhzbFJSTHY0aThhLU9OU0ZlSGdDZHN5bjh5X19PSDNydGtGck9ncjBlY2xnZWUzWTlDZl80WEszN2dpQURyZGVGZFp3T3poVzNSZjhScExB?oc=5",
       "pubDate": "Thu, 16 Apr 2026 20:38:00 GMT",
       "description": "Another measles case reported in Florida. Symptoms to watch for Naples Daily News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "RFK Jr. faces barrage from Democrats in House hearings - Axios",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcmdjUmQ5ZHNiRFdXVDB1ZUxMenpOZmZGQk5ZQXM3cTM1eXU0ZWJqWFNXcUxLRExmRjJpM2VwZmNNVW00Rmw5SVRsblpYZHUxTzJWYVROZkxFMnhGWTIwQk1lWnpzQndZdEhPS1ZpZWVURzk5OUhmLUFndWpZc0I0cVhYT1U3UnJhWThsWVFNdw?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 20:38:00 GMT",
-      "description": "RFK Jr. faces barrage from Democrats in House hearings Axios",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -570,15 +588,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Children were exposed to measles at three Washington County schools - Utah Public Radio",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbi1scE9qMi1iTndvX0FXXzd5a04wSThmWE8zVjNjekZvaGNxVW5WUnhPUldCcUdkaXVKNWVPbGR1NHlrOTZkZUV3NWRrcy0tbFJQd05OcWNuQXBQOWxiNTQzdWdxTkVTRi1sN0ttaDF3OTNMa3lrS0NvOFl5TE81c2ZlMm5JeGpUQWluN2p3NTgxbzRUUUpycHBSUkwxX3ZIWEp0cUlYbHg?oc=5",
-      "pubDate": "Wed, 15 Apr 2026 22:02:00 GMT",
-      "description": "Children were exposed to measles at three Washington County schools Utah Public Radio",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "San Francisco reports first measles case since 2019, confirmed in unvaccinated infant exposed during international travel - ABC7 San Francisco",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaG9iRng5clQ0dVNSYmQ4dENmcWJiblNpc3ZPWWE1WC0tNGl3OVNCVkxXaXhtbHljemJPSUs1dHNQQldzVUZnUktkQXU5M1pMbGgtS3RyTzdiU0MtRjV2d2dRa1N6Uno3VGVaa3BvY0M4eEdvUU95WTFfTW55V2pPdUIyc09VT1psbUdDQThyY29WdXJVLVRwRzc1cllobmRYSUNiYTUzdXVyRjVwYS1mZUxWT21NUlE5OUF1RE8tcmt1MWhzaWE5bzhpZTg2b3BVUHNNZEN0YjRyNEdld3hfZ9IB5gFBVV95cUxQSDMxZjRpQU5feUtlLWRITU9JUk9rR19MdFVha3FCeHJfU2xNWm1waG9xZ0RpaWVWUWtEaXp5YVhXMnFFOWJXbjlLVGNmMVFLNVFBMnV6STdaRUtwdHdaLW5Fd3AyY2h3WHIyNWRGd0c0X010U0VORktKcVh3cEhET3h2dHVZYXB0QmtJNVlsUTJ0VFN3eGRhYWFBNDYzdi0tU3dkMTJqNjhUVU02Yll5aVdCRjlVd0l4NWZtRXRDZVQwaElON1lkbFlZRG1zak1OVFN4aC04eFhiOWNrQnJYQUdmaF9ndw?oc=5",
       "pubDate": "Wed, 15 Apr 2026 21:46:52 GMT",
@@ -664,15 +673,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbnlwWngyeW9BQ0loWE9CZi1sT3ktbTBsTVRodElRLTdCQldIdnBwbjgtSVl5SnlPbFk5bHkyRW53MDV1b1p4VHVxa0h5WEljWVhNZGlaRVgtTnhqM3A2clBNRThyTWFPME4xZm5TUFNXSDExWW90U05sWHFCZUM2aGRfX2dILUdQVlFQUFhFaWhnYzlsbU1lMC1pWQ?oc=5",
       "pubDate": "Wed, 15 Apr 2026 12:00:00 GMT",
       "description": "Nearly 20 million lives saved in Africa through measles vaccinations WHO | Regional Office for Africa",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Nationwide Response Mobilized to Contain Measles Outbreak in Bangladesh - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaV9wek5TZ1RmSk1qRGRnbDgzYlhfNkV6ejlNS2tUa1BCODAxd3RFTEpqWTYta0tVdHRkRmlDSXdXSzF2RXZoV2FnU1g4NnZlLWRXazBwdmh1Y1dIM0wySlIyYS01SUFnN1lmX1BVdjZ6akxScUVTTEZsdmg2WkJPNA?oc=5",
-      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-      "description": "Nationwide Response Mobilized to Contain Measles Outbreak in Bangladesh World Health Organization (WHO)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
