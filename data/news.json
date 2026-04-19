@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-19T05:10:38.432Z",
-  "itemCount": 63,
+  "updatedAt": "2026-04-19T06:47:01.105Z",
+  "itemCount": 64,
   "items": [
     {
       "title": "Measles case confirmed in Rhode Island - AOL.com",
@@ -34,6 +34,15 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazlqVGpnM19mZmFQSVFQaF8wT1FVMjc2MVdSN3lBXzVXRE8tczhyUEpIYmwzQTl6cmxfMVFCTGZLeFVXTXdvUjBKSkdKVFVTVE5PLUltT1lfbmI1a3N1dy1UWGV1RTI1UmVaRkZXb2tHVHpKNGlZRUlNZUdkNW1qaW9iYzlJRzJ5ZDdmTFdlaXBlQUYxdllKNDROSjh6eUtSRU9EWXRBVkUxVG5uUmNDNWRyQnZwVW90akVPbXV1VGdRT0lncU9aODd5OVk5RE0?oc=5",
       "pubDate": "Sat, 18 Apr 2026 17:59:00 GMT",
       "description": "RIDOH Announces First Case of Measles in Over a Year, Alerts Customers About a Providence Restaurant Go Local Prov",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Texas public health leader Jennifer Shuford tapped at CDC - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVXBja1MtM0tGNkowRno5bFppc0VaNU5JVFNjT0JEd0hkU0ptYkF4YUhVVVFxSS1sSURmN1JDTFFfNVZEdmRvRnN5Y2Jjc0FDNlRhM3dwbTN5OWVUcWltelNzMm4xa1plc0d5ekp2MkR1SU92b3pGTVlOcS10Z0JnbVJaU2QyZw?oc=5",
+      "pubDate": "Sat, 18 Apr 2026 16:18:36 GMT",
+      "description": "Texas public health leader Jennifer Shuford tapped at CDC The Texas Tribune",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -79,15 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rbGtiSWVhQjdtU1dDZVBmckNhZ0tZM1NZRVBvaDlBYVh4eDQ0NTZmUTl0OTYySUI2LUR2UnN1V2UxUzhRN09GQXhfNmZzTW1Pa2ttX2ItNVBKX0wt?oc=5",
       "pubDate": "Sat, 18 Apr 2026 10:22:59 GMT",
       "description": "Japan on Track to Log Highest Post-Pandemic Measles Cases nippon.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Oregon reports 20 measles cases as officials warn of outbreak - KEZI",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlBJRGhhRC1GUS1jb0ZSdEpnVWoxSWgyaHc4S003QmVUb09ZbmtaZjQtdHdVaUs3Z2RNbEhGTmNmLTI1QlJKWmUtTDJKTDhrbDV0cEo1LUZVZENUV3MtTjB0b01rbVdMMGpaaGRkM0pFNkxNMHlveDN4cnN6R3c4NEZPMEpfdThpSGl2TTF1LW9VeldQR19Vb2xxaVEtUjEzN1Z6SzBXM1ZYQmlNWUhrdkF5ZzJ0QndTYm1rX2tweldDeHdOdVRtd2o1N1oxWTZmUGc?oc=5",
-      "pubDate": "Sat, 18 Apr 2026 06:51:00 GMT",
-      "description": "Oregon reports 20 measles cases as officials warn of outbreak KEZI",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -187,6 +187,24 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSUlzM0c1Nkhqbk8xZVlSOFFQbVRZT3drenc0RUJ3MGthOXpKY0FCMTFSZERyY005aGJaXzRPZWc5TTltUzJadHRtX2NpUmM2eHYxd3dWVm8wVmQ3Q0YwN0VSRDZiaEVXMDZSTXZkNGx3bnRKVjZ3S0labjFfd01zTXpQcExBYU5GNTRuMU5NbExUVFhmajRlYlhiX2g0aFVRZFRJUHBTMy1FeEduU21ncmlwZXVFY3RBaXdhelR0b2pqZXRTdzg5WjgtVWdNUU0?oc=5",
       "pubDate": "Fri, 17 Apr 2026 22:09:37 GMT",
       "description": "FACT FOCUS: RFK Jr. says the US is limiting measles outbreaks better than the rest of the world MyNorthwest.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "FACT FOCUS: RFK Jr. says the US is limiting measles outbreaks better than the rest of the world - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQjd0LTJtWDBxak1jZEQ0cnVIRGNvR1R3djROM0daOVNTVkpfVXhuNm1xdkFxMGZsZHZDVWhvOURjYl94cmVPeXF0aHg0dmdGbm1HeXJzd1R2MDJpRlRCV0dHRkViaW14ZEEydkVMM000ZTlselYzVzJEci1FTHRzVTl1Q28yM2NoUk9ZNnJhd3FhSXIwa1Z2cFhwQ19UWmNRNEY1UUtQOW1fUQ?oc=5",
+      "pubDate": "Fri, 17 Apr 2026 22:09:00 GMT",
+      "description": "FACT FOCUS: RFK Jr. says the US is limiting measles outbreaks better than the rest of the world AP News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "RFK Jr. deflects questions about Trump's mental fitness, measles outbreaks - WCNC",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZjI1OUVrVjVzSWlfLTc2bjcwWU5nVE9veDVVeE84ZEw0Wk9UbEloWTlvQ0hlZ0NQT3hTdjkxTWs4VmlRVXAwRGRpa0tuYmxIRjR0a3dMU3M3S1c5ZEJEUWtUU0J0T3I1UEoyUXhQX3ZIcEhreTNiMGNicTdNZWp6QzZBWlpJUVVNNVJXX2YwVDVTVE8ta2FCLVVMWmJueHIwUjBjUDZuRm0zSW5WRTlRYUg3TGpHU2pVVzR0MzBHbDQ1NjhzNkRoanFpdUlpT1RoUFBxdEJQY3lqdnA4a2RTNFIxWnFXUnBLc2E0ZjlR?oc=5",
+      "pubDate": "Fri, 17 Apr 2026 21:40:00 GMT",
+      "description": "RFK Jr. deflects questions about Trump's mental fitness, measles outbreaks WCNC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -336,6 +354,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "DPH confirms measles case in the Midlands, state total climbs to 1,001 - ABC Columbia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWcxcTU5SURUVTlpSEFDYjIyU3B4R2thMVJiaWFmZlpyUDg5a2oxS1lRRS1BaU9Va2tVbVJxWktFU2MtN3VaZnVPS1Z5VTRXZWNYQXRNOGVHYVFzaU1RUGlzb1pOUEtCVVM3R3VWUVZ6dFVrWkZnVGg4OE9vR0RMS0E5bWI1aDBZUGJycFFXSTFkd1NPTWN6ckZmWUhnaE8zOEJJdEdrcTVSUEdL?oc=5",
+      "pubDate": "Fri, 17 Apr 2026 16:57:00 GMT",
+      "description": "DPH confirms measles case in the Midlands, state total climbs to 1,001 ABC Columbia",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Case of measles reported in the Midlands, unrelated to larger SC outbreak - WIS News 10",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOTRBbWpDZTVnUm90Z1JxSnBsUGN1LV9xNzg5SnBRVkRqZXRRSGxhT2ZPOW1kY2ZieThQVkJuZW5Sem1xMC02QnlfcEhLbTBHdzJTX1hQckhrQUxVNHgxYUJiVUN0WndhOFJJal9BTTlBQkMyS3RmOWVwVnFBVkhtMkNOVXAyRS16U2JITnpSYjdWZ0dJdHgwb9IBrAFBVV95cUxQblVTT0UzN3FXQ3NHQ1Y1TWE1ZWZWQkRidWlIRTNjSFhTNHBtc1VpWXRxWmpwMXdTeHd1Skp5R3B3emMyTnk5aHhyU084ZlJoWHNGZ2Frc0NpRWZYTkExbFdqb2ZDaHlNY19yRjVhckRhNUUydWRqTFIweERidDlGOW9DLWl2NEFmbF9PY2VTeHdwVTlCQ1VxU0RpN1ZBZ09MX0dYdWgzVElaV2hW?oc=5",
       "pubDate": "Fri, 17 Apr 2026 16:56:00 GMT",
@@ -372,6 +399,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Grand Forks County Reports First Measles Case of The Year - knoxradio.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ2c2US1DdTRSYTIxWXRfSnllUUF3eTduZV9BMGJXaktGc0lGdldmeDZjTUswdzVlVGFrbzhJMkZ5NVQ1cXZ0RWF2VmpNRWVQZGZQNHhDS1lPQWhsVFJfZ0trOUVSZkxJUTRwQ0g3R2FvTXA4bjV5T3VjbkJPVVphNE8wdXAwQUVKZi1ndm1Lemx6TTAtSFE?oc=5",
+      "pubDate": "Fri, 17 Apr 2026 11:51:24 GMT",
+      "description": "Grand Forks County Reports First Measles Case of The Year knoxradio.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Lancaster County out of the woods after winter measles cases, but remains 'vulnerable' to the virus - LancasterOnline",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVmM4dzlGOW10ZERjbUQzek1FejNqdHJJZ0Nxb00yazVGcC1laGZOTWVNdVcxdHJqUEJIUFowSzVvdlIzWGdPX1FlbGthYk9Hd0VlbWtXd3phSF8tOTgwNS13MTlmMGZMQUdkd1RPWkNJcmpObjUxZG9tTVZKVkNPNXZDRWExX1ZPenBzVFBqUVYwQVNqREZEcUNLckJ5YVNmNTI2dDh6YnptakUtcWVJemJFQUgwOFhIek45eU5oYzV5WmhaRWJ4cmpYdzB2c1o3clhBS0FqYjN1WUVnNEZjelh4bXNmU1VNWHV3NFl6ZDNNSmJ1dE9EWEdRX2Jta240dXFzUGFaNFB2LTRT?oc=5",
       "pubDate": "Fri, 17 Apr 2026 09:00:00 GMT",
@@ -385,15 +421,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSTlF3TnFhaUJ5RVBLa1c5TWN4SjZZSF9hTkF5MlhLVWdqbERSSzJnSlotTC1fYlFLRm8tSmNaOU9zbXB0X1JqamxuV0FRZjZIc29BVjVJemc?oc=5",
       "pubDate": "Fri, 17 Apr 2026 07:57:11 GMT",
       "description": "Misinformation targets Bangladesh govt as it tackles deadly measles crisis AFP Fact Check",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles: 6th case confirmed in Maricopa County - FOX 10 Phoenix",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVXhOUzVYa3dzWXMwTjNRdXJudW03N1o2eElXOU9Pb0owYURoT2RiSzFVNWRfa1pGdE43ZDdxNnREd0dYNHY0OENGSTd4NjBXQTVxa0dramJMb2pIMjIxWlRaQ0JyRE4tQkFZV1pNX3NhWGxvMFpPWDJRRTZ2QXFhOVJB0gGHAUFVX3lxTE51OVJKWGxpamE5WVhzc0pGOXl4aE5fSDh6VnNoWlgzelNPT1FUUklGLU5lcTZMeFN6enAzUWtwMEdmU2U5cjdPaDRnVFppSVdmYmFPTUtodURybTVndUp5WFhlSDlSYlBod0RJN0wzcUswQWRBdVpJQndxRVhjenpZdnhMMkEwOA?oc=5",
-      "pubDate": "Fri, 17 Apr 2026 04:00:15 GMT",
-      "description": "Measles: 6th case confirmed in Maricopa County FOX 10 Phoenix",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -430,15 +457,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNekVHODFEQnB0aC1ZcVhqSWg3OEhxT0xVX0ZUVWI1RTlFTzkyR1NOdG5WWWp0WElnZ3hNVm15eXRQUGhTV3hkaUNkSk1EdW9TQmJRQVhtbnZRWDhURWN6NVRCN1JvU2NVUTFHS2tfc0t3OGYzWXZ6a0RjVkp5ZlF6clVSTEduZEtUeFNGTU5adEhlS3RYU3NvNklmT0ZBc1BTT3dEUWVhblVLM1RtcEoyVUtGYUVHNnJsZWJtTG130gHSAUFVX3lxTE5helRZRnhRRVY3M2hhMzBHUmVjTTItTmtqZVlDS2hQNGdVMzBkY25XQkZlblFLcmtmWExqeUFNdWlZSnMxWG5jTHJ2S1ZHc3k2a01NQ2l2cWRXcWZCQ1BadDh0V3ZPSmktSmFZRnZnTVhQUk5jSkN5eXJ3NGpFU2N1aFExTkU0MGxncTdjbmFiNVBvajB2dFU0SEhyU25yM3VGRlFqTUZwWVd0YmhrUUdfZWhLQjFRQTR4bnhFc0FvRHYzbHVDN3Q2aFVTOGFaNjE1dw?oc=5",
       "pubDate": "Thu, 16 Apr 2026 23:01:00 GMT",
       "description": "Maricopa County confirms sixth measles case, possible Mesa and Queen Creek exposure sites AZ Family",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "RFK Jr. defends proposed 12% health budget cut, measles response in House testimony - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2NUbnEyNGRRZVg4Ti0zVmIwdkJHa0tZTXVPSC1DTWJJaVpMSmFfenFxb1JiNUstaUY1Mi0td3l3Ykk2cXh4RVRudTZ2djVMUEotSG1JbjNwMnMzQmM3WGFVSDZxMERuRzJCVTlPSzVaN0s4eW5obFRSSWZXVEZoYzZkZC1pSzFRSVpmYWdMYXpnNHZ0YVE4QUpR0gGfAUFVX3lxTFBzNS0zN2wtWV9jOUUzSm83OUxnVzhqU3h5QkRoc3RBQXpmdlczTzFyS0ZZWDh5dVdoUmV6MmNfdTgzWWlqNHdZeEJrMDZnLWE5SUdqUTMyUC0taGt1LVJVeUN5NzhRemlZQ0JWdk56RDFhT212UURRWEZLaXBmN0tmZ0NwWWx3dG1CNVh5c3FLUDV1bEt3U3JTNHBKaFN6bw?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 22:58:00 GMT",
-      "description": "RFK Jr. defends proposed 12% health budget cut, measles response in House testimony CBS News RFK Jr. distances himself from measles outbreak, bashes Tylenol study Roll Call FACT FOCUS: RFK Jr. says the US is limiting measles outbreaks better than the rest of the world AP News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -507,19 +525,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "California sees the most measles cases in 7 years as disease resurges nationwide - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmNhUXFzSC1TSnJ4eG56YjJtazVWRmltRDV1dlNTZkRCdV9aY3VCWGNISGNLeDIxbzJXSWlvRzJUQUtzLUpYN19MbU5TUlJtbVdaZjhBZWt3bU9QdkRUeVNJeGt4aXQwdjJLVnZQVlRvMHpHZWZiOXp6Y2RIaldsZWk3VU9KbUxSRjN0MEZySzg3bzlYeEhMMW1oazg5T0J2aEhYMVl4UmY4ZFZWS2VzZmNB?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 10:00:00 GMT",
-      "description": "California sees the most measles cases in 7 years as disease resurges nationwide Los Angeles Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Kennedy Shifts Tone on Vaccines in Congressional Hearing - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQllsZlVqQ3BkT3ZjOGpIcWJ5RG8zRUxJNkY4U25vc0xqb3Q5aER5bDZxQ2xTSVFDaHhCd1Y2NzluNlBlNHIyOFFSVXFrVnJfWl9RazEwMlhaUkdiWkZMR2JYSlZOV2wzemRQekhDZkdKMEI5aFhvQ3p5RXlrWXlQYkhaYUFSOEZFeUE?oc=5",
       "pubDate": "Thu, 16 Apr 2026 09:05:33 GMT",
-      "description": "Kennedy Shifts Tone on Vaccines in Congressional Hearing The New York Times",
+      "description": "Kennedy Shifts Tone on Vaccines in Congressional Hearing The New York Times RFK Jr. distances himself from measles outbreak, bashes Tylenol study Roll Call RFK Jr. defends proposed 12% health budget cut, measles response in House testimony CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
