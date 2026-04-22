@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-04-22T05:52:56.342Z",
-  "itemCount": 78,
+  "updatedAt": "2026-04-22T06:52:28.603Z",
+  "itemCount": 74,
   "items": [
+    {
+      "title": "Measles cases in Kazakhstan drop by 30% - Qazinform",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02bGJLSTNfTzlyVlN1bFZNdTRMWmJ2T21VcS1HSjhmb0ljRkhmVmNWelVBM1FhVDNuVVFmelVXRlpnN0Y2Y2E3WGpjMFkwVHFIV2lpaVl5MUtXUXdxWTRvTUQ0akNVUERQNzM5QXpoWmtqV0hodW9HTUlrYnLSAXxBVV95cUxPQWg0MnRaWkdfZm5lR09naERrT3JoQ3ExaVl5cWpuZlllZFhMS1hFWkRxeVRyUFppREk4UTJHWF9oSnVrTWx3VEt0ZkxaSzY1ejNnd1o2dGQ2QmpCY3NOWG1BNFZmeW4yMHB6VHR6TGNMcVk1NDd6LXk5ZFkw?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 06:07:32 GMT",
+      "description": "Measles cases in Kazakhstan drop by 30% Qazinform",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "RIDOH confirms first measles case of 2026 - The Brown Daily Herald",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdjB5eXFhZ0pZZmtBX3RRam5RaXV5b0pzMk1FZkpxV1BtRlFsZG9GQmo2cTZXNzMwODAzdWp5dTY4ZUhrWU95dk9XMzJlSDJKUHJtc2h2RWFFZ04xOFBJTGczX0VmQUF5WEtidUMzbERQSlQwSGlaOFRNVUdONVI5TjU1UVA2RmVPMFZYbGRPZHdFU1Yt?oc=5",
@@ -129,15 +138,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "RFK Jr. Refused to Commit to Backing New CDC Director on Vaccines - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdENXdmE5UkdTVl9EX0FuUHhfd211Z3JkWjBsQkJWVEtNeFF6RWJwdVlpWFMyREZORU00cDVaSFZXdm1ick1aelRPUldYdlJBZGw5RWRFYnFBQVlrUXdiWkxWMGVoYVV3alVaeUVKZVFjN1NfSzBBOWhJVk5zNEtLeWxUaXZ3YXdCU2c?oc=5",
-      "pubDate": "Tue, 21 Apr 2026 21:05:12 GMT",
-      "description": "RFK Jr. Refused to Commit to Backing New CDC Director on Vaccines The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Japan reports 56 additional measles cases in past week, Tokyo total tops 100 - Outbreak News Today",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU21tcGpIdlJQb3pjMzRjN2JHaGhLaV8wNzZ2SGdfRFctYUM0cjhTeTNScy1mQ3NycWNrWEVqaFpOMnc3YnRpUTZkWTZwUUxCTTE2enpDb2tjR3BCVDh6WW1ZekcwbnFNWFR1QVVIMEwwY0ZOVWxkdXd4UkNwMDd0dWZR?oc=5",
       "pubDate": "Tue, 21 Apr 2026 21:04:58 GMT",
@@ -192,10 +192,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "DPH reports no new measles cases since Friday - ABC Columbia",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcEdjc0ZUTDNKLXRlbFFzY0FzeTFmWVg0VExsdVdySGVYVThadzFQLVVhdS1HSGRmby1QNnp0UHhDRUR2NXpZR2JpejZrcFpOWldlNWRIdVMwM19IT2VuVGtWLVJfQVU4WmtRbzFTNFNTMTZOZEc1LVlrbkVoV0dad1JOb2E2MGZrQ0FISGFn?oc=5",
-      "pubDate": "Tue, 21 Apr 2026 19:03:57 GMT",
-      "description": "DPH reports no new measles cases since Friday ABC Columbia",
+      "title": "RFK Jr. Refused to Commit to Backing New CDC Director on Vaccines - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdENXdmE5UkdTVl9EX0FuUHhfd211Z3JkWjBsQkJWVEtNeFF6RWJwdVlpWFMyREZORU00cDVaSFZXdm1ick1aelRPUldYdlJBZGw5RWRFYnFBQVlrUXdiWkxWMGVoYVV3alVaeUVKZVFjN1NfSzBBOWhJVk5zNEtLeWxUaXZ3YXdCU2c?oc=5",
+      "pubDate": "Tue, 21 Apr 2026 18:32:27 GMT",
+      "description": "RFK Jr. Refused to Commit to Backing New CDC Director on Vaccines The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -205,6 +205,15 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zRF95NDdmSTNxSlBIVlR2SUNZTm5hMVU3VFE0dEllMVQzRUVNTUh4TjZ1WkhIcm1wT0wzcEp2S1VYUjc5YWljMU9FWVpKXzBNcVpsRWF1VVVWRFBLN1hocU5CbzFwTXUwSFdGcWt3QmpmRFFMalVCVHZUZw?oc=5",
       "pubDate": "Tue, 21 Apr 2026 18:28:41 GMT",
       "description": "Fact-Check: RFK Jr. Says U.S. Is Handling Measles Better Than the Rest of the World MedPage Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "DPH reports no new measles cases since Friday - ABC Columbia",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcEdjc0ZUTDNKLXRlbFFzY0FzeTFmWVg0VExsdVdySGVYVThadzFQLVVhdS1HSGRmby1QNnp0UHhDRUR2NXpZR2JpejZrcFpOWldlNWRIdVMwM19IT2VuVGtWLVJfQVU4WmtRbzFTNFNTMTZOZEc1LVlrbkVoV0dad1JOb2E2MGZrQ0FISGFn?oc=5",
+      "pubDate": "Tue, 21 Apr 2026 18:03:57 GMT",
+      "description": "DPH reports no new measles cases since Friday ABC Columbia",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -273,15 +282,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Global Virus Network on Measles Resurgence - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNektZTWJIWGJHdTUzQkplN2tJRWhjaTlXNV8tSjNBa0RMQVNiaGRnakVKT3dzd3l6dE05cF9TVVE1Y3YxeWYwd3d2ckRveDJEUl9qV2U5dm9FajJ1OGRzNWJlLVZ4Yl80Q2JDbEFWNUN4T2FDRWk3dno4bHRFMXVOTnZLbkd2OVVOckRGZDhUQlZjNGRfam9zNEtidkJKSlp0X2dGZHBiUDdSVUZBYXR2cTRaZGM?oc=5",
-      "pubDate": "Tue, 21 Apr 2026 14:30:00 GMT",
-      "description": "Global Virus Network on Measles Resurgence GlobeNewswire",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Newsmax's Greg Kelly on the threat of measles: \"Chillax a little bit\" - Media Matters for America",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLTR3cVVNcldyUkhnNzdCeUFLNDZhb2psTndKUjh0MzZZQi1WTmxwdWdLVVVaWWdVZHlZeXktRjBjOWI3UEJ1WldDN3phekR6S1p6VmN4bHcwUmp0RFJhdXhCYnoxRnFPdFpqaWl5SnZsVVgybm51MC1GTWNYcFg0dXZmekcxNHhLTUZxWFJ3bUU0blF1c2I4ZQ?oc=5",
       "pubDate": "Tue, 21 Apr 2026 13:00:03 GMT",
@@ -313,15 +313,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUZPaXhQQ25DYmRNRFlvdHFWaFJ6QlJXNGh1UEVGcS12TDBoS202b2g4OWF3b3lnRnRONWNzalc3MV9qdmdLYlJVYXc1V3BVNlc2SXl5M245TXdtZ2hsb3BuSUNxVU14cGpyZGx3ZlZGUVVqekdORTNwbGNGNEdWcFZ0LXdpY3Z1ekZvdFpzRXYyNFg1RGg4WHhQeDZmcUdlbTZ3ajE4anppcldoVmNlUi1xMVB4MlVhMVJNMmlB?oc=5",
       "pubDate": "Tue, 21 Apr 2026 12:30:00 GMT",
       "description": "Measles surge puts focus on NanoViricides' experimental treatment Stock Titan",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Why does one case of measles bother public health officials so much? - thebanner.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkZiZEJWdDI4NHZSVDNkNEI1aHVsVXU3blJXbFZDZEJpSUd6YWhHYy1kcERpZHdlaW90Ty1WUFlqdkdkZnBZdHlGVC0yZmtZUGlwUHBGb2RqQWg3cWlmQkpsWE9TMHZHcjE1Sldmd0tRRnBSSlpjMDFZTENCNExKM2xlZDZQVVJZamh5aHlCUW1tdVZFSUxLQ21SWk12ZlhLeWhuYkN1dVlMUkhuelhlcE9HZmk?oc=5",
-      "pubDate": "Tue, 21 Apr 2026 12:00:00 GMT",
-      "description": "Why does one case of measles bother public health officials so much? thebanner.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -402,7 +393,7 @@
       "title": "Measles case confirmed in Maryland resident who recently traveled - WBAL-TV",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV29IS21URlZPRF9lYWRRTkw3aWdoWHpNWGViQ3B3Y0NocmxUZVExazlrWjBZWGpvYU83SWxMMXlvME52U252ck5xMEdja080V2FwSVhFdGpycC1OZ3N5T0doR1FTRjBzQllHNW0td0ZHZmNUd1FyVjAwSENaeUZoTGxqSFZuRHE1LVRlZkFaZF9HZzM3cUpUVE1tb3RZSXFt?oc=5",
       "pubDate": "Mon, 20 Apr 2026 20:45:00 GMT",
-      "description": "Measles case confirmed in Maryland resident who recently traveled WBAL-TV",
+      "description": "Measles case confirmed in Maryland resident who recently traveled WBAL-TV Health officials confirm measles case was found in Maryland WTOP Why does one case of measles bother public health officials so much? thebanner.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -498,10 +489,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials confirm measles case was found in Maryland - WTOP",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMG9YSkhHc1lyQW9kZWRpX3N6YWZRak5EQWdGMHFhSjdxZEY5d09fc2hCdldHbTJIeTZ5cTd0Z09nNU16ZWpCdGQ0TzM1WFNEVEl6MFBpNk1yc3pZMTJxLTNpamNyWkwtQ3ktbldncnBGUVFhWHFoYnJ2TmhOdWw4RldFY25NbjRnWno0b2hiWmctaXd4M2dMandR?oc=5",
-      "pubDate": "Sun, 19 Apr 2026 21:43:13 GMT",
-      "description": "Health officials confirm measles case was found in Maryland WTOP",
+      "title": "Oregon Health Authority reports 20 measles cases, triggering health warnings - KEZI",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc3hKLV9MSUp1NDZnbkpsZGRVX1hnQ1ZCWWtEYWN3Z0lvY0JSVUhYb3p2OTRnX3FmVUM1XzdlNHdWcUZqQnNCT0M4Q28zaEJqV29uRnJjQms4dXYxalE2amlqZjNxMGNmWV9pT242QVhYcDNMZ2twWV9xVDZHSDZSejd6Yk84ekYya0o3b255UU5nZ29nT0s0OE8zV2dsaEFQa3FzZkdObGpCNjZRQlA5RTR3M1luMDBmOU51RFNQbmxLQXNNN3EzS1JwaEpmS0pSbVJoZmJNQ2owUmJBMUNaUVF1QkpNNXd1ZGJlaDdB?oc=5",
+      "pubDate": "Mon, 20 Apr 2026 04:56:49 GMT",
+      "description": "Oregon Health Authority reports 20 measles cases, triggering health warnings KEZI",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -561,15 +552,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Tribune Editorial: Utah officials need to raise the alarm about measles - The Salt Lake Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUk4dXB5SG9fcElocVBpNTVwZW5sZGxpV2xyclRub3hPVUZ3dDgzZzhNRTVKbzlhRl94bDJkd2tsTmZkV0ZIeGxQYkF4SDE4Y1VuT3RrLWt4b3hNMUpfY3RORHdsMlE1b2lJX01LWF9McVUyX0liMTRpV2kwbVBvdF9hM0dxa1dp?oc=5",
-      "pubDate": "Sun, 19 Apr 2026 12:09:28 GMT",
-      "description": "Tribune Editorial: Utah officials need to raise the alarm about measles The Salt Lake Tribune",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Philippines: Measles in Quezon City - Outbreak News Today",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVjFnQVpRd1d4ME9aLVpDd1NZOHJoNzFXZGFRZW9TQy1LcDhpckt3a3Y5V1Bxd1VORmJiMEtVV2VWazhPU1JkMi1zTHVPRXZJa1lWdVd6c1E5d2hJWXBxbFc0c3FfanFaX0tkUGV0NU96elZLYUNMRFRRZ0FwRE5ENw?oc=5",
       "pubDate": "Sun, 19 Apr 2026 11:26:53 GMT",
@@ -588,28 +570,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles case confirmed in Rhode Island - WPRI.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wVHRXbllwRVFhdV9sUzFLM1plb0xyT3JYTHFqTWxvb1N6WWttd1kzU21qNkd6N0NFX0c1bmdwTkNrZGIxLXJjRmg5cWFScjVwOU5iT3BCQjdadm9fRzU5cmpkU0o4TFI2Ry11OUFCc1NOcDdqaXfSAXtBVV95cUxObXFRSkR0SXIwTDB1WkJaZzZxMVp5NDE3R3NEbUR1aVpMQkRnQnpzazljQTRmU2piVE5ZOEgwWllJOHhacjJ0ZWVXLUxoZ0I5X0xyOEt0X3R5b3ptRG9TMjllYzd2SDF4b1dBdk1VNmpFTXpKaS1ieHJ0NjQ?oc=5",
-      "pubDate": "Sun, 19 Apr 2026 03:32:00 GMT",
-      "description": "Measles case confirmed in Rhode Island WPRI.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Case of measles confirmed in Rhode Island - NBC Boston",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOUxmR2ZoTjZLQUg2X2M1SnpjXzltYUlKQkpFNUN2MDNQZ2MyTWFmdHpDektrUW1yMlo3b1FzcHdRajFuTERlck1XQ0w2NnVJbGJ6NUlTUDZRZ2Uxd1hSTWhaekxFTlk1MC1pd1pQeFpRZnEweThQMGxOX0VPM0JNNFJFOWdUSDRkVGFvSXMxTWZnZEhRbjlGQ3hLRElHRWMwc2fSAaoBQVVfeXFMUGtXUm5zQXdOMk9rVDhmaHFRanN6STdReVpjR3pCYmp1cjB4ZENoUlh2ZGdCX19vUVVFajhfbDN3VnBsS2xNZzJaUGNJbjktSXNvamprMlNxQVhjaHdab0JhRkZFUklQdGFBYzdmLVpKTEl5TzdxUkR3RDdKNHlsMVRDM0l3WWdMRTZYcHBRWnNpa3RDaW9WVzk5OVN0UURORTcxcVllUUl1UkE?oc=5",
       "pubDate": "Sun, 19 Apr 2026 03:08:17 GMT",
       "description": "Case of measles confirmed in Rhode Island NBC Boston",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Department of Health confirms measles case in Rhode Island - WJAR",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmNIVkktOHBqRnR2cHFEdjFtS3A2M0pENVJDZmh1S3pES0x1T0RUU1huZzU5ZTZCSTA5b0tZcE1ybHZKZXRfSlhwUnF1OG1JUEdXX0FHTmtnbDJIY25XbUVkNE03REFVZnJReV9DaFFKVDJRQ1pmelluOG92RVlUQTlCNERlVmE0QUpPdXg3SjFVSDlD?oc=5",
-      "pubDate": "Sun, 19 Apr 2026 00:36:15 GMT",
-      "description": "Department of Health confirms measles case in Rhode Island WJAR",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
