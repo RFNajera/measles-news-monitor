@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-04-24T03:17:49.165Z",
-  "itemCount": 91,
+  "updatedAt": "2026-04-24T05:14:02.690Z",
+  "itemCount": 93,
   "items": [
     {
-      "title": "RFK Jr. Wipes His Hands Of This Whole Measles Outbreak Thing - Techdirt.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeElFbDhxY1VXTUViOUphUnZHbHkyZXA1XzgwX0xZTVBTRFRiaUlOTWcwRHR0MHhiWTJSMENUNUpkMjg4SGJrSTBMTjVnbGxtcjh6RGowV2hiZFRYc0M5Rm05SW9lWjd0dmtHRjdZSzBHUGQ5dmJfanoxUjhOSzF3bjUzS0VfcnpGbDhqYWRra2pJMzdzMGY0NXluZi0?oc=5",
-      "pubDate": "Fri, 24 Apr 2026 03:07:00 GMT",
-      "description": "RFK Jr. Wipes His Hands Of This Whole Measles Outbreak Thing Techdirt.",
+      "title": "Major U.S. airports warn of measles exposures - Cleveland.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ3hhQWt0NFlDcU1oaWZ5cUdRNzA2bnQtVlFUNHpZMUFPQmZ3dWM4bk1DZ0Z6Y1Vac3dEOGpid0k2cFMzR0pvcm90SnVtOFUtOFVlaE1tdTJCRFdpcUdIYkZhR2hnTWUwc1IwMUZ4YnpKQzI0X3NSUXNKUTFMQkZQSEQ2MmlUS2tqVk1NYXctS3FmSEHSAacBQVVfeXFMTXJqZVhoMWp6R2x4d1E1VGlHMVZXazZaWlk2R2M1c2NxbE9DODZsVi10Q0dwMUI5Q1J6UTlFSFJYNHhRUC1BdzRHVWJpdE16YWVjNkRWOGRFQ3dMSWRoaEFkZXZIU0R2WHhBLUwybUlRZ0t2cDJnSWRiVV83S0RzZG1jWUVGTUxrbnY2TEQ4REZFMVlhRG5XRmFPYWhYTXNPLUxSTTFmcjQ?oc=5",
+      "pubDate": "Fri, 24 Apr 2026 04:31:00 GMT",
+      "description": "Major U.S. airports warn of measles exposures Cleveland.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New study examines measles vaccination coverage after a postelimination outbreak - EurekAlert!",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQekF0S3Uwem95dWdBSG1ncHRVZXdyemNoSFRsWHoyOHdkVEt0SFozNDU2ZWpEWklsa1d4QldOamxyRlNJNVBLMDFDNnJpUTA4VGppMEk1S0tMSXp5?oc=5",
+      "pubDate": "Fri, 24 Apr 2026 04:19:56 GMT",
+      "description": "New study examines measles vaccination coverage after a postelimination outbreak EurekAlert!",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles exposure reported at Valley View Elementary School in Ellensburg - NonStop Local KHQ",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU1RrX09MQ21GUmJVWUF5VlI4YTBkVGZuSVg4X1RPM1pPUjVXamRpR2Z4aVlpYVJja3RLaXhPd205WDdOTkljTXJHYWVxbkd0a1NyTVJjTzRHTThqVUxxaU1nb01SNmdtSE9PSGt2Y2h0UHpvS2o3R3pUemNHZFlvWXpVWWhhVWsxNHlCWDJ1RXB0M08xQXcyOEYtNDFTUVVseXc2RkxhNHlIVmxTWU1sTW5aRGlMbGxsMVQ5Vmk2WmpMblZoSXVYZW5VZXBaemJrV0hkZ2FiajhiNW9IWGllYQ?oc=5",
+      "pubDate": "Fri, 24 Apr 2026 03:59:51 GMT",
+      "description": "Measles exposure reported at Valley View Elementary School in Ellensburg NonStop Local KHQ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -14,7 +32,7 @@
     {
       "title": "Opinion | How Utah’s measles outbreak is disrupting routine pediatric care - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2JqM3Vyc1drSWxGWk9tbjVNWDZrdG5uVVF2RTJKOG1lTWc3RTR1bkZrMFVHNU03RFhpMjJlQjdEMmZ6S2Y1b2VPUFlVOEpOZmJFZEpqR1V3YWw2bWpPNHo1ZXNpN1BzVDdGbS1zN0xUQ1NlVm1BM0NUTWVWd004SjJSUjZZbDZ3ODB3VFZadnJIdEtaUTFnekpGbTlqblE1OTN5VnR6UXdYbE9YVEVlaElxSzRTMUE?oc=5",
-      "pubDate": "Fri, 24 Apr 2026 02:36:54 GMT",
+      "pubDate": "Fri, 24 Apr 2026 03:30:00 GMT",
       "description": "Opinion | How Utah’s measles outbreak is disrupting routine pediatric care The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
@@ -84,24 +102,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles exposure reported at Valley View Elementary School in Ellensburg - Nonstop Local News",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZkprc21ZUzVJRFhhQkZvWHBHcG1XU3Y2UVJmYTAzcHpmYkVUOUlSTGs0UTg1QjZiMkZpd0t1cHg1YVpiQllrek5OMkwzVUlYbkY4Z2J3Z2ZxbzgzTFZJRmNvTC1JR0owdGk0WGtKaHJweGV5WTN4b18tOWlEYThlaFp4RmNyV2JrNHJFVDU3alJMRkpPcHlLbXRfY2RWdm0tVUx6WkUyWWg1YnBDVWdkX2xBM1FjQktIaDBmaFlfRHZTRmFiU1VscGZrV20xNVpzQnNDWEc3UmFDTC1GM0NUcGRMdzZnSm1fNm5Z?oc=5",
-      "pubDate": "Thu, 23 Apr 2026 23:09:00 GMT",
-      "description": "Measles exposure reported at Valley View Elementary School in Ellensburg Nonstop Local News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "More Than Four in 10 Adults Not Up to Date on Measles Vaccine - HealthDay",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUUV0Q1lmMFFtNkxTandnTlZXSHV3emN4VzFZQ1UwOUtpTDJ1aHpqUnprQmliYVlmWGUyREtCMnI5VnQ1Wjl4RUZEUm95TzZ1YlNnYnV3UFJBRndfVzdkM0JsQUJfVG1vZUFGcUZuMEFSeFVLWEZlbXZLWldKZ1E1ODF3OFBVNnBsR24wNVY5X3A2M1VlQVZRZTk5ejBJTXBrSjRRTjJKUGdKUVhWRUhZamJVLUJPTGdUbTBYcFd3?oc=5",
-      "pubDate": "Thu, 23 Apr 2026 22:51:17 GMT",
-      "description": "More Than Four in 10 Adults Not Up to Date on Measles Vaccine HealthDay",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "PAHO warns of rising measles cases in the Americas - The Tico Times",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSDRvcXlWQ0xjUUFMNU5CRFR5ZnZIX1NxWlFHQVdhUkE1NVNiUmVYanptcGlSeG81OENvTXlvR0l2RlV1eXI4d2lWTXZhUHQ5eGZVdnotTlJteEdobVFGaFpPN3RrWnEwSXI3MnpIYUhYaEl2U01nS016N0RVdmU1bWV5T3VBQ2toeWRn?oc=5",
       "pubDate": "Thu, 23 Apr 2026 22:00:00 GMT",
@@ -129,19 +129,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Pinal County confirms another measles case, this time for resident - PinalCentral.com",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOaDJmeHpIT0dEeUdNR3Nsd3dhejAtUFdWcm5ya3lHSTQwRVlOX1Ixa18wb2FpZVphT0pkVFFyNDNzYVJYZ1RCMFloa1FaN2NyelQ5dGpvWTZQYUExb2lGU2dJd09PZDIyRXhBWDJLZTk5Y0cxVFFYbnNMMFRPOGZsTGxjMGZoVmdCNUxCNUdtT1BBWWRJTTZnUFZwdHphczlST1g3ZGpVdXFZd3lWeFQ2Q21CUjRaRG5Zbk5mbnVKdnVEb2paTEpwSHR0cGZTWE93Q19WVDJ4cksxdS1WNXdjemtoRWlZYno0VXl3UnYxR2g4LUFsWkpqaTkwdERCRlpHSEo2NG9Fcw?oc=5",
-      "pubDate": "Thu, 23 Apr 2026 21:25:45 GMT",
-      "description": "Pinal County confirms another measles case, this time for resident PinalCentral.com",
+      "title": "Pinal County reports first community case of measles of 2026 - AZ Family",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEwtNlRNRTlNOF9hRTQ3ZTdkb2dYNjM4aG9RWVJMVjdyaU9NLVZaT0R0d1BwUVVNZXBnSFY5V0FwT01iM3duYUNQdUQxM2g1Ri1VcTFNZkN0MEZwT0cybFpEN2tOR29yODdDaXItRWQ1eVZNSXZEWUhXNW04c29fUjk4cUxvLTM2VFJvQXlTUTMwWE1fOGc?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 21:12:00 GMT",
+      "description": "Pinal County reports first community case of measles of 2026 AZ Family",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Pinal County reports first community case of measles of 2026 - AZ Family",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEwtNlRNRTlNOF9hRTQ3ZTdkb2dYNjM4aG9RWVJMVjdyaU9NLVZaT0R0d1BwUVVNZXBnSFY5V0FwT01iM3duYUNQdUQxM2g1Ri1VcTFNZkN0MEZwT0cybFpEN2tOR29yODdDaXItRWQ1eVZNSXZEWUhXNW04c29fUjk4cUxvLTM2VFJvQXlTUTMwWE1fOGc?oc=5",
-      "pubDate": "Thu, 23 Apr 2026 21:12:00 GMT",
-      "description": "Pinal County reports first community case of measles of 2026 AZ Family",
+      "title": "Pinal County confirms another measles case, this time for resident - PinalCentral.com",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOaDJmeHpIT0dEeUdNR3Nsd3dhejAtUFdWcm5ya3lHSTQwRVlOX1Ixa18wb2FpZVphT0pkVFFyNDNzYVJYZ1RCMFloa1FaN2NyelQ5dGpvWTZQYUExb2lGU2dJd09PZDIyRXhBWDJLZTk5Y0cxVFFYbnNMMFRPOGZsTGxjMGZoVmdCNUxCNUdtT1BBWWRJTTZnUFZwdHphczlST1g3ZGpVdXFZd3lWeFQ2Q21CUjRaRG5Zbk5mbnVKdnVEb2paTEpwSHR0cGZTWE93Q19WVDJ4cksxdS1WNXdjemtoRWlZYno0VXl3UnYxR2g4LUFsWkpqaTkwdERCRlpHSEo2NG9Fcw?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 21:02:00 GMT",
+      "description": "Pinal County confirms another measles case, this time for resident PinalCentral.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -192,15 +192,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Palm Beach County parents express concern after measles case at Wellington High School - WPTV",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeGJkMW5TNlBFTzlOWmlVUHdBekRqOGZTekI0c3JmZFd4Smp3Y0s0VFNrMDc0S2Jid3RrVUQ3WllTanE3Y3UxUFNlSTZzT25UU2pOOGdOZUYwT3NhRjc1X3lJLVZmdm5qQ01HYUNFMXNKRmhucVd0ZEtYMlF3T3Y1c3dScGkwcy00UHo3TUQ2MTI1UUQzbVQxZDJpdF9JajMzU3J4VTlneDU5N3l3Q2l0QzgyMTZEeXZjTFduZDBlLTZFdHNWVlMtV3JsUmdpby13cXhuXzZuUlYxRjBQYVJjZnJaTGk?oc=5",
-      "pubDate": "Thu, 23 Apr 2026 20:25:57 GMT",
-      "description": "Palm Beach County parents express concern after measles case at Wellington High School WPTV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "First measles case confirmed in Pinal County this year - KVOA",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOFEtUWdGMjZBR0hwLWlSUTFlRTMwZm1HWXpwZkxYV0ZDVjYyUmR6VXpKTXZsUzlzOFdCQnZkYmVZU2I5OEdKSmZQMkc5MnR3MlRvYTl1ZTFGYldYY0FBOEM5TmJFbkctVHBpM3ctaVgtdWNsVzhQNGdPVTlEVnVpUVJ2Tl9UdFQtQmJMTGFIeHFZQlBHVTVObWVpNmhwRTB1eml4cG1OakpiX0xVRXRYQWNqZ3JBRUlwVWlpOWRnUDhzRDFZd0lJZGhra1pzRjAwLUIxUA?oc=5",
       "pubDate": "Thu, 23 Apr 2026 20:13:00 GMT",
@@ -222,7 +213,7 @@
       "title": "NJ health officials warn Newark Airport travelers of possible measles exposure in Terminal B - ABC7 New York",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQm8xR29FbGx3UHRoZE1ram1NWEd0dmNadDBOT0lSTzFuWkw0UjM1dGZNU2xkbDV1US16S3BPOF9CUGtkOEJYX1NnMUF4bkF5UFFfRGZoQ0RqUVJaVGZwM3EzeWFWelBlR0Z6bmdoSGltMnlkbnhKOV9qSDhsZVVHVVRTVE53aGRFeDRTSlI4dm9kanhoaC1rTVJLTEtRUlp6aUpUa0FlYm41YWRwSzN4ODkzdGFKaVhWWlB5UdIBwgFBVV95cUxNcjJ0LWN6aVNTTTRyY0MtWGhpQlB4S0JwTU5uUFJXRDYyY1lmcVF5blpiTW1Fd2twUEM5ZmpjUWRGbEl1Y09VZVhiNlpiSXF6amxQTktKZDlLVklxY0F2UERjemJGRDZaa2VoM1JKcG81RVJuTVF4Ykl6UlJiM3lTaGwyNWRIS0hpNl9nQXJFUFI1QWdBX01MRVpWQnIzM0ViQ3NqRUpXODRieXNCRzJsSGN6bWlncUl2Q0x6MVV6YVFJdw?oc=5",
       "pubDate": "Thu, 23 Apr 2026 20:02:18 GMT",
-      "description": "NJ health officials warn Newark Airport travelers of possible measles exposure in Terminal B ABC7 New York NJ warns of possible measles exposures at Newark Airport Gothamist First measles case of 2026 reported at Bergen hospital, Newark Airport Bergen Record",
+      "description": "NJ health officials warn Newark Airport travelers of possible measles exposure in Terminal B ABC7 New York",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -336,6 +327,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "First measles case of 2026 reported at Bergen hospital, Newark Airport - Bergen Record",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWC1XZ081OXpmZG9wTnJVdUhrRlV3TFMzNW5acDdLWFNmc0NfdVBWVlljbGlNRXBVdEViVzdBZlIwX3drREVIbUtrblhRM0s1aWRjMUttdUJIT3JXbFl2VVhLeWd0ZnFtWDNJNW8zVEdCMkZlUGpvR0ZnMDVxVDJ4RlVuQzZkYWFQMHdhTnp4bU00d2tmdTRUcGVsRlh4aXoyQW9uTnFNVVNhM3M4REJUWURsRENOZzF4YURqMDRZaXZMVTNDM3d6MzhTWnQ?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 17:19:00 GMT",
+      "description": "First measles case of 2026 reported at Bergen hospital, Newark Airport Bergen Record",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Colorado records 17th measles case with an unvaccinated child in the Leadville area - Colorado Public Radio",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oRGtVYi0wNzlTUHJDVVlwblZuT29KRnZraDZLX05vYm5wZW1KdUNHQVJ6cU1ZUnJVbGNKT1BnMWF0TzZEZG1OMUpxOTBldEJoUndNTzFlNTRUc1lremRUSWQ0VEliZnIyX0FlN2pUZkU2Rnh6MVdxY3o2bFQ3Tlk?oc=5",
       "pubDate": "Thu, 23 Apr 2026 17:02:57 GMT",
@@ -390,10 +390,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles exposure at Newark airport and hospital after first confirmed case - PIX11",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZklMN1UxRjNmOEgzOUZDZkxEa3NCZTR1MFZVN0ppV2xsbzY0M2lNQl9GbVhFNXY4c1J2QlZ4VUpFRldBemVGNVIwWWhCTV9SR1ZSWVNlWkhmd2owQ1NWd3dBclhYM2hjelB5b2p1bVlLUjRDWGVWUVRkMzhyTUlLM0ZwVDVVd19VcFRrQnBrZXctZFdIdTlKM0c0Ulp4ZDBsc3hJS0szWFlDSzZVY0xPbmpjTnVDeU81RWRwa9IBwgFBVV95cUxNTXh5aTFBbV81b3dTSk1XRUQtbDA2dzhPaTBWU1lDSkFxdVE4cnpscFltNWk2NXdDOXNneVUzQjRadU5aaGpzb211SDNBZUxPaUhmektfWk83d0l1U2FyNFBPZzFtdFp1dXcxaXRTTlVBU0tua0g5cFItcGZMdUVYSjMtc0JpdzNiQ1B3dl8zNmZ4VXRpdklVT3hCZzNqMEp2ZGxWN094UF9RVWVOX0luN0U0aG1DRGdrNFJhSC1HSmJBUQ?oc=5",
-      "pubDate": "Thu, 23 Apr 2026 15:12:06 GMT",
-      "description": "Measles exposure at Newark airport and hospital after first confirmed case PIX11",
+      "title": "NJ warns of possible measles exposures at Newark Airport - Gothamist",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObFRqMHQ0bGpHWVFhSWtHZ2lLZEJiTy1BdHRIbVpseFBpTndZUUNGTnNBQXlTZ3Z0NUcwUmxXWEFFclhaYmJNVTBQSENQbHBZQi10cTVBQ1FpWWxrblpNcTgzdjBVWnFzaGhMRjN4VVNCcjR2dEtCNC1lMGVtOFpIVGw0Z3BUbVB6UGZJ?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 15:28:00 GMT",
+      "description": "NJ warns of possible measles exposures at Newark Airport Gothamist",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -507,6 +507,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles case confirmed in Lake County resident - KUSA.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcDBid3VrZC1mdzJ4VjMyazdPbko3NEUwdk94M1hNampwbkF1WUpxQm1UUURjc0NmdGZHRjBvNWQ3UFIxbW9mMnZadWFqdlRxVTVvOXkzT1VhNXpyclJWTG8zaXFRQ1JxRElVSjBLZm9zeU44TU1XSGk5XzFjSWVkTzBvV0dGWXBSYnBtRmRBY1RyeWJ4QTlMcFRzdDkwNHJRWnVRWlk4YURaVkp2U3hxWWdvcDdLUQ?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 03:05:00 GMT",
+      "description": "Measles case confirmed in Lake County resident KUSA.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "The Louisiana Department of Health confirms one case of measles in Kenner - WDSU",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLVBRNmFMLWJRdkRRT1N5ZjdrWXd1TjdWT3VnVm9LaUJPb1Yxb2loTm5vZGM4bThtazNmM1hJVHJjU0hjRzJjOVUzZmVPY3hEQXhGQ09SN3dHcUR1MjBGLXMwckJJLVhLd1p4NXl1cXRFWktRcFhDdF8yR3BYSGgxdl9YbnNKc1NXTExKWGxKZklNVmhKNi1Pc0E4ZGxoRTNlcldzNUVZc0tBRVJraWhzcw?oc=5",
       "pubDate": "Thu, 23 Apr 2026 01:55:00 GMT",
@@ -520,15 +529,6 @@
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaWNmOU1sT1BQMGRnWHo3Y2tzX3QwaU5Dbmd5Y2ZQUnZ5aUIwQ0g3YWd3SE9DY1A3UkwxVkY0TzVTUG0tdk50WS1PMDZnUFVubWF1YXFTTDJpNlpyMllLaW00bjlSNE1oR3EzdlFYU1owVC0tWGhnN1BwNl95eEE1OHBRTENCR1NEOHlDM0llaE8yREtCX3JfbTR0RlB0aVZtWkFHeDBfeUNLdmdFbFBfTDVXTVM3V3l4QW1kVDlHOWVpWVdTY04wam9IUTIyMW10alY4aWl1NzUteHprQk1kSUM1aE11Ri1obDlMUXhZZ2RQdThSd2Jj?oc=5",
       "pubDate": "Thu, 23 Apr 2026 01:40:00 GMT",
       "description": "LDH confirms first measles case of 2026; exposure possible at two stores in Kenner wwltv.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "State reports first case of measles this year, warns of public exposure in Kenner - NOLA.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQUE0QWhtaFkzc0IyTzMzY3dWbENtdmUtajhIN3ZaR3pxaC1LVXBCTWpCQVhfWDR3VzR6T2ZsaXE5dmlXRG82N29rR0lRVS1IN3NCazZNV0w3WC1lZE5WdGhyX2hoWHo4VHBfUk1fSG1URG9ZMHoxUkZCUS1PMGYxaTVMRWZMNDFlbzlBaTdBc0F6ZnF0b1pJOTdsTGVNNGZILTRrek5BaFpGN3BFaWtCTHdlU1pQWXVlbGVudnlIbXY0Nld5ZkNsdG1zcnNuNGpTNVJrRzRCdnNyYm0yN2lfY3p30gHnAUFVX3lxTE5icV9vSHFlWmlZNDRwc0tnbTEzWXZMS1NiTzZzNldCRy12V1VRUmNDTHBKaXJpVmIzeUp3dFdoMzU0UWFsRDFldVFNMHBTXzVzbTRZU290ZmxITlg2aEZZSjlOYUtpZmdVc1ZkaTNlbk50Z1FGeGR4VEdZdVVZZVUxX1MzOWM4bVRYQUtsYy1PN1RBTUt5RVI1ZnFmM2JJbDhGUU9idDBPMnh2OUtRLTZqczUwaGxCeDJoMGlIVjg5NG5xbi1JUllpSGhmVnhUZGhWRlI5OUxIZHpaWXFfSWcwUHNUUFZtVQ?oc=5",
-      "pubDate": "Thu, 23 Apr 2026 01:38:00 GMT",
-      "description": "State reports first case of measles this year, warns of public exposure in Kenner NOLA.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -588,10 +588,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Mass. health officials: Passenger on Boston-bound JetBlue flight had measles, prompts health alert - WCVB",
+      "title": "Passenger on Boston-bound JetBlue flight had measles, health officials warn - WCVB",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSHZGcEtJTUZYclktXzZqLXVFYUs3dVJyM051SWl2dVNSTXdqWGZld1FxdERnM19RTlpnLU50Tk5EODNXSWI5SjhOVm84Y1MtMFVNeU5vNHozSmR6QXViQ2xRTWc2ZWMtZ2hBU2FtVkJRd0hjb2ZaOVozaVYyWVVjcmM4Z1RhQQ?oc=5",
       "pubDate": "Wed, 22 Apr 2026 21:51:00 GMT",
-      "description": "Mass. health officials: Passenger on Boston-bound JetBlue flight had measles, prompts health alert WCVB",
+      "description": "Passenger on Boston-bound JetBlue flight had measles, health officials warn WCVB",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -696,6 +696,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "An urgent need to vaccinate: Bolivia’s response to the ongoing measles outbreak in isolated communities - Pan American Health Organization (PAHO)",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjljRmFrXzdiODk3YzRnSFAycERRNWF0blJvQjQ4Z01jZ3BxYWgzY1hwOUhEWGkzaDF3TnhMWklfUTFOV01FNTBESklZYkNNWnE4RVJFMEItdXIybnk2NG4wS0VsbFlnRjFIcVBEWEF3YjcwVDJEOWpZeG9waWZOZEtEcGxsR3gxckg4ZXRJOG43UTFOUUcyWTF3anlWZnUwdDhFbFloc2lfem1xbW5XQjNPaTllcGZ3?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 14:43:44 GMT",
+      "description": "An urgent need to vaccinate: Bolivia’s response to the ongoing measles outbreak in isolated communities Pan American Health Organization (PAHO)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Logan Airport travelers might have been exposed to measles, health officials warn - NBC Boston",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRTVFOE56RXdyV0xxRV9HcXY4ZzhIcDI0dk5BZzlURjNHdkN5QktFbUw4ZEV6aExYT29YYlFiOGVYdDMwakYtME5yNVJ6Y1NpSGtibVFGWkJ4ZFZqeFcxd09CZjdTUUVWUmZXX2syR1lXbDRmNmhROEdtaFhqeUVLbHFiRHlIYjZaUzZjU0ZfNjR6SmlsbVBFamlKcnIxUjJ6ekhwSmhZc0xEOEtFUFoxN2JJMWViVXRlTjFsa2ZPdGVZcGgx0gHMAUFVX3lxTFB0WG1LYXgwSG5GQ0FVNzBiZFl1N1VLSE9GWkZydDRONHlrX0tmbUtFUG1rRXBEOHZBcC11V1VYYWVVeUh4SFhzX0hwZGljUGZDZGU5dGFIR0xYUFZiZG1CalVScGxXaGRRTWdtRnd4Z1pnV2RQellybTJmbnpQSC1lRnIwMGlMLUJ0M0pkdlFyOUxuWm1sWHVacldyZXoxQVBsLVl5Y3VYMm5JRWVuWTlHN2tFQUZxN2ZHR1BGYzB2dkc4Q0JFRElTc3hfRg?oc=5",
       "pubDate": "Wed, 22 Apr 2026 14:42:38 GMT",
@@ -714,15 +723,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Utah leads the nation in measles cases, but COVID made health officials cautious to encourage vaccines - The Salt Lake Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSnFMejE0Q2pya1pJS0ZvTUkyVWtfa0RPOEI1d1BPclhVVTN5bjc3MjJFdE44X3QtZjhCYTJlWjZxd203c3FzZThpUUd3dFJnTGRCNFdnd1V2ckRUVEtidmtMakVRSklwQ1NBemZ3emYtSktCLUhvVGRVUGg2bnNLczhWNllQNFdj?oc=5",
-      "pubDate": "Wed, 22 Apr 2026 12:00:26 GMT",
-      "description": "Utah leads the nation in measles cases, but COVID made health officials cautious to encourage vaccines The Salt Lake Tribune",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Will the LDS Church encourage its members to get the measles vaccine? We asked. Here’s the response. - The Salt Lake Tribune",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa3M3bkxlbVdyWWpUS3g2aXNqZE5mcGI3Qkc4aklLUVdzSkNmYm5aTU96U3dScjBNa2RJWmxBODlnTU1XZmc1alFkMTl2WkFTdm1VNHVoZ29EQlRtMlg3T0RUOHJTc1ctOVJWSHZqZURPU3R3Y0d2RFdBVGhpOU9ncndMVQ?oc=5",
       "pubDate": "Wed, 22 Apr 2026 12:00:26 GMT",
@@ -732,10 +732,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "RIDOH confirms first measles case of 2026 - The Brown Daily Herald",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdjB5eXFhZ0pZZmtBX3RRam5RaXV5b0pzMk1FZkpxV1BtRlFsZG9GQmo2cTZXNzMwODAzdWp5dTY4ZUhrWU95dk9XMzJlSDJKUHJtc2h2RWFFZ04xOFBJTGczX0VmQUF5WEtidUMzbERQSlQwSGlaOFRNVUdONVI5TjU1UVA2RmVPMFZYbGRPZHdFU1Yt?oc=5",
-      "pubDate": "Wed, 22 Apr 2026 04:55:00 GMT",
-      "description": "RIDOH confirms first measles case of 2026 The Brown Daily Herald",
+      "title": "Utah leads the nation in measles cases, but COVID made health officials cautious to encourage vaccines - The Salt Lake Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSnFMejE0Q2pya1pJS0ZvTUkyVWtfa0RPOEI1d1BPclhVVTN5bjc3MjJFdE44X3QtZjhCYTJlWjZxd203c3FzZThpUUd3dFJnTGRCNFdnd1V2ckRUVEtidmtMakVRSklwQ1NBemZ3emYtSktCLUhvVGRVUGg2bnNLczhWNllQNFdj?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 12:00:26 GMT",
+      "description": "Utah leads the nation in measles cases, but COVID made health officials cautious to encourage vaccines The Salt Lake Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Utah drives disproportionate share of measles cases in US as outbreaks spread - KUTV",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEVfUERnR2Y0UmRZeFRDTWxQVlhSMzIxZWRlTzdtQ0MwSkZkbThiMUZwYkcwNUxxWVBzX2w0NktlMFhoeHJKcmVUTTdUYUpTYXVjcEdCWVRxN3M1OEFKUzBsUktBY0RrYV9hQW56ajVpUFhYWXVwTlNJcDBRekVua2l0dUNjN1BNbXhtVGRlclpSd1FURE9ValRVd0hiTWRTcEJKNG9FSXA4SHl5cEFHTDVDdw?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 02:44:35 GMT",
+      "description": "Utah drives disproportionate share of measles cases in US as outbreaks spread KUTV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -768,6 +777,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "DPH reports no new measles cases ahead of potential Sunday end to state outbreak - South Carolina Public Radio",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSlZQSW9lTTU3LWVSV3M0N2Vydjh2NXUwZ3IwOXZxQTRDaEttVlRXLWFEdkN1YlZZZkZlcHRhRnlyUVYxenNmYVBLTXN2Qk5zNzdabGFYTmE3OTRmS2NwWDhGXzVUUHRIa3pEdmlfTjlGSDB2dzVGYnJhRXdYQV9laE9VYll4QXZmcWh4MjB3U0F1Q3VyVUNqcUxFaEJ3V21UamJwaVc0aWhYdWtWOHZSR0Zjd2dnZEhxREc5Ymp6X0w2b3hwR29aWWNZZ0MxbTk2c3hWRDdfbw?oc=5",
+      "pubDate": "Tue, 21 Apr 2026 19:24:00 GMT",
+      "description": "DPH reports no new measles cases ahead of potential Sunday end to state outbreak South Carolina Public Radio",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Opinion | Measles Took My Daughter. This Is What I Want Everyone to Know. - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYTdkaU5CZ05hVUtoREdOZldDVmxTZ2pUclpLWnVDcldBTGZtWG0xWnlBRjhNM0pCbU9BZElrUHdBU01WU3lTN0NHYjBRRU9sc1NkZWo2UERTT1BtYTRQZU9vMDR6ZDl3bXhVMU4zYWdhNGdnS1plUTlubFp6QVFZN3R6VXlrWFRJ?oc=5",
       "pubDate": "Tue, 21 Apr 2026 09:00:21 GMT",
@@ -777,10 +795,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "As Measles Takes Toll on Kids, Anti-Vaxxers Have Change of Heart - Bloomberg",
+      "title": "As Measles Takes Toll on Kids, Anti-Vaxxers Have Change of Heart - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOHBVTlhJeW5JR2VoZmtGZGd1ZVFZUG9hbTJ4OHJfdmpaMlpETzRXRDl0TnBGTmVfZ2R4cXIwcmtCa1lxYTh5S3lUWS1qZlI2OVpBY003bzhjN1BaaFJqZ1VfdlVMSUlBRk0xdXdpd0FHYkJrZUhvMnFlLVYwd1BJT1FFN3VrMlk0S1RWd1d6UmZ1TGU0OUtPcGtISTk0S081dUhacmxNOGwxSjcxQkFTT2k0bVRSQnphY0hudUk0eFk?oc=5",
       "pubDate": "Mon, 20 Apr 2026 09:00:10 GMT",
-      "description": "As Measles Takes Toll on Kids, Anti-Vaxxers Have Change of Heart Bloomberg",
+      "description": "As Measles Takes Toll on Kids, Anti-Vaxxers Have Change of Heart Bloomberg.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
