@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-04-25T14:25:29.791Z",
-  "itemCount": 84,
+  "updatedAt": "2026-04-25T15:24:54.500Z",
+  "itemCount": 83,
   "items": [
+    {
+      "title": "Bangladesh's measles-like outbreak kills 11 more, total deaths surpass 250 - Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSDV3SlVJQUQwT2xDUHBqMUNqT3p1TzF1dF8waUdwd3pUUFFLYi01ZzJTRGN2THRmUEVrQmJVeC1HbFphcHV0bWZraVV4RXBjWUxWcE9tdjFLUmc1VHUxbGlmcjJGNGpCWndvaDhXUGhRTWo4V0NvTUhGMHUxbUYwWjR2SzIyMWtJX2Nodk03aWtPdlNGa0g5U25n?oc=5",
+      "pubDate": "Sat, 25 Apr 2026 14:48:45 GMT",
+      "description": "Bangladesh's measles-like outbreak kills 11 more, total deaths surpass 250 Latest news from Azerbaijan",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "11 more die from measles-like symptoms in Bangladesh as death toll crosses 250 - Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSFBnQ1BZd3JLbmpvNkdsSWdlOThUWHh2Vk0tSDBRUEd3azdFdF9QWllQd3lqMWNmRTdzenlQYVNqQTIya2lKdElQWG44a1ZRNkpZdUQ2RkR4VXlHMFpJVXV2RTNNRW9CckpNOXlOMllYS2FkeWMzcjlpS1hSWFFXQk05c2VDTEliSTNRVm1kWExKM0pqSVo4aGFURlNYemV6VkllMTdHcmN2R0lPd05qMkFZaExZaThzb2FpY2U0WExaUQ?oc=5",
@@ -133,15 +142,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUTUxbHZLWGhfa05zbmNlMVk4SzZ0M0dWMmg0LUhmbzQtUG5qTlY1ZndraXNBXzFfeWpoR29iTWFXUGdIYWF4eFRSc2hocVctZDkxekJIYkVRa1oydVk4V19kdV9LWGpkZi1tLWI5a0tkV0kyVEliZVZsNWxQbEZqSkRNT2UtdjVwbVhZaEJKNUtGTndhbC1iVUM4MmQ2YWR6aFVUTTdhX0pEZ1Uwc0xUSnhzWQ?oc=5",
       "pubDate": "Fri, 24 Apr 2026 21:39:20 GMT",
       "description": "Two cases of measles confirmed in Maryland residents who traveled out of state: officials WBFF",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Health officials confirm two measles cases in Anne Arundel area - Baltimore Sun",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPam9JZmhwNVE2VElaWkRTcEN3SU1ySDZLYlFLVkl6ektLbUNmSjdaNzhlWTVzVmNRelhtOVY5d0RYdlo5R1Y5SVA2dVdDZjBJS2wzS1d6RVdJeUI5R0hPWVFvdVJ6azhsYWVJRUNXdVdRSlFPMXhxTjFWME1mS3lQeFlscU1wQlI5ZkptZVVXb29fZw?oc=5",
-      "pubDate": "Fri, 24 Apr 2026 21:35:21 GMT",
-      "description": "Health officials confirm two measles cases in Anne Arundel area Baltimore Sun",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -435,6 +435,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "First measles case of 2026 reported at Bergen hospital, Newark Airport - Bergen Record",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWC1XZ081OXpmZG9wTnJVdUhrRlV3TFMzNW5acDdLWFNmc0NfdVBWVlljbGlNRXBVdEViVzdBZlIwX3drREVIbUtrblhRM0s1aWRjMUttdUJIT3JXbFl2VVhLeWd0ZnFtWDNJNW8zVEdCMkZlUGpvR0ZnMDVxVDJ4RlVuQzZkYWFQMHdhTnp4bU00d2tmdTRUcGVsRlh4aXoyQW9uTnFNVVNhM3M4REJUWURsRENOZzF4YURqMDRZaXZMVTNDM3d6MzhTWnQ?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 17:19:00 GMT",
+      "description": "First measles case of 2026 reported at Bergen hospital, Newark Airport Bergen Record",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Colorado records 17th measles case with an unvaccinated child in the Leadville area - Colorado Public Radio",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oRGtVYi0wNzlTUHJDVVlwblZuT29KRnZraDZLX05vYm5wZW1KdUNHQVJ6cU1ZUnJVbGNKT1BnMWF0TzZEZG1OMUpxOTBldEJoUndNTzFlNTRUc1lremRUSWQ0VEliZnIyX0FlN2pUZkU2Rnh6MVdxY3o2bFQ3Tlk?oc=5",
       "pubDate": "Thu, 23 Apr 2026 17:02:57 GMT",
@@ -534,15 +543,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "The Louisiana Department of Health confirms one case of measles in Kenner - WDSU",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLVBRNmFMLWJRdkRRT1N5ZjdrWXd1TjdWT3VnVm9LaUJPb1Yxb2loTm5vZGM4bThtazNmM1hJVHJjU0hjRzJjOVUzZmVPY3hEQXhGQ09SN3dHcUR1MjBGLXMwckJJLVhLd1p4NXl1cXRFWktRcFhDdF8yR3BYSGgxdl9YbnNKc1NXTExKWGxKZklNVmhKNi1Pc0E4ZGxoRTNlcldzNUVZc0tBRVJraWhzcw?oc=5",
-      "pubDate": "Thu, 23 Apr 2026 01:55:00 GMT",
-      "description": "The Louisiana Department of Health confirms one case of measles in Kenner WDSU",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "LDH confirms first measles case of 2026; exposure possible at two stores in Kenner - WWLTV.com",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaWNmOU1sT1BQMGRnWHo3Y2tzX3QwaU5Dbmd5Y2ZQUnZ5aUIwQ0g3YWd3SE9DY1A3UkwxVkY0TzVTUG0tdk50WS1PMDZnUFVubWF1YXFTTDJpNlpyMllLaW00bjlSNE1oR3EzdlFYU1owVC0tWGhnN1BwNl95eEE1OHBRTENCR1NEOHlDM0llaE8yREtCX3JfbTR0RlB0aVZtWkFHeDBfeUNLdmdFbFBfTDVXTVM3V3l4QW1kVDlHOWVpWVdTY04wam9IUTIyMW10alY4aWl1NzUteHprQk1kSUM1aE11Ri1obDlMUXhZZ2RQdThSd2Jj?oc=5",
       "pubDate": "Thu, 23 Apr 2026 01:40:00 GMT",
@@ -565,15 +565,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONUtCSnZ4aGYwa3A3SjlCRzZIV2E4OHhiVzVyV2k5VzJadWVnekdXWWU0SUhLbmMzcHVuR2NoSGpkSnRDQVR0Qk1vLWs3dkRiMjlBZ3NEZ3diaHRsS2hnLWpDS1hSanhBQ3ZPRU4zc3NhbW9TOE9TM0g4aUZRSXJ3RHpQZVNLNHM?oc=5",
       "pubDate": "Wed, 22 Apr 2026 23:45:00 GMT",
       "description": "N.J. health officials warn of possible measles exposure at Newark Airport CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases in Phoenix area reach 30-year high. Were you exposed? - The Arizona Republic",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaEs4N3VPMklFU1dsT3BnZkZCNE5vUXZBTFprbDF5elQ2UUFqU1hZU2d0S1hucjdEVS1RQ2FpVDkyV0tIbnA1TnRDMmxJMWJDX3VVc2lpaTVPZk9BU29OUHBHT2xYZGF1X2g4NFNJWDZYckgyOW10ZTFPcnh0VGFrR1NiTHJsNVdIeE10UkIydThYOUUtY1lhZFRLLXBjSEItVGRQQU1YRGI4UW0zMlBYSVdFWQ?oc=5",
-      "pubDate": "Wed, 22 Apr 2026 23:11:36 GMT",
-      "description": "Measles cases in Phoenix area reach 30-year high. Were you exposed? The Arizona Republic",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -696,6 +687,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Logan Airport travelers might have been exposed to measles, health officials warn - NBC Boston",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRTVFOE56RXdyV0xxRV9HcXY4ZzhIcDI0dk5BZzlURjNHdkN5QktFbUw4ZEV6aExYT29YYlFiOGVYdDMwakYtME5yNVJ6Y1NpSGtibVFGWkJ4ZFZqeFcxd09CZjdTUUVWUmZXX2syR1lXbDRmNmhROEdtaFhqeUVLbHFiRHlIYjZaUzZjU0ZfNjR6SmlsbVBFamlKcnIxUjJ6ekhwSmhZc0xEOEtFUFoxN2JJMWViVXRlTjFsa2ZPdGVZcGgx0gHMAUFVX3lxTFB0WG1LYXgwSG5GQ0FVNzBiZFl1N1VLSE9GWkZydDRONHlrX0tmbUtFUG1rRXBEOHZBcC11V1VYYWVVeUh4SFhzX0hwZGljUGZDZGU5dGFIR0xYUFZiZG1CalVScGxXaGRRTWdtRnd4Z1pnV2RQellybTJmbnpQSC1lRnIwMGlMLUJ0M0pkdlFyOUxuWm1sWHVacldyZXoxQVBsLVl5Y3VYMm5JRWVuWTlHN2tFQUZxN2ZHR1BGYzB2dkc4Q0JFRElTc3hfRg?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 14:42:38 GMT",
+      "description": "Logan Airport travelers might have been exposed to measles, health officials warn NBC Boston",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Travelers at Logan Airport may have been exposed to measles when infected passenger entered terminal - The Boston Globe",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sZllfckxHOGk2eTl3QlRWU2hjYkE1T0RHa0JMT1luWkJQd1BqVHBYWWVxYm9FcFpRQTdudmN3RjYxTlIzZlFwRXd2b3NWLUFQNUJiQ0d0UDNvTVlBal9tNzRvSzVoYUVvM2Z4bHBVX2t4RWtYWFE?oc=5",
       "pubDate": "Wed, 22 Apr 2026 14:27:00 GMT",
@@ -709,15 +709,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0JvYlI4VXFhV2MybERtWWxEckpsV1AwbjdkQUdxQW5NY3hoVHhteVF3UzF5N2hiRTVacndpd3QxVnRUTHZzYjVteVcyWWhzQVJyRHBYaUFCdC1YUkZlZC1zQ2lkakd1NU01ck04ZHhod0V3VUY1eVBtMUJOOGJ4V3FBb24?oc=5",
       "pubDate": "Wed, 22 Apr 2026 13:00:36 GMT",
       "description": "Health officials warn Oregon measles outbreak is growing Oregon Public Broadcasting - OPB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "America isn’t prepared for what comes after the measles crisis - Salon.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZEFudm5wUkg5aHU2RndUQVVDS1JCNnFCaF9lR0RuQXBLcWVZdko1XzZyRmtPOHJJdGdkN0cwZnB4bDVSejVyNzFoa29mUWR5N2xMUzhvZWVCNTBvSTdRMHB2QUc3bTBPaXh3Wm16X1dfbkJGQVp5bTRkN0c1NHFMNFJjZnduMlh5TDk5N01xMkE1M2llam5yUDJ2bw?oc=5",
-      "pubDate": "Wed, 22 Apr 2026 13:00:21 GMT",
-      "description": "America isn’t prepared for what comes after the measles crisis Salon.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
