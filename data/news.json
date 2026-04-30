@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-30T19:43:51.475Z",
-  "itemCount": 57,
+  "updatedAt": "2026-04-30T20:35:28.801Z",
+  "itemCount": 63,
   "items": [
     {
       "title": "Public Health Alerts: Detection of a single measles infection using untargeted ultra-deep metagenomic sequencing of wastewater in Cook County, Illinois - CIDRAP",
@@ -129,6 +129,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "8 months, 997 cases, $2.1M spent: SC measles outbreak by the numbers - CBS 17",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd1ZlWXBFLWhieU82dXpmZTdoU3J5Y1FicDN6VlRoZ2RwZjFNeEwwNDlQbHhubDlIWlFKZmJRYi03ZFRVZHNPemp1cl9UMEplWlc0ZGNWZ1o2MzF1SmlNQ0owc3RRWGhfLVFXd3ZsM2d2YVM0cmUyMHpVSGtUQmFmMXo4QldjSEhDcnBaQ3dyamQ3VlR0aFFLX3NCZ3VwQ0XSAaQBQVVfeXFMUFFUWDJ1MTZjTzVXeTRua2ZyblRzNzJoTXlwVVpHc3RsZGVQZFNBUjdXdzlFeWJTckV4ZzlXUDVQTHZSVEEtQjNuUjNyVXd6MXpyYjM1Njh1cGc4SVdNNjNXRUx2cXV5Y2Qwa09rZkNCR0hPbVdjX2JEWEt6ZDFSaG84aDY0c1QzUjdxZHJDOHlvdThmVG1GY3FpcW5WelpJRDREbGc?oc=5",
+      "pubDate": "Wed, 29 Apr 2026 23:55:05 GMT",
+      "description": "8 months, 997 cases, $2.1M spent: SC measles outbreak by the numbers CBS 17",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Maricopa County measles cases remain low, but officials still urge caution - KJZZ",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkRUbDQtdHliOVp4dHluTkNzcFJpS0V6UkRKenZIMGZHZU1LaW5HV2JQaVJqblZmOFM1NW9uNE9hZWM1QXBUZFFJSG9XMTY5TjhZNEtCb3BJYU5Na2l0dVJ2YWF2SnJhcjd0TGp0aTkySkFZYjBDZk0yVEhWT192TXh0c3NOZkJMejU1SFpIajRNSDZkSWZ0UjNfSTZpb201eWhjYkJUTUU3aTVoMW1fT2NTUQ?oc=5",
       "pubDate": "Wed, 29 Apr 2026 22:42:00 GMT",
@@ -160,15 +169,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS21peVZVSWoyX2lQTWF2M0Itb09GeHM2NlVvbHM4aFFLMDdsNHluNkRTYjFvUk84XzVJdE1UNHVCLUpJUzNjYWdiT3JrVGcyUzE2NWZOci1qaEZzN0hEVEpoalA0SEpqMEFaeW9CYW0yb3E0MW1TZm84VGU2X2hMQmJITmcwbmVqX2Z4WUZ5RjRWM2JTNFFqSGFKckxOT2kw0gG0AUFVX3lxTE8xZ0IzYkpYUVlfd1kxc1BzMmxqSlp2Z3lvOU1BN3JraVFQaXhqSm91STYwWGRNNXl2Ymx4YUZtNENGd3c3dkJLMzRGeDlRdXZNX1BHalNVempGbU45SU1FNVMxR3VvT3FnU3o0b3ZmQ2JQZk9MeGVXZUdjWjhaVFhBOEhqbnJqa01QQ1V2NXkwTHBhNk9NT01WTWcyQ3BuQ2I4TG9CdWIxckVQSndRQndpT3lWbg?oc=5",
       "pubDate": "Wed, 29 Apr 2026 20:36:00 GMT",
       "description": "Impact of measles epidemic, insight into new gene therapy for hearing loss KLTV.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "8 months, 997 cases, $2.1M spent: Upstate measles outbreak by the numbers - WSPA 7NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVEppSHhySmVUa1VuZjRtZHhNUlYxTGwzOVB5Z2ltbUFqUlVDTFJxbndEcVlJc0tVVVM3eWJfN2Z0TjBMSDU3b092VWF2OHJ5N054RldObTlyT05IbmdIMFJBQTFlekhYV2lmN2tmMWgtYjZzWHFoOTBDN3lCWHNFaHFjMzRBN0ZOdkZMVEhmcnNkc0hTNVJ0S2hick9jMDNPYnNfRXdybDBDU3PSAbABQVVfeXFMT0pDLWxRV3FyeGRaXzBJeU9GVkczUGJER3BqY3NZTDZaMGVXX0cxZ3o0TVFCWmpkZU1WWUlyS2lXZVFLai1pZHhzelZSQV9wTDhYaVZDaFcyWURRQVg2c1pmdTVmV2Z4M0hFcm5YaE42dVNFNFV6QzZVbW5PcEJ1QmtoNTFCdE8zREluUG02YjQyQkRoQmdyalZBazVkUmE3VzIwdm5VdmU2Rm1EWjJJdlU?oc=5",
-      "pubDate": "Wed, 29 Apr 2026 19:47:47 GMT",
-      "description": "8 months, 997 cases, $2.1M spent: Upstate measles outbreak by the numbers WSPA 7NEWS",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -237,6 +237,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Two new measles cases in Arizona in last two weeks - Arizona PBS",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ182OFhxSE1YN0NKQ19LLTBNRl8xbW9FZmdqMVFLVFd3Tl9XS2pBbXFCSUVkQTY2THJEYnJuSUN0eTBjOXpLRF9oTmlwWWNPRWU1VTAwM09MeFNMaDVIR0JPY21EX1NvaTBpLThOTnc2Vm11ZmVUVmIwVnp6Y3d6NnktUUFZNVBIdDJsQUpB?oc=5",
+      "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "description": "Two new measles cases in Arizona in last two weeks Arizona PBS",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "First Measles Case of the Year Reported in New Jersey - Vaccine Advisor",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS2J3YVFnYk5mcVJ5eFFDMF9XWUpQSjVBYnotUFRBOXVjYm9uNUd1WlB4Q1E0VmY1RmVKcHdPLURNZVptcjA3ZFdtbzFXVFRyU2ptR2c5RWpUaXprWk1KYkFOZTExNWo2LU1oWHZ4OU0teGdkcnNWZkE4UU9rZTZJZmhnNW5rYUI5ZGVpR1JsNWx5Rmha?oc=5",
       "pubDate": "Wed, 29 Apr 2026 04:00:00 GMT",
@@ -282,6 +291,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Somerville family hunkers down at home under measles quarantine after exposure at Logan - The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbmJLOU9jd1ZES3hOMjdfVjVfUUlWaWFKRWVwLWt2NUx2NUZlY3FtVUtJYnR6c0FrYkdWcUFlRDROdEVacDEzd3hvUlhENzlsUVFQbTVZLWc3akx4ejROWTVFbG9XYkxKT3JKQmZYOEhIejBDX0FvbnJUTDU0ZEp2VzFNRm00ZlN0X1E?oc=5",
+      "pubDate": "Tue, 28 Apr 2026 22:00:00 GMT",
+      "description": "Somerville family hunkers down at home under measles quarantine after exposure at Logan The Boston Globe",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Japan measles outbreak continues rise in 2026 - Outbreak News Today",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pdjdDNm1vOG91QVZES3lab3NPSDVxcC1LNXBlRDcyWXpjNWZhRFpfUVRadzQ4TE85NW1QbHVpVENVRDVuX2FJU2U2WjZTd3NUdHJqeWhqNTA2VlROcklMMDZYVTZ1a01mVm50VV9xM2RsUVd6bGF6RlZiSFR3QQ?oc=5",
       "pubDate": "Tue, 28 Apr 2026 21:33:43 GMT",
@@ -291,10 +309,37 @@
       "sourceLabel": "News"
     },
     {
+      "title": "New Jersey Reports First Case of Measles for 2026. Here’s How to Protect Your Kids - njfamily.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNzZhdXpOTlF2UFd4a3pmeDRzY1lST1RobnZpcUFfd2QtWEdGcEgwaEFOZEMyQy1JaU9YcFlwY2JlMTJDS1A5MFdZM2p5bjEzajJka3ppV19lajhhWU1OSnlCRTVzMDU1WVRBZmQ1ME9FUW0wZ1plYXhSb3BQOVlBSXFJVnd1TkFxNm45VTR3SmNKaWJCZ3dKZ2ZjV2Z6a0JFZXlxdzVhR2t1UQ?oc=5",
+      "pubDate": "Tue, 28 Apr 2026 21:18:12 GMT",
+      "description": "New Jersey Reports First Case of Measles for 2026. Here’s How to Protect Your Kids njfamily.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "ER patients highlight measles vaccine gaps - futurity.org",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RQWp4QkFwT3hwdkpjWkxEVU8tZTd0MUdSQ1RYTm5NeFV1cG0xTnI2N3dKcjZPZ3pVVmFtMDlwVWk1b2dodC1sZWxpQVV0MmM5RDJydUd6R3RkaHhUQWdMcnctT0Y5X19HaVpnSy1GYVBrdFlUY3BHOUxlX2RMdw?oc=5",
       "pubDate": "Tue, 28 Apr 2026 20:37:47 GMT",
       "description": "ER patients highlight measles vaccine gaps futurity.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Investigation underway after confirmed measles case reported in Cameron County - KRGV",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeE8yM2Vkb3A5THFPX0ViN2wyVDZaSFJDSGl3RVdGeGJXS2pGSVJKVlpSX0xRVXVra2xmMURGMmx1RGFFN1FNOElaZmEtRzVieFZwdzVwY3JoeGoxc1RtWWN0eHJqeGtGZ2QxOGR5VjVrTThUZHRxM05JU3gzdU5kVFdLQkdBeUc3WkE5R2otX2tJWFhOU0pXLXBzZTcwNnRuYndCSHJHQXk?oc=5",
+      "pubDate": "Tue, 28 Apr 2026 20:32:44 GMT",
+      "description": "Investigation underway after confirmed measles case reported in Cameron County KRGV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Calls emerge for RFK to be fired over rising measles cases | - Audacy",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ05yN3IyUHRDWkdBNHZYeE9haDVUZERkRjVqLVVnUEFPVHFKeUhMbllIaW5wRlpsMDBvaG5KbHpOakNrakFtR2hLTDRjWUNJTzU0eVZ6WUVSV3FUNXBYTFU4OWt3d0RFTzJEWXhOMWRYSW9CSXN0MllWX1hCdGhJRlR0eFZJVmZNMWJKdWxlaHJFcmRuZ1NycGUtdw?oc=5",
+      "pubDate": "Tue, 28 Apr 2026 20:32:29 GMT",
+      "description": "Calls emerge for RFK to be fired over rising measles cases | Audacy",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -502,6 +547,15 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEJMWUIzaWFJaGM4eFNjaVZ1anNZNHpjTk8xNXVydVdkSXpaekdmV2pwcWdaT0FzT1hYSGdhQTgwbWxxRVFJTExhZTItMW1yWUdxM1FNdUJnb3hfblNaLVFYdUdLS1hRREt5bGc1eS1qNTdxN1lZNzJ3WDFqNEV0MzA5QjJtZHl5WWVfMEVmaXBLeDh5UTJ6SkJrNlpGQzdNOWVUUdIBqgFBVV95cUxNRnNneVdkYzRRT0F3QUdzSEctNEREWkVUdXh3QTFDTHRjNjN5R3RjNHNkX2g4cFdEbUZVTnBmV0tRNEI4b2FfSVpGRUhOSGhOUWt0bElncHJnYzhiT2N5cGpod3BuN0dvSDVVX05FNzd2UDZ6dlIwYWNCLUg3RktfeVl5U1FzUHBuejRtZlNoVHZOZDRvbGpiblhzRWViRzdUT0dZd1hqOW1fZw?oc=5",
       "pubDate": "Mon, 27 Apr 2026 08:09:50 GMT",
       "description": "War and neglect fuel deadly measles epidemic in Sudan’s Darfur Al Jazeera",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Newer testing methods suggest significant silent spread of measles in the US, threatening elimination - CNN",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYmlrMkRubG9nR29fYzVVbFNhT3Bjc1pUYU9PTjd3VlZFUV9TeEp4cjVfS3o1YmJRbmliZFRLdEJieWQtOFlDWUVaXzZrbDlJRkd6V0lYdURMd2gyc2pZN1B6cHlxOFhneTBZMFJiYV9qeXBWdlZlQlBJUGgtd2xhNGQxT01nOUx0TE1qYUxn?oc=5",
+      "pubDate": "Fri, 24 Apr 2026 11:00:50 GMT",
+      "description": "Newer testing methods suggest significant silent spread of measles in the US, threatening elimination CNN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
