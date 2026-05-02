@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T15:26:41.301Z",
+  "updatedAt": "2026-05-02T16:26:48.231Z",
   "itemCount": 73,
   "items": [
     {
@@ -282,15 +282,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles is very contagious and can be very serious for young children - Tri-City Herald",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BVmdtNzNnVTZLRWlFeUMxTzA5dGZTWHlCNW1nY3gzd2RDSnBoUGxEYzBTUHhSVW5FRHlFZDJJMXFKbDB1ZXBQaGdvSTFlX3czbUo1blN2Z2owNUNYMnJVanVJVF90MlhPY1E?oc=5",
-      "pubDate": "Fri, 01 May 2026 18:08:40 GMT",
-      "description": "Measles is very contagious and can be very serious for young children Tri-City Herald",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "One measles case reported in Dunn County - KX News",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MUW5abnJUWlA0bGZLWUFST0hlaHlobGFWc0tRRXRYN2VjTzdVNHFSeG9sMjF3Wkw2T0c0NWF4d0dQS2ZMQ2tUMXJNaVZxbWxNMEpzbk5FWXpKclJZeUM2YUE1SUxxZ3gxNThSRVl6UE9MdWda0gF6QVVfeXFMUGgyaDFKSTlDMndLc2RhSHoxejFVWnZFMHVsVFRrNU1walVaSXJ3OHpEWWF3bkVFUUhrWklRLVJOcm03bVV3WmhJcjZNTEtSSF9rN1kwS0VHMjIxbWxXYmxWSXpqaUFjSFpUWTZxQmQ2Yks3bHpaZXN6bUE?oc=5",
       "pubDate": "Fri, 01 May 2026 18:00:45 GMT",
@@ -331,6 +322,15 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQXB3a2xqbzlQQW00Y1JRYzhZamZWbkg2MDJHNWxEUjh0MEd2Q0Jwb3dNbEVSbXozLUdHSFRWWTRQRDRGYjhCaTlLY3pGd1FxbXhqdnZNd05BdWpkenBGMXR4Q2h0cFJiZ0RMMHUyWmRvQkx2YWJrVUZTNGxBdF81eEp0Wk8xemYwZ0ZJSzl5UFY?oc=5",
       "pubDate": "Fri, 01 May 2026 15:16:12 GMT",
       "description": "First Wyoming Measles Case of 2026 Reported from Fremont County Wyoming Department of Health (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Three new measles cases reported in South Florida; state still ranks fourth in U.S. - Sun Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdTlHeEJxVU9PQlk5eHNsV2tHOFh4QkhxOGZITEVxUl9CRlFLemN5aWtkRHdQWXlxbmFraE9DbDJuaWhMSDBFYVNTcDJJUzVZRERaX25sNi14Ml81c3U4S2NYU0hQV215ZEVMd1VZdzNRMkNnbEdIOE1icVRYd1VtMkRZS20ta3R3cmJNLWNBdzY3cjJjSkpHQ1BIbjBKc3hkMi1mZkZQYWlvajhWQ3A1Uy1JSG96R2ZEdUlCUVJaUQ?oc=5",
+      "pubDate": "Fri, 01 May 2026 11:01:08 GMT",
+      "description": "Three new measles cases reported in South Florida; state still ranks fourth in U.S. Sun Sentinel",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -651,10 +651,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "A record-breaking measles outbreak in the US has ended. It may have helped drive a spike in vaccination rates - CNN",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oRERoQndER3FvMnpRMndxYU5hMkdndnlKSkxyajVJanNadXV3WGxHMk11X3hXaU43NDZFXy02V2Z2SHQ1ZGlXMUFJRHVVZVFVTVNxV3BrbW91TUFwUkotRi0yOEp4WXdyLU1qTk5iSGs3aWhXaVZ2eG5rQVV2NEk?oc=5",
-      "pubDate": "Mon, 27 Apr 2026 10:54:54 GMT",
-      "description": "A record-breaking measles outbreak in the US has ended. It may have helped drive a spike in vaccination rates CNN",
+      "title": "A record-breaking measles outbreak in the US has ended. It may have helped drive vaccination rates - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlJaakR2ZVBNOV9nOVRMS21oekJRMDQ4Vm9HVE85UTNvVEEtYWFHUkQ0aFJfMDRadVFaclJIdGVSZ2VnYTgtQzE5aTlZT19FdGxUblhaVXBfRlRIWXlNNDBiUWIzdDhvT1FNc0JvaGd2NV8zTFpvd0V0R0l4TTBiNmQzXzhiWkN5eUZnV1A0NUt4MUFzSWpac1NneEI3QlB1TmtweVc1ZGN2b0FzMW02SjlR?oc=5",
+      "pubDate": "Mon, 27 Apr 2026 11:30:40 GMT",
+      "description": "A record-breaking measles outbreak in the US has ended. It may have helped drive vaccination rates WRAL",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
