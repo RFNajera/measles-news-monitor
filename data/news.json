@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-03T18:29:20.528Z",
-  "itemCount": 64,
+  "updatedAt": "2026-05-03T19:31:45.200Z",
+  "itemCount": 66,
   "items": [
     {
       "title": "Measles spreading undetected in Washington? Health officials are worried - Yakima Herald-Republic",
@@ -12,19 +12,28 @@
       "sourceLabel": "News"
     },
     {
-      "title": "A measles outbreak by the numbers: 8 months, 997 cases, $2.1M spent - wivb.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWlBN1JzZHFHa0J3UHF4eW1uRTNqVjlLZTVPczZBalA2WDV0UjBQX1ZPN29SZm5sSExxY05KUFRBYTk3WjJDSENqYXk0NUo1eG1WVU1tbk9TY1E4c29nN21YSTBSVWNPTzAtandpYXN6UVgyUDIxYTdSWExBWFBHdmZKRnA0RDJ2RVM2Z1pLeS0teTRCOW11Mlp1NUVBVDhY0gGmAUFVX3lxTE5BanYtbU16LTBrNy1qTHhXaS10R3JhZ3Jjd3J5aXM1VnNnRUtLNExyY2prVVRESWljOF9UNjJrZFcwR3BsaEJCaTB0MEZpV09GRzREenZ3X09Gc3paTllUdkhtNDg1ZWJObDgtVjVlQlNqUGNpTmtqNmZnRlYwSlc2cEc3VHBFSmw4ZFJBQVMtVmNsbURpRERxSGVrS1U5V1hUQXM2UEE?oc=5",
-      "pubDate": "Sun, 03 May 2026 15:01:38 GMT",
-      "description": "A measles outbreak by the numbers: 8 months, 997 cases, $2.1M spent wivb.com",
+      "title": "A measles outbreak by the numbers: 8 months, 997 cases, $2.1M spent - fox5sandiego.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzMtV2hHSHFRRk9yVk40M3Qwelh1OXJEYTdWRjZQLXdYQjliZnRELVFEelpJTkdIdm4xREpQMDFxRTRjSy15RVJXZWxfcXpuVS1TUDZFbVBobXZ0Vm5ublhrYkoyQldPUEtmVGpMWHhTaHppR1E0WW1rNDhMcUlKRk9yWGlWcGVpOUMyUWpwaWVJXzhwbFhMS0x0eWdoSUxhZFVv0gGoAUFVX3lxTFBlNmFxTFdMb1QwWGd0LTJEWEkyT3pURmoyS1VmOUJqdlZYRFpHM1RjZENETWJHMkhWc3NpTE4xQ052SS0wTGY0QW9BRXlnUGI0VExQazA1ZWpNcjJtM293cm1tMEJRbVB3NHg2YW83WUduQVFoN3lBWmVCTGpBU0hVRnRJd0JyaUF3LXVaQU9TVHlPVkFqWjNfaENLczdHQVZmWTFDaDRZbw?oc=5",
+      "pubDate": "Sun, 03 May 2026 17:02:07 GMT",
+      "description": "A measles outbreak by the numbers: 8 months, 997 cases, $2.1M spent fox5sandiego.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "A measles outbreak by the numbers: 8 months, 997 cases, $2.1M spent - WGN-TV",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeExpWlBYR1VTdG9SaXg0OWdnbWtJdVJvek03Ymg0U3lOQ1FfNVd0VWhSN0EteTY3MmktWmd3NzdBaC1EQlQwbTljdER5b2NZY3MxdHlKYnFtMlRHNFl3N2NDNjlPSENWZFEwNUs0MWNpUVBOS2JLdFVFd25KdWZiM01XSEF4QnFoRjR5aDBRVGx3MWZqZDVlLWJ2OG40U2ZQM04tVVdrTGVBZ9IBrwFBVV95cUxPMERfWGoxeFlfNmpBU3M1X3I2MXJLZDl1aDVQbGVrSGQ4VjJiQkR1eFJKcG1SNUJKWHB3c1dqRWtMYmJDZzB6WW8wMTUwZ0ZpNDB6dE5zVlltanB4MzVxUXRjQ0doM1pELWdjbXFIVjdtNW9kSzNoNEJfLVBsekJDSWZ6MmZsSDhqM1BHbTdpdmZ5VHdKdE9SV2VlaG00dGdIc0hpWFJSNENKLXNXUW5N?oc=5",
-      "pubDate": "Sun, 03 May 2026 15:01:00 GMT",
-      "description": "A measles outbreak by the numbers: 8 months, 997 cases, $2.1M spent WGN-TV",
+      "title": "SC health officials declare end to measles outbreak; 997 cases reported - WRBL",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMXZGbEthWWJsRldNbjhEanBBR1RqX0gtdXlzX3F4akg3MmcxcTNNRXNDWkk5b2dwNXdKcGpwWGRpMEFPN2JZek9RR0k4UkRRSnBoZEhPYXdYb2VRdzZGRHV6WVpQcG0xSDJubWZLZnZyTXRKTFY5MzVQeEFSVDhmRXhmZ3g5ZmpITEI2d21FTHRmemxyRW80eU5JeHZiM1NTZElCV2NrY2tuQzg?oc=5",
+      "pubDate": "Sun, 03 May 2026 16:31:02 GMT",
+      "description": "SC health officials declare end to measles outbreak; 997 cases reported WRBL",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "A measles outbreak by the numbers: 8 months, 997 cases, $2.1M spent - wivb.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWlBN1JzZHFHa0J3UHF4eW1uRTNqVjlLZTVPczZBalA2WDV0UjBQX1ZPN29SZm5sSExxY05KUFRBYTk3WjJDSENqYXk0NUo1eG1WVU1tbk9TY1E4c29nN21YSTBSVWNPTzAtandpYXN6UVgyUDIxYTdSWExBWFBHdmZKRnA0RDJ2RVM2Z1pLeS0teTRCOW11Mlp1NUVBVDhY0gGmAUFVX3lxTE5BanYtbU16LTBrNy1qTHhXaS10R3JhZ3Jjd3J5aXM1VnNnRUtLNExyY2prVVRESWljOF9UNjJrZFcwR3BsaEJCaTB0MEZpV09GRzREenZ3X09Gc3paTllUdkhtNDg1ZWJObDgtVjVlQlNqUGNpTmtqNmZnRlYwSlc2cEc3VHBFSmw4ZFJBQVMtVmNsbURpRERxSGVrS1U5V1hUQXM2UEE?oc=5",
+      "pubDate": "Sun, 03 May 2026 15:01:38 GMT",
+      "description": "A measles outbreak by the numbers: 8 months, 997 cases, $2.1M spent wivb.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -102,19 +111,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "As measles cases rage in Florida, vaccine resistance persists. Why? - The Palm Beach Post",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUG9US2s2ejh6Yi1NWTJ6UjVhZDExa05DQ3JYV1BMbWJERVF5Y1FBbktQQkFHV0txcW5KbWFVUlh3WXdVQkdINmVYZlpLRzhNMlhUVXctbGdwTFo5eFl4Ykg1T19qMXoteGlwWUNJeWZGRmxtSWhEVnZuNXVfMW16bzhNZkZhMXFhaG5zMmdzMmYyQjQ5MnFOTlhwal9RVnVtTzRORzFpT0Y3RUU4S0JpT0ZrdllWTmQ2Um5GNjRFR1kzQU9OY0M3U2dHakRraWE5YVZnNXp1ZlBlVXZCRlM1SHNURVdzSVlaUU1J?oc=5",
-      "pubDate": "Sat, 02 May 2026 15:23:00 GMT",
-      "description": "As measles cases rage in Florida, vaccine resistance persists. Why? The Palm Beach Post",
+      "title": "The Church, Measles, and Vaccination - By Common Consent",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12QW1WeXhkaUVnOHlrRy1XVlQwQlE1M2pGWk9xZGV2UUNJa3BwUGtNZTRjZDg4ajV4Q3Exd1B1WFBSRXl6THd2cmYtV2E1STFINW1FZFpDT0g4amg0WHlsRHF4c2pSREkxbmVsNVA2QTV3bG56SHV4MF8ya1RUYUU?oc=5",
+      "pubDate": "Sat, 02 May 2026 17:31:01 GMT",
+      "description": "The Church, Measles, and Vaccination By Common Consent",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles kills 100s of children in Bangladesh, outbreak ‘linked’ to vaccine procurement change under Yunus - ThePrint",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObXp6QzU5VXVpUmhpVE1wRGJRc093aXdubFZQaTlaUTY2XzBOdXV1N2pfdDlyblF0eTRmdzNUUHhqRnlyeWs0Z0FMcWtRVFBKeHBmZnlYNWJES29GSlBSaTNiLWN2emU3Vk9VUks0Q3VXalhYZU1EQjVlU1p0UWpCSmpsVEZVZVh2dDl2TXp3U0NaUTVXVlFWTDQwcUJGb2JYZ3h2aFNUdXQ4eVZvbzdMWUhTMVVZeGZGMkp4Z2o0U3dFS0NhSDJBMzhvY1Y0NXhOWUVJ0gHYAUFVX3lxTFBHOTRxbXV2bFpMTHA3OTNYWG9kR2xCQk5zbUtYMnl5SWZvVVVQbG9BOVJPVXRXTWk0SEZyU2NGaU5jcVV2c3hvUzk1MHlIVEVqalVGcnkwbzFkdWtLaFhESzIxOUd4TGpuVFUwTWVscFBPVzZsdUZyQVJfX3RVX3l3Y3NFNGdOTXd5Y3Nsd0p3bjlJMUhqQ1BYOEMzVy1vUkRhaklGSEZlMjV1dkxXaE1fS1E5ZVpXWUt6WnRVMHpoQmNxS2Fhd3BDekZFSDlMcHQyTGpQNG5zZQ?oc=5",
-      "pubDate": "Sat, 02 May 2026 14:40:09 GMT",
-      "description": "Measles kills 100s of children in Bangladesh, outbreak ‘linked’ to vaccine procurement change under Yunus ThePrint",
+      "title": "As measles cases rage in Florida, vaccine resistance persists. Why? - The Palm Beach Post",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUG9US2s2ejh6Yi1NWTJ6UjVhZDExa05DQ3JYV1BMbWJERVF5Y1FBbktQQkFHV0txcW5KbWFVUlh3WXdVQkdINmVYZlpLRzhNMlhUVXctbGdwTFo5eFl4Ykg1T19qMXoteGlwWUNJeWZGRmxtSWhEVnZuNXVfMW16bzhNZkZhMXFhaG5zMmdzMmYyQjQ5MnFOTlhwal9RVnVtTzRORzFpT0Y3RUU4S0JpT0ZrdllWTmQ2Um5GNjRFR1kzQU9OY0M3U2dHakRraWE5YVZnNXp1ZlBlVXZCRlM1SHNURVdzSVlaUU1J?oc=5",
+      "pubDate": "Sat, 02 May 2026 15:23:00 GMT",
+      "description": "As measles cases rage in Florida, vaccine resistance persists. Why? The Palm Beach Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -336,6 +345,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "WDH reports first confirmed case of measles in Wyoming for 2026; Riverton store listed as possible exposure location - County 10",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUnJVUExXQWFERkRlYldRelpLX3ItU0d0VjhEOHhHb2RwaUpaLW92NDJFTmJpa1JQTHlMU0pHV0F5ZTZHTXRkRmlSak02VWxXLUlNbHl4ZGxraW1TWUNqOENIaTd3d3BuZWo1M09WMlRGOVZXdGtLaTBsak9pWUR0NE5vR21sRWdDMXFLNVdHZm44QW5ES0U5MkNtLTYzc04wREdIZjhqaS1KcE9XQWhWMjVZQXE1Q2JmcWptNE1aM0tCQVE4VVNjbjZaNllnZjlLN3BV?oc=5",
+      "pubDate": "Fri, 01 May 2026 17:05:49 GMT",
+      "description": "WDH reports first confirmed case of measles in Wyoming for 2026; Riverton store listed as possible exposure location County 10",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Possible measles exposure reported at Newark airport - Healthbeat",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0EtMXRCYTBXQm03clV2OC1zRmtiRC1xZ2RZclRtaEl4VTQtSjNhc2VGTGtSbjhIQXJKNE9IckFTVzlzSUFaRUlHT3JnQWJQX1Y4bXFqUXkwY25PbzdxeldMUUd0UV96eVBZZFJDOVRSOEwtV3l5dUo0UTBNbm04dUpUdUdzSWtYc1o0S0VDMngxZGRkcW1HUXY5N0R2M1Zxdkw2M040Ym51cnZY?oc=5",
       "pubDate": "Fri, 01 May 2026 16:13:00 GMT",
@@ -489,19 +507,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Somerville father, children isolate after measles exposure at Logan - Boston.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2NkV0NOWXZLazB0OE5IbmV3VkVUeDJuSFF0VG53TmRSQkhvVkVQTUdmSkdSeTI3eDIxY01iTlNQSjJFZEJaTEFEcnR5Ym1uWHRGVGc1U2RLdVV5b184WWtkWnVHS0trMVNfalRoMnpOLWRWendRV19BazdmZjk4ZVdnUkhtWXVpbW5FQUw5WUtYWk40ZEpBdFhMaE0yUUdDOGtVLWM3S0MwNWpxY3NjajJHUE5vX18w?oc=5",
-      "pubDate": "Thu, 30 Apr 2026 15:37:00 GMT",
-      "description": "Somerville father, children isolate after measles exposure at Logan Boston.com",
+      "title": "CDC warns additional measles cases expected during busy travel season - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWxoQl9xV2QwSWxtNGpxX3ZsYmFMNWpSWVJZRmhDNUVwSTdjUl8wY1I0MXFXUkxVTzhPUVpOQ2RsN3hJUTl4SUprbDlTUXoyWkk5V3lNSUprSnRySk1NQ1BPbUk0S2RTOVJxdFluRWV0bFhLcGNFWWE3SnBoZDV2WU1pVi1OOVhPOVU5Rlplb1gyaU5COFJicmtMVy1xTkM5a3AtWXp3?oc=5",
+      "pubDate": "Thu, 30 Apr 2026 11:42:00 GMT",
+      "description": "CDC warns additional measles cases expected during busy travel season USA Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "CDC warns additional measles cases expected during busy travel season - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWxoQl9xV2QwSWxtNGpxX3ZsYmFMNWpSWVJZRmhDNUVwSTdjUl8wY1I0MXFXUkxVTzhPUVpOQ2RsN3hJUTl4SUprbDlTUXoyWkk5V3lNSUprSnRySk1NQ1BPbUk0S2RTOVJxdFluRWV0bFhLcGNFWWE3SnBoZDV2WU1pVi1OOVhPOVU5Rlplb1gyaU5COFJicmtMVy1xTkM5a3AtWXp3?oc=5",
-      "pubDate": "Thu, 30 Apr 2026 11:42:00 GMT",
-      "description": "CDC warns additional measles cases expected during busy travel season USA Today",
+      "title": "Measles cases quadruple in popular international destination: What travelers should know - MassLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT3JEN0JjeUVxdzVRaGZrUlVBT1l0QV8wVTdZQXg2MkZKbDlPZ0g0Q19kam1LWFFxWTdMM091bjBoTnhUc3F5RkxPd3ZjcGFrX01mRmZHa3ZXZ0hvM1c2a3hNbllXQk1hR3htVk43NW1iNTVFY1I4MVZjQWszbjZBOWRHMkRXbGlhUVJ5UTdRQ1p6NXg4aFFJOTBYbHFoS0xOczA1T1E5WTliakFPbFlLZmRJa2o2RHZzMTVLMWloeE5FTTJfZlR4cERR0gHeAUFVX3lxTFBuYXB6T2FEMEFTdE80dGdqTU9BMkhJYUNXazlHWGc0WEo3ajJOTHB0VVpWOEx1WE11UFpSUndIaGhuS3BIV2lyd1ZCM3UxaWQwLUpISXU4b1hBM25qV1BGYzJFMzltRUUxLUNaNHNxLVg2eDlOS3RzYXRpaF94SUR6eVQtdVVkSUpfdFZ0U3ZVdWFOX1Y1SXdLMWVfQ1JnZG1DVUJxeGExbFN2SFdwR0N1WFVialEtcEE4QmlMQnJfTjRfT2lYZDlCYTNEVlVnYldpZ0JIUkRHbWFHZUxLUQ?oc=5",
+      "pubDate": "Thu, 30 Apr 2026 09:38:00 GMT",
+      "description": "Measles cases quadruple in popular international destination: What travelers should know MassLive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
