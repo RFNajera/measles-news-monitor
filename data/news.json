@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T19:44:47.549Z",
+  "updatedAt": "2026-05-04T20:39:58.266Z",
   "itemCount": 60,
   "items": [
     {
@@ -66,15 +66,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Second measles case confirmed in Midlands - WIS News 10",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOS1ocDRQNDl6MWxtcEpZRDRDMXk3S2pqZlczX2JhYlZCbUdOQWp5dzdqQ3RfNTlRem11LVR6ZF9NbVBnXzhRa3VQVkZ0NW5vTS1lX2hhVVpSdTc4ZnFhY0FlZ21sR3AyMzl4NjVUcXNjU2k4TFpOY0hwWEMyOFY4OUNTbjE?oc=5",
-      "pubDate": "Mon, 04 May 2026 16:31:33 GMT",
-      "description": "Second measles case confirmed in Midlands WIS News 10",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "DPH: Second measles case reported in Saluda County - WIS News 10",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRk1mZ1B6NEtyRlVYam9hb2l1ekxLVzIxdnZZMzlhZ3JTZGhfbmFOVDdDUU5fUkdfQnpGeWFOSUV1N1FXdnR6SDh3cTVpSkNsQjJKMlRoYVZFM0xKRUhIZGNRdVQzUFd1aHpkaU5QVUhNSUMtejNEZlk5a01qaGhhU2lINm9WQ3c?oc=5",
       "pubDate": "Mon, 04 May 2026 16:25:00 GMT",
@@ -84,10 +75,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "South Carolina health officials confirm second measles case in Saluda County - WPDE",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1c4Slc5NjJvVTRBMDJDOTh5TjBKbXJRd0hZOU9IWEFZRWtkLXM5ckxCSjk5bXRkUlAyYXFIYTdmM1RGOGIxcGtjSkhqeVhOaVVxdzlxbDR3ZGtWSktVeG9qYlVaeWJGSmoySk1qbHF1MWJVd0pCTE5ySnhRMnZMT1hxcEJsWjhmM1RseW9WYnNDN2xKb0VpWkx6Mm51dENUY0YwX0ZuTldmVUo4Ump3X0hiQkk3b1BNQnoxWG5LWnVwQkJOaHFwUmRJY1hnd1pHVlk1eUlFR0tDVzFmMjZSdEZ5OUhGZnJ0QzJFWHhGeUxzZw?oc=5",
+      "pubDate": "Mon, 04 May 2026 16:23:09 GMT",
+      "description": "South Carolina health officials confirm second measles case in Saluda County WPDE",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles cases reported in another South Carolina county after outbreak ends - WYFF News 4",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTVdxT3VfelBYR2Z6VHZGMTBpX0V4VmpIckxKM0xWeWYyZnNObmpjRTFoMjN6T0RDV3dkT1lsSGRJRzM3TGEyaWdoczk4WjZqSk5DODZaRjJOV01hbjRzRHEzaE51M3M5RWdJcjdXeWZSV1pUMlBrSkZndUZnSTVJODllSQ?oc=5",
       "pubDate": "Mon, 04 May 2026 16:08:00 GMT",
       "description": "Measles cases reported in another South Carolina county after outbreak ends WYFF News 4 South Carolina health officials confirm second measles case in Saluda County WCIV Second measles case pops up in Saluda, but it’s not part of historic outbreak, state says Post and Courier",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Second measles case confirmed in Midlands - WIS News 10",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOS1ocDRQNDl6MWxtcEpZRDRDMXk3S2pqZlczX2JhYlZCbUdOQWp5dzdqQ3RfNTlRem11LVR6ZF9NbVBnXzhRa3VQVkZ0NW5vTS1lX2hhVVpSdTc4ZnFhY0FlZ21sR3AyMzl4NjVUcXNjU2k4TFpOY0hwWEMyOFY4OUNTbjE?oc=5",
+      "pubDate": "Mon, 04 May 2026 16:04:07 GMT",
+      "description": "Second measles case confirmed in Midlands WIS News 10",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -282,6 +291,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Health Department Urges Residents to Check Exposure After Measles Case - The MoCo Show -",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVJ3RzRUdkJ0Ymw1TzhqRm5fYzU0TGFnZWwtaG9nU0kzZnVSWlNiWks2WURCcl9zc09oQ2JaRHh0NnRhUC1kYUExam1uRnhjeDJEcGdKOUYyekRGMmNvMHN1a1cxU1I0SklteGNxTDFuOTA5WjJPOWEwNFlQeG1WZEcwSjFuMTVKUkVUaFg3MURFSWUtaFZVdzhYYmR6ekktdlB3ZEVn?oc=5",
+      "pubDate": "Sat, 02 May 2026 18:04:37 GMT",
+      "description": "Health Department Urges Residents to Check Exposure After Measles Case The MoCo Show -",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles may be making a comeback in the United States - Earth.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVM5eTB0SmFuWWlORzF5NzFBQ3VjaGF1VGhxeW9OUjRYU2Z4UmQzNWRTaktITWdGNjQzOEdBUktyMXM0dkNoT29EOXJPVG9ZQ3YzN1lhUmlGRDhScHloVXhINWdDNnJSTDZpMXpVM2tKX3JmcWtRUUp5SjlmSnZ4RHk0dEh6ZE1a?oc=5",
       "pubDate": "Sat, 02 May 2026 12:44:52 GMT",
@@ -453,15 +471,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "After nearly 1,000 cases, here's how South Carolina officials beat back a measles outbreak - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOXc4QlU0bVVsWFJoX3Q0bjZwMi1aWFJ3RGdyTlZRQko4bl9vbndvX1UyWk1sVlNXMFdPbmFmb0pGMTFaXzQ1bnlrdHBkZ1ZWQWo1MnJETEVrRlR3SXJHeldIOXZpRDJxSl9EdlZ6ZzVVa1RGbjF4bVc4VkYyQmxMTlRUdVJRRDlnbWtPcThaSzhuQ1BDcUJqdWc2MjdtUdIBowFBVV95cUxOME4tUFZXXzVNdjBrYXJ0bmxLMjZjZ3NlMFc1MHhvNF9KVkJuTmxKUWVBNHlBZUFVcDl1NXFGQ0gyYkhxbmdNOEtjZjVic2tVUnBwNGZ3Tk1IWEZsRDhHT1VwU0pQeGxlb0E5TzB5SW14bXQ5RC0xOVJmaWEyV3ZHWVc3ekFiVHVRZ0J6VHRIR3pKM2l1ekhXSkpPV25odHB3MWFN?oc=5",
-      "pubDate": "Fri, 01 May 2026 18:14:57 GMT",
-      "description": "After nearly 1,000 cases, here's how South Carolina officials beat back a measles outbreak ABC News - Breaking News, Latest News and Videos",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Hillsborough, Broward, Palm Beach counties add to Florida's 2026 measles total - WUSF",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlBLYXZLQkxfY2VqMVBYNDlBcXRMMXVtLUZyTHUwOGRJb1RhNjdIT1d5R1VuNHpuZVFMTVV1cW56VXVNX0UzMDBwY0xCbEFwUmxaWkVMalJUVjRYREN2Zk54ejJzSWpZeWZfUUtpdjdjYk1WQWxHZWZDc0dSdlkwa0RVb19tbEQ0YldnOFo2V09lbFJxTUYyUXBVeE1MMEFzTGdrWGJkeHpEbkw1d2tVSkpfTklUYmFnX2FsemN4d0s?oc=5",
       "pubDate": "Fri, 01 May 2026 17:17:00 GMT",
@@ -520,15 +529,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGI0Z2VXYXZBdnlGTjg0enBsc09jTjNjcHJfR19LbkppTGd6cTBqaWM1dk1DdEZiWW5Mcm5yWmkwbXhid1kwTnhXTFVOUnc5Vk5hal9zb3JzSzFNaldjb0VaaFlMNXBKMXpidzI3LXNKREk4VUpaMXh6UkN6NGtONVh4ZkN1ejdZNURrSGFLV3FXbnF6aUFKdEM5S3dsd1hwbG9rVXZ3ek1HYk1wS0xabzdqWjJhVFEtaVE?oc=5",
       "pubDate": "Thu, 30 Apr 2026 18:57:56 GMT",
       "description": "Public Health Alerts: Detection of a single measles infection using untargeted ultra-deep metagenomic sequencing of wastewater in Cook County, Illinois CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "CDC warns additional measles cases expected during busy travel season - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWxoQl9xV2QwSWxtNGpxX3ZsYmFMNWpSWVJZRmhDNUVwSTdjUl8wY1I0MXFXUkxVTzhPUVpOQ2RsN3hJUTl4SUprbDlTUXoyWkk5V3lNSUprSnRySk1NQ1BPbUk0S2RTOVJxdFluRWV0bFhLcGNFWWE3SnBoZDV2WU1pVi1OOVhPOVU5Rlplb1gyaU5COFJicmtMVy1xTkM5a3AtWXp3?oc=5",
-      "pubDate": "Thu, 30 Apr 2026 11:42:00 GMT",
-      "description": "CDC warns additional measles cases expected during busy travel season USA Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
