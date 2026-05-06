@@ -1,16 +1,7 @@
 {
-  "updatedAt": "2026-05-06T09:11:59.343Z",
-  "itemCount": 57,
+  "updatedAt": "2026-05-06T09:58:40.720Z",
+  "itemCount": 61,
   "items": [
-    {
-      "title": "Health officials warn NYC Italian eatery patrons of possible exposure to measles by infected diner - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmlXemk3Q3FzRVBoRndiYWNNUy1FXy1KeFQxaDMzZHo4ck9kSWJENElIMVhWNTk0aThXcmstQlNZcjJ1SVpIRmh0MGVrMVMxRXBWVkZBNGVCbEpQNXNNd1hrOXp2anJONlVxQkhkeDduMHNaYkxfTWlJR2tvSGxyYWwwSDBXVFg4RGpmNlp3d0I2YmJ3ckZXbzN4WVlQeFBocC0xQS1PT2QyX2dHdjhkS3pPWm9zRjBUcEk3NzB3?oc=5",
-      "pubDate": "Wed, 06 May 2026 05:45:00 GMT",
-      "description": "Health officials warn NYC Italian eatery patrons of possible exposure to measles by infected diner New York Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
     {
       "title": "Interim govt’s missteps behind measles crisis - The Daily Star",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbzJBTlNqaWxNQkRGeEl0dDlkR2FxZmVYbGNkZmdnNXZhc0o4UVdMa2VzeFFBSVZPbllLRGp2eWdsY3Qxa1hHRXVNNjh1UXRIbmlYLW8zNDh4NTB3eVphbHl2dEFHNDFFdl9zMFo2M21hblF6dkFBLS13cDZUMmlTYUlxZl9oSU5MOFVKYTJpdjlQTU5fRVhsc3hjRmtsZEEtbVRRTw?oc=5",
@@ -43,6 +34,15 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSlJHT1Z5SDdWdThseVVyejdUdjNmQ091YklrYWVkdHVxWXFhblh5M09PMHFCNk1ITC1qZXM1UVNib1ZwM1J3U1hrR0JsUzFheGxZLWxZbzJfNTNWd0duOFNjUHdfNTdVTzJTVGJYRWhPUTFFaFBIdW1ST0FXZHVIVGpaWlhIdHFhSVphVDEyOTVtWEZsYVBxaDFoZS1aRWVXTWJ5OEtGc1lkdEZXX1plR9IBuAFBVV95cUxNR3p5bEl4eF9QZEkxd2swQ1lEX3BRdkVYZ3ZrNHJyU2htT3N0Rzg0UUNsMVNITlBLWkRHUXVQazRLdTJxai1ScXcxLUozOFNXd2k0WmtOYmVkQlBYSC1uZGUyZ2otMklSYmUzN3dyWDVRTVdHdHNiSXhHUEFvNGpFSnhOaEQxd0tnM2pSSUpyZzNxWHFDdWw3aGZkdTNpZ25rNFdfd05OU3AtVWN0QkZmQjFyNXJWeU41?oc=5",
       "pubDate": "Wed, 06 May 2026 04:04:01 GMT",
       "description": "Nassau County reports first measles case since 2024 NBC New York",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles outbreak in Bangladesh worsens, death toll rises to 294 | Tap to know more | Inshorts - Inshorts",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb251QTAtLTZZNEZDQTJuYTFjbDcwXzR2bW5QUC1fOWpIb0ZWbENWZExMSEtlSGVuel9GUU9MbkxZakgxYzV2TE4teWRCajdLbXY4NGNxUUhEcnNIUk1Sd2dLSU9DdDc4dmhvSUhBdXdKV1pDcWZEa3pMSldMZ2JWMEtlcHROM2d5MEVTdGY5X3U2UnAwYy1hY2ZkZXNSRDlFdWVRTnJLNGZSd9IBrwFBVV95cUxNWTZEa2d3WEtwWmhLWll0T1NOYlpCTU1OZFd5ekpUOG9kQncxbXFpSUZObDVBNzBoaVVoT1BhRFFhaXhRRHBXTmV0NmVnaHVWc21VUzdqQjFVUk84eldPVmE2c0puY0YxN2hTTkVqMDMxclVnbjJXQmVTRUN5MldTRlVxN1hqNVNaanNQLUdSQ0Y1aTMxN2I0ZmM5dU9fTHliZ2lOYkJiYzBvTkJtYXpz?oc=5",
+      "pubDate": "Wed, 06 May 2026 03:39:42 GMT",
+      "description": "Measles outbreak in Bangladesh worsens, death toll rises to 294 | Tap to know more | Inshorts Inshorts",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -105,7 +105,25 @@
       "title": "Young unvaccinated child infected with measles in Nassau County; first case in county since 2024 - ABC7 New York",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUUEyQ055dk11dUJlY09DR2x6eWFvQWswa0plVzJzdjBZOFJtTGZEQUY4UGdhOEtQY0g2WFZ2aGd2eUk5bWdOVzZPVWVBSlN2aVJ0eWNmNDAtNUVpeUZTM2Z1YkdYOWFBMWoxWU5QQnJvQmJRY3U3MVBTMVJzaFhDbk5MRFpjYTQ4X0ZSNE4wVlhmNXRUaDctSWM1eWRXZi04QkwwZGxHbXnSAa4BQVVfeXFMT3VNcEdldTNSTnlhTHR1dmJ0c3lsV3hoVm5xU2FDY3Mzdm81a0JIV1E4TmdsZi1YQVdSeVRnM3JJeUxxMGNzSFZuUXlUZFJlYjlmcGpzc3QxX0pwUXNoQzB1WnNNYzFtMDBrbmRKaThwWGNqZ2JQT3VybU5CSEwwRzk1d0lHcHFPaFRfSGVkWnp2eWQtcy1YV2VuSFE0NTk1cTJ6VmIzNWEzT29lN0hB?oc=5",
       "pubDate": "Tue, 05 May 2026 21:43:37 GMT",
-      "description": "Young unvaccinated child infected with measles in Nassau County; first case in county since 2024 ABC7 New York",
+      "description": "Young unvaccinated child infected with measles in Nassau County; first case in county since 2024 ABC7 New York Health officials warn NYC Italian eatery patrons of possible exposure to measles by infected diner New York Post Measles cases confirmed in Manhattan and Long Island: Wh",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles case confirmed in Manhattan - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lVzNBMm5aSnRhWDZjeUExUm1EUXVsTUtXVkZudjdmSjhpRTU4V0FIU1NMOVpQZ1FGbTJyQkh4N1IxTk9sbVZUWjVwTGJMa1kySGMycmU2RFRpS1dzZVYzTFZQLW9iMXczSXZKQzdTVmV4azJwVXFsVDlCaXdMbzQ?oc=5",
+      "pubDate": "Tue, 05 May 2026 21:26:00 GMT",
+      "description": "Measles case confirmed in Manhattan CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Young child infected with measles in Nassau County; first case in county since 2024 - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTkFTa0ppYjA1OHhuM2g5cW1FU1RabkdHNklBU0pDUXNWN241V3hNRFQycE45M0RFcDhZMTIyVWt6c2xEbzBiQUQ3YWZBd0lwMEtDc3NqdHRjYk80RDFRczBXUm5hQUE5ai1MMHM3X0RMRE8zRHFzaER5eGdlZ1BHSw?oc=5",
+      "pubDate": "Tue, 05 May 2026 19:54:38 GMT",
+      "description": "Young child infected with measles in Nassau County; first case in county since 2024 AOL.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -114,7 +132,7 @@
       "title": "1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen - ABC7 New York",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdS0zSFg0NlVHbmJsazZZZXBlUG5oSFdsVDBjMHNoOEZxX0NCMHdMRjY1TDZnaG80bWprc3MtNkFJOGZfaDRaMGlCZk50UzVOR09RZEVmZlZvSk5NQ0pzWDY4Y2NMdUttOVc4aVlhMTdOTDhTcF9yaXZaN2RaOVpDNHVJbnJuaXE4MkNMYzdhZmtIMi0xcERVbEloY0lFZFB5QWZFYkdDV3Z6bkxL0gGyAUFVX3lxTFBrV296cHJfaC1kSnZHSlIwaXphYk8wZGx4dnZOUGxON3NmbWFmQXRfZXJtazBLdW9GV0tiYWdFQ2R3QmIyR2tQVUpnVHFteWM0N2M4X0xUOXVfYVlGcEZORXRjNzEwaGFDTzdoVldxWkNFMHZoM2lFdXBfcE9fV3BQV0ROUGx5Nzk4dnpObDZXWUpsWF9hUXJ1WklNSmN0RzNtTTBuZV9oaWRJUDQ1WXFCVEE?oc=5",
       "pubDate": "Tue, 05 May 2026 19:23:06 GMT",
-      "description": "1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen ABC7 New York Nassau County reports its first measles case since 2024 Newsday Measles cases confirmed in Manhattan and Long Island: What to know NBC New York",
+      "description": "1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen ABC7 New York",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -196,6 +214,15 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlR1am00U3I4REpTNHJGUWQ5ZllJd2hiSU1hSjd2MldjYU9tdU0wd3hUaW1FRUdHOTA3NWtUbjlTS2twaUUxb0NaeVlwMVYyMGlQWjFhall5UjJ5R0Mtd0daUUVRSEsybVFseWM1amdpLWZKMVFBUG9ncTNGRkVSanJkR3JHX00?oc=5",
       "pubDate": "Tue, 05 May 2026 12:14:55 GMT",
       "description": "Buzz of the Week: How should Utah respond to the measles outbreak? The Salt Lake Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Nassau County reports its first measles case since 2024 - Newsday",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zaENUNXY5cGxyb0JKb0NfU2FfVnh5RlRrOWxOeEFqYi1DbHc2Q0k3RUhxd0htOERmMko4ZzRsTHRuM1BNdFpLczRHRGFTdW9QQXhmZk1BSUJFb2tkdVZtczdpZlB3X3pkSDZaVkljOUFyTlZz?oc=5",
+      "pubDate": "Tue, 05 May 2026 11:43:50 GMT",
+      "description": "Nassau County reports its first measles case since 2024 Newsday",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -321,7 +348,7 @@
       "title": "South Carolina confirms second measles case in Saluda County - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZWxXcEJBSTFOTVpvMFFCTmhkcUhBUXl3TUowQWZIMWI2OS1QRVZKMGhkRmJqVVRsNnJoQnhvTVk5MENkdExLcDFiNGZkNnVGdzVaOHJEYUR1WHlxdjVDNmhIUE9WaXlnbWtHNlJvVzdiTDdZbDZxSGRrTy1qVkE5S1kxSXdyVE1SV0RCcUhVNGZLWHBkZS1Ia09ka19HaDdkaEwxa0VLM1RuTHZFQmg3NFlyWUNMQVBKbllTQWlXZ0FSb05QRWMzTg?oc=5",
       "pubDate": "Mon, 04 May 2026 16:33:37 GMT",
-      "description": "South Carolina confirms second measles case in Saluda County Reuters Measles cases reported in another South Carolina county after outbreak ends WYFF News 4 After nearly 1,000 cases, here's how South Carolina officials beat back a measles outbreak ABC News - Breaking News, Latest",
+      "description": "South Carolina confirms second measles case in Saluda County Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -331,6 +358,15 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRk1mZ1B6NEtyRlVYam9hb2l1ekxLVzIxdnZZMzlhZ3JTZGhfbmFOVDdDUU5fUkdfQnpGeWFOSUV1N1FXdnR6SDh3cTVpSkNsQjJKMlRoYVZFM0xKRUhIZGNRdVQzUFd1aHpkaU5QVUhNSUMtejNEZlk5a01qaGhhU2lINm9WQ3fSAZsBQVVfeXFMTklza0pZTWNzbHRhWGxCbkZtQXpTNjVBZFFhYV9OZHJKcUxmN3JfeFhDSXc1V3JrbkQ1NlZSSjFwbW9ralhHS1Zjc0JvQWVlaWdaZzljbk9vVkZTcGpQZ2hGdE5nZnBKNUJRSnVCeVFKY3VIdi1zdVIwc2lUOWFkaEY4WkxfbFJySWxWZTA4OGcyeERkb0JGN2txLVE?oc=5",
       "pubDate": "Mon, 04 May 2026 16:25:00 GMT",
       "description": "DPH: Second measles case reported in Saluda County WIS News 10",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases reported in another South Carolina county after outbreak ends - WYFF News 4",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTVdxT3VfelBYR2Z6VHZGMTBpX0V4VmpIckxKM0xWeWYyZnNObmpjRTFoMjN6T0RDV3dkT1lsSGRJRzM3TGEyaWdoczk4WjZqSk5DODZaRjJOV01hbjRzRHEzaE51M3M5RWdJcjdXeWZSV1pUMlBrSkZndUZnSTVJODllSQ?oc=5",
+      "pubDate": "Mon, 04 May 2026 16:08:00 GMT",
+      "description": "Measles cases reported in another South Carolina county after outbreak ends WYFF News 4",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -471,15 +507,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "measles - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MTWF1WnlQZ3pzaVBoUkRqb2VJZnNuT0xKcGdSRExEMzRFSWNHa3RlRG9nNGlYTkhvQnNXS1NldUNtdmppa0VaZHZLbFZPUVJPUTIyTw?oc=5",
-      "pubDate": "Sat, 02 May 2026 05:00:00 GMT",
-      "description": "measles Britannica",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "DC measles patient took Metro. Here's when and where - NBC4 Washington",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOemFqQmtXaW5td0p4bWFtR0JpZTB5X3ZNSlZxYk42cnR0cXVpVzBPcHRjbFVidXVBY2NIV2dsNTVLMUdjTDF0eWlzTGs1NXJxbko1SHNqZFJnSDQ4RklDanpSNnEzTGNfbUlMUEVGQnYxR2FmS2JOcDRXZUd6VDY2UGc3SE5DNFRLa25VLUZDYXEzNkHSAZsBQVVfeXFMTzl5dVhueXJzRndxWXVyRTJBYWlZZm9oTldyVjMyZ3pBOFY0WXlQMXZyZUV0WnFMOG0zbmtEVW9TQnp0Tmk0Vy10N2R1MkZPOTZ5a0d0bXJuRHk5NmQ2d1ZoU0o1OWEyclJEVm5GMnNNbF92UjRYdnZZYzgtdUxSYTVxeVBaZGVCVTVJcXBkRFRQUnd5U2dHdkhzbGs?oc=5",
       "pubDate": "Sat, 02 May 2026 02:41:55 GMT",
@@ -498,10 +525,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "DC warns of measles exposure across Metro, Dulles Airport - FOX 5 DC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY1BSTGp5WEFNS0hMeVcwcnRGb2pUQ0lCNzZkZzdJdDNFYmxrSTVCUEpCelNYR1NmOU9mOThXLVprV3lCV0hLR1U1RmRPbGRvZ05PaUlmbW96cEw2cnY1RURGdkdyTWJ1N3RIN2N2UWd3eHdtUE05eFREUS1UWnBtUHQySmRmN0Ny0gGOAUFVX3lxTFBjYXJUSm16U1VpWWMwSGhJemhGdHZCZE9DTjFKeHFxVVNPczh2cGVaZnJHWjFqVjJBXy1EcTdIYTFDQ3NMVzhxMmZEVlB1OXhxS2hNQTBYLVl0S3c2UDZobWkwSkJISExZQXJVejNrMVhtWTBzSE5xZ3RGN3lXQ0JoSUFVZ0k4ZnBoQlRfYlE?oc=5",
-      "pubDate": "Fri, 01 May 2026 22:39:42 GMT",
-      "description": "DC warns of measles exposure across Metro, Dulles Airport FOX 5 DC",
+      "title": "One case of measles reported in Dunn County - Health and Human Services North Dakota (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zd25MWXNSalljZWkzTVE2STZTMEltSWVZRUl5NG1FMzF5Q0tlV3FMS18wajZwVmtiUjVYMEJLaGZhVnhjU1dUeFpHQWZsdmluZGwwMkJTQ0lnM2pPMDVsZ2lPMU91UmtaX09Ba21TbUZBUFU?oc=5",
+      "pubDate": "Fri, 01 May 2026 21:15:00 GMT",
+      "description": "One case of measles reported in Dunn County Health and Human Services North Dakota (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -511,6 +538,15 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkZMT1luSm13eFZUZkUzUnRpWEpUbHR3OS01WmRJREFTNG4zdGh2NHVpa0twWTB2WHd2V1FlcW9xSklvU09NX2NHSnJ3N3NzZHd6alpYNG9Dc1lIYXk4VVZ4RUc3aUVodHBGZWk5T1BHS2V3RWlvcC1sdUZVamFid1k4REJ5WFJ2ZU1uX250UGVXWHhxSWZkdndHTUFtSGpUOXd6M2ZVNzZTTGdvZkVhUVFNV0lpRU1JRDBnRnNBODZoZw?oc=5",
       "pubDate": "Fri, 01 May 2026 18:43:11 GMT",
       "description": "Measles case counts mount in Utah, Arizona, while Bangladesh, Guatemala battle deadly outbreaks CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "After nearly 1,000 cases, here's how South Carolina officials beat back a measles outbreak - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOXc4QlU0bVVsWFJoX3Q0bjZwMi1aWFJ3RGdyTlZRQko4bl9vbndvX1UyWk1sVlNXMFdPbmFmb0pGMTFaXzQ1bnlrdHBkZ1ZWQWo1MnJETEVrRlR3SXJHeldIOXZpRDJxSl9EdlZ6ZzVVa1RGbjF4bVc4VkYyQmxMTlRUdVJRRDlnbWtPcThaSzhuQ1BDcUJqdWc2MjdtUdIBowFBVV95cUxOME4tUFZXXzVNdjBrYXJ0bmxLMjZjZ3NlMFc1MHhvNF9KVkJuTmxKUWVBNHlBZUFVcDl1NXFGQ0gyYkhxbmdNOEtjZjVic2tVUnBwNGZ3Tk1IWEZsRDhHT1VwU0pQeGxlb0E5TzB5SW14bXQ5RC0xOVJmaWEyV3ZHWVc3ekFiVHVRZ0J6VHRIR3pKM2l1ekhXSkpPV25odHB3MWFN?oc=5",
+      "pubDate": "Fri, 01 May 2026 18:14:57 GMT",
+      "description": "After nearly 1,000 cases, here's how South Carolina officials beat back a measles outbreak ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
