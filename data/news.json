@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-06T17:44:37.099Z",
-  "itemCount": 63,
+  "updatedAt": "2026-05-06T18:47:14.639Z",
+  "itemCount": 65,
   "items": [
+    {
+      "title": "US ‘highly likely’ to lose measles elimination status this fall, analysis warns - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOczBvdm4yRVFfeUNyb0h3dEk5OERWS0RhQ1FGV0o5T2JKR3hBNEpZYllMaHB2cnFZMENyZEJsNVZ6clpIWkVieEF2UzBCdEd0dWZySG9vbzJCMDdUNTBENl9NY0VTR1RHQ3FaeHlyZ2Y5TENzR1R5RnVyQzhGN3YyRjloQ0hvUG1oWWFXRHFVSFBISElRY1F1bC1XQ2V1VlhCS1JFYzJ3?oc=5",
+      "pubDate": "Wed, 06 May 2026 18:18:25 GMT",
+      "description": "US ‘highly likely’ to lose measles elimination status this fall, analysis warns CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "2 more people in Ottawa County come down with measles, bringing total to 3 - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xNmxvc253ZEtCMlhCQ1hoU21PbXhlNXRoNTkwN2JiWHpDTVJPMWFCQ3FVbzRlQWhyN1Y5QlQ1WWlweXE5MzREaTVNeGdORl9Wb1lLby1XM01aV29QbDFaSU9iYUluTU93d3VxZGk4enI0NnpDbFE?oc=5",
+      "pubDate": "Wed, 06 May 2026 18:04:44 GMT",
+      "description": "2 more people in Ottawa County come down with measles, bringing total to 3 AOL.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "America Eliminated Measles 25 Years Ago. Now, the U.S. is About to Lose One Of Its Biggest Public Health Wins - ZME Science",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LWHFRajJXVjJjc0xVeDk0S0VhY19mMmdHdHVCV0pBanE4Vk9OdmlnYlN0MFh0LUxLR0xvRkkxZ1lrT2FMOXdtLWxvck9SN2Zrd2txdHVNOXhWSjNhX3JWdWUzWUFqdDRu?oc=5",
@@ -70,24 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbWtKbVV3NW96ZnVRVE8xUlMxZ1JZRlRZSVdJbmxJYmxhSE9JdXl1dFRDcWlYMDc0SzFCNUVfdFNuRk1WS2pNelpMS2NlZ0I4S3Z6WDY5X1ZmTnU2aWMyaVJnWmVxQzhYcTVWU2FWLUJadWhvZVhQRWl5WUtLTWtQdzlDNG1ZcVVRZFBCakVfN0NhRDRGOUJ1elRmZkY5Z2hvdW4wS3E5dVUtNkxhVWNlMw?oc=5",
       "pubDate": "Wed, 06 May 2026 15:46:00 GMT",
       "description": "NYC measles case leads health officials to notify Manhattan restaurants, other venues Gothamist",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "What to know about measles on Long Island after child in Nassau tests positive - Newsday",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sdzVjaEVEMXpLblBGUkdyekxRNVZVRTdWN0drc0NNVVFPR0lfN2pvYTBiNnR1cFRKSmRNZHU4ZVh1OVY5UlJBb045elBhbXNtMVNESmxIQVlqRGliaXBtOW83RGR6RFhQT0l1dVE1aXhLUkNEaWxia0h3OU0?oc=5",
-      "pubDate": "Wed, 06 May 2026 15:39:09 GMT",
-      "description": "What to know about measles on Long Island after child in Nassau tests positive Newsday",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Nassau County reports its first measles case since 2024 - Newsday",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zaENUNXY5cGxyb0JKb0NfU2FfVnh5RlRrOWxOeEFqYi1DbHc2Q0k3RUhxd0htOERmMko4ZzRsTHRuM1BNdFpLczRHRGFTdW9QQXhmZk1BSUJFb2tkdVZtczdpZlB3X3pkSDZaVkljOUFyTlZz?oc=5",
-      "pubDate": "Wed, 06 May 2026 15:39:09 GMT",
-      "description": "Nassau County reports its first measles case since 2024 Newsday",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -174,6 +174,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "What to know about measles on Long Island after child in Nassau tests positive - Newsday",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sdzVjaEVEMXpLblBGUkdyekxRNVZVRTdWN0drc0NNVVFPR0lfN2pvYTBiNnR1cFRKSmRNZHU4ZVh1OVY5UlJBb045elBhbXNtMVNESmxIQVlqRGliaXBtOW83RGR6RFhQT0l1dVE1aXhLUkNEaWxia0h3OU0?oc=5",
+      "pubDate": "Wed, 06 May 2026 04:12:12 GMT",
+      "description": "What to know about measles on Long Island after child in Nassau tests positive Newsday",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Nassau County reports first measles case since 2024 - NBC New York",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSlJHT1Z5SDdWdThseVVyejdUdjNmQ091YklrYWVkdHVxWXFhblh5M09PMHFCNk1ITC1qZXM1UVNib1ZwM1J3U1hrR0JsUzFheGxZLWxZbzJfNTNWd0duOFNjUHdfNTdVTzJTVGJYRWhPUTFFaFBIdW1ST0FXZHVIVGpaWlhIdHFhSVphVDEyOTVtWEZsYVBxaDFoZS1aRWVXTWJ5OEtGc1lkdEZXX1plR9IBuAFBVV95cUxNR3p5bEl4eF9QZEkxd2swQ1lEX3BRdkVYZ3ZrNHJyU2htT3N0Rzg0UUNsMVNITlBLWkRHUXVQazRLdTJxai1ScXcxLUozOFNXd2k0WmtOYmVkQlBYSC1uZGUyZ2otMklSYmUzN3dyWDVRTVdHdHNiSXhHUEFvNGpFSnhOaEQxd0tnM2pSSUpyZzNxWHFDdWw3aGZkdTNpZ25rNFdfd05OU3AtVWN0QkZmQjFyNXJWeU41?oc=5",
       "pubDate": "Wed, 06 May 2026 04:04:01 GMT",
@@ -205,6 +214,15 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3p4bTFJZHIyVk44dkVBQlBDZjNCdUhYY1F4UnVzdjk1NEREWXU0WkptNWxRYjBodjRwYUowU3M3ZHJIZEktLXNYRjFYS1plRmZpVkZ3emh4RFowZlBpcmtfU1F5RUpVdEV5VDVGSnlCS0tKd0IwZ3dTUFpoSU0xd01TVW5JTEd2a0FER3JNNU9ndGZLcURRMnZ0YnRTV0IzalI5ZTZqbkxkbll0Q3p6UA?oc=5",
       "pubDate": "Wed, 06 May 2026 02:43:12 GMT",
       "description": "Manhattan restaurant-goer infected with measles, NYC Dept. of Health says New York Daily News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Wyoming's first 2026 confirmed measles case reported in Fremont County - wyomingnewsnow.tv",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWkNJbXluS1hmVmhXYmpfTlZMNDlNOVRTOFhMT19wVHdOb0pqWHVrWFJaQ0QyMUNtdFM3dzVKMjJ0eG5VdkNfTmcwRFU2dW5OZjFjaExrMVY4elJaQ2RlaDFUWkR5X0t6bDg4YkZGVERiVlZTZzRCYTZ2X1B2c1RWaTZXYmVtajZXQXBsMnpORjJnbkRVRndxeGRLQm1TNmhJNmRGdURxM2wteEJib1lYUGdZOXZ1RF9uc0l0Nk5fY1otUVFRdUNaa3Q2aC1oeVlYVkNVQVdrcGFTYXlwTVFkUHpfVVJYYVA3c2tmckgyRE5mM1Etd3RSZF9NMA?oc=5",
+      "pubDate": "Tue, 05 May 2026 22:40:00 GMT",
+      "description": "Wyoming's first 2026 confirmed measles case reported in Fremont County wyomingnewsnow.tv",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -300,6 +318,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Nassau County reports its first measles case since 2024 - Newsday",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zaENUNXY5cGxyb0JKb0NfU2FfVnh5RlRrOWxOeEFqYi1DbHc2Q0k3RUhxd0htOERmMko4ZzRsTHRuM1BNdFpLczRHRGFTdW9QQXhmZk1BSUJFb2tkdVZtczdpZlB3X3pkSDZaVkljOUFyTlZz?oc=5",
+      "pubDate": "Tue, 05 May 2026 11:43:50 GMT",
+      "description": "Nassau County reports its first measles case since 2024 Newsday",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Unvaccinated child tests positive for measles in Nassau County, first positive case since 2024 - News12 | Long Island",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdUtMaGJFQVF6dlFzWUFaNXRfWGg2dEp4OTIzY1FpWHBrN0dHV0VwQ3pNRjFocUY5U1k1MWxDc25YZG9PMU5MZ0M4aHhsamUySzhvbl9tbVNCWEttUEJKNUhKMkdYYU9hM01oUFkyZm5LY3JCaHE5Vy1rbURhMFdTQ3hqazdmeE1Na2ZzY3c2aWhkSmVMRkFCNnZsNXVEcU81a0VjZHJnbm9HUm0xUGoyRmk1QTB3VjRyd0FxRXBXeHk?oc=5",
       "pubDate": "Tue, 05 May 2026 11:11:37 GMT",
@@ -345,15 +372,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Wyoming’s first 2026 confirmed measles case reported in Fremont County - News From The States",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFY5RFpkTS1Udk1ESjYxNXNmelBNVi1fLWgyY3BqdkdxVzhicW9ZRllKcHlWdzZMM0pzcnlLSW1CWjB5MUpHU1NTZ3dUQnlpam5VNjU2QXB3d1pIX0xGN2NVNnpEMzAzbWhsSzBBR2tUeFBqNm04SUNXZTJuMVZrcWlkZzZ0MWMybkF6RXExSTJZMjdvbnFQZE1ndTN6c0szS05XOUJ6MHdXcmQt?oc=5",
-      "pubDate": "Mon, 04 May 2026 22:32:11 GMT",
-      "description": "Wyoming’s first 2026 confirmed measles case reported in Fremont County News From The States",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Illinois touts high vaccination rates among school kids despite federal efforts to limit them - WBEZ Chicago",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOTBZMDZra3VxZ2hkT3d4alZZMnVTZmI0TkM1ZkZfdjBldGRNNEpjT01NZ2hFcE16STUwTUFrd2dINFlweFF0LXBMeFRPTHJlSmVmaFpoa3dYYVR4ZFlaOG9qWUJVd25USG1Zbm9lVmk2Wm0wSW9zdTFoVW5JZ2ZuSW91VDhmT0x4UXV4eW1ndUhCWW5WWDJzQk9vM0p1ZjBJcVI0bVA4a1FrVmJBNWxjVTR1aXU2SGk2QTYwUkJhakdWbUM3aHkxTHNfdXBvVUp6RnRsTnVWanQ?oc=5",
       "pubDate": "Mon, 04 May 2026 22:21:00 GMT",
@@ -376,15 +394,6 @@
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSV9sdEoyRmJhdHJPRGpYcEhuZFhxZ2dwYXoxdzA4S3hyb0E1UFpSMklOMXFxNG9WTmhmQy1tOHgzamJMeDl4d1ZMdUFnS2N5Wkt1UlBYMzVXSmdyTUIxbGlKS2RuNEpaU0Z6RzNnc1BRaEI2YUM0T2N2QndxWkhhYURwUlJYYThiV1p5SVpSRnpPT0o2R1Y0OG5kNzNxU0dWX2hWRWFTd29NSmRPeDdsWlhBTUVwdHdoTEEzS2J0YXBvSE9vVlM0YmdPRWZ4TDQ1YmlGaThwS0cwNVlMX1c4bDMzREVxZ1lh?oc=5",
       "pubDate": "Mon, 04 May 2026 22:02:00 GMT",
       "description": "Wellington High reports second measles case amid statewide surge The Palm Beach Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Wyoming's first measles case of 2026 confirmed in Fremont County - Wyoming Public Media",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGxueFJ6SnBhUmRkeVYzRDRiZDhlSzBfVnRmUVFueGxjajd5TVZDXzUtZlRtS09hd2FDVEg5YVctdTVTSG9YV081NGNfaXUxOGsway00bDc2UEt3TlA3UlhkXzlUZWIwVTdzS2VlRmpKRmdYTjlvWnMyamFPNVpYT0EzNWw3NnQ1ejZodGU2ZzlhcGJWcGhrc2lScVZ0VHQzdXZKTjVObU9LTlNSWHZycERBNlhFYlE?oc=5",
-      "pubDate": "Mon, 04 May 2026 19:28:00 GMT",
-      "description": "Wyoming's first measles case of 2026 confirmed in Fremont County Wyoming Public Media",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -525,6 +534,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Here we go again: Health officials tracking exposure to measles at Dulles airport - Augusta Free Press",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdldXWUhPNUZRWDV4WkF2ZFFoUnZBV09pNFN2al9Gc3U5eHRjM19QS2lJSUt0QXgwRDBLTm03bDF4TU93S0F6dlRxSmc3b3A1MHVXMkUtemJPd1VEMWlqUy1mM0pCa0Q3LWNtSUloQ0NRV1U3WDBHcy0tVjBOYmhvSEJKSnNJUVlwcjlWbmY2MmJQVnJwUkJ0TzV1X24zVTQ?oc=5",
+      "pubDate": "Sun, 03 May 2026 14:54:06 GMT",
+      "description": "Here we go again: Health officials tracking exposure to measles at Dulles airport Augusta Free Press",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Andy Larsen: Utah’s vaccine foolishness has spread and looks impossible to fix - The Salt Lake Tribune",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SdVlIMEtpVWJsYWhOZHVuWEtxVjZVaHpZRWdleDF1TWZsUDRzRnpYeEs1aFUwRXF1UkRES2pUSU01OGFhZmNJenhSbUlMZmZLaGJiWlZyMk5EY2pGdlpqeENTU3U5YUQteXlRU1pJVzcyTXY5cmVCY3JyRGg?oc=5",
       "pubDate": "Sat, 02 May 2026 12:04:28 GMT",
@@ -543,19 +561,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "measles - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MTWF1WnlQZ3pzaVBoUkRqb2VJZnNuT0xKcGdSRExEMzRFSWNHa3RlRG9nNGlYTkhvQnNXS1NldUNtdmppa0VaZHZLbFZPUVJPUTIyTw?oc=5",
-      "pubDate": "Sat, 02 May 2026 05:00:00 GMT",
-      "description": "measles Britannica",
+      "title": "DC measles patient took Metro. Here's when and where - NBC4 Washington",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOemFqQmtXaW5td0p4bWFtR0JpZTB5X3ZNSlZxYk42cnR0cXVpVzBPcHRjbFVidXVBY2NIV2dsNTVLMUdjTDF0eWlzTGs1NXJxbko1SHNqZFJnSDQ4RklDanpSNnEzTGNfbUlMUEVGQnYxR2FmS2JOcDRXZUd6VDY2UGc3SE5DNFRLa25VLUZDYXEzNkHSAZsBQVVfeXFMTzl5dVhueXJzRndxWXVyRTJBYWlZZm9oTldyVjMyZ3pBOFY0WXlQMXZyZUV0WnFMOG0zbmtEVW9TQnp0Tmk0Vy10N2R1MkZPOTZ5a0d0bXJuRHk5NmQ2d1ZoU0o1OWEyclJEVm5GMnNNbF92UjRYdnZZYzgtdUxSYTVxeVBaZGVCVTVJcXBkRFRQUnd5U2dHdkhzbGs?oc=5",
+      "pubDate": "Sat, 02 May 2026 02:41:55 GMT",
+      "description": "DC measles patient took Metro. Here's when and where NBC4 Washington",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "DC measles patient took Metro. Here's when and where - NBC4 Washington",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOemFqQmtXaW5td0p4bWFtR0JpZTB5X3ZNSlZxYk42cnR0cXVpVzBPcHRjbFVidXVBY2NIV2dsNTVLMUdjTDF0eWlzTGs1NXJxbko1SHNqZFJnSDQ4RklDanpSNnEzTGNfbUlMUEVGQnYxR2FmS2JOcDRXZUd6VDY2UGc3SE5DNFRLa25VLUZDYXEzNkHSAZsBQVVfeXFMTzl5dVhueXJzRndxWXVyRTJBYWlZZm9oTldyVjMyZ3pBOFY0WXlQMXZyZUV0WnFMOG0zbmtEVW9TQnp0Tmk0Vy10N2R1MkZPOTZ5a0d0bXJuRHk5NmQ2d1ZoU0o1OWEyclJEVm5GMnNNbF92UjRYdnZZYzgtdUxSYTVxeVBaZGVCVTVJcXBkRFRQUnd5U2dHdkhzbGs?oc=5",
-      "pubDate": "Sat, 02 May 2026 02:41:55 GMT",
-      "description": "DC measles patient took Metro. Here's when and where NBC4 Washington",
+      "title": "One case of measles reported in Dunn County - Health and Human Services North Dakota (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zd25MWXNSalljZWkzTVE2STZTMEltSWVZRUl5NG1FMzF5Q0tlV3FMS18wajZwVmtiUjVYMEJLaGZhVnhjU1dUeFpHQWZsdmluZGwwMkJTQ0lnM2pPMDVsZ2lPMU91UmtaX09Ba21TbUZBUFU?oc=5",
+      "pubDate": "Fri, 01 May 2026 21:15:00 GMT",
+      "description": "One case of measles reported in Dunn County Health and Human Services North Dakota (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
