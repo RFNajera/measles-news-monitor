@@ -1,21 +1,48 @@
 {
-  "updatedAt": "2026-05-07T05:18:12.375Z",
-  "itemCount": 80,
+  "updatedAt": "2026-05-07T07:16:33.031Z",
+  "itemCount": 77,
   "items": [
     {
-      "title": "3 new measles cases reported in the East Valley - FOX 10 Phoenix",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqTkVKWGZTNzA2NzZFMkwwYnpObDhaVjFRdTdiLXRvSTZsRkd1anVHa3ZuZV9iRmxIX0pwU1I5XzhfQWtxWFdtQkpKRUo1X1lQOEhpNFcyRzltOHdDemdWVzE5Sm5XZ9IBa0FVX3lxTE92WVc2TjJULWxLYXh3eVl5Q0V2bGNPVTh3LTRSZnNQYUZVMkNDMmdnM3JON1lHejJuWDJGMGFURERSdU9tOVlPQWpNc3llYjlUZmg4a0N5eF9hTnJJbzZGaGhQQ0VFVGJTb0NR?oc=5",
-      "pubDate": "Thu, 07 May 2026 04:14:51 GMT",
-      "description": "3 new measles cases reported in the East Valley FOX 10 Phoenix",
+      "title": "11 measles cases are confirmed in Pa.'s Lebanon County - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTE5NOXdkdzBFYlhfSWF0RWVqVlJOaEJHZ1JrWkZIYS1haUVya1J6MTZfUVlRM0pJVDhQbkw3NHRRS2l1dmhpQnhBbGl1X0x3b2djdkQtbFhiVjU0Zmt4dXlXc3ItNnNaZWJTZXVaZFJyWHhmSGEyajBnbEpWckMyYkp1dWV5QXZSVWhQRWRrUFBGal9SLUo2TF9pWGZtVW8?oc=5",
+      "pubDate": "Thu, 07 May 2026 06:56:32 GMT",
+      "description": "11 measles cases are confirmed in Pa.'s Lebanon County Pittsburgh Post-Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "11 measles cases are confirmed in Pa.'s Lebanon County - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTE5NOXdkdzBFYlhfSWF0RWVqVlJOaEJHZ1JrWkZIYS1haUVya1J6MTZfUVlRM0pJVDhQbkw3NHRRS2l1dmhpQnhBbGl1X0x3b2djdkQtbFhiVjU0Zmt4dXlXc3ItNnNaZWJTZXVaZFJyWHhmSGEyajBnbEpWckMyYkp1dWV5QXZSVWhQRWRrUFBGal9SLUo2TF9pWGZtVW8?oc=5",
-      "pubDate": "Thu, 07 May 2026 03:58:12 GMT",
-      "description": "11 measles cases are confirmed in Pa.'s Lebanon County Pittsburgh Post-Gazette",
+      "title": "Maricopa County announces 3 new measles cases, identifies 10 exposure sites in Mesa - KTAR News 92.3 FM",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOE5RSFRKRDZfSEdycDYwQzB4dXZMTzM2RDBLNzItX1RybWhYTV9jY1BZNXhDZUk4QWFyZmNvSllDUnBDN0toWVcwanZtQThoSUczc1pRX0haT21RSUdxelNLWlZmY2g1RTlMamZHbkpILXRWdHNMeVZaWFowWXpwUw?oc=5",
+      "pubDate": "Thu, 07 May 2026 06:02:58 GMT",
+      "description": "Maricopa County announces 3 new measles cases, identifies 10 exposure sites in Mesa KTAR News 92.3 FM",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Maricopa County reports 3 new measles cases, warns of local spread - AZ Family",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGxvMmZoR1YxZm1QU3pVTnZQT2Vudk5mZVhIOGFuU1JPQmZrbzViSFRnekUydE5JUnl6YlU3aUxmNHFkbWtqenlvQ2RKd0xhazAtcFFpU3lwOXZrZGh1d2dhTjBGNTh6aEMzTnRCTU03R0FYbzRpTmN1b09uM3MwREdqZ0JnYnhlT3R3VHlneFlyamV3WDlSUVZBOHJJUTJuTkRMREgyeG8?oc=5",
+      "pubDate": "Thu, 07 May 2026 05:19:00 GMT",
+      "description": "Maricopa County reports 3 new measles cases, warns of local spread AZ Family",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "The A Block: Phoenix approves new parks ordinance, 3 new measles cases confirmed in Maricopa County - 12News",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTGhSRkdjcHBxRThiZUVkTDhFRzYzRWY4cWk1b2hMb1hEYU0wVmYtZldGYkNzUGpQZ3lRQnY2QXgxQVphUDJyYTNSMW9udVRORUZxcVZ0UHAyRGRWUkR0MVk4RW55VTdCakxKa191MWNsTVI5MTVqVmFNZlFQTGxYaG5ma3FPRVNjaVBpZ2Fuc1FRRWVtRGVkaTBEeTdQR1dZaWhBRTc0ZnYxemtyc25xX0NYNXZSbjhlbFlNRDdxNjdVeEwyaVl6c2RNWVVDT3FPMVlmZnVaTzJZUXlYLW9hZGNra3MtcEo0NWk2UkZ5b2x3ZGdQRzVnVURid1UxNU55SzNXRG9FWU1LRTRITDRQdVpR?oc=5",
+      "pubDate": "Thu, 07 May 2026 05:14:00 GMT",
+      "description": "The A Block: Phoenix approves new parks ordinance, 3 new measles cases confirmed in Maricopa County 12News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "3 new measles cases reported in the East Valley - FOX 10 Phoenix",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqTkVKWGZTNzA2NzZFMkwwYnpObDhaVjFRdTdiLXRvSTZsRkd1anVHa3ZuZV9iRmxIX0pwU1I5XzhfQWtxWFdtQkpKRUo1X1lQOEhpNFcyRzltOHdDemdWVzE5Sm5XZ9IBa0FVX3lxTE92WVc2TjJULWxLYXh3eVl5Q0V2bGNPVTh3LTRSZnNQYUZVMkNDMmdnM3JON1lHejJuWDJGMGFURERSdU9tOVlPQWpNc3llYjlUZmg4a0N5eF9hTnJJbzZGaGhQQ0VFVGJTb0NR?oc=5",
+      "pubDate": "Thu, 07 May 2026 04:14:51 GMT",
+      "description": "3 new measles cases reported in the East Valley FOX 10 Phoenix",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -158,7 +185,7 @@
     {
       "title": "Maricopa County measles cases rise to 13 as health officials identify new exposure sites - ABC15 Arizona",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeV9nREp3NEg1eEJXX1FFNG1MTGp1R214QVVfWXA4RlFhZG9ZRzZnS3JrOUIwYzhEWHNVcFh3b0VoUVpHSldrdUlsOUEyZVVabWxjY2Q3bmt5R3BQWWpZaUJ0VFB1WGU5SzhZT2Z4SU1nQ24wX19BSVlfeU5Ta3BRVXNpQnJweVZJMDRLVTR0QnpBQXB6R0VXU0hYWlF3WWhrY0lJbmJZd05KZE5vNG9zVEhic3NIVko3ZjRSQjhtampuVm85dGNKbjhYSFZmbTcyOFliUnBJYUlpZGw2?oc=5",
-      "pubDate": "Wed, 06 May 2026 23:24:23 GMT",
+      "pubDate": "Wed, 06 May 2026 23:22:00 GMT",
       "description": "Maricopa County measles cases rise to 13 as health officials identify new exposure sites ABC15 Arizona",
       "source": "news.google.com",
       "sourceType": "news",
@@ -174,19 +201,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases reported in Lebanon County - 28/22 News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1hLZmFVWlRfZEZjWkhrWjFVZUZZZnZaTTFxbUVoUURvZWU1TGtINnptUEZqaVFQMHZiOGpEb0ZfVmt3MVhFTEw4bzRkZFV2Ui1fcHlxYXl2YW9IU0lILWZ2MHdGZFVGRXVWS1lpNGNXbEctMEVCS0M0V0w1UnB5ZW9WaWtHUFJB?oc=5",
-      "pubDate": "Wed, 06 May 2026 22:37:04 GMT",
-      "description": "Measles cases reported in Lebanon County 28/22 News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Health officials work to contain central Pa. measles outbreak that hospitalized 3 - PennLive",
+      "title": "Health officials work to contain central Pa. measles outbreak that hospitalized 3 - PennLive.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVU14QmlmaU9jYXAxZ1VrM1NqSHh2bGZfbjg3OFA1NnRjdU16czdORHRlanZ3Q2xJek42OUR4V2JUcnd5ZHljT25zemZIb1FZUWQxSWVGLTZrUmg2QlNVb3NNWjhual9VclR1YVpoTXUxamQwMXlxMVNSLXpBYjJqMm9UQUZWS05GcU1DeWFEejllcWdzdlFYOEtjTXc0VkJVVmlyeEJrSllCbkVacDlkSG1xNGdySkh4akJ4OXU3MEvSAdQBQVVfeXFMUEsxRC00aVdZaDEyYlJyU3FJejg3N3QtX1ZLSzRGS1FXZlJEZkVnRGwxUzA1RURkMm9pOTBiZkFvaFFRcEZQbURseEQ0UmhwcEV3WVRIN0EyNTZjNU8wYk9fQUd0TEZKbS04UVhHTExyaGI4R041Z0k4VXhtWFhkSFl0SHloYUg5N1VfQ05mdkN5YTJkeWdmTjYydnYycHZzaE1xX2s4SlRzYlZNZTQ5ME84azBCZDl3ckVrWlk2VDFsOXh4Y2Y3NTBZcmhMbmhOeG43Qko?oc=5",
       "pubDate": "Wed, 06 May 2026 22:25:00 GMT",
-      "description": "Health officials work to contain central Pa. measles outbreak that hospitalized 3 PennLive",
+      "description": "Health officials work to contain central Pa. measles outbreak that hospitalized 3 PennLive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -372,15 +390,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "5 measles cases found in NYC in 2026: What to know - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NVjJCQ2dyNWZnTmljcDdVY3AyUlNHZ29Ydk5lOHZhMzl0YktxMkZnTnZKMFRCZXY3U1N2dEF1TzVJZlV3MmlLM21hbGpJZEtLaXRPam5TRi16dDNBR29ERFc5MkVPdEZoNkR4T1dudURzZGc?oc=5",
-      "pubDate": "Wed, 06 May 2026 12:57:30 GMT",
-      "description": "5 measles cases found in NYC in 2026: What to know AOL.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "NanoViricides’ Measles Treatment Granted Orphan Drug Designation by FDA - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSF92b1FNQndKLXdpbzA3QklUOHY3THVFSHcyc3lOX1JGcXdyaHdxc3BCd2U5T2ZIR0N5bFJYbEJQNHdHVnpoZjhrUExJQjhnU1BOM3dlLTBlNUoyQ252T1d0ZWt6aFg5dWxDamprcFMwakZkSHNiWUI3bUt6MHY1YkFjcGtxX2Z5bjRlODhRTV9WdDBwX2Z0RGFXdHJFbTFQM2ZBcmlzUEhvMXJwSWNuVkVrdUkydw?oc=5",
       "pubDate": "Wed, 06 May 2026 12:35:33 GMT",
@@ -489,15 +498,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Bangladesh: Children at Risk over Measles Outbreak and the Failure of Public Health Accountability - International Society for Human Rights (ISHR)",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLWRjR2FnbEhLV1FuRERXZWxtQ2NKUmthN3YxYUF1bmtsaTZ2RUZyNEYzN0Q5QnhrS2RYQkdLOTFFUVdUMndfbEZXZGlKbHJ3d3lPTlp0YU15QVo0QmFBelBnMEJ3MkNSOVVWZFpIcHYzQnM5ekhjanZQZF9PaDlZNjZzdXFFV3IybVoxQk5ldUZmejNQX2p4eHVaTlMwSmJLc2dlVDlnbTRydXJDLUdGaWlXNHdyQQ?oc=5",
-      "pubDate": "Tue, 05 May 2026 14:51:24 GMT",
-      "description": "Bangladesh: Children at Risk over Measles Outbreak and the Failure of Public Health Accountability International Society for Human Rights (ISHR)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles case confirmed in Nassau County child under 5 - FOX 5 New York",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LNHNTVDJjbUdaRkdsSG1WUWRKeUNuYVhqcW5JSEZxdTUzNGsxRDYyeG5OdXc1ajllRnVNRHNuZjFjcDV4TEpMMWVpMTNGR1BEclpjTl9tSVk2dW9BX1dibUxhbWVxSGNwLXY5dEZKeTNqRlJTUlV6cTFR0gF_QVVfeXFMUDR3RHdUclZ4VUljVEh4NWtVSFM1dEswV2RyS0RWUTRwTmt4Wi03OFpJOEZ6dFZ0NXFhNmJ3ZlpQNUV6NThNUmU5OTBXQzFDVDNibzB5QnVkSXA1NzlJdHJkNnV0RVpXakZVYllaakRyWmsxcVBVUFdDSm9EMWsydw?oc=5",
       "pubDate": "Tue, 05 May 2026 14:25:39 GMT",
@@ -525,15 +525,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Unvaccinated child tests positive for measles in Nassau County, first positive case since 2024 - News12 | Long Island",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdUtMaGJFQVF6dlFzWUFaNXRfWGg2dEp4OTIzY1FpWHBrN0dHV0VwQ3pNRjFocUY5U1k1MWxDc25YZG9PMU5MZ0M4aHhsamUySzhvbl9tbVNCWEttUEJKNUhKMkdYYU9hM01oUFkyZm5LY3JCaHE5Vy1rbURhMFdTQ3hqazdmeE1Na2ZzY3c2aWhkSmVMRkFCNnZsNXVEcU81a0VjZHJnbm9HUm0xUGoyRmk1QTB3VjRyd0FxRXBXeHk?oc=5",
-      "pubDate": "Tue, 05 May 2026 11:11:37 GMT",
-      "description": "Unvaccinated child tests positive for measles in Nassau County, first positive case since 2024 News12 | Long Island",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "US on the Brink of Losing Measles-free Status, Study Warns - U.S. News & World Report",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYzdBU2dFRDBEem9VT0d2ek1zZDFBWUVBZ0hOZHc4LWJDN09zcnZhMDl2TWZMZEFLZmtmRjQ0bE5CUVRfOW1JODN1Y3RYY1drTjktZDJNQUpoQ0VnUUhjWUNkQkt0VmpLTkVDTVVYXzRVOEpJejRmWWdEUWRtcXBOeHhsTTUtRTB5VVZqa3R4SDk1STlWN0dHM25Hamk3OWFkTmZNZnUwMDBOYkdTb2JFNTQzdFZWM1l2?oc=5",
       "pubDate": "Tue, 05 May 2026 10:36:01 GMT",
@@ -552,15 +543,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials urge vaccine checks with Washington measles cases reaching 40 - Nonstop Local News",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbmVDMWJxODhMamNYUmctRzVlMThoc1JsaGY5dFZaa1Q5dDRBelZYSnNGYnNYaU9wMEtBd0xmTGFWSFNic0lBUDBmSm15cFBWb1hTX2wtVFBRNkhTV1RJajNNbzBjOHVfTWlXT3poVXFhclVZQkxfYUhxYjAza0dlUDZKQ1J1MmQ0Nkx0WTlvTFdsdmRSOER6enlBTFRSM2g0VmdyV2pXTU1RekE0aVNHcGdqNkdlSnBrcEJ0dEZrRFczQVJ2TXBvQ2Nqc05vNGlpSFprcjhlT1Z4ZzM2Y1lnb3UxTzlsZ3VncnkzUlVpeG5TNm8?oc=5",
-      "pubDate": "Mon, 04 May 2026 23:30:00 GMT",
-      "description": "Health officials urge vaccine checks with Washington measles cases reaching 40 Nonstop Local News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Wyoming’s first 2026 confirmed measles case reported in Fremont County - News From The States",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFY5RFpkTS1Udk1ESjYxNXNmelBNVi1fLWgyY3BqdkdxVzhicW9ZRllKcHlWdzZMM0pzcnlLSW1CWjB5MUpHU1NTZ3dUQnlpam5VNjU2QXB3d1pIX0xGN2NVNnpEMzAzbWhsSzBBR2tUeFBqNm04SUNXZTJuMVZrcWlkZzZ0MWMybkF6RXExSTJZMjdvbnFQZE1ndTN6c0szS05XOUJ6MHdXcmQt?oc=5",
       "pubDate": "Mon, 04 May 2026 22:32:11 GMT",
@@ -574,15 +556,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbkFKSDAtNkJpdlB3U0xUR2p4QkVUTXp4NGwza0poa3M3dW1MMXZKbkRQTFlLRks1MVV0SXJ0b2lZZDc4YVF6ckZyNXoxazdnUzY4OTNmbG4xc2IybDF1M1Y4YXpEV3ZnNGdNQWw2cVluV1VVSDZpZEZkTl9aNU4xVjI3NVNhSXgxZ3lfX25taG5yNFJT?oc=5",
       "pubDate": "Mon, 04 May 2026 22:32:11 GMT",
       "description": "Wyoming’s first 2026 confirmed measles case reported in Fremont County WyoFile",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Second measles case confirmed in Wellington High School household - WPBF",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ3JMdXVZTXhxSC1sOF9DR1hkejNQOUNiRXQ3RGhVZnBiclY0U1JLaU4wMXRYa0lhWXQzMHYwMGprWjlydkVHV003SXc3dWRMZmJ0UVJZX3NJUUc2QlFyaHN2WlZ5RkVSaXZqRkNaY2FNUHVxdDBYeDBYR0xsM0NWNjd6bzJ5aHNHMzFLQ3dWM0R6QQ?oc=5",
-      "pubDate": "Mon, 04 May 2026 22:06:00 GMT",
-      "description": "Second measles case confirmed in Wellington High School household WPBF",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -705,10 +678,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "One case of measles reported in Dunn County - Health and Human Services North Dakota (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zd25MWXNSalljZWkzTVE2STZTMEltSWVZRUl5NG1FMzF5Q0tlV3FMS18wajZwVmtiUjVYMEJLaGZhVnhjU1dUeFpHQWZsdmluZGwwMkJTQ0lnM2pPMDVsZ2lPMU91UmtaX09Ba21TbUZBUFU?oc=5",
-      "pubDate": "Fri, 01 May 2026 21:15:00 GMT",
-      "description": "One case of measles reported in Dunn County Health and Human Services North Dakota (.gov)",
+      "title": "South Carolina measles outbreak declared over; Utah reaches 625 cases - American Hospital Association",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWFla1ZNZ1lZWVVEQ3BsWktlcUQyd0ZqNV9IenlhLV9CVDdLV0FuX0lURGdOOVFVNHJHd3Z4Tno5MFNGcDFFbkUycVEybmJaaEJLa1M5WHJtaldJSU1ULVBDVVZScjNJUHhIUHhLVnhHcnlobDcxRzljMHlzb0xpb0JNRkVkN3BEZlZ5VUZKcFM0WlhkcnBETmNBaC1DTWJMMzJBSHVMdlpzdXNnLVFteU9idw?oc=5",
+      "pubDate": "Fri, 01 May 2026 19:36:31 GMT",
+      "description": "South Carolina measles outbreak declared over; Utah reaches 625 cases American Hospital Association",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
