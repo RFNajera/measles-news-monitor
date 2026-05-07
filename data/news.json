@@ -1,12 +1,57 @@
 {
-  "updatedAt": "2026-05-07T03:21:21.542Z",
-  "itemCount": 75,
+  "updatedAt": "2026-05-07T05:18:12.375Z",
+  "itemCount": 80,
   "items": [
     {
-      "title": "Measles cases reappear in Maryland, raising concerns among health experts - CBS News",
+      "title": "3 new measles cases reported in the East Valley - FOX 10 Phoenix",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqTkVKWGZTNzA2NzZFMkwwYnpObDhaVjFRdTdiLXRvSTZsRkd1anVHa3ZuZV9iRmxIX0pwU1I5XzhfQWtxWFdtQkpKRUo1X1lQOEhpNFcyRzltOHdDemdWVzE5Sm5XZ9IBa0FVX3lxTE92WVc2TjJULWxLYXh3eVl5Q0V2bGNPVTh3LTRSZnNQYUZVMkNDMmdnM3JON1lHejJuWDJGMGFURERSdU9tOVlPQWpNc3llYjlUZmg4a0N5eF9hTnJJbzZGaGhQQ0VFVGJTb0NR?oc=5",
+      "pubDate": "Thu, 07 May 2026 04:14:51 GMT",
+      "description": "3 new measles cases reported in the East Valley FOX 10 Phoenix",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "11 measles cases are confirmed in Pa.'s Lebanon County - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTE5NOXdkdzBFYlhfSWF0RWVqVlJOaEJHZ1JrWkZIYS1haUVya1J6MTZfUVlRM0pJVDhQbkw3NHRRS2l1dmhpQnhBbGl1X0x3b2djdkQtbFhiVjU0Zmt4dXlXc3ItNnNaZWJTZXVaZFJyWHhmSGEyajBnbEpWckMyYkp1dWV5QXZSVWhQRWRrUFBGal9SLUo2TF9pWGZtVW8?oc=5",
+      "pubDate": "Thu, 07 May 2026 03:58:12 GMT",
+      "description": "11 measles cases are confirmed in Pa.'s Lebanon County Pittsburgh Post-Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Contract tracing underway for confirmed measles case in NYC - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObXM4VVNOdEtzR3lLRFk4c0t5c3d3a2pqS2syNGJFTDM3OExOTjV2VDJxZlZfUEpSSzcxeDJFNW5XbmhRM1VYOE1qTUo1S0ZSdWl6V1BnX25oVHBHVFI0b01lVE5lT0QwSHRlbG03YnFjX0ZnWEpGekpyQ1ZDbmZtamd2YWw0bEEyajY4THlrYUx0RjNNcjR6MWFJOVllaG8?oc=5",
+      "pubDate": "Thu, 07 May 2026 03:15:00 GMT",
+      "description": "Contract tracing underway for confirmed measles case in NYC CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Maryland health experts express concerns over surge in measles cases - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0RpWGdzT1BFRmxKUWNyVkZlaS1ubzhGRmswX2tacmFIeXBxRFBTcG1YdENXMXRCTnZtdWpHTVoybzExWFJiSDZwd1pBZjI0dGY5bllMbzFZcHJWSFFWNWxJV25fZU5zb2l0NTFTZG9TdlRFbFRhT2RIRmpGQ1c4XzRnS3dCWUt6V3hBRTFkZUlTVE1DVXV3OG8ySk5nX3FsN20zVnFuckxOX2tPUnc?oc=5",
+      "pubDate": "Thu, 07 May 2026 03:12:00 GMT",
+      "description": "Maryland health experts express concerns over surge in measles cases CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Maryland health experts express concerns over surge in measles cases - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjJFTkJVWVIxYks5djlOVDB0Q2tjRmg2TVd6eUJSUkRwWGgzemdRbF8tTjRtT1ZjZk9ZYnNHRkRZRzFOU01TcVhjR3RHXzZtMXdST21TZUVSSXMwSEo4X0hlNGZId1pnS3ZXamhpTFZ2TTZLcmxrTjlCd2IwNGhvb2FQc0szWWEzeHd3V0J3MUFvcTQ?oc=5",
+      "pubDate": "Thu, 07 May 2026 03:12:00 GMT",
+      "description": "Maryland health experts express concerns over surge in measles cases Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Maryland health experts express concerns over recent surge in measles cases - CBS News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZWJZeGtJVjFsYlhUTE5lR05jb0paNWxLb05WZG9RYk54eFExSGh6Q3Z5U2hFaXZSNlV1UzRFcE9WUFgza0VFT21Hcm5fTEVYVUVYNjZRbUdxeVluUmpobmhRQjBaaEtDNDh1bHMxWV9TM1Fhazg2dzNWdmZBMDNIcVRBVDJFREg4Q2k3YVJwX3NabVE?oc=5",
-      "pubDate": "Thu, 07 May 2026 02:48:59 GMT",
-      "description": "Measles cases reappear in Maryland, raising concerns among health experts CBS News",
+      "pubDate": "Thu, 07 May 2026 02:48:00 GMT",
+      "description": "Maryland health experts express concerns over recent surge in measles cases CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -21,19 +66,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Prisma Health resumes normal visitation, masking procedures in all hospitals - wach.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOS1rcGhOS1UxWFY0WGZ3TWtvMWFPVy1qU1RjNzVIMmhvYk56YlFLQ3loY3U3aXJZMFJFXzF0MFdreDQzWDFsYzF3N2NjbldhbHVSVU90UmRPa1hYbFJfLTBkQ3d1b1ZsLWRrLWtWOXhCTUhkaElTU1hxc2VYck9NU0VLdVY3U0Z6aVJMSnh2eXhTSEk1Zm42TVNKeWVnLVBHdDJsd09IbDFuNmhweHVSYW9JeUdRTFRmRUw0RXN2NVZIR2tvR3ZyYw?oc=5",
-      "pubDate": "Thu, 07 May 2026 02:46:31 GMT",
-      "description": "Prisma Health resumes normal visitation, masking procedures in all hospitals wach.com",
+      "title": "Prisma Health lifts masking, visitation rules after Upstate measles outbreak ends - WIS News 10",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLWJLTjI0R3EzZk9lQy1XaUxnWVhRNnZ4YW51eXBVWTNGMTEwQTlvcFZmN3lYWlpDZnhUc1JydlA0dGlsY01SQjBic1FxMUcxcWlJZ1N1VzVlempzWVZzTXVoTUdDbVlLMmF6Y0xvR3VqN0U5bjJJOEptSTBZeHotcHhqdlBNT3pVcFIwQW5DQnBSdkZteFlnZ3pWZXE1dG5ZNmJvejdGRnlmYldhM3d5bWticWVZc0lEV1oyaQ?oc=5",
+      "pubDate": "Thu, 07 May 2026 02:48:00 GMT",
+      "description": "Prisma Health lifts masking, visitation rules after Upstate measles outbreak ends WIS News 10",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "11 measles cases are confirmed in Pa.'s Lebanon County - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTE5NOXdkdzBFYlhfSWF0RWVqVlJOaEJHZ1JrWkZIYS1haUVya1J6MTZfUVlRM0pJVDhQbkw3NHRRS2l1dmhpQnhBbGl1X0x3b2djdkQtbFhiVjU0Zmt4dXlXc3ItNnNaZWJTZXVaZFJyWHhmSGEyajBnbEpWckMyYkp1dWV5QXZSVWhQRWRrUFBGal9SLUo2TF9pWGZtVW8?oc=5",
-      "pubDate": "Thu, 07 May 2026 02:28:37 GMT",
-      "description": "11 measles cases are confirmed in Pa.'s Lebanon County Pittsburgh Post-Gazette",
+      "title": "Prisma Health resumes normal visitation, masking procedures in all hospitals - wach.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOS1rcGhOS1UxWFY0WGZ3TWtvMWFPVy1qU1RjNzVIMmhvYk56YlFLQ3loY3U3aXJZMFJFXzF0MFdreDQzWDFsYzF3N2NjbldhbHVSVU90UmRPa1hYbFJfLTBkQ3d1b1ZsLWRrLWtWOXhCTUhkaElTU1hxc2VYck9NU0VLdVY3U0Z6aVJMSnh2eXhTSEk1Zm42TVNKeWVnLVBHdDJsd09IbDFuNmhweHVSYW9JeUdRTFRmRUw0RXN2NVZIR2tvR3ZyYw?oc=5",
+      "pubDate": "Thu, 07 May 2026 02:46:31 GMT",
+      "description": "Prisma Health resumes normal visitation, masking procedures in all hospitals wach.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -66,15 +111,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Deadliest day in measles outbreak - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjlUYUJiTG1MdmN5eVcwMVZZUkVEVlNjYjdnd3Z5NFBKTDQzczJMc3YwTFU5X1pEVWplOWx6Nm8tbURyV3FRS0pGT0cyQ1BzcGRaMzQ3Z0xDY0RMd1Z3OGZLUG83MlI3eEh5TDNlYmVtdWdpS3JlaVAyVjdKRnc2M3FKOGVlSTZEeDJmSjNsR2oyQQ?oc=5",
-      "pubDate": "Thu, 07 May 2026 00:20:59 GMT",
-      "description": "Deadliest day in measles outbreak The Daily Star",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "3 new measles cases reported in Maricopa County - AZ Family",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYkVoQ2dHVldabUM0UUlhZmhUVTFqY2hhLTZtaks1WGhZQkJlU1BBVUZuZ0EtVmtNY1N0bFBNeHJfOGVQcE42LXNaOVpLdEhpTHJ6Z3dNS184MzVfNi1TdFJIaV9YcGFBOFJObExrc3A1c2s1WGpSM255RE1QejhaLVRjVjBjeV9OUGE5TExjaG0?oc=5",
       "pubDate": "Thu, 07 May 2026 00:17:00 GMT",
@@ -88,15 +124,6 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUXAzWjZBdG5TM0ZoczZaODRWMUZmVVVJUDJSQTVVVmsyYm1uMk1TNXNIdkxiaXBNRUpMSEFhZlNLQWtWeW92UkNyZFZPSUlwczBIMEdTTUtPeFExMnlnOVgyR3pRbW5UTWhUZGJQR2tndi1NemF0OXNZZTdPdWZNczgwSVJ0cnhIMllwcjFfbDZWX3pEOUg3dXpjZE1JamMtSW81MUZxR1BWMzM1MW5WeEJVU1VTaU1xcU5IWC0zYmZvbzhNZlY3cw?oc=5",
       "pubDate": "Wed, 06 May 2026 23:42:00 GMT",
       "description": "3 new measles confirmed in Maricopa County 12News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Maricopa County measles cases rise to 13 as health officials identify new exposure sites - ABC15 Arizona",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeV9nREp3NEg1eEJXX1FFNG1MTGp1R214QVVfWXA4RlFhZG9ZRzZnS3JrOUIwYzhEWHNVcFh3b0VoUVpHSldrdUlsOUEyZVVabWxjY2Q3bmt5R3BQWWpZaUJ0VFB1WGU5SzhZT2Z4SU1nQ24wX19BSVlfeU5Ta3BRVXNpQnJweVZJMDRLVTR0QnpBQXB6R0VXU0hYWlF3WWhrY0lJbmJZd05KZE5vNG9zVEhic3NIVko3ZjRSQjhtampuVm85dGNKbjhYSFZmbTcyOFliUnBJYUlpZGw2?oc=5",
-      "pubDate": "Wed, 06 May 2026 23:39:03 GMT",
-      "description": "Maricopa County measles cases rise to 13 as health officials identify new exposure sites ABC15 Arizona",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -129,6 +156,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Maricopa County measles cases rise to 13 as health officials identify new exposure sites - ABC15 Arizona",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeV9nREp3NEg1eEJXX1FFNG1MTGp1R214QVVfWXA4RlFhZG9ZRzZnS3JrOUIwYzhEWHNVcFh3b0VoUVpHSldrdUlsOUEyZVVabWxjY2Q3bmt5R3BQWWpZaUJ0VFB1WGU5SzhZT2Z4SU1nQ24wX19BSVlfeU5Ta3BRVXNpQnJweVZJMDRLVTR0QnpBQXB6R0VXU0hYWlF3WWhrY0lJbmJZd05KZE5vNG9zVEhic3NIVko3ZjRSQjhtampuVm85dGNKbjhYSFZmbTcyOFliUnBJYUlpZGw2?oc=5",
+      "pubDate": "Wed, 06 May 2026 23:24:23 GMT",
+      "description": "Maricopa County measles cases rise to 13 as health officials identify new exposure sites ABC15 Arizona",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Almost a dozen people test positive for measles in Central PA - Tri-State Alert",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbzRqWmNaMGRYc2FialNxenRUUkIzNkJjWXZPSzFyNExETUx1VGJ1eVJNcTU1NEdsX1Vxc0JyMUpxbmNseTQtenByOGtLLWNWaDhBSktmU3FDaGE2MWFxamhxSEVIWnpYVzd1aENyeGhrUE8xbjFRMnhfTHVXaVROcjhWQ0Z1cnQzenBTelNlQndZb1E3b3c?oc=5",
       "pubDate": "Wed, 06 May 2026 22:38:09 GMT",
@@ -147,10 +183,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials work to contain central Pa. measles outbreak that hospitalized 3 - PennLive.com",
+      "title": "Health officials work to contain central Pa. measles outbreak that hospitalized 3 - PennLive",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVU14QmlmaU9jYXAxZ1VrM1NqSHh2bGZfbjg3OFA1NnRjdU16czdORHRlanZ3Q2xJek42OUR4V2JUcnd5ZHljT25zemZIb1FZUWQxSWVGLTZrUmg2QlNVb3NNWjhual9VclR1YVpoTXUxamQwMXlxMVNSLXpBYjJqMm9UQUZWS05GcU1DeWFEejllcWdzdlFYOEtjTXc0VkJVVmlyeEJrSllCbkVacDlkSG1xNGdySkh4akJ4OXU3MEvSAdQBQVVfeXFMUEsxRC00aVdZaDEyYlJyU3FJejg3N3QtX1ZLSzRGS1FXZlJEZkVnRGwxUzA1RURkMm9pOTBiZkFvaFFRcEZQbURseEQ0UmhwcEV3WVRIN0EyNTZjNU8wYk9fQUd0TEZKbS04UVhHTExyaGI4R041Z0k4VXhtWFhkSFl0SHloYUg5N1VfQ05mdkN5YTJkeWdmTjYydnYycHZzaE1xX2s4SlRzYlZNZTQ5ME84azBCZDl3ckVrWlk2VDFsOXh4Y2Y3NTBZcmhMbmhOeG43Qko?oc=5",
       "pubDate": "Wed, 06 May 2026 22:25:00 GMT",
-      "description": "Health officials work to contain central Pa. measles outbreak that hospitalized 3 PennLive.com",
+      "description": "Health officials work to contain central Pa. measles outbreak that hospitalized 3 PennLive",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -300,15 +336,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "2 additional measles cases confirmed in Ottawa County - Grand Haven Tribune",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWlFRbHlqRmRYdjdIT0djeGx5RFBuVDkxUVFvaGlnY19CQmJLd3JULWdKUm5tenREa0dscTM4OC1FbDJJdV95RWxEN3IzVkVMTjBIVTBUa1pSRHdCMTA4LVItaEI2QVYwWVllX3pvVGI1REk3SnJHNUo2cFhjNmJBYzFwMWV1c1I0Nk5tUTJ3Mzg0T2hxdzdvTjdVdjNJSnhuQy14OTFxLVJqUEF1TXduUVdpUlU3STF3UnpGQjJVUk10LWNycTg5NWZkREl3dEVZNUstTnBJSnVHR3drWFdRVzFSNnptUHVjNkE?oc=5",
-      "pubDate": "Wed, 06 May 2026 16:15:00 GMT",
-      "description": "2 additional measles cases confirmed in Ottawa County Grand Haven Tribune",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "2 more people in Ottawa County come down with measles, bringing total to 3 - WOODTV.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVIxMTdiUXpybHY2akstOS1ybDB3RmItSUJheWpqcGdhZVpaMFdzbTNRWXBkRkNycnlyVFl6RU0xN1VMdFpYWGpkNkhIYmo4TzVEQm52bFdBS1JvUzdldkJHa2F2T2lLbWo1amlNRFcwYWZqNVdxLUtzTDQ1TkFxUk1zZVcycE9QdDVsX1MwONIBlAFBVV95cUxQUW5uZE4zdlpxMkRaODlwMjRqNzlwVExqOUY4YUF4dWotZHhtTVNubzRwNzQ2OGZWRm1ZRTNOM1VxRTQzZ09uS1Q1d2djOGlaRDI0dDRZX2ZpQndjWkV2TjcyVENTVEpTdlFEU1QtN2F3S2hTLVY0ZmMtUXZkdlVOUGFERjlvdE93LWl5Q1JXY0dzWmJq?oc=5",
       "pubDate": "Wed, 06 May 2026 16:03:57 GMT",
@@ -385,15 +412,6 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sdzVjaEVEMXpLblBGUkdyekxRNVZVRTdWN0drc0NNVVFPR0lfN2pvYTBiNnR1cFRKSmRNZHU4ZVh1OVY5UlJBb045elBhbXNtMVNESmxIQVlqRGliaXBtOW83RGR6RFhQT0l1dVE1aXhLUkNEaWxia0h3OU0?oc=5",
       "pubDate": "Wed, 06 May 2026 04:12:12 GMT",
       "description": "What to know about measles on Long Island after child in Nassau tests positive Newsday",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Nassau County reports first measles case since 2024 - NBC New York",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSlJHT1Z5SDdWdThseVVyejdUdjNmQ091YklrYWVkdHVxWXFhblh5M09PMHFCNk1ITC1qZXM1UVNib1ZwM1J3U1hrR0JsUzFheGxZLWxZbzJfNTNWd0duOFNjUHdfNTdVTzJTVGJYRWhPUTFFaFBIdW1ST0FXZHVIVGpaWlhIdHFhSVphVDEyOTVtWEZsYVBxaDFoZS1aRWVXTWJ5OEtGc1lkdEZXX1plR9IBuAFBVV95cUxNR3p5bEl4eF9QZEkxd2swQ1lEX3BRdkVYZ3ZrNHJyU2htT3N0Rzg0UUNsMVNITlBLWkRHUXVQazRLdTJxai1ScXcxLUozOFNXd2k0WmtOYmVkQlBYSC1uZGUyZ2otMklSYmUzN3dyWDVRTVdHdHNiSXhHUEFvNGpFSnhOaEQxd0tnM2pSSUpyZzNxWHFDdWw3aGZkdTNpZ25rNFdfd05OU3AtVWN0QkZmQjFyNXJWeU41?oc=5",
-      "pubDate": "Wed, 06 May 2026 04:04:01 GMT",
-      "description": "Nassau County reports first measles case since 2024 NBC New York",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -534,6 +552,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Health officials urge vaccine checks with Washington measles cases reaching 40 - Nonstop Local News",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbmVDMWJxODhMamNYUmctRzVlMThoc1JsaGY5dFZaa1Q5dDRBelZYSnNGYnNYaU9wMEtBd0xmTGFWSFNic0lBUDBmSm15cFBWb1hTX2wtVFBRNkhTV1RJajNNbzBjOHVfTWlXT3poVXFhclVZQkxfYUhxYjAza0dlUDZKQ1J1MmQ0Nkx0WTlvTFdsdmRSOER6enlBTFRSM2g0VmdyV2pXTU1RekE0aVNHcGdqNkdlSnBrcEJ0dEZrRFczQVJ2TXBvQ2Nqc05vNGlpSFprcjhlT1Z4ZzM2Y1lnb3UxTzlsZ3VncnkzUlVpeG5TNm8?oc=5",
+      "pubDate": "Mon, 04 May 2026 23:30:00 GMT",
+      "description": "Health officials urge vaccine checks with Washington measles cases reaching 40 Nonstop Local News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Wyoming’s first 2026 confirmed measles case reported in Fremont County - News From The States",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFY5RFpkTS1Udk1ESjYxNXNmelBNVi1fLWgyY3BqdkdxVzhicW9ZRllKcHlWdzZMM0pzcnlLSW1CWjB5MUpHU1NTZ3dUQnlpam5VNjU2QXB3d1pIX0xGN2NVNnpEMzAzbWhsSzBBR2tUeFBqNm04SUNXZTJuMVZrcWlkZzZ0MWMybkF6RXExSTJZMjdvbnFQZE1ndTN6c0szS05XOUJ6MHdXcmQt?oc=5",
       "pubDate": "Mon, 04 May 2026 22:32:11 GMT",
@@ -651,6 +678,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Why Europe Can't Get Measles Under Control - Think Global Health",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWGt0aHNCYjlPY1N6NTd3X0Zwd0R2M0Z2N0ZwMk1GWjRsYndOZk5WekJzVVd4eGYwcTE1cjNhcFhScFhoMXoweFNaTUJBalFLdjVGWnhPbDNUSVJXVnN1R0N4dHR2akJVTUhPQ1ZZTklNbVdpTWtlTUlYcG8xQ2xkNXlobE80WGNsRDFR?oc=5",
+      "pubDate": "Mon, 04 May 2026 12:28:01 GMT",
+      "description": "Why Europe Can't Get Measles Under Control Think Global Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Bangladesh measles surge takes total to more than 40,000 cases - Outbreak News Today",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXktVFRSd2xtMi1UN1ktRkxDU2ZMQ01YS01pSVlBcXpMRFAtcVBTaml2NVVDOXJlODlTNEhlTk0tUURFODR5R3BkNzBxRDQ3LUg2Y0hEeEl2ckFxcVJVYm5LZURyYjh1T3VPOEdvbHJMdUFZV212SjRjMGczRy1lbzYtZw?oc=5",
       "pubDate": "Sun, 03 May 2026 21:26:08 GMT",
@@ -664,6 +700,15 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFN2WWFpYXVLMVRBbjNTYTNzMUZvV0ljWUQ1VEpxY3NDb1k4V2M5U2NnbDRNVFk3RC1GUGZLM2Q2cG5kTDFRNTd1N1NSczFERTF5V3h5b1pBa25DNzFyb0FJazItLUdhTWJmNkl0S1dyME5IT3dxNkxHSXA0WVdVdnNwcWl2LTRTVW51YXA3ZlJyQlAwT1l6dEkwc9IBoAFBVV95cUxQVm91a0RhNm1ZVmdIdWhXTEFwZzFtMmt5NHVmLWc3d3g2czJ5SG5ydGRBWFlzRkpXb21XWEF6Tkd2b2wzN0x1V25SazVjNUZ4Z0RwYTBxMEs1TnZNN2VxQUlsSVZGZ2d5M1lMazRDTmthb3Iwb0NIa0I0cWRBYXUxWDVRbnVCanBSUEZfUVJpZWpCeUMxNEVPZ1RJcVpURmVQ?oc=5",
       "pubDate": "Sun, 03 May 2026 17:11:37 GMT",
       "description": "A measles outbreak by the numbers: 8 months, 997 cases, $2.1M spent NewsNation",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "One case of measles reported in Dunn County - Health and Human Services North Dakota (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zd25MWXNSalljZWkzTVE2STZTMEltSWVZRUl5NG1FMzF5Q0tlV3FMS18wajZwVmtiUjVYMEJLaGZhVnhjU1dUeFpHQWZsdmluZGwwMkJTQ0lnM2pPMDVsZ2lPMU91UmtaX09Ba21TbUZBUFU?oc=5",
+      "pubDate": "Fri, 01 May 2026 21:15:00 GMT",
+      "description": "One case of measles reported in Dunn County Health and Human Services North Dakota (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
