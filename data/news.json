@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-05-09T11:27:31.481Z",
-  "itemCount": 81,
+  "updatedAt": "2026-05-09T12:33:03.155Z",
+  "itemCount": 83,
   "items": [
+    {
+      "title": "New York City resident with measles dined at a Roslyn restaurant - Newsday",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWG1rMkFfempUN08tN0JmQTlOX0NVSUh6aVV4dmRaRVB5bF9nenc5WmhRdl9KcVVSeThURnNMdFJCSEx3VFJXcFBIM2VpREFZeXZIV2E0c3BZUGg1aFZrLVpJZ29KTmh2ZFlRU0ZPTzgwMlJud25ZNXlEZUtJSFl6ajVZNGM5QmhRYWc?oc=5",
+      "pubDate": "Sat, 09 May 2026 12:13:39 GMT",
+      "description": "New York City resident with measles dined at a Roslyn restaurant Newsday",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "In one small Minnesota city, less than half of kindergartners are vaccinated for measles - Star Tribune",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdWVUbXV3d0xLY25NX2VDTTVGU1VEUUgyU2lxZ3Z4YWdRWWhLbmFIVE9wZUs1eUU4VlROZ1V6Tk9rMGpiNW9WV1ByWkt1cXoxOUNNN25VdExIMUdtZlExMlF2U2tReGxYQ2dlWm0wV2tsdFg1SzhScXoxeVAtNjg5ajlrUjVSaWlHRmJJZm0tMlczUUE5b2NjWXl5UUI4NE5kX3pCRE03RWVPOHdFcEVzM0hjYzk4N2M3NWM4WWpvTmpHN0k?oc=5",
@@ -30,10 +39,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "PA has most measles cases in region, what is cause of high measle rate - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxY2NjZGxuZGkyWFYyNnJEVjB3MFpSdENYaUdFYTdUam5TakdyaGx4NS16Nzhlel80dkIwcTlwRVB4LU9YUXMzbUI2M1M2Ry1ZaUNtY3VzaURibko0NmtCWnFnNGtPTFJueHlDbUhZZTdYN29uanNjTU1SV0s?oc=5",
-      "pubDate": "Sat, 09 May 2026 09:37:40 GMT",
-      "description": "PA has most measles cases in region, what is cause of high measle rate AOL.com",
+      "title": "PA has most measles cases in region, what is cause of high measle rate - PhillyBurbs",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNEljYjB4ZE8zQS00cS0yWWdqVHdFN3dTX3BiUTYxVzhsdHJYcEFhUVFVZy1HUXR6cUw2WnAtYlZISEJGYXJuSXJHeFlwWGVZSXMzdmVRSkJET3UyT0FWRzFTbU1lbWU0LW56X3VIaGVGYmNIUXV5WEFUNUhfUnZsTjlTdklOTjZmUmlGVFpXVFpSUmdEdEpMWGpBV0FEZ0U5aVVoWkttRHE0XzhpNldZQzFiNF83U05sbmlSUmtnQllvMTJJVS10WWwwR20?oc=5",
+      "pubDate": "Sat, 09 May 2026 09:09:00 GMT",
+      "description": "PA has most measles cases in region, what is cause of high measle rate PhillyBurbs",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -174,15 +183,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "East Valley measles outbreak grows: Where you may have been exposed - Phoenix New Times",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSGE1QXNMelBvV19qaVhrUENkdXdvakNMQS1kVFZpYVA5YVFKY2lwZjdTd2hvV2RJT2ZjdnFIMF8wN1ZrOGdHeVRTQ05VR3JaX21iWUwzcEpjMmRvV1U3T3J5c2k0UlhQS1VzNFdHaExiTGEtcXFabEZvVXVEcy1WUENsaVY4aGhIMTVRWGpodlBSQQ?oc=5",
-      "pubDate": "Fri, 08 May 2026 23:31:05 GMT",
-      "description": "East Valley measles outbreak grows: Where you may have been exposed Phoenix New Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "New Measles Case, Public Exposures Identified by Public Health - Maricopa County (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tQzlIQXVmanBGLVFfY2FVajFJR2lNUF9qYWs5VGpvY1hSVWFqQTZFMTRWUmpHWDJPRVJLbVdoY2YwMXUzWXp0THlIbl9OZWRXOEFQeE1ZYTR2dDdnZ2tB?oc=5",
       "pubDate": "Fri, 08 May 2026 23:23:52 GMT",
@@ -196,6 +196,15 @@
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRVRCVl9kLWpBeFBBcElHWFBQMzdaa3kzNmtfdWZaVHNIOUphcTRvS1RxV0gzcHJPeTFGdWRKVkM3Tk5QSDUxLWFES0FNTzF0dE5KZTdOMzVpc01kRkhxY3lRYnd1ZmRIa3B4YzFpbGYxc1JLOTB0SU5IZmtVZEdoOUJ4MlVxaTZxQldaTk9TR0FpQktHWTh1OFB4UVRVSkVVMXAzWWxvMXJHZ29CeEVWOGg0ZE9hdXZRQWFDNUU5UFh6U1VhM3ZNNHctaFltejBpd282WHdZRnZWcTl2M21aRlVOS1pFSWJBS0pkMEVKR2d2TFpGVmVpZXNnTXktRFpJWUE?oc=5",
       "pubDate": "Fri, 08 May 2026 23:00:00 GMT",
       "description": "Austin health officials urge vaccination amid first measles case in Travis County this year KVUE",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles case confirmed in Travis County, Texas - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1A0amRiX19SR1E3VlVrOHJ6SWh4NFFwVWY2U2lVTGVZNzVIbjREMlNXQ2c3U1MyNGhuN3l6ZXI2UVNGUnBIWWJlVFdoSFlJSGlTaUhwclRfaGhDWjE2bDFHM0VuMHZiOGdtblR4RzRNYzR2NmhfQVE1S282MXE5Y05rTVA2VFJ3Zmc?oc=5",
+      "pubDate": "Fri, 08 May 2026 22:50:14 GMT",
+      "description": "Measles case confirmed in Travis County, Texas KXAN Austin",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -255,6 +264,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "SC health officials declare end to measles outbreak; 997 cases reported - WWLP",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWhVclZvQThnLVltY2xPRVFaVWk3YjR3dnNoS0I3T0dabzB0dmtOSG8yUFhlMEM3NGtYR1Z4UE5yYmNudUlRQTY0bTFrVDVtVHQ4ZTQ3YjA2VjZkb2htay03dHRTRDJtRVViWHY1VXprMkVSVFpnRlpjdkdmLUhmMG5IZ3hEV2lqaXBjNHRQRU9aVl9RZmsxQUJvMm85dUYtSGlPZ1ZrWU95alU?oc=5",
+      "pubDate": "Fri, 08 May 2026 18:58:17 GMT",
+      "description": "SC health officials declare end to measles outbreak; 997 cases reported WWLP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Utah measles outbreak climbs to 638 cases - American Hospital Association",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkdRMmxUMVN6NjdMZ0Rldzh6N3FwQ1NobndocE9SUDhwWDNoZlFlYUtNRTFnMlFUTFZRUW9FR2lOZGxHTWFtUzhVOEpKNE5hZjY4d0lFUngxR3AwYlAwOEhvNVNzd2dDcDZYbWdKMFcxUXBJU2ltWF9PWHNyVEJIbnJTZXZIMTlLU1pz?oc=5",
       "pubDate": "Fri, 08 May 2026 18:44:12 GMT",
@@ -295,15 +313,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPalZmQmd5NDRveHZfeXNYRmlOQ29jZ2h0VldlcTcydnNCNDFtRmF3OFVhTGs2dnFXeTRNTGl3ZEVFZ25ZMHZwdHVNZEZXd3ZsdzVBZE5iM2xCWkd5Q0hDdWl2a2NTR19TOHVqVmtPVVpFREF2MmJzMlI3ZTNQTmRmQy10YjdfUlBJTHlwVmRyb2lBeGpWaTBWbGF2ZXRmQzQ?oc=5",
       "pubDate": "Fri, 08 May 2026 16:47:01 GMT",
       "description": "Catholic health centers respond to massive measles outbreak in Bangladesh OSV News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "New York City resident with measles dined at a Roslyn restaurant - Newsday",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWG1rMkFfempUN08tN0JmQTlOX0NVSUh6aVV4dmRaRVB5bF9nenc5WmhRdl9KcVVSeThURnNMdFJCSEx3VFJXcFBIM2VpREFZeXZIV2E0c3BZUGg1aFZrLVpJZ29KTmh2ZFlRU0ZPTzgwMlJud25ZNXlEZUtJSFl6ajVZNGM5QmhRYWc?oc=5",
-      "pubDate": "Fri, 08 May 2026 15:55:17 GMT",
-      "description": "New York City resident with measles dined at a Roslyn restaurant Newsday",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -561,6 +570,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Pennsylvania Department of Health warns of measles spike in Lebanon County following 12 cases - fox43.com",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMGpndGlqOFQ0Q1NyQnczTEY0dWRWZnk1OXcxR0FwMnVHQVRWcnN0aXVjaFlITkZnR2gxX2ZDc1RBWEdlbmtiQld2YnRhdDg4b185OUswOEwtNEJpZ3F2UXI5S1o1Q01pTkNZVFFlNkp6cE1yRUVlTFN0Z1FZSU1HMU9SNG1yT3l5OTRDOW1oaFdRbzIwNnFjdUFuU096TjV0Q21xaW1sU29jdTJRblhlTlMxcWstdG5BSG9DZ0liVkFndVE4ZnRuOXBnS3M3NnhmSmRld3ItWk5YZE1wUkVoVGhKREQ2VTRLd1VFaDhUdmllUQ?oc=5",
+      "pubDate": "Thu, 07 May 2026 10:52:00 GMT",
+      "description": "Pennsylvania Department of Health warns of measles spike in Lebanon County following 12 cases fox43.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "🦠 The Philly area’s growing measles risk | Morning Newsletter - Inquirer.com",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYURMbGp0ZDY4VGI1R1dOOGJrZkV0NnJSSjduMUxoSndhMXo5WTJmRnhkbUNzLU1FYmFZZEJSNWJaNkpQWDJEc0RvQVJhMmxPOGlsWVRpWlhMNzVoTXFSMnpQLWx2U0RUQi1TblFoUmFFMTVBYXhHU2VmNVdnVzgxa0lmMUEyb05scUg5Q3BWbkNZcUgyanlLa2dMcjZkSmQ0UHpzMFkyaHhFc1FhTmdXclNtODJiSy0yaGhPcl9ZR0YwT3ppQlIxa0VhMU9JZjBtTGdjSERVQjJPZzVReW9tS1FR?oc=5",
       "pubDate": "Thu, 07 May 2026 10:01:00 GMT",
@@ -601,6 +619,15 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOE5RSFRKRDZfSEdycDYwQzB4dXZMTzM2RDBLNzItX1RybWhYTV9jY1BZNXhDZUk4QWFyZmNvSllDUnBDN0toWVcwanZtQThoSUczc1pRX0haT21RSUdxelNLWlZmY2g1RTlMamZHbkpILXRWdHNMeVZaWFowWXpwUw?oc=5",
       "pubDate": "Thu, 07 May 2026 06:02:58 GMT",
       "description": "Maricopa County announces 3 new measles cases, identifies 10 exposure sites in Mesa KTAR News 92.3 FM",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "3 new measles cases reported in the East Valley - FOX 10 Phoenix",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqTkVKWGZTNzA2NzZFMkwwYnpObDhaVjFRdTdiLXRvSTZsRkd1anVHa3ZuZV9iRmxIX0pwU1I5XzhfQWtxWFdtQkpKRUo1X1lQOEhpNFcyRzltOHdDemdWVzE5Sm5XZ9IBa0FVX3lxTE92WVc2TjJULWxLYXh3eVl5Q0V2bGNPVTh3LTRSZnNQYUZVMkNDMmdnM3JON1lHejJuWDJGMGFURERSdU9tOVlPQWpNc3llYjlUZmg4a0N5eF9hTnJJbzZGaGhQQ0VFVGJTb0NR?oc=5",
+      "pubDate": "Thu, 07 May 2026 04:14:51 GMT",
+      "description": "3 new measles cases reported in the East Valley FOX 10 Phoenix",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -669,6 +696,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "2 more measles cases confirmed in Ottawa County, both live with person who was first diagnosed - FOX 17 West Michigan News",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaGQ5dlBYMGNVSlJNM3FGV2tMbURKMWFFazNmTHJvcEtpUXhCeGpRN1JWeVh1djlUdXk3bGFIbnZzNHowSHFZVTQzdlFkbEFkTjNvZXN0Q0MyVmlYTDNxU2ZJNk5IeGRsQnFNazUybDR1c2dENDBfc1AxSjRTYTJCRGRaYm1NMG5CYzhnZzEyNzhFeDEyRS1EaV9KU0xKRks2MjdiMzI2N21VVHRWd3o5VVRESl9vUXBpNVo5TDlhMkQ0U0w3RG1OVGRPeTJIWkdaQ0dtNmY1aWgzbHFnT1Fvb1Zsd25OdzlHTVE?oc=5",
+      "pubDate": "Wed, 06 May 2026 16:56:25 GMT",
+      "description": "2 more measles cases confirmed in Ottawa County, both live with person who was first diagnosed FOX 17 West Michigan News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "NYC measles case leads health officials to notify Manhattan restaurants, other venues - Gothamist",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbWtKbVV3NW96ZnVRVE8xUlMxZ1JZRlRZSVdJbmxJYmxhSE9JdXl1dFRDcWlYMDc0SzFCNUVfdFNuRk1WS2pNelpMS2NlZ0I4S3Z6WDY5X1ZmTnU2aWMyaVJnWmVxQzhYcTVWU2FWLUJadWhvZVhQRWl5WUtLTWtQdzlDNG1ZcVVRZFBCakVfN0NhRDRGOUJ1elRmZkY5Z2hvdW4wS3E5dVUtNkxhVWNlMw?oc=5",
       "pubDate": "Wed, 06 May 2026 15:46:00 GMT",
@@ -682,15 +718,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWhFZzl3YVdfUkJpZzk5SjRTZ1YzZGJhb01LU1RBRkktd2E0OWl3MWYzTTA0LU1NMlphbnlYMjdPdDBIMWtDNTdWdzRvWjlieUFnTXhrWUktMmo4NllKZ1d4bGp1NmNGbVJ4MGNMVUdvbWt0eUhtOEVjTW1Tb2lpLUtKM192eWwtSVZsYWoxX0R1TUdhZjZ4UkpmcXZiOUJ2MGJqc1Y0ZHRTOF83Z1dhN3prM1c?oc=5",
       "pubDate": "Wed, 06 May 2026 10:00:00 GMT",
       "description": "Another California baby gets measles. How can kids be protected? Los Angeles Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Health officials warn NYC Italian eatery patrons of possible exposure to measles by infected diner - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmlXemk3Q3FzRVBoRndiYWNNUy1FXy1KeFQxaDMzZHo4ck9kSWJENElIMVhWNTk0aThXcmstQlNZcjJ1SVpIRmh0MGVrMVMxRXBWVkZBNGVCbEpQNXNNd1hrOXp2anJONlVxQkhkeDduMHNaYkxfTWlJR2tvSGxyYWwwSDBXVFg4RGpmNlp3d0I2YmJ3ckZXbzN4WVlQeFBocC0xQS1PT2QyX2dHdjhkS3pPWm9zRjBUcEk3NzB3?oc=5",
-      "pubDate": "Wed, 06 May 2026 05:45:00 GMT",
-      "description": "Health officials warn NYC Italian eatery patrons of possible exposure to measles by infected diner New York Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -718,15 +745,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdS0zSFg0NlVHbmJsazZZZXBlUG5oSFdsVDBjMHNoOEZxX0NCMHdMRjY1TDZnaG80bWprc3MtNkFJOGZfaDRaMGlCZk50UzVOR09RZEVmZlZvSk5NQ0pzWDY4Y2NMdUttOVc4aVlhMTdOTDhTcF9yaXZaN2RaOVpDNHVJbnJuaXE4MkNMYzdhZmtIMi0xcERVbEloY0lFZFB5QWZFYkdDV3Z6bkxL0gGyAUFVX3lxTFBrV296cHJfaC1kSnZHSlIwaXphYk8wZGx4dnZOUGxON3NmbWFmQXRfZXJtazBLdW9GV0tiYWdFQ2R3QmIyR2tQVUpnVHFteWM0N2M4X0xUOXVfYVlGcEZORXRjNzEwaGFDTzdoVldxWkNFMHZoM2lFdXBfcE9fV3BQV0ROUGx5Nzk4dnpObDZXWUpsWF9hUXJ1WklNSmN0RzNtTTBuZV9oaWRJUDQ1WXFCVEE?oc=5",
       "pubDate": "Tue, 05 May 2026 19:23:06 GMT",
       "description": "1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen ABC7 New York",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "measles - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MTWF1WnlQZ3pzaVBoUkRqb2VJZnNuT0xKcGdSRExEMzRFSWNHa3RlRG9nNGlYTkhvQnNXS1NldUNtdmppa0VaZHZLbFZPUVJPUTIyTw?oc=5",
-      "pubDate": "Tue, 05 May 2026 05:00:00 GMT",
-      "description": "measles Britannica",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
