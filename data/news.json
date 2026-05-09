@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-05-09T01:06:13.837Z",
-  "itemCount": 80,
+  "updatedAt": "2026-05-09T01:49:02.983Z",
+  "itemCount": 79,
   "items": [
+    {
+      "title": "Maricopa County reports 14th measles case of 2026 - KTAR News 92.3 FM",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZDhrUk5kdFhxY1JJTmJtU1BOb1NrTWh5NnRvdG9YUjVOSFEzbUV1NlJrTklKY3VOWEZVdVhKbEo5NWw2Ymd5V3daOVJjT1ZjVkFkTDdtLVNCMmJYczZWN25US3RmT1ZCcUpCVWsxZTRMekRzVjd6OC1oc0xqWWh4ZmJVM19iN1VMR3c?oc=5",
+      "pubDate": "Sat, 09 May 2026 01:22:55 GMT",
+      "description": "Maricopa County reports 14th measles case of 2026 KTAR News 92.3 FM",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "City's health commissioner says risk of hantavirus and measles is low - Spectrum News NY1",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTRTYlZmZEwzUWRkamIxRWJNOTR4TE1tb3VmQTVaaVJqVEJIaEVRMGFQNFhOdEtKVDFxWUJQc0plWndETnNvcWFOVVhQd3pIV2pfR3pTZ1IxdGhEM2gzNGJFX2pObnJITFo0T1E3MlJ3ZzdOMDNLaGlfOXBfZXI3LWg3ZmdaZWUwYmpNTnBjOUxGMlpiakNmS1B6V2Z2REcwRkZTbmMtZ0ZIekZTTmh0M2ZUSU5aNDR6dmc?oc=5",
@@ -228,15 +237,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Austin Public Health confirms first Travis County measles case of 2026 - KEYE",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMDY1TW5LWjBia1BkQTdQQzloSEZHbmlaS0JKelAyX1JHUHA0YnNuTHM2a1c1ME51ZWNLaGNPNGtkcXlFSVBnbE9WR0NCTjhVSWVTV1VyZmZyZmxtSmY1TWlBOFg0RVltZTNQaldpZmJvZDUtS0xmMHptaWtpdWZpbF9CSU4tdS1UbXBLR09EX09Fc052czVwM2YtNHdkMW1CQmxadzJR?oc=5",
-      "pubDate": "Fri, 08 May 2026 15:44:33 GMT",
-      "description": "Austin Public Health confirms first Travis County measles case of 2026 KEYE",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Illinois touts high vaccination rates among school kids despite federal efforts to limit them - NPR Illinois",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORV9sWXlRRFduS3BHTFMzeGxJTks5MHAtVElGMVBZYXQ3QmlsVnFyeU1XYXFIN2RmV2poMXRWN0dCZG5scG1CMDNVeXdKMnRRZ1RGWWxjeGFWNldDTF9Cem93V2xSUFdpTGxZUFlha2xiN2xUZl93TkdEVzN2ZlhTN0VzRkd5VjRaU0Z1ZUNBZDE5Mmp1aHh4RlVGcVpua0pRczItZV9kUGdCSzhVTHZOaVJhNE1RbjZFVmVZdEZwclhWSjB1VmpDY1A2Y1hBM1dKeVV3MXhtblhSTkNNZmhCNQ?oc=5",
       "pubDate": "Fri, 08 May 2026 14:29:00 GMT",
@@ -374,7 +374,7 @@
     {
       "title": "Met Opera patrons warned of measles exposure after La Bohème matinee - Gothamist",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHhkUUVZeFAxSjZuNXh6MWplQ01vR1cwZXhTN2xLVVNLbTRyWFFsWXZkUWNfSmxHZzdtTDB6eVVkZ2YyUUx4R3BzSzV6bVJYemRoS2lGRUJxaUNUSzJ0MmE5MWVYX3BXS183RWZvSjNXMHlnbnIxbWRETGpENjdsUkFUSHJ1ak9sZHktbFdnZVVVcFF5QlUteTJoQlJYWGtpVnc?oc=5",
-      "pubDate": "Thu, 07 May 2026 21:23:00 GMT",
+      "pubDate": "Thu, 07 May 2026 21:24:08 GMT",
       "description": "Met Opera patrons warned of measles exposure after La Bohème matinee Gothamist",
       "source": "news.google.com",
       "sourceType": "news",
@@ -493,15 +493,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTDJDRGk4MXZWbnNWS2t3UjVZZzZ0LWFXWF9ra3VXWG1sSUdUU1dOMEJMLWdCNTRJQlFtTUZXQUhrZ3ZqMU8yUXBkbVlJWkY0TG9yWlJteHpkb0xvSlVIUWg4R0VLMnJYWHljYzloWXZWRF8yVk9OdUhJRTFLOTdTa2dibjVDMjJlZk00ZC1wNXJzRWZYTU9BX2FkUjE3X2pS?oc=5",
       "pubDate": "Thu, 07 May 2026 15:00:00 GMT",
       "description": "First measles treatment advances as vaccination rates drop BioWorld News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "These 10 sites linked to latest Maricopa County measles outbreak - The Arizona Republic",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcHA4VG85ZFIxa3BIX3YtY2lvS0xNRHNHcEU2WTdTUi1IOFZENHhwdVJkMmc5QnRKRVJfckJrcnJ4QjNsTE90SlY1X3lYNm1YWW5EMU96aF9YcDE0S01DZTI5OUdhNkFWUk1OSVlQWnMwX1VjV0VuSU41WF81Y05MR1R3N0drcC1hbjlMYlFoOVhsMnJpc1RIME5TWm9sOXhMbHg5SlZOREN1cU13ZVJ1Z205S2ZOSTQ3dWxHN21iQ3hYM3hCanl3bzFJSzUzMUZicnZwaA?oc=5",
-      "pubDate": "Thu, 07 May 2026 12:55:00 GMT",
-      "description": "These 10 sites linked to latest Maricopa County measles outbreak The Arizona Republic",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
