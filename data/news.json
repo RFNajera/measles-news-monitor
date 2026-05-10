@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T07:52:31.516Z",
+  "updatedAt": "2026-05-10T08:47:26.660Z",
   "itemCount": 79,
   "items": [
     {
@@ -453,15 +453,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Case Reported in Travis County - City of Austin (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUGZWMkVqWU1nWVZFWlp2cHcyNnpzM2xfemVZelVsRVltaTFIN1FlcHExVDExbVRWVDI5Q2EteW9pMzlRSHI5akUydEZheTh1YVk0WmlmMkg4UlJkVUZscEttY0dsVGxaakdjTnJES0tOMW1xMHdfaUtoYmtfbFpPRQ?oc=5",
-      "pubDate": "Thu, 07 May 2026 22:38:22 GMT",
-      "description": "Measles Case Reported in Travis County City of Austin (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "As measles roars back, scientists find antibodies that could offer protection - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVE5Xem1rWGJPYmg5M3o3SEF0S3ZXSXVBWWlKX1E0bHNYWDBST3hmQ2JqZG5GTW5aemFQMDJFajhabXBzNHR5Zjk4UVpBRDBLQkJkV1VTUlE4d1lvNzZiZDJrRFFuQUY5aEdHUHQzR3pfZE9udGJ1WkNBVm83S09BSlBFSVJ6YlpxMEROenNHdE5rVmozaUNjektMNmRObWs?oc=5",
       "pubDate": "Thu, 07 May 2026 22:00:00 GMT",
@@ -556,15 +547,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWVGUGxXQU1KRVE4X3IteV9PeWFrRGxVeWJ1aDVzb3ZINmNXNGlUU28yR2s1X3l3cVNLVDhEbXlWWXVpckRRUGZvSXF3WTUxbVhUdlBUVjRKX01sQldJSHplamJnYXBCbWhkV21ralZtY3lRNlRJQjlCdmJRNlA5cVJmcEZwQ3l5Y01xSQ?oc=5",
       "pubDate": "Thu, 07 May 2026 15:24:32 GMT",
       "description": "Potent Human Antibodies Neutralize Measles Virus the-scientist.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Ottawa County reports measles outbreak but says it’s limited to one household - Michigan Advance",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeThDZDFWeVRwSGo2eWtCcHRTNlc3cVRpQlVZUThUdDhyLUktUXNOSHE2c0N0RFRQMC1oeDVKNDRhdF9BSUYzaDBhaEJaNEF6ZmhSclp3MHNRYUVTSTdnclVuVDBhWjE5MXc2UlNsVThxZlplczhOTlZhMEx4azJyQk9SaUpVLURBUEFaLXctMFR1VElzY0R2UXpwMkVUX0xuc0UwdURfVkhUeGtvcVpqTEkzSVlmLVU?oc=5",
-      "pubDate": "Thu, 07 May 2026 15:17:21 GMT",
-      "description": "Ottawa County reports measles outbreak but says it’s limited to one household Michigan Advance",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -678,6 +660,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "2 more measles cases confirmed in Ottawa County, both live with person who was first diagnosed - FOX 17 West Michigan News",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaGQ5dlBYMGNVSlJNM3FGV2tMbURKMWFFazNmTHJvcEtpUXhCeGpRN1JWeVh1djlUdXk3bGFIbnZzNHowSHFZVTQzdlFkbEFkTjNvZXN0Q0MyVmlYTDNxU2ZJNk5IeGRsQnFNazUybDR1c2dENDBfc1AxSjRTYTJCRGRaYm1NMG5CYzhnZzEyNzhFeDEyRS1EaV9KU0xKRks2MjdiMzI2N21VVHRWd3o5VVRESl9vUXBpNVo5TDlhMkQ0U0w3RG1OVGRPeTJIWkdaQ0dtNmY1aWgzbHFnT1Fvb1Zsd25OdzlHTVE?oc=5",
+      "pubDate": "Wed, 06 May 2026 16:56:25 GMT",
+      "description": "2 more measles cases confirmed in Ottawa County, both live with person who was first diagnosed FOX 17 West Michigan News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "NYC measles case leads health officials to notify Manhattan restaurants, other venues - Gothamist",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbWtKbVV3NW96ZnVRVE8xUlMxZ1JZRlRZSVdJbmxJYmxhSE9JdXl1dFRDcWlYMDc0SzFCNUVfdFNuRk1WS2pNelpMS2NlZ0I4S3Z6WDY5X1ZmTnU2aWMyaVJnWmVxQzhYcTVWU2FWLUJadWhvZVhQRWl5WUtLTWtQdzlDNG1ZcVVRZFBCakVfN0NhRDRGOUJ1elRmZkY5Z2hvdW4wS3E5dVUtNkxhVWNlMw?oc=5",
       "pubDate": "Wed, 06 May 2026 15:47:13 GMT",
@@ -709,6 +700,15 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdS0zSFg0NlVHbmJsazZZZXBlUG5oSFdsVDBjMHNoOEZxX0NCMHdMRjY1TDZnaG80bWprc3MtNkFJOGZfaDRaMGlCZk50UzVOR09RZEVmZlZvSk5NQ0pzWDY4Y2NMdUttOVc4aVlhMTdOTDhTcF9yaXZaN2RaOVpDNHVJbnJuaXE4MkNMYzdhZmtIMi0xcERVbEloY0lFZFB5QWZFYkdDV3Z6bkxL0gGyAUFVX3lxTFBrV296cHJfaC1kSnZHSlIwaXphYk8wZGx4dnZOUGxON3NmbWFmQXRfZXJtazBLdW9GV0tiYWdFQ2R3QmIyR2tQVUpnVHFteWM0N2M4X0xUOXVfYVlGcEZORXRjNzEwaGFDTzdoVldxWkNFMHZoM2lFdXBfcE9fV3BQV0ROUGx5Nzk4dnpObDZXWUpsWF9hUXJ1WklNSmN0RzNtTTBuZV9oaWRJUDQ1WXFCVEE?oc=5",
       "pubDate": "Tue, 05 May 2026 19:23:06 GMT",
       "description": "1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen ABC7 New York",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "measles - Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MTWF1WnlQZ3pzaVBoUkRqb2VJZnNuT0xKcGdSRExEMzRFSWNHa3RlRG9nNGlYTkhvQnNXS1NldUNtdmppa0VaZHZLbFZPUVJPUTIyTw?oc=5",
+      "pubDate": "Tue, 05 May 2026 05:00:00 GMT",
+      "description": "measles Britannica",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
