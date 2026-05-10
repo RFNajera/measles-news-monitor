@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-10T22:26:39.125Z",
-  "itemCount": 70,
+  "updatedAt": "2026-05-10T23:28:57.677Z",
+  "itemCount": 72,
   "items": [
     {
       "title": "Measles death toll now 409 after revision - The Daily Star",
@@ -102,15 +102,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Maricopa County confirms new measles case; likely infected locally - AZ Family",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYzB3dUJOMlE5NEZGN0xnWXF0Z1RZN3VoUnhhVnZhSURFb0pDS2dsWGwtR1NyZFJHbThFTndxcE5HX0haeE00VzFyMElCMTM4UzNkdFNPSzhiN3VSNjNsd1JaOHc3YlI4NE11SndQVHU0THBuRUY3S2JiVEhFaHRNYkFXTTdXS0NxQXdEaE5BNDBmNlpodUVIVkk5a0hPX24weXJuctIBuAFBVV95cUxOaDVEQkFDNi11azJSNG84NG9sVklvOE1Da1FQSmxJTnd5NWMyUFVwOXBlZXhZZHJSZE1Nc0lsWGhmMmJRckRUeVFhZXZLcFNkTHJxVlhxY2ctMjQtR3VNeHZNT1UxamtmU3JUcHVDY085WlB4M1FJRlBwXzdROEJkNG9yNmpJLXNYLTRDVnhyZjB3c2ZOYXdZX1d4SUI4eXdzWHV3OWx3VkEyV2tiYkFZYl9QT0VxUEZO?oc=5",
-      "pubDate": "Sat, 09 May 2026 19:31:56 GMT",
-      "description": "Maricopa County confirms new measles case; likely infected locally AZ Family",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles case confirmed in Central Virginia, local spread suspected - The News Leader | Staunton, VA",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcWpLT1h0UFRnbHNuMGtIcEV0cGd0bV9tM2RhRW5JVEdzVmdyREVfN2E5Zi1QUkF3UDRJY1Q1VVZlYUZsQ09FUWltQ293SGhZSVdBNy1YbnR6NUsxRzdyMEtKRG5uZjhxSEtjQk9vSDlzN2F5S2xhSElXei1OemxnZXNsQjVYX3I4dFBEUUVGWEVVY0VxWmEzNHVMazAtWVFqek9JOTZGMUd0b0dLZkI5SUg1SHcxbnRCZ25vWDh6UWFBdEU0OXV6Y3FzVzNiQQ?oc=5",
       "pubDate": "Sat, 09 May 2026 14:11:00 GMT",
@@ -169,6 +160,15 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS21BZlJ2dHBmczE0b1d0Q0FqLVN6TDFid1JLbVFKOEhEb1dXN1kweWxkZ3N4SkF1OGlvT0dYQ1JkYkkzY1BFdHRWR3lPWDNydmU3Z1JCUnhKbmRqemFXdXFoVGZ3T05ZSVRaNEdUdWJ1clZqS3pOR3lQU3ZhVnFLNUJZb3dscENYZDRadXpzTFVDTjg?oc=5",
       "pubDate": "Sat, 09 May 2026 04:33:25 GMT",
       "description": "Additional measles cases found in Maricopa County AZ Family",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Maricopa County confirms new measles case; likely infected locally - AZ Family",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYzB3dUJOMlE5NEZGN0xnWXF0Z1RZN3VoUnhhVnZhSURFb0pDS2dsWGwtR1NyZFJHbThFTndxcE5HX0haeE00VzFyMElCMTM4UzNkdFNPSzhiN3VSNjNsd1JaOHc3YlI4NE11SndQVHU0THBuRUY3S2JiVEhFaHRNYkFXTTdXS0NxQXdEaE5BNDBmNlpodUVIVkk5a0hPX24weXJuctIBuAFBVV95cUxOaDVEQkFDNi11azJSNG84NG9sVklvOE1Da1FQSmxJTnd5NWMyUFVwOXBlZXhZZHJSZE1Nc0lsWGhmMmJRckRUeVFhZXZLcFNkTHJxVlhxY2ctMjQtR3VNeHZNT1UxamtmU3JUcHVDY085WlB4M1FJRlBwXzdROEJkNG9yNmpJLXNYLTRDVnhyZjB3c2ZOYXdZX1d4SUI4eXdzWHV3OWx3VkEyV2tiYkFZYl9QT0VxUEZO?oc=5",
+      "pubDate": "Sat, 09 May 2026 03:43:00 GMT",
+      "description": "Maricopa County confirms new measles case; likely infected locally AZ Family",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -462,6 +462,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Step Toward World's First Antibody-based Measles Treatment - Labcompare",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd3VIU2xuU0daaWZlU3RiV0pNZm9GbGpYQTF5UUpjblVTcEZTTGpSUnYyQ2JvVk84aHNYa2gtMkdpa0l0WVlJY0RsUnZLQXpwRW82bERsVXBKS3ZGeS1Bcm9UZzBmV2d1Tkc4bnZMVGk4V1d2ckxBYkpfYWluLV9wQnhWeHlWR2pkOGYzOHJtT2VmOWdlNnZHN1FvWXI3MFk1VGIwLQ?oc=5",
+      "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+      "description": "Step Toward World's First Antibody-based Measles Treatment Labcompare",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Austin reports first measles case since last year - KUT",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96TzVqNXU2LVpWXzEwTk9oYmRqX3ZlOHN5bjc1LUgyVS1vc1EwbUdoNnZQSGtZa0t2VDdNN2I0dVd6VGtjbEs0dmR6UDZQZF96R0c1MURxaEJURmFqYVd6MV93Ujk3cTFSNzY4aTV4WWl6V1lzNS0tdlEySTM5S0E?oc=5",
       "pubDate": "Thu, 07 May 2026 23:53:00 GMT",
@@ -552,6 +561,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles Information for Healthcare Professionals - Rhode Island Department of Health (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWJMbXo4cVMweHp5dGM5U1I0OGczN0RWRkFfaHFhV05BSkpkdDdobFZaMEFwWk5JYjVXZmNGSmRXREVwZnpWSThPeE1oRW9jeWZTTHhMTnFaYlNNZ2FKVmtGV0VuV3dpUDZybFZYSXZERWJPYXA2QlBGNEhZbWVSUEpwSVR2Rmk0VmRtZHcyZw?oc=5",
+      "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
+      "description": "Measles Information for Healthcare Professionals Rhode Island Department of Health (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Maricopa County announces 3 new measles cases, identifies 10 exposure sites in Mesa - KTAR News 92.3 FM",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOE5RSFRKRDZfSEdycDYwQzB4dXZMTzM2RDBLNzItX1RybWhYTV9jY1BZNXhDZUk4QWFyZmNvSllDUnBDN0toWVcwanZtQThoSUczc1pRX0haT21RSUdxelNLWlZmY2g1RTlMamZHbkpILXRWdHNMeVZaWFowWXpwUw?oc=5",
       "pubDate": "Thu, 07 May 2026 06:02:58 GMT",
@@ -597,6 +615,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "America Eliminated Measles 25 Years Ago. Now, the U.S. is About to Lose One Of Its Biggest Public Health Wins - ZME Science",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LWHFRajJXVjJjc0xVeDk0S0VhY19mMmdHdHVCV0pBanE4Vk9OdmlnYlN0MFh0LUxLR0xvRkkxZ1lrT2FMOXdtLWxvck9SN2Zrd2txdHVNOXhWSjNhX3JWdWUzWUFqdDRu?oc=5",
+      "pubDate": "Wed, 06 May 2026 21:55:51 GMT",
+      "description": "America Eliminated Measles 25 Years Ago. Now, the U.S. is About to Lose One Of Its Biggest Public Health Wins ZME Science",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Ottawa County confirms two more cases of measles, bringing county total to three - WWMT",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSm1pTGVlNUZSa1M4akh3bUJ1RGxzelA1TGNPel9ZbDhXc1VpdFZ2OThuQ056dW9oUzhQdHdqZG5YaEc1cjdONUctMmItSVgwZmNLdEVGaGNfVzBtendzc1l3MDdYRFdLNEZiOHRKRnRhU1ZRZEQ2aUhCVnlVTU5VQ1JwQW44eU1oWkUweWpYVVAzSVFKeGdSZUt2eDhtc3FpcWNmaElKWllBdDAzSHJLeWQzOXVmZmJlZ2JJU3poSWhQbXhCVmdpS0hyMFZwU2ZWX21z?oc=5",
       "pubDate": "Wed, 06 May 2026 20:37:17 GMT",
@@ -610,15 +637,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOczBvdm4yRVFfeUNyb0h3dEk5OERWS0RhQ1FGV0o5T2JKR3hBNEpZYllMaHB2cnFZMENyZEJsNVZ6clpIWkVieEF2UzBCdEd0dWZySG9vbzJCMDdUNTBENl9NY0VTR1RHQ3FaeHlyZ2Y5TENzR1R5RnVyQzhGN3YyRjloQ0hvUG1oWWFXRHFVSFBISElRY1F1bC1XQ2V1VlhCS1JFYzJ3?oc=5",
       "pubDate": "Wed, 06 May 2026 18:18:25 GMT",
       "description": "US ‘highly likely’ to lose measles elimination status this fall, analysis warns CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Young unvaccinated child infected with measles in Nassau County; first case in county since 2024 - ABC7 New York",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUUEyQ055dk11dUJlY09DR2x6eWFvQWswa0plVzJzdjBZOFJtTGZEQUY4UGdhOEtQY0g2WFZ2aGd2eUk5bWdOVzZPVWVBSlN2aVJ0eWNmNDAtNUVpeUZTM2Z1YkdYOWFBMWoxWU5QQnJvQmJRY3U3MVBTMVJzaFhDbk5MRFpjYTQ4X0ZSNE4wVlhmNXRUaDctSWM1eWRXZi04QkwwZGxHbXnSAa4BQVVfeXFMT3VNcEdldTNSTnlhTHR1dmJ0c3lsV3hoVm5xU2FDY3Mzdm81a0JIV1E4TmdsZi1YQVdSeVRnM3JJeUxxMGNzSFZuUXlUZFJlYjlmcGpzc3QxX0pwUXNoQzB1WnNNYzFtMDBrbmRKaThwWGNqZ2JQT3VybU5CSEwwRzk1d0lHcHFPaFRfSGVkWnp2eWQtcy1YV2VuSFE0NTk1cTJ6VmIzNWEzT29lN0hB?oc=5",
-      "pubDate": "Tue, 05 May 2026 21:43:37 GMT",
-      "description": "Young unvaccinated child infected with measles in Nassau County; first case in county since 2024 ABC7 New York",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
