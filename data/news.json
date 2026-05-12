@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-05-12T21:38:42.174Z",
-  "itemCount": 50,
+  "updatedAt": "2026-05-12T22:36:31.393Z",
+  "itemCount": 53,
   "items": [
+    {
+      "title": "Osage County confirms measles case; exposure reported at a Topeka church - WIBW",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbUpOeEVPVFdBaERXLW44X3ZGT21BNU5tWTZxSUtkanh5ZU9FVW00VkJ0aVRCTmlDMUotM19BTlBMZWlyZ3pFT0pSNWN6S1lvUmthUU5PdUEyQWdOYjUyYlFrTFVhVm9NQ0RWc2NpaGtmMlhZXzFQdF9fSXcxX3Mwb3dJSDVUQk1fLXdoZUxsVGlnbXRHQjlXQ1MySWp2aUwzSkxuRW9iSzJlZlk?oc=5",
+      "pubDate": "Tue, 12 May 2026 22:16:00 GMT",
+      "description": "Osage County confirms measles case; exposure reported at a Topeka church WIBW",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "America’s public health crisis is bigger than just measles - Yonkers Times",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWRVaWdGS0MtclQ5ei1DS05iTkY3OS1NNExPektncnY1SVJUTGlBcEd5Y2pRc21EM1dRRWFCaG91UTlGWHhoczZsa1FsRElWY3lsZWNKLVhvYWxxWjNEM3RoLXhqdE5ScmZIcDRxbkZqNXV2dUNwU3FHOG00bTY2b3Njd3ZwR0JYUlk0?oc=5",
@@ -34,15 +43,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNazVDMXdJckVfQXNGWmJ3R08zaVZUR3liOFdQMnRnejkwekNXRFkxSkxkSWNFZ2M3Y0dMdk1xUXk4NkJYczE5amJCRWhwWWkyVXlCRkNwQXBxTFRtamh1aVptTDRMcUZBUHd3UmhtVmtwUHhPeEt4SkVkdHlBRXNhOHFXRTVaN0NWSTZ0S01xZVNkNmJ6alB5Mjh3dldKUkYzcmNIUFhmcFVlMnZMbHZ3UjBwaFE3RGZ5WFYtZVVubURScnM?oc=5",
       "pubDate": "Tue, 12 May 2026 18:42:46 GMT",
       "description": "Study confirms measles wastewater testing provided early warning during New Mexico’s outbreak Source New Mexico",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "MEASLES: 9 more die, 1,192 cases detected in 24 hours - newagebd.net",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNclpfUmE1QzFVbkhDemQ2amVKeVJSUlNqc3c5SE00UjZpX2xKeElEQ1dOSWZvYi15RV93Y0xVdFRYLU1UeXJ3NnR2N3NycC1nLUptWkJlY3pIYjlWa2V6Z1dKY3RVOS1BSGEtU2pSWVhmZTZSUE5FbkllVXFDOFl6Q2EycTJkZWhBb1hyanJlcGh5VE1SNE9rcWYxbw?oc=5",
-      "pubDate": "Tue, 12 May 2026 18:41:50 GMT",
-      "description": "MEASLES: 9 more die, 1,192 cases detected in 24 hours newagebd.net",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -237,10 +237,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Public health officials warn of rise in measles, as Va. hantavirus patient under monitor - InsideNoVa.com",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbTY1VU51WjVOblo1YTBUS0JVaHJYY2h1ZTR3TTV6N1Bqd2VOd19keVgxOGJ2WF9TblEzdnBiNV9IWmh3c0JyRzRUaWYwNjdzNlE4VXppV3JxYWdpeVV4d1BFRWs1aGtickRvVjhkZVJhWGhicEdscC1MYzZNUkNYNnYwSnFVeUFlSnJObU44SEFRNmR1WHFGdDcxN0FQZk5JWlJDZFJWeFNBenVvQ0hMUlRhVDhmU3F1VGt5b05BcGZJcFZLbVF6UnAxS1djaG1SaldTdnZyN3dGRU9qUk4ybEQwMWdRRmJWVkFfV2JQMmNhM1l5cmV3VjduLVZ5NklCOE5R?oc=5",
+      "pubDate": "Sun, 10 May 2026 11:00:00 GMT",
+      "description": "Public health officials warn of rise in measles, as Va. hantavirus patient under monitor InsideNoVa.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Florida adds one measles case – a second one tied to a Palm Beach County school - WUSF",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVFVYVERQUkRVckZPOWk2M1ZqVThPV1ctUGNCcVpXRmR3U1hHb2lHSGdwc0F5eE5GalBRaUJfVklRUzUwNWFiMjBJX1lRWWdRVlRzcGJhb2xkdmMxMGhIenNOeGphczg0RFZpUmRUVzQ0MDZtRkJkMWdiUlNWb3V6YlhjYjhJQTU1VE5qNHloRHI0aGlXdDBQS1c5anZyQTRHRElSVXo5V3hwelE1anRmR21MSWNTeXNldHZWcElvZ1ZmS2lFUmdGWQ?oc=5",
       "pubDate": "Sun, 10 May 2026 10:00:00 GMT",
       "description": "Florida adds one measles case – a second one tied to a Palm Beach County school WUSF",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania lawmakers: Falling school vaccine rates need to be made public - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1RkZVV6YTNPbW1xRzdqM24yanVxQmJkTW9Kdm0tNkVYSzBjTmNzOFJ4YmpPb1M2eUE5MmdoNUFNTjc4ajBRMmZweWtJVTZCV2FRaTBGTUFWbHZuV3ZUUzlQQVlyRV9iazZPSU5FeXJDbGU1ekRYc21fb1VSbXZ3Z2dKZmZkUWZZTlc4aXRUUmxQOWVzZXdDdUJVM1EwRThZc3I1Y1lTNURQUQ?oc=5",
+      "pubDate": "Sun, 10 May 2026 08:00:00 GMT",
+      "description": "Pennsylvania lawmakers: Falling school vaccine rates need to be made public Pittsburgh Post-Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -277,6 +295,15 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcWpLT1h0UFRnbHNuMGtIcEV0cGd0bV9tM2RhRW5JVEdzVmdyREVfN2E5Zi1QUkF3UDRJY1Q1VVZlYUZsQ09FUWltQ293SGhZSVdBNy1YbnR6NUsxRzdyMEtKRG5uZjhxSEtjQk9vSDlzN2F5S2xhSElXei1OemxnZXNsQjVYX3I4dFBEUUVGWEVVY0VxWmEzNHVMazAtWVFqek9JOTZGMUd0b0dLZkI5SUg1SHcxbnRCZ25vWDh6UWFBdEU0OXV6Y3FzVzNiQQ?oc=5",
       "pubDate": "Sat, 09 May 2026 14:11:00 GMT",
       "description": "Measles case confirmed in Central Virginia, local spread suspected The News Leader | Staunton, VA",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Dutch traveler brings first measles case to Panama since 1995 - NL Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbEVRU1h1S3pHaWg5MGtiNTNWR2RldlVRYUEwaEVpM0FFOXFNTl9Nb2ExOXpmTk1kVkEzU2ZhWlhBZ1dja2oxU1h3RU1TanhIR3VDM2l3aGt1ZFg1NFJVRUJOZTdBRHdqNzRHRFZvTEEwUnFmLTduOGpvSlpQVjY1V0s1NjdUZ1VvSkV2LXU0WXBJZw?oc=5",
+      "pubDate": "Sat, 09 May 2026 12:45:00 GMT",
+      "description": "Dutch traveler brings first measles case to Panama since 1995 NL Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
