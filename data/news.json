@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-05-11T23:29:57.057Z",
+  "updatedAt": "2026-05-12T01:06:21.158Z",
   "itemCount": 70,
   "items": [
     {
       "title": "Opinion | Look measles in the eye. Children don’t have a choice. - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOXlLcHFCM2lSU051Rk5xc1cwTnU1R19UOFo1OUZYU3dtS2VSMExxZEQ3RXR2MGZReVp5THhyNW1UWURPWmYzNC1TMkowLTBxYXNmMXg1d2JMd2tsMWRtb1JlU0t5eDBMa0x4ZEo5VzBDRGhGMUJBU3FDc0d1SU1nN3FUanpNTVFIVWpZVGZ1WQ?oc=5",
-      "pubDate": "Mon, 11 May 2026 22:17:49 GMT",
+      "pubDate": "Mon, 11 May 2026 23:47:49 GMT",
       "description": "Opinion | Look measles in the eye. Children don’t have a choice. The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "NYC resident with measles dined at Roslyn Heights eatery after Nassau health officials announced first case few days prior - LI Press",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JVnh3RFhEV1hmeU54Y0ZLUE5XMHE0SzhpcEZybGRpSHhiZ25uVkw5eWdFQmpYd2owUGdCYXVMOHBCUGNrWnJVOWg4NmQzWjhDZHpNekR4M3hoM1lrMGhJMkZZOTdzUW5WZVBIMEhGMVRPb0p4bnJ6d0pmSQ?oc=5",
+      "pubDate": "Mon, 11 May 2026 23:13:39 GMT",
+      "description": "NYC resident with measles dined at Roslyn Heights eatery after Nassau health officials announced first case few days prior LI Press",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -75,19 +84,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "NYC resident with measles dined at Roslyn Heights eatery after Nassau health officials announced first case few days prior - LI Press",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VQ1ZJUENwUUlwNVRDWmhtYkNmYzJiQXBFNjRNM2hJZTNZeUIteDlGblJ6amlvVl9reHJCaktidUIwYW52Q2FaOE9RQTVYTUZvRkFDVXBEN3VlZ3VXbDJLckI3RS1XaHV3TlNHYllNVzRWX2NkMGhWRmZB?oc=5",
-      "pubDate": "Mon, 11 May 2026 18:30:54 GMT",
-      "description": "NYC resident with measles dined at Roslyn Heights eatery after Nassau health officials announced first case few days prior LI Press",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "An urgent need to vaccinate: Bolivia’s response to the ongoing measles outbreak in isolated communities - Khazar University",
+      "title": "An urgent need to vaccinate: Bolivia’s response to the ongoing measles outbreak in isolated communities - Pan American Health Organization (PAHO)",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjljRmFrXzdiODk3YzRnSFAycERRNWF0blJvQjQ4Z01jZ3BxYWgzY1hwOUhEWGkzaDF3TnhMWklfUTFOV01FNTBESklZYkNNWnE4RVJFMEItdXIybnk2NG4wS0VsbFlnRjFIcVBEWEF3YjcwVDJEOWpZeG9waWZOZEtEcGxsR3gxckg4ZXRJOG43UTFOUUcyWTF3anlWZnUwdDhFbFloc2lfem1xbW5XQjNPaTllcGZ3?oc=5",
       "pubDate": "Mon, 11 May 2026 18:29:21 GMT",
-      "description": "An urgent need to vaccinate: Bolivia’s response to the ongoing measles outbreak in isolated communities Khazar University",
+      "description": "An urgent need to vaccinate: Bolivia’s response to the ongoing measles outbreak in isolated communities Pan American Health Organization (PAHO)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -169,6 +169,15 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM2NnNkxxbkZUUXRZY21FTlFscVFWcjhlLVFVVjNpYVpqT2x2TW1IV3BOSUh5T3pzdENVdmNpbzZDdk9XYXYtcDZwY25Sb0JLdEs4enh4WGNZZmFNUnNMV212NkZqOWFEWWxyQmxLMGtGRDhpQXJTU2xrVVpFenppbF9tYk1BZHkxWGt3WVB3?oc=5",
       "pubDate": "Sun, 10 May 2026 11:04:56 GMT",
       "description": "A mysterious ‘doctor’s sword’ and measles monsters: UCSF opens rare medical archive San Francisco Chronicle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Public health officials warn of rise in measles, as Va. hantavirus patient under monitor - InsideNoVa.com",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbTY1VU51WjVOblo1YTBUS0JVaHJYY2h1ZTR3TTV6N1Bqd2VOd19keVgxOGJ2WF9TblEzdnBiNV9IWmh3c0JyRzRUaWYwNjdzNlE4VXppV3JxYWdpeVV4d1BFRWs1aGtickRvVjhkZVJhWGhicEdscC1MYzZNUkNYNnYwSnFVeUFlSnJObU44SEFRNmR1WHFGdDcxN0FQZk5JWlJDZFJWeFNBenVvQ0hMUlRhVDhmU3F1VGt5b05BcGZJcFZLbVF6UnAxS1djaG1SaldTdnZyN3dGRU9qUk4ybEQwMWdRRmJWVkFfV2JQMmNhM1l5cmV3VjduLVZ5NklCOE5R?oc=5",
+      "pubDate": "Sun, 10 May 2026 11:00:00 GMT",
+      "description": "Public health officials warn of rise in measles, as Va. hantavirus patient under monitor InsideNoVa.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -480,24 +489,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Lebanon city issues urgent health warning amid measles outbreak - Lebanon Daily News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVTNvR2piZ0FicWhtWnlZeUFxVVc5dkN0RTBQLVN1UEhzaWhmR3hTVXJTaGh4dGk5UFZSQlZXQ2dmUU0tMERSZG9uM3AycTZqTEVkN25OdWJqbENVMzRhb0RjOHVmRmpadVZscXhmNUl1TzJ3TWliZ2xJYzRFNEpmNFpDNnh0TE9nS0lsLUttd09HWmdVWG5JT0xQQVVWVkpPY0d6cHpIMktxTjNUMjBhNTVTV3otbWJOZ1RnUnhKM1FuTzlXRk1aT2lR?oc=5",
-      "pubDate": "Fri, 08 May 2026 15:11:00 GMT",
-      "description": "Lebanon city issues urgent health warning amid measles outbreak Lebanon Daily News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "State reports 11 measles cases in Lebanon County, hosts vaccine clinic - - The Keystone Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQjdEVjdVNlFCTThUQUpTZ3RnY2FPWWRaZ29pVmJoS1pJcDMzTElwWlRTVGxtSWFkVVBEc2kwZmFjeDJOd1NNRThLVUY5encxRFh4UGlqTFcwdFVGdHYxWjB1Xy10dEpiY2x2MENyUGluR0VwOVJlVzFWNW5OWnhUWFJrRWx4ZUdyU2hSeDhiMmU0R3M5WHQ3RTdtZEUwTnB3bF9hN3VvUi13dkhJOV9mUWIzMDNNUQ?oc=5",
-      "pubDate": "Fri, 08 May 2026 13:55:34 GMT",
-      "description": "State reports 11 measles cases in Lebanon County, hosts vaccine clinic - The Keystone Newsroom",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "First case of measles in Travis County in 2026 reported. Which ER was person at? - Austin American-Statesman",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRnlHZU96MFNVdjdodk9RbHRpY3duWVRQRHMwN3d6dGhfaE54b0tsdkE0VnhMdktEU3BKN1BmWG5ma0Y1c25uNUkyZDhMNktwLWw3cXEzMHdOaGxDcTBWOXFJMk8zQWdPRUgyNGNpbWN4d09jQXNaTkdIaDRhb0gzRnhuUEZvUF93QXhaRzR6NEtRT1VPSGxwandR?oc=5",
       "pubDate": "Fri, 08 May 2026 13:45:39 GMT",
@@ -619,6 +610,15 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45V19hZWEwMHhVTkIzb1o3RFdzZHZHRWZFY3FlOUYyVnZZRkptS3djeHNFMnZnRDRmNkRSYm1hT2s5NEltY29UXzFDZmZ5bTYzZktkbmlUdy04X0xqa2lMX0dFampLSXpxS0xYSkRsM3R4TktNRzRmUDR2WG02UdIBgwFBVV95cUxNX1J0UFhEQXZILXlaMHl3ZjVMT28tcElXcTZVU2NmdE1BOEE2cndNX28takJreVhLX25WNEpnaHZ3Z3JuQk94bUxkbHU1eXJQQW0xcVdnZkVTaS1hdXJKekZXeXFDSGEzVXhxZUhnRnVWZXlodnFrVVlWUHZMWTJCdFg5VQ?oc=5",
       "pubDate": "Thu, 07 May 2026 10:00:00 GMT",
       "description": "Utah becomes center of latest measles outbreak in US The Hill",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Information for Healthcare Professionals - Rhode Island Department of Health (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWJMbXo4cVMweHp5dGM5U1I0OGczN0RWRkFfaHFhV05BSkpkdDdobFZaMEFwWk5JYjVXZmNGSmRXREVwZnpWSThPeE1oRW9jeWZTTHhMTnFaYlNNZ2FKVmtGV0VuV3dpUDZybFZYSXZERWJPYXA2QlBGNEhZbWVSUEpwSVR2Rmk0VmRtZHcyZw?oc=5",
+      "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
+      "description": "Measles Information for Healthcare Professionals Rhode Island Department of Health (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
