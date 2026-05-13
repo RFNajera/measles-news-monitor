@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-05-13T13:53:06.016Z",
-  "itemCount": 52,
+  "updatedAt": "2026-05-13T15:11:34.188Z",
+  "itemCount": 53,
   "items": [
+    {
+      "title": "Health officials reporting new cases of measles in Kansas - Hays Post",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MX2laeFo2TVk2dmhsNnlkSFpPOFZBa2tKa0Q3YzhyLWc1T281ZmtheS1ScEZiQWdtbnd5YjBZLTNsaHlzckRiZHJqZWx1aFBzRURWdVBYUHBmUlFzT1RYcGVNRE5wUzVpQWpjbEQtWEw?oc=5",
+      "pubDate": "Wed, 13 May 2026 14:36:08 GMT",
+      "description": "Health officials reporting new cases of measles in Kansas Hays Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Osage County Health Officials Confirm Measles Case, Investigate Possible Exposure Link in Topeka - sunflowerstateradio.com",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ3N1VEd0RFlQQXFBN3pBTXhIWkx1dFA0TFRGcXRKNTZ1WmFTZzhqeHJoTlpIMERDWHlVU1NuY3FHRF84a05CTzF3OW1aMlVHNTBpTGR6SDVnMmhrTnpnMzhGeTZwcE1CNzg2RmlUOHdHQTJEdFF6V1VucS1jeTBFOUhZMllkYXNDMDloMDZjWmhpYXJ2VE9aWUtORkpLS3RQeEpEZmtrWl9EbmVDVFNKWlJ2N3U5UUZiSi0wT3poM2I4VUxvU1Zpb19raEhVaEFNM0xnbHBB?oc=5",
@@ -16,15 +25,6 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yV1JJM19BNzRUUUEtU2tEN1dLNUlvcEpYYUJZdTVrdUZDU3l6Qk9rVjc5V1lmOXVHOGZmQThDRWZfOHh2Wml0bFMtWWpZNlhMVHRhRXZ2dFRfUFMxTzFFeDNkMVRhWGpLbTExaXBQakM?oc=5",
       "pubDate": "Wed, 13 May 2026 12:29:46 GMT",
       "description": "Osage County confirms measles case KVOE",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "County reports a measles exposure at Topeka church. What to know - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzlrV21vcFdUY3VjMzFxX19IUFN3ZURsckdqMUM3RmFSVlpfX19rQzJ6V24xS3B3V2NUX25xNzZVMDBSd24zTDR1ZnhTSHBoQjctSUxqcWdKWWhJbjc0Z2p3bVBSTEhKVFZnTV9fYVdYRVNYWDNKSFdXRFc5SjJfczBLd3o?oc=5",
-      "pubDate": "Wed, 13 May 2026 11:58:39 GMT",
-      "description": "County reports a measles exposure at Topeka church. What to know AOL.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -52,6 +52,15 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ0xhTWtRTHc1WlJJWTYwQkw0ZF9PTG15U2ZjT2ktdWpBeGhVUFRid0xUR1JNdDJ3M1FGQ0sxWHhLMmcwdi1Od0hYcHZsY1NYVzhwdEdZbjZfajRxMzZCWlVKeEFNVFpYalNtZnVvbjVVblF6Tlc5MWlwUlB1V3VTWTY0OXNWTi05TEtfMk9vczVfRXl1Q2JicDhvTmx2QTVNc1Z4NWdwNWg4NTR2azhKZE1YcmRjaTRHbXpaV0JLTU1FT0k3MWRlRTdR?oc=5",
       "pubDate": "Wed, 13 May 2026 09:10:00 GMT",
       "description": "County reports a measles exposure at Topeka church. What to know The Topeka Capital-Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles case, mass exposure confirmed in Kansas - KSNT 27 News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeGFYcEtwM1ZHclBFYWRKQ0wwTk0xekJHR1dGZkplaDA0dU5ucHdtTklNd2JBT2lMLTlINlNpU0FXUWRYWVJqaEl4Ui1HUkRrYzlrNTRYdFNqZE9JUUdaZzB3WEl0eVRRRVd2NTNiXzlGc1J6VjdVV1RBQm9XUEpZSzdMb2lScTkyc3NF?oc=5",
+      "pubDate": "Wed, 13 May 2026 07:47:39 GMT",
+      "description": "Measles case, mass exposure confirmed in Kansas KSNT 27 News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
