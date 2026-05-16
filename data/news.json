@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-16T07:47:04.460Z",
-  "itemCount": 73,
+  "updatedAt": "2026-05-16T08:45:53.708Z",
+  "itemCount": 71,
   "items": [
     {
       "title": "Mesa sees largest measles outbreak in decades, health officials urge vaccination - ABC15 Arizona",
@@ -111,15 +111,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles case reported in Cass County - KX News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mN0xWdjNrS3Z6cUJSLUp1cEtCX2g5RWlxZ1FKanc0aV9QOURNT01CS0J4QTVMOEhCMWplaEhUTkw2ZzNFN0thQTc4eVljZ01pQWRtTmp1QnkzREJTMzdEcXdoc3FHVFBjQ1BmZUVKank2dzl1eTNxY05HMnpiTkU?oc=5",
-      "pubDate": "Fri, 15 May 2026 21:41:28 GMT",
-      "description": "Measles case reported in Cass County KX News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles exposure reported at Happy Valley urgent care center - OregonLive.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS3k0R08yZTZ4aGVTNEJwcTREanFxS0YtV0dOc192c0Y4U3prOFY0YXIzSFhkcVU4MnNPTUZUd0kycmRwYUtkS0VhLUEyVmlqeWJXU3VuSFkteFE5d1ZHTTFzSWRtZ0xEYl8zdmpKejVVN3RpVGx0YVJPTUxXU19tUHVsS3hsYjRqYTJwcG5ONVkxSTUwUm1vRDZqakc4S0I2OXpZQ3BJaUsyeFHSAb8BQVVfeXFMTk1seU9SMGJON3pmMl8zNkZKVTVHTzJNdHAxbUdIa0RlcUQtclkwZjU1YWZEX1ZPM3ZzUTFXdHhDRUplUlhlalQ3RzcteUkwR1pqSmF4U2RNRUE1Vl93ZFpwQ0dTSWVMc2R5MWhnci1NMHQ3NmROTzN0V0YtT1Jsczdaek5QczdFT2dqVXU5SmhEWURtNnYwUGg2eHBaOFFaSXM1eW80bmRFcDc3MTZJVGpIMGRfUU0xSHJXazFJNUU?oc=5",
       "pubDate": "Fri, 15 May 2026 20:38:00 GMT",
@@ -140,7 +131,7 @@
     {
       "title": "Cass County records first measles case of 2026; vaccinations encouraged - InForum",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQekdyR2IyYVE5dXJ2ZVk1cHh0dmpKcGpCdHJ4R1NWQ2hXN1NwblE2dWlEZXhncG5sZWlvVC0zSDdfUXA0YXdxcERnLWwtSU80UFpidjRNQ051ZXdLbm1UbDVSa3M5d0stWklVMm5lWEF2Q2tZc082b2JoMmZkdFkySWs4WWwwaUZDN2JhTk84cGE0M0R2T3VKUGR3aTZHZVFwOTU5YTJQOGg?oc=5",
-      "pubDate": "Fri, 15 May 2026 20:11:51 GMT",
+      "pubDate": "Fri, 15 May 2026 20:06:00 GMT",
       "description": "Cass County records first measles case of 2026; vaccinations encouraged InForum",
       "source": "news.google.com",
       "sourceType": "news",
@@ -282,6 +273,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles case reported in Cass County - KX News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUTJRQkdiTWZZRS1xSTRLQXJrQkxOa25YT3VkQndPeUNJUFAxWElRYWNmU3pxVE1nLW9lVWZvYzFNQm9QQjFNZ3p1TmFXLTJUcWpIdDJIS1ljdzVLeTNxYmhYTkdzbGI4MHRqeklDQzAwT3l6Sk5fTTNHQVNUS2M3Zzh2WdIBiAFBVV95cUxQNURQTWxBQ2FqRFZmRU02ZTZpNlU0NVNSQnlhYWNKYjIwdHpnNEVaRFNDaWpBYW9ZWWhGeXh4Q3hlMWtQajduS2dCVVBqWTBMSHpIMS1PSFo1VDZKc25ZR0FHYTV0TDZrVUM0aHZDOG1tR1Z5QU5keHNhNkI0SHJuX3dWSmJoQlho?oc=5",
+      "pubDate": "Fri, 15 May 2026 17:56:47 GMT",
+      "description": "Measles case reported in Cass County KX News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Where are the measles treatments? – lji.org - La Jolla Institute",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWjNCS1h5U0hTSEV4ZXd1SF9YRzlmaUlPRDIyR25QZUZvZEpQVm9MN24xdktpR04ybER1czhiVmZXdkJLdUxjR3pOLVhjSS1Uamp4ZUszcE45dWlNZ3F4WUZ6SlA1ZDVMbE85aUpLOXhBcVRQMnlFcHNTSHhsem12cg?oc=5",
       "pubDate": "Fri, 15 May 2026 16:22:18 GMT",
@@ -385,15 +385,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2Y5OVRha2lXSTJ2VTNiLUVQbTBaVmJXVzFuZEpjdkF3TUJpWnd6VVFaSjhTZDdFR2VuZXNDSTdhVVVzY0FDcTFPV2hfeHN4TkVBeXdWLWVkUFk4bjkybW05WVNxdmxPcnBxX1dTbHVHdU1jWmQxd1NlM2xQTThhTGdYU1Z0VjJjSVp0U21DcFVTX01nWGx2anZrU19JUXNhb2FkYi1RcEpmMHJp?oc=5",
       "pubDate": "Fri, 15 May 2026 08:10:00 GMT",
       "description": "12 cases of measles confirmed in Buckingham County, health officials say Cardinal News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Guatemala: Measles outbreak - DREF Operational Update (MDRGT027) - ReliefWeb",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMFRSR2VYM0p5MzhYVGdpZjdjM1hCWWxXdklIVTJVOXFITnlQQUhVMUtMaVQzSHpzUjBVNmF4Y2M5TjdiQXd3WlBRSnNBT2I1LU1uRXlJMnRnX1VFaVhZREhPemFnQVozLVVYT281V1BrZ0hWV1JBc2x1T2JmRmI2UHFLR0laa2lBX1hWSDlwV1poaTF0QWIwUGJFMkpaU28?oc=5",
-      "pubDate": "Fri, 15 May 2026 02:41:01 GMT",
-      "description": "Guatemala: Measles outbreak - DREF Operational Update (MDRGT027) ReliefWeb",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -592,15 +583,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2V0b0pjMDRvb1djUjBaUmlZYlFnUDkyal9WcEpISkIwakJGTlBGSUp0Rl90VzRCRDY4UFJFNHpUN1c5WHBhMDhSQWtpbE83YktiZ0U0OWdJdmpSY1M0UlRieEpGUmR6b1k1OGxxa1RjazRpbFJ5WVZIV05ENU4tMVdqbmZqWVBSa2Rva3MwVDcyOHZxQThwUE5CZzh0LWE5TFhJc1dKMDM0cEHSAb8BQVVfeXFMT2VJV2UwZHNvZG1rTWFZVk9lcXNhVWpJTW43Ny1PVU5sNDRCMmxKUFpOcEo1cmhQUVZWMVVUOThRTHB5RVRnZ3VuTk96SHRFWHF5M3hFZ0Q0VWZCQ3F3bHY2aHhjT29CeVlMMndpaklTZGNHbWE3ci1PWFRUZUZpV3VwcVFHUGoyUjJfb2VVSk9sdEwyTENOSTZWZGlFMzJwVnFrZFhjckZjTkNodGdMTEljMzB5TDAzSkl5WG5aX0E?oc=5",
       "pubDate": "Wed, 13 May 2026 23:59:00 GMT",
       "description": "VDH declares outbreak of measles in Buckingham County WVIR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Arizona measles outbreak is growing. Were you exposed? - azcentral.com and The Arizona Republic",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXFsc0J6UFZWSW1aaWpwcXg1VGtNT1ZDbGNhOVJ4T1hiaHp6NTBzZ0piS1htYWNSNkxRelBoWG16bFJaeWVVWXdqMFFiTXNST3ZVaW9ZMUsxaGxOd0RzRFg0TlJMQXQwNkxZWXk2NmpKcENfMWVTZHpVTWdtcVpBbGZEUEJlS2tCdU9UUjBHUjltWDFQdnlkWVE3LVQ2SGxSX25TbnJYVVQ1MldpdTBMOU9qNEZWblhYOWMtNVVheTJTRFdTNTRHa21fNEtocWs?oc=5",
-      "pubDate": "Wed, 13 May 2026 23:54:00 GMT",
-      "description": "Arizona measles outbreak is growing. Were you exposed? azcentral.com and The Arizona Republic",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
