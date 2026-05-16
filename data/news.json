@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-16T13:44:08.181Z",
-  "itemCount": 71,
+  "updatedAt": "2026-05-16T14:36:18.200Z",
+  "itemCount": 70,
   "items": [
     {
       "title": "Fourth Case of Measles in Ottawa Co. Household Reported - WHTC",
@@ -88,6 +88,15 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkJBWGk4dGpRN3J1MmFJMlFMVE9OOGhXdVhVZW9lWF9pV2lhVHI4aVFFTWh0b0pQMU9HYnh5SkdfUTg4Q2dXZHJnOEZMXzRaNDZkVEFQNjZKYXp5cWVyVmZXdDRXWkxmMVBHUXhqV0ZHOXBiQ1lvRm9Kbi1MM0xodGpsNTQ2LXZ1Ry1yeGpxb2x6RVd1cEg1VllfeE53Zk5iT2tHdTlDblo3ckRIdEwtRU9pMzJyY0hZd2c5QWxHQVlnZGt0NzFiOE5ZRlJNdzFu?oc=5",
       "pubDate": "Sat, 16 May 2026 00:04:00 GMT",
       "description": "Mesa sees largest measles outbreak in decades, health officials urge vaccination ABC15 Arizona",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Toronto Public Health warns of potential measles exposure in west end - Toronto Sun",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRi1TMU1UTExXd3RvTHdHU1J3QjdyNHU1NEJYX0ozazZYY2tHSkNOcFA1c0dXbU1zNE1iRkItMFFzeS16U3dpWGVhbVZGRTRRcFlvNHplNGNicy1SY3RLUEthRThWaU56WmNpVkMtazRRQ1oxR2NEUTRuQjJnVDI2djVEMnY1aWJNbUZ1YkM4X3hvNDBwcmVqTHRORGNqbG9kcVJmRXhKVQ?oc=5",
+      "pubDate": "Fri, 15 May 2026 23:25:03 GMT",
+      "description": "Toronto Public Health warns of potential measles exposure in west end Toronto Sun",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -336,15 +345,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "VDH confirms measles outbreak in Buckingham County: Vaccine skepticism is contributing factor - Augusta Free Press",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWGMyTGNodFZJVjNrZDVOYWN1eTg3aWlxZmtYLUFyNF9ZUDZhTFlEWlNSWG1mdHZ3bXlRNUpGdjFoRXdpT1cwSmhUOXpERUpTa0VWak10TmEzRFRIMnZlTFJKbnR1TkxZMEVWRi1Yd05VWm5RZjFNejZ3TGk5bnE0TEl4UXYxVm9YY0RUZU42b01NaUJCS2hYa3VpU3hHbW9zc29SamdUbldWeXF1bFF0N1JzbkJ2bkU0emYzbmp0bmRKUXhlSHc?oc=5",
-      "pubDate": "Fri, 15 May 2026 14:53:57 GMT",
-      "description": "VDH confirms measles outbreak in Buckingham County: Vaccine skepticism is contributing factor Augusta Free Press",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "VDH officials release update on Buckingham measles outbreak - cbs19news.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMC0wODFrUEdoS3ZPM0YtVElRRXVscWFRWHV6djk5SmpkNlpaN2hQaFdWSl9vZnB5eFhCRmRxVnoyZzdmOXl4Y1ZxcGZ1bG9pT2lIdnE5TVdBYXJBRTF5MW9wblZhMUR3Wkh2QXp5Y05rb2JNcEZDb3kxV3VpR0lwZDY5amhEd3lJYnFQaUNCOS1xajBUenB1UUhhY3RUMlhFRjVsVk40N25iUHlOWnZlY19iY1lxdDRKVU14XzdqVVVfVE1SU1BsWUlhem1ZX0U0VE9oUlV0UQ?oc=5",
       "pubDate": "Fri, 15 May 2026 14:52:00 GMT",
@@ -385,15 +385,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RaEpEYlVJNDZ3a0NPc21HQWFpcHVidmxneklSdnFpVTg2S2l3SVRXdkRlaTBxSFlpRE80YnMtN1BtU002aF9wb0lkWjZ2eWp6U1JVelJLd0tJQzRtYzhPTjhCUDg0SWZzVFdKV1A2TDNqUzQ?oc=5",
       "pubDate": "Fri, 15 May 2026 12:49:34 GMT",
       "description": "Health officials declare measles outbreak in Virginia The Virginian-Pilot",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "What doctors want patients to know about measles - American Medical Association",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlZtdXlla0h2OVZ2MVRINE4zeDU4T3FqaWdtdjhObjVwQ1l6M19UcHoyZGRlWWwwS3lZQ0luSnpmMlY0M0xXOUpsOVFteW4xRXBjMV9aaEZKY0x3WWxOYjcyYS1hVHlFTU5WUTZOVXJWak5VdGstZG5uMzBpaFN2a09ESDlkdUhGWngyTWJ3SW1ubnEtZkI3ZkZRemRVOGFfSFZWa2d3OA?oc=5",
-      "pubDate": "Fri, 15 May 2026 09:15:14 GMT",
-      "description": "What doctors want patients to know about measles American Medical Association",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -570,19 +561,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "New Phoenix-area locations exposed to measles added as cases increase - AZ Family",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY251Nl83V3otSHNDRTk4MVRIMUZYdGRWcXk2SmM0OFdQTzFRODBBbnJpWk10ZU55Zmg1ZXUtdmFIV0owcWprcXpKM2tob0NYR19QZ01Wc2V2dmpDUVBfeGJ4TW0tRVdfVVNMZzZCLUxRWjBVb2lMMXVISmFlbEZncmpPdXlkOEZPUDdtU21iN1lLbkJlN3QwMWpWZXYxNTlYWUHSAbYBQVVfeXFMTS1UX0lTMFZxQ2F4VHRsSmdOWk1GRExHM1lIdlRmQlhieVVtbG1ERHVSLU95YTZ4UEsxZ2MzVEJrREJoRFdJa2F0eURmMU5xNU9MM3BfT3NVR0dxNlAxUkNNR0VqU01Tc0NQTkNIY0Rfckx0alJ4X0dFZ2o5ZzFVZHZtXzFPS2RIdXM3cWQ5cGJIb1BaQjBYMmtSblIyMmNvWDNvRlhUSWtSZVAzMG5SY2diUVpNWXc?oc=5",
-      "pubDate": "Wed, 13 May 2026 23:52:00 GMT",
-      "description": "New Phoenix-area locations exposed to measles added as cases increase AZ Family",
+      "title": "Measles Outbreak in Buckingham County - Virginia Department of Health (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2M5aGd0VHBKWFNEenFGQkZhaVc3Yk81dnpLYXdFa3Blb1d2Nnc2MWRMU0NrYzdfc2E0MWFkUURzSm0zQUl0T1NMNElyd2hrWHZnQ3JkN0FfZm1lVG8wOURXQkVGZmJMcVBhNlZhUmhxeFp6encyRlFSRGlCa0hlVG5rS3o?oc=5",
+      "pubDate": "Wed, 13 May 2026 23:10:38 GMT",
+      "description": "Measles Outbreak in Buckingham County Virginia Department of Health (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Outbreak in Buckingham County - Virginia Department of Health (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2M5aGd0VHBKWFNEenFGQkZhaVc3Yk81dnpLYXdFa3Blb1d2Nnc2MWRMU0NrYzdfc2E0MWFkUURzSm0zQUl0T1NMNElyd2hrWHZnQ3JkN0FfZm1lVG8wOURXQkVGZmJMcVBhNlZhUmhxeFp6encyRlFSRGlCa0hlVG5rS3o?oc=5",
-      "pubDate": "Wed, 13 May 2026 23:10:38 GMT",
-      "description": "Measles Outbreak in Buckingham County Virginia Department of Health (.gov)",
+      "title": "New Measles Case, Public Exposures Identified by Public Health - Maricopa County (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40WUdoYUh5WExxQlJyeGFPTDZhQmZFQVZxZjl6R2lZZVBYcFRYcUdISmMzWENrbFdEaWMxdThfalhJekg1M0hpTldLQWFLWmI3Vy0xb0RzcEZkblNjck5R?oc=5",
+      "pubDate": "Wed, 13 May 2026 23:05:51 GMT",
+      "description": "New Measles Case, Public Exposures Identified by Public Health Maricopa County (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
