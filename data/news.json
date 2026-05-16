@@ -1,16 +1,7 @@
 {
-  "updatedAt": "2026-05-16T12:35:22.658Z",
+  "updatedAt": "2026-05-16T13:44:08.181Z",
   "itemCount": 71,
   "items": [
-    {
-      "title": "Mesa sees largest measles outbreak in decades, health officials urge vaccination - ABC15 Arizona",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkJBWGk4dGpRN3J1MmFJMlFMVE9OOGhXdVhVZW9lWF9pV2lhVHI4aVFFTWh0b0pQMU9HYnh5SkdfUTg4Q2dXZHJnOEZMXzRaNDZkVEFQNjZKYXp5cWVyVmZXdDRXWkxmMVBHUXhqV0ZHOXBiQ1lvRm9Kbi1MM0xodGpsNTQ2LXZ1Ry1yeGpxb2x6RVd1cEg1VllfeE53Zk5iT2tHdTlDblo3ckRIdEwtRU9pMzJyY0hZd2c5QWxHQVlnZGt0NzFiOE5ZRlJNdzFu?oc=5",
-      "pubDate": "Sat, 16 May 2026 11:12:04 GMT",
-      "description": "Mesa sees largest measles outbreak in decades, health officials urge vaccination ABC15 Arizona",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
     {
       "title": "Fourth Case of Measles in Ottawa Co. Household Reported - WHTC",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaEIxVGtqUG00ZDYyUzFuQ0RXb1h3YVdudG1uQWtQQmk3WFdCaU81Z2tUWHBPN0xzRmdsTFV1S21nSFhLNVN5NVdUUm16Mjljckp1aUNTal9SSElDSVZkVF9Nd3I1X1FRbzl2WXg4RWJGZ1NKbVhkSEUxcGZYWl9sbHd6a25ZNm5pVm5n?oc=5",
@@ -88,6 +79,15 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcGJaR3FmbGQyU2wwM29oNVBqUUVuT08xeklEajVEc2t4UC1lMmlvUGYwaTVzZmRPZUk3OGVqamhoMnFOemxsWmxEcFhjLW8wQ2M2YVpiUHhCdWdoMjZzamNsSHRUMEFqOEFQd2MwZ2FHM3Z5UTlJZ3NBRF92YUZCRVRn?oc=5",
       "pubDate": "Sat, 16 May 2026 00:28:56 GMT",
       "description": "Measles detected in Jackson County wastewater kobi5.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Mesa sees largest measles outbreak in decades, health officials urge vaccination - ABC15 Arizona",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkJBWGk4dGpRN3J1MmFJMlFMVE9OOGhXdVhVZW9lWF9pV2lhVHI4aVFFTWh0b0pQMU9HYnh5SkdfUTg4Q2dXZHJnOEZMXzRaNDZkVEFQNjZKYXp5cWVyVmZXdDRXWkxmMVBHUXhqV0ZHOXBiQ1lvRm9Kbi1MM0xodGpsNTQ2LXZ1Ry1yeGpxb2x6RVd1cEg1VllfeE53Zk5iT2tHdTlDblo3ckRIdEwtRU9pMzJyY0hZd2c5QWxHQVlnZGt0NzFiOE5ZRlJNdzFu?oc=5",
+      "pubDate": "Sat, 16 May 2026 00:04:00 GMT",
+      "description": "Mesa sees largest measles outbreak in decades, health officials urge vaccination ABC15 Arizona",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -273,6 +273,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles virus found in sewage sample at Jackson County treatment plant - KDRV",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR2NSdXJFMnlEMG9wOE9fZUxKVi10NXQ3UXA3cUEyZ0lZVUpVWjA3NXozM2V6bjYzdnA1czZPMVJMWERiRFE0ZEk4S2lEc3Q2OVFURmltVzJzeGVlN0VEZ1ZCSk0wNGZPQ19TRWtFWEFGcmRSQ25wYXVQYzl2X292VVNXUGpGNDZic29XbC1Zc1dZLURnUDQxclJRVkI2Y1Q2d2NvWmZOQzBVQktxWXJQQS11c0ZvYURlSkJLeVFkMHg3MUhjUG9jcjFTYjR2ZVJ1bk9DZkVwckw1VWM1a2hEaGt2bG9senQ2QUo0aUxaYw?oc=5",
+      "pubDate": "Fri, 15 May 2026 18:38:00 GMT",
+      "description": "Measles virus found in sewage sample at Jackson County treatment plant KDRV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles found in Cass County; North Dakota passes 2025 total for infections - North Dakota Monitor",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3lPQ1ZOZTZKWkJ4dW5ZTWVtRWd4LVVXd1V1NDBxSUUtaEpmMHFfUkRrR3NMeW5FOWVvWlh1RXNJS3d6TUMyU25jUVNOaGV2TVZLa3l4em55dWJVSm1ibXcwX2E0bVdrQ3IycXhFWVJSblZwc2wyT3RMRzM2M3UxcUxHOUlHZ0hFbW9XQ3JsRVBjRHBHNkQ3NnYzWlFULWUySHF0NngzR05IRzZrSXBHdVFZaw?oc=5",
       "pubDate": "Fri, 15 May 2026 18:26:54 GMT",
@@ -372,19 +381,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "North Dakota measles cases eclipse 2025 total - The Bismarck Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYTRodzVrT0o5ek5Va2Z6aF95MXlxc25vbGFZNmFjLTNWa2lHeEoxUUdWUzd2djRtMWptdlFoZDVERkN0LUxfNnBZWjZrVmJ1UXhaRjhPVWdCc2hDY3c3Yl9HMnIyU2oyOVFXNzhIMTBXclZobjdsd3BKWUxSazl0bThIUnhzWEw3bnc0cDZpSGlWaHo2cjhrY3dISWNSeWpYNjdlcWxLb1dsenVIMmdBOUk3cFNzb0Y5?oc=5",
-      "pubDate": "Fri, 15 May 2026 13:45:00 GMT",
-      "description": "North Dakota measles cases eclipse 2025 total The Bismarck Tribune",
+      "title": "Health officials declare measles outbreak in Virginia - The Virginian-Pilot",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RaEpEYlVJNDZ3a0NPc21HQWFpcHVidmxneklSdnFpVTg2S2l3SVRXdkRlaTBxSFlpRE80YnMtN1BtU002aF9wb0lkWjZ2eWp6U1JVelJLd0tJQzRtYzhPTjhCUDg0SWZzVFdKV1A2TDNqUzQ?oc=5",
+      "pubDate": "Fri, 15 May 2026 12:49:34 GMT",
+      "description": "Health officials declare measles outbreak in Virginia The Virginian-Pilot",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials declare measles outbreak in Virginia - The Virginian-Pilot",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RaEpEYlVJNDZ3a0NPc21HQWFpcHVidmxneklSdnFpVTg2S2l3SVRXdkRlaTBxSFlpRE80YnMtN1BtU002aF9wb0lkWjZ2eWp6U1JVelJLd0tJQzRtYzhPTjhCUDg0SWZzVFdKV1A2TDNqUzQ?oc=5",
-      "pubDate": "Fri, 15 May 2026 12:49:34 GMT",
-      "description": "Health officials declare measles outbreak in Virginia The Virginian-Pilot",
+      "title": "What doctors want patients to know about measles - American Medical Association",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlZtdXlla0h2OVZ2MVRINE4zeDU4T3FqaWdtdjhObjVwQ1l6M19UcHoyZGRlWWwwS3lZQ0luSnpmMlY0M0xXOUpsOVFteW4xRXBjMV9aaEZKY0x3WWxOYjcyYS1hVHlFTU5WUTZOVXJWak5VdGstZG5uMzBpaFN2a09ESDlkdUhGWngyTWJ3SW1ubnEtZkI3ZkZRemRVOGFfSFZWa2d3OA?oc=5",
+      "pubDate": "Fri, 15 May 2026 09:15:14 GMT",
+      "description": "What doctors want patients to know about measles American Medical Association",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -561,19 +570,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "VDH declares outbreak of measles in Buckingham County - WWBT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcDBxNmFNeE93RngzNDZGZGdGRW15Q1psX1NJRWZXSUpFN2poT2lFWmxZSTRpX3l0aXN4MVpYdG85bGpuMG56Q2pEUUkwTV9kUUswMk1YcnduSkNmNXNBTFBkc1RsekFWTDI1emVGMWtVX1ZBREdkU1hHRm9BeElLV3B0X2E5NFJpaDZvTGVqM1lFa1hGWk1QbnJ4MWN3dFJ0cGVZV0dreVdCMGlpWE5mNWo2WdIBxwFBVV95cUxPeXZ6LTlGdU5ZcEg5QXB5R2lwRFBrZV85WlNJa2tBS2lPU1F6LXYtZWZrVnVhaHJvLTdsakRmcG01MksyRFRvQ20wOGpBWWl4ekF0MDRGZHZaMUFlYXNrZ3NORkNpLUZoWTdRbXgtajBfLTlqQVRqZy03bFZaT0pnZUZZLWQwcmFUelp3Rm1na1VtNXo5VGVLdEJEbi1tSXc5QThtdlQ1cjdJMXl6UVh4Sm9JUGg3MDZnQzlxa25EbjJ3ZURTakRv?oc=5",
-      "pubDate": "Wed, 13 May 2026 23:59:00 GMT",
-      "description": "VDH declares outbreak of measles in Buckingham County WWBT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "VDH declares outbreak of measles in Buckingham County - WVIR",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2V0b0pjMDRvb1djUjBaUmlZYlFnUDkyal9WcEpISkIwakJGTlBGSUp0Rl90VzRCRDY4UFJFNHpUN1c5WHBhMDhSQWtpbE83YktiZ0U0OWdJdmpSY1M0UlRieEpGUmR6b1k1OGxxa1RjazRpbFJ5WVZIV05ENU4tMVdqbmZqWVBSa2Rva3MwVDcyOHZxQThwUE5CZzh0LWE5TFhJc1dKMDM0cEHSAb8BQVVfeXFMT2VJV2UwZHNvZG1rTWFZVk9lcXNhVWpJTW43Ny1PVU5sNDRCMmxKUFpOcEo1cmhQUVZWMVVUOThRTHB5RVRnZ3VuTk96SHRFWHF5M3hFZ0Q0VWZCQ3F3bHY2aHhjT29CeVlMMndpaklTZGNHbWE3ci1PWFRUZUZpV3VwcVFHUGoyUjJfb2VVSk9sdEwyTENOSTZWZGlFMzJwVnFrZFhjckZjTkNodGdMTEljMzB5TDAzSkl5WG5aX0E?oc=5",
-      "pubDate": "Wed, 13 May 2026 23:59:00 GMT",
-      "description": "VDH declares outbreak of measles in Buckingham County WVIR",
+      "title": "New Phoenix-area locations exposed to measles added as cases increase - AZ Family",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY251Nl83V3otSHNDRTk4MVRIMUZYdGRWcXk2SmM0OFdQTzFRODBBbnJpWk10ZU55Zmg1ZXUtdmFIV0owcWprcXpKM2tob0NYR19QZ01Wc2V2dmpDUVBfeGJ4TW0tRVdfVVNMZzZCLUxRWjBVb2lMMXVISmFlbEZncmpPdXlkOEZPUDdtU21iN1lLbkJlN3QwMWpWZXYxNTlYWUHSAbYBQVVfeXFMTS1UX0lTMFZxQ2F4VHRsSmdOWk1GRExHM1lIdlRmQlhieVVtbG1ERHVSLU95YTZ4UEsxZ2MzVEJrREJoRFdJa2F0eURmMU5xNU9MM3BfT3NVR0dxNlAxUkNNR0VqU01Tc0NQTkNIY0Rfckx0alJ4X0dFZ2o5ZzFVZHZtXzFPS2RIdXM3cWQ5cGJIb1BaQjBYMmtSblIyMmNvWDNvRlhUSWtSZVAzMG5SY2diUVpNWXc?oc=5",
+      "pubDate": "Wed, 13 May 2026 23:52:00 GMT",
+      "description": "New Phoenix-area locations exposed to measles added as cases increase AZ Family",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -583,15 +583,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2M5aGd0VHBKWFNEenFGQkZhaVc3Yk81dnpLYXdFa3Blb1d2Nnc2MWRMU0NrYzdfc2E0MWFkUURzSm0zQUl0T1NMNElyd2hrWHZnQ3JkN0FfZm1lVG8wOURXQkVGZmJMcVBhNlZhUmhxeFp6encyRlFSRGlCa0hlVG5rS3o?oc=5",
       "pubDate": "Wed, 13 May 2026 23:10:38 GMT",
       "description": "Measles Outbreak in Buckingham County Virginia Department of Health (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "New Measles Case, Public Exposures Identified by Public Health - Maricopa County (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40WUdoYUh5WExxQlJyeGFPTDZhQmZFQVZxZjl6R2lZZVBYcFRYcUdISmMzWENrbFdEaWMxdThfalhJekg1M0hpTldLQWFLWmI3Vy0xb0RzcEZkblNjck5R?oc=5",
-      "pubDate": "Wed, 13 May 2026 23:05:51 GMT",
-      "description": "New Measles Case, Public Exposures Identified by Public Health Maricopa County (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -610,6 +601,15 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYUdkazJNTWhmNnhfWTBmSGdhbzVabjlXeGJSb01TSkdodFF3b19aRHFrM2RkckZJd0N1WjN2RTM5NWltYTNhS2RUSmt6dUxPMS1KWHgyT1J2eG5lQ29pNkVSMm54OWNrVUlZcU5FZWIzbHV2YVJsdUF0bW4xT2lTWmhvTWt0eTA0ZlM5MDJRbVZxNThEem94dFMteWVNb0UzZ2FwdzR2Z1o1TzBnZjFiRktqVWVKYmp6Nk45elI0X1ozaXcxZUE1MGMyc1N6a2hKemp0ZUhEckQ?oc=5",
       "pubDate": "Wed, 13 May 2026 19:33:00 GMT",
       "description": "3 new cases of measles reported in Lancaster County LancasterOnline",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Are Pittsburgh's schools prepared for measles? Vaccination rates down - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVzVLZFl5NC1DTEpFVW1IcllFT01jRy1ZZkRkSExUUk9JRnU5V1JMN0RzU2VzWFRKYXh6OXY2Y0prbW5aNEhFNTVIdWotdktYTUxDSEREdHJfVk5SRW5UZHVhdFlFTEpaa0EzbEVEWnJKVFotTHUwWlRVMHNsT2Q3aW5ieDREQUg3V1FPQTJvTVNoMFRPYkNkWE9pbndiaVRwcENxMWc2ZjQ1d01fMWxaZmp5anJaX0pLZkViVw?oc=5",
+      "pubDate": "Wed, 13 May 2026 18:49:00 GMT",
+      "description": "Are Pittsburgh's schools prepared for measles? Vaccination rates down USA Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
