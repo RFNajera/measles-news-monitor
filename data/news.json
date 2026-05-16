@@ -1,21 +1,57 @@
 {
-  "updatedAt": "2026-05-15T23:28:57.353Z",
-  "itemCount": 77,
+  "updatedAt": "2026-05-16T01:05:18.354Z",
+  "itemCount": 78,
   "items": [
     {
-      "title": "New measles exposure site reported at Happy Valley urgent care clinic - KGW",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWm9tQnBZeWpSb2Z5TkVkM2NIbHNxZmFJMmJDSEM0MnExNGtabHVId2UxaUNCTUhmdzllSlV4RXQzdHVfWUdVWGp0ZnZoZXFoTGMzaU5QVU5BbFpFODRKS1pxalVzVUN0MU14VlZ6QXd4VGtlaGNhS1EzMVpTNFlaMm12MXdrakkxTHA1dDluZ3ZNUmlxeXFxdHJCeWlSSU1kWTdQenFYUm9IN19IYVNfRFdXVFVRLWgtNFFMOU96ajJ6RGpvVmJFLXV5dFpkZmw1NlpkdmFPa21kV0c2d0RGbTRR?oc=5",
-      "pubDate": "Fri, 15 May 2026 23:12:00 GMT",
-      "description": "New measles exposure site reported at Happy Valley urgent care clinic KGW",
+      "title": "Measles detected in Jackson County sewage - Oregon Public Broadcasting - OPB",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0hEMDVmc3p0ampicGlaNUlCWGE1ZDlxaWl5MDg5YWtydjNmM1oxQVlVLXBkR3NzY0xzaWFCeTJaTzVNOFgwRUVLYUJsS0RrVncxb0dWV2FvZjdHaDN4bWc3bmoxTWsxRGJ6cHU3YzRKemdFZU1teHNwOFl1OGxnaFVwc1A?oc=5",
+      "pubDate": "Sat, 16 May 2026 00:59:45 GMT",
+      "description": "Measles detected in Jackson County sewage Oregon Public Broadcasting - OPB",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles detected in Jackson County sewage - Jefferson Public Radio",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc2ptQmRVMUVHTThoNVpzUnNRQVpVWlFhbGhGMXBzdm51Y2ItUFRBN0JqdHJTN2o4aGFKRFF6XzJWb0xVdDhmN190YnZ6bWVQRTVNeW1sTXhwaWRuUWNqdmVpVEYwekthSWUwR29KSlEwNjlhU1dKVkpwc2ptZW5HTXlzcHhnazNxRTdJa0l3M1lETXZlQmpBeg?oc=5",
-      "pubDate": "Fri, 15 May 2026 22:22:00 GMT",
-      "description": "Measles detected in Jackson County sewage Jefferson Public Radio",
+      "title": "Measles detected in Jackson County wastewater - kobi5.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcGJaR3FmbGQyU2wwM29oNVBqUUVuT08xeklEajVEc2t4UC1lMmlvUGYwaTVzZmRPZUk3OGVqamhoMnFOemxsWmxEcFhjLW8wQ2M2YVpiUHhCdWdoMjZzamNsSHRUMEFqOEFQd2MwZ2FHM3Z5UTlJZ3NBRF92YUZCRVRn?oc=5",
+      "pubDate": "Sat, 16 May 2026 00:28:56 GMT",
+      "description": "Measles detected in Jackson County wastewater kobi5.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Possible measles exposures in west-end Toronto neighbourhoods, Toronto Public Health warns - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNUFTVUVjTTNOS1BGbTU1R1ZkSTJNbmNORUdyWG9VMHJnU3FNQ1pwdzVQU0QwckI3cFBtb0hNVmREcG1tM09KZjhkblcwaEZXRm1nNy1nVW1tYk01MEtLTm5tbHNIQ0pSZzZ6SFdPajltQjB6eDk3cV9weUkwRWpZRVFudHotWmF5OXhueFhVWk1KVUExUmE5TzlVNGZTMnFPZG5iUnZrT2x6elVmdjMtaWxSYnRxWUhxZnZwOUtNaTdvUDNSQTB5VWZvZVl4OUM1alRtTlVjenFnUm5fLWhjdGRuRHVIVk90T05PUEp0aE1uLVFOUl9wRjJsdkN2WHp3OVE?oc=5",
+      "pubDate": "Sat, 16 May 2026 00:20:00 GMT",
+      "description": "Possible measles exposures in west-end Toronto neighbourhoods, Toronto Public Health warns Toronto Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Toronto Public Health warns of potential measles exposure in west end - Toronto Sun",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRi1TMU1UTExXd3RvTHdHU1J3QjdyNHU1NEJYX0ozazZYY2tHSkNOcFA1c0dXbU1zNE1iRkItMFFzeS16U3dpWGVhbVZGRTRRcFlvNHplNGNicy1SY3RLUEthRThWaU56WmNpVkMtazRRQ1oxR2NEUTRuQjJnVDI2djVEMnY1aWJNbUZ1YkM4X3hvNDBwcmVqTHRORGNqbG9kcVJmRXhKVQ?oc=5",
+      "pubDate": "Fri, 15 May 2026 23:25:03 GMT",
+      "description": "Toronto Public Health warns of potential measles exposure in west end Toronto Sun",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Latest measles exposure reported at clinic in Happy Valley - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjdhVjRHTFF4MHJkSlBGTThlNjhMUmpLY1hlcWdsaG9nZWtIR2o4UnMwb3A4MncwWExkVlJreklFVm9UR0hJYjhTQ3lvTUZiLU80TG1xekswOWRqdzFMR0p3VHR3VXdaUFdtalk2dGFFc3NqUGxIVEJ2bEFsQlZJVGZRMTQydw?oc=5",
+      "pubDate": "Fri, 15 May 2026 23:20:38 GMT",
+      "description": "Latest measles exposure reported at clinic in Happy Valley AOL.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New measles exposure site reported at Happy Valley urgent care clinic - KGW",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWm9tQnBZeWpSb2Z5TkVkM2NIbHNxZmFJMmJDSEM0MnExNGtabHVId2UxaUNCTUhmdzllSlV4RXQzdHVfWUdVWGp0ZnZoZXFoTGMzaU5QVU5BbFpFODRKS1pxalVzVUN0MU14VlZ6QXd4VGtlaGNhS1EzMVpTNFlaMm12MXdrakkxTHA1dDluZ3ZNUmlxeXFxdHJCeWlSSU1kWTdQenFYUm9IN19IYVNfRFdXVFVRLWgtNFFMOU96ajJ6RGpvVmJFLXV5dFpkZmw1NlpkdmFPa21kV0c2d0RGbTRR?oc=5",
+      "pubDate": "Fri, 15 May 2026 23:12:00 GMT",
+      "description": "New measles exposure site reported at Happy Valley urgent care clinic KGW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -79,6 +115,15 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS3k0R08yZTZ4aGVTNEJwcTREanFxS0YtV0dOc192c0Y4U3prOFY0YXIzSFhkcVU4MnNPTUZUd0kycmRwYUtkS0VhLUEyVmlqeWJXU3VuSFkteFE5d1ZHTTFzSWRtZ0xEYl8zdmpKejVVN3RpVGx0YVJPTUxXU19tUHVsS3hsYjRqYTJwcG5ONVkxSTUwUm1vRDZqakc4S0I2OXpZQ3BJaUsyeFHSAb8BQVVfeXFMTk1seU9SMGJON3pmMl8zNkZKVTVHTzJNdHAxbUdIa0RlcUQtclkwZjU1YWZEX1ZPM3ZzUTFXdHhDRUplUlhlalQ3RzcteUkwR1pqSmF4U2RNRUE1Vl93ZFpwQ0dTSWVMc2R5MWhnci1NMHQ3NmROTzN0V0YtT1Jsczdaek5QczdFT2dqVXU5SmhEWURtNnYwUGg2eHBaOFFaSXM1eW80bmRFcDc3MTZJVGpIMGRfUU0xSHJXazFJNUU?oc=5",
       "pubDate": "Fri, 15 May 2026 20:38:00 GMT",
       "description": "Measles exposure reported at Happy Valley urgent care center OregonLive.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Mesa sees largest measles outbreak in decades, health officials urge vaccination - ABC15 Arizona",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkJBWGk4dGpRN3J1MmFJMlFMVE9OOGhXdVhVZW9lWF9pV2lhVHI4aVFFTWh0b0pQMU9HYnh5SkdfUTg4Q2dXZHJnOEZMXzRaNDZkVEFQNjZKYXp5cWVyVmZXdDRXWkxmMVBHUXhqV0ZHOXBiQ1lvRm9Kbi1MM0xodGpsNTQ2LXZ1Ry1yeGpxb2x6RVd1cEg1VllfeE53Zk5iT2tHdTlDblo3ckRIdEwtRU9pMzJyY0hZd2c5QWxHQVlnZGt0NzFiOE5ZRlJNdzFu?oc=5",
+      "pubDate": "Fri, 15 May 2026 20:24:00 GMT",
+      "description": "Mesa sees largest measles outbreak in decades, health officials urge vaccination ABC15 Arizona",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -160,15 +205,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX2IzVWRaQnV4dmNoRGJPb2FvRkJzUkpjRjFWa01lUmMyR2FWeWtrOXVCV1BTVFdkWDctN1kwR2YwOGRxN3IwbElSa0gzWGZZdmgybzJjOF9PTWNuVXQzNUhHemgzWWtTcWgyMHRMTWdWeVYzM3NqVlNpMDk5U1FEaHUzRdIBlwFBVV95cUxNeVhiU1pSV2JtQzh1bUY5RmlDVWgtVFprQTZ3dV9ma2NHZzBoOFptR19lY2VpSGFpZU9zcnBxVjJKRDR6SmpNZTI4SmlOTmsyVXZUMWhTMnp3aERjN3ZmTlFsajg3cG9MakZWbzFpT1kxNlh0TWJyMWM2R1Z0OEtLcENpa05Zdms2N01wRnlveG42akh3d0Ew?oc=5",
       "pubDate": "Fri, 15 May 2026 19:27:00 GMT",
       "description": "Measles case confirmed in Cass County Valley News Live",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Latest measles exposure reported at clinic in Happy Valley - KOIN.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMGdvQXhWOEZUZm1Cc3hoVThwSF9YM0EwSGpQNWg2N01mc05INlFGZTd0aF9acnpBNmxlSEhBelVaWUxYc3VhbDdtN25WdWxQX2xMUHVyRlR2MmJYeWVKb3IwM0ppVXFXWk0yeVNoZzl3X3hjSzlIR3h6LVlHRXRjS3hSV3lUN1pFQzBUWU14OUU5QdIBlwFBVV95cUxOY1lBbjEycFdNSFdZcW9RLUpsdGdrUmlGUF9mT3JUbG1ycjhHQU44MDVZM1B5TVF0TEZxREZOdFNiSmZXTE80TmxXZVRvQTFQdlpmWkhhSGluX0JTal94WW9SanI4NW5ueDNraEhFQjFOMTQ4dGVhUDVfNkc0R0NJYXFsbUxiVl83VmxVdkNNT0pfaFdiVE5Z?oc=5",
-      "pubDate": "Fri, 15 May 2026 19:26:30 GMT",
-      "description": "Latest measles exposure reported at clinic in Happy Valley KOIN.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -552,15 +588,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Maricopa County confirms 15th measles case of 2026, identifies new Queen Creek exposure sites - KTAR News 92.3 FM",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1abXdvcjJIRFZCUzIxMEswd3pZTzljSmlnMWh0a1NLMG00RVJOOFpGeG9zckJoazdKZnhQWnVXc1lSOFc4UXRnSEFwdGg3cmY0QlFfMFdGVld5UThsVnZnNEpmRTQwSUNJN3dzeGxiQWFjVnAza3RpLUJHNGc?oc=5",
-      "pubDate": "Thu, 14 May 2026 00:50:32 GMT",
-      "description": "Maricopa County confirms 15th measles case of 2026, identifies new Queen Creek exposure sites KTAR News 92.3 FM",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "VDH declares outbreak of measles in Buckingham County - WWBT",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcDBxNmFNeE93RngzNDZGZGdGRW15Q1psX1NJRWZXSUpFN2poT2lFWmxZSTRpX3l0aXN4MVpYdG85bGpuMG56Q2pEUUkwTV9kUUswMk1YcnduSkNmNXNBTFBkc1RsekFWTDI1emVGMWtVX1ZBREdkU1hHRm9BeElLV3B0X2E5NFJpaDZvTGVqM1lFa1hGWk1QbnJ4MWN3dFJ0cGVZV0dreVdCMGlpWE5mNWo2WdIBxwFBVV95cUxPeXZ6LTlGdU5ZcEg5QXB5R2lwRFBrZV85WlNJa2tBS2lPU1F6LXYtZWZrVnVhaHJvLTdsakRmcG01MksyRFRvQ20wOGpBWWl4ekF0MDRGZHZaMUFlYXNrZ3NORkNpLUZoWTdRbXgtajBfLTlqQVRqZy03bFZaT0pnZUZZLWQwcmFUelp3Rm1na1VtNXo5VGVLdEJEbi1tSXc5QThtdlQ1cjdJMXl6UVh4Sm9JUGg3MDZnQzlxa25EbjJ3ZURTakRv?oc=5",
       "pubDate": "Wed, 13 May 2026 23:59:00 GMT",
@@ -624,28 +651,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "In Utah, still a national hotspot, measles cases hit 663 - Utah News Dispatch",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVE1DU1Y5dE9TTGNNRzlPRVBoeUd5Nm45MEdPM2dua2lWa2hDUTVLU1NCWFE5NUt4RjZhczl4eVVzVzI0X0NPYkVoSTNkT0l2ZFBERUZJeTZCd0NTT1VxVEd2Z0NKdGc2M0pvdmdRak0zYWpzMy1ONVZ6d3RrWXliZFlENENWa0dlNTBGRQ?oc=5",
-      "pubDate": "Wed, 13 May 2026 21:22:02 GMT",
-      "description": "In Utah, still a national hotspot, measles cases hit 663 Utah News Dispatch",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "3 new cases of measles reported in Lancaster County - LancasterOnline",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYUdkazJNTWhmNnhfWTBmSGdhbzVabjlXeGJSb01TSkdodFF3b19aRHFrM2RkckZJd0N1WjN2RTM5NWltYTNhS2RUSmt6dUxPMS1KWHgyT1J2eG5lQ29pNkVSMm54OWNrVUlZcU5FZWIzbHV2YVJsdUF0bW4xT2lTWmhvTWt0eTA0ZlM5MDJRbVZxNThEem94dFMteWVNb0UzZ2FwdzR2Z1o1TzBnZjFiRktqVWVKYmp6Nk45elI0X1ozaXcxZUE1MGMyc1N6a2hKemp0ZUhEckQ?oc=5",
       "pubDate": "Wed, 13 May 2026 19:33:00 GMT",
       "description": "3 new cases of measles reported in Lancaster County LancasterOnline",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Are Pittsburgh's schools prepared for measles? Vaccination rates down - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVzVLZFl5NC1DTEpFVW1IcllFT01jRy1ZZkRkSExUUk9JRnU5V1JMN0RzU2VzWFRKYXh6OXY2Y0prbW5aNEhFNTVIdWotdktYTUxDSEREdHJfVk5SRW5UZHVhdFlFTEpaa0EzbEVEWnJKVFotTHUwWlRVMHNsT2Q3aW5ieDREQUg3V1FPQTJvTVNoMFRPYkNkWE9pbndiaVRwcENxMWc2ZjQ1d01fMWxaZmp5anJaX0pLZkViVw?oc=5",
-      "pubDate": "Wed, 13 May 2026 18:49:00 GMT",
-      "description": "Are Pittsburgh's schools prepared for measles? Vaccination rates down USA Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
