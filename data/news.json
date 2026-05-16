@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T09:44:21.108Z",
+  "updatedAt": "2026-05-16T10:37:32.661Z",
   "itemCount": 73,
   "items": [
     {
@@ -7,15 +7,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaEIxVGtqUG00ZDYyUzFuQ0RXb1h3YVdudG1uQWtQQmk3WFdCaU81Z2tUWHBPN0xzRmdsTFV1S21nSFhLNVN5NVdUUm16Mjljckp1aUNTal9SSElDSVZkVF9Nd3I1X1FRbzl2WXg4RWJGZ1NKbVhkSEUxcGZYWl9sbHd6a25ZNm5pVm5n?oc=5",
       "pubDate": "Sat, 16 May 2026 08:46:48 GMT",
       "description": "Fourth Case of Measles in Ottawa Co. Household Reported WHTC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Mesa sees largest measles outbreak in decades, health officials urge vaccination - ABC15 Arizona",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkJBWGk4dGpRN3J1MmFJMlFMVE9OOGhXdVhVZW9lWF9pV2lhVHI4aVFFTWh0b0pQMU9HYnh5SkdfUTg4Q2dXZHJnOEZMXzRaNDZkVEFQNjZKYXp5cWVyVmZXdDRXWkxmMVBHUXhqV0ZHOXBiQ1lvRm9Kbi1MM0xodGpsNTQ2LXZ1Ry1yeGpxb2x6RVd1cEg1VllfeE53Zk5iT2tHdTlDblo3ckRIdEwtRU9pMzJyY0hZd2c5QWxHQVlnZGt0NzFiOE5ZRlJNdzFu?oc=5",
-      "pubDate": "Sat, 16 May 2026 06:22:32 GMT",
-      "description": "Mesa sees largest measles outbreak in decades, health officials urge vaccination ABC15 Arizona",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -32,7 +23,7 @@
     {
       "title": "Ottawa County confirms another measles case, bringing total case count to 4 - Grand Haven Tribune",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNU2lNdFYwSl84ZWJBSEotU281UVBfbWhNNDJGZHRXYVhXWFBBOEZpSWJraU4ySm9kWndwZW1RZUdpRlFUeFcyWGFYUElrWFh4cHowaTBCQjk1alhkVnlvYnFNTWVUNUhvenZpdno4cTNPSGNXQUhLNW5HdTVuU1pReDZNXzg3dFZwdnN4NEgtdDVmVmV4LWtoTTF1ZzFTaFhwcG1SSDJRZzM2RUNvcGUtZE1EUTBNRElMcks2QWNyRGV0M0hBT2tWLXg2dmc1ZXNzaUJmWkNEQk12NHFYanF6VGJ5SjVoY2tFYmxRdkJacE5TSVBmbkZqeUNDN3cyR0VTbGFKV2hB?oc=5",
-      "pubDate": "Sat, 16 May 2026 03:40:26 GMT",
+      "pubDate": "Sat, 16 May 2026 03:30:00 GMT",
       "description": "Ottawa County confirms another measles case, bringing total case count to 4 Grand Haven Tribune",
       "source": "news.google.com",
       "sourceType": "news",
@@ -79,6 +70,15 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcGJaR3FmbGQyU2wwM29oNVBqUUVuT08xeklEajVEc2t4UC1lMmlvUGYwaTVzZmRPZUk3OGVqamhoMnFOemxsWmxEcFhjLW8wQ2M2YVpiUHhCdWdoMjZzamNsSHRUMEFqOEFQd2MwZ2FHM3Z5UTlJZ3NBRF92YUZCRVRn?oc=5",
       "pubDate": "Sat, 16 May 2026 00:28:56 GMT",
       "description": "Measles detected in Jackson County wastewater kobi5.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Mesa sees largest measles outbreak in decades, health officials urge vaccination - ABC15 Arizona",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkJBWGk4dGpRN3J1MmFJMlFMVE9OOGhXdVhVZW9lWF9pV2lhVHI4aVFFTWh0b0pQMU9HYnh5SkdfUTg4Q2dXZHJnOEZMXzRaNDZkVEFQNjZKYXp5cWVyVmZXdDRXWkxmMVBHUXhqV0ZHOXBiQ1lvRm9Kbi1MM0xodGpsNTQ2LXZ1Ry1yeGpxb2x6RVd1cEg1VllfeE53Zk5iT2tHdTlDblo3ckRIdEwtRU9pMzJyY0hZd2c5QWxHQVlnZGt0NzFiOE5ZRlJNdzFu?oc=5",
+      "pubDate": "Sat, 16 May 2026 00:04:00 GMT",
+      "description": "Mesa sees largest measles outbreak in decades, health officials urge vaccination ABC15 Arizona",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -570,15 +570,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Maricopa County confirms 15th measles case of 2026, identifies new Queen Creek exposure sites - KTAR News 92.3 FM",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1abXdvcjJIRFZCUzIxMEswd3pZTzljSmlnMWh0a1NLMG00RVJOOFpGeG9zckJoazdKZnhQWnVXc1lSOFc4UXRnSEFwdGg3cmY0QlFfMFdGVld5UThsVnZnNEpmRTQwSUNJN3dzeGxiQWFjVnAza3RpLUJHNGc?oc=5",
-      "pubDate": "Thu, 14 May 2026 00:50:32 GMT",
-      "description": "Maricopa County confirms 15th measles case of 2026, identifies new Queen Creek exposure sites KTAR News 92.3 FM",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "VDH declares outbreak of measles in Buckingham County - WWBT",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcDBxNmFNeE93RngzNDZGZGdGRW15Q1psX1NJRWZXSUpFN2poT2lFWmxZSTRpX3l0aXN4MVpYdG85bGpuMG56Q2pEUUkwTV9kUUswMk1YcnduSkNmNXNBTFBkc1RsekFWTDI1emVGMWtVX1ZBREdkU1hHRm9BeElLV3B0X2E5NFJpaDZvTGVqM1lFa1hGWk1QbnJ4MWN3dFJ0cGVZV0dreVdCMGlpWE5mNWo2WdIBxwFBVV95cUxPeXZ6LTlGdU5ZcEg5QXB5R2lwRFBrZV85WlNJa2tBS2lPU1F6LXYtZWZrVnVhaHJvLTdsakRmcG01MksyRFRvQ20wOGpBWWl4ekF0MDRGZHZaMUFlYXNrZ3NORkNpLUZoWTdRbXgtajBfLTlqQVRqZy03bFZaT0pnZUZZLWQwcmFUelp3Rm1na1VtNXo5VGVLdEJEbi1tSXc5QThtdlQ1cjdJMXl6UVh4Sm9JUGg3MDZnQzlxa25EbjJ3ZURTakRv?oc=5",
       "pubDate": "Wed, 13 May 2026 23:59:00 GMT",
@@ -588,10 +579,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Arizona measles outbreak is growing. Were you exposed? - azcentral.com and The Arizona Republic",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXFsc0J6UFZWSW1aaWpwcXg1VGtNT1ZDbGNhOVJ4T1hiaHp6NTBzZ0piS1htYWNSNkxRelBoWG16bFJaeWVVWXdqMFFiTXNST3ZVaW9ZMUsxaGxOd0RzRFg0TlJMQXQwNkxZWXk2NmpKcENfMWVTZHpVTWdtcVpBbGZEUEJlS2tCdU9UUjBHUjltWDFQdnlkWVE3LVQ2SGxSX25TbnJYVVQ1MldpdTBMOU9qNEZWblhYOWMtNVVheTJTRFdTNTRHa21fNEtocWs?oc=5",
-      "pubDate": "Wed, 13 May 2026 23:54:00 GMT",
-      "description": "Arizona measles outbreak is growing. Were you exposed? azcentral.com and The Arizona Republic",
+      "title": "VDH declares outbreak of measles in Buckingham County - WVIR",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2V0b0pjMDRvb1djUjBaUmlZYlFnUDkyal9WcEpISkIwakJGTlBGSUp0Rl90VzRCRDY4UFJFNHpUN1c5WHBhMDhSQWtpbE83YktiZ0U0OWdJdmpSY1M0UlRieEpGUmR6b1k1OGxxa1RjazRpbFJ5WVZIV05ENU4tMVdqbmZqWVBSa2Rva3MwVDcyOHZxQThwUE5CZzh0LWE5TFhJc1dKMDM0cEHSAb8BQVVfeXFMT2VJV2UwZHNvZG1rTWFZVk9lcXNhVWpJTW43Ny1PVU5sNDRCMmxKUFpOcEo1cmhQUVZWMVVUOThRTHB5RVRnZ3VuTk96SHRFWHF5M3hFZ0Q0VWZCQ3F3bHY2aHhjT29CeVlMMndpaklTZGNHbWE3ci1PWFRUZUZpV3VwcVFHUGoyUjJfb2VVSk9sdEwyTENOSTZWZGlFMzJwVnFrZFhjckZjTkNodGdMTEljMzB5TDAzSkl5WG5aX0E?oc=5",
+      "pubDate": "Wed, 13 May 2026 23:59:00 GMT",
+      "description": "VDH declares outbreak of measles in Buckingham County WVIR",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -646,6 +637,15 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR3A3ZU14SUk5QnlESDN5c3EtM0NNd3Jzc1BTXzRpZDBWNEdUMlJTWW15bjF6MU1ueV9TczVPN3VVdjRVTW9QcE5tUWJoUU0xOElxTnVYVDdNcFhtdDRtWmJRSW8welpyMVhCaVNOVTBVNEo4d2ZMZ21qLVFGd2poUWpXQWdjY1B0a3pGNmZGTmdEYjU3OHBob3NPM2VzcDI0eFRmVlhQQVNkSFpyQkpURnRVbHREcFdy?oc=5",
       "pubDate": "Wed, 13 May 2026 17:19:31 GMT",
       "description": "Public Health Alerts: Intramuscular immunoglobulin for measles postexposure prophylaxis cidrap.umn.edu",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Multnomah County reports whooping cough, multiple measles cases so far this year - KATU",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNY2lWQWtuMy0weVNoSk9pVTNlNE4wZ0VnS3NtMzdLaktYdm5Zblg4THhndTZ3MjFUVFRpSWJ4SkVZOXlWU3ptY25aQ0FobzdCRzV5YlpZLUxPVWw3LXU2T0JXYWNwcnJQelVIN2RxclhycUx5SC1MN1dNTlJzUGFoSzhzbFdzZTBoTkx6ZjBMR296X1dHWHBiYzNtbW5jcVZrZlZVbkNQMHFWNXlUMjlVUXRRcFA4amRTelZ1aFhldkVvUUg3Zm9XQ2xuQ01DbHpMc0c0bzd5aUpFT053ZnoxRENGR0RMVkRkX3BCa2JxbnVlYlpnT0toQXpn?oc=5",
+      "pubDate": "Wed, 13 May 2026 01:37:58 GMT",
+      "description": "Multnomah County reports whooping cough, multiple measles cases so far this year KATU",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
