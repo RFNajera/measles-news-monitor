@@ -1,11 +1,20 @@
 {
-  "updatedAt": "2026-05-17T18:33:34.831Z",
-  "itemCount": 62,
+  "updatedAt": "2026-05-17T19:36:52.687Z",
+  "itemCount": 63,
   "items": [
+    {
+      "title": "Public Health Confirms Measles Case in LA County - Fullerton Observer",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbVF4WUZ3RmZRSmxpSm1XRVdfa3BQMU10U3FpbWc3U19wd1dtQ1pLamtWaVQ5OEZHTzhqa29EV0VQNmVaeVBvNWUtN3RSWGlkUk01YzdrX1p0bjlDTU9ncFROcXh3dWN0Mmd0V2pNQWVrU2VRMEVMQk96Z2Q5d2Uzam4tYTFxUXFoUU8zX1FwLVVqa2U0?oc=5",
+      "pubDate": "Sun, 17 May 2026 19:09:05 GMT",
+      "description": "Public Health Confirms Measles Case in LA County Fullerton Observer",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Interim govt skipped measles, Vitamin A campaigns: minister - The Daily Star",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0dXVjk2TlRrbWtfNDVKc283a0E2V1YxXzRCQVdLckxSTWhLemRwWFZPOHlRdUtkUV9nR3M5d2NUTWpNZmZoWXBHUHpRaFQ4QUZVcDNXSm5NOVJyWHBLY2p5cDFPNUhiaUdHckNkZ1NUaFZfcjF5RVVGZmxwb2M0eGswY1JCOTNLYkw3UzhXNUl6SVdvOEVtblV3NGtOQU9wcElkSHNGQ2lnSFZFSGIzUjkybw?oc=5",
-      "pubDate": "Sun, 17 May 2026 18:00:00 GMT",
+      "pubDate": "Sun, 17 May 2026 18:02:19 GMT",
       "description": "Interim govt skipped measles, Vitamin A campaigns: minister The Daily Star",
       "source": "news.google.com",
       "sourceType": "news",
@@ -52,15 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdXk1S1pHcWdBWlQ2SURlODBTV0hYVDBINEJyb3hqZVpGQVgwTTVmak1ZMjh0QlZ4SWowWklsN21SY3UzR09md2N4SWNFWXIzMlhrWmVFVXZVZXhHVWxYMTBldEFKNXRTVTFRaFB3RWRqNmtIRThjQ1ZYVGEzWFF2M29fcm1IVkZicXlmNFl0RTE5RGN4YkRlQWxwbHh1RUc2bjBB?oc=5",
       "pubDate": "Sun, 17 May 2026 14:15:00 GMT",
       "description": "Fifth measles case LAist",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Six more children die of measles, measles-like symptoms; death toll now 459 - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONkZLWThOclFUcXZxLTdPTy1JRHNTMktMb0d5dnhfS0VXd1pSdmMyMGRhU0I4N1JZbnI4Vl9sbHVFWTZocUEzM1JiTFZ5c29WV2VXaElCLUVvc0s0SkhSZmhQYW1SQVQ5X2FTSXZHUk5ZOGF2UnBjN2hHTHgtRUFuMFNlWGJUMWsxU3VjaE04YnA2ZE1icmh2dVBIcWdmenE5TEhWNFJ2c2FJdGNfX1BhNnpqT0F0M2JEVVo4czBVcw?oc=5",
-      "pubDate": "Sun, 17 May 2026 12:46:17 GMT",
-      "description": "Six more children die of measles, measles-like symptoms; death toll now 459 The Daily Star",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -228,10 +228,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Oregon health officials warn of measles exposure at Happy Valley clinic - KCBY",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSDBhYnUyNkZoMGxoaHJmRXhNR3VHX1pvMjM0dXQtanNFYm4xWXhtN2t4M2xEekp5UlQ1Q0NtRVByei13dm0tNUF0RllNZzJrclR0Sm0waXpETXpxUklkR0dVc0E4NjNXR05YZDJKVmlPdmFZQk1wY0x1X3QxOUdRZXY1c2hIR2E2MkphYS1MSngzWlZGVXhpb2ZVanlKTVZKNEtZck1tTERrdm1UYWNITkpYWFFUb3JkcFlIWXZ5cEotUjNPM3RlMmtoNmlaVFhWeXNVUVk1cXBTT0hYbFg5QnlhRWFwcHV3OEFfMnJzMzViYjVMbkJqMW8zQ1pHSlE?oc=5",
-      "pubDate": "Fri, 15 May 2026 20:15:55 GMT",
-      "description": "Oregon health officials warn of measles exposure at Happy Valley clinic KCBY",
+      "title": "Oregon health officials warn of measles exposure at Happy Valley clinic - KPIC",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYXYyX0xxa0ozSHM0NThHUEFxdkVsVldrNG9ZZjlWekx6VXFhUWMyeFhfSXlobF9Ua1Foa2RCYkQzNGFia3VmTVNGa3hmRXJMXy1WTnVPV2pISnhIdGxoOFRoVUVEdWQwWkZmNTk1MDRPQXF6THl4eTg2eEtXU09hUFg2LW9JWDFublhiOVV4MWpHRzQ0a3dRUi1zRjN6QVRsaVRZUmsybTZla19oSGVZSS1Nd0hBcG84bXJvYWZvMF9lektqTVBxRjV2QTcxTTRBVnM4NEVJdkktekhmcUg1b1JYWHNCRWVlR2gzaDMtSi1yN19Vb3FWd3pWcUptQVU?oc=5",
+      "pubDate": "Fri, 15 May 2026 20:20:26 GMT",
+      "description": "Oregon health officials warn of measles exposure at Happy Valley clinic KPIC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -381,6 +381,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "VDH confirms measles outbreak in Buckingham County: Vaccine skepticism is contributing factor - Augusta Free Press",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWGMyTGNodFZJVjNrZDVOYWN1eTg3aWlxZmtYLUFyNF9ZUDZhTFlEWlNSWG1mdHZ3bXlRNUpGdjFoRXdpT1cwSmhUOXpERUpTa0VWak10TmEzRFRIMnZlTFJKbnR1TkxZMEVWRi1Yd05VWm5RZjFNejZ3TGk5bnE0TEl4UXYxVm9YY0RUZU42b01NaUJCS2hYa3VpU3hHbW9zc29SamdUbldWeXF1bFF0N1JzbkJ2bkU0emYzbmp0bmRKUXhlSHc?oc=5",
+      "pubDate": "Fri, 15 May 2026 14:53:57 GMT",
+      "description": "VDH confirms measles outbreak in Buckingham County: Vaccine skepticism is contributing factor Augusta Free Press",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "VDH officials release update on Buckingham measles outbreak - cbs19news.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMC0wODFrUEdoS3ZPM0YtVElRRXVscWFRWHV6djk5SmpkNlpaN2hQaFdWSl9vZnB5eFhCRmRxVnoyZzdmOXl4Y1ZxcGZ1bG9pT2lIdnE5TVdBYXJBRTF5MW9wblZhMUR3Wkh2QXp5Y05rb2JNcEZDb3kxV3VpR0lwZDY5amhEd3lJYnFQaUNCOS1xajBUenB1UUhhY3RUMlhFRjVsVk40N25iUHlOWnZlY19iY1lxdDRKVU14XzdqVVVfVE1SU1BsWUlhem1ZX0U0VE9oUlV0UQ?oc=5",
       "pubDate": "Fri, 15 May 2026 14:52:00 GMT",
@@ -390,19 +399,28 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials declare measles outbreak in Virginia - The Virginian-Pilot",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RaEpEYlVJNDZ3a0NPc21HQWFpcHVidmxneklSdnFpVTg2S2l3SVRXdkRlaTBxSFlpRE80YnMtN1BtU002aF9wb0lkWjZ2eWp6U1JVelJLd0tJQzRtYzhPTjhCUDg0SWZzVFdKV1A2TDNqUzQ?oc=5",
-      "pubDate": "Fri, 15 May 2026 12:49:34 GMT",
-      "description": "Health officials declare measles outbreak in Virginia The Virginian-Pilot",
+      "title": "A dozen measles cases confirmed in central Virginia, with more possible, VDH says - WTKR",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVlMR0lfNTAtdllUQzREX2FKa191dC1GYWpCT3NnZVdFQ2k4MmdsdFpXc2toamtrVnFaWEY0UVVkai1YUk5CamIxc2xuZWUxS1lFN19QbEl2LTdvWWFsQUwxcEFmTkpEVTNpaXliSG1TODNaZ0Z3ZHMtNUg0TFZBczZpX0VKZjlYQlpwUUpBbE04X2M3?oc=5",
+      "pubDate": "Fri, 15 May 2026 14:19:40 GMT",
+      "description": "A dozen measles cases confirmed in central Virginia, with more possible, VDH says WTKR",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "What doctors want patients to know about measles - American Medical Association",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlZtdXlla0h2OVZ2MVRINE4zeDU4T3FqaWdtdjhObjVwQ1l6M19UcHoyZGRlWWwwS3lZQ0luSnpmMlY0M0xXOUpsOVFteW4xRXBjMV9aaEZKY0x3WWxOYjcyYS1hVHlFTU5WUTZOVXJWak5VdGstZG5uMzBpaFN2a09ESDlkdUhGWngyTWJ3SW1ubnEtZkI3ZkZRemRVOGFfSFZWa2d3OA?oc=5",
-      "pubDate": "Fri, 15 May 2026 09:15:14 GMT",
-      "description": "What doctors want patients to know about measles American Medical Association",
+      "title": "North Dakota measles cases eclipse 2025 total - The Bismarck Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYTRodzVrT0o5ek5Va2Z6aF95MXlxc25vbGFZNmFjLTNWa2lHeEoxUUdWUzd2djRtMWptdlFoZDVERkN0LUxfNnBZWjZrVmJ1UXhaRjhPVWdCc2hDY3c3Yl9HMnIyU2oyOVFXNzhIMTBXclZobjdsd3BKWUxSazl0bThIUnhzWEw3bnc0cDZpSGlWaHo2cjhrY3dISWNSeWpYNjdlcWxLb1dsenVIMmdBOUk3cFNzb0Y5?oc=5",
+      "pubDate": "Fri, 15 May 2026 13:45:00 GMT",
+      "description": "North Dakota measles cases eclipse 2025 total The Bismarck Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Health officials declare measles outbreak in Virginia - The Virginian-Pilot",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RaEpEYlVJNDZ3a0NPc21HQWFpcHVidmxneklSdnFpVTg2S2l3SVRXdkRlaTBxSFlpRE80YnMtN1BtU002aF9wb0lkWjZ2eWp6U1JVelJLd0tJQzRtYzhPTjhCUDg0SWZzVFdKV1A2TDNqUzQ?oc=5",
+      "pubDate": "Fri, 15 May 2026 12:49:34 GMT",
+      "description": "Health officials declare measles outbreak in Virginia The Virginian-Pilot",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -421,15 +439,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
       "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
       "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "measles - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MTWF1WnlQZ3pzaVBoUkRqb2VJZnNuT0xKcGdSRExEMzRFSWNHa3RlRG9nNGlYTkhvQnNXS1NldUNtdmppa0VaZHZLbFZPUVJPUTIyTw?oc=5",
-      "pubDate": "Fri, 15 May 2026 05:00:00 GMT",
-      "description": "measles Britannica",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
