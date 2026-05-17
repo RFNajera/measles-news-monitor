@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-05-17T05:28:57.894Z",
-  "itemCount": 65,
+  "updatedAt": "2026-05-17T07:12:38.867Z",
+  "itemCount": 64,
   "items": [
+    {
+      "title": "Los Angeles County reports 5th case of measles so far in 2026 - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1lfd2dQbklwMFYyWlJ0TUNQZzRvazRwQ2NhUm1JaV9xbEYtelZ1TWowZXlyWmxjbGYybnBkTUNFV08wRWlFWkJHLUlzX2hsY1dZcFZKR0t2Ykl6R0lTUWJyU3FjYWNwNXZZUXlNU0szUXh4SXVlRy1XbkF3RFdRM003UHZzb3FQMGFra9IBkgFBVV95cUxOWFR1Xzc3bXNxR0RBQVlfVGpUbjNUa2lhTjFVMTdmdmYxZzF6QkxlVldkOGptRUxQRzdQZ3R3Mmd4UEVGcG1CZGVvallMQ3phVEhKcDltQlMwcnZya2hWdmVWQVZwQm1mQnhQVy0xeWF6WXhfQ05qcW13U1VTZDNrdXYtQ29hbDJaRncwLTJLbTQtdw?oc=5",
+      "pubDate": "Sun, 17 May 2026 05:54:02 GMT",
+      "description": "Los Angeles County reports 5th case of measles so far in 2026 ABC7 Los Angeles",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "L.A. County health officials confirm fifth measles case this year - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFAyUTF2UHU1N01sY2hmV2h2ZzFRWHVFOG1JeUFXbElYT1hXTGo1Y1BQQ3ZVMUhNLWdsVlJtSER3dnFjelctbWlWVXVpYUFJaWJWYzU5SHN6RjUxa01jTjRzekhwTGtHYlNXZkl3N2tvYTUzeWEyeEtQNEhIMkp4d3ZxWVM2Ykl4blEzMlcyOHJ1TmNLQk1KNGJtZV9QWm1SWVdZa2h3bm54TUVLaGJtS1pIWERMZw?oc=5",
@@ -79,15 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbm02SnVIdEVSY2pKNXRpSFZCc2pjYTNIT3ZDc1NpT3V5VzNnWWI5WFpGZ3ctS2RsamFUWUZVbDJTeG9kWkdNbndrNFN2VnVPcVZUY2JVaVJ2aWFIeElCYmpvQmlBMW9qQlFldTZZd2pqcDZJNThTS2dTNFBScXltOFg5SWlvVmpFY1lDRHlsRnhZdw?oc=5",
       "pubDate": "Sat, 16 May 2026 04:11:33 GMT",
       "description": "DeSantis and Ladapo tout ‘freedom’ as measles rages Florida Phoenix",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "DeSantis and Ladapo tout ‘freedom’ as measles rages - News From The States",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0hjTEs3S0F2SHpnNzh1d1ViSkV0SGtleFVCVlEzQkpLMVpqelNuTmEtSE1qZnYwdUo3RDMwcmluMW93Zm1xdVBmYnFndG85Ujczb21WNEdhSHJrQ09NTEx0ZnhKb01pMkNKSl9FWW5HSm8yUGNwSEdMQ2kzeUwxU2UwR29JcGtsRlY0djRnYnJFUQ?oc=5",
-      "pubDate": "Sat, 16 May 2026 04:05:24 GMT",
-      "description": "DeSantis and Ladapo tout ‘freedom’ as measles rages News From The States",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -174,6 +174,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles detected in Jackson County sewage samples after routine testing - Rogue Valley Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSWhKTHQyc1gyS1RqemhEWXpLUkYzRURHTHBqZ3BWVkFRdnhrNkFsQUxja3VSNEtKcmU4dlFwUFY1SExJZW1GRDY1OElWdzl4OXNGZW1adm9kX2hVYW5aZDJ2cXJoWXpjbWdLYmUtenJuZEJKczhlaDJCakhNQkF1eG9yNnBYN3hiX3haVnhjVl8tVVVMZngyNHByMENQeW0xUnVIX2IwQQ?oc=5",
+      "pubDate": "Fri, 15 May 2026 21:43:46 GMT",
+      "description": "Measles detected in Jackson County sewage samples after routine testing Rogue Valley Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Another measles case confirmed in Ottawa County, all in same household as initial patient - FOX 17 West Michigan News",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNU2ZRMmY3bGpkYmMtOEJ5ZjBlcmFuOF93djQyaExJNzFocHFvQVQ3ekFFdEdhbDNvZ3EtRXB1RzUyTDlDcVBFYjRKd1lVTGNNUnhZY2JzWkhWVk1GaE9VQUNoYlBjRFcyUG52YnRTa0wxLXJHRWdSc0o1bzZfSDFTZG5FRERPQU4yUE1TNHF3NVg0WUNLWWRCWGE4STFIVVRWVWlrWWxha3g1YkJCMHp4ajMya3hwVWtBRWhFdEhLTzM1NXFwcVA0dG9GWktJV2tVQTgyaUYtcVpaN0dGcEpPYXdrbw?oc=5",
       "pubDate": "Fri, 15 May 2026 20:21:10 GMT",
@@ -192,15 +201,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Oregon health officials warn of measles exposure at Happy Valley clinic - KPIC",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYXYyX0xxa0ozSHM0NThHUEFxdkVsVldrNG9ZZjlWekx6VXFhUWMyeFhfSXlobF9Ua1Foa2RCYkQzNGFia3VmTVNGa3hmRXJMXy1WTnVPV2pISnhIdGxoOFRoVUVEdWQwWkZmNTk1MDRPQXF6THl4eTg2eEtXU09hUFg2LW9JWDFublhiOVV4MWpHRzQ0a3dRUi1zRjN6QVRsaVRZUmsybTZla19oSGVZSS1Nd0hBcG84bXJvYWZvMF9lektqTVBxRjV2QTcxTTRBVnM4NEVJdkktekhmcUg1b1JYWHNCRWVlR2gzaDMtSi1yN19Vb3FWd3pWcUptQVU?oc=5",
-      "pubDate": "Fri, 15 May 2026 20:20:26 GMT",
-      "description": "Oregon health officials warn of measles exposure at Happy Valley clinic KPIC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Cass County records first measles case of 2026; vaccinations encouraged - InForum",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQekdyR2IyYVE5dXJ2ZVk1cHh0dmpKcGpCdHJ4R1NWQ2hXN1NwblE2dWlEZXhncG5sZWlvVC0zSDdfUXA0YXdxcERnLWwtSU80UFpidjRNQ051ZXdLbm1UbDVSa3M5d0stWklVMm5lWEF2Q2tZc082b2JoMmZkdFkySWs4WWwwaUZDN2JhTk84cGE0M0R2T3VKUGR3aTZHZVFwOTU5YTJQOGg?oc=5",
       "pubDate": "Fri, 15 May 2026 20:06:00 GMT",
@@ -211,8 +211,8 @@
     },
     {
       "title": "Oregon health officials warn of measles exposure at Happy Valley clinic - KATU",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQcW1mVVh3MnI0Z1JTV29neVFJM3o5VkktQkFpbWwxc3B1M216UDZHWlk4T3E4THpvMEZKeGtldEVBck5sTm4xNkdsQmNoQzVmeXR6bU5QMFExWmQtcFA2VlJ6U3ZRandBNWRObnp5dlBIeXFUNWt2RG1ObUxocUVfTUZpWEdjTXBJRndMbmJnYzdvcjdaX3h3ak5VbUZVWmZ1NXYwMVUxSVo4cEFoanZJS1JkSWY3X0tZVS1sNHdzdm5Xc3l0VmRhaUNnbWp6MFNkRThsdHl2dkZvUXJMU09aMWtmZllselp3YmZKYXRTRzNabUthaTdBc2hiMWVyekhuZndsblhMenRadw?oc=5",
-      "pubDate": "Fri, 15 May 2026 19:56:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObkJVblZtd0I2czlTNHR6Qm5wbTQxUkdFMlZPOUpITUpTbmxVUDNuS1lPWHZZb2pzOVV4VFRsaTU1d1BRbUtjN0xkSWRWM3Z1NzMwN0FBcl9RNFIzUzJfVjhkaXBRZUdCUWd3THBSZ1hvdXNlNW50QmlqVHpyMHIyN29iLUxmUzBsTE5DdkFpTXZaSnpzSDVTc1pKZ3JkTkVDc2dPUWtvSGhDaHlUMFEyeEdWaG1jd0lUNW5CS2JkWTdVUy1vQ0UzYndVM3RQVEVSTHdxMDRqNXpCR3dIMlJISHF1bTZIT2dzZHdoNVppeWJZOUFPWnlfVnB0LWdqNWc?oc=5",
+      "pubDate": "Fri, 15 May 2026 19:56:50 GMT",
       "description": "Oregon health officials warn of measles exposure at Happy Valley clinic KATU",
       "source": "news.google.com",
       "sourceType": "news",
@@ -381,19 +381,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "12 cases of measles confirmed in Buckingham County, health officials say - Cardinal News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2Y5OVRha2lXSTJ2VTNiLUVQbTBaVmJXVzFuZEpjdkF3TUJpWnd6VVFaSjhTZDdFR2VuZXNDSTdhVVVzY0FDcTFPV2hfeHN4TkVBeXdWLWVkUFk4bjkybW05WVNxdmxPcnBxX1dTbHVHdU1jWmQxd1NlM2xQTThhTGdYU1Z0VjJjSVp0U21DcFVTX01nWGx2anZrU19JUXNhb2FkYi1RcEpmMHJp?oc=5",
-      "pubDate": "Fri, 15 May 2026 08:10:00 GMT",
-      "description": "12 cases of measles confirmed in Buckingham County, health officials say Cardinal News",
+      "title": "What doctors want patients to know about measles - American Medical Association",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlZtdXlla0h2OVZ2MVRINE4zeDU4T3FqaWdtdjhObjVwQ1l6M19UcHoyZGRlWWwwS3lZQ0luSnpmMlY0M0xXOUpsOVFteW4xRXBjMV9aaEZKY0x3WWxOYjcyYS1hVHlFTU5WUTZOVXJWak5VdGstZG5uMzBpaFN2a09ESDlkdUhGWngyTWJ3SW1ubnEtZkI3ZkZRemRVOGFfSFZWa2d3OA?oc=5",
+      "pubDate": "Fri, 15 May 2026 09:15:14 GMT",
+      "description": "What doctors want patients to know about measles American Medical Association",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak declared in Virginia's Buckingham County: 'Likely more measles cases' - WTVR.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1A0b3ZDb2M1bm5sMjlxdUMtSnRvazg0RmQyWWVzdXNqRGhMTkdtbk4zUTE4TGlob3BuMEd2b3lfOWdiMWZJNkZBN294ZTlNOFZQWEVVRTl0R3VGWmxXZThUMXEtVjVRWVdCS0t0aXFLZmpRLVRqLXZQYTR0SjFMbUpZdEo2YlpzSExLT3lrTjVjclNSa0g0?oc=5",
-      "pubDate": "Fri, 15 May 2026 00:11:15 GMT",
-      "description": "Measles outbreak declared in Virginia's Buckingham County: 'Likely more measles cases' WTVR.com",
+      "title": "12 cases of measles confirmed in Buckingham County, health officials say - Cardinal News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2Y5OVRha2lXSTJ2VTNiLUVQbTBaVmJXVzFuZEpjdkF3TUJpWnd6VVFaSjhTZDdFR2VuZXNDSTdhVVVzY0FDcTFPV2hfeHN4TkVBeXdWLWVkUFk4bjkybW05WVNxdmxPcnBxX1dTbHVHdU1jWmQxd1NlM2xQTThhTGdYU1Z0VjJjSVp0U21DcFVTX01nWGx2anZrU19JUXNhb2FkYi1RcEpmMHJp?oc=5",
+      "pubDate": "Fri, 15 May 2026 08:10:00 GMT",
+      "description": "12 cases of measles confirmed in Buckingham County, health officials say Cardinal News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -498,28 +498,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak declared in Buckingham County - WVIR",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVJyRk1oTHFpaHozbnV0eFpESENWdVhlZWNnUjEwRXdPc01fdFByMWhMb3JOYmhSeDlQQmxfUlhGZzRCNGRLZkJJMk1TbEtrZkZ3YlVSUDhuVGJKVExvbi1HRDNEb21tU2FDel9rbC1OVWM3R2dmQ2JpaEVwaWI3S1NQbjHSAZgBQVVfeXFMTlFkZUZIWUJTYllQM2dFOENZLW9HUXZfbUNrVEpzQWlXVDlvU1VpS1MydWxvQzVNZFAxaTNJdE5HWDV6REJXeHUyU2NwT2wyaXVYeDJXY214VEoyTlZPYXJfTnN1a2ptYzJZUmw5ZDg1dVNia0hmOVpSNEZDZ2d4ZzR6eTczclU1VWRKdmJQLXd4MmYxcnNlWkE?oc=5",
-      "pubDate": "Thu, 14 May 2026 14:29:00 GMT",
-      "description": "Measles outbreak declared in Buckingham County WVIR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles outbreak declared in Buckingham County - cbs19news.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN2UweGdXSnNrbUdEVE9xdU51SnBZZWdiOG9sRmd5aTRWaXJrN0hlQXdweUJ5Q2p1Z0cwbG5OUE5DbmMzWUVESFkzamhleGhyQzNvUnQwMmZIdmpnWl9mZk5mbXRMRzNYS00yejFHMmlDaGNxS1EzTjlYUFpERUV1aVVJNnVPaVgxZFpTMk5YVl8wRWxrNHRydGFibEhSeVN4c3pPWkpCMldBZ3Z6M1ZONGxnY0gyeTN4NkxwX3RJVDRhQnFsakE?oc=5",
       "pubDate": "Thu, 14 May 2026 14:23:00 GMT",
       "description": "Measles outbreak declared in Buckingham County cbs19news.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Why measles is spreading again and who faces the highest risk - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yUUQ5SEt5Z2FFd3ZmUVB1S3lfaHFLa3NWTk9FUkt3YjU1LUhTdmFNN051X0VqejBkZFBFeExXUW1ZYzBzenBjcTlnVmFOZUNsenduS054ZG5wcHNwbzZBeHRuNTNvOGRxTFZN?oc=5",
-      "pubDate": "Thu, 14 May 2026 13:22:30 GMT",
-      "description": "Why measles is spreading again and who faces the highest risk Medical Xpress",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -583,6 +565,15 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbUpOeEVPVFdBaERXLW44X3ZGT21BNU5tWTZxSUtkanh5ZU9FVW00VkJ0aVRCTmlDMUotM19BTlBMZWlyZ3pFT0pSNWN6S1lvUmthUU5PdUEyQWdOYjUyYlFrTFVhVm9NQ0RWc2NpaGtmMlhZXzFQdF9fSXcxX3Mwb3dJSDVUQk1fLXdoZUxsVGlnbXRHQjlXQ1MySWp2aUwzSkxuRW9iSzJlZlk?oc=5",
       "pubDate": "Tue, 12 May 2026 22:16:00 GMT",
       "description": "Osage County confirms measles case; exposure reported at a Topeka church WIBW",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "An urgent need to vaccinate: Bolivia’s response to the ongoing measles outbreak in isolated communities - Pan American Health Organization (PAHO)",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjljRmFrXzdiODk3YzRnSFAycERRNWF0blJvQjQ4Z01jZ3BxYWgzY1hwOUhEWGkzaDF3TnhMWklfUTFOV01FNTBESklZYkNNWnE4RVJFMEItdXIybnk2NG4wS0VsbFlnRjFIcVBEWEF3YjcwVDJEOWpZeG9waWZOZEtEcGxsR3gxckg4ZXRJOG43UTFOUUcyWTF3anlWZnUwdDhFbFloc2lfem1xbW5XQjNPaTllcGZ3?oc=5",
+      "pubDate": "Mon, 11 May 2026 18:29:20 GMT",
+      "description": "An urgent need to vaccinate: Bolivia’s response to the ongoing measles outbreak in isolated communities Pan American Health Organization (PAHO)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
