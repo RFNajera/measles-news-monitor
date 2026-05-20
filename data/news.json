@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-05-20T19:53:39.598Z",
-  "itemCount": 62,
+  "updatedAt": "2026-05-20T20:53:33.240Z",
+  "itemCount": 63,
   "items": [
+    {
+      "title": "Pennsylvania Department of Health confirms 3 new measles cases in the Susquehanna Valley - WGAL",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnc5andSSWM2dVNXWnRoVTE4ekFkNWxvVXktNmcwZjJXMnRzcGtoOU93RU1ibWV0OURRYXIydHNhWVFqRzBfV0hmWHRMQ0E5Y0hoNkZWN3hRaFVvekpDSm9UX0otRDRIN2VreFd5TnFNeEF4WnhXcUlmM055VGlOWW4wc1RTTjBL?oc=5",
+      "pubDate": "Wed, 20 May 2026 20:41:00 GMT",
+      "description": "Pennsylvania Department of Health confirms 3 new measles cases in the Susquehanna Valley WGAL",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "No Infants Developed Measles After Utah Prophylaxis Regimen - MedPage Today",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pZkFHbERiWkdPRHl0Z2lDTXdhWmJzQXltMHFralVPZmxwWHk0VjJfZngzVHdIN1FJc3ktWm9rVEhNUHBSd3BsT3lDVzdaNGlUbHd6cmNtQmtnNE9Rak1yaFM2UUVDRlJPWVl2aXJ3dFkzZw?oc=5",
+      "pubDate": "Wed, 20 May 2026 20:38:40 GMT",
+      "description": "No Infants Developed Measles After Utah Prophylaxis Regimen MedPage Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles outbreak: Unicef warnings fell on deaf ears - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWJldkdrRDZ5QmNfVHRqWE0wYnlOdWxXNEl5eVFucXNnUUZ3MWNLTWV6bTUxZXlpSFVMOThuaXVWeFRpSi1LVFJuZmtHRzFGVU5NQ0Q5NVRRZmN4Y0tuOHBYMVhQT2RCekt5c2lvSUlqbEREQl9zRGxsV0p4THA1VDJtNEEyMU9YeXpMcExRSXZ5U2w3cE5pZ1ZRY3BGUEx1bU5pcTF3b1k?oc=5",
+      "pubDate": "Wed, 20 May 2026 20:33:22 GMT",
+      "description": "Measles outbreak: Unicef warnings fell on deaf ears The Daily Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "3 metro Atlanta family members test positive for measles, DPH says - WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVUt0Y2RhMzROeUNmek9LWkxLT2xfSXk2dDZfbllZQTg1ZEJRMEJ1RVY4Qk96dG9PazBqT3hVWnN3ay04UzU0R0t5dnoySEJueDdRYU9aOXhRQmJUWXpieDBJazBjYllRSlFDRXpCWV80ZHZkLUpHYThKMHVTemdkSlpVZFNZNjA0bEtkem8xbWVFRWdmVkdiM2tEeF9HRWNBY3RJNnZfT0MxekxZazJQdjZNYTZPQWtkRnNSRExHRXllRDFzWWZUcklHLW5tMzk5NUhKZmR3?oc=5",
+      "pubDate": "Wed, 20 May 2026 20:29:56 GMT",
+      "description": "3 metro Atlanta family members test positive for measles, DPH says WSB-TV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "What the 2026 World Cup Means for Measles Risk in Vancouver - zoomer.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUFJ4ZVYwT3FvUGlhV2hLa1lFbjY4QlFSN1JnYnJud0hlTXhHV2REclNwcmFCNXU3TU5yY3l5YURqdHMxTTlTeTJCb3VzcFlYTXVsRDFTRFU1WVhvbWNaQjA4Mmg2OTBpSDlvbEZ0UmZUdmNqc2FuSU5LNlJ0S3NZc2hSNENxVXlRM0IzMEN1dG4yM1J3LURvbmMzTFBadw?oc=5",
+      "pubDate": "Wed, 20 May 2026 20:23:31 GMT",
+      "description": "What the 2026 World Cup Means for Measles Risk in Vancouver zoomer.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Utah measles cases hit 474 this year, up 30 in 3 weeks - Gephardt Daily",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEJTRzhNSjBSQWI4NmFrSmY4bWI4dUhfdGhBQjRRSllfb1BSOEZaVi1FaWM0V3JiUzVEU3hUSFRkLVo3cWZRdzZzSjc5LTIzNGRtTk1SYmpHX3gzcFlncjUxajJHa3JDSEVsM1JQbW9GR1QwTEdJWXpyNjNEeGEyVnpTUC1WU3FfTDBBdFJSTQ?oc=5",
+      "pubDate": "Wed, 20 May 2026 19:56:48 GMT",
+      "description": "Utah measles cases hit 474 this year, up 30 in 3 weeks Gephardt Daily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Another measles case confirmed in Lancaster County; Dauphin County sees first case of 2026 - LancasterOnline",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTjFKOERSZTlxakk2b19KLWxyZ1JLMk9KSEF4aHV5TDR0YXBBN0FvUVBkN1d0UlpPQVdJc0ZFT19kNkJydXFiNU93QWFidHZudm96ZVBQTHJuZWRSckYwa2FSdHNnRUxRcE9JbXc0MXdiZVVHdWh1bjNpUHBsTks4cWxUSTN4WFNkR3M1OFZXMWpKNC05U3REUU1YQXJ0QUxac3Q5Q0llZkwyck5vR083VkZJVTY2NEtybjRfWFBvZkNnbWdMWXBNUnlrTU9rRThLSUVRMkl2cTNjUWRBSE1mTy1WNm9tWElLZEU5d2h0X1RYb0ttOF80RmRJX3doMEg1Tms2U3p3c3ZFVDQ?oc=5",
@@ -16,6 +70,15 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZmoySHdNUHJ3elJQWkxXV1FoRU44a25pNDYxdW13WXVjUHZ5dEpvTjdFME5lS3JPeXR2N01Kczl3bEZ4WFdaZlBHSFpnazN4SjdCTVBYODhYcDMyNXZvUTZva2hhYXhob0NzQnBMbjF6cFctQnF1SkhMVF8ydzVxLWpUQVFFcV9vSDdFYWJSbVpwVE9PYUE?oc=5",
       "pubDate": "Wed, 20 May 2026 18:52:18 GMT",
       "description": "Two measles cases reported in Wasatch County schools Park Record",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Unicef warned Bangladesh over measles vaccine shortage - The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeUg5RGE0ZTQ3THg2LVhESEduYlR0ZEltOXU4QUJoY3FqaGY5MHdZY3JpOGZMOFVnS2t3c21yVzE3R0p4SkIwSDZhUEpIY2JHaENPRE1UeVA5S0RYS3pLUUF1NFItenJJX01WZ0dRaWl0Vnl5XzJ4MzlkTjJFYXlWNTdXVzRITmlIanc?oc=5",
+      "pubDate": "Wed, 20 May 2026 18:07:00 GMT",
+      "description": "Unicef warned Bangladesh over measles vaccine shortage The Indian Awaaz",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -66,6 +129,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Prof Sayedur responds to Unicef’s measles vaccine shortage claim - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUhMcGdFN1piQTRtWFJUSktBaWROVXFTbjFjUVRnaVRFQTRmcVVDZ0RvNHczUWNHeU9CSmxOX1ZvcTVOcjRmMThFVTZCQlFnN3lKVjVieFZwMGR4MzZfN2k1Wk13U2l6NmRiVXI4NWktS1FOekpuNUkzcUpySWxnT19zUkEzcjdOLVlGNkNKQ0NSR2NWb3AtQzBCOUZlV08tRlN6UFJvTndCMlpkaEg4WE14VWJxS0lB?oc=5",
+      "pubDate": "Wed, 20 May 2026 15:50:28 GMT",
+      "description": "Prof Sayedur responds to Unicef’s measles vaccine shortage claim The Daily Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Scientific advances show measles outbreaks may be wider than first thought. - WKYC",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPenJMdDN2akdiOGVERUtUZmd0NUlTQlVFQlNaUFNCamc1RmpLbG1VWGZvaEFfR0dod1lXajRnNWxkMTB6UVFITE5pbzFtNW16R2U0ZEw5b1c4NFNKcm1CXzFrbEt4WGpwY21UYjFwYjNYWlRNUWxTZnVEdUd4TERoRmFiMWdzem9lWUxvTjBLcktaa0F0a3JyT3k5eGpkTENRZklIQi1vSUp4cTFBUjFiZHI4emtMbmdxLUZKSldHLUhiYW1qOUhYV01uanpxeVhvRmc2Q25BRmM4QlUwbkVDZzNWd2NvdWt3?oc=5",
       "pubDate": "Wed, 20 May 2026 15:36:00 GMT",
@@ -79,15 +151,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaUJlcVBOSjdIc1pMYU1ZZ01kbEFSRHJTUVQ2R1BJYjFOTkVZUDVJZVJRMEZWYlJXQ01rb1NtdE5zS0NPT09KZUVrcFlETTl0aTRKV19vX1lxV1hVMGJVMnkxZVROMk1wZF9NS3FvM19xODN3d2R4UTlkYWRIU2NUeEtvelN6a2kwZmdTM2pHZ0LSAZYBQVVfeXFMTzZtV1d0UTRaY0p1OTdSLURWWjFONjNRNWJwVmV5bXhIS1RPQnhXelVrTjBNSFc3TWp2YlU3UlZ6aXZxbDZyR0NUZjc5c0NHRjBnLWpsNW01NXpQeE92ZEhHaVo3Q1JoT05yZ0w3d092bE05djRNU1plQnp1bmpJclh4cWRmRGJoSjBQWl9YdlFZYlp2QTF3?oc=5",
       "pubDate": "Wed, 20 May 2026 15:28:00 GMT",
       "description": "Why a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Unicef warned Bangladesh over measles vaccine shortage - The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeUg5RGE0ZTQ3THg2LVhESEduYlR0ZEltOXU4QUJoY3FqaGY5MHdZY3JpOGZMOFVnS2t3c21yVzE3R0p4SkIwSDZhUEpIY2JHaENPRE1UeVA5S0RYS3pLUUF1NFItenJJX01WZ0dRaWl0Vnl5XzJ4MzlkTjJFYXlWNTdXVzRITmlIanc?oc=5",
-      "pubDate": "Wed, 20 May 2026 14:12:00 GMT",
-      "description": "Unicef warned Bangladesh over measles vaccine shortage The Indian Awaaz",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -165,15 +228,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "The measles outbreak highlights why Vitamin A is essential - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVlqOFZzMUc1SGUtMklFVDJ4eWxoWDJveDZLMm5jbTFYMFRWMlZ5MGxZUEdPM29vUFZaRktJVl85NXpDeklQaUN5TV9lNGNNRE9ETUhQbGxQM3BiN2ExaHNGU2JrNGdnQ1p1SGhjd0xMcURFdDhaN05BV2cybkRuNTZOTWFGdXlIdTVfcjloMFgzUnJIUVVvY3hGVzlRemtpWGR4RVZJU1YxZm94aGc?oc=5",
-      "pubDate": "Wed, 20 May 2026 03:04:58 GMT",
-      "description": "The measles outbreak highlights why Vitamin A is essential The Daily Star",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Dayspring Christian Academy in Lancaster County notifies families of a potential measles exposure - WGAL",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOGsxTnFFQUdOeTRGWGpFZUhEcjY0NU5fTW9JeUpTYWlqdUZsdzBoVjdRMnd4RTRVbWdXWkQzcWtKcm9aQTNwYmpaNWNYN0pOd2o1LWcyZUFVQ3ZnbUM2QTZ4N0R6NElXZ3RSZUpMcnBRZGwzdDh0dDFnUHR3RkhSWHNqZnM1WVdRMlFNcHBvNnBGaVJZdmI5QmVIbzVmV2RPcXNwUnBBRnVPQQ?oc=5",
       "pubDate": "Tue, 19 May 2026 21:42:00 GMT",
@@ -219,15 +273,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "3 metro Atlanta family members test positive for measles, DPH says - WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX1Yxa2FCR2k2dC0ybENLUVNjNzFDb1dVZkRCTzBPc2pnbG9RUGVaeHZLNkJxQlBrTll2R0U3NjdZYXlkeXVLamFSTEhRZkdDVnNRRnpMc3Rsd0tFXzFLS09NeDB4bTU5dy13MGI5NWFEaXZ1UVRSQnFON1B6ODJKd2cwOThCbGFITGoyMGQ5eW5lbDVGZlZMUWdJVXJoMmJCc1BsU2d3eU1qTGV2bld6S1J6VjgtcGhkZmE4MmpNR1U1RHJCQk5DeXZR0gHeAUFVX3lxTFAya2lmQm9ONWpFV0ROQzNJNDRvTmVlcGlITFY1djNDUFppc3lCSEtRajBvc0VkNDdkY3hCSkNJSmxicE9KZnd6Y0RoWUp5ZWtFcUJsMFJDeGpPWnFXX3dlMWx4U1Q5U1BHS2tqemRzZFNHVXRoWlFSbUFCZUpsNkhOOGhDYi1INUNCM0lTTWJqXzNOeFRUUXN6UkpZMF90dzh3MllHdWZibFkxUGktekVFMENvWV80MHh1MG0tRy01blFxdXRLS2dFeWRDRTJSSUpqNDBIOVlmYi1xS1lnUQ?oc=5",
-      "pubDate": "Tue, 19 May 2026 21:10:49 GMT",
-      "description": "3 metro Atlanta family members test positive for measles, DPH says WSB-TV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Georgia tracking new measles cases after family travels internationally - WJCL",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZFpSa0U0ekdfRTZkQnByWUtFWVU5c2FGR1haYVE3LWRlUHA4dmp5MDdEWTNscXd6SW9aNm41cFI2bjVWQTVJZDkyM094RXpSeE1wd1hORkRPOGhWbW1JOHp5Y2ozbnJ2cV9yVjA1NWtQRzJPcVU2X3ZVMG1lcjBhdFlXQzRGMlhD?oc=5",
       "pubDate": "Tue, 19 May 2026 21:07:00 GMT",
@@ -268,15 +313,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWl9DLUNfMV94YmF6VXlsT3VQZ3h3X0dDaThjQjNuZWpZZmZpdUlwMmd0MFlhNXo2bVFLa0lfVGtGVWxmUDd0dVgyVDhfT3B5SDlmM0YxUWVUV0dyUTlKTUI3Yk1abVJzT1J3MzJsOFVxTkJ4UlEzWG5vUXZWcXowdEZ1cXByM3dOZ0t2aEFoMDg?oc=5",
       "pubDate": "Tue, 19 May 2026 20:39:00 GMT",
       "description": "Three new measles cases confirmed in metro Atlanta family WALB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "3 new measles cases reported in Georgia - 11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbXFISWJQRmJJNDloUEdzSVJYUkRleWsxVnFHaUxfQlVhQTJJQWJXNjJjOUxvY0pWUnNvdEh5UEY3cjFUdHdrVHYxOWR4LUxkOV92TGlGRzJSQ3psOU5yc2x4cnlGTTVuWl9qUkNQNFFIRlZqNXdaZFdCUy1zWElYTkFueVdYRU1xSHRCRGtsUlVMSEtPWE9ZQlhibVpxT29VdFpmSGNuTHlTNWQ3dGJnc3FjUERiWUVsX0RmV0l3?oc=5",
-      "pubDate": "Tue, 19 May 2026 20:37:00 GMT",
-      "description": "3 new measles cases reported in Georgia 11Alive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -349,6 +385,15 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdXk1S1pHcWdBWlQ2SURlODBTV0hYVDBINEJyb3hqZVpGQVgwTTVmak1ZMjh0QlZ4SWowWklsN21SY3UzR09md2N4SWNFWXIzMlhrWmVFVXZVZXhHVWxYMTBldEFKNXRTVTFRaFB3RWRqNmtIRThjQ1ZYVGEzWFF2M29fcm1IVkZicXlmNFl0RTE5RGN4YkRlQWxwbHh1RUc2bjBB?oc=5",
       "pubDate": "Mon, 18 May 2026 16:57:10 GMT",
       "description": "Fifth measles case LAist",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Utah hits 663 measles cases, though outbreak appears to be tapering - TownLift, Park City News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOVo0UHc1UWNjSEtobHBnUUZkUVBQWmtKaTl2WERxa09yMjR4b01rNnhVVXpkQkJMRHdUV3Bjbi1CMW5MN19GREhZVG8xRlRnZTFUUkhTX0VmUXQ4akthVEhaMXNtZGFOdlFnQXhtNEtfeUtFNV9JQWREOTdNaXVGZDFnMmlWaHFoNlZDTkJYOFFLNG1KTFJKVUJxREs?oc=5",
+      "pubDate": "Mon, 18 May 2026 15:45:45 GMT",
+      "description": "Utah hits 663 measles cases, though outbreak appears to be tapering TownLift, Park City News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -462,19 +507,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles exposure reported at Happy Valley urgent care center - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS3k0R08yZTZ4aGVTNEJwcTREanFxS0YtV0dOc192c0Y4U3prOFY0YXIzSFhkcVU4MnNPTUZUd0kycmRwYUtkS0VhLUEyVmlqeWJXU3VuSFkteFE5d1ZHTTFzSWRtZ0xEYl8zdmpKejVVN3RpVGx0YVJPTUxXU19tUHVsS3hsYjRqYTJwcG5ONVkxSTUwUm1vRDZqakc4S0I2OXpZQ3BJaUsyeFHSAb8BQVVfeXFMTk1seU9SMGJON3pmMl8zNkZKVTVHTzJNdHAxbUdIa0RlcUQtclkwZjU1YWZEX1ZPM3ZzUTFXdHhDRUplUlhlalQ3RzcteUkwR1pqSmF4U2RNRUE1Vl93ZFpwQ0dTSWVMc2R5MWhnci1NMHQ3NmROTzN0V0YtT1Jsczdaek5QczdFT2dqVXU5SmhEWURtNnYwUGg2eHBaOFFaSXM1eW80bmRFcDc3MTZJVGpIMGRfUU0xSHJXazFJNUU?oc=5",
-      "pubDate": "Fri, 15 May 2026 22:54:00 GMT",
-      "description": "Measles exposure reported at Happy Valley urgent care center OregonLive.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Happy Valley clinic identified as new measles exposure site - KPTV",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjNGcDhTRi1QY1NjckYyNzR3S21rU25GbGg3SlZEOElTVFJZVkJub283bDNtZjFJMS1lemhTVWN1bDFESE9pNWlrTTFtemZZcjlGWkdEVVgwUVlCbUlubXFPSGpmSi12V1pnWDBrdWpPcXlBTWlOUGE0YVp5VXA0d0l6VERsdkFnamU5OW1mNEZUZ0HSAacBQVVfeXFMTlN5Ny1EMkZlX0pxN2swZTluYVZieUlodVVLMkYzQ3ljaFlpRlB1T1NwOFdOQTNWclpGcF9hOVo4U1h5T3NRZzJaUXNQM2pCNHVISUdzeTNLSnpGcWNtV1ltZF91bkgxa1M1SmpYbURuN2J0cnN4U1FoMzdpTlBMN3dfMDNQNGFnN1dOOUxubmJ5QzBnU2NlNFZZTm83RGVoekUwSHo4d00?oc=5",
-      "pubDate": "Fri, 15 May 2026 19:43:00 GMT",
-      "description": "Happy Valley clinic identified as new measles exposure site KPTV",
+      "title": "One case of measles reported in Cass County - hhs.nd.gov",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Jd1YyNnU3R3ZHeEcxQzRfZ1RnczFZQTJFbmt5cnlpZXZiWnlpdkJrUGd3dTNpeEY3QlhJY0RFcnI5R05fS1pYVU5Ib0w4MGF2ZzltaUdYalVOYk1ZOUF2QjNsN1VtOS00N3FKZWRwTFJFUDQ?oc=5",
+      "pubDate": "Fri, 15 May 2026 22:00:00 GMT",
+      "description": "One case of measles reported in Cass County hhs.nd.gov",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -498,37 +534,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "What doctors want patients to know about measles - American Medical Association",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlZtdXlla0h2OVZ2MVRINE4zeDU4T3FqaWdtdjhObjVwQ1l6M19UcHoyZGRlWWwwS3lZQ0luSnpmMlY0M0xXOUpsOVFteW4xRXBjMV9aaEZKY0x3WWxOYjcyYS1hVHlFTU5WUTZOVXJWak5VdGstZG5uMzBpaFN2a09ESDlkdUhGWngyTWJ3SW1ubnEtZkI3ZkZRemRVOGFfSFZWa2d3OA?oc=5",
-      "pubDate": "Fri, 15 May 2026 09:15:14 GMT",
-      "description": "What doctors want patients to know about measles American Medical Association",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
       "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
       "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Global Measles Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2cyVktrSnlXRmg4VTg0bUJ1azB0RENCSFIxTXd4cmU4alMwdmVxcW00VWtrRmNRbUN1bDlXV1JORkRXbFJpcXZ1U3ByaUhhM2hWczQ1S1l0dVVrNmlUMFl4ZlMzQ21CTEMzMXBaTXZGTTFDVnV3YVNIMWRjTWtRYTVnTmZ2TWhnZnJxMHZLemtQZm05UnlBZWFTdTY?oc=5",
-      "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-      "description": "Global Measles Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "measles - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MTWF1WnlQZ3pzaVBoUkRqb2VJZnNuT0xKcGdSRExEMzRFSWNHa3RlRG9nNGlYTkhvQnNXS1NldUNtdmppa0VaZHZLbFZPUVJPUTIyTw?oc=5",
-      "pubDate": "Fri, 15 May 2026 05:00:00 GMT",
-      "description": "measles Britannica",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
