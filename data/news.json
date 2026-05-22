@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-05-22T19:45:19.945Z",
-  "itemCount": 60,
+  "updatedAt": "2026-05-22T20:43:57.025Z",
+  "itemCount": 58,
   "items": [
+    {
+      "title": "Florida reports 2 measles cases in Orange County: Symptoms, how it spreads - FOX 35 Orlando",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNallHUE9SaWhFb1Bkb3plT1lIalFuSmRHQ0RYaFgzX3ZfTmFCZTRpZTdWam5NTVhkN3dTRmZQQUZrWmhqLWRSWUdwWHZmYXEyS0VzNEVzS0gzZ2ZXWTVNUmFLNndDcV9sbmhLdVQxMDJQUmpja20yOWdOTVE0cTdyZmFoTW12YnY4TXhNRnpORWFGTXdmeWRCczdlMUU5akxQT1HSAacBQVVfeXFMT19vajdEYjY3ZWFqR2RPMTNfZy10eS15ZGRzRWs4ZWpoRVNCb0JfMWU2dHEwQkY5My01ZmN6a3dVMmFpMkdyRTFlRDRzeUpoNDVkbW1Ld2FHaUJFRExkcDRiMWxIazk0NkRxZElJeGl1WFdkZzZpVS12S1Q3eWpneHlINWhfYWdtSmxNaE1TRk01ZWZ4enJyVDg1dHpTLUNKRGlsUFk2M0E?oc=5",
+      "pubDate": "Fri, 22 May 2026 20:31:11 GMT",
+      "description": "Florida reports 2 measles cases in Orange County: Symptoms, how it spreads FOX 35 Orlando",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "CDC confirms 59 new measles cases, 1,952 total - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSEpyb2VuczZxNm1GVHhBVGxKLWRtSVhEeVg0VFBnbm5YOXJ4Vjlma1BYRVpURno2R05PczJVelhaZE5Tek9aQVhsY0plMndqaWQydHlVcVFrcHNfb2h6d3FfY1hTYmY2N3pzdFdid01zYjlmNllORG5fb0ZTS0hZOXVGdFdvdw?oc=5",
@@ -34,15 +43,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXy1tV3JHSGVScE5nX3BGTWNMUmZ4OExxMmJiUkNBNU1fQWJkOXI3Y1FxRWVaTDM1dFViQTJ0Um5fcm82U1FTdG1PZ0dobE9rZnVUWjk4QklrTGFWelVELXRmSU1obVpqUXBQQWdsVlRfV0xJU2x4ME1vUzB3U3BCR256Unl0cGRh?oc=5",
       "pubDate": "Fri, 22 May 2026 18:26:20 GMT",
       "description": "More cases reported in Central Pa. measles outbreak Inquirer.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Oral Drug Shows Promise Against Measles, Viruses - Mirage News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUUltVVczdXlvTmFHNmcyTUlzVHkyd2dlNVhaZXFCcGVWOE9zcmR2ektUZWw4bG5UR2J3SHlZX2EydDFkUEpBX184d3BVOTlDb0x4cnYzcWZvdzc0Q2tWdXdXSG8yWjZET2JxRUYtSzZEbUczZmFGcXBHOG1ZeUljTWx0RGNOWlNoTm9V?oc=5",
-      "pubDate": "Fri, 22 May 2026 18:04:00 GMT",
-      "description": "Oral Drug Shows Promise Against Measles, Viruses Mirage News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -93,6 +93,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Study: New Oral Drug Effective Against Orthoparamyxovirus Diseases, Including Measles - Georgia State University News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVhKUExRbjFmaFdMdmdieUtGQXRLcWotclJ1WjRnNnhjTks4LXRKcFM5UktKeG5USUhQM05vXzBmZmlGbHZkeW5MYmdYM1NFOUZPN0tzV2x2eTJzNEJQVlp6bGNucjlSMTlEcjZKRnQwZDNKWGo3Y0ZkMkM2TlBjNmtIdzl5bTJBV3I4VC1jM0RGRG5WN19aTy16RUtRLXVBWkxuLVRoZ3FvNzBJNTZEZjZmRDRsYkU?oc=5",
+      "pubDate": "Fri, 22 May 2026 14:25:51 GMT",
+      "description": "Study: New Oral Drug Effective Against Orthoparamyxovirus Diseases, Including Measles Georgia State University News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "The measles outbreak highlights why Vitamin A is essential - The Daily Star",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVlqOFZzMUc1SGUtMklFVDJ4eWxoWDJveDZLMm5jbTFYMFRWMlZ5MGxZUEdPM29vUFZaRktJVl85NXpDeklQaUN5TV9lNGNNRE9ETUhQbGxQM3BiN2ExaHNGU2JrNGdnQ1p1SGhjd0xMcURFdDhaN05BV2cybkRuNTZOTWFGdXlIdTVfcjloMFgzUnJIUVVvY3hGVzlRemtpWGR4RVZJU1YxZm94aGc?oc=5",
       "pubDate": "Fri, 22 May 2026 13:41:11 GMT",
@@ -115,6 +124,15 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3dmMnZBTG90Y1plMlNnamo4OFNYaUR6dTJ5RFNmS0R6TWxPRmdfRm0yLWJzaVF6RlMtY3Nzakl3T0tBNjVBT000RVN4aDRBM3pQMVJ3NF9MUXdZcUkwVGlYUkNoX3FsbWNqSkJYSnJCU0R4OFdtdUJxeXlMaHRyanVZTWJZZFJPeUpnSnpoSlVVcmR3emM1NnhnTjR4QWlyWklqbjhURTI2cWh1Y1g2NDV1VU5jc0wtQXc?oc=5",
       "pubDate": "Fri, 22 May 2026 12:25:34 GMT",
       "description": "Child deaths from measles, symptoms near 500 in Bangladesh as 11 more die Anadolu Ajansı",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles outbreak: Toll rises to 499 as 11 children die in 24 hours - Dhaka Tribune",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTV9mcDgwcncyMmNhb1RVWHJKaHNja1FxcVI5NjM0b21JQkdIWXB4RmczYTBBSzJ5bFJFeU1yM0Zpb3VyUnppZEtxMzRYb3BvYmNvQVVjN1RYaTdWR2dKVkN2QkZJY1pFWnZMdEpCU2ZrTWtUa2EyVURGb3IxRXdleU9HM3BINzBOczNnT1E2WXNRWnlmYlBoX3V2V0NlRm5kOGhTNzdR0gGrAUFVX3lxTFB4YUpfZ2cybmY0TjdTVVI0S0JHVE9mSVFqeTh4UHBHLXhEZTRWZWZLeUNYN1FQQ3RfVmlSa2tYMmlwLTY0QktMUEtyZ0w3RDhjWUtQWDFyU19FSC16ZG9SMFh4YmJ2a2M1dllJa1pYLWNvM2ZnOFczX1paVHhYRUs1UzQ3ZDVWYllIRjZaNjhpbkdRb2E4WldiYVN4NVhRNndmekJQc0htWTYtTQ?oc=5",
+      "pubDate": "Fri, 22 May 2026 11:25:55 GMT",
+      "description": "Measles outbreak: Toll rises to 499 as 11 children die in 24 hours Dhaka Tribune",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -160,15 +178,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTW0tb1MxNFlWREp1NF9sRExfTEF2cktRRmxkZ0NzVjRRTEtJbDdxcm5KcDltenJOUF9pVzA5RWQ2d1YyeFZPcVU1Z2lUb210ZEw0Q2M2T3lCN3J2ZzJEcEY1ZUE0YXVvdDVQcVlUMlQ1aHlDUDF6N2I4MFpWallRVzZCZnBWbzkxdXVKMXl5eWYwUjZ5WFHSAaoBQVVfeXFMT2o5YnZQX3Qtbm56eEZ5QUVaTENJeFBoNXdIakVMUGZDSXhuckRlYlg0bGVJNF9HNTFadVlwYTBkUkZQUGlMemdBRFZ3WHBncG9QdkhIM3pUaUttNjZ5bEhiT1I2NEhucXVPbEUtaDZJRFQ0QjVtNHY4VFJlQVlvMUpxSFFVUGlqd0lkVjcyTVp3eXpzRTU4eF94QmlBUDRhNUFrY2EyOTNOUHc?oc=5",
       "pubDate": "Fri, 22 May 2026 03:58:00 GMT",
       "description": "Virginia launches measles dashboard as outbreak grows WWBT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Colombia Remains on Alert Over Measles Following Six Confirmed Cases - ColombiaOne.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamJzejJXQTJLQWdja3BsLXJUNnNTRUhYUGRvTE1DUUtwS0htM1VYNGZYY0s5SkF4YzMwdUEwSHhrOVBwRU83aFZaZkRwZjRuZFFRVnBSbV9yTE1nV2pveXY1V0NYbHhCdWstWFFJWDhPc2pmYTVRRnR3UnZEU0RJQ1ZwblZLN2V2RkVyQXpmSGZNTHdpMHh5WGU5U0lhWnZPUUtXR2ctTQ?oc=5",
-      "pubDate": "Fri, 22 May 2026 03:16:00 GMT",
-      "description": "Colombia Remains on Alert Over Measles Following Six Confirmed Cases ColombiaOne.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -228,15 +237,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles may be spreading more widely than first thought, research shows - 13newsnow.com",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcVpfVkJmaUtjc3ZFX29WX25wQlJxVFllQlJhbkVXNHdXbkhLR1dWdzN3WTBWMkNENG1rS1pjdzNSNktXNUVOTnNpVkRGNDVjdTNLMkNYTE42ams1SWhUX2JWWXdpSnlpTTNiUU5sREJLVlY5ZHhWYkJDV1pMcF9XTjVWRk53WW5jRXVkcFdHOEVuSU43STJYMVVJVVlUeHNoTlFhLVYwWDFXTUNWdFpyTnBnNDdSUUtQbE9CQkxnRXV0aGk4ajMxRUt6UVhRei1lVm91d1dYazZnNjlLMWlJeld3WnpjZHVEMGFN?oc=5",
-      "pubDate": "Thu, 21 May 2026 20:48:00 GMT",
-      "description": "Measles may be spreading more widely than first thought, research shows 13newsnow.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "PAHO Regional Situation Report No.3: Measles in the Region of the Americas (21 May 2026) - ReliefWeb",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnN0akhSSjB4TkQwWDR6WV93UWhhdk9iUlZVVWc3WUp2TUU0RVdRZ2dEbU8ySkcyZTMwajNCY3V1WWdfeDBJWTg3QTJmaE5JeXhEV2ZSOFg3WVA1eWNXM2YzdGhmbGZPaW1uZ3ZSM1UwVXdvR2xUMHBETlZCLVdEdFN4R2F5WWlFYXFSMjViOXowcUVkX0FYOUdqQlpieXk3UXBKd0w5WjQ2dw?oc=5",
       "pubDate": "Thu, 21 May 2026 20:03:12 GMT",
@@ -273,10 +273,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases identified at Wasatch County schools; health official says exposures possible - KSL TV 5",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pVTNuUXQ4RW5jakxvRmUwcUl6Q1dodF80OUZhbERiZmQtNkgwUDJvTHFLcmlLdFYxb2ktTG1tc21UNE1vQ1V0WU1wSWZ0LUlfUXpLT254YUJURFhqbGpvM2p3ZE9SVVgzSVhCdjlYNU9WNjQ?oc=5",
-      "pubDate": "Thu, 21 May 2026 17:55:36 GMT",
-      "description": "Measles cases identified at Wasatch County schools; health official says exposures possible KSL TV 5",
+      "title": "Measles cases identified at Wasatch County schools; health official says exposures possible - KSL NewsRadio",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yc1NYVUZWMjJrRTlmakNNdWVZODIzZE1IRUdNakM0cXEzbnVhc2tTWG55MFNHcm5JdjF4aWczTlBPMTJBSmM4N2pjbE1OeExneE92anY2eWphMzlQcC16bXJQLU9ZeGtNUVpDRV9TdmNxeFl0Y1NJZGYzX0ZNdw?oc=5",
+      "pubDate": "Thu, 21 May 2026 17:59:37 GMT",
+      "description": "Measles cases identified at Wasatch County schools; health official says exposures possible KSL NewsRadio",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -498,24 +498,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Lancaster County sees 23 measles cases since January | Three diagnosed last week - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNDBTOTRCNjhLaFZCTkh0OTRBa013U0JlbHR6NDVqdGFkSERSTUFsbWJWb1dyMENueDNtdDIzNVpWTU1hZm5kRS1KLWNtcDZHbjlCZGF0aUpoaXo1UmpJaXhVZXMzVmhMNlBSdWktY2xRcFExNHpPdGhKdkJZdVdWUncxWTg4bmxNanc4TjgwdVNWVmZmY0I5WGExS1FnUzhrby11WkFjTXE?oc=5",
-      "pubDate": "Tue, 19 May 2026 20:30:00 GMT",
-      "description": "Lancaster County sees 23 measles cases since January | Three diagnosed last week WGAL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "3 new cases of measles reported in Georgia - WRDW",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QczRZbEdBc0o4X1lTR2x5UUY2aHg5cUlqUzMtYzJ0NUpwSHI0dWNnSjExeW1uSVhaYURNTG5uVGJzNkcyLWN2bl9qd3R2T05nOVE5YllCdUhjdkZ0SFI2WHZNMGZTR2xNaXRTTTRpeUxvVmhYaG45YdIBjAFBVV95cUxOLXRiaVYtQlR6RF9BVWQ5STV1T3ZQZW9FVGRBRWlzQ0V2TXFnOEFOeHF3LWRuM1JxTy1CQ2dhZjY1MXZ1SUJBWnoxUDNEWDdiZVNBQmFkc3JqNkt5dGNGaTZJYi1vd3EtNzM4b3NDYkdMd2JwNUp3a2Z5VGw5Q3NyUHFabkVrQU80ZUxLdA?oc=5",
-      "pubDate": "Tue, 19 May 2026 19:52:00 GMT",
-      "description": "3 new cases of measles reported in Georgia WRDW",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Exclusive: Largest U.S. measles outbreak in decades began with just four households - Healthbeat",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTlRoemh0cG8xQ281VHVIak5wVHAwdkNoRVBfanppLXktbDU5Y2w5eUZUZHZxRko1a2pmWlRFdmlDZW1EbmFwVUQ4ZVdwZTlpNm5EZktHOFEwdm9GNHlFbmV0TVBJcDJJRm1mTnJjc0lsTXk5N0M2akpaUFE0TW9xVjZqOGFzdnpocUE?oc=5",
       "pubDate": "Tue, 19 May 2026 09:00:00 GMT",
@@ -534,10 +516,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Los Angeles County reports 5th case of measles so far in 2026 - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1lfd2dQbklwMFYyWlJ0TUNQZzRvazRwQ2NhUm1JaV9xbEYtelZ1TWowZXlyWmxjbGYybnBkTUNFV08wRWlFWkJHLUlzX2hsY1dZcFZKR0t2Ykl6R0lTUWJyU3FjYWNwNXZZUXlNU0szUXh4SXVlRy1XbkF3RFdRM003UHZzb3FQMGFra9IBkgFBVV95cUxOWFR1Xzc3bXNxR0RBQVlfVGpUbjNUa2lhTjFVMTdmdmYxZzF6QkxlVldkOGptRUxQRzdQZ3R3Mmd4UEVGcG1CZGVvallMQ3phVEhKcDltQlMwcnZya2hWdmVWQVZwQm1mQnhQVy0xeWF6WXhfQ05qcW13U1VTZDNrdXYtQ29hbDJaRncwLTJLbTQtdw?oc=5",
-      "pubDate": "Sun, 17 May 2026 06:56:13 GMT",
-      "description": "Los Angeles County reports 5th case of measles so far in 2026 ABC7 Los Angeles",
+      "title": "Los Angeles County confirms international traveler as fifth case of measles in 2026 - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc1UtTWRkelVSNk0xazlTTlhlTUFGTl9XYkRMVmtpdWdjZWg4bDR5bHVXZ0kxeTE2YjJ6LWpnZ1JNcFF0Um45ZFNfVWdHb2lvVW9UWGstRHVyelVuNXFEWXM3aHcyZ2swRXRGTXhpM3d3eElSTmRYWHZSRks0R0pDU2l6dGFLb01DNDM0SVFidWkzd1RucGpNdVBqOA?oc=5",
+      "pubDate": "Sun, 17 May 2026 02:52:00 GMT",
+      "description": "Los Angeles County confirms international traveler as fifth case of measles in 2026 CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
