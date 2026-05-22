@@ -1,30 +1,39 @@
 {
-  "updatedAt": "2026-05-22T09:19:34.324Z",
-  "itemCount": 60,
+  "updatedAt": "2026-05-22T11:12:48.351Z",
+  "itemCount": 55,
   "items": [
+    {
+      "title": "In a vaccine-skeptical California county, a potential playbook to contain measles - Record Searchlight",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTEtWWTBEV2R6MUtRcXpQNUtlY0tEMkRfa0U1a3l1TnBId3htNU5DQ0JzbHlURFNvOEZQS1gxcEh0MlNfNnNCZ3FodUIwNF9EZG9zM0VWXzNUVkFOdUtzNC1acG1kMkF5X1NYRDdCNGYxei1CU0UtTjdNRlJ1VjBPRXZRWUxQUkVPUDVJYmRlb3NhRGNvX3F1QlZNeExEOFJmOE0tOUFXTU40OU9wVUxwR2VGczRTbG5TdGE3cnBIamJMcGpHb0NJMVhhVjJEbjgx?oc=5",
+      "pubDate": "Fri, 22 May 2026 11:02:00 GMT",
+      "description": "In a vaccine-skeptical California county, a potential playbook to contain measles Record Searchlight",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "11 children die from measles, symptoms in 24 hours - daily-sun.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSTQ3YkFuaDNvTVZuTzdxUWtnWVNQcmhjYjFOX0pyRmlIRDFHZXpEeDNTeHdCRjh0bGhvZjY5SUpQYzNnbGVRSDJKWTZwOEpwX3ZkM3Q1bERfYzlaUEQ2VkpFQjVUdEN4djJ5OG1HOHFwTG9RVHZYSU1FdW9ESGEyQ2RMbHRqYnhFaXBkdzE4WVdRVUE?oc=5",
+      "pubDate": "Fri, 22 May 2026 10:56:01 GMT",
+      "description": "11 children die from measles, symptoms in 24 hours daily-sun.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWTJ1LWJkam1UdWpmVl9oYzJRY25pRlB4S040MHB5V3dKZFhGSGlDTjRkNWJDVy13eF9wRWhZSVdKNzlyYXVpWEpYVTNkZnN5U05DRTRXWlQ4bEMwbjZzbms1Tmg4YWpGaHJ1cko3QkZyN2ppdXhpTGo5djUyRW5tcUVVM29tTk5Ldmx3alZzWHQ?oc=5",
+      "pubDate": "Fri, 22 May 2026 10:12:38 GMT",
+      "description": "Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh The New York Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Virginia measles dashboard launched amid outbreak - The News Leader | Staunton, VA",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWXJjRWJQcXJta1ZDUVhTTTYzclcyb3pHalRZRDAwX0F1aDdhMnVNZVQzZXBNbU1May1aX2lNUk1CWm5weU1FUHdxbkNGbFFQZ21UaUdPUEQtSkVuY3J4Vk10SWdiLUdVcmZlOFVwbEItTWVzODdkNG9lQUs5OTFxM1p0eWxvYXFJUC1FZkNqaHA1cEZhRlMwRmNQNWhleTF1SEx1ZVJRYmZ4c3ZZQkhDdQ?oc=5",
       "pubDate": "Fri, 22 May 2026 08:57:00 GMT",
       "description": "Virginia measles dashboard launched amid outbreak The News Leader | Staunton, VA",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "32 measles cases reported in Pa., including 20 in past month - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ25yYlkxMUlITENRTGM5bTlyZEdkMERxX09qT0g0d0x4TG1LYzMwRUREVlk3d0NabTFyOXFEOHI3dThMZ1pGeFhkNWxNQ1JFQlV0ZzlhSWxlOHF0U1dUUmdkdkREeXpra0p6cDhyYVJ5MGJoNGNqSTRheXNzSENrYTE1aG13RnVXLVFQRG5UQVpnVWxJMXpyRXlCWTJxLXNSazRXMUNzakNEekpV?oc=5",
-      "pubDate": "Fri, 22 May 2026 08:10:05 GMT",
-      "description": "32 measles cases reported in Pa., including 20 in past month Pittsburgh Post-Gazette",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Death toll from measles, symptoms rise to 475 with 11 deaths in 24 hours - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUlVldnJ0Y3JCZ2NLMTBvSGNlQURjRTJ1Q1RDM2FIUjVsdS1mcFlLOVFoV25sRVVLR1RtbFJQTUtaaVFzUm1yZTFqRllrM1NBeFQtRTRqZmFZbDlmbHNlc1ZXZGhLUHZwM28wZFF2Rk1SSmNFQTFMM094RWx1X1dtbTBuWDBfMkJIX0ZfMUItUDJrd3FIdjdMUmE5T3FKeWJNTjlkSHhZWUs0RVdHSWNwbXp3?oc=5",
-      "pubDate": "Fri, 22 May 2026 08:08:33 GMT",
-      "description": "Death toll from measles, symptoms rise to 475 with 11 deaths in 24 hours The Daily Star",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -52,15 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTW0tb1MxNFlWREp1NF9sRExfTEF2cktRRmxkZ0NzVjRRTEtJbDdxcm5KcDltenJOUF9pVzA5RWQ2d1YyeFZPcVU1Z2lUb210ZEw0Q2M2T3lCN3J2ZzJEcEY1ZUE0YXVvdDVQcVlUMlQ1aHlDUDF6N2I4MFpWallRVzZCZnBWbzkxdXVKMXl5eWYwUjZ5WFHSAaoBQVVfeXFMT2o5YnZQX3Qtbm56eEZ5QUVaTENJeFBoNXdIakVMUGZDSXhuckRlYlg0bGVJNF9HNTFadVlwYTBkUkZQUGlMemdBRFZ3WHBncG9QdkhIM3pUaUttNjZ5bEhiT1I2NEhucXVPbEUtaDZJRFQ0QjVtNHY4VFJlQVlvMUpxSFFVUGlqd0lkVjcyTVp3eXpzRTU4eF94QmlBUDRhNUFrY2EyOTNOUHc?oc=5",
       "pubDate": "Fri, 22 May 2026 03:58:00 GMT",
       "description": "Virginia launches measles dashboard as outbreak grows WWBT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Prof Sayedur responds to Unicef’s measles vaccine shortage claim - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUhMcGdFN1piQTRtWFJUSktBaWROVXFTbjFjUVRnaVRFQTRmcVVDZ0RvNHczUWNHeU9CSmxOX1ZvcTVOcjRmMThFVTZCQlFnN3lKVjVieFZwMGR4MzZfN2k1Wk13U2l6NmRiVXI4NWktS1FOekpuNUkzcUpySWxnT19zUkEzcjdOLVlGNkNKQ0NSR2NWb3AtQzBCOUZlV08tRlN6UFJvTndCMlpkaEg4WE14VWJxS0lB?oc=5",
-      "pubDate": "Fri, 22 May 2026 03:32:54 GMT",
-      "description": "Prof Sayedur responds to Unicef’s measles vaccine shortage claim The Daily Star",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -138,15 +138,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Epidemic Surge in Yemen’s Hadramout: Suspected Measles ,Dengue Cases Exceed 3,000 - Yemen Online",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2ZVVfZm5Xd3RRNldaYUR6WTU5Vk9VMzlXY0lZRXpGM3hBS1VUdjVQWjcwZ2t2cHppQzI4cEc0c3gzNTd4QktqM3VNelZrOHpQODBXZy1HakxEUUNJZXJ3?oc=5",
-      "pubDate": "Thu, 21 May 2026 20:06:37 GMT",
-      "description": "Epidemic Surge in Yemen’s Hadramout: Suspected Measles ,Dengue Cases Exceed 3,000 Yemen Online",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "PAHO Regional Situation Report No.3: Measles in the Region of the Americas (21 May 2026) - ReliefWeb",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnN0akhSSjB4TkQwWDR6WV93UWhhdk9iUlZVVWc3WUp2TUU0RVdRZ2dEbU8ySkcyZTMwajNCY3V1WWdfeDBJWTg3QTJmaE5JeXhEV2ZSOFg3WVA1eWNXM2YzdGhmbGZPaW1uZ3ZSM1UwVXdvR2xUMHBETlZCLVdEdFN4R2F5WWlFYXFSMjViOXowcUVkX0FYOUdqQlpieXk3UXBKd0w5WjQ2dw?oc=5",
       "pubDate": "Thu, 21 May 2026 20:03:12 GMT",
@@ -156,10 +147,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Virginia Department of Health launches measles dashboard as cases rise - 13newsnow.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRHhZZ1hrOHdzV1Q5eGxJWlctaHNlNnl3OEFVUUUxRmVqbVRfWjduTHRrZzJZOGdGd3BVajhTY1EzbTAtRXpDamVvSmtZbTl6STFaWlZkckR0T0lLRk96UzQ1U19DYUt5bWhOTURfM2F6RDJOOHZjVWpKbEZlVXhKRVBPWjUySTJ3WThFV0oxb1c4SHNjN0dUNWVibVZZNE45VmpNeERLU2QxTmY1M21UQTdDbElhZVRsRGRnVWpMbWhuYjRJczEzbHQ3VjM5T1E?oc=5",
-      "pubDate": "Thu, 21 May 2026 19:37:00 GMT",
-      "description": "Virginia Department of Health launches measles dashboard as cases rise 13newsnow.com",
+      "title": "Virginia Department of Health launches measles dashboard as cases rise - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN2w0eXh4amFPaExTY2FyN3M5aHhiaXltaUM4eUdkWHQ4aW1GTlE3aFRMc0poOGRZaUEzZVpGaVAxNXZfVXNGV3h5VTg5ZjRKWllNM1pNY1lTMGJxOEFTVGEtSlJiemhIQmdlUHJqbTN6M1A1SW1QWTlWMzJLSksxb1IwMHV2UXVRR0JGbHdlQnMyV3hJMnpmc0tYSkh4WDg0LVctQQ?oc=5",
+      "pubDate": "Thu, 21 May 2026 19:37:33 GMT",
+      "description": "Virginia Department of Health launches measles dashboard as cases rise Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -219,15 +210,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles detected in Wasatch County school; unvaccinated students told to stay home - FOX 13 News Utah",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSEg1cUpnWWt3WWdHWFFtUHlaRmhWbzBLY0NGQnhhY1ZzVDZiTDNyS1dMVXQwa2g2TGFQMWttZnZwOXQzdDl0Rlh2eVBNeVNuaFRRdXlKa0cwRktCRDBUYXNneVh2MFJ2ZlBxMmE2Qk9PSGFRV2pJTWhROUY4eVo4Yi1mdm1fb1NNYkFISDR2TTFfRnlseDVoZm05UnpfOE93M09Gc0w1M0l1NnZjWkxSVWs1endXMW1qRFlGTnN3LXJVUHc?oc=5",
-      "pubDate": "Thu, 21 May 2026 16:00:47 GMT",
-      "description": "Measles detected in Wasatch County school; unvaccinated students told to stay home FOX 13 News Utah",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles detected in Wasatch County schools; unvaccinated students told to stay home - FOX 13 News Utah",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdWg1NkJ2Wk1heDJUOVROREdGdnIyVmV6bU1MY0xKZnBEX1RESlp0WlpNN2R0MHVHTWRBRFBlQlNxNkpWTXpJamsxaU1VaGd3bzBNYXhLbnN3MlVtcGh4WWRkQ091bkdycTE2SHR3aFVHZXRyaGU2N3ppT2JWNm1WMjlqLWhSUDZYZ3JDSHBybThZdC11X29XdWJTcmtPemZ0eW5MS3VsZTR2SW0wdklIWlFvbGVaZkNIYVE?oc=5",
       "pubDate": "Thu, 21 May 2026 15:46:55 GMT",
@@ -241,24 +223,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNHNUdHJJaEdoeUxuUVNKOU02SmcxTkliRVNJbHREelh1TGJvVVA4MTQxRnJfbm1FQ1FhYUZnd3c4eU9Jbkk2NXlIVzllR3RuNlBZcnUwcHFITFdPaURTOWRFZ0tVR2xEZGJ6WG5VNjN5RjdXM3lnR1QxdzMxdGIwdGRQajRyT1BqLXBScXZKOGNBQ0VuQW15VFJR?oc=5",
       "pubDate": "Thu, 21 May 2026 14:22:12 GMT",
       "description": "The Biggest Measles Myths Pharmacists Are Hearing Right Now Pharmacy Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Expert discusses Georgia measles outbreak - 11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRGdvNkhCV3NZZmIzVlB2RE9wZGk5WDhreXc2clBQWk5qLWxPaGNSVk5qYWlpWFdBMTQxUTZxNjl3MmJIcExtV0I5YzhneTZEci1oTFJKNEtGWm5QaGZBWXRLenpNNHh1M01lWHVDSXUwWGFFMUtaNlB5RmwtdkNyRWtUejNyd1dPaW9leHc4WnZFZTNUY1NDTlFZYlU1Wk5uUDd3bTRZRU02R3BTOTZWb1hReGtBT0QxdjZXNV9YNGM?oc=5",
-      "pubDate": "Thu, 21 May 2026 12:24:00 GMT",
-      "description": "Expert discusses Georgia measles outbreak 11Alive.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Infectious disease expert shares concerns about handling next pandemic amid Ebola, hantavirus, measles outbreaks - News4JAX",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMVlqcks4dlRVRzNKakNXZjFXUWtSdWRxUndreTZyUzIyWFdieDdxNVlGZkd5S2YzMUdnWWlubFBSRGpocDFXN01SQTdEa3ktSlk4VzN2M3Fyc1dwYy12eGRxRkhBcUt3UXBQbUY2SW4zT0dFT2NJWjE3MW92ZGRvV29xLXpCZGNxazlab2l5WVZYMkVTUDZ1VTh1RU12WTJuRDl1MVNJa242eDZEakYwSzhTTG1iYVdCRlRHWlJHM0ViZ09ZV1RueGJaSm11dGlKanhQZGdDNDFicWdDUkJwWU9MRUMwczNJT2c?oc=5",
-      "pubDate": "Thu, 21 May 2026 12:20:42 GMT",
-      "description": "Infectious disease expert shares concerns about handling next pandemic amid Ebola, hantavirus, measles outbreaks News4JAX",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -311,7 +275,7 @@
     {
       "title": "No Infants Developed Measles After Utah Prophylaxis Regimen - MedPage Today",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pZkFHbERiWkdPRHl0Z2lDTXdhWmJzQXltMHFralVPZmxwWHk0VjJfZngzVHdIN1FJc3ktWm9rVEhNUHBSd3BsT3lDVzdaNGlUbHd6cmNtQmtnNE9Rak1yaFM2UUVDRlJPWVl2aXJ3dFkzZw?oc=5",
-      "pubDate": "Wed, 20 May 2026 20:38:40 GMT",
+      "pubDate": "Wed, 20 May 2026 20:39:52 GMT",
       "description": "No Infants Developed Measles After Utah Prophylaxis Regimen MedPage Today",
       "source": "news.google.com",
       "sourceType": "news",
@@ -385,15 +349,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ya0xEUVhNMXZrdHhwa0FUVlRjMlRQdVM4YkdlMUNvUXBFX3Nmel9pTUhRQTBDWHUzUV94Q2xMRGtzRUNFLTNtMHZ6OXVmeW1oUU1YWDlKb013cnAxSk5ELWlIU1PSAWpBVV95cUxQYXNmZHFBX2ZZS2tYbHJmaWxoNU1zZkFJc2NiVHI3djFHMndTSFhobDZtRk5JWUdzek5KSmlHd0ZNZDlKWjRvQ05tVjA5Y3FYbExZempDeHNWNzhPaUQ1VTk3TnFFVkZUbl9B?oc=5",
       "pubDate": "Wed, 20 May 2026 11:35:18 GMT",
       "description": "3 new cases of measles in Georgia FOX 5 Atlanta",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "How measles unleashed a wave of suffering in Bangladesh - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTUlCdWRPZFVLWWxZRnJkVkRrOXRyRk5aUkpmVmdSc2U0N0NlX1RMMXMwQm92OWRmLUVnU2d5LVF0b1JlRUZPdVJFWWN0UmtkTHNzQkJjZ2xRdzVZcVc2YkZhNGU0MVZPQlN3RXdOX21UY3NYTzJMUzBsa1JLbDZNdTR4Y3NYVFpHOS1rb2JBTUdxdHpIUFR6b2dxYUx6VFlWS3U4UlZiVmtrZW0zN1pZT1VHMkprUEYxdHc?oc=5",
-      "pubDate": "Wed, 20 May 2026 05:00:00 GMT",
-      "description": "How measles unleashed a wave of suffering in Bangladesh The Telegraph",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
