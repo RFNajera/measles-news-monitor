@@ -1,7 +1,79 @@
 {
-  "updatedAt": "2026-05-26T09:27:05.024Z",
-  "itemCount": 36,
+  "updatedAt": "2026-05-26T13:20:05.968Z",
+  "itemCount": 39,
   "items": [
+    {
+      "title": "Measles cases in Japan this year approaching 500 - nhk.or.jp",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zNF9iWlBIdUdHWTlMMzlZb3FhSVlKWk1MM2hTTjh3NjFZZ3hCQ0N3TmppbnlqWXpRemtBR2JkUzE0STctQ3BwVVUxZzF2MUJjSkprWW5IbDZyN0dYdjN1U0Zn?oc=5",
+      "pubDate": "Tue, 26 May 2026 13:10:46 GMT",
+      "description": "Measles cases in Japan this year approaching 500 nhk.or.jp",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "10 more children die with measles symptoms, death toll crosses 550 - Views Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWDBHNjY0YkZvVGpxU1FJNko1eGd4VHNPbEFPaDlxaGp5eUNaVEZSRHdCM3hQeklnWW9aUWtrdUQ4UU0tTUk0anFiMFo1Y0hlbi05NTdITnZtMWFYZGNzZTA0SnVEaXZsdkNFdlR6dDZmM18xZ1pfbFR6UWRCVnJpUDU4a0lTQ1EwM3lMZUxUOVdJUWFEMWl5aVFB?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:46:25 GMT",
+      "description": "10 more children die with measles symptoms, death toll crosses 550 Views Bangladesh",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "10 more die from measles, symptoms in 24 hours - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLUZWa081c0RyYzgyTTB1SWFUY0JRME9KaC1sYWlyTmgxZ19NV0ZOc183QmZXWkcxS0NZVEkzYng1MURRN3ZEOVlzZHJOa29FV0pWcmhUV1RsVWptTmQzU2I2S25KckxsY2JfdVBEVU9NMDJ6TW1ZWExHcFBqTFlrcGx1dnBVbWk2a2NMOTdTQUtPTkQwNGR5Mmx3?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:08:58 GMT",
+      "description": "10 more die from measles, symptoms in 24 hours The Daily Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "10 more children die from measles, symptoms in 24 hours across Bangladesh - newagebd.net",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY3JTM2NXekpJMDEwSkQ2TDFmTlBNUWVwQ1J5Ti1OR0IyazNyQkptTml0Q0IzR1NkZXVPSjIwRGNNNWpRNHNXRmFkbWJjRHhULWNldEFKdzB0MlQ2TjZhZWh3UWxDVlNjV083ejZidE9lbE5zd2gzaEV6UjZnQ0R0V3F3REU4YUdvZFB6V2h6TEVBNkp3Um8xcDg2em90YnB6a0N4eGQwVWlNdHd1NW8tTVVJZTdvbGFiYTJBMXVRWElsTVJw?oc=5",
+      "pubDate": "Tue, 26 May 2026 10:21:25 GMT",
+      "description": "10 more children die from measles, symptoms in 24 hours across Bangladesh newagebd.net",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles: Death toll climbs to 555 with 10 more deaths in 24 Hrs - United News of Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR1JsRkt6ajNHY2U3V0NwTEdLYldKaEtoTlJROWNwNm1CcEpSaEVCbUZxdEI2SmpzUFBGSEN3ZFM5QzMyLU4xQnF4UnY1Z2FzSHBXVHRIMU9ETmtNTHN6NElMZnVGY3lyb2NOZTNTQW9BeXpSX1RYUk5fZXlCZlhkcF9rd1hFQmlXTjJUY1BTUno5aU1uY0lGNUR2b3piOTY3eDJHWTdQNjg4N3g1?oc=5",
+      "pubDate": "Tue, 26 May 2026 10:07:25 GMT",
+      "description": "Measles: Death toll climbs to 555 with 10 more deaths in 24 Hrs United News of Bangladesh",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Global Outbreaks and Travel Vaccination Update - Medscape",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbDhrS1NYclNrbG5na0hvZ2IyMmQ0VWFzMmQ5X1JFZF9idDR4SEFROU5Zcm9YM3JoU2x6T2lsTVd3UjlOMjd6SmZWaW53OTdvNG1iWkctQ0R5akxnVDNEdXJYbTFZWUVPSkFJd25BaVlLTlRuU3FhbGlNbU0yY0oxSjk3SE5pazF3WUlaN3NCcGxIR1hQM2FrUVVoRjdxZG8tWjdqWERXVQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:32:24 GMT",
+      "description": "Global Outbreaks and Travel Vaccination Update Medscape",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Misinformation threatens measles elimination status, overall health. Can KY alter course? - The Lexington Times",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONGw1OHdlbTJJWFdTeUIzNjdybktGTUhadEk5aFpIY0gtbXNLeVk4d2g2eVl5ZjFOam5jYkxheUN5Q1BHem96RG9PbmhEUWhtOXRBZjZKS2FzTmRBdkUtRWt6OHVfbDNfeXdzSHJEYW53cHNBRnNBaUYwdnI0QU5tUXVLbTRITnRmRFp1ZTljeDZ4R3lOeHRZVkdiOHJtaV9RdkJ6eHdjMDZUOVh4bVJwQUdfeEdMQy1fYVZEYUpyT1c?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:00:44 GMT",
+      "description": "Misinformation threatens measles elimination status, overall health. Can KY alter course? The Lexington Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Deaths from measles, symptoms cross 500-mark as 13 more die in 24 hours - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnVqYlRPQTV3S2hXRUxsRVBWVlV4U09JSlZyd01wV216LVRZcWRlcUFDNmVOcjlRSmRWeW1MR0I3cTBxcDFRTDltRWNHYWFkVndOLW9jS2lmMmYtem9GNWs4aFpxdjVXRllBSkpGcEhSUDZMWlE4ZTVrZWgwUHhNM29wcjRhOTZVdVFoaWprSGkxaU1jb0JLXzFGckJQaHN6SmV3U1ltMksxdGdPb3NPRzlJeC1Ka28?oc=5",
+      "pubDate": "Tue, 26 May 2026 08:46:53 GMT",
+      "description": "Deaths from measles, symptoms cross 500-mark as 13 more die in 24 hours The Daily Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Bangladesh Measles Outbreak Death Toll Rises to 545 Amid Surge in Child Fatalities - The Sentinel - of this Land, for its People",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVkFZdEcwcW9oY19ISEtCQ1JONlpwaFVCX29MNDJVQkRFTjVJR2U0Y2Q3eHZtSlBfNkFTMFpXV0I0WV9aNFg0VUE4cGZFVS1KN0Z6cGZXUEhKYU5JUUtIUTAwTTRoeEVRRVBYekxhZy1QNGhaZG95a2JxX1FTQ0Zvd2Y1UmtLVmJia3h1MW5wZklZcGxoUGEzLVlfenhYUGlEX19GdlhVVzROUUoxVXdvRzNjcU5XdnRVUWtWdU1kQkt3VVdRMjJ0RTJ0aDNQeEhCc1HSAd8BQVVfeXFMTUxzUFVPRV9GMnJJVDAwZDlHLTdPU3B0TW9LaGVJX3dBVnVWa2lfQll6dE9Yb2VtY0Vzbkd5M3YxQlFCNWJsdDgyam1od1o0RW9Uc3VEWWpRRWFQTVVZMFhnVVo3YXpBTDZQekZSdzZfNzVlaDFUQjItUFdJNTR0aDBfUmhaOHFDdTJBZk9BcnFyckEyOGxXOWNObHBmbldsZXd6ajVjVW01OXZ4R3VrYkp3NEFtZFJNZmJONTlZRExuLWxSYmhGRjdUa0FFOVlNeXllSWtxb3UxTnZqQ01zcw?oc=5",
@@ -16,15 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXhnNjl6eFg5a2hoaGpFTkJCMzBmMDhZUHlFZzdWalpQSVJfeHZ4UXVKeThXV01vaEdhMmlHOUlYVmxpVzJsY2Zhbk05YTBhMnE1V3doUzZqcW51Uk85LWt1c3l2UEs5RkZQUERxY3JNWUVyVkRvU2QxY0tYNzRmaWJDazlQbGtJVGdLVHNCQ3hnMWxySkE?oc=5",
       "pubDate": "Tue, 26 May 2026 05:55:41 GMT",
       "description": "Deaths from measles, symptoms cross 500 The Daily Star",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles outbreak may worsen further due to Eid movement: Experts - The Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3ZZejBvVEp1aFlPMDd0VG1wNkxxVWxpM0c2akUtRHFCdEUzMXpkaF9MY21abTZNYmtmMjVDS21sQUprTUprRk5GQWlPM282TTYxYVNSU3NwdXV2WkhRVnlCQkhSWkZhaEFxdDJ4UkxZY0V5dXRtdkFMWkxybl91X09pRDBqZ1ZsNzJ2SkYtTXZGXzFHU2F0eFh2MGEtVENIcEkzcGNJeHhPdkp1WmZB0gG0AUFVX3lxTE1sYlFOWEV1MWtaTE1Da0c2eFVsd1N6aTZfU2F0d3lFRUFpV25EVE5PSUNob01OeEpQLTd1Z3RBclRwOFlJUXVoU2hhekY2djNkRkwxcWx6N2NrQkpkQTZrcEJweU9XeEFaenhBc2JnaDFFNGRaN0dkZV8xdDZMRUJoSFlYVDJZT21ZTEdqZXYyeEQ1a0xBWUJMVXA3cjN1YWZUUXczVEFPTW5lU2xHR2tLbEE1Wg?oc=5",
-      "pubDate": "Tue, 26 May 2026 02:55:02 GMT",
-      "description": "Measles outbreak may worsen further due to Eid movement: Experts The Business Standard",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -48,15 +111,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Experts warn Eid travel may worsen measles outbreak; 17 deaths in 24 hours - Dhaka Tribune",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTGhsbHZHZThSWHlOYVBFTXlEM2NTVHJGSUx6aUh2MjNzQjFlZGxqaVlRZVVBWUlRWENJRVZ2SU43VUstcC1Sd2pveFdoT25NbVNDX3c1QXItQVRFNUNzWXJxbEtWYnhrTi11dFgxc2NtcmRfdkIyblNIaWtHcjhpZk9UZWIxamdaTmIzSHZQWDNfbDJNSW9BUFBzZFnSAaIBQVVfeXFMT1pONURHSHNvdWt4M3RZQ3V6ZTZyUkVCRWo4ei1LRkQ3LWRPU3RMMnI3MHhNSEw1U0R2UGF0QzUzTWM1cWxBZFp0LVZuWHJTR2tWU1dxaEpUZmRnSXM2dnU5dmZqb0UydUFVLTVJdkYwZHJfN1FnWktmOWg3S1VXTHNvaXl6YlJDLTNvNlJoRVROS292Smd6V3RlMmp5YTlMeUt3?oc=5",
-      "pubDate": "Mon, 25 May 2026 18:00:00 GMT",
-      "description": "Experts warn Eid travel may worsen measles outbreak; 17 deaths in 24 hours Dhaka Tribune",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "A new drug candidate is effective against measles and other viruses, researchers say - The Independent",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZE5vTmY5UFJ2dVB5dkF6TVVJWnZSd1NuazVmQkNYNmJhSFJ1QU8yRm9SVjdjLThzTjNtNEZnREgzTUtNN0REWEoxUmhuOVBlZkZKc1JySGt0UXAybU5fb010MU1PUmxXQ3lzczJsd1pMbHpSUWlBLUpJTkpRQV95akhHOWtTRzlaYkgycG40N1pqYVA5RzA4NjduN3Iwa1NW?oc=5",
       "pubDate": "Mon, 25 May 2026 17:43:00 GMT",
@@ -70,15 +124,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN0pERXViOUtta3dOaXZsdmVqQ3BMQTNJQjhsYS1fS2U4OTR3ZTE5QnN2LUJONXp6SUNsUmUwRFNFQlZZMzliZVdiZldLMFpicDFOUDJjQ1djVkxrVWZ2RU5kT01Ma1l5dlBQczJjQ0ZydnpvclVRbGplQkZVODZjWjhtY0NOeFhkVjh3ckxKdkxlNVpCRGpjV0ZBc1VId3BwWEVWZlRBTFdMbUJqb1RkUVJiaGh1cXZS?oc=5",
       "pubDate": "Mon, 25 May 2026 16:52:58 GMT",
       "description": "Highly Contagious Measles Hits Florida’s Orange County WFTV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Bangladesh measles outbreak kills 528 children since mid-March, health officials say - Yeni Safak English",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNanZXMS0tcFZmekpJZlpPdFRzREVqVm1taU9VVURwSGpqajlHVEZfOUNvOHQ2ZFRJekNUbm5GMjA5cEk3OTU4QUtlV1MtQjlLdTI2N3IxaDdINzZrNkhjc2Zra0FRbERxSmxwMWxyUmlUbU9CeG03T1hTbG5Pdl9uMEpWMXcwdFdMWUNqaDVxcDI4LUUwQmhtTXBhNFp5MFRqZDhLVkxOemNPVktfeERpaldFRUxURXBOeGNubDFDTQ?oc=5",
-      "pubDate": "Mon, 25 May 2026 12:05:24 GMT",
-      "description": "Bangladesh measles outbreak kills 528 children since mid-March, health officials say Yeni Safak English",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -141,7 +186,7 @@
       "title": "More than 500 children have died in an outbreak that the world is virtually ignoring - NPR",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUNTNmVMOUlSTUFUUThpcGJUdGFwNzMzVk9MSVZFUnVKYnd4am1lTDR0d1E0cE9HZTJnSEpaMmtJUWR5Tmw2dXV0d2Z5U25hQW5NcnpJRTFJYUhmQ2M5S25FTC1aS0xEZnU5dGNIZHd4Z0NuaWFFeHIwb2hfMzdCck5EbTNnOFA4dXM4LUhCcWc?oc=5",
       "pubDate": "Sun, 24 May 2026 13:00:40 GMT",
-      "description": "More than 500 children have died in an outbreak that the world is virtually ignoring NPR",
+      "description": "More than 500 children have died in an outbreak that the world is virtually ignoring NPR Suspected and confirmed measles deaths top 500 in Bangladesh Reuters Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -160,15 +205,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY2REZzk5elV5V2JwclczQ3BfUE50bnFMbDI2UFpkVEpHVTU2MkZ4clRudHJ1UnZUSWVuN0pWVUttUXJXcmduQkRyLWlZRTNMc25fRndyOXlpX2JfUFQtX0NjU1FRdjVvOW53SnBFbEpBRTlLRnM0RlJMZGdoOXc3RVZnZ3ZzYjJMR2FFWlhvTzh6Y0E0MFNWNW9VUEh5bmNZOF8wcTJFR0sxQmxpZFM4?oc=5",
       "pubDate": "Sun, 24 May 2026 08:00:00 GMT",
       "description": "Pennsylvania schools shared widely debunked vaccine claims with thousands of parents Pittsburgh Post-Gazette",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Two measles cases confirmed in San Diego County - NBC 7 San Diego",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlNYaWhXM1NqeVp5OXhFbmhyYnhMUS1IbW9Kc3lKY3hYTnBudUZBZWdkZTNTVllDVHlEVTdxOVBTVnhFcHZTQjdRT2JJVGhfRFhRZV9YQ1VVdFVocm1mZ2VQQnZTSkN2LTlnS3VLR1pHNmthS0VzdnJTX3E2d00zMGR1a1lJOVJRWkNLSDJXc2htMXozcjcxdVY2RDljQdIBpgFBVV95cUxOV2x3cHczQkg5eC12bGZac25XRVRNdEcyX1pJQk5xbUxaYVdpamZmYTk4YkZ6NU9NU3JyYkFlc1ZhRkxRTjhINlB5MzI3UXZqRVNlbkRiRXVLcjR0NEcwOTN5T3pHOHdrMTIzX0lfR2FxMnlIVjRmMGJwWUw1RV83NmxMdDNQUzVkRkVNWlU2OUhoS2tsREhRTlF0ZTE1ZDdCdkZoZTl3?oc=5",
-      "pubDate": "Sun, 24 May 2026 00:16:26 GMT",
-      "description": "Two measles cases confirmed in San Diego County NBC 7 San Diego",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -210,6 +246,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Two measles cases confirmed in San Diego County - NBC 7 San Diego",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3I4VzJRZEJsZm9YUVdyZDBGMnhxQ3g2elRzNVVOU0w1NGtIbjZad1NuUzVIYVRDbEFoX3NhVVJKVlRBZmFvSktkUjZZZmhwV3JWZEJBRDh6eEdMTUUtelJQSUtQRVdrZDFwamMwRE9zeFJuNEJycURINDY1ZkNDajZxeHR0b09vNmJJNkFwYTVISEg3cnRDeWItTdIBowFBVV95cUxOM204MmZrbk40RzZyT0RBUHlpWGVhOFhJOFZqNml2WmV6TUlINnkwWmhwcElIVHNDNE5TYzNnZzBxclVvWVlkUUxLWmRsc0J1TGdLS0lTcGlBUVA5N0RiSGRDcHM5djVoM2x0Qk5tSnkydTVKeTZ1cEhqS2JzUmNWa2dQcW9kbWhEcXNwSnAxa3NZcjVNRy1jNjVlVUF5SERWM1ZF?oc=5",
+      "pubDate": "Sat, 23 May 2026 19:48:43 GMT",
+      "description": "Two measles cases confirmed in San Diego County NBC 7 San Diego",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Workers, guests warned of measles exposure at downtown San Diego hotel - San Diego Union-Tribune",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVThqQm5oa3I3d3VmNi13aE80NVFoWDRvbWljRTRscEM1enpZWkEzdnpkOU9PQXE0bi1MTUFSbV9zYnUxYVRwT3hrTEZpemhlRVJpVzNxUzlPU2hTbm9WeWFnWWpWV1lLWFlsMmtVd3ZiZWJaUy01SnRFOXo4V2NHOENCMkJhMnJFZTZsQnJZbE8tdm13cEVMU3h3azhpQmpYZFZWMXRrVko5UVhjOUtBS2lBREhzZllMSXc?oc=5",
       "pubDate": "Sat, 23 May 2026 17:28:44 GMT",
@@ -232,15 +277,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVg3Vl81R0hxMWk0M1l1Q0dNV1FhVjBWNWRQZmo2dW5zS1lwSkg0RkhEY0VUeEhmWjJ1akFJVXE5eUF0Q0pkSkc0YzhwZDlOQkkzWDFseTktRlVsdEFydk1YYlU0b3lMY3A2RmtjWGtrS3pmM3hONnhVVVR6bzVHclZWSE4yN3U4WGFVbTcxSWtnNkFzcW52MmxIU1pkNDFPc05XNFM2SdIBrAFBVV95cUxNb2dXam8zcXRqb3IyZm5JekdiV0pTR25obkduMS1BVFN2M21OTnJDaVJCQVJaaG5ETXhLWHdVeW5SM1NPV1BfbXMySUxqbGZsM1ktMmVoOTc4d096eUppd1N4U2c5S2xkSHRlQVBVQVpiaHJBTmRIMWRsOWttSjBJMUtacVhCVklfTWVmajhQZDZVeTR5WWJORlE0Q095ZnM2UUJEN3g0WHRnaTFE?oc=5",
       "pubDate": "Sat, 23 May 2026 15:50:35 GMT",
       "description": "More than 500 children die in measles outbreak in Bangladesh Al Jazeera",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Suspected and confirmed measles deaths top 500 in Bangladesh - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHNwaEhueEFFcndOdTJObW8ybFpaVDI1N1QzMU95T2NVSjMxSUE2eU5RYTR4OFNhdld3VFgtdVBNOWQ4Yi1nNU8wTGMyNnV6d1pxeTRjZGotWGtaUkF1OEdCcElTdFZacXo4SXh3ODlqRFpHa1MyaXY3VTcwb25URHFjQkdJNVh1LWhHbEQ3cTk3S1Qwb0lrSW8zT1VhSWV2OVZvUDhPc2xPTWNYMDhtYVUzNVRCcFVXYzBwaXROdTRXb2s?oc=5",
-      "pubDate": "Sat, 23 May 2026 14:42:10 GMT",
-      "description": "Suspected and confirmed measles deaths top 500 in Bangladesh Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -277,15 +313,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeFNqYmlUMjZqTDRvNFJ4dzBpWm8zbFZDcHFobmdfUUJrTHVkUkphNjl1TnptMFU2bnRWN0NVTUdDVnh1bGVIMTdKLVUtUmpDVTJCU05tT1dQLWd4elJxS19hcUc3eUhMTkxCdXJPX2pOUFhRUTZxbVpodE5LMVpTN0U5RUN5WDhmbTU2RDBvY0xHVEl0TTIydXdqQlp5MkVua0FHdHpuSWs4MTRaUzc5WDgxU29VV05mbTRlOVlR?oc=5",
       "pubDate": "Fri, 22 May 2026 15:50:13 GMT",
       "description": "2 measles cases confirmed in Orange County as Florida cases hit 152 WKMG",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWTJ1LWJkam1UdWpmVl9oYzJRY25pRlB4S040MHB5V3dKZFhGSGlDTjRkNWJDVy13eF9wRWhZSVdKNzlyYXVpWEpYVTNkZnN5U05DRTRXWlQ4bEMwbjZzbms1Tmg4YWpGaHJ1cko3QkZyN2ppdXhpTGo5djUyRW5tcUVVM29tTk5Ldmx3alZzWHQ?oc=5",
-      "pubDate": "Fri, 22 May 2026 10:12:38 GMT",
-      "description": "Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
