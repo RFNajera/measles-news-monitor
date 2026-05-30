@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-30T16:31:59.391Z",
-  "itemCount": 61,
+  "updatedAt": "2026-05-30T17:33:19.674Z",
+  "itemCount": 59,
   "items": [
     {
       "title": "Average measles vaccination rate down in Ulster County, report shows - Daily Freeman",
@@ -21,6 +21,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles: Eight more children die in 24 hours - newagebd.net",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORjhCNUF6aVJuTzdqSVNuaFhaTlA1VmJLMmh1YVhPUUZNTE9abGR2aE9yNDdqc2JpSy1hUWpJUnJEbFBldFhNVHoyYnBqY25adHA4ZDROWnpVY2V2VUh1ZFJ4QzRsc2Q1UHlMOGlzX2xxSzRSNWdTanh5TmI3M25sLXBiNGpxbWMxc1VMbUtoMGpXZw?oc=5",
+      "pubDate": "Sat, 30 May 2026 14:00:31 GMT",
+      "description": "Measles: Eight more children die in 24 hours newagebd.net",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "8 more children die with measles-like symptoms in 24 hours - The Daily Star",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdzlmMjlERjdwWFhWUmRPYnpIcDRvN0JGSlVBalhnLTBQMDIyR1E3UDZXcXU5U1k2VUJlQjNtVDltZnV6dVdDSFlCTVF2YmlaRWtnNnpWbzV5TkZURnV0NDdDalBFUXB4R2hhMTVJR1l1ejJkYVZ1cF9Pc3pSVVNKWmlYQmhvUHJqaTFkYlRKSDB3aGFnVy00cWVIdmpfQ1VqOWxfRg?oc=5",
       "pubDate": "Sat, 30 May 2026 12:20:24 GMT",
@@ -34,15 +43,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTkxJZVN6UkxYYVZDaHpWZVAtVUJOLUJNOW03MFY2d2h5YllvSTYydUZmMWlFNFlWTHlSdEZNa1hELVRpb0x1N3BqZmdvcjF2VWN0dWNUVFF3YmhIZ1NCUWc1b19GWGgzSzRsY3RfVDV3Nkk0ZVVzRVhmSGhnZkFpbDVNcWZIQ0JrbFI0LUdVemRXaTdoNFQ4QlhuVU9zTGtnUmM2SE51Z3k5SC1UZ2V5Um5ocGFMZFE3bkRJ?oc=5",
       "pubDate": "Sat, 30 May 2026 12:08:20 GMT",
       "description": "Data shows record low compliance from Oregon families with kindergarten vaccine requirements Kiowa County Press",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles: Eight more children die in 24 hours - newagebd.net",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORjhCNUF6aVJuTzdqSVNuaFhaTlA1VmJLMmh1YVhPUUZNTE9abGR2aE9yNDdqc2JpSy1hUWpJUnJEbFBldFhNVHoyYnBqY25adHA4ZDROWnpVY2V2VUh1ZFJ4QzRsc2Q1UHlMOGlzX2xxSzRSNWdTanh5TmI3M25sLXBiNGpxbWMxc1VMbUtoMGpXZw?oc=5",
-      "pubDate": "Sat, 30 May 2026 10:45:40 GMT",
-      "description": "Measles: Eight more children die in 24 hours newagebd.net",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -156,15 +156,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Officials warn of potential measles exposure at a central Pennsylvania Kohl’s - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ1ZLX0ZBVHl4d1VLMFBZMVFLN28wbFk5cGgxZVIxVVhzaWRabHBBWUpuV3RfSDRhOGRIRFl2VWZjX1UzUE15WUZvMTBidEpiaXgySTNuTUtsNkJ1MnhiUy1CSzhsNFMxdjVvVUdJMnpZcW9VQm5vOTYyY2RISTgzQWlseXBpdUlQbE51TVNraWkzMnAwOEVtRHV4ZFFhd2RrVFE?oc=5",
-      "pubDate": "Fri, 29 May 2026 18:50:39 GMT",
-      "description": "Officials warn of potential measles exposure at a central Pennsylvania Kohl’s Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Analysis of Texas measles outbreak shows just how dangerous virus is - Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkRlX2JjS0Y2VzF2RWJ5VEhUWHcyd3gwM0Z5a3hhb2llZE82LWV5RTZpSmNLOFhic3VZaXNMNnVJblhlbHlyZHJHa1JWTXlJeVFEaHlRVVY4RllDTjNOWFUtRDNQNVlaamNqU1pNdG4xRkk1eHlBSmR0WXR1blVTQ2FrYjZVV09Dejh2WTNIM1ZtN2hITUhkcHZrQVZrQmRWemdiOW40dzhEMHc3?oc=5",
       "pubDate": "Fri, 29 May 2026 18:35:38 GMT",
@@ -178,15 +169,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYV83VEppeklGeEtLUmgxeVF5ZzFZTjRGZUI2TWs4a2xuSTU5blFqYV8ydk8xUmppN29yR2M5YW9jZmJjbVFscTdyOExLdnJhbDZwQXlSakxXcEg2Q2d5bU1CWlZDYWVZa2JyLVlEMUc3V0RHa2FGZHU4dDBSejNZbkEwWkRxZE9VM2RIM1p2S2FOTU95bnUzWWpZSUJXNUVnR1BaaXJaNmNXbWRleVM0UDdiaXNEWnd0dEY1TzNlYw?oc=5",
       "pubDate": "Fri, 29 May 2026 18:10:29 GMT",
       "description": "US nears 2,000 measles cases as scientists note brain inflammation, pneumonia in hospital cases CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Person with measles may have infected others at Kohl's in East Lampeter Township - LancasterOnline",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQR3dFNkNnelZhUHFTUllTY1JBNUx2OGs5MEkxaDVodkJ6ME1kZk9xZlRwLWpPRmZEYUFTdTNveWM0TXZGS255MEx3VjlOb0dVMDRmZHFYcEhoZXItZ2dDVUtwclZ2QVFuY3VNSUtMWjhCbWQtRkpfVXVrdEZ5X3lDZFlBdUM5Tjh2UzFHNndTLTl3ZUpKNFJxM00wM3FWZDZXRG1Qd0ZuamJuU2Z0Wktubmg5Z3dzVE01MjZsaEViREdod3BMRENaa09SbDlEMWhTbU9yb0lxWlVuZzNQbTJNYTlqZTFJU3k4OTJCYWkxdkpNX0N0MlVSck1jNThjUQ?oc=5",
-      "pubDate": "Fri, 29 May 2026 18:02:00 GMT",
-      "description": "Person with measles may have infected others at Kohl's in East Lampeter Township LancasterOnline",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -241,6 +223,15 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXA2MkpPZG9zWVY3eW9hSzl5V1czMzloYXl0aEVfZE5zcnJvWF80RlJOQkdWX1o2ZWwwamc4YVF0RmFFNXJJU3QwRURPRVlkV0VFazQxN1F0SDZPajNRTnlfQWlvQTJicGJzOW1faWREV1pGVklZd01EMjlEWUlLSEZTRjdYMHh0UmE5RlRDSWd6V21lMEFkeU11dE5Za0Y4bktz0gGoAUFVX3lxTE1iQTdkMl96UnVaVTdqTHg3elo4N3E5aU1PX3JaeTlSamRSOHB0Mk1lTllrWFpEUi1RUzNiRWh1V20wcUFkQXl0R3Zibk4xMVh2bEt0N2drNlR5bVFOWWZMb1A1VHVaNkMzWGl3ZzZpOXZoNEJzWlFEbGVraFNzbEhzQlItRGNETmE4X1g2N3NpcTVnZVVrVkhvX0FYWnlhTlNmM2o3X2hhSA?oc=5",
       "pubDate": "Thu, 28 May 2026 23:53:56 GMT",
       "description": "Measles exposure at Prince Edward hospital puts visitors at risk: VDH WRIC ABC 8News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles exposure documented in Farmville: VDH - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXV1M1I0bzhHWWIzNFd6MkRGc2p1Y0dxLXUzUE5uSElHZWItUFJ4ekozY1YtdE8xSHZNZ3Q2LXJaOGlqZUdhbHFiVF9qSzlpQllPbmo5cTVGOUFFUGVmVmNJWjRoNWh6TzBqVlpmblJIci1fWS1MbU5TZHg2TFIzdlNWUVZITC1fN1FNVWNNUTQyM016WHFZNTdMYw?oc=5",
+      "pubDate": "Thu, 28 May 2026 23:04:06 GMT",
+      "description": "Measles exposure documented in Farmville: VDH Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -538,15 +529,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUNTNmVMOUlSTUFUUThpcGJUdGFwNzMzVk9MSVZFUnVKYnd4am1lTDR0d1E0cE9HZTJnSEpaMmtJUWR5Tmw2dXV0d2Z5U25hQW5NcnpJRTFJYUhmQ2M5S25FTC1aS0xEZnU5dGNIZHd4Z0NuaWFFeHIwb2hfMzdCck5EbTNnOFA4dXM4LUhCcWc?oc=5",
       "pubDate": "Sun, 24 May 2026 13:00:40 GMT",
       "description": "More than 500 children have died in an outbreak that the world is virtually ignoring NPR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "County Reports Two Unrelated Measles Cases; Public Exposure Possible at Two Locations - San Diego County News Center",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWF4NzNqbHAyZzZCSElxOUtIWW1tRzBBcXBjdFhsaTVfWnE0QVNFZVRoZzlnSmVIYnJONWRQa1FyRW04WGF5UkJPV3ZuVXJlSW4xZk9XeEtuNHIxdXYzTjRSVFl1dDFYbFNYa0JkNnI3eDh0LUU5S2VJUHJpV1hvS2ktWjhsenVhcUp3Tzd1ak5oSmxueGJXd0F4X2NXdThGZVVvZUxfUTE5cmVxVk1mTmxINURZQnQ5ckHSAb8BQVVfeXFMT2lsaDJlWlJxZTBTZ011OXdmMHlGdXZWWEQxMS1PS2gzRW9Xc2RFSDN5a2s0SWNjMF9qWjBzR0hVT3VJY0hxRDFSZUhreHR5Uk9GcG51aV9CU2hXbFd5dDRHTkxkWkNqTWRNYjZvWTg5bkVyRUkyYWxadTBScWxqRjhZR2JFSGNxbFdMQkJLSmp3YVo5aEx2eWpONDB2T29FNDUyWi1CZ0lBbzF1ZDZ0Szh3RVQ5SFJxRTFwYmJBcHc?oc=5",
-      "pubDate": "Sat, 23 May 2026 17:00:03 GMT",
-      "description": "County Reports Two Unrelated Measles Cases; Public Exposure Possible at Two Locations San Diego County News Center",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
