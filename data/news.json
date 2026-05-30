@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-05-30T18:35:03.598Z",
-  "itemCount": 59,
+  "updatedAt": "2026-05-30T19:39:41.962Z",
+  "itemCount": 55,
   "items": [
+    {
+      "title": "VDH reports measles exposure at Richmond hospital - Richmond Times-Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2o1cDBMbjVGMnBUMmk2ZEgxUWh3Q29Xdm5vQ0FQVHZwUmNTVGJ4ME15anRJNVZkWWltd1dDdTRUako2MGMxSkhicEpOekJiZkJsNC0xcGFSWEFCVHFHYnNjalpObEt2MmVNME5FN1QxUmJZWjY4N29KZGxPVDlYVmgzVjBLdEcyWS1STkZGcFl4SGdzX3NoSmNjcl9BNUszTk5TSWJUemxiOTduQnBOdQ?oc=5",
+      "pubDate": "Sat, 30 May 2026 19:15:00 GMT",
+      "description": "VDH reports measles exposure at Richmond hospital Richmond Times-Dispatch",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Average measles vaccination rate down in Ulster County, report shows - Daily Freeman",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa3phTXRIX29tdnlZSFNBTjNjaWRkV2xYM3N2RHpzUDAtaDB1bkdEMy1TWXZyWXNINTJDWHllUmxpYURPdTV5amZGQ19fRW1QOFdkWTF4cXBLQl8wMzlCT2ZyVTIzRi1hOHVIU3poaGRpdExYeWs0QWQ1X3Z1MVUxTjVKTXNMOVo4aXdSM0VCOXZ0cHR3TnZWVVRQdXhSNEl3NHctdV9jbjhVR0JU?oc=5",
@@ -25,15 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORjhCNUF6aVJuTzdqSVNuaFhaTlA1VmJLMmh1YVhPUUZNTE9abGR2aE9yNDdqc2JpSy1hUWpJUnJEbFBldFhNVHoyYnBqY25adHA4ZDROWnpVY2V2VUh1ZFJ4QzRsc2Q1UHlMOGlzX2xxSzRSNWdTanh5TmI3M25sLXBiNGpxbWMxc1VMbUtoMGpXZw?oc=5",
       "pubDate": "Sat, 30 May 2026 14:00:31 GMT",
       "description": "Measles: Eight more children die in 24 hours newagebd.net",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Data shows record low compliance from Oregon families with kindergarten vaccine requirements - Kiowa County Press",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTkxJZVN6UkxYYVZDaHpWZVAtVUJOLUJNOW03MFY2d2h5YllvSTYydUZmMWlFNFlWTHlSdEZNa1hELVRpb0x1N3BqZmdvcjF2VWN0dWNUVFF3YmhIZ1NCUWc1b19GWGgzSzRsY3RfVDV3Nkk0ZVVzRVhmSGhnZkFpbDVNcWZIQ0JrbFI0LUdVemRXaTdoNFQ4QlhuVU9zTGtnUmM2SE51Z3k5SC1UZ2V5Um5ocGFMZFE3bkRJ?oc=5",
-      "pubDate": "Sat, 30 May 2026 12:08:20 GMT",
-      "description": "Data shows record low compliance from Oregon families with kindergarten vaccine requirements Kiowa County Press",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -192,37 +192,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Michigan ends early MMR dose recommendation for infants after measles outbreak subsides - Sault Michigan News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWTVKem9SdVFxNEpZbVRtU1N5c0k4Sjl5QmpEWllsT3VZUUo3dTI4cjN3a2pseWFrZTlDZ05Kb25CSmhoMEFLelozal9HcGM1VXBIaGpqanRJeTB6RlVEbTlzcEQwQXdRTG5wamtBYjNFWFpWb1Zzak0yYkZBNUFJTWt5aHNMZVRkWDJ2T3FoS0QwU09GVkg3Sm1ZSVdkaGRhcExwMUhZUUpCOVRMYld2c2d1SE52ZThUd1ZtVEpUVk05Tm9IaWpuUFlfVFYyQQ?oc=5",
-      "pubDate": "Fri, 29 May 2026 00:31:12 GMT",
-      "description": "Michigan ends early MMR dose recommendation for infants after measles outbreak subsides Sault Michigan News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles exposure at Prince Edward hospital puts visitors at risk: VDH - WRIC ABC 8News",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXA2MkpPZG9zWVY3eW9hSzl5V1czMzloYXl0aEVfZE5zcnJvWF80RlJOQkdWX1o2ZWwwamc4YVF0RmFFNXJJU3QwRURPRVlkV0VFazQxN1F0SDZPajNRTnlfQWlvQTJicGJzOW1faWREV1pGVklZd01EMjlEWUlLSEZTRjdYMHh0UmE5RlRDSWd6V21lMEFkeU11dE5Za0Y4bktz0gGoAUFVX3lxTE1iQTdkMl96UnVaVTdqTHg3elo4N3E5aU1PX3JaeTlSamRSOHB0Mk1lTllrWFpEUi1RUzNiRWh1V20wcUFkQXl0R3Zibk4xMVh2bEt0N2drNlR5bVFOWWZMb1A1VHVaNkMzWGl3ZzZpOXZoNEJzWlFEbGVraFNzbEhzQlItRGNETmE4X1g2N3NpcTVnZVVrVkhvX0FYWnlhTlNmM2o3X2hhSA?oc=5",
       "pubDate": "Thu, 28 May 2026 23:53:56 GMT",
       "description": "Measles exposure at Prince Edward hospital puts visitors at risk: VDH WRIC ABC 8News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Update: New measles exposure reported related to Buckingham County outbreak - Augusta Free Press",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3JtQzZHUHR1SlJfX2lxbzJBd2pfT3F4RDB6RHlNZl90N2U5TTFCdGs1NnZFb1kxZXhxM0R0RnVLWGJqY1BkNi1oQWY0WG8zVU1IU2JKMlB5MFVaV3RTUnQwekdUZ0p3QndCQUp6d01ITXZCOHVFbUh1cl9VdGMtN1JXSFdsVUdPaTdSQzF6ZDNDcDFmZk5sTktaV2pRTTY0R3VvY3pqZW1nMjNqTnc?oc=5",
-      "pubDate": "Thu, 28 May 2026 23:12:31 GMT",
-      "description": "Update: New measles exposure reported related to Buckingham County outbreak Augusta Free Press",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles exposure documented in Farmville: VDH - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXV1M1I0bzhHWWIzNFd6MkRGc2p1Y0dxLXUzUE5uSElHZWItUFJ4ekozY1YtdE8xSHZNZ3Q2LXJaOGlqZUdhbHFiVF9qSzlpQllPbmo5cTVGOUFFUGVmVmNJWjRoNWh6TzBqVlpmblJIci1fWS1MbU5TZHg2TFIzdlNWUVZITC1fN1FNVWNNUTQyM016WHFZNTdMYw?oc=5",
-      "pubDate": "Thu, 28 May 2026 23:04:06 GMT",
-      "description": "Measles exposure documented in Farmville: VDH Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -295,15 +268,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2hTM2pCNHEyWFZlWHBMTDIzbDJObF9hNWhTek4yanpQSUltS0V6eTFtTVl6VzUxWlRKZVdIM19paF9XM0xOZ0M3aVlZS3FLLVhZb2tjRC1GRy1QRUoxdEYxZ25QOHhOMzc1bzJkeUtzWmx4QlFLdFhFcXRHcUM0TG5KQ2xjc3Nz?oc=5",
       "pubDate": "Thu, 28 May 2026 14:26:37 GMT",
       "description": "Ebola at the World Cup? Here’s what we should actually worry about statnews.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pasadena Immunization Clinic Offers Free and Low-Cost Vaccines as Measles Cases Surge - Pasadena Now",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMzZpaFJGSnNmQ2FMRU53TTF0XzJYeDJTSXFjVWpoTkpzM0Vnd1oxTmZSdDM1TkZmR0lUdmoySm9BbU5tcmwxb1VvUmRwb3N4eEozUUJUd2k4Y2poVENXMzl4VE1uUl9VWFJNcWZ4bDFBdEhCemdEaW1ZNEFORm4xM3FmNDlGZjJZMTdxQ2Y2VXN2cVNyelp0Z0Q4bWN2NFJDOWtZZ2szM293VGRVekV4Q1pPWVQ?oc=5",
-      "pubDate": "Thu, 28 May 2026 13:18:38 GMT",
-      "description": "Pasadena Immunization Clinic Offers Free and Low-Cost Vaccines as Measles Cases Surge Pasadena Now",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
