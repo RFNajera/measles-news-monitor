@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T19:39:27.267Z",
+  "updatedAt": "2026-05-31T20:34:21.396Z",
   "itemCount": 54,
   "items": [
     {
@@ -7,15 +7,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMlhHYWNWaGNRZHdSMHYycU9fdXF3NUdGcjVyZG0zMkRPUVVuTTg1LXFPUXdFR0ZiTFdTRDBLVUFTcFFuQktITk5VV0dfcWpqTnpULU5ONXp0LUdRVW9kV0p4OGYtT01YeTVqRGFZZWJqcFpyUmhkckltanRhYjVEZkl0Ui00MEIwUnpmdWkwMlNuY2ljeldJU2g0N1VVcnhMQkFucS0xZkllbWdtTXVZY2c5UmUwMWhJTEpUbE1wQjNzMS04elhweG5nY1FJQ3lyYzFpQjVR?oc=5",
       "pubDate": "Sun, 31 May 2026 19:00:00 GMT",
       "description": "Vaccination rates reach new low for Oregon students newportnewstimes.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Two more children die of measles-like symptoms - Just News BD",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtVXFEbUlFeWlJTzJIN2gxcFh2TFRvN21NMG5qMmp6cDlSTE01MVVabXpZanlyUFZLVkFPbkFMcGozMXJpYVFIblhFLXpRNzVERTZaVHNjQ19qSWs?oc=5",
-      "pubDate": "Sun, 31 May 2026 18:13:12 GMT",
-      "description": "Two more children die of measles-like symptoms Just News BD",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -264,10 +255,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Oregon school measles risk rises as vaccine rates hit new low - KEZI",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTDJWNUdvNklpc2NQTTFNR1ZFeGw0dDJLLUwwcVNZeTIwdDJBbmFNbEt0TV84dzJnbFZ1bHNrR0w0UGdPeGtuUVIzYXBxaDVxR2lERE44Wl8yTHZvTjMyazRGVVpXS1hZV3U3cWRtZ0lhWnJXLXFyUUI4SC1SX1ptajNIb3hqOEQxaFlFdXFEZDRfTDVFV3JKNjlzMHROMFA4T1dQMC02XzE4STFvSWVMckpSM2l4SWh2SUs1T0tqU2N3bndscG1qcUxMUzB1TkZuYTlaaVExTWlROTQ?oc=5",
+      "pubDate": "Thu, 28 May 2026 21:52:00 GMT",
+      "description": "Oregon school measles risk rises as vaccine rates hit new low KEZI",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Report finds children were most hospitalized during 2025 measles outbreak in Texas - American Hospital Association",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLWx5UGxKeXpCT3FPcFd1aWpybkl4WTVWSFZ4dHA4TGRRMEs0RUxKcDRVTUVSUDkwSTdlVU1rdTJkZmRIQlM5LWF6SUExX2ZHMFRXUnV3aVpUSWNNa0J1ajFSZUN1M2k3NGZaeEJxcmdLZEN0V21YSGYza0FwOHR1WFI5WEZQT1dTdHlndHpqS2JyNnJ0NC1rMmJpeUxoQldSNjF3eGowbVFpM19aSjZFRkl0czV4ZE0xQzBIZE9ldjhkZw?oc=5",
       "pubDate": "Thu, 28 May 2026 20:45:04 GMT",
       "description": "Report finds children were most hospitalized during 2025 measles outbreak in Texas American Hospital Association",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles is still spreading in Florida as more cases reported - The Palm Beach Post",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV3M3REx1T1VUSHIzbVJVc1pxTkx0dVNnNzdFYUZFb2FMUklBYnBiYlUwUDFUdlFfRmYwaldjdVpGdzFyX1BXMUY4MmY5QTF3N3pIcWdLeEZGNFdsdVY3VUpQQmNoT1VnVGhtWE5QZjhOODcyX01SNURCS3BneExSaDhOb3ZNTHJnMTg3MGswNHZSSXRUNDlteEFET2w?oc=5",
+      "pubDate": "Thu, 28 May 2026 19:58:00 GMT",
+      "description": "Measles is still spreading in Florida as more cases reported The Palm Beach Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -304,15 +313,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2hTM2pCNHEyWFZlWHBMTDIzbDJObF9hNWhTek4yanpQSUltS0V6eTFtTVl6VzUxWlRKZVdIM19paF9XM0xOZ0M3aVlZS3FLLVhZb2tjRC1GRy1QRUoxdEYxZ25QOHhOMzc1bzJkeUtzWmx4QlFLdFhFcXRHcUM0TG5KQ2xjc3Nz?oc=5",
       "pubDate": "Thu, 28 May 2026 14:26:37 GMT",
       "description": "Ebola at the World Cup? Here’s what we should actually worry about statnews.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "In a Vaccine-Skeptical California County, a Potential Playbook To Contain Measles - KFF Health News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXZNWHJVMjNBUmY5NmJ1UGJOMmxfYTVLQnU4WTdiQUZDWkgzcll3bGMtVEt6QTBYUDNzUUhteG5sbTNNT25Ta0Y1RHJFY3BmZXJRUVVxdFppSDlHWmluU1c2V1B6UzZORTlDRTR2cXIzNmhhSjduM09MOTRwNk1kdWg5V0o2S3VYMVJGUWVEXzhGR1FOWElGYUNoSHBhOXU2UnFEelg5UW5UR3VJMXNn?oc=5",
-      "pubDate": "Thu, 28 May 2026 09:02:03 GMT",
-      "description": "In a Vaccine-Skeptical California County, a Potential Playbook To Contain Measles KFF Health News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
