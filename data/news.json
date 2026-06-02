@@ -1,39 +1,75 @@
 {
-  "updatedAt": "2026-06-02T15:37:00.345Z",
-  "itemCount": 78,
+  "updatedAt": "2026-06-02T17:45:08.040Z",
+  "itemCount": 76,
   "items": [
+    {
+      "title": "As countries prepare for the 2026 FIFA World Cup™, PAHO issues recommendations to strengthen measles surveillance and vaccination - Pan American Health Organization (PAHO)",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPelVucDBlNWxKcTlTeS1ac1lDTjkySHJLWnJUYmE3OG9wT2E3X3VieGNoMllUMU1iN0VSWWFETjh3NVdkOE9KaGdmMFhlVHhHa2I3c3Npd2xQWXBkUEZuOHNlZDFxbHE5VzZhM1ZjVW1jaHk5ZjlIWWxiSnhma19Ka3pNcEhXXzZ6b2IyOG1UTlZVcHdEM05rQWVkM2RqMXVrc0tNSExnXzFaSnRfTmoteDUtYWtkX2M?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 16:20:54 GMT",
+      "description": "As countries prepare for the 2026 FIFA World Cup™, PAHO issues recommendations to strengthen measles surveillance and vaccination Pan American Health Organization (PAHO)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "VDH updates measles dashboard with even more cases - cbs19news.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSzQ4SnJBNTFlQUw2ZnlEQXFadFRBUDNOM3J0SWV6aVFjeThyYkpwdVJ3MGlPRThOM3psOXNjbHJlUWVjTmhNVmF6akFRbGdCUlF3RnBBWDNLU3l2ZGc1anNqU3hCY1VUX01NYUthRkZNWW1mQ0pmY0daSENwUmIzTVN6SlZ6MXcxS05uNDROajM5b05ic1Y0RTVZR3hleTJTZjRWWE9xTUd4R01ETUpmTV9HZzJRUHpRSjFzMWRkVk1QenlhcEN3MUlDOA?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 16:17:00 GMT",
+      "description": "VDH updates measles dashboard with even more cases cbs19news.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "T cells may be key to stopping measles virus—and its deadly relatives - La Jolla Institute",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTUdhZFFMdkFUYXlKMTBVVXJhTnFiRWkxMFlPcVo2ZU52WlMwR2luNlViMEVQRUl4cUhsVFFZUjhIeC1wWEhLNktNd1hVRUVPME5oNll1dzdaTVJsWXJIMHlFVjJCSUhyUW0zTVBFR2tmbFNfSXhQc1JYZVNBS0ozZnNYN1JCUQ?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 16:08:03 GMT",
+      "description": "T cells may be key to stopping measles virus—and its deadly relatives La Jolla Institute",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "CDC reports new measles case, 491 contacts identified - Taipei Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdVRpVEYyZnB5NURpazdXbWktVC10S2VBR1NjMXNIRERfQzctU0gtZnpUbEF2dEVSYWRHUkM2ZnJzVUp0SHdtZTRCSVRhYnFaWmduRHlPbDhqR0cwc3ctZUVUZ3NDV3dneVl1cmdhekVIaXVLM292cjRB?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 16:00:00 GMT",
+      "description": "CDC reports new measles case, 491 contacts identified Taipei Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "European approval for CSL’s immunoglobulin Privigen - The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSjY3c05NWTJWeExDWjZYbTZ0ZjAtUzFOd2pCTkhzeWRUb3VfZlFaellCRzEwanFmZDczN0xRd2xQbGJxRnVFdW50RDdwRmNzY1gzY0swY1NNQzB6Wkc0TnhWdWt1UnVQdWk0cnRfQ3JYZmZVbWJDaU81UTAyS2N6TGpDeEFyLV9NMVFKbjNKTDdTdE9JWkJheHR5SQ?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 15:56:15 GMT",
+      "description": "European approval for CSL’s immunoglobulin Privigen The Pharma Letter",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Hantavirus risk to cruisers 'very, very low' says expert, instead focus on preventing the usual suspects like the flu, and increasingly, measles - KHNS Radio",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTmhoUUk1WE52STJMUHlYbWdiMjVqX0JTVWRSYjM3UFFzbkVablFYOU5iUm9NRnhzLXhQU0c4UkYtRHlHb2ljdWFQZVFPeHpUYVlTSWhyMmlLMUVaWU5pYTBuQjdRZmVqMnl6OEM1T1ZFT3RjVUl1dGR4VUdYamNUVjZySk9vaktCbHNrenctMlRDXzBNZzFleXVFUUVlS0FpRDN4Vm5TcnNWNzZnQjI3Vm0zU3ZTRnRxLXVpeC1PZGZOdVFyOHdWcm9SU3ZrZVlUYUlTNXRIMmRhTE11ZnoySEJqNzlBMWl4VTVnZg?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 15:40:40 GMT",
+      "description": "Hantavirus risk to cruisers 'very, very low' says expert, instead focus on preventing the usual suspects like the flu, and increasingly, measles KHNS Radio",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Interest in ‘toxic’ measles treatment surges after Joe Rogan podcasts - Nine.com.au",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSzJvTUgtc0hGemN1N3pka0ZNdTJkYnFnSEJ4RWI0YUZJWVhUbFlueWd3aEFraUJSdlBJc0RzU2JzSFRkNkNlSUc0VEV5dEFzcDFYSnpTU0tXYjdXUm5yWEU2dFBfdkpsMGhYTzF2d3JSZlhhdXZidU9VQjBFczZIMUdXNEdhZk9OTS02b3JSNWRkVmxkMWxnZmRyZVh5OEFPRWtlak5reXlIZ2V0NG5LanRZMkRSbEE2eW1CRlgtWlpzSWU4MXc?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 15:09:04 GMT",
+      "pubDate": "Tue, 02 Jun 2026 15:12:12 GMT",
       "description": "Interest in ‘toxic’ measles treatment surges after Joe Rogan podcasts Nine.com.au",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "T cells may be key to stopping measles virus—and its deadly relatives - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Bd3c4Sk14dFNfb3g4eWJyc0NOY0tfeW1hRURDX3ZlVnNzdGxtQ2NiUWpZTjdvLUo1dXdLVnh0Qlp3dHdQTXpXcW5MS1ZGZDJXdGJuTWtzNWNIekU4QWl6MC03TzVrNWwyT3ZiRlFyNGhVUzFYTER4WnJYRjMtbzQ?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 15:00:01 GMT",
-      "description": "T cells may be key to stopping measles virus—and its deadly relatives Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Bangladesh faces further measles risk due to lack of vaccinations, travel - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONjBkeE12aVBOZFZiR3JwWi0yeEFEcGJudDFLM1dLbDJhbzlVdmdKRWlONkVLWTQ3a0RzWjYzZHRLMl9CaUhKT0VSdWxTaGtEMmtDWU9NQUtnb2Nkb0JWYU1kbi1WRGh2NVFjQVVwR0MtbFg4aU40QWQzUnpwYkVYSXN2Y3NuLTMzMll4d3J3bFM3NUhxSnRrTll1ZGNvRmRZVlF3eGxiTExuckhVZXpvT3BfSG9VQXZXTWtfVmttZlpPSnVYTXRnN0hzOEI?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONjBkeE12aVBOZFZiR3JwWi0yeEFEcGJudDFLM1dLbDJhbzlVdmdKRWlONkVLWTQ3a0RzWjYzZHRLMl9CaUhKT0VSdWxTaGtEMmtDWU9NQUtnb2Nkb0JWYU1kbi1WRGh2NVFjQVVwR0MtbFg4aU40QWQzUnpwYkVYSXN2Y3NuLTMzMll4d3J3bFM3NUhxSnRrTll1ZGNvRmRZVlF3eGxiTExuckhVZXpvT3BfSG9VQXZXTWtfVmttZlpPSnVYTXRnN0hzOELSAcwBQVVfeXFMTUFwSnh3WFRjTm9SYURCNTRQb3lfeWloVjFNdklKTDN3MzNIaXNvekg1T1NqX215a2VOV2dzaTNtdG5tLVJZOHNTWGpia3R6U1dEWGhwSGNUa2l4dkRnd1pjcEw1dnhuY3BGVkJYbGd0MEI3QlVkV01jWi1ORVpCVHhTeWFjOVphYzdkdHYya1NoYlpzZmFtOFBLNGFpMEhDX0RUTUZTdFVSZndUN3JhcWt5Q3pEOTBTdkE5c3kzWG5GcEJFdi1iZkNrS0ZQ?oc=5",
       "pubDate": "Tue, 02 Jun 2026 14:10:22 GMT",
       "description": "Bangladesh faces further measles risk due to lack of vaccinations, travel South China Morning Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases in Japan so far this year surpass 500 - nhk.or.jp",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ucF9uYVVaQ21LdDVNaEs1czQ2LU5CTVhSOXJvWko1NnhyOENDWjdQZmNkdFVPazBSRldIZm1GYjZPTFBxQ0NoSUdJRkZSZWlDVFpJNlNaSExlanhxZ2VSLVhR?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 12:56:39 GMT",
-      "description": "Measles cases in Japan so far this year surpass 500 nhk.or.jp",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -66,10 +102,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Manitoba hosting telephone town hall in measles hot spot - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qWnBtaE1tWDdzdmdpMEtfQVJ1RjFYTVJaOUJNc2hJb0dkTzA1Z3lacHgxUmRpY1pZcU5HSWZJc2JrR0w1UDN5Ymx0SDEzdXRWVHJxX1d0M2VOdw?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 11:02:59 GMT",
-      "description": "Manitoba hosting telephone town hall in measles hot spot CBC",
+      "title": "6 more children die with measles-like symptoms in 24 hours - Just News BD",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOaXNQM3BIWGdvaTNFbzdXVXUyTGNpdzVJN3J3SXNtMEh3WXhVd1BmOFNTY3YwM3BLY3NSYkNVeERadGRRVkVPaDZPaUs1TXMzelFVZEVnLUFKZVVkd3F6VA?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 11:14:21 GMT",
+      "description": "6 more children die with measles-like symptoms in 24 hours Just News BD",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -84,28 +120,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "6 more children die with measles-like symptoms in 24 hours - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUd5NGlod1gwcUZEVnZhQlRaUWFvSjVCOFJEQlM4LUVjRDhrcl9HSFluQVlxQXJycVdqLVNKdWN6UE4taUtWVkF2ZzhuRWxsZ1pfSGpCYThCeDRhYWlwbDV5ZV9tVDFES050OFFHNkM1SDdHaHh2Y055ZFdUbTFnNWhEWjVyRHlKbTdQc2pBVjRlVmhDdGxMUmVaMEMwSzFmVkthNA?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 11:00:28 GMT",
-      "description": "6 more children die with measles-like symptoms in 24 hours The Daily Star",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "6 more children die of measles symptoms, total death 588 - Views Bangladesh",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbE9Nb05lalBpUEhnVlVma3p3Q1lFMGVNY3V6enFQRHpXVHp2M2ZzSTNLN3hwd21QZzZGTVpkNElSb1c2VVNWNjNKdW9XV0x4ZG5NNHVRWGUyUjRFeDNLQ3hpOWVkWHlGb0phMGktU1NLV0dnaExYUDk2cUJpRmtSb2NJQmNjSlpKUDFEQg?oc=5",
       "pubDate": "Tue, 02 Jun 2026 10:47:43 GMT",
       "description": "6 more children die of measles symptoms, total death 588 Views Bangladesh",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases in Bulgaria at 341 by end-May - Azərtac",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeWRFeTRpNUlBTS1fRWZvNHRiNjlXcGRkcjcwZ250Q0VaOEc3YjZSY0xSeVBfWm5NWk5qMmZNYUdZVlF4UHhzRUxJTENybVl3S19NQ0t4cXBNRHpSYjd1eG9NQnVpNl92cmZKOEQ5dUg2bXJ6TnFCQ1RxT0JRcWRvUWV3b1pFUQ?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 10:38:00 GMT",
-      "description": "Measles cases in Bulgaria at 341 by end-May Azərtac",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -138,15 +156,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Why is Michigan loosening its rules for parents wanting to exempt kids from vaccines? - KNKX Public Radio",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVEc3SHI2VWxvRXA5WTlzUUg2am5NRDZQcFdOQTBlVUljbmhkZ1BJQ3FvZGM0WTN5aEFMSy1xY19OSG9FcGt6dlhFVmw0bE9pNnZxYmVlaHF1NHllRm9rb2JVdHhvWGdKZW1QN2RyMGhWNWwzckQ1aUoyLTN0X3RRTFFkWHFtOWI3XzVCVHVoSW82NzltZU1CMjdqVUJTY0JiREZCOVhvcHZpZEI3V0xOcTJka2pfZ2s?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 09:00:00 GMT",
-      "description": "Why is Michigan loosening its rules for parents wanting to exempt kids from vaccines? KNKX Public Radio",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles Outbreak In Bangladesh Likely To See Surge, Say Doctors: Here's Why - NDTV",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjNpdzBWZ3g4bi1MaXFlWTB2aElPblZNN1hHSnlxUkJMWjJTWURGUTIySlZaNlhSNDhYbC1tLVprS2pET184VXZDUWpzWmloakZ5SEpEcE5qMmtSTm5memVoRVkxVGpWX0hxdEx0REhCbDBGQnE0NV93cWllX005dTdSYzJFODBhNHhLRy1NeWRTUzFrLWFKSkxPYWViRFJ6VHN0U09HQ3d2aV8wM0HSAbQBQVVfeXFMTUJveW80c3E1Qzh2ZVBKTnRwbkhIRGhiUWRsQ3FmMGRjSFZIcGZ4UGl4UkY5SUNhdFdHQzRiSTlzYTZyUkNUbzFuTTVYYk5fa0ZaZlNxMDAzc0g3SW9YcUtMNTlST3NVWV9FYmIwRW4xVW9DX0Y0Qm51S3k0S3hsb2Z0Q21Eb1RIRnBodmVWeEtlaDBORF9QNllRTmRUTXlnRWV4c0xFclppZC1leERUYlNXWFU1?oc=5",
       "pubDate": "Tue, 02 Jun 2026 08:33:04 GMT",
@@ -156,10 +165,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "In Vaccine-Skeptical California County, A Potential Playbook To Contain Measles - Vaccine Advisor",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMS00QTJnTzVUTFdhMENQNjhMck5ORDNieGZPek5uQ1hNUU45eHFxYTBlbUF2TzNGZ2ZlR1FwdVBSMjVBc1hubDkyY0F2V0t4M0k5ek1EVzhSR1FDRVMweEs5aHdjZExmTkZUU2ZUYVZVSXBSVnk5VFQ5TFp0LVBoOHRtZFM1UmVJSTVkNFhzdDVLeHg5RThNWXR3RGJ6MjVKQS1rcDNWMklYV20xQjN2TDhPcHU0QQ?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 04:00:00 GMT",
-      "description": "In Vaccine-Skeptical California County, A Potential Playbook To Contain Measles Vaccine Advisor",
+      "title": "Measles cases in Japan so far this year surpass 500 - nhk.or.jp",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ucF9uYVVaQ21LdDVNaEs1czQ2LU5CTVhSOXJvWko1NnhyOENDWjdQZmNkdFVPazBSRldIZm1GYjZPTFBxQ0NoSUdJRkZSZWlDVFpJNlNaSExlanhxZ2VSLVhR?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 06:57:39 GMT",
+      "description": "Measles cases in Japan so far this year surpass 500 nhk.or.jp",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -210,10 +219,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "5 American cruise ship passengers leave Nebraska quarantine facility - KCCI",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZjE2WkNRRS15REZiXy1USFRod2U3N3RlMGk3c2VhLWVLNDdSUHI0YnJ2VWJpdFlNRVNPREJrM2FhdnliR05sU05yRk91UFFhMTZud0FnS2w0QVFobjhiSHl1ZGt4SVFRV2FKMFAxY29OZnpXeU5TRTdqQVNGNGVwYmJETExZWXlkbFFYTzNCVm1EY2RvVjVLc2I0OFZVb09BY3ZiMkhnenJDZw?oc=5",
+      "title": "5 American cruise ship passengers leave Nebraska quarantine facility - WPTZ",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2dwWnZzR2hqbE5JWHBtNEtEeVhsbHpNUm1zY1B2UGV5SHpIZGo2VlQ0cWRwOWtUM2l0M0ZnSmdpMEVlNDk1UWRpUHg5Nk9raUxWcUFfR3hXRTNDaE11VFRONnFWelFvTXp0Q21SNDhhT3V3Sm9QX1E3WGhCNHF5YTkyaEJuNFN5ZGVIaFZsRFF0dlpHRU9Ya0c0Mkd2bDVCVHdIZkxPSy1HbzBf?oc=5",
       "pubDate": "Tue, 02 Jun 2026 00:12:00 GMT",
-      "description": "5 American cruise ship passengers leave Nebraska quarantine facility KCCI",
+      "description": "5 American cruise ship passengers leave Nebraska quarantine facility WPTZ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -241,15 +250,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNXNzdDJDa3VXc1NlQi1yVm8yNWxSSWdubzl4M2ZKRWY3dWdTMTJKNWNJNWM2bFhtaU9CX3ZPS1EycDRfeGFFS1ZjMFFMVm1rdVZRVHF1N3dTMk02aW5VWEJmcjE3TDlrcFNxc3VlaGM5LXpxUW54Q1p4Y19wRnU4U3VEcTl3VU5GWXdYUFRkVmJaMC1UWi16a3lHb1JSdw?oc=5",
       "pubDate": "Mon, 01 Jun 2026 22:43:55 GMT",
       "description": "New measles case prompts exposure alert in Las Cruces Albuquerque Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Town hall to be held in Manitoba’s measles hot zone - Winnipeg Free Press",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTQyekM3ems1aVJIQUMtRjdocHhVN1pWRFJwNC1XaUNScUplN3lNTFVEbUJnN2RBNWY0VHhlXzV1OFBBaXZKaVBFTnJncGhCdDY0NDJUS0dKbjNuQnlmR0hBU2lzR1cxb1BVRzNoM3F2aFlwSXA2dWExVktBdHBFUzRBQTl0QWM3ZFZYdlRvdlBTVURzWTJ2UVctX0MwbnROQ2FHbm5EMVVMMEtW?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 22:27:56 GMT",
-      "description": "Town hall to be held in Manitoba’s measles hot zone Winnipeg Free Press",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -588,15 +588,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "IDSA Warns of Escalating U.S. Measles Threat - Infectious Disease Special Edition",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaWFLaFRUUVZoUWJYVTRNRHpoMzF1SGxvU3dpV3JhSTBTSzJlamNwdjBWU1ROV0VlT1Fjbkw1VEJvbVRrWm9MdHd1aE1SV205SE1CXzM5NFNyTlJFaWpVVEZKNVFXZ25UclRfWUJGNmpfN0gxQ3N5TzRNSjNibURsLWlaNENScU1wVExXQTh1aWJZUlZkRjM4T2lvMWZyb3c4?oc=5",
-      "pubDate": "Fri, 29 May 2026 04:03:03 GMT",
-      "description": "IDSA Warns of Escalating U.S. Measles Threat Infectious Disease Special Edition",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles exposure at Prince Edward hospital puts visitors at risk: VDH - WRIC ABC 8News",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXA2MkpPZG9zWVY3eW9hSzl5V1czMzloYXl0aEVfZE5zcnJvWF80RlJOQkdWX1o2ZWwwamc4YVF0RmFFNXJJU3QwRURPRVlkV0VFazQxN1F0SDZPajNRTnlfQWlvQTJicGJzOW1faWREV1pGVklZd01EMjlEWUlLSEZTRjdYMHh0UmE5RlRDSWd6V21lMEFkeU11dE5Za0Y4bktz0gGoAUFVX3lxTE1iQTdkMl96UnVaVTdqTHg3elo4N3E5aU1PX3JaeTlSamRSOHB0Mk1lTllrWFpEUi1RUzNiRWh1V20wcUFkQXl0R3Zibk4xMVh2bEt0N2drNlR5bVFOWWZMb1A1VHVaNkMzWGl3ZzZpOXZoNEJzWlFEbGVraFNzbEhzQlItRGNETmE4X1g2N3NpcTVnZVVrVkhvX0FYWnlhTlNmM2o3X2hhSA?oc=5",
       "pubDate": "Thu, 28 May 2026 23:53:56 GMT",
@@ -637,15 +628,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLWx5UGxKeXpCT3FPcFd1aWpybkl4WTVWSFZ4dHA4TGRRMEs0RUxKcDRVTUVSUDkwSTdlVU1rdTJkZmRIQlM5LWF6SUExX2ZHMFRXUnV3aVpUSWNNa0J1ajFSZUN1M2k3NGZaeEJxcmdLZEN0V21YSGYza0FwOHR1WFI5WEZQT1dTdHlndHpqS2JyNnJ0NC1rMmJpeUxoQldSNjF3eGowbVFpM19aSjZFRkl0czV4ZE0xQzBIZE9ldjhkZw?oc=5",
       "pubDate": "Thu, 28 May 2026 20:45:33 GMT",
       "description": "Report finds children were most hospitalized during 2025 measles outbreak in Texas American Hospital Association",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "A Timeline of RFK Jr.’s Mixed Messaging on the Measles Vaccine - FactCheck.org",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPakE2THhYdVcydHBxOERwdmpzY0xJX3dkNWNLLS1iYkFkQ19sU2hiY012cnVoT3lSVjVqU1owTGZsNG4tNmhqbjFfSXpPbnk5ekExUGt2TkxWRkQyZkdtbVNtRW42Ym02eGxwYWNXSm8zWlFqUmlmekpXY3pjTXViWUd4SUQzNl9lWk90UDhReS1OekdqWl9rMGVHUXM?oc=5",
-      "pubDate": "Thu, 28 May 2026 16:45:12 GMT",
-      "description": "A Timeline of RFK Jr.’s Mixed Messaging on the Measles Vaccine FactCheck.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
