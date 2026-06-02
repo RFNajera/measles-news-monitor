@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-06-02T19:29:17.913Z",
+  "updatedAt": "2026-06-02T21:16:33.552Z",
   "itemCount": 54,
   "items": [
+    {
+      "title": "Doctors see rise in vaccine-preventable diseases in the U.S. - WCVB",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc1ZPTVRCeXQxOTg3U1loRVkxUzZQckhnS0p1YTJEb1dqYzRPYkhmNmxVM0JNUUJaeXUzWGdidjJ2eFljRGc0dWU2dU5NTmJadlZreDJ1MEVpaWkwcW01aTFvdDVhQTdWbjZ2NHNLOTFua05TTVJyV2JHNHF3T0FHcWozajM?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 21:03:00 GMT",
+      "description": "Doctors see rise in vaccine-preventable diseases in the U.S. WCVB",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "WHO drastically downsizes Ebola case count in DR Congo outbreak - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXB5c0VKVzFNaXJLSExsTW9GM3NBNDROVVZvUERnbjl3SEx6N29XR3hTNFBrcHFxZkJRdXVNWFg3ZllaNEZOOUh4MWxMQnVwNlVoMGhMZzBzNktVWjFObDB3ZkZ2U1lxSGR0dTgySVVfdzB3V0JuaEFLNUVUVnNJQUdibmd1SDNoV2x0WUw2NlVIeVVVN3Jxeg?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 20:42:00 GMT",
+      "description": "WHO drastically downsizes Ebola case count in DR Congo outbreak CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pa. Dep. of Health warns of potential measles exposure at local Kohl's - WGAL",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV0UwQTBrY3dhTmFDOU8yQUU4a054T1BwVTVESHBfOWJsUm1RNmh4YTZRRldLQWNUUUdVdDJkR19Rc1dObzJORjVVYXRQY0NqOVlzM29EVU5laEFGZHAxYW9LcHNrTkhPendpNVVZODBJd2tuamd0WmV1dU5yb3VKbThVX3BtZTlIMU5jUGg0OUdpYk1raFlva19ka2JocWZIRjZtcWtkMmI5UUZIQTRGV0xXdWxONW85?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 20:33:00 GMT",
+      "description": "Pa. Dep. of Health warns of potential measles exposure at local Kohl's WGAL",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases mount in Florida, as PAHO warns of increased activity - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXFsUDB0MDFYdzVxQXVxVzlwMzBFWkd6YUpYV3BtcmtLSGJEWkljVFRkbUc0UFdPcWJ3blZhTl9qRUNWMDQ1c2RtVXA2TEpNUjZEcEdQYXMwaXhMVlNFSEZKS3hFaHRyV2d2LVNMUlRvZGxQR0ZSYWxlR21GOHFKN2QzS1NWWXp4clpmMzZfczh5ZzN2UzJz?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 20:07:00 GMT",
+      "description": "Measles cases mount in Florida, as PAHO warns of increased activity CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Data shows record low compliance from Oregon families with kindergarten vaccine requirements - The Lund Report",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdkRFVEhjYUxDUGFwc0JfcTVObTkxY010WGo0S0JIeXRCRVlPTGFBdjJySEUzdHNIOG5VN1loRm5qd2o5MS1RVmpmWXBpWWEzWFF3bVVncXRmYzUyMDhQOWo0YVhaVVpIOWdoYWpDUGd3NF9DZE1hR0FZdzVvaEVyQlY3cDFNWUY2Q3AzeGhxWVhodVRnZnVUUzFIX2RGT0dDTjZ0Wmhmb1FKY2E4NENJWDRVT2ZETzg4dl8zWQ?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 19:29:31 GMT",
+      "description": "Data shows record low compliance from Oregon families with kindergarten vaccine requirements The Lund Report",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Measles cases rise after Eid lull - The Daily Star",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWnFPcXhkREtvMS1CeGc5MnBxQjFPV0FNaHFfM2N2QWxnZnZaaFJCZ0RtdWlSMWJWWXE3R0VfUHloV2xfN1dMMG5ZSEM5V255NVJlUWhPVEtjX1gzdzE4ZUtPZmFWd0xWTU5Ebmkxdi1FUHB6VWw2YTVlZTdEUmRmWGpFOUJBZXBLYVBiRG9kN0tiemplcUE?oc=5",
@@ -61,15 +106,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONjBkeE12aVBOZFZiR3JwWi0yeEFEcGJudDFLM1dLbDJhbzlVdmdKRWlONkVLWTQ3a0RzWjYzZHRLMl9CaUhKT0VSdWxTaGtEMmtDWU9NQUtnb2Nkb0JWYU1kbi1WRGh2NVFjQVVwR0MtbFg4aU40QWQzUnpwYkVYSXN2Y3NuLTMzMll4d3J3bFM3NUhxSnRrTll1ZGNvRmRZVlF3eGxiTExuckhVZXpvT3BfSG9VQXZXTWtfVmttZlpPSnVYTXRnN0hzOELSAcwBQVVfeXFMTUFwSnh3WFRjTm9SYURCNTRQb3lfeWloVjFNdklKTDN3MzNIaXNvekg1T1NqX215a2VOV2dzaTNtdG5tLVJZOHNTWGpia3R6U1dEWGhwSGNUa2l4dkRnd1pjcEw1dnhuY3BGVkJYbGd0MEI3QlVkV01jWi1ORVpCVHhTeWFjOVphYzdkdHYya1NoYlpzZmFtOFBLNGFpMEhDX0RUTUZTdFVSZndUN3JhcWt5Q3pEOTBTdkE5c3kzWG5GcEJFdi1iZkNrS0ZQ?oc=5",
       "pubDate": "Tue, 02 Jun 2026 14:10:22 GMT",
       "description": "Bangladesh faces further measles risk due to lack of vaccinations, travel South China Morning Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases in Japan surpass 500, nearing 2019 level - Latest news from Azerbaijan",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05OEN2WmpvMEpsTGZXWnA5d3M1SFl5Q2d3eTh0ZkJQcm14QS1mZWoyNWhZRWRXVU9DdUtBZGwxM2VRMUVES1NWbW81WUJUMzNJTlRyRl9zMkI3X29zXzVIYWdjSUp2Y0FfMU4tdmhFSWhpelJ4dDZjbU52SzNIQnM?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 12:07:21 GMT",
-      "description": "Measles cases in Japan surpass 500, nearing 2019 level Latest news from Azerbaijan",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -201,15 +237,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Federal inmate in Deming tests positive for measles, health officials link possible exposure to Las Cruces - KVIA",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbVYwRWdVR0VJY1EwRDFDWUpEOExBcE10Nk1RVkJfVlJzT0NkYUotTUtBZmpLZ2dsOGljNlVDaGFlQUhuWnR1OXg4cVVvWENiVVZlX2xGbEN5UC1qZ3kySVBRNmh1VzIyTHRmb2JscUwtNGRrRUwzOExvbDNTQVJ6ZzBpYkZxMk5KcGFFV09TdW5VcGhweC13YnFiSFBJeFAxN29IMnloamZFWjMwU2d6SHk3bmh5ZVhoWkJOT3BjczFFa0pacmJRS0Z4M1lWMy1CZmpha3UzRlhsMEhwSWo2aGZidlo4V3h0?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 21:57:38 GMT",
-      "description": "Federal inmate in Deming tests positive for measles, health officials link possible exposure to Las Cruces KVIA",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "PA Urged to Vaccinate to Prevent Spread of Measles This Summer - Berks Community Television",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWEh5VXItRlE0aFZZNXZPUUJfUU9vNHRwZGtZX21PVkQ2cWZCdWNsY1dOMG9jX1B6TUhqWk9ieWV1c2k2S1ZvYnBkbVJmNWlfaTFEY2gwcUMycjlTNU1xTTcybHE0WEtiQ3ZWZHZZbWtLZ2lxRG1VT0xTc2xndWZXQWZuMHpCLVBtLU96R1ZwNDFBTHg3dWxILTFSYw?oc=5",
       "pubDate": "Mon, 01 Jun 2026 21:53:37 GMT",
@@ -255,15 +282,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Misinformation threatens measles elimination status, overall health. Can Ky. alter course? - The Lexington Times",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQm91NkNBOFg4dmdJZWdCVjhnY3pMTGQyUUFMdkZiMmc3N3pkQXQzLWtfcmJucnB6T3pRQnhKeWJydFZtMmhZcTZINmVmRkdJQWxaenZZTXZzOEhFUWpwT1JYNzhTd3NQT2dhcXlaczNFYjJ1bEQ2QjI4anNWYy1XRkdydVJHTXp4UG9STjFnUWhhOHBNb0pfMkFwS19tSWZPbHJTcDhwYnhNU3Fid0xuRVlSQWpCM1U?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 19:59:54 GMT",
-      "description": "Misinformation threatens measles elimination status, overall health. Can Ky. alter course? The Lexington Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "2 new cases of measles reported in Lancaster County since Friday - LancasterOnline",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOElXSmttaFNUNXRQNmhwZU44WW5KdF9LMTRpZTEtMHZEU3pYbEtHNjVDd1NJeWFtN3pLM0Jwd0w5VDFZeHY5MEV6Uk53TVdFdWEwNmRhR1Y3bkpVaTdSTjYtbVY2S2ZSQkp6TnpKWVB5OHloUHhqNk5GTHlWczBnMTNvcVZFNHNjbkR5M1owdW41WndTeC1xcnNkWTB6dUV6cC05SU0wR3JOQTJJUDVNb2p4OWNUeVRUbkVpb1ZUVjdMRVhhS0s2X3laLVQwRzlEOWlueXViTldrZ2ZSV0tORTMydnFMWlY0bmc?oc=5",
       "pubDate": "Mon, 01 Jun 2026 18:49:00 GMT",
@@ -291,19 +309,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "As measles rises, Pa. parents should be able to see school-level vaccine data, some lawmakers say - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOG1ZSkxkUlFzRHRDWWhFODl2ak1lMGNxejdCV0NpZkJjcmZ2SnVtdXNtc0hSYlNUMG1PUmRBWGlOREZyX1pPU3dtdjlQaV9zU2Rrck1iWmxzcXVkRTVvaE9ZOTlCWVR3Vk16aWxYZ183dFM4Q0xDV1dZWU8ySl8tNmNSSzZ6OTlFOXhQdjdVempTN3I2UldJT3Z3TmtPek9iSk5aQ1kzUTR4UjkydE04?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 09:01:00 GMT",
-      "description": "As measles rises, Pa. parents should be able to see school-level vaccine data, some lawmakers say Inquirer.com",
+      "title": "VDH reports measles exposure at Bon Secours St. Mary’s Hospital - Richmond Times-Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2o1cDBMbjVGMnBUMmk2ZEgxUWh3Q29Xdm5vQ0FQVHZwUmNTVGJ4ME15anRJNVZkWWltd1dDdTRUako2MGMxSkhicEpOekJiZkJsNC0xcGFSWEFCVHFHYnNjalpObEt2MmVNME5FN1QxUmJZWjY4N29KZGxPVDlYVmgzVjBLdEcyWS1STkZGcFl4SGdzX3NoSmNjcl9BNUszTk5TSWJUemxiOTduQnBOdQ?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 14:44:00 GMT",
+      "description": "VDH reports measles exposure at Bon Secours St. Mary’s Hospital Richmond Times-Dispatch",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "VDH reports measles exposure at Bon Secours St. Mary’s Hospital - Richmond Times-Dispatch",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2o1cDBMbjVGMnBUMmk2ZEgxUWh3Q29Xdm5vQ0FQVHZwUmNTVGJ4ME15anRJNVZkWWltd1dDdTRUako2MGMxSkhicEpOekJiZkJsNC0xcGFSWEFCVHFHYnNjalpObEt2MmVNME5FN1QxUmJZWjY4N29KZGxPVDlYVmgzVjBLdEcyWS1STkZGcFl4SGdzX3NoSmNjcl9BNUszTk5TSWJUemxiOTduQnBOdQ?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 00:42:00 GMT",
-      "description": "VDH reports measles exposure at Bon Secours St. Mary’s Hospital Richmond Times-Dispatch",
+      "title": "As measles rises, Pa. parents should be able to see school-level vaccine data, some lawmakers say - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOG1ZSkxkUlFzRHRDWWhFODl2ak1lMGNxejdCV0NpZkJjcmZ2SnVtdXNtc0hSYlNUMG1PUmRBWGlOREZyX1pPU3dtdjlQaV9zU2Rrck1iWmxzcXVkRTVvaE9ZOTlCWVR3Vk16aWxYZ183dFM4Q0xDV1dZWU8ySl8tNmNSSzZ6OTlFOXhQdjdVempTN3I2UldJT3Z3TmtPek9iSk5aQ1kzUTR4UjkydE04?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 09:01:00 GMT",
+      "description": "As measles rises, Pa. parents should be able to see school-level vaccine data, some lawmakers say Inquirer.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -345,10 +363,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Colorado health officials confirm measles case in Delta County child - KDVR",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcXNSdkU4Vlkta01ncFRqRzBMdDBVaVMxaXBvRFdZUmVBQlZvbmU2MFBTM3R0YjJRNVVncUhMTkJmbWFURllQSUhXa2hkMTlFOGRfYmtKNmRhNnhFM0Z3TWtnblRIdjdiaFNLXzdPTVQtUW1Nc056aHg2Zkk1bEVpa3FOa1h6MXVJMnVkY1VrdEd1S0lGRjRJYS1fRU1Bd9IBowFBVV95cUxNSV9KRmtpYUYzSE1vcW1zeXMzMzVEQmZLbFZ1WVBRYWFPYVk5aHVjazFEcmlHX0hqWkR0cFllZHhOcHZ4Tk0tVWNFVjJTRDhQY3lTWDQxdnVCQ1NNbzhsUV92VVpJMEdwbC1GcTd6cTRJektxcHdsZWh2NGIxbHh6cEdxeGFzRTNSSXpMeGpQX2lNMXdkOTRmU0xmZnNHQklGbmEw?oc=5",
-      "pubDate": "Sat, 30 May 2026 22:34:19 GMT",
-      "description": "Colorado health officials confirm measles case in Delta County child KDVR",
+      "title": "Measles, whooping cough spike amid low vaccination rates - St. George News",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSFZMZW43RWs1SFcwc1p6Y2gza1NUTnpnUFhPcTdJblhoTy1SRkttZzUwLUhISGNXWlBoeXVsRnA0eXU4U3FUS1JlQ0F1WG5sM1VsZ3NUXzlKVkNCR0xVd0wwbzFVWC1yYWVKXzFCZ3lydGZiQ0prUFVMVHN6aXNKY05LbTVkU2xFbTFJNFpqQzJyUW81NkpNTkFQR0I3cEZiT2FoMHVzbXRjbWozc0ROQ3RYc3RFMEFKVkswVDFvX1VqREVCcEdLOGZjLUk2N3VVcjNWajF3?oc=5",
+      "pubDate": "Sun, 31 May 2026 00:00:00 GMT",
+      "description": "Measles, whooping cough spike amid low vaccination rates St. George News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -399,15 +417,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Officials warn of potential measles exposure at a central Pennsylvania Kohl’s - ABC27",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSk5tQnpvbGpCWGdRWWlDYndtODVYQndOaVpPU1Qtc2xsdmhZUzRkaWJoSFNNNlFqd25sNUJyUWZ4c1dNX3FhODZjdTlQNVBhb05BQjFydUZObnljcGk3Vjg4VEFKX1ExbENhQk90Rl9mVmN3NHN5MFJEbnp6ZE5TZFFXanduUVJ0d0tIYmwtWlFIOVc2WnRuYWJNN29KbHdmeDBscUQwTkdXWElNTkpF0gG0AUFVX3lxTFBKaFA0YUd3Z0xHbTU1TXJ5M05RQktXUks3Yi1leTd5SjYtNlVkejR0LXBQUm81NW5mTnlZUzIzVnlWRm15YXUtRHpEYzM4LVIxcWFYZ3lyOWNINUppbTZhWGhsWHFQNGVOMUFEblFkbklrSUZtcEthZ1NtcDVYTE40d2NaTkZhRmg3TXJTYWlaZjBCcXF6RVlpVWNhUm9iSTUya0tBSUwzWE9JQnhlOHprTGt3VQ?oc=5",
-      "pubDate": "Fri, 29 May 2026 18:50:39 GMT",
-      "description": "Officials warn of potential measles exposure at a central Pennsylvania Kohl’s ABC27",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Analysis of Texas measles outbreak shows just how dangerous virus is - Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkRlX2JjS0Y2VzF2RWJ5VEhUWHcyd3gwM0Z5a3hhb2llZE82LWV5RTZpSmNLOFhic3VZaXNMNnVJblhlbHlyZHJHa1JWTXlJeVFEaHlRVVY4RllDTjNOWFUtRDNQNVlaamNqU1pNdG4xRkk1eHlBSmR0WXR1blVTQ2FrYjZVV09Dejh2WTNIM1ZtN2hITUhkcHZrQVZrQmRWemdiOW40dzhEMHc3?oc=5",
       "pubDate": "Fri, 29 May 2026 18:35:38 GMT",
@@ -453,28 +462,19 @@
       "sourceLabel": "News"
     },
     {
+      "title": "A Timeline of RFK Jr.’s Mixed Messaging on the Measles Vaccine - FactCheck.org",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPakE2THhYdVcydHBxOERwdmpzY0xJX3dkNWNLLS1iYkFkQ19sU2hiY012cnVoT3lSVjVqU1owTGZsNG4tNmhqbjFfSXpPbnk5ekExUGt2TkxWRkQyZkdtbVNtRW42Ym02eGxwYWNXSm8zWlFqUmlmekpXY3pjTXViWUd4SUQzNl9lWk90UDhReS1OekdqWl9rMGVHUXM?oc=5",
+      "pubDate": "Thu, 28 May 2026 16:45:12 GMT",
+      "description": "A Timeline of RFK Jr.’s Mixed Messaging on the Measles Vaccine FactCheck.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Massive Measles Outbreak in Bangladesh Kills Hundreds of Children - University of Nebraska Medical Center",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdWFCcFEyOXpJTS1oR3hzZ0lnaWVHeWdMUGUxTnBLeFkzQzhaeWtlQ3RBTU9yYUV0MW5lc3B1VzBTdTgyUFZXME94SjFmQ2dHSXh3Wjg3ODBBdjM5US1acTZEeHRobWowd1dfNEpkNC1DMm1kWDVRenNEQzQ4RXdoQl8yMkRWck1VQVVXZGF3QW44bjkybW1aR1FyTm90ZTRPeVN6N09zRVlJRUluV1ZaeFllTWtLejFYNTBiSnhWc1hydzA3?oc=5",
       "pubDate": "Thu, 28 May 2026 04:24:19 GMT",
       "description": "Massive Measles Outbreak in Bangladesh Kills Hundreds of Children University of Nebraska Medical Center",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "In Utah, Measles Sickens Babies and Others Who Can’t Be Vaccinated - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjhaSnpJaXpnM3Vha0J3M1NFWDRmVVNjNGlPQmQxdG5hNkZNek9GdDBWRml2UFdockNVUEtldHIzdzJfRW51dXVGUFdhdVB3cGtJZWdBbldsWHIxTGFQbGpZOXZ2elZaNmdpS3RmemtfMzk3M196alFnUHF5WXBXUFAyMA?oc=5",
-      "pubDate": "Wed, 27 May 2026 21:02:44 GMT",
-      "description": "In Utah, Measles Sickens Babies and Others Who Can’t Be Vaccinated The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "IDSA Media Briefing: Measles: Is The United States Adapting to a New Reality? - IDSA",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEQ0UEstT190SkFOdWRyeWhaMXdvX1FlTzVGX3RjcEZpWHdtX043ZTJtZUd0UFJmeWNRVGlPZjU2YkY0b2JKaXJCSHYxOGxNUXVZVGkxM2FvaldPZ0dUa2x5elBNVjVFdjkzUHJEeHctYk1lWTFPb20yTHhmd1hxcnA3R3dxa0Q4eTNjbDBRelEtNW5RNmh3NHRHazhodmxYTlVNNXJSSHZmeTZ1cktDR1QtOW1SWTE1MkVr?oc=5",
-      "pubDate": "Wed, 27 May 2026 16:23:29 GMT",
-      "description": "IDSA Media Briefing: Measles: Is The United States Adapting to a New Reality? IDSA",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
