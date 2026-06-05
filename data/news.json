@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-06-05T19:46:16.638Z",
-  "itemCount": 78,
+  "updatedAt": "2026-06-05T20:46:17.959Z",
+  "itemCount": 79,
   "items": [
+    {
+      "title": "Measles is still spreading in the U.S., with more than 2,000 cases this year - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd1FyR1RocGhxSkRHMXoxNEhGRTFvd0xSWlo5U3JLZHNpS21SclZ2MVM0aWZTamNXMl9vUU1jekpxTGE2c2Z0Z0tLdzZmSkFGenhvaVotM3dEUjZ1LVM2M0tfSm5mSkMwS1JjVEpubUlWLTJGSDdWbFlJTHV5amlhSm42RmM2QVExUWlQMWxDRnFYUExfWXlOek9WOUNZWTNOZ19XUVYwcjJkRm8zdG9TVVU2TDYwUQ?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 20:43:52 GMT",
+      "description": "Measles is still spreading in the U.S., with more than 2,000 cases this year NBC News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "US measles cases top 2,000 in just 5 months - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnBQQjRINGRseUtFWXRDc1JKQ2FXeHVHdXFhaVJLUVpMamZaUjlRQTZfc0JHOE9PVUhOSklldnd0VU5xX0t5ZzVhYVdIVXR1MXlKY25hUlJWWE91T0hpUDhWYkdhd1FmMGIzam56REtBT1I0OVFKODdXYkt1cFU?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 20:36:57 GMT",
+      "description": "US measles cases top 2,000 in just 5 months CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Detected in Merced Wastewater, No Local Cases Confirmed - Los Banos Enterprise",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY0VBNndXM04zc08zdFpTLVg4MDlJSFQ5eXZqSzJEbzNXV2xGODU5c2FSRDVra2M1eVRaV19vdUNrOXJMdGxLckJjX1VVTW9qa1ZUSEY4aUZGZFBNLUwzQWFlQzRsSFRVUExDdHYtZ25UUGdRQ0UyT2FBU01IdGJxMjZTUkZvUW50X2NGZEEtbG5GQjhSWmJCWDJBQUJrMFAyalNz?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 20:04:04 GMT",
+      "description": "Measles Detected in Merced Wastewater, No Local Cases Confirmed Los Banos Enterprise",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "As the World Cup draws millions to 11 U.S. cities, measles—not Ebola—may be the biggest concern - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNUZiRGExUUZ0UlBNdTQ1Ynk0NUcyT3dpVFJTUkR1dDREcGEzOFhUUDRjelowdU05S2U0cWFmcFA3RThoMkRxY0pVVXoxbVlRbXZOM2lnOGlmcE5zOVVVNkFvWFRHRlVwMzRTd1U4dTN4T2Vqc0ZkZ0JMTXRxa2VmLV9ERHNJY19zZDZtWg?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 20:01:00 GMT",
+      "description": "As the World Cup draws millions to 11 U.S. cities, measles—not Ebola—may be the biggest concern Fortune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Case Confirmed in Erie County, New York - Erie News Now",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzBJclIxaE5qRl84OE5qT3NXaWl0TEpLZF95SnQ4VlRUZnhOOU01S2dyRXpGOHZLYXBkdTU1Qmx2ZWczbnlad0NYVkJtcTUxV3pqWEttanNxTVZkMmZQRk51RmdMbVlXZXIyUncxUjUwSnRoQUxtUC1QT2lPYUhrZHRWZ0xmcFlCOXU0UDg2eFhJS1NUTllOdHV6RmpFdjQ2RFNaSTB4bG9YTS1ja0dURTNDWnJBZG5HMDhNdWl3cHQwSGhhaXZiNQ?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 20:01:00 GMT",
+      "description": "Measles Case Confirmed in Erie County, New York Erie News Now",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Merced County health officials say measles virus found in wastewater - Merced Sun-Star",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3X2pTdnc5aWw1N0tFRWR4aVFoVXpxelB6ZXdJbVBpM0ZkMEVEd21MZEFRLXRQUmUwaGdGY29zMFllMEJNSkxsX3BYUTRaXzZoaVZUSjZnQVJ3eGMzY1l2TDA0QzdFeVVJZXdKamxpWdIBb0FVX3lxTE1SaFJjSktHVjIyTE51R2NkeUN5MnRmSUJrOWRLLUJFRTdrMmpOSzFPVkRtYlAxUVNBYjQtMHc1WGhCTWZLZ2xDTU1ITUt2RE5CTGtxNTlWNEg3NjcyYmpPcnZZbExMN2xhMTRkVVRxRQ?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 19:48:31 GMT",
+      "description": "Merced County health officials say measles virus found in wastewater Merced Sun-Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Measles resurfaces in Virginia county, sparking concerns - WAVY.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONWMybzZrcmsxd0ItNEcwdTJmWGpLUWRKaGlPSnNydkdhOGRqd002WVl1NHVTYjBRMFQ5ZFhmb2JqaFZxQ2I0Wlo5Sk1LaDUzU185WkVObDlwaHhwNXJjclhxcm50Tmg3SjFvVUstWXFwMTNCd2ZNaHdDSzYxS29fS21jTUxIdVhKRGpkSThPY3B4SjTSAZgBQVVfeXFMT2dmazd2Z1VCbFdTcGp6NldDa3FHQlVTX0ctZnNJOTh0cllUdTZXTFJQNHF2UTRWc2NkZ1U5REM5dExhQ2RySzlnNllkd0ZxMGRTV0R6cjJNWXY3cV9Vb0ktWHVQREJfWUhBbEtXY1pWaHhHS1ViSlVwNlZGZ21hdW9Zd29Bb05wZDZKb0VKTzY5d1F3TjVpTV8?oc=5",
@@ -147,24 +201,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "A Sick Feeling: Encouraging vaccine hesitancy has proved deadly - News and Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWVItSXAwZlhiQ2tqb2hDMGUzVEwwei01ODl5QWVEdkRnTDFBY2FDN0xIQTJFNDF6VEl1U1NDNGJ0SmdUZ0REQWNXRE9VcmJkbkpDOWFiY1RBbUU3Q1FfeWZBb1ZLRUM0S0MtcU1iUXRtaXAyVnduN1FkR3RyamljRlFSc2JoR3JPb0Q3dXJWck1rX1JNVmU4N190ZmNfWEV0d1lJdHZBNTJRb3g5UTh3bXBUankzMFVTQUl6ZGxKZw?oc=5",
-      "pubDate": "Fri, 05 Jun 2026 06:32:35 GMT",
-      "description": "A Sick Feeling: Encouraging vaccine hesitancy has proved deadly News and Sentinel",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Immigrants in quarantine after Measles outbreak at detention center - News Channel 5 Nashville",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMW5VUUt0Yk1iekZReWxfSXhyN2txVlNvNzB2VV9zUGRZMmg5WEVJczZ4ZnBpWFh6Q3FXNUUxOGJTeENraGVNMUE4SjRLdjRhMnhKUjROY1ZHUF80RW1zQl9CaUNkWUhPaXBLMEJaZGtnVjduWjhDTDVobG9acV8xYjJVT1MzNF9SMnJvTEtKeS1wU3BfbUdkb3pKbVBobGtHdEFveVpZdktXbERkOFNRelI1c1EwaVBUWU5ocw?oc=5",
-      "pubDate": "Fri, 05 Jun 2026 05:43:03 GMT",
-      "description": "Immigrants in quarantine after Measles outbreak at detention center News Channel 5 Nashville",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Recent Erie County measles case linked to international travel as New York State reports 12 cases in 2026 - WHEC.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdmo0V1NPNnhvYS1aaXFVUU93OFZaM3BPLWxwajJPN0l4TnpXNVdyTUlRRmVKVXR5dDVIcFd5YlNmeWRaYXB3UlVaZ1hGd0Fkal9uVUVCOXF3bm5hX211TUtRd2p3aFhqekMyN2ZpZFhwZE5mWnlWcW1hSmh5SWJubXlLSFBZdmY3bG11MGlnS2ZHWlR5Vjd3dFZSMk9VSzJxMHp6MUxvWWdTLTh2ekJfUlU4YUZLZnAzbEJJY2VEdHFqTHVSamJHdFZEZG5SWHN3SWc?oc=5",
       "pubDate": "Fri, 05 Jun 2026 04:59:46 GMT",
@@ -246,15 +282,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Interview: Dr. Mark Hicar on Erie County measles case – News 4 Buffalo - WIVB News 4",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMnN3bV9EQ0s5cThBaGloT2NHYmVjdXhpQmJUcjI3SnJoUXdJbjJlOWFqYnVPRlEzOVhFUk1MVHJHekdkeHZOT25jcUkxampVeW05dVgtbFlsRnVfenM4U1ZkazdKa0R1QUV2XzVZeXhiQWhDR3Q3aGgwOWs3RHVobW5zMENidTdWVXliSmplbFRSUQ?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 21:35:16 GMT",
-      "description": "Interview: Dr. Mark Hicar on Erie County measles case – News 4 Buffalo WIVB News 4",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles cases surge across commonwealth, 75% reported out of Central Virginia - WRIC ABC 8News",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHJBeWZqQ0cxMFFZaVZybXU1TnVjeVRnLTRTTm9mZE5lZUlxN0dMMDZrbFhwRWZuYUo4YlAtRnZEaFdMRUJKVFo5MXE2SXZOWGJIOWxhRVR4Q1A3X3pxZDdyeXZScVFhb3B5aEdhTHFma1lrdThtaXJ2a3Q3eFVKSDVVTGI0d9IBiwFBVV95cUxQRUQ4XzhlUjh5Vm9Kd1h0ZXBsV21CZ1l3Uzh4dTV1SE54bktXNmJjZ05ScXhJa2tyMUVya2JyUDd1dkc2QUtRZHlIb3NIMXZXRXdKWjNKZi1PMzMwTGRJMFo2MWVrbTFYMjR2Smpibmg4S0g5bWd0QlVZbUdaMUFUR2JYLUZIWmRWWThV?oc=5",
       "pubDate": "Thu, 04 Jun 2026 21:24:40 GMT",
@@ -291,15 +318,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Erie County Health Department confirms measles case – News 4 Buffalo - WIVB News 4",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYndoSEpkaEIzNzdqaXVBM1lsZ1BYc0w4NlVNNVcwSFFoaTBXTkpVN2dJQ01taThEcHhjZWNlTzBUcGFXeDFWOWk2YUlicWhOUWFfNDg5enplT0ItSS1pdHBYVE4yTVNoSGtLWElJNG13d1BJX2t5UHUwdWpxbURTa2xfVktEMUNWMUVpSWVkcFdMdw?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 20:11:33 GMT",
-      "description": "Erie County Health Department confirms measles case – News 4 Buffalo WIVB News 4",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Immigrants in quarantine after Measles outbreak at detention center - News 5 Cleveland WEWS",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcVFIc2lqSFAydF9Fckdnc19FUWtxdGl0RW9LaFJYZkRVWS1Gekkwdm5KS3VtMWxIaGdHcGV4bGZJUjBIUll4QWtmdjNsUVZTWE5jUGFPZ0lYRk13elZKVHZGOTVOZENPYWVuWHZUaEJDRlFrT3FzZ3Q1NEhRTzJROE01NGZRemZtRFBFZ0NxbzlIN1RPNVVoZWJjT0lkOE5jTGl0eXB2dklHY1hHRDFWRXJ6Q3Jlb0lxMGxxZlFuRHpZTmhTTWJVRUIwek0wY1U?oc=5",
       "pubDate": "Thu, 04 Jun 2026 19:33:13 GMT",
@@ -327,6 +345,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles case confirmed in Erie County - Audacy",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ3pYSDZVN01maFFtT2N4dDMwdm01MzJsS0FwTGdkUjdxanpRekI3NzNNYmY0TjZjdWcwT1BzR2Y5eWZKYzBFcWdwSDRObUdTNkU5R05pYWpMZnUyc1R0MVZUeWtqaENYRzdaWFdyRkNuNndkaDNvS0lCbzlVV05fbHNGRXA?oc=5",
+      "pubDate": "Thu, 04 Jun 2026 17:47:56 GMT",
+      "description": "Measles case confirmed in Erie County Audacy",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Erie County Health Department confirms measles case - WIVB News 4",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUpENU5TaDhWZ0JxRjluYnRtNVFxSXFfY1NwRXJTc3JxMzZPRkdwSlFJNTFFQVhCMXNOTFJCMG9qR01Oc3VDR3lGZGRETmJiZFNpRDhMOFByeVRIM2o5V1d0V1FTMURsMW9aOUxPWEVPQ29rWkFmbU9qcTNCUEktWTF3MV80RDA2bDF4bFl1RXRURWVNQ1FfaVFSSGxNeGhHMEM00gGoAUFVX3lxTFBEWlhSOHA4amdpTVFzOG5jWU5pRGRELWc2NEJpWWpEZmNJMDdXYzh2SDEtYXNWMm5ycVBBYzV0b0UyYVd4NmtpWHZpVkpEX0E0NUZJM25wV2Y3M21kblJpLWVfY0c2ZV80bmdSc04xa25wM2oxcjV0RG40NWZEeklCdVVOS3N4anVXSmVSZjJXVUVhdUxQQkM0d2dMNWd6MVZPTEFGaXVPNA?oc=5",
       "pubDate": "Thu, 04 Jun 2026 17:39:41 GMT",
@@ -349,6 +376,15 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRGxwR3lwQm9KeUxwTlhzTU5MOTBacTNZX1g1UVcwZ0NiYXRQX0R1YjFMcWtNeUN3clhnUVRMRmxGcHNQOVhHOF9xaVQtVjlOYzFTd1lhd0tVTXpFa2owdXJqeDZXOFhfUVlHMFZXblgxa0xKb3RqendKc2xXMWV2U05ocHVyMTVKNlpQQzktN2xYSEVLZ2c2WE9wdDhMa1lMaTJ1ZEY4WTdhQkc1Mmc?oc=5",
       "pubDate": "Thu, 04 Jun 2026 16:35:11 GMT",
       "description": "Virginia measles cases surge past 70, concentrated in Central Virginia Virginia Mercury",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles reported in Hampton County; What to know, how to protect yourself - Bluffton Today",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVjJiMW9jQk5YTHJYdlBFZlFmaHlwM21QWWR2NGZvc3hKNzV0QUZ0NGNMYzcxM1ZMczZqczV3UVN2ZmtUVUV1VTNZWHo2VXFlVS1iQVc3MHVtWTUwd01mUGpRS0hOaTRsbmFtVjJZWGNoa0JNQTgweHh5SmRMMTlJYzl5ZnFpaDlJZV9obTVPNWNPQ2RJV1ZJZzFlOTQzQ1FLajFHTl80bGhlMFdNNnBWdHZteU5CdF9Td0EtMVY0WHdFREdodlZSR3NINzBsbE5rLTJISE5WTQ?oc=5",
+      "pubDate": "Thu, 04 Jun 2026 16:07:00 GMT",
+      "description": "Measles reported in Hampton County; What to know, how to protect yourself Bluffton Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -385,15 +421,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcm1GQS0xSW1NY2dCNzhzSElpTUFCQ2ZzNjF0R1NTZUtZRDdocy1tbHFtZTRWWkJ4ZUlLU2NDV3BDVGlNN2J4LS0xLXdSNG9SaGVtVEwxRmlzb2QxQ3JMVjJuenVxaldUUHpBbDNXaDFMOWRmNkU4amJCQXhtSzgxZ3ctQQ?oc=5",
       "pubDate": "Thu, 04 Jun 2026 02:42:15 GMT",
       "description": "Virginia measles cases climb to 77; officials warn of declining vaccination rates WTVR.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "RAW: VA: RFK JR ON VIRGINIA MEASLES OUTBREAK - Local 3 News",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa0ZCcjZsRGVNeGZCeWhyVC1uR1ZsSUFzNldQLVVqdFhlWGFiWDRBQWUyU0dBaXF0TUIxdU0zSTJFOXJyZmtOTmdQRmNlQkJqSmVZTHFTMmVuOURMNklZWEM1UUZZRVk2QTB1QjlsVm10M1lRdUNOSFVaX194VV84dnFHTGF2RUVnUHMweEY2U3dSMkM2WEtrWElUeUNIRVkwc3pVMGJ0VnFDeGROLVJuS1FIZ1ZFUG1FYzNKV2Z3TGxEaGp6ejY3NXZHLWM2VEly?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 01:07:26 GMT",
-      "description": "RAW: VA: RFK JR ON VIRGINIA MEASLES OUTBREAK Local 3 News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -579,6 +606,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Delta County’s first measles case is Colorado’s 23rd of the year, could indicate possible local spread - Colorado Public Radio",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52WGZibnFIcTZrT1JrdEVVOVVOWUF4NU9UUGdDRTB0OFBIYU1KZU9VM09UTC1aZkJaaG5EZDlXQl8wYzZNd2tWaFREUTUtZU1jSUg1WE1RMW5SaXN3RDNUWktyeW9CdWExMjRPcUhXa3lHZTVISUE?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 22:26:35 GMT",
+      "description": "Delta County’s first measles case is Colorado’s 23rd of the year, could indicate possible local spread Colorado Public Radio",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles cases in Japan top 500 cases - Outbreak News Today",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWg2WU9lc0NjdUd0RExBRWR6Q3YtakNmUUFJc25fZ3dIODM2WEktLWYxQTNLUE1oa3hMTE1OUVpHbHdVNXd1Y1VXOXZ2akZPQ2JuclBERUJ2Zzg4ZEp2UGl6dWlvdHBjWWxQTkNROTBUSWpGbzc3dkdGYWY1YVVtSHd2UQ?oc=5",
       "pubDate": "Tue, 02 Jun 2026 21:49:25 GMT",
@@ -619,15 +655,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXFsUDB0MDFYdzVxQXVxVzlwMzBFWkd6YUpYV3BtcmtLSGJEWkljVFRkbUc0UFdPcWJ3blZhTl9qRUNWMDQ1c2RtVXA2TEpNUjZEcEdQYXMwaXhMVlNFSEZKS3hFaHRyV2d2LVNMUlRvZGxQR0ZSYWxlR21GOHFKN2QzS1NWWXp4clpmMzZfczh5ZzN2UzJz?oc=5",
       "pubDate": "Tue, 02 Jun 2026 20:07:00 GMT",
       "description": "Measles cases mount in Florida as PAHO warns of increased activity CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Cross-reactive T cells target measles and dangerous Nipah viruses - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1oydFFxTjhaQlBLdDhYOExRbklCVzl0UGRxR29tc0puQmN4V0p3alNaVnloUkxlMmV0OUk3dVcxaU04QUFSYUlnYk96azA2czJfNlhXYkVQWkNQVG9zQW9hQ1NidUNXRHJ1ZVVXYWM4MzNWTlVoVlNQaEJ1aXhEYkdVdVNYemRXS2N1b2hBQ3dLX0Z3VXh5cm5KOWlJdEhwdHhlaURUZm9aWnhrY2NRN1p0SQ?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 17:31:00 GMT",
-      "description": "Cross-reactive T cells target measles and dangerous Nipah viruses News-Medical",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -678,28 +705,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "2 new cases of measles reported in Lancaster County since Friday - LancasterOnline",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOElXSmttaFNUNXRQNmhwZU44WW5KdF9LMTRpZTEtMHZEU3pYbEtHNjVDd1NJeWFtN3pLM0Jwd0w5VDFZeHY5MEV6Uk53TVdFdWEwNmRhR1Y3bkpVaTdSTjYtbVY2S2ZSQkp6TnpKWVB5OHloUHhqNk5GTHlWczBnMTNvcVZFNHNjbkR5M1owdW41WndTeC1xcnNkWTB6dUV6cC05SU0wR3JOQTJJUDVNb2p4OWNUeVRUbkVpb1ZUVjdMRVhhS0s2X3laLVQwRzlEOWlueXViTldrZ2ZSV0tORTMydnFMWlY0bmc?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 18:49:00 GMT",
-      "description": "2 new cases of measles reported in Lancaster County since Friday LancasterOnline",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Bangladesh posts more than 1,300 measles cases, 2 deaths, in 1 day - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWEc2YXZiclR5TjFvYjRMUHVnMjlhRzdpSUpqb0FpeHR4djZnR2NyQ2pRUXJHcnFDWXFMVGd1RFNUbF85dERKS0FTcWZjUjJsdGpFcU4zZVdyNklLYlhCS0tnV1hCWGtwczZEMm1OYlN1TkJDbnpQUVlLSXJEZHVfZ2E4NTFNckNhYkJVMjhZS01MaEtm?oc=5",
       "pubDate": "Mon, 01 Jun 2026 18:29:00 GMT",
       "description": "Bangladesh posts more than 1,300 measles cases, 2 deaths, in 1 day CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Bangladesh: Measles outbreak tops 70,000 cases in 2.5 months - Outbreak News Today",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNENuQjVvYzNlNExjRHViZUg4STVjX3pjZ3JYbnl6a0pHbFVQN3NTR1RMa19NdnUwSlQ0dms1dHVYNUxheTJGLUF0Qi1MR1ZURXdvX3Z4QXBDZHdYczB1ejNNUzRsQjJJUjVEUy1Va1ViVDJ5OXBXREJlVGZEMDJPaktlSQ?oc=5",
-      "pubDate": "Sun, 31 May 2026 14:02:51 GMT",
-      "description": "Bangladesh: Measles outbreak tops 70,000 cases in 2.5 months Outbreak News Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
