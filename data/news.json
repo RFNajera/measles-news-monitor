@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-06T21:32:47.520Z",
-  "itemCount": 66,
+  "updatedAt": "2026-06-06T22:33:01.923Z",
+  "itemCount": 64,
   "items": [
     {
       "title": "As vaccination rates fall in Australia, a British mother has a warning - Australian Broadcasting Corporation",
@@ -178,15 +178,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWx4TmpXVElsXzl5UVBkTlFNZ2lrYldxSl9FMF9LbG1BMEhJU0ZkVVN5OVVVaE11eWE3VEMxdEtVTEgzeXBXSDRsNTZZRmtfMHZMRVdMMzZtdTFKM1h1Q1NEZVlHZTZVX0d3ZXE0Z1ExY1VDVkFUUmxaS082UXhNejJvX3JBV3BFbENpTVhrdXlFZ9IBlwFBVV95cUxOclJOdUVWQzZ0M3FFRktYdy1MUDd5M2tfTURnVEVMeFNwTWc2SHFoVktvQjdOQkE1cktzSkFWYXN6azZPdmZwOGYyR1VhTzllTFh2TGpSVzZWczYxbTZRTGx1a3kteEs3bWtsRDkwNFhyUUZNeWhXbU1EMWJ6Q1VvYzhzR0c2Z3BoMzhwWlphQmhXczVxdTJ3?oc=5",
       "pubDate": "Fri, 05 Jun 2026 18:33:51 GMT",
       "description": "US measles cases surpass 2,000 for the 2nd year in a row: CDC ABC News - Breaking News, Latest News and Videos",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "State Dept. of Health has confirmed 50 measles cases in Pennsylvania this year - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObW9HaTFuTWRzbDN0aFVRYm5vVWlaTkZkZEpHelAwcXl5MmdlNjJTamtJcklNaWd4OHA5THRPTWhaZ2RYTzBhVG94SVRZd3AtMHhaeC1CdFJfamEyZHg0ZmNBSmVieUZ6SzBRUGlYM25VUXhIdnZtZi1seEtpVV9Fb3BlYjBsVzBRa3BaUlJld2phRlU?oc=5",
-      "pubDate": "Fri, 05 Jun 2026 18:32:37 GMT",
-      "description": "State Dept. of Health has confirmed 50 measles cases in Pennsylvania this year Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -399,6 +390,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles reported in Hampton County; What to know, how to protect yourself - Bluffton Today",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVjJiMW9jQk5YTHJYdlBFZlFmaHlwM21QWWR2NGZvc3hKNzV0QUZ0NGNMYzcxM1ZMczZqczV3UVN2ZmtUVUV1VTNZWHo2VXFlVS1iQVc3MHVtWTUwd01mUGpRS0hOaTRsbmFtVjJZWGNoa0JNQTgweHh5SmRMMTlJYzl5ZnFpaDlJZV9obTVPNWNPQ2RJV1ZJZzFlOTQzQ1FLajFHTl80bGhlMFdNNnBWdHZteU5CdF9Td0EtMVY0WHdFREdodlZSR3NINzBsbE5rLTJISE5WTQ?oc=5",
+      "pubDate": "Thu, 04 Jun 2026 16:07:00 GMT",
+      "description": "Measles reported in Hampton County; What to know, how to protect yourself Bluffton Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "As the largest World Cup ever kicks off, health officials are focused on more than Ebola - CNBC",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVpJdktzSGJuRXE2cG9KVUpZWXZZSWtDcDhSTVU5NHE5cGM0Y1R6STJQREdraTVIS3VFU1F1cjlWQVgtNmMwSXFCWmUzaVo2YktTTjk1bVNnMjF1STV3UDROTUx3VE9DcU9nWHhYNEh4QkJJZ24zeHNfYzRtNlpabnBOVHlkT2RHTlhlenFRazMwc2g0azhXdtIBngFBVV95cUxOMHMyWWl0NDh6cGhNLVBfRDNxeXh2Um1FVEVoZ1VDdmRVbzJTZFBrLW9rUjNVQ0o1VWhrU09GYzEzeE92eWJnaVlPUl9sQ0ZHdXdnRmRNQ1B1cDgyRjF4ZFlEV2xHUEtkQnBFSi1ZWHctMlJRT0s5a1ZXYmFkcVZXc3RuWnA1cnpYMDZHV25hblJwdTI3SXM0S09xS2p4UQ?oc=5",
       "pubDate": "Thu, 04 Jun 2026 11:00:01 GMT",
@@ -412,15 +412,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUpUdXFtYnJPcmM4RUxBbjB4NHh6dmZBdFNhc2IzTm4wcmQwcUp6RUp2ZnVJYlNqMFltVEswdkJxSURtYVRseG9lN1Z2b1JtUXdVaEtaeE9RVUFyLVFHeDEyNzBkcnQ3aUJJN1ZwQmlQX24wdVR1aEtOQUtlQ2syal9VWGlTMHpvTEZNcUF6RVFvX1l6NDdVdW5aLWFCZWZ5NGcyRjJSODZ5U2xNQlB5T1V5aE5XNHc1SThfeFFDV3I?oc=5",
       "pubDate": "Thu, 04 Jun 2026 10:00:00 GMT",
       "description": "CT epidemiologists respond to measles outbreaks, plus a look at Ebola Connecticut Public",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Utah sees sharp rise in measles cases as outbreak includes a Trader Joe’s and LDS temple open house - The Salt Lake Tribune",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmdVI0SnJTNWU3dTJrSW5ab1hwNWExeEVYbi1OWUNfTWZVSWxpNjB2bDdJaHhzN2ZKbzhrbExMVTdSX0luMTQwU0pjbFdsWF84VlZIcGkxWC1ER3NPXzZZUHdpNUF5N2tZVzdGekFZYTlUelRLMWtjN1ZTY3ZIdw?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "description": "Utah sees sharp rise in measles cases as outbreak includes a Trader Joe’s and LDS temple open house The Salt Lake Tribune",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -484,15 +475,6 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NWHpPYThQSFJmNmE3NGVFMXJwVHVRMlJvbFdzbGJKdGVXRTVwY1o5YkwxdFlWS2JIc3VzRjdyOFFLTGlHMnk1WUQ5eV9scXZGRFlhTWpVVQ?oc=5",
       "pubDate": "Wed, 03 Jun 2026 20:21:29 GMT",
       "description": "Regional health agency issues measles alert for World Cup UN News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "First Lowcountry case of measles seen in Hampton County, more potentially exposed - Post and Courier",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbzNTRldfb3drQnlwUDhpT1dkOUlrLWpSM08xNFFEQkZrNzYzMUxMbmZWcWFpOWltOXM1OGZLaU9GS2Y3d0E1ZlZRcVlrSGNhRDBmUmhERVBYV2M2bzR1d1NoamJ2enhsbFpYNnBBNnM1SVJpTlY2aDBSSkNkaC1RM0IyNUdPZS1zSFVfRGFBX3c5Zk1XNlphSElNWVlfbmc4dFc1RW9FaW1DdHhrTUt6NFB3YlVsLUZueDd4bmFXX0cyNFZjN21ScWdoUDg0RHEtaGhsS0t0MnpWb3owbVVnODYtbDdodS1vY29JTURiQXVqUQ?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 20:00:00 GMT",
-      "description": "First Lowcountry case of measles seen in Hampton County, more potentially exposed Post and Courier",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
