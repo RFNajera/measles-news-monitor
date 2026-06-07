@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-07T20:37:37.333Z",
-  "itemCount": 60,
+  "updatedAt": "2026-06-07T21:36:45.860Z",
+  "itemCount": 64,
   "items": [
     {
       "title": "As vaccination rates plunge in Pennsylvania schools, measles cases surge in largest outbreak in three decades - Pittsburgh Post-Gazette",
@@ -124,6 +124,24 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6eTV4OG5uNXNEVDZaSkpJcU1ScWx1bWU3aFRoVUkwbVRtajNHX3FEenNqYTZGVmNNc3lsVm9hbkl3emFaQXhhcXNoTGF2UkNKZVo4c2tlZHZSY1psTmt0QzdwTEg?oc=5",
       "pubDate": "Fri, 05 Jun 2026 20:51:00 GMT",
       "description": "Lancaster County reports surge in measles cases WGAL",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Public Health Confirms Measles Wastewater Detection in Merced - Merced County",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GbnBzNmZtRzBTY1BEOEhucnBXamRYSjNFV3ctemdPT29BSTFoQjhBMTlMekgySl9FNy1oeTdtNFdMTzgydmttTG9RNDhjRldEcHBMVDJCa1padWVmeE1PRTNmZlRFeTQ?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 20:44:51 GMT",
+      "description": "Public Health Confirms Measles Wastewater Detection in Merced Merced County",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Tracking U.S. Measles 2026: 2,000 Cases Put Elimination Status at Risk | National News | U.S. News - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGdtejlVNzBVQ3VILW9pM2hjWWdOVWR4SlYwU1VGOHYxMVNzNEZieHhXUV9fZ1JEMS1LWEtYV0Z4RmFORF9yQUtEd1FIOUhqQTZ3Y2tTdVotZDBWRi1wUkNTYXFLOGJEZHFrY2VIeTJVWkIwZWNGUl9GQWxmdzhHLVlmQk1SQ181MHRsaXNCVS1wZw?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 20:42:00 GMT",
+      "description": "Tracking U.S. Measles 2026: 2,000 Cases Put Elimination Status at Risk | National News | U.S. News U.S. News & World Report",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -435,6 +453,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "South Carolina health officials report measles case in Hampton County - WJCL",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR3I0OGtVZm9ZRHRyeXZxYVJ4aUllbU1JV0ZvY2NRbGZTa3ZWUXBSVW91MmZXYm1sM2liWm4yakVJNWk5aGFGQU15LXNiV2x1QUFBWE14NG10RnRjU0kzdXd2U3BaRGxoY080TV9LSHRfQklDcDBVVjJTanAtYTUwRjhTMHoxaHM?oc=5",
+      "pubDate": "Wed, 03 Jun 2026 21:15:00 GMT",
+      "description": "South Carolina health officials report measles case in Hampton County WJCL",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Nearly 180 ICE detainees quarantined at Camp East Montana for possible measles exposure - El Paso Matters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFBEWXN6cTVkSWlJWHRGbUMwY2tkVWhYMUhPLVJKQ1dMakw4SnM3ZkFYb3JxcU0yYy1vX1c1YU0yRW4zNGZIeUs2UzY1RHJfbEFELTMyV2NzNzhHZmpZTFJTdmRpMXZtWWMtMnE0T282Nk1HbHNlbE9CeXM0ZlpkY0pvNk1EYnJTZERNN0xVUG1TU20yMDZkWVVWNE5zaExWdFRMLURvY2dFbU5WeFp3SDA4WQ?oc=5",
       "pubDate": "Wed, 03 Jun 2026 20:41:07 GMT",
@@ -480,10 +507,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Lowcountry resident contracts measles; 8 people recommended for quarantine - WTOC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRzJYdlc1RUhrd2Zha25VX2xVWUFzOXMtOGlVSEprVEpzSWM5WXJyY0NFcVNRQTZQSWt4X0JPQU5ZMGY0Qkx0MVprOE9xTDhUUHJ5WWZUUVJNNW5Lc2tGSEZKUXdmelM3ZWtxYTlja1dIY3hEQ2dhLWExSjVxdFFkTFRGNVIzSl9lZmhER3llSktxZWR6eW5vSVdLblFKdGZXV2F0YdIBuAFBVV95cUxNRkhhX1YxU0JETEphQXAxY043VVNmSjEtWUdydWtQd0dtRzdLYzd4WnpJeWk3X3ZzTXlWaVA3QkpfUjhfSy1oejF4Y2sxdVRuaUFGbTR6dDFRRGNwUXFRcjZDVlViNXhQbjRqaVltSnhzWUVhRnd6WjhSNWk2TzNVcUJRVHhlcUdNeDRJdTJPQWU4Mk5CMERYcnlMNFNtSUhjdm5fTy16bVhjUmZxX3NmUlE5RkRqNE1u?oc=5",
+      "title": "Lowcountry resident contracts measles; 8 people recommended for quarantine - Live 5 News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLXhTVXdFbHpCWDVRZ0NqSTdERl9rN1hnQ2Qzb1RDeDNxOGZxSEo2d2N1RzZfc0JQdERYQ3JFM093YUIweno1S2hSNTlCLWkyaWUtUWtMNVZFbU1TWndXMkt5Z3JuZjUtcnNGZWp3aE5Va21neER0OFFBRXNnUHBXVDJsWTJpZ2ZEN0dxVVZIZXZYRzlkcno2MW1Pa2lYSk1RdUtRSk5hbmYtSTDSAb8BQVVfeXFMTnFfa2VDRzltSVItS1pXdmxMbGRXSk92Y1Y5enZSM3p4MndIOEp0NkxyZGxINmJaRE1QLVljQ3RrNHczMlI3YzZRS1ZxdGVSQllSMDdOcTBiRFB1WW9OUmxYME5qSndpRHpnWUVJX3dsRndJeUtRVG4xcXp5TmNfTmNWRmkySDliWmY3QWJqUTFFMERZNURNLVhSNUNZUUlkbTM5djR3ZFJjeVZRYWh4Zm5lQmRzX1ZVeEVyNW8xMlE?oc=5",
       "pubDate": "Wed, 03 Jun 2026 18:27:00 GMT",
-      "description": "Lowcountry resident contracts measles; 8 people recommended for quarantine WTOC",
+      "description": "Lowcountry resident contracts measles; 8 people recommended for quarantine Live 5 News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -502,6 +529,15 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVkhNbUM1bk5VbDRfa0N1QTN5bnhOUnlIMFdtUTJJSFFwWTJmdzBZYW9ZYmpsdHA2dHJmcG9FT2ctd1hRWTM0T1RYdldJVWRpdmdFcmhnVW5rckp6ZkNraGhpbTNGMUluZlY4aGZIb01SRU5RcDBKdDVtSzhCeGtlUkVaejlIYWJ6V0g4RS02SjNJa3BjZVVxNUE1WlFvWE5zd0tyczZ6X19YRjlnZi1pcDNxcw?oc=5",
       "pubDate": "Wed, 03 Jun 2026 12:00:00 GMT",
       "description": "Regional health agency issues measles alert for World Cup Welcome to the United Nations",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Where are the measles treatments? - La Jolla Institute",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWjNCS1h5U0hTSEV4ZXd1SF9YRzlmaUlPRDIyR25QZUZvZEpQVm9MN24xdktpR04ybER1czhiVmZXdkJLdUxjR3pOLVhjSS1Uamp4ZUszcE45dWlNZ3F4WUZ6SlA1ZDVMbE85aUpLOXhBcVRQMnlFcHNTSHhsem12cg?oc=5",
+      "pubDate": "Wed, 03 Jun 2026 09:20:08 GMT",
+      "description": "Where are the measles treatments? La Jolla Institute",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
