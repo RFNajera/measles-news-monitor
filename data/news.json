@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-06-08T15:18:15.308Z",
-  "itemCount": 63,
+  "updatedAt": "2026-06-08T17:16:58.122Z",
+  "itemCount": 62,
   "items": [
     {
-      "title": "Measles Cases Climb to 2000 in the US, Increasing Cases Year Over Year - AJMC",
+      "title": "Virginia measles cases surge past 70, concentrated in Central Virginia - Williamsburg Yorktown Daily",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGVNOW1aSXIzN2stTjVMOHN1NE9LQ1RfQUJGTWxsN0JmYm5leUFFT2JYdGtqdVhGRU1jMDRXcm1HYnVEYU0yTE5LZThRSnpYa3RoWFloVl9paGpNdTVSTkdpZGFWSjQ5SFJLNkt1M1ExUFBOaVh3ZkRaVVUzWkFPalFVc1BscC1IMmFGZkpscjBSR3dVRTlzUzBZM3huWUxod2JzYlltQ2F3emJvSXFrQUxfTHZfUQ?oc=5",
+      "pubDate": "Mon, 08 Jun 2026 16:02:19 GMT",
+      "description": "Virginia measles cases surge past 70, concentrated in Central Virginia Williamsburg Yorktown Daily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Cases Climb to 2000 in the US, Increasing Cases Year Over Year - The American Journal of Managed Care",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2ZpdDhacXVvc2h4WFFGbDV3bExZRi1rd0ZwaXZlaHdmRHdBQ0tLYUZpTzFQZDI3cXVnSFNhNTh6bHExZllwTGJNdEZFM1Bvbzc1eGlacU9zbExzNy1xSWpoU214YXgwMjZuWkJBVTBoSTRadE9NUDJjQ09ETjZyUnFzSUZqT000ZDRyZVBCWXlHbXkzR3hRMXNhQQ?oc=5",
       "pubDate": "Mon, 08 Jun 2026 14:39:26 GMT",
-      "description": "Measles Cases Climb to 2000 in the US, Increasing Cases Year Over Year AJMC",
+      "description": "Measles Cases Climb to 2000 in the US, Increasing Cases Year Over Year The American Journal of Managed Care",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -75,19 +84,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Viewpoint: Who and what’s to blame for the surge in vaccine-preventable diseases? - Genetic Literacy Project",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT1JVRWN6LTdtZGpLSFdkVDlZcTdSdjNjV0F3cWlpRXlaNHpteXpyaVdFV1RTUXNyWEF0VnZRTjJ0SnAxenk1YWxfR1J4LTVGd2kxcEphQV9LNXpIYTlkd1RoOW15NlBxdzdVM0V1akdJWkViX1Z0eXVsTUsxZkRkSTh3VlNpdk8yR3ZXcEJDWmw1R0JFbjhvOGpIWlZFb3BDeFpobVpCN05UbWhfMkhmQnZXRGVDZmRNNjcyWDEzVncwR1U?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 04:04:27 GMT",
-      "description": "Viewpoint: Who and what’s to blame for the surge in vaccine-preventable diseases? Genetic Literacy Project",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Chautauqua, Niagara counties motoring Erie County measles case - Spectrum News",
+      "title": "Chautauqua, Niagara counties motoring Erie County measles case - spectrumlocalnews.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1pKblNQLVA0cmVsekd6a0FzazZrVkd6eExBTDlWamswTS1SeF9lNWpvUkVlX21ncDBxZERJbW1Dc2ZVTGp5TDNObDdvekdyaHlVcFhtMkwtY2M4QlJ3MmxKMjN1b1FIQ003R0ZQV0JqSnhaM2pYUjdGdm9NNHpYWjVvaGhNbTAtRUlKNGhBcFlMeVM0dFJON2dKVldIaTZnU01FMmtCOERxckVWWEJJb201Uk9vUjIybWg4MWc4VQ?oc=5",
       "pubDate": "Sun, 07 Jun 2026 19:25:00 GMT",
-      "description": "Chautauqua, Niagara counties motoring Erie County measles case Spectrum News",
+      "description": "Chautauqua, Niagara counties motoring Erie County measles case spectrumlocalnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -160,6 +160,15 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVXZBWXo0Z085Qk9oVmI4UVZiWmRaUmEyNmlYZU1ucWttNW5nMnlVV3FTYjV5SG1lb05ZOUhiYzJZOE0xNWxYd2RMQ05XOHM2dE5JTVM2Q0NRVk90LTV1SVgtTkNOSFA5WGdUUW1LaHNFX0hZT2pmQUk1c2hGdmVONGxkTnhtb3hJMzB1LU96ZTNsY1NreXd4WDM1dG4?oc=5",
       "pubDate": "Fri, 05 Jun 2026 22:56:56 GMT",
       "description": "Measles virus detected in Merced wastewater; no confirmed human cases KMPH",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "‘No known exposures’ after measles detected in Brookings county child, health department says - South Dakota Searchlight",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdTEzU1lDSlhXanhvSzBpWmNDRklFSGdPRnBzTnVEWXFaN3VfeE5raDAta0NEeWRLMmdabUtsZlR1OEpEOFU1SFNxMzdCS1FYYVUzY0Y1WDBPM0E3XzhnZUtNOUFlcWlVbGVhb1EwTUt3VkVqSUhRYzBDVEZKS3NFa1pRc0JjZDR1RXE1c0RPZWFyNWlRNFVYMHRsUG5hNkNTM243V2phX2U0WnpxUVYzWGF4R28taFcwUjZxWlVCOXhkNDYyX3NUUVd3Z1R6dw?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 22:13:13 GMT",
+      "description": "‘No known exposures’ after measles detected in Brookings county child, health department says South Dakota Searchlight",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -246,6 +255,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Niagara County Department of Health monitoring confirmed case of measles in Erie County - Niagara Frontier Publications",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNngtd0tyODlXWmxaS2x6TE5wOGowV21xLTFUMWE2X3h3OF9GWkRNSW03TTZRZ2QzbHc0Y3pCUjMzaVh3YnhuSFczRXdxaTdvdFlTbzEtaVZnZFhDQWk1QWdmaHJVUUoyZVd4YmtuSG1tV1NtYzFnb0NybmVkcW9hLXU1Z1ROTFloTU41emUwR09aWjlYcnpkeXFtODBCdFhxZEh2akRfTGZSQ19XVnB1LUozc3NlTHBuUmVyTlhVdGtaWkFCWlM4blpObFhjNFRGN1ZmQkk0TGktSnpndWJNcjdFNW0ydEE?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 18:57:43 GMT",
+      "description": "Niagara County Department of Health monitoring confirmed case of measles in Erie County Niagara Frontier Publications",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "State Dept. of Health has confirmed 50 measles cases in Pennsylvania this year - fox43.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSnQyYms1R1RTYXJPM2xTOXN1cWVHUlF0eFF1X3NoakMxTEtFMk03a1R3by1NNTc2MXlHZ2tnUnA0TENPeGM0cU5YbU5TRmhFMkpUcmxaLTZsbE9QOGtWYzE0MFdTc28xSFRUMDFhNDJROHhobXkwbm1nR3EzRG1VNXR4R2lodXpBcXFBaDJidXlqY0tYREV1T0xtYkFTYm02ZEdvSmdFQ0UycTB3NGFkOWJrWEFpYW1xOGNwU09VT05fbzI3ZDB0dk1kaHQ?oc=5",
       "pubDate": "Fri, 05 Jun 2026 18:44:00 GMT",
@@ -300,15 +318,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "‘No known exposures’ after measles detected in Brookings county child, health department says - Seward Independent",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOVdBNVR6dHlmOTVxbHBIVl9NSHhfLVZrbW5tTnoycG01LWJUbHJfN2hUc1EtdkZJS2dmeHNrT0loZ0xRSktHOHNuWE9zQVJIREpIZjNhUmhwaVZ0MXhTbk95azFhS2kzdGpyMGFDTjFjekFUQmJnMXVKYWpUTlMya25fVXNDZWt4NnZkbXVoRGtZTmt5cUR3WV9SakJKRHhCV3BOZjVLVHpKRkpKMGNRWFliYjJxNU1zQlpHVmlGWlVvZ20tQm55V1FZZFBQNWpCRWZEQ0tsQ19QRmxMY21n?oc=5",
-      "pubDate": "Fri, 05 Jun 2026 12:00:29 GMT",
-      "description": "‘No known exposures’ after measles detected in Brookings county child, health department says Seward Independent",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Vitamin A poisonings rose almost 40% as measles misinformation spread in 2025 - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbzJnOUdMYXRqdGRzYmNkemtFaXAwaGZLRjlFa3JIWXliVFlsV3kyWlRHNjZjeEdESWstcDE5d2pkb055QVdURkRfRklNZUpNRDltUW83SmZ2UkpaZjAwcXNneldIa0lrQk1pdG9jQXJBdlZoTG9GbjJrTFRxbW5MeTR6TXZRUWFNV0xScXFmQWJWWm1h?oc=5",
       "pubDate": "Fri, 05 Jun 2026 12:00:01 GMT",
@@ -318,10 +327,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Erie County reports first confirmed case of measles since 2018 - Spectrum News",
+      "title": "Erie County reports first confirmed case of measles since 2018 - spectrumlocalnews.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGpDdFpsYV8wWDhrc1F0TGUyRE9ZZWRjWXZBVHhPWHJicUtDNXZXUy1ldzlCcHJKR3JOSGpuRTF0V1hsZkxQZll2VW15M2h1YXpxbGpNQk1Lb2xXVHJRSlhab21zMEhqb00tLWhxeXVfRkpLd1gwazBtVk8zOVBJS1BnVGNIZEFaVVMxTWY5ZjJGblY5X0EwUm9ucTNrdFpBM29nMVFWZ3Rsdm5VNkxHdkFYTjJ0VzJGTTdLNg?oc=5",
       "pubDate": "Fri, 05 Jun 2026 11:48:00 GMT",
-      "description": "Erie County reports first confirmed case of measles since 2018 Spectrum News",
+      "description": "Erie County reports first confirmed case of measles since 2018 spectrumlocalnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -354,19 +363,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "ECDOH: Erie County resident tests positive for measles, first confirmed measles case in the county since 2018 - WKBW",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcXpPWV91ekM0NUd3MVhvWmhHOUJhdUswNzZMN3RHeUVIU2pKbXpUR3RDcW5rd0xkLTFGU3U3NDFQV3MzRGZnY1phNndibWxPcVpfOUZwQUNwUmNpYjJsVzBsQTJhNnV0NnEwMjUwLV9pVFRoVzdRVFVhUzZoTXlEQ3laLUFPdE1lVTdweHZQQWFvbENieXlKUHdtM05yMVRrczVfN0VGSjZRM1BpalhXOG1NTzBhVGdWOXV4SWN5eFJzeGc5U0pSLXFEcldFOXJ2RnI5ZjJFa09ETVpi?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 22:48:29 GMT",
-      "description": "ECDOH: Erie County resident tests positive for measles, first confirmed measles case in the county since 2018 WKBW",
+      "title": "Measles outbreak at immigration detention center leads to precautionary quarantine - Scripps News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQkZ6endCNWY2a2Z4YzlFcm83Y3hlZzBYWGY5VFNpY2VzaXhWNm0wZWROSU5sTm9KcXU3bnJOQVN4dFdMaUNFd3dSYW01MTdCMUswcDExOFhLdDBUM1c2ZWVsblpseWxWbkN3VWtoRV9NM2w5VWJnbWItWTBuUGY3UHNCMFN1QnZwMmxGNXVzTHNDS3lXaFBscGxoNjcxZndmaUVGU2ZmcExOLTBuelp2cl9CTm1QSGRN?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 01:56:08 GMT",
+      "description": "Measles outbreak at immigration detention center leads to precautionary quarantine Scripps News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Virginia reports rise in measles - Outbreak News Today",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GVERwa2xVX0lQRmFhQ2s2OHBUc1lWNmloaG5WYnNqNFFlaHJ6cEV6VGg4RnpGN1ZNS2ZNU3NxMS1oRUV0MkVHOXhCM3Y4VmQtWlJWY2hfXzRmMXl6MDlESjJBRUdsWXl0WXBoYWJmMUFmZ0tjWW1sNU1LVmRqUQ?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 22:22:20 GMT",
-      "description": "Virginia reports rise in measles Outbreak News Today",
+      "title": "ECDOH: Erie County resident tests positive for measles, first confirmed measles case in the county since 2018 - WKBW",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcXpPWV91ekM0NUd3MVhvWmhHOUJhdUswNzZMN3RHeUVIU2pKbXpUR3RDcW5rd0xkLTFGU3U3NDFQV3MzRGZnY1phNndibWxPcVpfOUZwQUNwUmNpYjJsVzBsQTJhNnV0NnEwMjUwLV9pVFRoVzdRVFVhUzZoTXlEQ3laLUFPdE1lVTdweHZQQWFvbENieXlKUHdtM05yMVRrczVfN0VGSjZRM1BpalhXOG1NTzBhVGdWOXV4SWN5eFJzeGc5U0pSLXFEcldFOXJ2RnI5ZjJFa09ETVpi?oc=5",
+      "pubDate": "Thu, 04 Jun 2026 22:48:29 GMT",
+      "description": "ECDOH: Erie County resident tests positive for measles, first confirmed measles case in the county since 2018 WKBW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -480,15 +489,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Utah sees sharp rise in measles cases as outbreak includes a Trader Joe’s and LDS temple open house - The Salt Lake Tribune",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmdVI0SnJTNWU3dTJrSW5ab1hwNWExeEVYbi1OWUNfTWZVSWxpNjB2bDdJaHhzN2ZKbzhrbExMVTdSX0luMTQwU0pjbFdsWF84VlZIcGkxWC1ER3NPXzZZUHdpNUF5N2tZVzdGekFZYTlUelRLMWtjN1ZTY3ZIdw?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "description": "Utah sees sharp rise in measles cases as outbreak includes a Trader Joe’s and LDS temple open house The Salt Lake Tribune",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "‘There’s a global measles epidemic’: RFK Jr. addresses measles during Central Virginia outbreak - WRIC ABC 8News",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdHZ5QVY0RGszaDVVVlU0VFpjSGZwbEd6X0RZZDFES2pES2d6Y3Q0OHRYbTRpV2FMZExxT2hXa2NHcVBEY1d0M3plZ0ZfNlNKVG9VbllycTM3QzJPakNaaDQzWFFOS1NoTnhaODN1OWxTRDNYanI5b0Jpc2lUNDlmdlZsRkoyY0RUODhwV3FhcjhDZDVrcWgtOVUxZHJqSzh3d1l6RGt3VkNfd2FZWllCQVVQeGNhSTlPeXlyQVY4ZXdFSGJYZlJj0gHMAUFVX3lxTE1SRjFMWlN3UU9ndUtzSk5nMkNGYWdwa3NYWjlwWHNzNl95Yml6UVFwMTJqcTFKc3drajNBaDBRNmpwalpyMTVfd1dDQ3VQV24yRlBzeEJnVFlCaTFNa1IzcmMzQXJuRjZxckowOUdxZ0hhNzlvTFhEdm1iRDk1cEllY2FZNTJyc2lyWHVrX1NiR3ZlYjNmUElRanU2N19xZG9JN1RDWlhkVHllX2w3SW1OUzN5RGNIcFU2ck9GYzlKSWVLRVI1eW1tREd6TA?oc=5",
       "pubDate": "Thu, 04 Jun 2026 02:44:25 GMT",
@@ -520,15 +520,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYl9Oa1pFV0h0Y29HNFd4LThIaVJocmtaUWl6SktaQWJMbU4wWTN6RXRwRHRhYkJTSWl4TkE5VEdRQXN6TnNheVFPNHFrSDBpcGRjZklpbjg0SFhha0lBWS1rbTBxWWdHTmZWNFk5WjFldlBIYVJxQ3dtV1htajBWb1dZS0todGNGZkhjOUpXbFFKQnN2eWpwc0U0cFFFNGljWlhBbGxMSGdOZUtGZm1fekJxYXpXNklkeTRyM0tqWQ?oc=5",
       "pubDate": "Wed, 03 Jun 2026 18:20:00 GMT",
       "description": "Study: Federal promotion of vitamin A, cod liver oil for measles prompted flurry of internet searches CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Child in Brookings County ‘detected’ for measles - KELOLAND.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTU0za211WE1Gbm5pZm50VTNsRUxVaUdFSzc5WVhYeHhDTGJwc2hoaE1obHVaRnMxaHI0RG9yZ0N3MmUxUEhFYXp1VUZlaTdvb3JmYVdGdTBKVERjb28tVXZPdFVFWno0WUpwVl9leFc0cWRnMUlOMDYzcnpaYUZHbHRZTHpRNThvRnBtNm9IRUhOUdIBlwFBVV95cUxNMFBrWElubXJUSnFiYlFXLTJPZ19tWTA3MktubXlmVlR5VkR5Z1ItRkhxa1Q0cTVNVDJhZ2cxNnhSNUtOTzJPQTcxbkQtcWdPQkE4SzdpaWpYWVFVeGdNdVlJZWhHaWI0SkFFYTFCUHhldWRSNUhRb1JibFR5b2RkREZ6TDNrYV8tb3hmZVVUSVpPMVdUMkM4?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 16:48:32 GMT",
-      "description": "Child in Brookings County ‘detected’ for measles KELOLAND.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
