@@ -1,12 +1,66 @@
 {
-  "updatedAt": "2026-06-11T11:43:10.562Z",
-  "itemCount": 65,
+  "updatedAt": "2026-06-11T13:39:49.573Z",
+  "itemCount": 71,
   "items": [
     {
-      "title": "Two children die in measles outbreaks - The Telegraph",
+      "title": "Alert over adult measles cases in Worcestershire - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbXdXemotVGdOelpXRGRsMW5xUUFEYTAxa2J6Y0M4NTYtTkIyc0dacnVkMEVLcjJNM3ZOcTZLcnI0Y21Ea0Fic180Y1lfWGhQM0pkT0hpVVExMTNZOERxeWlNMkNEcWJVbktGVkx4RmxET050X3FfOEdpM29sNmdVMnViUWNxdmt5YlBLNGxZaGpnQzA?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 13:23:43 GMT",
+      "description": "Alert over adult measles cases in Worcestershire Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Alert over adult measles cases in Worcestershire - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tcFFQZFJZcHFoUXFaUElVWkxzNk5PakNqVGRWVVRtRExxVlBTSzh6SG1xNWp2NElGajFyYkg1YkZETW11SmdlMnZNYmx6Q1VDU2lVdDJJTU44UQ?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 13:23:38 GMT",
+      "description": "Alert over adult measles cases in Worcestershire BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Two children die from measles following outbreaks - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yZ0FKVmlzYVpGMUllX1N5SXczVGN5UWxDQWlEZkZBYmp3akk5VVVfRU5MQ2V0dG1oZ1ViNkp3eFl0WmxaeHZ3aHFiQU5UNjdDRTg1UkNpT05CbEQx?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 13:18:40 GMT",
+      "description": "Two children die from measles following outbreaks BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Second measles case confirmed in Buffalo area - Democrat and Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXJkUmgzY3VLa3hycmxDUXBQY0xlY3pXTGxLdUJkMGlnajJCVFN5cVZnT0ZkRzJLQXFZNHJ0dVYwcWRnT1A2VnpudHhFcThyakNpTG11OW1YYlFINVA5cEZPTGpLLVRCNzBYQjhWM1E5cHREOURlU3VlbmpFY1c1bFRFWExZUkpKTzN6cHpieDNCM0FpYkpjcWpCYVYwR3dzZTgzQ0VnTmQ1RjB4eHpGMA?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 13:10:00 GMT",
+      "description": "Second measles case confirmed in Buffalo area Democrat and Chronicle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles outbreak: Two children die from viral illness - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zUTNGMXJNLWNjbnlMWmVyYTFYeHVXOEdScXF3QU5BMmFYY1d3eTBnNWV1SFJZWUlMSHN3dUJSTU52MUJRYWFpZWp3ZDBlUHNxOHhuaVp0MEpLZw?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 12:06:55 GMT",
+      "description": "Measles outbreak: Two children die from viral illness BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Rare or Unverified Outcomes Shape Vaccine Safety and Gender Care Debates — The Monitor - KFF",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLXZuc1B3U2RQRk83M1JTSHBSdVNIbjBlVjVNNmg0ZzYzWjN3V09JUzBtUXFUTi1tREpLbVZZVElqN0dIcl9RRGF1V0NJUVhBOTA4U0JpV2VRSk9VVGNhNHh4TDg3MDk1c21hSExOYWdYZnJ0ODdZZ2xNWGF3Z2lnNFFDQ2ZvcVBtQ2VMaF9HcWpJODhxQTlNRVlFSkdEYktoSlBRM2daZG41ckpQUklabVdPOHZQdU9reEE?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 12:00:00 GMT",
+      "description": "Rare or Unverified Outcomes Shape Vaccine Safety and Gender Care Debates — The Monitor KFF",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Two children die from measles - The Telegraph",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVDFKVFdZR195eV9YdkhnZkxxWVVGSWlrMWlKMl9EbXpmaEpFUC1hTTBTWndsSl8taGNENTl2SkROcUNFWEx3bGtxWm9taWdLcWM4MkdsWFZyLWl0aHBRaGtXZk50VFBFdVpBeHg4R19YM0M1cWpPb0JRVVh2SGF6ZmxxMEpUSndzV284M0F0VjRUbWxVRGF2eC1JOGdYUQ?oc=5",
       "pubDate": "Thu, 11 Jun 2026 10:22:00 GMT",
-      "description": "Two children die in measles outbreaks The Telegraph",
+      "description": "Two children die from measles The Telegraph",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -34,6 +88,15 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVRhR2dmRWZlWHZpY0dTWklDSHIxNFlhSHluSTRhSzRiTXhDWmFhYmZtbUpxMkdRZHNPS0hIZEZRQllhZEZKS3V6SjhZcFotWFBBQjZIc2VlY3V2R29ucWhfZlZjQ0JWbldKeXBnbG5BbVBmZ2hPeWVaVmtCQjhweFh1UzhXdVFLUEg1dmJsdHBuMWFzcm82RnlHR2E2UUI3aWlIQzZIbm1tMHJfY2ZraWJhdkpXbWcyc18tQVlTOGt3RDhkN1FVT3BPR3hwOW45?oc=5",
       "pubDate": "Thu, 11 Jun 2026 10:09:00 GMT",
       "description": "US measles cases could overtake 2025 numbers. What about Oklahoma? The Oklahoman",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Two children have died from measles this year as cases reported across England - Pulse Today",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ0pPQzQzbEJiQ2ptbndqX08xanJVbHBiOU9vdV9SWEVEeVdfaVhkQ2FZOTZiV3BaVnkwZld5Y3VyV0FzVnBvOXh5UG5oYlJjZUJSRndWaE9JRU1VbFR6YmlaYVBtMFFFSXhURW92T3Z6UDI5TXZkTFZRNGJxcmV6WWVVV3lKdkdFZ3hRUlRvbHN0Q2VpMEc2OVd1cWd1RGxDNzVRSUZnNUI4YndhZ2pfWGVFaVFSQXByWGlPLU4tdjdzSk5PVV9VQlhsS0NxMl9sNlpvbUk2TldTTGpTR0hEcGlnZzFidzlTQWdkQktTVlFldFZTQlR4VnJBTQ?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 09:59:02 GMT",
+      "description": "Two children have died from measles this year as cases reported across England Pulse Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -68,7 +131,7 @@
     {
       "title": "Latest measles figures published as two deaths confirmed in 2026 - GOV.UK",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTm5sN3d0bFpyRG04OEF3OGEwWVhmSHRiU0dpb1I0Um9BWnVvb184NExNU1lQcUhsc0VfSkxuQ1dGQXJDOTNFSkFCdmVwRVlIU3A5ckItVjA3ZEtsNkswOTBSWHNDcU5iaW1QN0I3NkY5UnZReWYxdy1iZ0l2Zkt2M2U5bk9xYk9VNkNYcWVpV1R4N2t3NGh2Sl9iMmJKVmJ1?oc=5",
-      "pubDate": "Thu, 11 Jun 2026 08:30:10 GMT",
+      "pubDate": "Thu, 11 Jun 2026 08:30:00 GMT",
       "description": "Latest measles figures published as two deaths confirmed in 2026 GOV.UK",
       "source": "news.google.com",
       "sourceType": "news",
@@ -84,10 +147,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health Department Warns Of Measles In Buffalo; Sites Of Exposure Listed - 92.9 WBUF",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZdXpXZ1paN01qMzJSZVVDYmwyMTF1UFhyc1lhX0pJZzljS0stYndad0h5aXlZaEktcml6TEYwM21TR2FPdmVTRXVCbjA1T2M3VHphY0FOZXp3d1haaGNSWHFZMGNZU184SHc?oc=5",
-      "pubDate": "Thu, 11 Jun 2026 03:50:17 GMT",
-      "description": "Health Department Warns Of Measles In Buffalo; Sites Of Exposure Listed 92.9 WBUF",
+      "title": "Erie County Health confirms second local measles case - Buffalo News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV0FvTHFIZjZ4NlJ5YjJ1Wk5sWFRpbDU0ZGxsNEI3YmZHSVRtUVFCWE9tZlBDbFNJUXRSQmpXZmNlQzZod1dMMF9KakZFaXpuMkhyaEtqdS12ZUN0SU80bEUxekp6aERKeEptMUtfNmYwem5oYlljNDg0aWF6RkpHS3MtUXRjWXBRdjlISW9ZZU9idw?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 06:23:09 GMT",
+      "description": "Erie County Health confirms second local measles case Buffalo News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -327,24 +390,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Vitamin A overdoses on the rise: Experts answer 5 key questions - Medical News Today",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3E2dC1LX1pyRHhGZk1raW95NzRkY3VDWW8yZjQwaU5ockxfS1RYVjlhSjhNYjNlUzhJUnI3T3pFQm5DM2d5RHhoeDVtQWM3ZW9HT0g2UU0yNHgwWUZnT0QzVHZpSUg2WWN6Z3lxUG4wdXVLS0lrLVJUWklYTjhhY2pXVzBUQU12NG9UVzdZMVYxNTk3eUNvZFZROUFXekZlTmMyZGpR?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 14:07:45 GMT",
-      "description": "Vitamin A overdoses on the rise: Experts answer 5 key questions Medical News Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Number of measles cases in Virginia surpasses 100 - Richmond Times-Dispatch",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjQ3c09Ub0FVZ280VVFXTkRqRm5zUjVPb3hISDNfSGpXWE1xSUNaUFU5Q21oOUF3RzVNRDdDMGJRMEdfZVlEMFlTdGhZZEtLUUVmR01NQ3pEUXBfdFY1LVZXSTh5emJiSzFSMXhYTklzWVpOZk5Ob0lnUm5Vem9VRkl0eFNHVGVZ?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 13:58:00 GMT",
-      "description": "Number of measles cases in Virginia surpasses 100 Richmond Times-Dispatch",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "U.S. measles cases surging: What parents, families need to know - News4JAX",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLUZPUHJkaDN4WkRjTlhfVlBaWGxVc285QUpRYXg2MmVhVGhDckpVMTI2ekxDT0pBOGE2TENhQmJtdnRfOGpwN08wNHlLd3MzS2NUaHlJOGU2am0xdHhuN2pPeVRfT1MweEk5R0J4MjZfd2tUdnN2d3RDMThUMk5nMkhfN3NRSDZfQ21YUURIaWdRTV9zR1hzSG5VMEMxSFlZbmFCWFlnUVA0YWg3WGI0?oc=5",
       "pubDate": "Wed, 10 Jun 2026 12:56:14 GMT",
@@ -354,19 +399,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases in US on track to exceed record - WHAS11",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY2NwampBU3BYMjNNTzczck1ONkREaWV0WUFkc18wR3QzUDI1NzgwS0taVHhtS0hrTHUxT0kwQ0hKLVJxanFtSkVTcklnb0s5SXkzM0dsdE04emE1RHoxVW9yWms5YXVVMHY4OUluMG9FSFFyRXFqb1VLeVNrN0ZuemY4T0tVb19xbWg2Wl9HNDh2RU9xcG1mT1BCY2U2am9CV1c0VVFwXy03S2k3TGVRclhZRzJOeFFjb1d1RTM5NmFEU2FFR3c?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 12:19:00 GMT",
-      "description": "Measles cases in US on track to exceed record WHAS11",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Erie County Health confirms second local measles case - Buffalo News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV0FvTHFIZjZ4NlJ5YjJ1Wk5sWFRpbDU0ZGxsNEI3YmZHSVRtUVFCWE9tZlBDbFNJUXRSQmpXZmNlQzZod1dMMF9KakZFaXpuMkhyaEtqdS12ZUN0SU80bEUxekp6aERKeEptMUtfNmYwem5oYlljNDg0aWF6RkpHS3MtUXRjWXBRdjlISW9ZZU9idw?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 12:00:00 GMT",
-      "description": "Erie County Health confirms second local measles case Buffalo News",
+      "title": "Anguished Parents. Doctors in Tears. Utah’s Long Measles Outbreak Takes a Toll. - KFF Health News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQUl4MW80QTlDZW5DTl8wajZVV29vNll5NVYzZFVmbGxEeHF4d0xTaG9RMEFCVHhMOWpFVjVObG1YdWE0Uk1uckdkNkhuTWJ5MFdaTlpfNGZ4VEtZcWdJNl9GZUI5dWlkanJ4S0c0b1hsR0UzWGd6bjZUWXRzUFJxVVM5S2NlTk91OWVHcExWSTE0dklQeFJvZEhDR1pfb2RTaDFER1ZyMXBjUzNYekJ0d095dVNPaEk0Z2cwQQ?oc=5",
+      "pubDate": "Wed, 10 Jun 2026 09:02:18 GMT",
+      "description": "Anguished Parents. Doctors in Tears. Utah’s Long Measles Outbreak Takes a Toll. KFF Health News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -543,6 +579,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Tolkkinen: I grew up in the group responsible for low vaccination rates in rural Minnesota. - Star Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORUtOZUpnSXZicjBSNkYtZ0lYcldsUWh4VE10NndwNzUtbnpqVllrTWd3cmpGV0VtRDZTR0EwNTczeExOQ0dSZ0JFM24wUnhKaHE2S2RFRWpxRjlHdTM1VnhIUms2UVVERVhLT3N3NTdaUWJVSzhUUlZGRW1fS3VBUF9Fai1pNlhUbllzX2h6OUV1bjEyNGFwRXNQR1BWNEZMUTUwX1hrM3VJMDItNElEQ1JndUtTZFI1OXFZLUZ5VnVqMTBGNzNkeXNFSXBodUZkVnZRYWlYTUVrN0RIbTQwSjh2cmdBbFVTRHRZ?oc=5",
+      "pubDate": "Mon, 08 Jun 2026 13:54:19 GMT",
+      "description": "Tolkkinen: I grew up in the group responsible for low vaccination rates in rural Minnesota. Star Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "What ProPublica Found in the Genetic Code of America’s Measles Outbreaks - ProPublica",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vUnVOM1ZHTVVvODRteWE0aEx4djZxQXZMZElaTWRFRWRab2FWZXZZbkZkUzBmVngzNmVjbVJuQ1lEVlM1Wlhfb0NHaHdXQXVVVFVMdWwxQ1pEbmNQRU5sUmdmRXNVQ1pPRDhBRUlUNjlqT0l1Tjg2OA?oc=5",
       "pubDate": "Mon, 08 Jun 2026 12:51:24 GMT",
@@ -561,6 +606,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Public Health Confirms Measles Wastewater Detection in Merced - Merced County",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GbnBzNmZtRzBTY1BEOEhucnBXamRYSjNFV3ctemdPT29BSTFoQjhBMTlMekgySl9FNy1oeTdtNFdMTzgydmttTG9RNDhjRldEcHBMVDJCa1padWVmeE1PRTNmZlRFeTQ?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 20:44:51 GMT",
+      "description": "Public Health Confirms Measles Wastewater Detection in Merced Merced County",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "US measles cases top 2,000 in just 5 months - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnBQQjRINGRseUtFWXRDc1JKQ2FXeHVHdXFhaVJLUVpMamZaUjlRQTZfc0JHOE9PVUhOSklldnd0VU5xX0t5ZzVhYVdIVXR1MXlKY25hUlJWWE91T0hpUDhWYkdhd1FmMGIzam56REtBT1I0OVFKODdXYkt1cFU?oc=5",
       "pubDate": "Fri, 05 Jun 2026 20:36:57 GMT",
@@ -570,10 +624,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Map: Track the spread of measles in the U.S. - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbE5SY1JYYnNMX1pQUlQ3aWxCUWdqZFlNbTR4dUtWaDBxQXFTOEZvemktbms3RzJqeFdSMWpFNVhIazcxR1FSVm1jaEgtRnd1NnVzRElYR2RuYlp3U0x3aTROYnNMc1BHeEhhVnhSZUtBQkdKZUlPUmlVWWhCOEIxNTRpbXFwaDU0dkllZw?oc=5",
-      "pubDate": "Fri, 05 Jun 2026 14:43:00 GMT",
-      "description": "Map: Track the spread of measles in the U.S. NBC News",
+      "title": "US measles cases surpass 2,000 for the 2nd year in a row: CDC - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWx4TmpXVElsXzl5UVBkTlFNZ2lrYldxSl9FMF9LbG1BMEhJU0ZkVVN5OVVVaE11eWE3VEMxdEtVTEgzeXBXSDRsNTZZRmtfMHZMRVdMMzZtdTFKM1h1Q1NEZVlHZTZVX0d3ZXE0Z1ExY1VDVkFUUmxaS082UXhNejJvX3JBV3BFbENpTVhrdXlFZ9IBlwFBVV95cUxOclJOdUVWQzZ0M3FFRktYdy1MUDd5M2tfTURnVEVMeFNwTWc2SHFoVktvQjdOQkE1cktzSkFWYXN6azZPdmZwOGYyR1VhTzllTFh2TGpSVzZWczYxbTZRTGx1a3kteEs3bWtsRDkwNFhyUUZNeWhXbU1EMWJ6Q1VvYzhzR0c2Z3BoMzhwWlphQmhXczVxdTJ3?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 18:33:51 GMT",
+      "description": "US measles cases surpass 2,000 for the 2nd year in a row: CDC ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
