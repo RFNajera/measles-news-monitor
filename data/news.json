@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-06-13T05:42:57.775Z",
-  "itemCount": 82,
+  "updatedAt": "2026-06-13T07:33:17.968Z",
+  "itemCount": 81,
   "items": [
+    {
+      "title": "The summer may be defined by more than soccer - The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb3dlbFdZT0V0OGl4bUdkOURGeTgybzE0WEZtMU1jU1JVS1Q2OFlHcTI0emxWYV9pamlJOWwyQ01hd0xwbmRfQWVKeWtaVlpjVnpGQ3JYSnZZTHlxaGpfOEhfWTQ4d1A1emlMNllqMHJTQVhLU1ZfbjAxcldSbkFDUi1HZlN0eUk?oc=5",
+      "pubDate": "Sat, 13 Jun 2026 07:01:54 GMT",
+      "description": "The summer may be defined by more than soccer The Boston Globe",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "DOH warns of possible measles exposure at courthouse in Lancaster - WGAL",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1dsWnZHU3dkNUVPZHE5MC1CRVFxS2k5Q1RzTXhod3ZXVGptQkg0d0Z0aEZGQnJHUndmVFgyNHJkci02dzc0Q3B1V3dwMlZlVW5sRWxtaXM3QUlTMUpBbGFBaGRhWXdyV2RCUDNxRU9WdUFaS01sVFA1aDdtN0JzOElqdU5hSnFwX2ZKLXdCaEVZNzh0THNSZnpNX0JFaWk3Vnc?oc=5",
@@ -97,15 +106,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQamxUc01jSWJsbzA3TlFZeWVsU0Y3TzRidHJBZUZuM0NwRjg0OVFVSHZPbFJnVjFPUnpZWWJhRndwWk1iRXBZSEViaVdmRWdhbFR0NXJTdUdsbmlBMXFybkUyWU9sQ3NWeHU3ZnFMcWFWUHpwRjE0U0hWNEdUckxnWFNGVC1oWDg2ckdFQ0tWeXdlMW5kWnFGMnE1bGRzRFpZOGZiVEhPM0NoMjlDQ1VVVkZxeU5GQQ?oc=5",
       "pubDate": "Fri, 12 Jun 2026 19:54:32 GMT",
       "description": "Southside Health District asking community’s help to stop measles spread WSLS",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles outbreak prompts warning ahead of major Buckingham County events - ConsumerAffairs",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd09odk5vMEt0VFd5ZkNCZllOT1o1MzljUDRKY2lJemlaeVlncGZIMks2NEVfQ2tvSjFVcl83Z0Q2SFNCNHBZQUhOQVBWM1BHR0JodHNYa2UyLXBiNnNjazNSa1RGajctNWE0WG5SSVFielctSDNLU1JhbmVPVmllSUxybU1nZll0dEpZNER3UC1BRGh0OHBIT3VEUDNyVmJCNG4tWVBJa1BHdWs5bzlrOHZGcUxEN3laQ29rRE5B?oc=5",
-      "pubDate": "Fri, 12 Jun 2026 18:42:02 GMT",
-      "description": "Measles outbreak prompts warning ahead of major Buckingham County events ConsumerAffairs",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -453,6 +453,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "The measles outbreak along the Arizona-Utah border is over, public health officials say - KJZZ",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMlJRTnhrRXA5cnpHX2F3ank5eEtIVWVLZ3Q1NlB2Qm5oeVZ0cWJ0S3JQbFBtUkgzZElNQURMRjhfcUo4bnhkNmhYamJ4bWdSNm8tUTg4eS1yNlRlUWJCZGFNZ2Vkd3JkZjZxREdMZ3F5N2xDOXpGcWUtNTh1YVFSVGx3NklfdkRBMkFNa2QtSlQxTGh0RXIxWHdjcUUtdTdqZzVvMUZoX1BEVVFyMDg4bWFUenoxbGJvTGVpR1plbjZHaEd2?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 15:48:00 GMT",
+      "description": "The measles outbreak along the Arizona-Utah border is over, public health officials say KJZZ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "U.S. Measles Cases Top 2,000 for Second Straight Year - Democracy Now!",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmpUbXhYbm83emVSVFVnZktLeHl6ZGphRWg4eUNjM0xmUHdGNUZ1MWtCYVFRdlpmWUhwUlJoT0lBOWlhR0hKZ1Bmb0dUVmRiblFBUkhLdUt4ZFpLUjNHODVKdnR3REVZSlZNQnNENHMxRk5zRHZfWlpTT0Vfdy1Od1RkWktXVDctOE14dEdQU3FYT2pkclk2bEphc3N3WVFwdkE?oc=5",
       "pubDate": "Thu, 11 Jun 2026 14:37:28 GMT",
@@ -714,28 +723,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases are dramatically outpacing 2025's. See latest US numbers - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1lDcGRZeDJZTFdXYTZHUEwwOVRuWVBVS3ZWMjBLS2NhMjc4UkRSeFZBM2daZHNfYjN4ZTRPTmpuT29sY1FXWk95Uk1xUEFFbThNQ05HZHQwcXV6SlNqdmFHeEZ5ZG5Id1doUWZ4elgtaWVRN2tKSUVlWUp4RUNMVmFLdW1jalREcXBTUDVWdnJ1YzJURHBJ?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 20:00:00 GMT",
-      "description": "Measles cases are dramatically outpacing 2025's. See latest US numbers USA Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "What ProPublica Found in the Genetic Code of America’s Measles Outbreaks - ProPublica",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vUnVOM1ZHTVVvODRteWE0aEx4djZxQXZMZElaTWRFRWRab2FWZXZZbkZkUzBmVngzNmVjbVJuQ1lEVlM1Wlhfb0NHaHdXQXVVVFVMdWwxQ1pEbmNQRU5sUmdmRXNVQ1pPRDhBRUlUNjlqT0l1Tjg2OA?oc=5",
       "pubDate": "Mon, 08 Jun 2026 12:51:24 GMT",
       "description": "What ProPublica Found in the Genetic Code of America’s Measles Outbreaks ProPublica",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "As vaccination rates plunge in Pennsylvania schools, measles cases surge in largest outbreak in three decades - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWtUZFY3SGltTUhGcGR1VHNGdWptVmR6TmQyeGE1SGxKS05hTm90empyUzJsNEhIa01jd2NRN0lLb01mUTRycTMyaEEwZF9ZVUVkOTM3UWRIYUo5NkxQcU9ZVzdldEVMUkR2b09SUk8ta3VsdmRiQjRtVEFjZHRSdUxROVlwZGZ4dVF6bldHS0h0VGRSRk9Cdy10WmdVRVItYURXaUpnNlc?oc=5",
-      "pubDate": "Sun, 07 Jun 2026 08:00:00 GMT",
-      "description": "As vaccination rates plunge in Pennsylvania schools, measles cases surge in largest outbreak in three decades Pittsburgh Post-Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
