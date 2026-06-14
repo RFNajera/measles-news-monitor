@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-06-14T20:38:58.641Z",
+  "updatedAt": "2026-06-14T21:38:34.329Z",
   "itemCount": 80,
   "items": [
+    {
+      "title": "Health officials warn of possible measles exposure at SFO, San Jose locations - KTVU",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0NhYmFVX3dmVHM1YllhUnVEd2JnN0dnYVM5U2V4Y19OaDM4R1ZjR0FaWlhHeVRuaWc5RG9VQnVvRllUYkE4dGNjUExhaGVRMHlCTHd1cGxfZmw0eXNzcFhyZzFnTFpaRmVpZlkxelpaSkc4ekV2RHF0ZXpXUjN5NlBod3ByamlVWmcxZjhxM2FPQWNPMWhKRjMzMkHSAaIBQVVfeXFMUHlXSG5nM2sxYWJyT3Y4VWJwdzVQVHd4bl9BZUd1MGdubU1mN1cxYmstYzQwZG5tTGlfWHdjV1pyYUt3emg3QVpVaVNrN1AwWThMODZVel8tckNheHhZbDA3RDB4YTlLNVl0QVgzaG9oSzlPSmkxUVFVSVpRQlJhcFNoTzM1VVBGUzVpYm45V2FJam1mbWZoaXpwaDdnQjJzSTBn?oc=5",
+      "pubDate": "Sun, 14 Jun 2026 19:48:25 GMT",
+      "description": "Health officials warn of possible measles exposure at SFO, San Jose locations KTVU",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Santa Clara issues health alert over measles exposure - KTVU",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1feTA3Y09aT1pzaFNlUE5UNTUwa0gxMy1FUHBmcm1fMHR6N0psSWE2QVk0ejRLVGpBZ2xWX25DOFlpNElPdTN5X0RlTWRtN0M2anRQbl9jQnZvSWfSAWBBVV95cUxQTkFiVkl5UXJwZkxaY1hsRHd4QmhpR0xSQTBBZ0VuLVBFNVVVTWxJbFZnSXA3NHR2RUMwR2JEdF9UUEc3TFdCSndpVGcyLUE4TUt5ejM0T05naWdBMGFUX2k?oc=5",
@@ -84,15 +93,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles case in Santa Clara County as thousands gather for World Cup - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWxycW5oNDlwa001RXJaS2NTcU1NaFF5VTNGSVVBakctLV9NOE12Vml2LXl3M2thTmlRVHBwN20tVUM4R0NWMXI5aGgzaEZkZ19EOHlEM2tWX3VWN1FCeVBkRUh5LXlNcHZZNEUwREVKNWswVlFvVU9aeUlLVTlLRkdKYWpQLVNwQjc4?oc=5",
-      "pubDate": "Sat, 13 Jun 2026 23:47:45 GMT",
-      "description": "Measles case in Santa Clara County as thousands gather for World Cup San Francisco Chronicle",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "South Bay resident with measles visited SFO airport, San Jose locations - The Mercury News",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWNYY2Y0eDFsU0pOQUVPZ3hoN3A3bVYzemNHSXdTZWRwMW15UG1xVW1Qc0Y0NDRROVM5ZDBDYTJIR21TTnh0OWVzZnMxZE95V3pXcFhhaU4xTEpsYklGMllkaU9HdUhCYmFjdjJxbWFUeW9YT2FMbVhiNlFNUVV2Ym9fS1U1MWdtODNVSXh6QTNGNHdLYkFlSjNscU5yN1pyOE1oQ1FfM2NkOG5zb0RLLXJkdkRTblVjb2dybDh4RDFIZ9IBxwFBVV95cUxPam5HOUwySFh3ejh6ZnR1UmpaUUV2UEdKcVdtS2VEVlR0SEZQd1hKNi13ZndMazdERERSU2Q3VVlqdkJHRy1lU2dxMHh2cGFjbThNOG9qYXhpeWxTdWl4ajFUa3ZCSlhEeGc3MG1wZzVtaWlnanlGc19MZFBSR2Ztam5CYjdYSVZJbmJNZmhRRVA4TVZ1MFp0Q0NycndiR29JRUJHZVZnWlotdUVNbmtwbjVqdTdmYmJSczNZNHdRc25qa1o1NHFz?oc=5",
       "pubDate": "Sat, 13 Jun 2026 23:14:47 GMT",
@@ -105,7 +105,7 @@
       "title": "Health officials confirm case of measles in a Santa Clara County resident - NBC Bay Area",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZlJFY2xhR3RCd3dCOF9Ya25ldk5vQjFjQWt4TmVMblBoR1A4Q1NlQmVibGRZWnhGSGtpZVFHWVN3YzExdkQxNUxCX2pXUXdGSnU3Yjk1Z1E3RFVmdkFWbVRIUkhTLS01MHB5bFVLWUpHTWVzRDhxa1V4VEVyMVA0VTVqYWxjeEF5V1pSSDBRQjk5dHcxUHd3M0NybFIzUkJrUGQxQjFRdHJiV0ZCaGJ5aTh6UjNwRFBJZlJIbdIBxAFBVV95cUxOU0JoOWpod0VYd1hveGc2WF9hR3BjNjN1dHJlZVp0Z1NSYVZvZTMxbUh4bmdUU3JGb3h5NnExSlgxcHB6cWU3NUd1VGZ5aFBEYmtqc0lGaWNsM0Rkei1abTJ3NFNQUUFQLVQ4UHNVS3RUTjRjdWN5eXNwSDVEOEgwSXpCbzVsTXJJdWpUWTFfMFV0YzViREVQcUhKQkF4Sm51dnl1UWllSWVIejluWDRFZ056ZkJna3NxOVpmd2RsWEZZQUxR?oc=5",
       "pubDate": "Sat, 13 Jun 2026 22:38:37 GMT",
-      "description": "Health officials confirm case of measles in a Santa Clara County resident NBC Bay Area Santa Clara Co. resident confirmed to have measles: public health KRON4 Health officials warn of possible measles exposure at SFO, San Jose locations KTVU",
+      "description": "Health officials confirm case of measles in a Santa Clara County resident NBC Bay Area Santa Clara Co. resident confirmed to have measles: public health KRON4 Measles case in Santa Clara County as thousands gather for World Cup San Francisco Chronicle",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -183,10 +183,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Watch As World Cup Begins, Health Officials Issue Warnings Amid Measles Outbreak - Bloomberg",
+      "title": "Watch As World Cup Begins, Health Officials Issue Warnings Amid Measles Outbreak - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdFh4OXN5VVVWdTI4ckVMeWtERUNvSFVLWW1ac3dhVGxvX3B6QkpvVzl1bUR5c3VCUVhSamhDeDQxcFliVGVPbkFGcV9yUnBHZlM4UHZSbDVMd29mdWl5ZGNkbEhxUFF3T3dFX0R5QnlVNnVyeWFTVU9pRTVtRmQzSjd1cmYxX0hOU0dwSGxBUE45am02NlFKM3lfZEtLM1JjcEptNWxPQVluNWpPeGc?oc=5",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 GMT",
-      "description": "Watch As World Cup Begins, Health Officials Issue Warnings Amid Measles Outbreak Bloomberg",
+      "description": "Watch As World Cup Begins, Health Officials Issue Warnings Amid Measles Outbreak Bloomberg.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -399,10 +399,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Buckingham measles outbreak continues to grow - CBS 19 News",
+      "title": "Buckingham measles outbreak continues to grow - cbs19news.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOVJ2RGhoX3lpMkp2SlRqWHkyZnB0WGJtWGtGTVgwekNCaGVkTTFxU0JLOUF6QmxFbVFYWDdkRXJmTVc1THIzbWQ1U2pablE0U0NFS3BXZk5IU1h6ZHdwVWVwbHZ6eGlNVWVMSkE5OUFaajlnUE80aDUwZy13QVZCb1RqeHN3Q2RUTzZ4bGV1VnV3ZmNySDBxM1dOY0J1ZE04UGM3OXFaNENhWi1VaFM3YnliSzV6MHRjU296RzVNa0R2RjBl?oc=5",
       "pubDate": "Thu, 11 Jun 2026 21:30:00 GMT",
-      "description": "Buckingham measles outbreak continues to grow CBS 19 News",
+      "description": "Buckingham measles outbreak continues to grow cbs19news.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
