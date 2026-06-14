@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-06-14T19:44:09.294Z",
-  "itemCount": 82,
+  "updatedAt": "2026-06-14T20:38:58.641Z",
+  "itemCount": 80,
   "items": [
+    {
+      "title": "Santa Clara issues health alert over measles exposure - KTVU",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1feTA3Y09aT1pzaFNlUE5UNTUwa0gxMy1FUHBmcm1fMHR6N0psSWE2QVk0ejRLVGpBZ2xWX25DOFlpNElPdTN5X0RlTWRtN0M2anRQbl9jQnZvSWfSAWBBVV95cUxQTkFiVkl5UXJwZkxaY1hsRHd4QmhpR0xSQTBBZ0VuLVBFNVVVTWxJbFZnSXA3NHR2RUMwR2JEdF9UUEc3TFdCSndpVGcyLUE4TUt5ejM0T05naWdBMGFUX2k?oc=5",
+      "pubDate": "Sun, 14 Jun 2026 19:43:13 GMT",
+      "description": "Santa Clara issues health alert over measles exposure KTVU",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Bangladesh measles outbreak claims four more lives, death toll crosses 650 - India Tribune - Chicago",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTTNGSkYtM3JtaG93bkNVczM0WW9BSVVlMTExR0pWbjdNVjN0cHpkcmFCVzlfbmJTeGM2ZkJ3a091ekN3LWZyVlpvVFMwdXFaM0ZSOE5ZN05QMm5sZFZMVlRtaEw1UDBLdzQ1RTRpRmhCdG9KMFZtRzRxalVRUFlsdXJ4aktMV0lvanFCek9lX0w0UDdheHBiWTA2dkVXUDRZcmNYYjU3cWRLOWJRZ1E?oc=5",
@@ -13,7 +22,7 @@
     },
     {
       "title": "Measles case found in California after they passed through San Francisco Airport - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV1BPS1RVVlZjMTZaRU1EU05zUDRudUdpODNFQW1qeEI5VnlrbHFkci16QmdpUUtIXy1Hbmh0akRHUndxVlV3V2hSVXUzNTk5Nkh6OV9rQnI3Wi1iWV93cGttUFpZcmZ3ZldRcFJkQWZqcGNRUEszdjFIOWtBU09mc3dwaGxWNWs3S2pCMEFYZEphMk5DTFFhbk9kYTdoQ2dLTHBCbWNhTC1pTXBzRTIyYUpKZjNMMExuUHI0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaWxIN0M5amFvNVNXaFJOQkJKMlRObWQyT2UyLTI5RThVY2l0QzRBeTlmb1FkLXV6Mld0T0xtS0o0Uy1NVTBybTRGOG1VckI5cU5Ed25fSmhJRVJaM1F4Y0d6WHhHVDZMaVF3eGNQWUJZaV9iVHRNLWh2R0Faemd0Ymo1cTU0MzdVUXhvTlZtQVUzZnZtdUxPdy1uRUFWaTdneGlJQkhtZkhWWWtlbEdpYXVEVHM3Sld2SlF3YzdGbW1lSi1UVUtESGFkcTFLU0FYU2tJRUh3dUlwLXVyb2VfVm8wNzcxRDVONUQzSDRoYmk?oc=5",
       "pubDate": "Sun, 14 Jun 2026 18:37:00 GMT",
       "description": "Measles case found in California after they passed through San Francisco Airport New York Post",
       "source": "news.google.com",
@@ -57,19 +66,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials warn of possible measles exposure at SFO, San Jose locations - KTVU",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NVmNKTUpWU0d3Vmw5c3piUGNrcmxMRFhzQUh6U2phcFVHNUZFWDlUMnhNYXZUOXFkWjVwSk9FcXA5R2FOZzloMGFycmhHeGdXa241VUgyd1pFVzDSAWBBVV95cUxPSnhkS3JMU1hNR2ROOEpGM0lvYTQ5dzVJSXZOZ1hXR3owNTQ5ekNJeXdJSGZzZUhOd2RRaENaSGkxN1cyZmVjXzU1MEpCZWRieUJaVmY4dWZtd2VVandLaVU?oc=5",
-      "pubDate": "Sun, 14 Jun 2026 05:49:25 GMT",
-      "description": "Health officials warn of possible measles exposure at SFO, San Jose locations KTVU",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Santa Clara Co. resident infected with measles traveled to several Bay Area locations, health officials warn - ABC7 Bay Area",
+      "title": "Santa Clara Co. resident infected with measles traveled to several Bay Area locations, including SFO, health officials warn - ABC7 Bay Area",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU3VpWFU4M3FqX29TVTVLUU5BbUpRZHQwYzg3WkhOMEY3eVNtUmk5RG5IZGltNVV5MGxnSEtuY1NhNERFYkJvX1J0ZU9DODluaEdRZG16RkxGZERqcDJsZndwam03a2VGcmRtcUFsbUh1Y1o2YXJZVzhzaGllMGFUbFFtUFZrTnlDMmFXampVYlgxTC1SS1JLREp2Nms3dVBhMkhmd0hGUnFSWUxtOWJpaWs3NDdZRjBZU213SDNhaFl6SEFlZTF3RXFyc9IB0AFBVV95cUxQZVk0Y3F3VGtTXy1KaUExVG9seU9uYXAtUWlIUzhLR2dZZ2gwV19OdzUwVUlaZnFHREFiVm5LYnh3dXlaZ092Ykdob3Rwano5aWhYcGFTZ1dUY2VtM1M1YldkbWJGaHFpNW40RzNSaVN4Y1pmVnZsVXFMVmNndXJQWHRDWGpxZ1lvWEJHMUIyMjlQb2d2aEtLYXB5OHVTQkptM1ZRWkdiTDRJYktjcjZJS0Utb25rU1p6aUhkbEFIVHVKaUhfejdrVU5YcVdGNy1J?oc=5",
-      "pubDate": "Sun, 14 Jun 2026 01:12:20 GMT",
-      "description": "Santa Clara Co. resident infected with measles traveled to several Bay Area locations, health officials warn ABC7 Bay Area",
+      "pubDate": "Sun, 14 Jun 2026 02:46:28 GMT",
+      "description": "Santa Clara Co. resident infected with measles traveled to several Bay Area locations, including SFO, health officials warn ABC7 Bay Area",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -79,15 +79,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVzJaU1B4ZktnZ283VmJhX1ZuSmRaRldnOWhwZEF5b25XMDVPTEVHZmRSanAtSTVFYXdBRmhGTk9mNW5NeVpob1NjTmhxcVBWc09XS1RyckJQUnNjQ2pZQVgtOGhCQ2RYMGJtT2JUcDYxZmtmblpUbXRzdUJZSV9MOEdrdFBoQW53SU5RcmZjSURqcG9keGxyQ1VCN0dtTDRtejFDU3RhWmFDdS1QekJ5MGVtcFI3X2t1b19B?oc=5",
       "pubDate": "Sun, 14 Jun 2026 00:50:00 GMT",
       "description": "Infectious measles carrier likely visited San Francisco airport, Bay Area county warns Los Angeles Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Santa Clara Co. resident confirmed to have measles: public health - KRON4",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRGxBVzlFYlR4d29CVkdjOVA2SGNnaDhTM1h4R2Vta05BamFHXzNseVZOSkdoaTZTQ0NKbHhRdUJQa0dMaWtramJ6TWM0TkJrNXg2WUd5QU05cDl6YkhNM3d4TjRmNVlLSVFGaTU0WllOYzFaRlYtSUJPbms4OHoxZWQxTHNmU0Rwdl9vek9iUmRLZEwzaVpJZi1qcUoySUlPTWfSAacBQVVfeXFMUC1jTEpGbTB0M1dhb3VUbGtQSkZHS1ZLd01LLVNkVmpkejU3MkV1dmxyUlpXVXIyelBEbHBTYmxxcFM4R2pkUElkVjgyeF9vSW9iSXlGcXdxYzVtSXlEZWx3S1ZVSF9OMEdHSVlVd29XLUoxRmJpb1cxRnJrTldGQTRCQTg5cVJna2luc2U1c21pQkVRYWxLcE5ncmRtZ2hvUjduM0tkakU?oc=5",
-      "pubDate": "Sun, 14 Jun 2026 00:01:40 GMT",
-      "description": "Santa Clara Co. resident confirmed to have measles: public health KRON4",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -114,7 +105,7 @@
       "title": "Health officials confirm case of measles in a Santa Clara County resident - NBC Bay Area",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZlJFY2xhR3RCd3dCOF9Ya25ldk5vQjFjQWt4TmVMblBoR1A4Q1NlQmVibGRZWnhGSGtpZVFHWVN3YzExdkQxNUxCX2pXUXdGSnU3Yjk1Z1E3RFVmdkFWbVRIUkhTLS01MHB5bFVLWUpHTWVzRDhxa1V4VEVyMVA0VTVqYWxjeEF5V1pSSDBRQjk5dHcxUHd3M0NybFIzUkJrUGQxQjFRdHJiV0ZCaGJ5aTh6UjNwRFBJZlJIbdIBxAFBVV95cUxOU0JoOWpod0VYd1hveGc2WF9hR3BjNjN1dHJlZVp0Z1NSYVZvZTMxbUh4bmdUU3JGb3h5NnExSlgxcHB6cWU3NUd1VGZ5aFBEYmtqc0lGaWNsM0Rkei1abTJ3NFNQUUFQLVQ4UHNVS3RUTjRjdWN5eXNwSDVEOEgwSXpCbzVsTXJJdWpUWTFfMFV0YzViREVQcUhKQkF4Sm51dnl1UWllSWVIejluWDRFZ056ZkJna3NxOVpmd2RsWEZZQUxR?oc=5",
       "pubDate": "Sat, 13 Jun 2026 22:38:37 GMT",
-      "description": "Health officials confirm case of measles in a Santa Clara County resident NBC Bay Area",
+      "description": "Health officials confirm case of measles in a Santa Clara County resident NBC Bay Area Santa Clara Co. resident confirmed to have measles: public health KRON4 Health officials warn of possible measles exposure at SFO, San Jose locations KTVU",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -192,10 +183,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Watch As World Cup Begins, Health Officials Issue Warnings Amid Measles Outbreak - Bloomberg.com",
+      "title": "Watch As World Cup Begins, Health Officials Issue Warnings Amid Measles Outbreak - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdFh4OXN5VVVWdTI4ckVMeWtERUNvSFVLWW1ac3dhVGxvX3B6QkpvVzl1bUR5c3VCUVhSamhDeDQxcFliVGVPbkFGcV9yUnBHZlM4UHZSbDVMd29mdWl5ZGNkbEhxUFF3T3dFX0R5QnlVNnVyeWFTVU9pRTVtRmQzSjd1cmYxX0hOU0dwSGxBUE45am02NlFKM3lfZEtLM1JjcEptNWxPQVluNWpPeGc?oc=5",
       "pubDate": "Sat, 13 Jun 2026 00:00:00 GMT",
-      "description": "Watch As World Cup Begins, Health Officials Issue Warnings Amid Measles Outbreak Bloomberg.com",
+      "description": "Watch As World Cup Begins, Health Officials Issue Warnings Amid Measles Outbreak Bloomberg",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Beaufort County measles case linked to exposures at graduation, Publix, Dataw Island - The Island News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDF0ZUM3Z2ZLU2RIVTlCdTF3NC10WDZOYXl0MEtJR3BpbjVxWlZjUDhGOEpuNm5YT2RWVmR4LW96OWhZT1AyY3djSkhzaVlrS0RKRkEyNEtuMGltU2FYcGEzTkhwNmRIeVl1WUg4enhZaENaRHNRY0c3Y3RwbkRNRWVhanprTHprX1ZlZVltN3R3Z2IyNWpUb2ZvZkdtYlpiOVdZTXlTTFZVd3E0bUlN?oc=5",
+      "pubDate": "Fri, 12 Jun 2026 23:05:13 GMT",
+      "description": "Beaufort County measles case linked to exposures at graduation, Publix, Dataw Island The Island News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -277,15 +277,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSEoxdU9Lazg0UHhaa0xJUS1GQmI2eVlJYkQ4ZHNJN0dlU0FzV2dwaFJGaFR1dGJiU0pHTzNDbi1Hb0FjbER4UXBqcmhNc0ZlbElxQmxrQ0N1WWhMRkJJbFVpTXl0cVJaaXZjZzBJWjNhZEpwZjBKOEcwdWVWdW83R0ZXZ3dXZzJaRFJiRDNKVnRpN2lub3hRSThDcEpqVkRiUmJhcFlNdGI0cTNhc2EyT0RnVFF0QQ?oc=5",
       "pubDate": "Fri, 12 Jun 2026 15:00:00 GMT",
       "description": "Measles reported in Beaufort County weeks after Spartanburg outbreak Greenville Online",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles outbreak in Virginia county grows to nearly 90 cases - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82NDVSWExKa0tLRWQyRW1qVmdRTDBvUFJvazlCVTJic0twUWVVT3JoSlZtN2kxRTBWbUkwTVRaXzNNcDNhX2tVT0NwSVd4YlRWMWI1andNNTZ1d294ZENyN1Jpd1dJZDdnTElNMnZVWGdEQXFoMFU5MGlqTUvSAYIBQVVfeXFMUC1Ib2Zad0VXeUhrbWZ4MGVoTnlIQnZsSmxBVWRNUHMzTjJnY2tGcHpTMUdKeHpQSWpqNThUWFFtdXZoWTRhY0JVV0xDVk1WR1A2ZS00QTg5S2NwbG9aU18wWWc4WTdTWFZHaTBLb2Y4QmNWZ2RYdlRFM1FwUTBCeEgwdw?oc=5",
-      "pubDate": "Fri, 12 Jun 2026 14:48:00 GMT",
-      "description": "Measles outbreak in Virginia county grows to nearly 90 cases The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -637,15 +628,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTm5sN3d0bFpyRG04OEF3OGEwWVhmSHRiU0dpb1I0Um9BWnVvb184NExNU1lQcUhsc0VfSkxuQ1dGQXJDOTNFSkFCdmVwRVlIU3A5ckItVjA3ZEtsNkswOTBSWHNDcU5iaW1QN0I3NkY5UnZReWYxdy1iZ0l2Zkt2M2U5bk9xYk9VNkNYcWVpV1R4N2t3NGh2Sl9iMmJKVmJ1?oc=5",
       "pubDate": "Thu, 11 Jun 2026 08:30:00 GMT",
       "description": "Latest measles figures published as two deaths confirmed in 2026 GOV.UK",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "A measles outbreak connected to Arizona-Utah border communities has ended, health officials say - 12News",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOcmRGQ1pxckNfZzRiYlZQeWxwXzRhaGVEdnJ5YmtaSjdlWnZ6RnBtWWJYaGd0WEd2Q0ZUdFA5aWNvMzBGcEs0Z0F2TXNDd1dUWU5lZzZpVzRYcnYwTDhRUjlPUTVRSTZxa2VIODlhN0RKVWdIRGE1VEdSRk9zNkR5RldTMmxqbVJPQ2NqemhWbi04YzZNZzEwNGRqUmctMnAwMEoxZnJOSkwwdnJLeGdnZHRUampnRG5lR1hPek1raDFTMFZnQkttazhPMU5YUWdlTklqei1MRWxiNTNzOFJEWkhGMEFrSk1HcE0yeFgzWlJfMkVDd0M3amNSejdpenRCak9hMEZKby1JbkJENFkxME9ZUlcwWDRsaHRrUVFjWUdrdw?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 23:59:00 GMT",
-      "description": "A measles outbreak connected to Arizona-Utah border communities has ended, health officials say 12News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
