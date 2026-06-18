@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T03:22:51.174Z",
+  "updatedAt": "2026-06-18T05:49:08.395Z",
   "itemCount": 74,
   "items": [
     {
@@ -106,15 +106,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQm41bWd6RmhwRFROLTVTeGs2bTVOenlCQnBXUHV6ZXVsN09ES2J2NmFaZEJUQU5oMTlkcGotMHB5Ynh4dElYWEhsQTBvVkRwUnBya1M3WFBib2ZRMGxOX0xiSkY4X2k2TjE3RHRTenZpRUxoSVFfc193dUVJWi1zZ0NNUUhQX2htTDQ2bVRPekM4dGdsNG9ZSHNSTThfcWFjSDdQVnNJZ1JRSHZXQXU0NXNIZw?oc=5",
       "pubDate": "Wed, 17 Jun 2026 13:50:26 GMT",
       "description": "Measles vaccinations above state average in Newberg-Dundee school district Your Oregon News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Why Am I Still Hearing About Measles? - theSkimm",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUUxKdGxZRk1iMU5iOTJNY3lYeFdRUlVEc2U0bk4tVkRQTVFmVVRMOVpvaUhGVE5lQkxDSU5CS1VLX2xObGdxTWxGamVJN2Ezbm5XTlhRb0ZOU09SN1hGclJTb2xTQUc4UmxhZEpNR1YzNFFocHRUNlgtX0lwTVlYT2E1di1EazdpMXVfTA?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 10:04:07 GMT",
-      "description": "Why Am I Still Hearing About Measles? theSkimm",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -606,6 +597,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Health officials issue advisory about large gatherings as measles outbreak grows in Buckingham County - Cardinal News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTnJmakRhbVVKSG56UHBvTFBtVnliX3BFNzR2QTBnajI5NU43UEg1RnlIY3VQazF0S2NodkM1djdvYUw1VEhJcFQ0NDdSbllmV0NNcVlrdTZQYXlzeE5WdjRacmlTaUhJQnAzLXFZZVlzSlhKWTVCNTRqWVVPN1d0UVZjZGVSdmNrOGlBdDc1WjRtQjVwU3U3OEZUZEg5NkRGX21vSUh0UUdDMndFMjMwdjgtS1l4ZWtGclM0NkI4NFRaNW1VMldQTU1CUXdaMTZoQ1A1Ug?oc=5",
+      "pubDate": "Fri, 12 Jun 2026 08:08:00 GMT",
+      "description": "Health officials issue advisory about large gatherings as measles outbreak grows in Buckingham County Cardinal News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
       "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
@@ -633,15 +633,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles case in the Low Country - South Carolina Public Radio",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc3d4TG9ER1Y1aEU1eVMwclJuU3JOMVJrbDNQajNPMmlaTndyVGlYVDVXUHI2b3I3SVZkcU9JMFFxc0diWnZXMmpDUnVhcXBRbUwzQVUtcU1GSWdjQVY4ZHdPVXVwaEkwUWZMbWtaeFFhWEhxZWpaVTZRaHdtbjNCN0wtNGQ5Y3pGOWwzMU9CZXh1OUR5UlE?oc=5",
-      "pubDate": "Fri, 12 Jun 2026 02:43:00 GMT",
-      "description": "Measles case in the Low Country South Carolina Public Radio",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Massive measles outbreak in Buckingham continues to grow, nearly 90 cases reported - WRIC ABC 8News",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQjVfcDJlUElaR2J6WTB0dGljci04ZTk0VVNsRXBuOGJsZGdUWG9Kdm1qN2h2SnlHRHBfXzdCSExNZEtKdkZxaUJqR0p0S1lWVEVNUFo0b1cwVWswQlhfaDVYYlNOWU1FYWxBcFZndVZSSW1UVTZGUEpobkRfS2x0YmYzRFgxMTJTXzNydWszSFDSAZYBQVVfeXFMTVBDYWY5T3dGUDVscWlYR09DaHY0eW84M044VjNLQ292THBXUFhrR1lOeEk0OTdjNnlmb3p6YlpTVk8wNVk4QjZYYnUwb0txU0NmeW9FY3RVenpwTk1XTXBzWUsxc2kyVl9WUDlGMlY3VzV5bWpZZFJONzRwMWJrUkR1X0gwTy1tcUxDQ2Q3VURaazNWaldn?oc=5",
       "pubDate": "Thu, 11 Jun 2026 21:21:53 GMT",
@@ -664,6 +655,15 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN1FCZVJMTVB5OXlDYng0NmJER1FZZlNtZTRMeWRCLWI4cUVkNzh3aVlST0tOZmxsVk14VUVVQU1reHZ5dXdRQV9qOXlaSkg2XzJoWndjUkhMX0h3LWk4QXZsbGdRcDNMMWlqSWJyc011eDQwVFlCWnczblN5eXd2VlhWRGNrN1NvYXYxODdRTXNjZ0NSU0xRak5hTlZ0eHJxZTkxd0hsQVpaQVNqb2lMRGlVdHRJQUXSAcsBQVVfeXFMTklBdGhQcWNhLUdzYk5naC1xUG9Ja0dBNXlzOXhMTEtqbF9mT3NWU1JRelFQZkFGQjlwTVBtMTc2RkxXYjluMmxkM2t5MDlidzdKa2JKR3JrVWJuZDhjZVRNWklrREpOTktkRVJzeTNmOVRNWnlwSE0wTXB1ZU1SUGh0WWxlbVJleDdPQV8zMC1IeXBpcHVVdjAwVTI5SlRITEowbHNNLWhUdzVHbGlLWkY1MlZnSFVWTXB4QnlMM0syYnl0WEFRNUlFZzQ?oc=5",
       "pubDate": "Thu, 11 Jun 2026 14:25:00 GMT",
       "description": "Health department issues warning about crowded events amid measles outbreak WWBT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "The ‘diseases of crowds’ experts say could be at the World Cup - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzZRV0xyaHRTR3RoajVxcGRfdVFlekczMFZSLTg4elljcXBSeXl1TDkwUTUwSk41Ukt2cGVERzcwZmduX2ZkTjlQX0pCWlROMkFOQVk1UDBLeU9xZkJ3UW4tUTZRb2FWNm1uZmtEeU05Zk1EcjQ5ZzJ1UmtINzV6Zk1Tek0wOEEzR3FiaXQ1cW4tWEJCNVE?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 14:12:21 GMT",
+      "description": "The ‘diseases of crowds’ experts say could be at the World Cup CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
