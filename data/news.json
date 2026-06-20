@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-06-19T23:32:32.197Z",
-  "itemCount": 57,
+  "updatedAt": "2026-06-20T01:19:30.564Z",
+  "itemCount": 58,
   "items": [
+    {
+      "title": "SCDPH announces measles cases in the Lowcountry - Walterboro Live",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVEk5eXFwMXgybjEyZktrV2lxQ1VCZ1Q0T0NnZHV0eDNXSWEySG1QZGQ2bDhoWVlBTzVWa1NuUzB0YjJiWUhZUS1YTlJ3UlR3NHM1UnBhbkdSTk1FZTZjdnQzWFpKTEtqM3hoUm1ObG9wZ1BMVkQ4V2J4X0xfX1ZzeGpzU2EtLWk0a3R3b2FNdXFUZw?oc=5",
+      "pubDate": "Sat, 20 Jun 2026 00:00:00 GMT",
+      "description": "SCDPH announces measles cases in the Lowcountry Walterboro Live",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Measles, landfill solar and a bridge over the Sound: CT Politics news - CT Mirror",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQWVwUE85S0J4WW1jclZpZVpWMG5zb25lQnRfaFM1aS02cEVXWlh5U0JKTzk0WFY1VC1KNkVtSnRBQ0tJQmZaM2R2SlhrZk5CNlBHQjF5VGpQaXZTNG9YUG56YzNSX25pMUhWSFY0LWlxSUQxQWxQYjJQRVF2QXBYd2thTTl0bGpFT0xn?oc=5",
@@ -25,15 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUU0tSFoxcWJzX3JfTGlCMkNPRjROVlExVEJVbXp5VlpZYnkwLWM4aS1qNkxKalVoSkEwWmNrc2N6TVE1dkl1cnF5YWNXYkttbk9xNmZLYzFrQWRidkItSlhlV0xyZTBPUUJhbi1TcE5RUFVGMnN4VTVEM18xanhvc3YyX01mVl9UQ0E?oc=5",
       "pubDate": "Fri, 19 Jun 2026 18:14:20 GMT",
       "description": "Measles deaths climb to 670 The Daily Star",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "A traveler with measles passed through LAX. Officials urge caution amid World Cup crowds - The Daily Gazette",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONkZlT2dpd0VLZ000bmIwcGxGTm5ObkF6WFIyOHRIcWFVOTY5dHhfTnZtSXpDQndDVlJKdU1scTczTzZWUVhZcG1uNkpYSzBmSng2LUJDV2s0eXI5MGRQeGhrTXFUZkRvalJUVU03SWxLR09IbzBlSlFJM29OSjFXUjJndFUwX2doSHNDdWVXdVIyX3pMSzRrX1BZQmllTTZHLTJzZ0VGaVdpdzhCVnlEUEJ0VkN1aUxuMnNmcDZid0lqQTNQNVlqRTExWmhKSFZ6Z215d2FNWlI1MWQwQjJlWE5DT0xrQ2hFRzR6NW9kOE5iTWs5V1AzVVd0aGhJZFpZM2JwSQ?oc=5",
-      "pubDate": "Fri, 19 Jun 2026 18:07:00 GMT",
-      "description": "A traveler with measles passed through LAX. Officials urge caution amid World Cup crowds The Daily Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -408,6 +408,24 @@
       "sourceLabel": "News"
     },
     {
+      "title": "US Measles Total Breaks 2,000 Cases for the Year - respiratory-therapy.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUTRUbUFYMjQ0WlBmemVEbUlab0lYR2cxYnhwOV8zNkFDX1RGdkdLdmp4ZWswSXM3b1BZT2JHcWV2dGNrclpYZ09iU1NIb3JxSnNJVDlNU09reEF3Ql80dnpadmNwQ2RNZTQwNjgwMFNxQnJydEVtdHJhdXJUZFYxLVZUbmlobUYyWkRUZHZINDNpMHlhVFNCMzVLWWJyVXJrbXZMQ3ZSTERVZGRQdmlfSGFnTkJlOGprUFJzcndB?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 18:00:00 GMT",
+      "description": "US Measles Total Breaks 2,000 Cases for the Year respiratory-therapy.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Connecticut health officials report first measles case of 2026 - WFSB",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1VXREM0ejZYVEdLU1dfcUoyS0U3QUkyMl9KZ19hcTZ0YV8zd05kQ3p2T1Y0THVTT3dIM3lYRXRuNDcya2FWNUZiMkVmOGl2SHFxZlBMWU81NGd6RHJnd0FFemg1Z0gtM2ZCVzhCQ09RZnk2bGlGRFVkRTkxelRHMDF1NTFENjVPSE9wcWxKcjRkSy0xQjVV?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 17:53:00 GMT",
+      "description": "Connecticut health officials report first measles case of 2026 WFSB",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Schumer calls on White House to help stop spread of measles - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1NsaElQMmhrd3hNRGU5VHNSZTNzZGREY0h2b0pOay13Zkt1SjlhbmozYm9MNVR5TklKYjYxNWFmMUhSNF9wQ09renVKWV81Y2Z0VmN4MFkxRklOOEQxWVFOMFM3a1g5TlZKQ2hmRjVRUXFaSGp2UTJwd3d6NjlfNW5LT2RvNUVNMVVRSk92elFFLUwxeTRkRFBuY2RKY0hLOGlPRnE2RjZOa1Uwc3A3N2xYQi01ZmVJ?oc=5",
       "pubDate": "Mon, 15 Jun 2026 17:01:00 GMT",
@@ -439,15 +457,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM1RPTi1vSTBZU0JPMGtqdkFERW9vR29aeURBX3llSE5lVlRkN01rUnNLRmJEM0xOZ2JMU0hXRUR2eEJ6RjRQS1oybEJUVG13aEhfeWNRQ1NxNXlrRzBwUkdLU0ZWNFEyaFZETjJfLW1CSHNIZVlRdWJMOHhLaV9mbWJYbGxuNVA1UWpETk1DRUhiUF9kX2xrcUZNenZPNGhodlhuU0h5bTh3U1p4TVFqYUZ5SkV1YVMy?oc=5",
       "pubDate": "Mon, 15 Jun 2026 15:24:33 GMT",
       "description": "Bay Area resident with measles traveled through SFO, visited San Jose businesses, officials say CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Two deaths linked to 2026 measles outbreaks - The Pharmaceutical Journal",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYl8waVVLeDI1dFRTV2VVS3ZNbTNrZ3NYQkdRbnBsZ0doTTZwSkVTcnhtREJGVHQ3Q2tMYXVIT3FlS2VDeGNhZmxwMjF1OWRLSDRFSzdQMkJOaGd1dUZWRXRpUXFsak1mRkx2d0FPc29FWFBrLWJnN1c3U3hBYTByT3hNR1prNkk3VVcxTEdMdEo5czloSkE?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 10:50:22 GMT",
-      "description": "Two deaths linked to 2026 measles outbreaks The Pharmaceutical Journal",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
