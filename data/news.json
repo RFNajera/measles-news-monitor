@@ -1,12 +1,39 @@
 {
-  "updatedAt": "2026-06-25T03:20:34.026Z",
-  "itemCount": 60,
+  "updatedAt": "2026-06-25T05:32:35.577Z",
+  "itemCount": 69,
   "items": [
+    {
+      "title": "Measles exposure reported at Sky Harbor Airport - AZ Family",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVUhKSUtRaFR3Q29iRVkwc0d3dXIwZHBycV9lRTU4TWU0V0ZHODF2cmdNZmJfQlVLOHdkLWZDMEdPU3RWT1RuS1VBeTZ5RGFOZ0NWOUE2bldCdFVVOG0zOEdqRjRjYjJPNVpGNnhRWlRRcDVVQ09fNzNaUW5Tcy1OT1FPN19tZThDcUlvajBVWk4?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 04:27:00 GMT",
+      "description": "Measles exposure reported at Sky Harbor Airport AZ Family",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles exposure reported at Sky Harbor Airport - KCRG",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRGxtYW5CdURRRHlia0o3OFpfN3hxRWNLamowREU4NWlqX2h3Q0VoclJDSnI0Y1hWN1BVY01wUU94VEpWbzlhTV9ld3I4OFN3Vm9TSE5MSl9ndWc5ZlUwVGpOeVU2UTlOWkVkSkZobDRfckVaYzlOb28tOXpRNG93SlNjOHZvcW0zUnhn?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 04:27:00 GMT",
+      "description": "Measles exposure reported at Sky Harbor Airport KCRG",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Pa. measles cases jump, spread to Northumberland County - Pittsburgh Post-Gazette",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmJxQjVKZzlFSldYYTI3RXdZck9GN0FQVURPWENiMFlfNTV3eXN4aFltUDVTcDV5dkZtV3pPVF9NdFpxU055ekpoM0pKRFNzOVl2djE2MnRWc2lyekVNVE5INUFpa045djJiS0pvUEZGWU5PNlNPY2tubUxMYzV4R3BVcFM1MWQ0UlZxZFJHX2plWm8?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 03:00:06 GMT",
+      "pubDate": "Thu, 25 Jun 2026 04:25:13 GMT",
       "description": "Pa. measles cases jump, spread to Northumberland County Pittsburgh Post-Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Viewpoint: Utah is sad illustration of the dangers of America’s alarming—and expanding— anti-vaccine movement - Genetic Literacy Project",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMldsaWdDNnJBaGNCZ3dkNGYzZkpTSl9CM3ZPTlJJZnZKdGVXNTZEOVdFNldBemhFVk9vNlphSDMxTEZ2Znp6NDJucjBpeWhpUVRTRkN4RW42dmtZRUJkVndwTG5YNldVUXp4SVhLbTRGTDFZRzgzV2VWWnVpcnQ3MnpvclUxTGZ4UG5VOF93TEtRRHpEa3BYb0dHYWxDbHRCQmkxOG5lZERxcUVHdURBN25DRHhuVnRCc2x0dDRfMGVKTk1aeTJQS2h0MFZSS0xfNlo5LU13QlNiM1RoZnRWVC1jY3hvV21V?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 04:09:16 GMT",
+      "description": "Viewpoint: Utah is sad illustration of the dangers of America’s alarming—and expanding— anti-vaccine movement Genetic Literacy Project",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -14,7 +41,7 @@
     {
       "title": "7th measles case - LAist",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWmtxZHBGdWFJLUxBa0V6REs5bmFVaDBVOE5qYng5UlhxQW15SlJkYlNKcUdyS3VOOUhWMC1sOHpFRWk1QWx2ZDRXdEtCNWVUeEI3eFN4Zzh0RHloMFdfbTFzczFSYl9IVTQ2bHFQbnJJcVJEUkthRkZWbnVMZnM5YkZ6Nm8?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 00:17:06 GMT",
+      "pubDate": "Thu, 25 Jun 2026 01:44:02 GMT",
       "description": "7th measles case LAist",
       "source": "news.google.com",
       "sourceType": "news",
@@ -48,10 +75,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Maricopa County reports new measles case; possible exposure at Phoenix Sky Harbor - AZ Family",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUpnamFPdWR5OEpkODdEUmZDVU1ORmlMaVFoSnRjNWl5NEhvSVRDTl9SMk5rNThNV3pFUzNZM2hHOUVqbENkQ29oT3BmUmdkbkduX2lOVU90TkJMZkRLYTdZZnJBWmpDOS1OaEFPM0tCeVA1Y1k3clJMeHdDNXZ4RGdOdVpPZ0hNclY1XzV4VFE4MUg5blZrLXlOaEswamUwN050N1NvbUNxX0VZNENpNHZYT3RGZjdqNW9jSQ?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 23:54:02 GMT",
-      "description": "Maricopa County reports new measles case; possible exposure at Phoenix Sky Harbor AZ Family",
+      "title": "Measles Exposure Reported at Burbank Airport - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPblR5dmdSU3otbFIyajlSc2RMajl0cVdrSUdOQm4yUDlNUXRsYk5DWGZBQnloR1NsbktVODdVeFhFVmtQS1RObDlIQTA3OUpUNjJDbXcxWFBKWWhKVFh4ZDdKbEFIMjZtYUhIQWxKdDdVXzVyZmJRLUV3a3dEeEx4blNweU5DSHNvSFgyTVdKZw?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 23:43:06 GMT",
+      "description": "Measles Exposure Reported at Burbank Airport MyNewsLA.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -273,6 +300,24 @@
       "sourceLabel": "News"
     },
     {
+      "title": "New measles case reported in York County as outbreak grows in south central Pa. - FOX43",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPV3pKQzljWU9fYi1WNm9LR1lEbFpMRkxndEtaaEkzdl9saHBQTDZUZEJHVE9FLUFZejl1V191dmljMEhrYlN5cUc2M1N5aFJyNDJpOTdYNEZWWTFVaGJoLUNDM1p6eUZKeWE0b05qeWJ3cW5pMXoyYXZPRV9KRTN1T0R0Y3hsN28ybHVLbFlZNEY2UENpZHdKZXI3OE5LRDZic0dJWHVYekhMNFh5SXNUTy1CTlhqSjVCZHdTaUtnOVJXYV9nTnYtRXFMZi1ueTNrZ3BSY1R6U1ZselBVSlI0TXNzd0gwVm42ZUpmaHVlOVYwT1lJZkQtVnFR?oc=5",
+      "pubDate": "Tue, 23 Jun 2026 19:39:00 GMT",
+      "description": "New measles case reported in York County as outbreak grows in south central Pa. FOX43",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New measles case reported in York County as outbreak grows in south central Pa. - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVS0tZnBXUmdteUtjVThwRzkteWNFU1dpSFVBR01ZeXVLS3JHMTdBVzVMRE5CelBXXzdqaVJLWk85djBYTXVKeTZadTdXd1VEVU5QREFBSnRPNEZRbWNkV3VRWmxKNWdSRjd2Z05yTlJNelRsMzF0OXB4QXM2VERHYlZGdVFFM3RIZ1JCNmx6NUxhdWY1S3VR?oc=5",
+      "pubDate": "Tue, 23 Jun 2026 19:32:05 GMT",
+      "description": "New measles case reported in York County as outbreak grows in south central Pa. Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "VDH dashboard shows no new measles cases reported - cbs19news.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN0hkOFJuNXV0NUVaSWRtd3ZKRzVmbmV1dnhnemg5TjlMNGtVQjUtaFJNcnZlTTBNSUxhN1dzU1pSTzFaN3dEcm1DVm1lT2t4TXpQZVpDaVBud0hxOUdPZVBRcFo4RVhqcDVMaUhPOXQzTXdLSktFcUdIajFJaG83NWdoeHVZRlRTMEFuNVFLR0FmU0N1ODdWWTJyb2lZUHhkLWZFc05FODktQmVORmNUVF96SzY0UE5QQ2ZTdjR1eFg4bXlGc0Fxb2V3?oc=5",
       "pubDate": "Tue, 23 Jun 2026 17:59:00 GMT",
@@ -304,6 +349,15 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYVBuX1ZJdzhvOHlfQ2FuMXBsbERUR0lIZnFEdHc3VnFZei0wZTVuUFJSQmtLQ3BoWC1TY3NaRUE0WVhKUWIwcDV5UWg1eFROZnJ5YlJvSXRWLTc4NUlrWEpkZzhHTXptMklFckVlU0xKenZJbHFlYkJ1WWd6UDJVNTgtdEw3U0xGVnVObVRISHZYYXRicFBuQ2VUQzR6aGFrMlljOTVldjAydmIyZHgwNTdwUzdKdk5qTUE?oc=5",
       "pubDate": "Tue, 23 Jun 2026 01:29:01 GMT",
       "description": "Maryland announces fourth measles case of 2026 found in international traveler Maryland Matters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Utah marks a year of battling measles, with no clear end in sight - PinalCentral.com",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQakFLV0ZIM1lnNGt2bExRZzF4cmtKMGtxR3QxOUhvSlloYWNpU2lic2d2dmFPdF8wTUpJV21WQi14MTJ5SGRBOEg4a3Vic184YjY5Q0w4bVBDaTlXSjVPLVMweFN5QzBuWDZjcHN6a2VFQU9zdWNSeDFjSDJORjdKUEZWb2tSblpKRk5vaWFIMWg1LXppR3B3bnlidTd1UTJOdEpDMW1tLVVXeklySW5STTBrcmRoemVlT0JHLTBpQmJRUkhwVDVldTlaZEJ1RUtPUkNJZy1SQ05ISFZjMFMtSkMtdjhmem1ac2ljUUZCTTY5UGc1eHg2ZWhSaw?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 23:49:31 GMT",
+      "description": "Utah marks a year of battling measles, with no clear end in sight PinalCentral.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -381,10 +435,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "MD Resident Diagnosed With Measles After International Travel - Patch",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLVNaTFlhLWtIS084WWRzbkRUWDVILWF0TllkTkExcUpjMGM1MGQ0c3JsQmJZaG41Q0RvUFRMOW9aemJjd19YckpPSjZ0cC1xVTVYSHpoXzVoU3pJcXVXVWdyX3prTE03RUNncHoxbElxS014UFJyS3NNc0o3N2IzVGtaYmZaSG1jU0Rmajl3T3BxZEk2WjRrVtIBsAFBVV95cUxNMDh2MzFGa2Zva0h1d285Ym9meVl5dmo0LTNUbXVlcEFldklwZ056bXdoa0Q0ZmdsSm9YdldpbXp1VGE5Ry1meEtzbXdOeGR4aG1TcHJQWTY3djBYajlWT3NQYVdtOUtqUF83VXlFUTdKT1BUTExnSWNpYzRrOGZsNW9LV3FIVU80UEZjc0FzOXNZY1pORDQxd0hwbmlYSXp6dFpNbkpINUZ2SEpzUENDQw?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 14:33:16 GMT",
+      "description": "MD Resident Diagnosed With Measles After International Travel Patch",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "In Utah, here’s why some measles exposure sites never appear in public alerts - The Salt Lake Tribune",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DU1A4VlQ4M3RxRGotZzFTSGZ2ZXVXUWR2OWJ1V0VoNDJOMHo5R1R1ZDMzNWFEWWpUNjExNzF6aTBEenFhWmJud0o1M3NwY3pWM2JqalRxUm5UbHN6TlROS2JuSlNiTDRCbTN5OEdEMS0tVTcyV2ZUQVBFZXQ?oc=5",
       "pubDate": "Mon, 22 Jun 2026 12:02:40 GMT",
       "description": "In Utah, here’s why some measles exposure sites never appear in public alerts The Salt Lake Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Immunization debate continues as Utahns battle measles outbreak - Kiowa County Press",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNam5XbDlyQV90WkdocU5NODVDYVFWaTFoV29taVhfbUp2SHpWVTBHeG5oQkVyMjNxVXM1VEt3Tld5VVhUUTFqSUZVcWJhSWdTUnp0b2tjS1FCRmRjX3RrUFFHeW5IOEJrQjZPbi1NUGt1N0s0UHRzRjB1emdsNzEwMmplTjQ1NlFxYkFwRVk0VDBFUG1sMkRyRnVuMTd4dw?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 11:37:25 GMT",
+      "description": "Immunization debate continues as Utahns battle measles outbreak Kiowa County Press",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -421,6 +493,15 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV2xlTzVvdkZnMVI2eXQ3Um1MUjBsanhSNzB6SkZpWHR5S0dTSEd0Mkl3UHBmaUVwT1RXejY2S1V6c2w2QV93bzRNWUFOSkc1cG9qcXVhTWdDNGxyWnBMYkp5ellVUl96S29iajJLWlBvLVhnNlhFMXFYTTlkX0VWR3VPM0RsZGJvN1pka3JKSmQ2ZjhyVkHSAZsBQVVfeXFMTkhiRDVlS2RhTUxMajNueUNaa184S0VTLUlfa211RGpRNjJMYVMyckp2aWxKblVabDlSOFRjODFoUGZFZndiWHFLWmZaVGx2R3pYYVdxWUNYNjZEcGd3QTNDaFZZeUR4eG9rS2xjSDBNaXdPOVNnRW83R1dGMHZyVE1ocklrS0xZano5RmFJRXk5eHBnc1pIMXF4eUE?oc=5",
       "pubDate": "Sun, 21 Jun 2026 14:41:05 GMT",
       "description": "Measles warning issued across DMV region following confirmed case FOX 5 DC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Traveler with measles passed through LAX: Officials urge caution amid World Cup crowds - Jefferson City News Tribune",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNi03cXlqTHNIZFkxc2R0ZHZzUG5EZFNOUzNrLVZ1cWNPN0pGWlltT0xoRDZlWUZuUlFDc3JXd3M5SFp2YU1RZXlGVVJXQXdzZEE0SktZcU1YYnV5SWpocm14My1BOF9Oek9NOGlLUU8xaG5NOVhsSEhqVDJuSTNmWWNwS0NuQ05rSEV4eTVMWQ?oc=5",
+      "pubDate": "Sun, 21 Jun 2026 09:00:00 GMT",
+      "description": "Traveler with measles passed through LAX: Officials urge caution amid World Cup crowds Jefferson City News Tribune",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
