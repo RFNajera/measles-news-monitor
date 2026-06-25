@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-06-25T13:01:49.527Z",
+  "updatedAt": "2026-06-25T13:51:29.694Z",
   "itemCount": 64,
   "items": [
+    {
+      "title": "FAQs Amid the Ongoing US Measles Outbreaks - Pharmacy Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2dVS3dBWDJnTzRjQzRsRWVZNmQ5eGFuSnFGb1REQ0JxS1NJdTJjeGpqQXVKTUE0NmtYeWdYUWtyd3JnY3pZdkxGTFhrS29JalczS0lBZWJqTzRhclNFNzB5cUVnMzRtZTZ6bjE4N0M5VFNMR255SU5LOWppNjQ3OUQ1VQ?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 13:41:50 GMT",
+      "description": "FAQs Amid the Ongoing US Measles Outbreaks Pharmacy Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Nine children die with measles symptoms in 24 hours across Bangladesh - Newagebd.net",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR0l1elI0MFBvZDRuaWNuTnlvRjhpb29XZEM4dnZLazg3TFQ0S1ZGZDlOYUxSNlNoU1JoNlNwcU5Za1VrazJpQW1Ob20zVXlTa05vaURJMlpVbm5CVlRtS3pQRWEwYjc1cWxXLXI2Q29qWHg2dWU3NDhBV0ZQMnYybGM5XzZqamZRWGplWS1zNnJVZHlNb3FFVEI2Y0JBZ29IcUJaaFF6aDZvRHltQ2M2TlFyR29MeXVIZHl4NF9fTW8?oc=5",
@@ -25,15 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSaEstUXBiUlJpaUJUUFBmZ0otbkp0QWloZjZScHhtMjNIOEFtdnYxZ1p6YzhsTmI3U1dyUWpQV3JqTmtsT0NjY3NCaWhfQkdWNW9UWFM3Y3Z2REl3TjR4TWZCaDAwS0l5X1dsZmpuRURlQ291UmQ0cHJCdV9WUQ?oc=5",
       "pubDate": "Thu, 25 Jun 2026 10:24:07 GMT",
       "description": "Six Measles Cases Reported In Northumberland County WKOK",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases surge in the state, with central Pa. counties leading the way - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSS1IcWFiRmdWb0JuV2cwX3FEaEE2c2dEUS1NaXJac3F0RExNWFZJUURtUjB4QTR4X1hDT1B0VW5nZ2NVZzktQ0JucmNUN2FPVVFRQ0ctdTVqaElzOTltOHFNLWFkaWFaM3pqbWlaRnc3QkRyWlhtSEdmS2dqdXBTNVJaNkxGc0lXeUhoTGE1NUdibUJvczFadE5vSF9PUkdmQ0gtaGNiWmRLd2tCTmJXU0t6YXlVaDczWmc?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 09:04:00 GMT",
-      "description": "Measles cases surge in the state, with central Pa. counties leading the way PennLive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -255,15 +255,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Utah marks a year of battling measles, with no clear end in sight - Prescott Daily Courier",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZkg5TEY0d0xLRU5uc1VSZFpiR3RWQkpMdjdlaDV5M0Vua3dwaFBkZ0pGZWVfRy1FbFV1T05MM0FzekVrZ1h5c29TQll0dmRnZWgxM09mNm16SDBOQmV0Y2J0dnN2Q0VvRGE1STZIT3N2SHdOY01lbFo3cmRKamh2Njd4Tzh5c0Z0SG1iT2xtTnhYVmhIQ2Y1bHhUTlF2VUZFYjhWak1aYmU5c1c1bDNBWEZKX19RbFRleU9BNDNLRWtlMGNVQkI4UW4zWVdZMllNa3l0b2FJcmJnN0xuMzBlMFJ3?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 12:21:00 GMT",
-      "description": "Utah marks a year of battling measles, with no clear end in sight Prescott Daily Courier",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Why has measles been so hard to contain in Utah? The state epidemiologist weighs in - Utah Public Radio",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wck4wZExmS2IxQmhFTTA5TjNac3J4aVdZUnZwLUxkOU9JOGs4V0hBTXBrNDNuc0pLZHdodGlqYWRVREx6bW5FMWxJYkhhcTA3cmRDTWJlU2VoNEJxZ25xTGdXNGYxNkZnbFdCWnNNMzNVLWt3X3M2b1JOS2k?oc=5",
       "pubDate": "Wed, 24 Jun 2026 11:00:00 GMT",
@@ -412,6 +403,15 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONUIzSElEWWNxOTlsWWRDdi1fNzBEZTd0Z19aU3JXQXUtSFIxT1BFODdQQVhyOV9xZFIyeUx3Z0dUZVBqOTJ3WTdMYTM5ZDZJRTE2YXJHdkx4M1EtX0VFQWhacTJ2dlUxazg4QnRBV1BnZEQ4cTcxYW1JUm84cDFwYWdKWllzdWtzLS14aFNMc2VfRXhoYldXbjBySHFwYWZhVzhCT1pB?oc=5",
       "pubDate": "Mon, 22 Jun 2026 21:36:21 GMT",
       "description": "Utah measles outbreak among largest, ‘definitely the longest,” health official says Deseret News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "US tops 2,100 measles cases so far this year, putting it on track to surpass 2025 total - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMm43MnpicTlGcGsyMEs1VDU4NTBkZHVrWGFGeUV3NWJhYnFpcGpLS2RHN0xNRDNfVXJkWC11ZEFjY0UydThaTHlhZm5seGNxaFJFX1pQMllXMDRHUnZNRTB2Z2NoeEQ1akhPaTJMZVAySU5DYWpKVkRORmJKYTVJcTlIS3BLSE9sNkstb2xMTllsbklNU0hycnhiMFBDdjBpVDJBVnNkU3doUndfU3c?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 19:57:00 GMT",
+      "description": "US tops 2,100 measles cases so far this year, putting it on track to surpass 2025 total CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
