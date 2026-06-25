@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-06-25T13:51:29.694Z",
-  "itemCount": 64,
+  "updatedAt": "2026-06-25T15:09:33.948Z",
+  "itemCount": 66,
   "items": [
+    {
+      "title": "Measles cases continue to inch toward Western PA - Audacy",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX3hYc1Uwb0FqM1Vyc3VpZ2ZvelQzQzBEcUJLNFo4WDdmcmZULVoySlZZeHlVYUpwSmNXRTZxWjFJbXNhd292bmQtam8wX0FCamhkaVlGS24tc1VFaFFSU3JtRFY2Y0NEOC1MWjM0QkV4SHp0VmNURzFwSnIzNUlJREdsNmt4ZEktcUZ1TEJDVkZwYWZzTV9F?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 14:54:08 GMT",
+      "description": "Measles cases continue to inch toward Western PA Audacy",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "FAQs Amid the Ongoing US Measles Outbreaks - Pharmacy Times",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2dVS3dBWDJnTzRjQzRsRWVZNmQ5eGFuSnFGb1REQ0JxS1NJdTJjeGpqQXVKTUE0NmtYeWdYUWtyd3JnY3pZdkxGTFhrS29JalczS0lBZWJqTzRhclNFNzB5cUVnMzRtZTZ6bjE4N0M5VFNMR255SU5LOWppNjQ3OUQ1VQ?oc=5",
@@ -16,15 +25,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR0l1elI0MFBvZDRuaWNuTnlvRjhpb29XZEM4dnZLazg3TFQ0S1ZGZDlOYUxSNlNoU1JoNlNwcU5Za1VrazJpQW1Ob20zVXlTa05vaURJMlpVbm5CVlRtS3pQRWEwYjc1cWxXLXI2Q29qWHg2dWU3NDhBV0ZQMnYybGM5XzZqamZRWGplWS1zNnJVZHlNb3FFVEI2Y0JBZ29IcUJaaFF6aDZvRHltQ2M2TlFyR29MeXVIZHl4NF9fTW8?oc=5",
       "pubDate": "Thu, 25 Jun 2026 12:38:44 GMT",
       "description": "Nine children die with measles symptoms in 24 hours across Bangladesh Newagebd.net",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pa. measles cases jump, spread to Northumberland County - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmJxQjVKZzlFSldYYTI3RXdZck9GN0FQVURPWENiMFlfNTV3eXN4aFltUDVTcDV5dkZtV3pPVF9NdFpxU055ekpoM0pKRFNzOVl2djE2MnRWc2lyekVNVE5INUFpa045djJiS0pvUEZGWU5PNlNPY2tubUxMYzV4R3BVcFM1MWQ0UlZxZFJHX2plWm8?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 10:28:49 GMT",
-      "description": "Pa. measles cases jump, spread to Northumberland County Pittsburgh Post-Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -93,10 +93,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Were you at Burbank Airport on June 17? LA County is warning of measles exposure - LAist",
+      "title": "Were you at Burbank Airport on June 17? LA County is warning of measles exposure - laist.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UZW5PZXhOenhvcWVLZElQRE5ZTjgzeXp6NnVFM1JILVZrTDZnb2RneG1mX082MnJDRUNiVDhZZ0hURzNkUXVJYlN1bFJkTGExRXR1dVNBTWxWSFYwNEVSUEZfY3I4VUtCdW1od2x3bTZNN2tJX1N4M254OU0?oc=5",
       "pubDate": "Thu, 25 Jun 2026 00:07:00 GMT",
-      "description": "Were you at Burbank Airport on June 17? LA County is warning of measles exposure LAist",
+      "description": "Were you at Burbank Airport on June 17? LA County is warning of measles exposure laist.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -147,6 +147,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Pa. measles cases jump, spread to Northumberland County - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmJxQjVKZzlFSldYYTI3RXdZck9GN0FQVURPWENiMFlfNTV3eXN4aFltUDVTcDV5dkZtV3pPVF9NdFpxU055ekpoM0pKRFNzOVl2djE2MnRWc2lyekVNVE5INUFpa045djJiS0pvUEZGWU5PNlNPY2tubUxMYzV4R3BVcFM1MWQ0UlZxZFJHX2plWm8?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 22:24:51 GMT",
+      "description": "Pa. measles cases jump, spread to Northumberland County Pittsburgh Post-Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Maricopa County reports new measles case; possible exposure at Phoenix Sky Harbor - AZ Family",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDBrako2eDA0TDZfYjRXU3RTUXdYME1KZUhPV19JXzc2R1ZWekFERUlVZGVDNlYwaUdEV2tzbUY4T3FTUUlHeTZLZ3p2NWN6bDdkLTNyb1hqZkhuTlJzUWFuVjgxZ0tNLTF0VUh1d1hkSFVyYWRPbnFVLXlleEZqZ29PVGN1cVJoUXQ3S182M0pkMXNpdUY4WHR6cVNfOWhFLU5hamN2X20xTldLcmtKQjlPUzLSAcgBQVVfeXFMTWU3ejNuUlVXOFY2SXA5dFhVdjdoWDJCc2ZMWnJ5a2Nyb3huSF9YUVBOVUgwZ0pWWEM5TmhVbW10TXNRb2Q2MmhQcldRazRtOUtSRmFLNzZTSGZvb1V2cXNBd2xYeXVsbkRaajdXc0ZHaWlYXy1FaXhRWmpmWktWU1cwQ0ppNHp1bVJDM0hSQlY3b29MZ18yQXZhSG5aTllqdDNPajE3YngzLTN0WlF6cHdQZWRQaEpZc1NDNVQ5enlfTHlCNG1tMl8?oc=5",
       "pubDate": "Wed, 24 Jun 2026 21:42:00 GMT",
@@ -156,10 +165,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "7th measles case - LAist",
+      "title": "7th measles case - laist.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWmtxZHBGdWFJLUxBa0V6REs5bmFVaDBVOE5qYng5UlhxQW15SlJkYlNKcUdyS3VOOUhWMC1sOHpFRWk1QWx2ZDRXdEtCNWVUeEI3eFN4Zzh0RHloMFdfbTFzczFSYl9IVTQ2bHFQbnJJcVJEUkthRkZWbnVMZnM5YkZ6Nm8?oc=5",
       "pubDate": "Wed, 24 Jun 2026 21:30:00 GMT",
-      "description": "7th measles case LAist",
+      "description": "7th measles case laist.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -385,6 +394,15 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYVBuX1ZJdzhvOHlfQ2FuMXBsbERUR0lIZnFEdHc3VnFZei0wZTVuUFJSQmtLQ3BoWC1TY3NaRUE0WVhKUWIwcDV5UWg1eFROZnJ5YlJvSXRWLTc4NUlrWEpkZzhHTXptMklFckVlU0xKenZJbHFlYkJ1WWd6UDJVNTgtdEw3U0xGVnVObVRISHZYYXRicFBuQ2VUQzR6aGFrMlljOTVldjAydmIyZHgwNTdwUzdKdk5qTUE?oc=5",
       "pubDate": "Tue, 23 Jun 2026 01:29:01 GMT",
       "description": "Maryland announces fourth measles case of 2026 found in international traveler Maryland Matters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles case in the Lowcountry: What we know - WSAV-TV",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVy1VNXdBWFIybUU5M0tmTE9GRnpndDY0MHowTkhqcmFFcFAzaU5TQkUxeEFqU2VpWHByVWNKTVltbVhSVmhhSnN3eVo0MnJ2Tk9helZBelY3Q290WWJIQmFxUndzLWN6RzFzVXRFbk5ENEFYRXlIMU5zcnNXemZUYlNmVHU5OGFWM0dCS3o3bU9mVkx1UjRFb1RFWkFyU1dFd0hn0gGoAUFVX3lxTFBFSVlzQ1IxOWJ3TVc3MUZ4dWJUR2Mzd2Z2UHM2LTktSGJMUWI0TFhTM01oTlZvTHBCR3JYUC1abWxTbjJudnVVVHg3dDlIS053VmltY2FtTUR5dkdBSG5WVlo1QVUxRkFvRlBGenBpcExpZFZfTGlKSEk5TVdZMzNWeVdGWS1xTzU5N1N3cVBWQnV5RldscnUtTWZpUlctOVk0ekdFQng2eg?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 23:02:47 GMT",
+      "description": "Measles case in the Lowcountry: What we know WSAV-TV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
