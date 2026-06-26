@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-06-26T19:45:17.772Z",
-  "itemCount": 67,
+  "updatedAt": "2026-06-26T20:45:27.042Z",
+  "itemCount": 66,
   "items": [
+    {
+      "title": "CDC adds 30 measles cases to the US total - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zYWwtZURXVnhNcW1xcDg3Vkd3VVlzOHhweFR0YmZXNE9tRVFZZUVyQmJYNHozcDE2cDByRGNfcERQMkRPNzN6aHdXbGN2czh5QU9FeURralYyZDNTLWVHRFhLakhlQWdpY01neVZHcGhfX0dISGFlaw?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 20:06:00 GMT",
+      "description": "CDC adds 30 measles cases to the US total CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "As Pa. measles outbreak worsens, state health officials issue strong call to action: 'We are not just sitting back and watching this virus spread' - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZTBDbFBSTEQzaGxaeXpjZEFlUmN0cExrZHc1SnJyemdEdS16dW9qeWp2Z0JmeEdOVVotZThIV29tZmhpWFVoWlhNYUZqMUQ4Nl9KU01KUDB1RE1qNmFDR3NadEo4TjlwOHd6RHRiNktKTEhQZTB6VThuMkJaVUwzMDFlVG1kNWhKZ2picVh6SHdWdUZOZHpZ?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 20:04:10 GMT",
+      "description": "As Pa. measles outbreak worsens, state health officials issue strong call to action: 'We are not just sitting back and watching this virus spread' Pittsburgh Post-Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania health officials address measles outbreak: ‘We will not slow down until this... is over.’ - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMk5NeDQyOEtpRFJmbnNxdGVKNi1BcWh2UklBRV85NG52UjVuQmRqVnpfU1FKLVdtMHJ3OGcxeXNjU0dONnZLQnR4SU1hd2FYZFBLaGFPRlZvSXVoYXFhOEROREh4d2pxak1mekpENXpYbWx0VFRWazZLS3BrUG9wQzVIVVlYc1AwMVlmMkdFazB5SzRSd3FUS1htaE9IMHgtZ1BnS1hPeHVkcXpTMlg4NUlCcW4?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 19:58:19 GMT",
+      "description": "Pennsylvania health officials address measles outbreak: ‘We will not slow down until this... is over.’ Inquirer.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "As measles outbreak continues, state officials push for vaccination - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZG90aFA5amxZY0JNTVlyVUFFOVNxeXRocmV3anV4M2hCai1YT1Vkb0hIM1NIWmZTYUd2eC1CcmNQVnMxWGJLN0FOUEpaUXhQTjVvcUdqN2NJUDU0VWthbzk0cWNPd3J3ZFB5TU8zb3NJcG41ZjJXQUQ1cTJ1bEJVYUxaNVBVMmxZUXA0NjRXTQ?oc=5",
@@ -16,6 +43,15 @@
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYWRKUDZ5S0RrSEk0NnRvQUg4ZWlRMHRCTGNQNC1PTDdsZmNhWnJHMzZMakJ6aTF5bjUxV2hJeERnZ3M3aG1qWW4xbjNiQ1ZBR0RwV1pDcEdNeVg3SjE2OHNrY2k4blZCMDdLT3NEcHdmUzdGVkd2Ry12UE5wbEY0VVNBQXZURXpKeTJGZzBMOWRRTG9IZU1CSnYxYl9QVkpIZlUxSEFMVGdTT21Da3czNzBPWWJRa2NzR2NBVzl5NTFLQy1rUUpzOXVMQXhYYWNRT21Ub1dWcnY0LXlqR0ZseXF6bU1rLWlrNXRObUdWdmNpcjl0YWRVMGZ3?oc=5",
       "pubDate": "Fri, 26 Jun 2026 19:37:00 GMT",
       "description": "Buckingham County measles outbreak expands into Cumberland County 13newsnow.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "As measles outbreak continues, state officials push for vaccination - cumberlink.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1JfX0RuNzdRdVc5TlpiLUFmLXZoSnlfRWp6c1NuNkRKWUsyanNUazRpOGJIR2J4RlAwV2xyQ0tyTk5DZkFqTlcxVmdsUV9fRWN0RU5vTlVRWkN1dENCT1NLVV9LV2M0R2xOazBEUFlpaXRqd2lEcHR4YkF2bDc0YlFpVEkzX21JaXpDMlQtVlVIMnExbWQtQmRGSGNsdWtUMklZVEtwYXU?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 19:31:02 GMT",
+      "description": "As measles outbreak continues, state officials push for vaccination cumberlink.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -48,15 +84,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "As Pa. measles outbreak worsens, state health officials issue strong call to action: 'We are not just sitting back and watching this virus spread' - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZTBDbFBSTEQzaGxaeXpjZEFlUmN0cExrZHc1SnJyemdEdS16dW9qeWp2Z0JmeEdOVVotZThIV29tZmhpWFVoWlhNYUZqMUQ4Nl9KU01KUDB1RE1qNmFDR3NadEo4TjlwOHd6RHRiNktKTEhQZTB6VThuMkJaVUwzMDFlVG1kNWhKZ2picVh6SHdWdUZOZHpZ?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 18:34:48 GMT",
-      "description": "As Pa. measles outbreak worsens, state health officials issue strong call to action: 'We are not just sitting back and watching this virus spread' Pittsburgh Post-Gazette",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Pennsylvania’s Health Secretary unveils plan to combat measles outbreaks - ABC27",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrSDI4NUM4REl4UGJYOWVIWXlTMFluRkt1aUtHTXF2NTZWNS14cDFiRmdTS0lHWTk3aG1kWk5hTGJsUXhkb1NqM0ZUUU1MbFNvM0Y5bnh1Z2FvMWVxYWFHeDl5RmYyMWpOZGppNmZLYmE4aHZfRlNBQ3lkMDQ5bUFmT1Q5dUhYbUFWM1g3WWlhWHZBM3ZGVjNJTEk3WTFaSmhyb2IwVUPSAa4BQVVfeXFMTkU1d0NyYlc5OGVsc280RXNiS2xpRGRvS08yS3lfS3pCMkIzbkxZMnJ5cV95VW0zZHF3XzNLVVZfNVVoX0VOUUlscDhGZkpoRS00d2hiNWZiRGdwelhlZERoR3BEdENOdXE2c1FHQW8waERvTWxkb0ZlZnFJMGpMWk1tYnpaanJiR1Bkejd5aFdXa3BEXzdNSWRuYmlyXzBvSm1OQnN5eU9KUWdVaGdB?oc=5",
       "pubDate": "Fri, 26 Jun 2026 16:30:24 GMT",
@@ -79,15 +106,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEFFTWtJTExiemRnTTV4ZmctZGFjU0g0eUctR0QzM3hFNDhlckRiTXh4eHBnR1dOdWZOaXNJUWRPN1A3VFNBX3AtbzFvVkF3VnFBLWlfWmJhSkRSM1FtWU9jWHB0MHR3Zy0tZXhWSWppZGtuaXBMTENIeWNHV296RkV2WjdoQjFfc0JCUTA2cVBOczNSLTRyUUVielNnZ2oyUVlfYkpTNFhvQQ?oc=5",
       "pubDate": "Fri, 26 Jun 2026 16:07:16 GMT",
       "description": "Pennsylvania health officials share plans to fight measles outbreaks ABC27",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "3 more children die with suspected measles, toll reaches 680 - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkxtVWNIZHVQQ1Z6NTJEVDVkenU5eDNJOEZCNVA2Vk11UjMxMm85Sk1iSVVqb2dmRzVsaDJXQkkzaHVmQnh1RjQxY1BtVHhoSjlGZGpWWDRJV01XcmdMR1NUeFJzWHVQLUZOSFlDcmxZRk11NlhWUGk5eHNCeU9yYU9ETzRaS3d6cVh1Ykh5azhOSHRvRi0tYmlvb1hWWEt3M2N0NXFKdzU2LXRMVFU3SA?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 15:46:06 GMT",
-      "description": "3 more children die with suspected measles, toll reaches 680 The Daily Star",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -133,15 +151,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbTdTNm9QMm1HcDl5WkpJeEFuMUIwbzFhN3RhVHA2UkZJRWw2bUhYaGQ3MGZyTXQwNHZPMUJJNUtpVUZVVFp4UWhpNDBjUDUyM012Tm03bExKTUdiYUFqZktMU0pKY05XMm12bE5xcmtlVTN6WjRoX1NxN2RlRnNnZ1pUSzBTNFUxV2RnbllEeVNCQjhEU2gwSFlaV0t4c3RDd1FsX3NpS1pWYUxNY0lKNGlZRGJLVWFfdkhHSjBJaw?oc=5",
       "pubDate": "Thu, 25 Jun 2026 23:25:23 GMT",
       "description": "Anguished parents, doctors in tears: Utah’s long measles outbreak takes a toll Genetic Literacy Project",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Maricopa County links latest measles case to Sky Harbor Airport - yourvalley.net",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMFo5TXRXWHpKQUVmeVNtdmtTb1FJcGhXT0dYZEhiOERtWnhVeFB0WFNoSDliamh3NlU2RmVURW45bzgzZEpzbTZLNGMxamtBbFJzSUlmRS1TYm13aGlNQ2V2SElrVnZYWHZCYVhwVkR5S0dyb0hYY3laZXdoWGRva1VIdFNpVWNRSlRSS2VFNTNhOEt2VGNZamlCZnNuVXZwcVdxMjhMNVNkNlQwVG01RVNXdlVwS2xSbHg1NTZleTZNN0tUaUxkeEtyaUV3Zw?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 22:29:07 GMT",
-      "description": "Maricopa County links latest measles case to Sky Harbor Airport yourvalley.net",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -354,15 +363,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Maricopa County reports new measles case; possible exposure at Phoenix Sky Harbor - AZ Family",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDBrako2eDA0TDZfYjRXU3RTUXdYME1KZUhPV19JXzc2R1ZWekFERUlVZGVDNlYwaUdEV2tzbUY4T3FTUUlHeTZLZ3p2NWN6bDdkLTNyb1hqZkhuTlJzUWFuVjgxZ0tNLTF0VUh1d1hkSFVyYWRPbnFVLXlleEZqZ29PVGN1cVJoUXQ3S182M0pkMXNpdUY4WHR6cVNfOWhFLU5hamN2X20xTldLcmtKQjlPUzLSAcgBQVVfeXFMTWU3ejNuUlVXOFY2SXA5dFhVdjdoWDJCc2ZMWnJ5a2Nyb3huSF9YUVBOVUgwZ0pWWEM5TmhVbW10TXNRb2Q2MmhQcldRazRtOUtSRmFLNzZTSGZvb1V2cXNBd2xYeXVsbkRaajdXc0ZHaWlYXy1FaXhRWmpmWktWU1cwQ0ppNHp1bVJDM0hSQlY3b29MZ18yQXZhSG5aTllqdDNPajE3YngzLTN0WlF6cHdQZWRQaEpZc1NDNVQ5enlfTHlCNG1tMl8?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 21:42:00 GMT",
-      "description": "Maricopa County reports new measles case; possible exposure at Phoenix Sky Harbor AZ Family",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles case detected at Phoenix Sky Harbor Airport; 16th in Maricopa County - 12News",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWTBhaGNBaFR3ZzNUeVYzeXM0OGRFSHI2V0dJZ3ZVNm9Nemd5RDc1aDY1b1M2X0wtRzhoeE9HdmxGN1BzSWQxa0lZODBJOVBuY19JeUtYbVJLSnZjRVMwM0JWcldfdGRGazJ1bTkwb0FTdlZ0WXBuVV9SV0QxUy03ZVJmNHhKOFpoRDJKaENvQnZCOVhFQUhUZ0xDWDlzemlob1F4eFFQcEVucmpKNC1HUnhucm5YTXhiVjY2NTIxOVdpWS10VUMwTURiMENadEg2QW5UeGtSb20zY1RQbmhCNWlZOWxldGQ5YmVtY3Fn?oc=5",
       "pubDate": "Wed, 24 Jun 2026 21:24:00 GMT",
@@ -538,15 +538,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMnNIOUNJM1hqdktmVTljdXNZampESTBveXVEMFB6dmNsZ0ZuMWtXUXFaSVVJRF85bE8yR2lxaHRkQkVQczYzUmhLRnlvdWUzbkRYOWFRT0R5NUQ2ODBlTU1KdmxtSk05YkdyNkRQam94bUdKZXlwTmxyOTdjZEFsX0FScTF2bVpzcUkybG1CMWx6bUlPc1ZkQ2JOa3paQll3UXpiMnhwcVdjaUpKbWJzT2xHUjVXQzgxTUlpamxndS1mMThqN2ZZNXJ4MlRieVdab3ItLVRpWjBxRjQ3a0tUb0J2TE1oaE5jUVZ2UC1kaVNoTkxoTU9MS1E0d00zR0theTVqYW01Y0o?oc=5",
       "pubDate": "Mon, 22 Jun 2026 19:53:00 GMT",
       "description": "Measles outbreak moves into York County; Lancaster County sees 4 more cases in past week LancasterOnline",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Alexandria Health Department advises of measles case at N. Va. airport - ALXnow",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLXlReUQxTXJoWi14bFFIaHRqblo0Y2NzMU04dnhrM3hYNkw4UFJSYkk3cGdKcnl4NDZSTlFTTE5kWm9EbWJyaTF5RTZia3BJM1o4dzZLdTJtM1ZTQnF3WVFLcFRnTElJcnZZY3RXbFVZOVFpbktyRDBiWkdhTnFDWUtQdVdMcEJ3NWlaOU91VmZGTWZEUEF0QnR1ZjFBM1gzWDNOMXJB?oc=5",
-      "pubDate": "Mon, 22 Jun 2026 17:45:42 GMT",
-      "description": "Alexandria Health Department advises of measles case at N. Va. airport ALXnow",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
