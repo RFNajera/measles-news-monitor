@@ -1,21 +1,12 @@
 {
-  "updatedAt": "2026-06-27T14:44:06.575Z",
-  "itemCount": 62,
+  "updatedAt": "2026-06-27T15:37:50.168Z",
+  "itemCount": 79,
   "items": [
     {
       "title": "Seven more children die from measles, symptoms in 24 hours across Bangladesh - Newagebd.net",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODBXTzVIM2psUFE2SkxqLU1NalNLVldEdEpQX1pNd25xT0FWb3ZXcEdYZGdqcFB0WUdRWlRYc3ROOFk4TFZWVnpzOWVsVDdiYzZtR3BBNVU2aUtrTjAtZzZIWXBYMk5oemRRM3RFc2Vld2lxY0ZhdU1CLW9SZjljN2x2TXJqS1Rfa19OTXhWNkoxcFJKbm12TVZGeXZReE5sNEloU2txYXJBN19RaFEyQ0Vjb3hzaV9kNThIYTRxTklRd0lrS0ZtRQ?oc=5",
       "pubDate": "Sat, 27 Jun 2026 12:16:29 GMT",
       "description": "Seven more children die from measles, symptoms in 24 hours across Bangladesh Newagebd.net",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "U.S. may have lost a ‘crown jewel’ of public health, experts say - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0xWRURqbi1lanRUamF5bDEzYk0yYXhPWUZjVkRtbVB5RUd0S1dKZHRzSkdFRGtYaHF1ZkdqN3c5aGdLZ3BxbHQ5RDhQM2hyRzAxY001WnFodHRHRVhZRFY5NEdYcktjT0prSk43empsbTJJMFdtVEFjUGY0V2ViYUp3OWhhc1docXFzeXpNaTN4QQ?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 11:00:54 GMT",
-      "description": "U.S. may have lost a ‘crown jewel’ of public health, experts say San Francisco Chronicle",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -48,10 +39,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "The importance of vaccinations and battling dangerous misinformation [letter] - LancasterOnline",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOeHZZeWVISF9aTlZkUVNRRVB0Yi1ZZEZwelR4VjRaUktza2pybjQzM0xpQ3RSTTc4RmxzeDNXOVhGb0g3OTZsVVB4elQzdWpUdFFJR1NhRmtORU05QkNvcVotU01iRG9vM0pfTjRzbE05dTMtdXNNOGhFa2VyaXVYSllpajZSdkRscWQ0b1dSZzRBVkVIMGpfN2liVGJDcFAtUkhmdU5ncHpNN2hoTktpRklJR1RGSzVVNi1UZ0pBY0pldFRpQi12TE0yRkdDR2RfdUNfVzJzcGltWUF0SGFPTFJGclhMNHM2Qkh3SnlTb2tiOEJjdEFnUTZvamZzblpMLXlmVk9NMGl1djA?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 09:00:00 GMT",
+      "description": "The importance of vaccinations and battling dangerous misinformation [letter] LancasterOnline",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles Outbreak: New Case Confirmed In LA County - Patch",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcTRrbU11WHNnWVpTT3hBNmhWMlRMMHU3YUJmdHNKcjhEYlktWU00bV9VUkUwN0dPT09ObVJGWkpOcy1XUV9NLUNVekJSWjFOMWs1dWNGcF96ZUp3MnJTOEdpbFc5cEJDNTdPTlRvODBHUHpKUlpTN0hlVnhMU3FuWTRTbS0zUXVxcC1LZjktSdIBpAFBVV95cUxNbk1BUnlQbEI5aGdra2ZTUzh1Ym9TUTM2Q0o2OVQ0VXItc3dLTkVTWE9sd3hTb2VHWWxRZ2VsZFRsb0JSOW1FM0dZcFgwQUh6YkdQTDhRamVfNTVzYVhCcUtjQTQ4dDJYYXJPWEZSU01iN1N2cGxMVGVkVE1kWTBoOGFKWFp1NHh3eTFSdmMwUmFJaXprSXhfWXdiUUt4Ykt0c1VoOQ?oc=5",
       "pubDate": "Fri, 26 Jun 2026 23:22:08 GMT",
       "description": "Measles Outbreak: New Case Confirmed In LA County Patch",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Officials provide update on state's response to measles outbreak - WGAL",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQU9uZTdPNm5INDdHVDNpRjN2UzRfQy1PN3E0R2xWeUlVV1ZSMnByT2pQeG1mOHRHb3JjaGtRcWNNazdkUkZXd3YyVExLSkpKTVFRZGY3Qm9lb0tTdXVjNXltczVxcEJaSlhIdXFZYUc1ekw1d1ktMVlDT0VEZVJleFBzSjAtVklDWHZxbQ?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 22:52:00 GMT",
+      "description": "Officials provide update on state's response to measles outbreak WGAL",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -93,6 +102,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "State health officials monitor measles spread in Pennsylvania - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZkxUazU1MXNNZUFYWjhVMXVkcnQzcEdZOFI4S2lmblg0aEVYaHR2UVhUVFhkWEYwbkpEdGVXZ0pVWHR2Snh3ZUJhUzBpdkJ4di1qQ3NzT0tVYnV3cUdLWFdCeV9kdFFJU012dDRSamd6UWJpYzRUOHRBdGxWVVVFazkzZUZEZlNLU0gtaFVrcnpWaFUxMkxiQlhWMV9xMEUtTDV4VFdlOFF1enYxUUZhc3VWQ0FuSExJYjduQllLY0dYZzhOMkRQQ2tCdmhyMGM1UmhZS213RXp2VDN1c3hjRHNB?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 21:30:00 GMT",
+      "description": "State health officials monitor measles spread in Pennsylvania WFMZ.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles exposure at Phoenix Airport: Doctor breaks down the risk | FOX 10 Talks - FOX 10 Phoenix",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KZDlUNUc2VTZSUkk2Y1NGSndvOGkyU25uWTc3Um95WTV4N2ttRVJMYUw2WS1jblI2YWt1OW9SbWxWMkc4M0ZMSWxaR1hMbHkxelh4NzlxcW41Z2RZU0xaNTJGTGJFUQ?oc=5",
       "pubDate": "Fri, 26 Jun 2026 21:29:48 GMT",
@@ -106,6 +124,15 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WOTRBbVZrc0xLNEZHYzlIZWcydjFycHlJNnJud290VnJvS2V1cXZLNDhTX2VYblprRGQwcVRwOFBkWS11U0xVd0NxcEYzVmNuTy1aakE3ZHRIQ28wcWxsUmMyMkpkd9IBa0FVX3lxTFBNSmFUdFczaE1PZHZlbGNtSDZnQllnNkU1YUp3ZWhhdnBiNHhHMlNMUFlOVWxsNHJ3NlVpZ2xDT29aOVlKb21UR2NhdGlsQ3BuWTVNZ1pkTGVsaHJJWGRkTzE3d3pPR2pDYTZj?oc=5",
       "pubDate": "Fri, 26 Jun 2026 21:16:53 GMT",
       "description": "Bears stadium race, storm damage and O'Hare measles alert | Week in Review FOX 32 Chicago",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases over 70 in Lancaster-Lebanon, health officials urge vaccinations - local21news.com",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOHRGVVRDbWlaakNQMFRxRWw1VmZNa1ZmNjZWZDJ3Qm1xSFBlTEdJanVNaFQ5WDlteUdqaE5JSFFLYlF0MDFCZTFEZ1luVnctRjRQSFdTM3VPVVhKa0NQX1dpVVpiOVZZZm4zMHhScjFram5GaUxfaWlRVE1tVmlBUWlKLUxjMHozNHp0akNVMUV3aW5QMGw0QWJqR1VBbW1NUENIY0Z3bERUUmhvOGJLRHlteUZZWGVLNlNLWU1nRElmWTV6S3NlR1dScVd1NkNNRzZHd3RnTlkyQmNyNmoxQlZPXzJjMEtYY1B2M1loT1hhU2YwZHUyWUdKbzJONDBreW8w?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 20:58:47 GMT",
+      "description": "Measles cases over 70 in Lancaster-Lebanon, health officials urge vaccinations local21news.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -165,6 +192,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Pennsylvania Launches Aggressive Measles Response Amid Rising Cases in Lancaster‑Lebanon Region - Forth.News",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VQjc3RWROWVMydV9FVURIOF9iSWgtX0hFMUVsajl4SlBCcXBlYkp4UW9fUFBNcWVQRVI5Z29pOE1DZFhYNEhjVUxWNXpRcXB6VEoybVRyeUsybUYxT0dacHp3?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 19:22:24 GMT",
+      "description": "Pennsylvania Launches Aggressive Measles Response Amid Rising Cases in Lancaster‑Lebanon Region Forth.News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Tracking U.S. Measles 2026: 2,100 Cases Put Elimination Status at Risk | National News | U.S. News - U.S. News & World Report",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGdtejlVNzBVQ3VILW9pM2hjWWdOVWR4SlYwU1VGOHYxMVNzNEZieHhXUV9fZ1JEMS1LWEtYV0Z4RmFORF9yQUtEd1FIOUhqQTZ3Y2tTdVotZDBWRi1wUkNTYXFLOGJEZHFrY2VIeTJVWkIwZWNGUl9GQWxmdzhHLVlmQk1SQ181MHRsaXNCVS1wZw?oc=5",
       "pubDate": "Fri, 26 Jun 2026 19:10:00 GMT",
@@ -177,7 +213,16 @@
       "title": "As Pa. measles outbreak worsens, state health officials issue strong call to action: 'We are not just sitting back and watching this virus spread' - Pittsburgh Post-Gazette",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZTBDbFBSTEQzaGxaeXpjZEFlUmN0cExrZHc1SnJyemdEdS16dW9qeWp2Z0JmeEdOVVotZThIV29tZmhpWFVoWlhNYUZqMUQ4Nl9KU01KUDB1RE1qNmFDR3NadEo4TjlwOHd6RHRiNktKTEhQZTB6VThuMkJaVUwzMDFlVG1kNWhKZ2picVh6SHdWdUZOZHpZ?oc=5",
       "pubDate": "Fri, 26 Jun 2026 17:01:07 GMT",
-      "description": "As Pa. measles outbreak worsens, state health officials issue strong call to action: 'We are not just sitting back and watching this virus spread' Pittsburgh Post-Gazette Doctors warn of severe adult measles cases as Lancaster County outbreak grows LancasterOnline Officials provi",
+      "description": "As Pa. measles outbreak worsens, state health officials issue strong call to action: 'We are not just sitting back and watching this virus spread' Pittsburgh Post-Gazette Doctors warn of severe adult measles cases as Lancaster County outbreak grows LancasterOnline U.S. may have l",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania’s Health Secretary unveils plan to combat measles outbreaks - ABC27",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrSDI4NUM4REl4UGJYOWVIWXlTMFluRkt1aUtHTXF2NTZWNS14cDFiRmdTS0lHWTk3aG1kWk5hTGJsUXhkb1NqM0ZUUU1MbFNvM0Y5bnh1Z2FvMWVxYWFHeDl5RmYyMWpOZGppNmZLYmE4aHZfRlNBQ3lkMDQ5bUFmT1Q5dUhYbUFWM1g3WWlhWHZBM3ZGVjNJTEk3WTFaSmhyb2IwVUPSAa4BQVVfeXFMTkU1d0NyYlc5OGVsc280RXNiS2xpRGRvS08yS3lfS3pCMkIzbkxZMnJ5cV95VW0zZHF3XzNLVVZfNVVoX0VOUUlscDhGZkpoRS00d2hiNWZiRGdwelhlZERoR3BEdENOdXE2c1FHQW8waERvTWxkb0ZlZnFJMGpMWk1tYnpaanJiR1Bkejd5aFdXa3BEXzdNSWRuYmlyXzBvSm1OQnN5eU9KUWdVaGdB?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 16:30:24 GMT",
+      "description": "Pennsylvania’s Health Secretary unveils plan to combat measles outbreaks ABC27",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -192,10 +237,46 @@
       "sourceLabel": "News"
     },
     {
+      "title": "VA measles outbreak expands in as cases move closer to Petersburg - The Progress Index",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2FfQzE3S0hmSmdiR3gzVmMzaXBzOXA4TWVBUFd4akVacldHbnRtZmlGNlotanBKckdPMDctckRjd3ZZaWdUZ2s0eVpUYWk5eGFOa2xwU0hEV19nVXBBYzlIMnpHX2lPQVg5cURLamU5YVppcDdQZlNtTmlkSXI2enE5TDBYUDZ6YTViZ1Z4THRKQk5LY1dYTjVic3FFbHdTZ1NPMEpOWGx0ZV9CVGYxQzBhaWxyVk1ScTl1Tko2Ty04SDlxNklnVmtn?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 08:31:00 GMT",
+      "description": "VA measles outbreak expands in as cases move closer to Petersburg The Progress Index",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases slow, teens injured when explosives detonate and a weekend of fun - St. George News",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOZ0hNemhpSVBHTUdFaWxPOHBudDZWWmdZTUMxaXpPN1lINi1rWlJINzBKMmRVd0o4YkM1ZlBsbmRwTzl3ZmtibmpqamhXOExfWl9OS1VkU1Zhc1FmM3VnZUtZVzhFaFFiS1ZYVDRITkpPdk1SZEtfazBhX3NSa2UxalAwaks3REl0ekNob2tJRUV6ZjNkM0hMU2tzb3NrTHpNMEFzUFZwTzR4by1SZ3QwcUprNlQ4dHd6V2tDZzhEWjktc0JkaUhoYXZ5alJpWF9ZSUhkZjRwTEsxV3lfU1RMYnRaUG5hSDJQT2xyM2EyZkRLSGd0XzRfSE5tSGZzVFJCOEJxVmZ3LTBFeTB0bjY0NGNVeEF1Zw?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 23:00:00 GMT",
+      "description": "Measles cases slow, teens injured when explosives detonate and a weekend of fun St. George News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Public Health confirms measles case in LA County - Santa Clarita Valley Signal",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNG1tUXRHcnA1QWV4aG5oNkx4djBzUzBhVGtDLUI5SWFGMnM2OXAtMGd0UWVzWVQ3aUlYTGsteFBLT01zTF9lT3FMV1ZoTzlaZWYzNzVTSjNHTUJfelVCMEhVa2FKS29yRGdDenhnWTlTc293ekJKNnJ5ZmYtR0NoeXV2SmpXTGUy?oc=5",
       "pubDate": "Thu, 25 Jun 2026 22:17:28 GMT",
       "description": "Public Health confirms measles case in LA County Santa Clarita Valley Signal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles detected in two more counties in Pennsylvania as health department recommends early vaccination - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQW1PU3A1Q25semcxZ2hNZkNaYjZ5WlpudmV0clVRbkxOYXpTdnFIN2V4a0lDb3ROQkJuZWwxM1VnanVWRFlfbDlRWkpMQzBKalliQlFUcUQ4REhHUU93bVgtTldrSldqbEQ4aDlyQl9DQXMzV2l6MGFuR1lJTDFzTkxRTXd5UWhEN0w4ZFNsNjZtdGoxaXY3YmVzYzBkWUw0M1RjNHM0eExYQXd0VnJmY0o3OE4?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 20:33:43 GMT",
+      "description": "Measles detected in two more counties in Pennsylvania as health department recommends early vaccination Inquirer.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Turns Out RFK Jr. Lied to Congress About That Trip to Samoa - The New Republic",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0xlSVdOV2NPc3EzNTFsRHllNnJfZzlrdUxFYkx0RmVKeFJrWWkzV2hCZVBhQjBSNTB5bXAwZS1IUkJQVm42Qmx2dDR6aGpWMTVYR0NpSUhnR2ZSa0p1NzNEMmtHSmd1Z1VFU3JvOTJNZTZ4RzVzWnBPb0NBNGdFQ3RldjZYWkZGTmJtTA?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 19:42:06 GMT",
+      "description": "Turns Out RFK Jr. Lied to Congress About That Trip to Samoa The New Republic",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -214,6 +295,15 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRmJqQU14UzF0LTVuUTRYZ0U2RkR0WDlXSU8yZGlCSHJEcDlnT3NwNkYya0d1R2JCLW11XzV2WU12NWsxcF9DcUN1a1Q3dTREYjBfY1MyTDdmR19KQUNaR3AzUU5vSzlPMEJUQXFyZm9uTzZoQlVyTVFvMm9ORzJtNXRUenFfd01sdE9VdFlFSGk?oc=5",
       "pubDate": "Thu, 25 Jun 2026 18:32:50 GMT",
       "description": "Virginia’s measles outbreak spreads to Cumberland County Charlottesville Tomorrow",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "7th measles case - LAist",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWmtxZHBGdWFJLUxBa0V6REs5bmFVaDBVOE5qYng5UlhxQW15SlJkYlNKcUdyS3VOOUhWMC1sOHpFRWk1QWx2ZDRXdEtCNWVUeEI3eFN4Zzh0RHloMFdfbTFzczFSYl9IVTQ2bHFQbnJJcVJEUkthRkZWbnVMZnM5YkZ6Nm8?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 18:30:00 GMT",
+      "description": "7th measles case LAist",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -255,6 +345,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "World’s most contagious disease found at busy California airport - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSy1UVFlFQVA3TlN4YlNkdWthbzFzSC1Bd1djbkUwX2tYNzlEU3kzSm9Gajl2d21BMThnTmtwZktkRlJob1kzUC1iY3JyOG1HSTVNX3poVENfUnF2VDFaWmRhQnVzRDg3REN6Y1RONHlaX0Zkbk5UUlZ4Rl9Ebm5LYlNqT1k5RzhhM3ZRNEVhNWJ6UGlFYnNPU1BxTXlDWVpQU3NR?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 16:42:00 GMT",
+      "description": "World’s most contagious disease found at busy California airport New York Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "VDH: Measles cases holding steady, outbreak not over - cbs19news.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZEQ4bDIwbmJ4S2hmNHJmRFJ4YTdEa1dlNW9hTkRJcl9EeGZkRVJLRUJhQVZnWDgyTG5RNUE1M1A1Q1JESUpaSzRKNU1fWnZibzZwTWNsZjM3dDVJR3RPWXpuN2N2bldhaElSdUV6clZ3MEZyc1V0ejEtYWZPMVRzTEduY0lYU1dUdTRIb3g5UTEtZUNsMUJSRldRV1hmRmNiUWNaWEVDY05VM2pFLWNMY1V0UjhySk5lbXp5bFRSSVpxMnBPU0hST2w2Zw?oc=5",
       "pubDate": "Thu, 25 Jun 2026 16:28:00 GMT",
@@ -268,6 +367,15 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNDFHX09ESzZXUm5SMGphMGdiN2tCUXB1VWZLY2UtbHZnekVWOEY3NnhpRGZJUDdfS09sSkFLai12ZnFmVzJReEhRUjhMTFd4a01WUXdxYWNxZk5KbVdRdkNUek9mUDRzRWF0ZV8wTzN4ZGNjRk1CelhPVzNRRmh1Z1FacERfLWVWd3RfWkx6Q1o5RmJrYmhWeHZYeUIzdTRQVlc4ZE9JVlVrVHo4ZzRHSlBiTTcxdlh3SHBneFIzM3NEa3N5MDdmd3gzTGo2X29vOGI2cUxkdHNoR3F0WHMySQ?oc=5",
       "pubDate": "Thu, 25 Jun 2026 16:12:15 GMT",
       "description": "Gillings-supported center helps public health teams prioritize infectious disease risks, from measles to the World Cup UNC Gillings School of Global Public Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases continue to inch toward Western PA - Audacy",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX3hYc1Uwb0FqM1Vyc3VpZ2ZvelQzQzBEcUJLNFo4WDdmcmZULVoySlZZeHlVYUpwSmNXRTZxWjFJbXNhd292bmQtam8wX0FCamhkaVlGS24tc1VFaFFSU3JtRFY2Y0NEOC1MWjM0QkV4SHp0VmNURzFwSnIzNUlJREdsNmt4ZEktcUZ1TEJDVkZwYWZzTV9F?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 14:54:08 GMT",
+      "description": "Measles cases continue to inch toward Western PA Audacy",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -295,6 +403,15 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXZDb2RTazVrYW9jcVJhQUVYaC1xRExfQS1IMDlMR2I4Z1IxNmxiVU9HNF9iN3RPWVZvTFZYcjJKTldGZE9aUzJOUDBlckdrVndQdVU1Unp4SUdqa1ZHWVJTdDNLdnBaTnNubVZyM3N2R003by1BbW55cUZGaG40ZWJwS1hVdWg1TnhMakhBNGgzTVNYcW5zRnFieEE1TWhsUUk1VjNCM3NDdzdVamRTdlZ5UzdoUQ?oc=5",
       "pubDate": "Thu, 25 Jun 2026 07:00:04 GMT",
       "description": "With Cases Down, Utah Works to Prevent Another Measles Surge Governing",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles exposure reported at Sky Harbor Airport - azfamily.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVUhKSUtRaFR3Q29iRVkwc0d3dXIwZHBycV9lRTU4TWU0V0ZHODF2cmdNZmJfQlVLOHdkLWZDMEdPU3RWT1RuS1VBeTZ5RGFOZ0NWOUE2bldCdFVVOG0zOEdqRjRjYjJPNVpGNnhRWlRRcDVVQ09fNzNaUW5Tcy1OT1FPN19tZThDcUlvajBVWk4?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 04:27:00 GMT",
+      "description": "Measles exposure reported at Sky Harbor Airport azfamily.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -345,10 +462,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Pa. measles cases jump, spread to Northumberland County - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmJxQjVKZzlFSldYYTI3RXdZck9GN0FQVURPWENiMFlfNTV3eXN4aFltUDVTcDV5dkZtV3pPVF9NdFpxU055ekpoM0pKRFNzOVl2djE2MnRWc2lyekVNVE5INUFpa045djJiS0pvUEZGWU5PNlNPY2tubUxMYzV4R3BVcFM1MWQ0UlZxZFJHX2plWm8?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 22:24:51 GMT",
+      "description": "Pa. measles cases jump, spread to Northumberland County Pittsburgh Post-Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Maricopa County reports new measles case; possible exposure at Phoenix Sky Harbor - azfamily.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDBrako2eDA0TDZfYjRXU3RTUXdYME1KZUhPV19JXzc2R1ZWekFERUlVZGVDNlYwaUdEV2tzbUY4T3FTUUlHeTZLZ3p2NWN6bDdkLTNyb1hqZkhuTlJzUWFuVjgxZ0tNLTF0VUh1d1hkSFVyYWRPbnFVLXlleEZqZ29PVGN1cVJoUXQ3S182M0pkMXNpdUY4WHR6cVNfOWhFLU5hamN2X20xTldLcmtKQjlPUzLSAcgBQVVfeXFMTWU3ejNuUlVXOFY2SXA5dFhVdjdoWDJCc2ZMWnJ5a2Nyb3huSF9YUVBOVUgwZ0pWWEM5TmhVbW10TXNRb2Q2MmhQcldRazRtOUtSRmFLNzZTSGZvb1V2cXNBd2xYeXVsbkRaajdXc0ZHaWlYXy1FaXhRWmpmWktWU1cwQ0ppNHp1bVJDM0hSQlY3b29MZ18yQXZhSG5aTllqdDNPajE3YngzLTN0WlF6cHdQZWRQaEpZc1NDNVQ5enlfTHlCNG1tMl8?oc=5",
       "pubDate": "Wed, 24 Jun 2026 21:42:00 GMT",
       "description": "Maricopa County reports new measles case; possible exposure at Phoenix Sky Harbor azfamily.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles case detected at Phoenix Sky Harbor Airport; 16th in Maricopa County - 12News",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWTBhaGNBaFR3ZzNUeVYzeXM0OGRFSHI2V0dJZ3ZVNm9Nemd5RDc1aDY1b1M2X0wtRzhoeE9HdmxGN1BzSWQxa0lZODBJOVBuY19JeUtYbVJLSnZjRVMwM0JWcldfdGRGazJ1bTkwb0FTdlZ0WXBuVV9SV0QxUy03ZVJmNHhKOFpoRDJKaENvQnZCOVhFQUhUZ0xDWDlzemlob1F4eFFQcEVucmpKNC1HUnhucm5YTXhiVjY2NTIxOVdpWS10VUMwTURiMENadEg2QW5UeGtSb20zY1RQbmhCNWlZOWxldGQ5YmVtY3Fn?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 21:24:00 GMT",
+      "description": "Measles case detected at Phoenix Sky Harbor Airport; 16th in Maricopa County 12News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -403,6 +538,15 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXY4b1VyazlfRC1lelRpWXVVdVpfdlFoZDVfVkFId044M1k3dDZuWXk1R1pta1A2dlBJazdjOFAtUE9kS2Vhd1VwTUoydTJYMEp4UTd6N3NXV1J4QVQ5X2VDd0NRMjBaaDhtT2otTzBfZUVYREFPNnJVOGw4eWxPRllCUHk?oc=5",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "description": "Measles is Spreading: What to Know About the Symptoms and the Vaccine | Health Matters NewYork-Presbyterian",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "After a year of measles, southwest Utah sees cases decline, but officials warn of possible resurgence - St. George News",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNaGdHLVJnSUtYcDdhTldGMjRIc1gtMloyd0ZDWWtMWFdpYkpyR0FfN3dOajAySWxCNEtrd2QxSkhyZFIyeFBJSXFSeHZRV3BhcHFSS3pRTUxzSEEyaUszS1ZjMnRlVUFJNHNTbGsyR3d4TGo4eDJtTVNzaWNCZ2VlWnhnSFpCOGQ4eEpDZkVlNHkxdi1NWVo3dUNzenVYRDRobWpLX1IwM2xXRmUxUEN2MnNLWmdLZzZQbi1vYmd3OGo4eXMxWE13N1lQYnlrV0JrQWhVTFBUdkJyM3daNGZFUEk0QmtZU0F3c3pCRkp4b3UtMmRMOUtTNnpudjZDc25mM3c?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "description": "After a year of measles, southwest Utah sees cases decline, but officials warn of possible resurgence St. George News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -489,10 +633,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Article | CDC ‘transitioning away' from diagnostic testing for measles, mumps - POLITICO Pro",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcm1RdXFXcERadWtJWVVQcFN3NlU1S1BRdU1LRm1ta2p2M2JmWUkwVkoxUUNzQmpiTkw0MVRLYnYxaU1WVkQ1SDUtb1pYSEJEaGRRQUxrSG45V3VoaGppQW9pbXZtNTFNWEktNzRRUHJITFZCYURXdVB5a1g4REQyWWFvVU9aZTBlajVRR1hkZl9uMUJPRnEyYTlpaE5YSGJfOVJuekNHRQ?oc=5",
-      "pubDate": "Mon, 22 Jun 2026 22:31:26 GMT",
-      "description": "Article | CDC ‘transitioning away' from diagnostic testing for measles, mumps POLITICO Pro",
+      "title": "Editorial: Measles surge prompts action from Virginia health officials - The Virginian-Pilot",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HY2phalo2RDE5bGZfMGRlS0xsWmRRQ204MzNuMEVoS3ViZmtNMEhWaUVCc0xxdWRoRFF4ZldrNmdyLWlLRmRzU3lGeDNJSHV5UzFGOFdqN0xkZ0FnMXhQWi11VEx2Tm1EN1FyOG02UQ?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 22:17:49 GMT",
+      "description": "Editorial: Measles surge prompts action from Virginia health officials The Virginian-Pilot",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "As measles cases rise across the country, Mass. legislators face a decision on a key vaccine bill - CommonWealth Beacon",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnV5b0VBMU00Y2VnQ1FBdTN5TDg0VnNqMWJvTDdUZEJOYUZVY29GZ1M2V1JYanJRZWY4ZE5CZ0psZlFzR21pbkFEU1lQZmlXLUZhVmo0QmR4QkxyQVluWl8wbk92dlFqaFg4V0VWTXNhbFhoTEZ6VmRta0xCNXA1ZW5jUjlDVERFbVg2TEJxZTdvRUlWOWxoSldSR0VJM2F5a2czUlJZVzFHVGtNSTh6RW5Ea2RDcXNTQ2ZhZ1JCRDNab29SZzlkZHNTQVJTa1BkSFgwOGVR?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 21:24:48 GMT",
+      "description": "As measles cases rise across the country, Mass. legislators face a decision on a key vaccine bill CommonWealth Beacon",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -534,6 +687,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Virginia health officials urge measles protection amid rising cases - WAVY.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYmpPSUN2eHAzVFphUjB6azJQQTh3bTMtclpUOFdaWElWSEU1bmxDVEs1eVN4azRGSEJhZGZqWTBGXzByeWRuV3JtUDJwSTJwTk9oMV9wZGRHTGtxb3p0NU0tMlFDU2c1Q0owMjVxblNRNU1MY25uN2JTTHA1ZkU2TDl3b2dfa3RVbElSNFk0TEwtSVVSSlJGT3phbmgxeXZZN3RVOGpn0gGrAUFVX3lxTE9zWlBwTFh0cEVfd1VSMDJJRmhaRExTa1M1WFVrN1VtVXE1eDJJZ1RiVTRkMzczX2NGVXNpNG4zVWRqcUFhU3oxdnQ4MnVidTJIcmJ4a3A2SkFkTWRjM3dudkNMNkFRc3lPLUFmZXBtc2FjOV9LdGtfMXVMbU1idV9mRTB6TWFOdmkyWThQS0RDcFBpOXYtSDdnSW1VMlNwVjBSaHpjS2RIcWZGWQ?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 05:25:30 GMT",
+      "description": "Virginia health officials urge measles protection amid rising cases WAVY.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles warning issued across DMV region following confirmed case - FOX 5 DC",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV2xlTzVvdkZnMVI2eXQ3Um1MUjBsanhSNzB6SkZpWHR5S0dTSEd0Mkl3UHBmaUVwT1RXejY2S1V6c2w2QV93bzRNWUFOSkc1cG9qcXVhTWdDNGxyWnBMYkp5ellVUl96S29iajJLWlBvLVhnNlhFMXFYTTlkX0VWR3VPM0RsZGJvN1pka3JKSmQ2ZjhyVkHSAZsBQVVfeXFMTkhiRDVlS2RhTUxMajNueUNaa184S0VTLUlfa211RGpRNjJMYVMyckp2aWxKblVabDlSOFRjODFoUGZFZndiWHFLWmZaVGx2R3pYYVdxWUNYNjZEcGd3QTNDaFZZeUR4eG9rS2xjSDBNaXdPOVNnRW83R1dGMHZyVE1ocklrS0xZano5RmFJRXk5eHBnc1pIMXF4eUE?oc=5",
       "pubDate": "Sun, 21 Jun 2026 14:41:05 GMT",
@@ -547,15 +709,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3NObUVjZVgyc0NDYUg3dzhVYVFTanhReUlsS3hMVy1YeWJiWEF5blFGYTN6X3VWM29IeE1OeDE3Vk5DTklpMHRtLXUyNkxwWURCTkhjV3hYOE03eUNucXBZalAtS1Jlam1JM2tJU19mOUlNQW52bUkyN0E3ekJ0cTNLeFJRcVVCem8wNHlZVXRsWW9USWN5MnRWbUxsWEJxOUhpTXI3Um5nWi1zdzFYQVo3N2JSWnMtMHBSMk1OdUtVUQ?oc=5",
       "pubDate": "Sat, 20 Jun 2026 22:42:46 GMT",
       "description": "Measles case confirmed in Maryland resident who passed through Dulles and DC clinic WTOP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles case reported at Dulles Airport, Adams Morgan clinic - NBC4 Washington",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdDVTTjR3YkRJcXZSdzVzdUdkQnVibVNIUzVVZ3otekJnTmdqSjBFZURVRTdmZmZkN3FZVWhEMHJwdVFURjBoZTRRZWw2bnFiOHZ3eENtMTAzcV9ab0x4TVhIazRBdXRPSXdkbk1RX2xyRl8tQ1kzVnFCd3BMNHU5dVFqdzZFS1I0djNISG1fYzNDQXBnby1GU245dHhvVXFYOEVsWWdxSFZ5WUpGMG440gG3AUFVX3lxTE1naDgzeXRuOEszcDFmTEpLTWhUQ2VGaFFBeEQtTmt1Q0JoZ002Q0lYak5nZWZfbVN4R281WTNYZlEySjdHMjRmUUpGM0hpd0I0QXRZRmdtVU92QV9nTEtSdlVmTUZKUVRUMGZsZDJ5bmpwMWlxQ3lwdl9kUy1lS1Y4dXVncGdsZVpKcEhfVDV1QnhjRkVzYUFTY0dURTlONTlqRThJSjBDNWdkdldjRk96aGJoMUt5VQ?oc=5",
-      "pubDate": "Sat, 20 Jun 2026 21:58:18 GMT",
-      "description": "Measles case reported at Dulles Airport, Adams Morgan clinic NBC4 Washington",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
