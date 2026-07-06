@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-07-06T17:11:47.580Z",
-  "itemCount": 38,
+  "updatedAt": "2026-07-06T18:47:22.579Z",
+  "itemCount": 35,
   "items": [
+    {
+      "title": "Toronto Public Health has issued an advisory regarding potential measles exposure - Toronto Life",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFdIbWY5TktCNnZQQkhucnZ2bDROVTUwRllfVFNSNVpqN1p3eVdpUDA0c1psMU94SDdxaGFwTXlqdWFtNGx3ZVZpdDhNTVJJdXBfUlZaUlB2MWhwOUtHcUIyTVFYSVk1WnF3UF96MFktRUtKN0h6NWYzQ3VmVjVvbXphNEpNeFZhaGxCOXlWNUI2X2p1UnZDbXhDc0dQcDRvYmdjU3hMTnJ3S1d3RlhwTg?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 18:11:05 GMT",
+      "description": "Toronto Public Health has issued an advisory regarding potential measles exposure Toronto Life",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Dozens of measles cases in Pennsylvania — what’s driving the spike? - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaHFZOHJad0VTS3dsa1ZubXo2Q184NWVVYVlvT3FWVVI0d2ZLY3NfNlFpeEppaEJ0NjFmRDFUaHhkSVN3NjZCSEdLajRCUlFzM1l0Q0RDU1o1Z1pTTVlzeUlqa05IaXJFZWpTV2UzMkpHTVh1c3lkemdvNV80UXA4WmhNZjdUaEhzZlhjdGhVNGYxRnNkbFlLU0NqY0piM1dsTkNFd09nTDFPNkJDa3lnU09saTFTRDM3Vm5McS1BbHo2bVU4djdfaw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 18:09:00 GMT",
+      "description": "Dozens of measles cases in Pennsylvania — what’s driving the spike? The News Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "The smartest school supply: immunizations - Sterling Journal-Advocate",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdVNKU3V3X1RobkRpNFF6aEtvZnF3UGtZNFFSX2ppZnZiOXVCSy1Gc09uNUF6d29ReXZDUk9fZXJxM0J6U3pmZEVDNTVNQ3ZlMzJvMnY3R3RXUmhvWGgzSGJodlY2SG5GV2FoOTV1dmZLS0xCbmltZ2NKVXVRdXFqdElTbzRKam5MT3Y1MWln?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 18:04:39 GMT",
+      "description": "The smartest school supply: immunizations Sterling Journal-Advocate",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles warning in Toronto. Public health officials flag several Scarborough clinics as exposure sites - Inside Halton",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVzNqSHdTOEJwVXlJWVBjQmFzVVVzX2tRdExxOEVHMXdVVUZlaUNQYTRXMm8zUGFfX3Z6MkVEaWJZYW9ZWTZlcGVqb01xSUoxNS1lbmdVQjFnaElCNXIzVXo0SWR6djJVWUZfb3Q3VUx5SDBZUWRsMUJVSUZCQzRjUjdjNVJFdGlfVFBVS0VkamNzbzVxTTBYS0theUQxQVRyWUJDNjlXcy01MFJ4RXBsQnY3a1pMWTNET0tFdlhrOUtyd2s1dHNQR2VB?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 18:00:00 GMT",
+      "description": "Measles warning in Toronto. Public health officials flag several Scarborough clinics as exposure sites Inside Halton",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "AI, social media among factors contributing to persistence of vaccine rumors - BenefitsPRO",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGRtRDMxTEVUWEY4c1R2LTladnBvd1dDUWJPM2RIdlcyZHE1bDFkN2xiTWRiWUNXTElNYTJDTnRRNGVDYm1CSHJRd01OeEFneE9zd0t0OG1ET3M0cGFLandkVlk1QWdUU19EZGhFUlpnWFNqbzF3MUJxU0ZEdHdDS0VkUmlWbUdqWTlJTFoya21LZUNRRWhvekUwdFZGZXg4c0QySW82UC1sZjJZSkdnOUZDMVIyUQ?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 17:37:58 GMT",
+      "description": "AI, social media among factors contributing to persistence of vaccine rumors BenefitsPRO",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Armed conflict tied to higher measles burden worldwide - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkJMYllISUQ4ODdDWV9oTEctbEU1emdaUTlVSGxfR1lmVm01VE9BYWJ4TUVsZWYyejhNZVhLSVo2dlZvLUtVR1IzRGlQUml2eEFNdFRSV3huRE8wWU9XLXk0Q3RGU2YyM2g1SUxyaVVHNEdlRmp2c0tGcXc4aXNrRHNGa0hsNUMydG5RNF93cw?oc=5",
@@ -57,24 +102,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles death toll reaches 741 as 3 more children die in 24 hours - The Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSklWUmdrSkZ6SkdkRWJHTkJ3VUpLYzBDNWhKY3BIdldSb2xGd2FhaFBOOEY5ejUtTkdwMUpmSVVYbmd4cnRTSzg1ckdVYnRnQWFHZEtGd2tHR2JGQTNMcHJsZ09VZk91YllNaDVtSHNicXZoWG9kNVZZWHNlU0pJZnBuUkp4WWtIbnNaZHdrWGlTZlkzOFF1MU9TbEFiUDcwU3VRMWdFcDVYR0dmZHfSAbMBQVVfeXFMUDNOSzd6MFhuZHF3NjNJX1NKTjlKNTBCeWVtOU41aWZTS19NRnJ6a3Q2a0MwR3JKYW1iOXBqMldHNXdfM0dpbmRBRTVYODZIY3YyTUM5dVVsYnljNHNmT2hKeDVHdms2Ujc2WktaVlJOQ1FEU0lXa1Zxa0hncktVcjFkeUhJalFPbEROdkc3bG85anJTeUlKMTd5cUxEd3FVX0VRMjg4RjFGUDJybU9YNUFuRzg?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 10:05:00 GMT",
-      "description": "Measles death toll reaches 741 as 3 more children die in 24 hours The Business Standard",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Nearly 40 lakh fewer children got measles jab - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUXRrV3E0VG1IU1h0c29ET2lLRlpkaUkxZG1PaDlyOXRsaEVSY0I5ejE2SmhLUDhrel9mQTJxTzFoNkRpLVFpdkd5UlJuN0k5N3k3WnBrZm5IcjBRRFRmTE5seEZ3cWlKNlNZWDAxRHRFb3NvMFE2ejdaTHNIU0NzcnhNRXZRSGpmck54bGdxTHNZck56amMwcnA2a1NPMFplM3RiaHFR?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 06:34:57 GMT",
-      "description": "Nearly 40 lakh fewer children got measles jab The Daily Star",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Toronto Public Health issues exposure warning over 'travel-related' measles case - Toronto Sun",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOamlqOTZsTC1SRHVsUUtNd3dud0RfaEJqci1WaDVIcktVb1JXVEpKRGxLam1uWUt2ZTVscGJXQmdTdnpOSXIyUXZSY0ZaVjFtUExGOVBYUFJlbWhBeFhOdWx5Qmx0ZURERlVsa3d6TlRzQzdQWTZLOWRDOURPeXVfR2dNMWh3ejljcXZ2ZHlR?oc=5",
       "pubDate": "Sun, 05 Jul 2026 21:52:53 GMT",
@@ -106,24 +133,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHEySjItMTNta0VpMWFDWWpwNFB2d1Fjc3otcl9WOWtyR1hoNkRrQmFmLVJ1MHgxVjdrNkpZTlJpMk5TU0xBZU1vT2VlSno3eEFsR2t0T29RNjI5Ymc5VDdVSmExWmVtZW9RT3BWTmVxRXJ3OTdCQndfa3MxdUMwVUdaaDJfanJxSmw5b1VsdUN0UWtROGVOXzFjZmx2bFFVM2VoYVRESncwbFFmekQ2MTBpQmJzZk0?oc=5",
       "pubDate": "Sun, 05 Jul 2026 19:42:28 GMT",
       "description": "Potential measles exposure at 3 healthcare centres at the end of June: Toronto Public Health CBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Cholera, measles, food shortages put 200,000 at risk in Sudan's North Kordofan: Medics - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ2hlSVBkdzVTRUdPSnFlRzhLb2lFTHdiZ2VTc2lteWZ6M21jNGRCMDl6cHRfajFBT0J0U3RCSnNrQWNZdHk1MmFRQ0RYMU5HbFFYYzVtRGVRNV84NVZTLTJWN3ZiOHYxZFdPNENsQlpKN1Y5QzFJMnU4QkdJblM5UW4zTG9veGE2QklJSU9VTkUzRndZVmFXZm5Va0tScDBISDlYaHpRb3ZxSklHTzZuWE9aUjJOSFZ2VUQ3TzRWTQ?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 15:30:08 GMT",
-      "description": "Cholera, measles, food shortages put 200,000 at risk in Sudan's North Kordofan: Medics Anadolu Ajansı",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Larimer County teenager catches measles - Durango Herald",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd1NpMS1Gd0lWN1ItRURnaXJlal9YVC1MZnhXQUJfMkxjSFRIZkJCZEEyam5uM19XMmo0ay1rWUJldUNSSVVMbWRIaHBRQzhlRkJ0Sklfa0RKVXczNTg4VkQzUzVHbHFJdGFYaFQtM0RHSko0dUNxVlg1ZHVyQnpiZ3VkNW9IZw?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 20:45:49 GMT",
-      "description": "Larimer County teenager catches measles Durango Herald",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -219,15 +228,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Inside Pa.’s measles outbreak: A family rides out the virus, doctors treat severely ill children - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcmpWUW1qalRSWXBrRjgxdUNJTkhvekVrUnhaTHFmTVNFTHJvWjNCVTVock5JS2REeTNLX1JNUHVLM2pCN0ZwZUJScFFOTF9aY1BCa0pZY2stTTZjSXZIeEQ5a29XakhZZ0c4bzQzRWlpUFZSbzIxZWIwal9sVGhaaHdCMzF5dDlUR0puVFNuZ2FzQXY4dGNpVDlVZUxlU2xoNU44RUVrc0tpbElfY05lS2xIaGtScms?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 19:35:10 GMT",
-      "description": "Inside Pa.’s measles outbreak: A family rides out the virus, doctors treat severely ill children Inquirer.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles vaccination rates climb slightly for some Texas children - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVktENTFXQzNwajlTWEptRFF0MTk1eVdaeXJjaWZpTUVndUxwZUtybEVMT2hLek9POWRteDB4di1zVUlzdEtvZVkycUFHS3ZUNm5CbUwxUE1Oa2FfVW5iQWE1TkQ5NHNXcWFVSkhzVlBaUXNBZVhjRkk1SGE5bWlHMUc4bUhRUWhPclVSWlN3RDhLRkE5ekJPemN3?oc=5",
       "pubDate": "Thu, 02 Jul 2026 18:22:56 GMT",
@@ -282,24 +282,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zM2k3cXU1REhXajlIeVoxdG5DYlIxWTZad0luTElSVkxtZS1rNjM0c0ExM1JHcW4xd2VJQTZNdFMzcV96d054LUh2TEYweFZkNl9BcTFyYUNJYWJ5QjQ3NURWYw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "State health officials endorse MMR vaccines as measles cases rise - NorthcentralPA.com",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSDdBSHYyQjByRUlHWjNzd2xLMXQ1Qi10RnVzY1dfa2NyZ09ZN3haaXFSZkp1ZGFuZXJyVnFUSE1xR2hBM0o1eGRqTUFwNGZVNzNueVY1M0hkZUptV2QwQzQxZ3Y0Wmd2eGMwNzlyR1pwazk4UHlvNzM0Um10c2t1WlhsSm9jSDVKeHI1V1V5czQ3RExqQjJ6U3BzYWsxcW5qQnFLWEUtYWFLR2l5RXR3aUh0eW1BVWNFV3VfX3ptWG13dkRiTG1pY25WeVR0b2Z1dktndEdSQUM0TGZZZmFGUjA2b3Z2UQ?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 20:00:00 GMT",
-      "description": "State health officials endorse MMR vaccines as measles cases rise NorthcentralPA.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Pennsylvania Department of Health confirms 3 new measles cases since Friday - WGAL",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcF9xWloyeWc3ZmtqbFc0bFVITW5VdlZYTVVxWXZ3cmhDb1A3ZzVsZWtsSzNfSTB3VzFWcF9pbVRvVG5IZjRobFczOXBTcENFZDlOS1Mxek94alcxWmxSM3lzRXI0cjZqWVU1bU5VVHpvdkZQZko0ZWlQWDItN2UtVDg4anVJZ0N5YV9sMjBLazRUUV9XRnN3a0d2UmxJUQ?oc=5",
       "pubDate": "Wed, 01 Jul 2026 18:54:00 GMT",
@@ -331,15 +313,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORnJNdmpYMFVwdEVOdVQzbkJMQmxhVnlqU0ZHdmpsTGhLUjFTMTRNTml1QzFyME8taGhrQWIwSjF2b3FVMXluZkgwNDdwSk1SS0Z0bm9lRkZKZW10Z1ZONkFadHVLZDlmYUtkcUlYVVhnYXJFY0dFejRIN01wRXFic3RpUW5PN2gwM1FJY1Rqa2lwcHJRSDlNRWdMU0dDVld1eWpmdFJfOUnSAbwBQVVfeXFMTW5fXzJaVlEtUzJVS3g3RTJyVkt2T3U2aTRaUWVSUXVXeUhINDdmTk1iUDMyUjhRNjF1c2psQ3BkNVJGSUxrLWtWVEdyY1lqajBvMTYyY2xxWWh3bnU1VXNWWlRxcS1adU0wTllRVlZJM1h1OGJkYWFld1laMjlTRTJUOHlPWEtCWTRTeEhkVDdVTzNzc0ZXVm9FcU5URGZ0endvbVZIUjY2WE1STkhUa1RITHdQUUE0YjZCbDM?oc=5",
       "pubDate": "Tue, 30 Jun 2026 21:10:00 GMT",
       "description": "New Haven biotech company developing measles treatment as US cases top 2,100 WFSB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles Cases Surpass 2000 in 2026, Threatening US Elimination Status - Drug Topics",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNekdmLVoxOWY2cFB3SlB0ZXNGM0RzY0wwTDRZWmR6bnlxZHVUT0J1a3FPUEcwS1R0U0NYOVlEaHphM2R2aWpiRHlYdkRlT0VtdVhSdi1UT1FTZHRJUFlIYm80OUNBYk5maEF6NWlZRDRCWEZLcFdfTGtIQUZsN1Jlb0MxaFZiRHFCQjlIT1JvOGZITGJSTlJvQnMyZDhOc1ZaVGc?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 14:48:51 GMT",
-      "description": "Measles Cases Surpass 2000 in 2026, Threatening US Elimination Status Drug Topics",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
