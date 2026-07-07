@@ -1,21 +1,57 @@
 {
-  "updatedAt": "2026-07-07T09:18:07.068Z",
-  "itemCount": 44,
+  "updatedAt": "2026-07-07T11:13:50.903Z",
+  "itemCount": 46,
   "items": [
     {
-      "title": "Why is there a wide gap in measles vaccination? - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSUxBQ0RNNzJRVTBiWk1za0pQV0o3bnhJY3RJR2tjMnZTWjZWOEJSdFd5YU5xd2x1SUJpZlRRZE9HTDgyUDVJZ1FKU3Joc29CLUFTM3o4SHNFMmZybXZTQzRVaFVlTzRlVkd4UzM2MXBvRTg2d3ZMSm1XT0c3d2JJc0RJV28tM2J3cE9IbFlaZDNxckZLVHVOcTcwNnVqaTQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:18:30 GMT",
-      "description": "Why is there a wide gap in measles vaccination? The Daily Star",
+      "title": "With measles cases rising, UK launches vaccination drive - pharmaphorum",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLXI3dFlKdldiUkdmTkdxVXpDd2xDZFdvZ2dXNDl0VmJXTHZSeU82NGJ6UWVVakdOc2Z6dkUzTUhiQ1BmM2dyUW82X3QzMkZ3aUJNb1JJTjFoV3pqNGhxcWZfdkRHeHB1ZmJoZThQd2ZpNFA3c3E0UlpRbmNMQnVyUG5WdTN1NVk?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 11:01:14 GMT",
+      "description": "With measles cases rising, UK launches vaccination drive pharmaphorum",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "NHS launches vaccine catch-up campaign after children die of measles - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHVvWlZQTFloX1BIQkJGOUhHSElUX1JLZEdKU0hJT0o5MEVva3J5ZmZLaUU2MlZ5UFZOME0xOWp4Z1M3aXpNNWt3emMta1RKM0I3QU5XQmZsVFd6SE0tRk0wQXBMcExpXy1ZZkQ5aDN6QmpzU2J5N0hFUjRVdkgwSk9CYUVoLWRiMEQ1Rw?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 05:45:00 GMT",
-      "description": "NHS launches vaccine catch-up campaign after children die of measles The Independent",
+      "title": "Urgent measles vaccine warning for one million children after tragic deaths - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaTBWZzgzZUpRYjFpMjVkTVgtX0hIVjhpb0p4S3BrYkIzaVdYQ0VCRGFFTGw2V01Pd1I4NWY0RkZHWWRnQ0FaYTlKUl96UFVZeDRITFdLSnAtd1Y3RFRoSnVBX1RPc2RiOUJURmx1VDNzUVdMbmJvVktzazFtMWJFbHpVTjN6TnZFak5XRlFiT1gwT1RsMTNNeXF6MzVkZw?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 10:55:00 GMT",
+      "description": "Urgent measles vaccine warning for one million children after tragic deaths The Independent",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Around a million parents urged to book new ‘four-in-one’ NHS jab to protect young children against measles - Wired-Gov",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQlFmaEtXR3pmLVNkQzlvdGFVWGdFZFg4RFkwWFJ1QlptX0syd053NF9yOEEyNjlIQ3BmSG1Nc0ZkVjJGWU9oanpBWkkzVUtNcGIxcUZEV0FPbWJienV1RURjVzlzeUtmRW9tNHRRNW8xVkxsT2lDLTRGUGZGdm1Obk5SVm1pMkk3WHZ3Q3gyTTlNSElPeV9GSzJNLXJLem45cDNObVc5bHJVTjlXWUNEOGhYY3VLYlJ2czRnN3NJTU1GN1Ata01iYmhpWmZiWVFkSTV1MGxsdDdsOG9nQjZDQXdwMjNnVHpzeW9GS2FUbjQ3a0RaaWdaOURTWDNJdw?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 10:14:31 GMT",
+      "description": "Around a million parents urged to book new ‘four-in-one’ NHS jab to protect young children against measles Wired-Gov",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "As measles returns, more older Americans are asking: Am I still immune? - Healthbeat",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVEdFRFZMeXhEZ0FoQ1AxYmN4aXdwNjdfRGV0bmZxSlZFeks5d3dBVDBlT094MmFRazAyWGpXSmRvVV9aeTFOQXhYdGhQTWpBVVZVNjFhTVYxRDdra2dpWm1aemNzR0tqWDhSczF1bUVDMVlRODQtMGJaaVpWZjBuV3F1eUtKMWlhS3lkUzh3aHFHWnlpVnpIR1BkRkpEendYel9ydUdoQzZGcDFK?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 10:00:00 GMT",
+      "description": "As measles returns, more older Americans are asking: Am I still immune? Healthbeat",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Is the measles vaccine safe? - Understanding Animal Research",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaGcyV2N2TmdyR2xXZ3B1QUNXTHNwZlZlTjlnaFVFY0F5TXFUdVlRLVB1S3VVSml2eVlWcTRsX2JtRnVxdE1Cb0d4RVBDamZqd3A3VDFqcFh6RDJoU1JTT0NDbkt3ekc3MjZxR3U5N0ctYVgwZVVZMnBwdXUxSkhPeFNvcEFYQQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 09:33:45 GMT",
+      "description": "Is the measles vaccine safe? Understanding Animal Research",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Why is there a wide gap in measles vaccination? - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSUxBQ0RNNzJRVTBiWk1za0pQV0o3bnhJY3RJR2tjMnZTWjZWOEJSdFd5YU5xd2x1SUJpZlRRZE9HTDgyUDVJZ1FKU3Joc29CLUFTM3o4SHNFMmZybXZTQzRVaFVlTzRlVkd4UzM2MXBvRTg2d3ZMSm1XT0c3d2JJc0RJV28tM2J3cE9IbFlaZDNxckZLVHVOcTcwNnVqaTQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 07:18:30 GMT",
+      "description": "Why is there a wide gap in measles vaccination? The Daily Star",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -228,15 +264,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles confirmed in Teton County, Wyoming, as summer crowds flock to parks - East Idaho News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGxMWUVCUmFibi1WOUZuNHJTRGZfaHFHYmd4MG14UDRHVzFaVlZzaHhScjdlcGJ3RUxqQUV3OXNFNFAxaHZ3bVVvTzZ4NDdqYWZUNF8wR3pBeld0VHNFc19seUdQaHJqdGJiV3ZqblRoWUUzZGcxaVdkSVdBSHZEOHA4QUM1VlY4cHY5R21VZU9qNmJNNnlsVENsT2NscEZCb2tpa0h0U2ZDS1gySVUzLVZn?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 01:00:00 GMT",
-      "description": "Measles confirmed in Teton County, Wyoming, as summer crowds flock to parks East Idaho News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Pinal County health officials report potential measles exposure in Coolidge on June 25 - KJZZ",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVBINXdSdVppV3A3X2RNbERmaEplVFNhdlVSNi1EYWdLUkhFSFJ4elNyQ2dISk5LMmZaZ1liUjhyU2ZjenVSc0JzQlRyZlBteXk0d01wUFNWX3lMVjRvSHVXbFNlVks5TWVub1dIMC1kcTdQMmt6SkFLUl9pTGFzT3ljOW51MlNDV2dZR2hEOGc5dm5UZVRSb3VGY0tBTmQteUVWamhhN2dBVkJFUzU5cXMzcGtUd0tRU1VlNlBQd2FWTUxG?oc=5",
       "pubDate": "Fri, 03 Jul 2026 00:14:00 GMT",
@@ -268,15 +295,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUThRUC1Cak9KcTg4ZGhvak44T2d6Y1FBU3NBYXA4M0VYSmpBQ3gwdWVwNVdxUGlhRDhiNG1RUy1aX25hMk1hdUZvY191Y1NMcFY4UU9aMnJFYzlaOFV2Z0NhcDREdm1nb2lwNDFNNUlqX0R2Q0hPTUpyU2NHRGUwbVhnRzM2dWI4Zjh5ZjBBX2w0Y0ZzVU9TNVhJdEZ3dTJlV1lPSm90TDBjR2xoa3VvR2JQcUJMSnhwTmc3N2EzdW05T0ZoVWdibGpCeEVNQQ?oc=5",
       "pubDate": "Thu, 02 Jul 2026 21:20:00 GMT",
       "description": "VDH reporting some more cases of measles in outbreak cbs19news.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles vaccination rates on the rise among some Texas children - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMjZiMXVET1loWmNMYnN0LXZvMmczSjh4Z1dmQTBMOWhPb1N2WnEway1aTTllMmtFWXFGckRmMEZyeFRhZ3pXVndocU14Z3B1eHNQLUwyMHpQb2x2Sk5YUFBNcDFRUHBtS3ZDZ1V3QWZXNXBMX1E4NXhSR25tZWxCVUhTOXgxVGEyUlpxTWdQUUswSDVnb2xXcjdTOVBfWkJXaVN2c0tEbHdSdUVfdERrdUhYRDVabE5zMXZnVE5RUQ?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 21:11:00 GMT",
-      "description": "Measles vaccination rates on the rise among some Texas children KVUE",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
