@@ -1,11 +1,20 @@
 {
-  "updatedAt": "2026-07-07T23:29:32.761Z",
-  "itemCount": 49,
+  "updatedAt": "2026-07-08T00:52:10.818Z",
+  "itemCount": 47,
   "items": [
+    {
+      "title": "Measles outbreak confirmed at Arizona immigration detention center - Arizona Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWDRaMHlKWERCeFNuWWFvVElHMHZ0Q2tKbk1OSjN2MDNQckthdE1meTZvR0M5VEtzS0dKWlNMejh6bU9vd0diNGZOX1FrMXpDY0NOOGE0enVrYkxBY3JxcTQxZ1JtbkV1TTdHVUdnc2lUU0dVTzF2WDZMOWdXeGsyQWE5b3QtM21lU2ZncWYzMA?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 00:17:00 GMT",
+      "description": "Measles outbreak confirmed at Arizona immigration detention center Arizona Daily Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "DHS confirms measles outbreak at Florence Detention Center - KGUN 9",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU0hvR29oZFQ1VHZrSnh5Z29ibmRRRnZkQURUVmw2aXZnVnc4WVVqemNaZThWTjJaNEt5ZTc3WTFSX2ZfRkZBWFp2Y2UwRlFQZ2NPZE1pV1o4OVdWcGhUcjBEN2Q5Z3FTRGlFRzh3NWxlblZIem1OU05zTngwemVfb19jdE4xbWQ2a3hIMVlnZDNFZ1A4NFE?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 22:54:59 GMT",
+      "pubDate": "Tue, 07 Jul 2026 22:50:33 GMT",
       "description": "DHS confirms measles outbreak at Florence Detention Center KGUN 9",
       "source": "news.google.com",
       "sourceType": "news",
@@ -39,15 +48,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak confirmed at Arizona ICE detention center - AZ Family",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjVMVXlldE9Idjc4aFdqWVlVWEJTWFpwVjNmNE1HQWJ6QXNUWEM1aXBQTmJ6SGFGWXhZQi1zY2JqbzJWVkFGa1I0M2x0OU9jMU9EYWQ2WXlyWHRWWnJ1QTdURnJnb1JERTdwc1ZSSmRGSDg1aFYxcm1Nc3ZxakVvVlpBWGNTT3EwNXJmWkJvR0hyc244Y2E0WU5DaFZLRTg?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 22:04:12 GMT",
-      "description": "Measles outbreak confirmed at Arizona ICE detention center AZ Family",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Big bump in measles cases in Buckingham, Cumberland outbreak - cbs19news.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN2xrUGU5eVdmVFZXSklaWUR6UFhyS19LYzVJclZwaDJiV2RRdFJUb1dNTUhtVFduYUdQbmFwSG92R3JLSnV1UlJYUnJIdkNRVll6UmVpMWhRWU1lTkIzcGJIUnJEUlQ5bzQ5VEJ6VG05U0dkMFNaUHZFdXRZM0NiQmppeXh5R1NxUFhDNmo5ZThldHZaRE8zUmlQZGl1a0ZZNHJ2TTB5T0x2aWxPS0NxRmhoUVpkM2hZYWl5V09nV1JVVDhpZnJfYXg5UlM2QzJQUnM4c2tYbw?oc=5",
       "pubDate": "Tue, 07 Jul 2026 21:14:00 GMT",
@@ -67,7 +67,7 @@
     },
     {
       "title": "ICE confirms Measles outbreak at detention facility in Pinal County - AZ Family",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUdUdEwzMmlIWkJHbDVTbzU4OUdDQTFvNkdKekFYbGtsbjlHTmVPb0xfbnZZZnJQMjBqdngyZ3pJYldUYmkzSUNQRjBfYU5kOEh0Zk12X1JGQWdITFNYSkRHcl9VZDNnUTh2MVlzU1J1bTY5aXBYU2Fud1d6U0xJUTZIMVpxeHdUV0pmTjBPcUdaZm5XYjg1b2g2Uk92SE0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUdUdEwzMmlIWkJHbDVTbzU4OUdDQTFvNkdKekFYbGtsbjlHTmVPb0xfbnZZZnJQMjBqdngyZ3pJYldUYmkzSUNQRjBfYU5kOEh0Zk12X1JGQWdITFNYSkRHcl9VZDNnUTh2MVlzU1J1bTY5aXBYU2Fud1d6U0xJUTZIMVpxeHdUV0pmTjBPcUdaZm5XYjg1b2g2Uk92SE3SAbMBQVVfeXFMUFlEV0lCNmFSNVJrVjg0b0FRVWxXbDhCUnAzcV9SQmtBcHR4dDRHXzhnTXdNcnAwZVdPNFZtX1RjTlA2YzVuTE5iZ0V6OS1YN3B1Tl90dVdVWTR1eV95LWg0cEtVa2hQQXFYbFh1Z2cwd1p3anBsV2xaRE5VT0hWN1pfZktoUDRhdWFjRUlUM29ZbHZjNmd2VWxmZ2xXRWdITkV6bkVvbGp3QTFpblBfLXdRd00?oc=5",
       "pubDate": "Tue, 07 Jul 2026 19:46:00 GMT",
       "description": "ICE confirms Measles outbreak at detention facility in Pinal County AZ Family",
       "source": "news.google.com",
@@ -174,19 +174,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Murfreesboro cat cafe warns guests of measles after an infected person visits - WSMV",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQk13cnFVOVd0SGhRd2M4eVBiZXdRU0xfSVNXZHN5bWhmcU1fU20wX2trWW5iejBCN29NZWJTWi1fUGR0eDMyTldOX2pfbC1TQ29lWTBIV3ZkUzM5MFBIVXpENllJTnEwRGhvYlIzNkN6ZDVxMzlncU1wd0xPQXZnRzM2NGNyTjRCUmZmZTZjUXZEcUdTZm8xU29PV01KdjdQOHY1Z1VJckVnWjA?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 21:36:00 GMT",
-      "description": "Murfreesboro cat cafe warns guests of measles after an infected person visits WSMV",
+      "title": "Measles outbreak confirmed at Arizona ICE detention center - AZ Family",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjVMVXlldE9Idjc4aFdqWVlVWEJTWFpwVjNmNE1HQWJ6QXNUWEM1aXBQTmJ6SGFGWXhZQi1zY2JqbzJWVkFGa1I0M2x0OU9jMU9EYWQ2WXlyWHRWWnJ1QTdURnJnb1JERTdwc1ZSSmRGSDg1aFYxcm1Nc3ZxakVvVlpBWGNTT3EwNXJmWkJvR0hyc244Y2E0WU5DaFZLRTg?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 23:34:12 GMT",
+      "description": "Measles outbreak confirmed at Arizona ICE detention center AZ Family",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles symptoms in babies and children - Unicef",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWVFRZEQxbmVLS1dXSmFJN09GbGNNZ25pc2djMVBrWC1mTm1BYnBYNXZQMVcyalpSNzFfblJSSTIzTXZ1VFBZdF91eU5mY2Q2NVdvOXhadktRYmRlTkNuMzlLWEptUF94NEhRRDhYcXkxNFFZRVdnbE4zdC1pcEY0Y3hvbzlFdGFOcUJFVE4xYw?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 19:49:45 GMT",
-      "description": "Measles symptoms in babies and children Unicef",
+      "title": "Murfreesboro cat cafe warns guests of measles after an infected person visits - WSMV",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQk13cnFVOVd0SGhRd2M4eVBiZXdRU0xfSVNXZHN5bWhmcU1fU20wX2trWW5iejBCN29NZWJTWi1fUGR0eDMyTldOX2pfbC1TQ29lWTBIV3ZkUzM5MFBIVXpENllJTnEwRGhvYlIzNkN6ZDVxMzlncU1wd0xPQXZnRzM2NGNyTjRCUmZmZTZjUXZEcUdTZm8xU29PV01KdjdQOHY1Z1VJckVnWjA?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 21:36:00 GMT",
+      "description": "Murfreesboro cat cafe warns guests of measles after an infected person visits WSMV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -223,15 +223,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnRWTW5ZU3dmUTZNNWppTnFDTFk5b2tQUmltdEZLYVkwME1yUkJ4QWN2aWhBZGVyUzBzQVNMblI4NzlJNl9raWdUcUtpVmk4SnRxRlo2THZiOHhRQlVpVkZ4cnVNS1NmdXQ5YkNxQlBHVmRua3U0aGt5MzdNNkNWMk4yREMwQnU0NWtXRjZVWHJkS2Q4OTdKLW92enJmQmV2ejd6X25B?oc=5",
       "pubDate": "Mon, 06 Jul 2026 16:00:00 GMT",
       "description": "Why U.S. measles outbreaks have grown harder to extinguish The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Why a Top CDC Scientist Saved 250 Pages of Her Own Emails - celinegounder.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTNGQ1bkdwSGJDdkExaVRfMmhMQkNsRnR5RkcwWVExeV9SZ3pCbmZNYU1ON0wyUXJuMzg4aHk5aHc3Tl9JYzBPRGJzRkZ0bThMbG5ySFNvRWVCc09wbmwycHRDcjdLdG5DeEM3TA?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 15:52:51 GMT",
-      "description": "Why a Top CDC Scientist Saved 250 Pages of Her Own Emails celinegounder.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -430,15 +421,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcF9xWloyeWc3ZmtqbFc0bFVITW5VdlZYTVVxWXZ3cmhDb1A3ZzVsZWtsSzNfSTB3VzFWcF9pbVRvVG5IZjRobFczOXBTcENFZDlOS1Mxek94alcxWmxSM3lzRXI0cjZqWVU1bU5VVHpvdkZQZko0ZWlQWDItN2UtVDg4anVJZ0N5YV9sMjBLazRUUV9XRnN3a0d2UmxJUQ?oc=5",
       "pubDate": "Wed, 01 Jul 2026 18:54:00 GMT",
       "description": "Pennsylvania Department of Health confirms 3 new measles cases since Friday WGAL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Beyond immunity gaps: health-system constraints and measles mortality in Bangladesh - Springer Nature Link",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6eDAtVzloa3piaEVGWGlBemtqUHVsOEZwY2ZncU4xRVdhTnlGSzBNTDcyQ2RPaGxHdk9jdGx4bGxmdTc0cWF6dEZCdU5xUVFEaWtZdXJwTkI3cFlqR2p6d2s1aHgzQnY5bUZJRA?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 16:41:51 GMT",
-      "description": "Beyond immunity gaps: health-system constraints and measles mortality in Bangladesh Springer Nature Link",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
