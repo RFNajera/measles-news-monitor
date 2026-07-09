@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-07-09T17:00:21.693Z",
-  "itemCount": 68,
+  "updatedAt": "2026-07-09T17:46:51.846Z",
+  "itemCount": 69,
   "items": [
+    {
+      "title": "Measles misery - Daily Kos",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDhDdEFZcXVBLWZOT0tsU01naDNpMUtCOG9DM0l1VDdsbm5jTEpUaHBnc0dtVk9sVk5EZC1XZDZpRk9CbnRJZ01zSXR1R29WZ0h2Vi12bVZvYmF2emdzNVk1Zml3a215OGNjWDdzeUlvZS1Za2V2LU9OZ1pyS1JVNA?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 16:59:00 GMT",
+      "description": "Measles misery Daily Kos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "First measles case in Iowa this year confirmed: Symptoms and potential exposure locations - weareiowa.com",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWFZHa19LeXhnenBKUmJlalZvVDB4bjNLV01hZU9rV1FjelVVc2c4Nno3MUN0NGhxZUxGa2xjd3Z5OTZ3WlhPazJnaHZWREpEeHdQRjdXMl9KYnU1bnRQZllYQXZKRHhLamJPTldCQXg4WUtGWEMwdXV1TlJYYUZZLWpzSFhEQmhoQzIwM3dob0dtTnFmd2tRbmtMV3BlX2VNNmh2dWdZTm9nMlZzUWppVUVyRVJqTGFwSmxXNmlob1VhMVViMFZZRmFWS3FxTnRULUl0V0tZOTFGeTg1TndTNlltcElVZDRMeW42OW54cC1BMERwN2c0aU1sUjU1UnpCV3NN?oc=5",
@@ -30,10 +39,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Iowa confirms its first measles case of 2026 - KCCI",
+      "title": "Map shows central Iowa locations where you may have been exposed to measles - KCCI",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1phRUY0YmpjUHczelpmS0xEMFQ2NXFaVkoxWDh3V1NTSERnaEV2bTdpRDZ2Q2RWaVJ5eWR2Y0ZUZ3kxRzVTbzc3N0dJWWVrcDhqeEI5dW84b1M1V1ZlcFkzeTd3cU5xdnYwQ0Jib1NsNUR3cnBUTDlDdlNiMV94R0x4WnFLaktTdGdHN3Z2SHVNYUV5aEE?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 15:45:00 GMT",
+      "description": "Map shows central Iowa locations where you may have been exposed to measles KCCI",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Iowa confirms first measles case of 2026 in Polk County - KCCI",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWElRc1h5TDlBaWxYZDBUbFRNRVc4RVp0UU5sQ05STWFyaHdocS0wblBOV0tra1dlNDZ5NHVEdHF5bk9qWkhWZ0taUmZyWFBFNlMtSG1idlkteVRkTTdjWXhSY1ZxQTlxYzRYQzFtb0xqZjV4a1pjaE5zajRyUjI3MnBKbmZnaG0weTQ1LXZwd09JNl95czFNZjBR?oc=5",
       "pubDate": "Thu, 09 Jul 2026 15:42:00 GMT",
-      "description": "Iowa confirms its first measles case of 2026 KCCI",
+      "description": "Iowa confirms first measles case of 2026 in Polk County KCCI",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -84,6 +102,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles outbreak spreads to Cumberland County - WFXRtv",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQWRCU2FyYnNWdG01MXFxU1pfMGVaZ3lxcHM2XzVUb1JPT2RQWURpb3VKRjNGRkVEQ2U4Qlg0MmJVb19vbmpNcTFXVGpzYU9pTnNyclZOYVh1eVU5ZGY0b1prNE0xMUhTWG1ydDhPZWRyR3lkblFEVVhHZ2pkMVJhN2EtWWNMOEdKZlBHeg?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 11:19:28 GMT",
+      "description": "Measles outbreak spreads to Cumberland County WFXRtv",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "The measles symptoms to look out for as cases rise across UK - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkJfTldBSXc2WU4xMlJmWUgzQy01dTJ4V25ydGhlNzRDUHlPR0pVckRHa04xM0RKd0FMN2lsQVQ2SXF1eGxLWW1CbFUwRlBMaThoNHVHOHdLNGk2R2RENFAxNGxBd0YtMUMzVFNieVowaTlRUGo3RkktNWNmdXdTdm53?oc=5",
       "pubDate": "Thu, 09 Jul 2026 11:07:33 GMT",
@@ -111,15 +138,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "SD confirms 11th measles case of 2026 in Edmunds Co. child - Black Hills Pioneer",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeEN4WktLb0dLaEZUQTBMWmlZRzh2WkNSemd6bFFQdDZiR2cwWVotTzRwRnNLZXRCNHBGMlhEcXlBRzdCWW9QV2FoM3hTd0hlS1JPMEQ4TFJhN0xTdzF1Q1pTeUY2bG1QWm9kblhPbUZneTBBNzlIdjdMazJuYjI1OG9mS1Y4d0d2R2hlSzFFbDlqS2xCX25UU01TVWl4Y1RzU2VDbzFpLUM4eXUyV3Mxdkl5SmpQLUNTRWJiSDROakNuRjQtYlFDVnFTemJHaGR5SjRxS3FPRlNHZDVq?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 09:00:00 GMT",
-      "description": "SD confirms 11th measles case of 2026 in Edmunds Co. child Black Hills Pioneer",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "America’s New Measles Reality - The Dispatch",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQV9PSzhRLWhNN3g2NWc4bUg4TzAzWnYyTEZNSmZRQ1lxNDhDb2JBT3BCR3M1bm5ydU5YZW1Db0pLMmVwZnpzNmFFSFBsSUN1TlFDbFVJSF83UW9aVDg5SzNNRm56NHdZUjl1YXJiX2E1YWwzQzB0ZFR1V0dRRHM2YWh3?oc=5",
       "pubDate": "Thu, 09 Jul 2026 06:47:26 GMT",
@@ -129,28 +147,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Iowa's first measles case of 2026 reflects a changing reality for doctors, health officials - KCCI",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWF1cnVmTGlTUXlRYUR1bE4wR3UweG0yakRzLUt5NGU2aHlLOVBZQ3U5Y1hqY0tLRjBkbXkzRTBmbUlXazB6WFNwT3VwVFVZWW9yTzNLM2NJeTBWNnVPNzZ6cVl4elRWUVFaWkZaeEQzNkkxQzVqcUVtdm5fOXI0TnVjSDg5Z1NJaWNYSE8zZkNDdw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 03:25:00 GMT",
-      "description": "Iowa's first measles case of 2026 reflects a changing reality for doctors, health officials KCCI Measles Case Confirmed in Polk County Polk County Iowa (.gov) Map shows central Iowa locations where you may have been exposed to measles KCCI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "South Dakota Confirms 11th Measles Case Of 2026 - yankton.net",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVnlNYkVzUU9mdVBHenpiM3h2TW9uNmswM1Bnb09HSXFhcDhxZFh2T21DcnZuT2xyS1lFUHd1Qk5VRFJNZlRzNWd4eFpld1hsUWk5eU0yMDdubnI5N09td3JGOTFxRDJxVzItdm1IN1IyRlhsMmlOMUgxTWpkMlpVUkVnR0lhYlVqVWFv?oc=5",
       "pubDate": "Thu, 09 Jul 2026 03:00:00 GMT",
       "description": "South Dakota Confirms 11th Measles Case Of 2026 yankton.net",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles outbreak spreads to Cumberland County - WFXRtv",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYkJzTW5iVVQ3VmZNTXZRNmEtWUt1RGp5NEpWYVM0ZGZ0S0FseVY4SXhabnlUYTJnU2dwZVlHelBYLUdmMTBGbGxwd3RwV2hRVWlSaGdhX09IaW52N1pMcFRtdkNyZ29UMzdZY3haTE9RMTJGalFXa2I5eWJwdmgzYkJrWUtrd3YxOHdFSdIBkgFBVV95cUxNbk05dDRnQmlZZVhobWxmUEJjUEdMTHhSeG9sUnYzMm56RzNta1BiOWJ3SS1MOF90WkRnYmJmUmtQbDRXV3RXWjcyaXJsNmFWbHRoVXFUaVdFOWd3MjNEV3NoV2sxcFZRNl9hdWV4QzZqTENkQTlhdTFXamVBcjU3dHUxd3NQbEpUbW02UDRFa3hrZw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 02:52:38 GMT",
-      "description": "Measles outbreak spreads to Cumberland County WFXRtv",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -390,6 +390,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles Case Confirmed in Polk County - Polk County Iowa (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFJnOWdDa0xrZ2R1RkFZNkU1Y2hyRkN0dUF4cDA4WXpkeUxqVUFBaGxoOTNVNkVGMm1VRzZjcjc1bll3RkxoWG9TSkdxT1dmTDdyaWw3RXY5UHRLZ29pSlByOUhxdG01ZjBKQnB3Ym41TlI3SnJqeUREaHpsNUREUGFqWldEOUFTYWJmSGNqZVp1eVZweXRVZnQxQWlRNi02ZTNDM1ZibXJUZE1oT0JMcg?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 18:59:33 GMT",
+      "description": "Measles Case Confirmed in Polk County Polk County Iowa (.gov) Iowa's first measles case of 2026 reflects a changing reality for doctors, health officials KCCI Eastern Iowa doctor urges residents to check vaccination status after state’s first measles case confirmed KCRG",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "First Iowa measles case of 2026 confirmed; state identifies exposure locations - KGAN",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHBqUFFHVmdnVndqbGVZeXp0VHJUc3pRTmVoOElWQ00tOTloWG1kOXB4NDVIekxiSjFGTXlDTkdBR2tvZ293OFQtang4R1RmQzVGbWszaS1JdnVmMFRQYlJ6OTJuN1ZNNERfQlNiUlozcEIwS1JBQjZXY0xzZ0trOWxfTk1iZWUxa2Vnb2hfeEdTM2VKX1JSajZSWG1FeGRsMG1VVzFuNkRyNmEwN1E?oc=5",
       "pubDate": "Wed, 08 Jul 2026 18:55:56 GMT",
@@ -403,15 +412,6 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Hd3cyczRHVE4wMTVwRm9GTllqVlFxNEhaVWhQUFNsdlo2NUUwbnJQZHZZQ0hxUWVZNW5TNlFrUXVSYWV3R2YwQlcwVEZ1d05MSG9kTl9rbnRPQktVUlU4QWxUUkN2MURKdUVOOFFfMk9FQ3RQOGxkRA?oc=5",
       "pubDate": "Wed, 08 Jul 2026 18:40:00 GMT",
       "description": "Iowa confirms first measles case of 2026 - ABC 6 News kaaltv.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "School immunization requirements and Virginia Measles outbreak | Rachel Dumene Central Shenandoah Health District - Rocktown Now",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVml2ek05cVpacnpka2lHNld3aUxKT0FQcmJkR0MyTVNmWVNIVGgyd0JFQWxqT0VVMjhBRWJHTVZDSS1JRzdMY0pGR2d6RjBoMTJnTXQ2aXp4OXRGY1V6dEVteG1VR2tCVHJIM0h4WWU3MHNHMUpwYV9MMXppR0drTzY1UGQwdUJxUFAtYjdsbmV1WFRCaHR2a1BIQjNUT1JTdjBZRk5aa3N5NGpJUS1hc09YUWRTR0Vrc1duTFZITXZPZm5vdkRIV0NUSXJTd2h4WE1ZVW16MlRnRFhCbmc?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 18:14:30 GMT",
-      "description": "School immunization requirements and Virginia Measles outbreak | Rachel Dumene Central Shenandoah Health District Rocktown Now",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -511,6 +511,15 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLXI3dFlKdldiUkdmTkdxVXpDd2xDZFdvZ2dXNDl0VmJXTHZSeU82NGJ6UWVVakdOc2Z6dkUzTUhiQ1BmM2dyUW82X3QzMkZ3aUJNb1JJTjFoV3pqNGhxcWZfdkRHeHB1ZmJoZThQd2ZpNFA3c3E0UlpRbmNMQnVyUG5WdTN1NVk?oc=5",
       "pubDate": "Tue, 07 Jul 2026 11:01:14 GMT",
       "description": "With measles cases rising, UK launches vaccination drive pharmaphorum",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Larimer County measles case prompts exposure alert at Longmont hospital - Longmont Times-Call",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeDlsOXQydEpzZ0JtMDZWVjUtSVNkcHU3QVg1N1g1OXlueEc3X3ZxZDg4UHBUSkRBOTY1RThOME5HX2RUdmo4ZDF0dGJvN3pWR0hPVWxPWHRKQ1lLRW11aU5QMUJsWWhMY1hfXzhOLXY5RU00eE02Nk1Ca2J5MS1yQnBYd252dw?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 01:06:03 GMT",
+      "description": "Larimer County measles case prompts exposure alert at Longmont hospital Longmont Times-Call",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
