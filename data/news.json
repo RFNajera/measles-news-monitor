@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-07-12T09:46:00.517Z",
-  "itemCount": 83,
+  "updatedAt": "2026-07-12T10:40:18.696Z",
+  "itemCount": 78,
   "items": [
+    {
+      "title": "Health officials warn of measles exposure at PHL Airport on July 4 - Northeast Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlBBTjJtalB1eVNxVXdkRzF0SXhSakl2QTRnN294aThQaUZXNUFaWEhaMXIwTmJZUjNIcHA0NG1vUE1uOU5LSnk3UDFVbmRXZkc1TmZtQ3dkbnp3NmpVT3ZqRU5mN09TcUh0M0R6bDIya094UThqNlhvcXBUX1BXUUI5dHduU2dpd190WDlnTExDUE5ONG96Y1lZQ2NONmVCUml2ZzcyZ1Q?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 10:00:00 GMT",
+      "description": "Health officials warn of measles exposure at PHL Airport on July 4 Northeast Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Possible measles exposures reported at Philadelphia International Airport, health officials say - CBS News",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWEczVlcxRHE2WDNqUnVfb1VHRzRpNnJmSWRicXc4US1KLTVDNjBSZmFfRXNCcUI3YTNVZk15MkxZU2NhUHA4VGE0RC1uNFZXRjI3MERHWFVNOUhLdFJlUGlMMVpOajV2T05DSlFBSFE1Q2pKVVdWRko1TUZDbURUSUlzTHRySWhJUU1vWWdkSFNDeEJvWnFvVW90NTFxeHNBYUVEbjlhY0t2WGJFc3FldVJCbHZnQnNkeDNEN3hYSGRsZURNMTBRU1N5X0hSVURoZ3FsVA?oc=5",
@@ -93,15 +102,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Wyoming health officials confirm second measles case, possible exposure at Grand Teton Park - East Idaho News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYTVYdFVPTzk2WloxMWNPb29FVUtmNzJjc2ZEdUxQT1RpM2Z6eE1JZlNDb2w0UXVMUS1DcS1HWEJpVVk0QjQtM3ltQnd5RTFYcTd5Q0lhUXJSZEpaY1ZJVkRkbE1aUWV6X290bEp0SVNRbG9fNDZVbXRwOUFPcTc4TXhoalVFS2otQXhjRWZDb3BhdS1NeXc0MzR6QmpPX0lIMVVrUnhBUTE5c0FIeDJ6ZFNBSzRSaGxTeUM5bkFiTnJkdUJ6MVNfbw?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 17:00:00 GMT",
-      "description": "Wyoming health officials confirm second measles case, possible exposure at Grand Teton Park East Idaho News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Metro health officials confirm Nashville’s first case of measles this year - WVLT",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWl9JT0N4N19LdHJUUVZKRDliZG1sTjZKckhNVkV4Z1l1NS1ISjcwTEhHTXphSXFnRkZzaTZ3d2dPbFp3amNpLUxsbGhURm9RNEFndWFIVDh2TkRJUnI3aG1pTGFRbzVtRUJOcVFCUEZzQktLWEJKOHk2dklEQjdRR3Z5ZEhEVkFmTmM5WlpzbExmejRJYll0SEpFaS16bDJZM1ozRjVFQUp6NnJV?oc=5",
       "pubDate": "Sat, 11 Jul 2026 13:52:00 GMT",
@@ -124,6 +124,42 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZV9mbUFnMjhQbzBxVmQ5cVh4enFPRVNOdG9ZbEQyckYxOGFkUWVBdkZhMEhXd19GUXRpVlFQeTNldWthaVNIaWpZRXhWckdkOThYckVDV0ZQLWpkYzVSOUFXVVJzS0p5RGl2elR4Q1BRLURSS2xVaUF1OEowLVJmcU1zSGtBLVZtaFdkLTlkWXQ5aV93dERUOUVvSG1yZFBUbGlDcERBUEVLalNmTjdzaDlKYw?oc=5",
       "pubDate": "Sat, 11 Jul 2026 13:52:00 GMT",
       "description": "Metro health officials confirm Nashville’s first case of measles this year fox8live.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Metro health officials confirm Nashville’s first case of measles this year - fox10tv.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0Q5MTJ3Q0IxdmF0bHpkaVc3VDBtbEFZQVIySlhhaDN4aXlCbjFmNTJqT0F0NDBnMHRhZHdKZFEtR2liN3FpUERCNWNGSkkzMWc3R29Ob0U2SDNKYzM3Q1dzdnE1Z2Z3XzEyUWhsZUx6TTZENURQZ1FuNUtPMzJQNnVtaXdLLTlvaUN2aTVSbjhPRGJsTXhGaUFmRFRTOTRuWldrcUJ6UG9KZWF0dFBOamFR?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 13:52:00 GMT",
+      "description": "Metro health officials confirm Nashville’s first case of measles this year fox10tv.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Metro health officials confirm Nashville’s first case of measles this year - WDBJ7",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPXzVCWjZyWTRLclBpQmpTbzFIckh3anRERW1MSHlRQjNReTNJclZhMVlCWXNKLXRCVk52ZjFvdElNV0xsa3JDOW9FcFM1QlJ1ak5GWmRsZGJ4ZEs2WUtkWW1BTWVjRFNUc3Nlcll6Q3hGaU9BWl90dWxSMHNlbVFEVklqQWJvNTVjdG5IOHhRbVRkYVB4Q1NoRV9Xa3pQTHRPbWJtUVh1RTh2bk84TTRr?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 13:52:00 GMT",
+      "description": "Metro health officials confirm Nashville’s first case of measles this year WDBJ7",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Metro health officials confirm Nashville’s first case of measles this year - KCRG",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQV9FOUhydnNDSkkyblpWY0xZdkUzbHlUS28wNkNmOVpNdXNMaUR0eHdEQk82X1cxMjR4c0hIRTZnRk5iMldvSF9TSEw5Vm1yR3VCVVpDcGJueWhvWWV6TkZnTGlnaklTS0ZmR1hsTV9CM0dLeDJMbUhkUWJfNXVSRWJiUEw1Nzl4WHZkOXpQcmFLUFlLUGZMTklzbFRkWVBwZk1sOWlqamV6U2otV3c?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 13:52:00 GMT",
+      "description": "Metro health officials confirm Nashville’s first case of measles this year KCRG",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Metro health officials confirm Nashville’s first case of measles this year - WBTV",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMlIycG5JQUNwNFhKcVZQWTNPX3ZyY2c0bjJhQXdkWVZTR1F1TC1NcEN6dVctenliUG04RVlJUVlSbl9lejdySkdPU3BITnFVOVY3QV93Q3M3VVdnZFgzOEgySTd2NFh3aW1RWU5PeHdLVHR0Rk9CNVVWdGhkdzlYQjhuQmFibUpyTXM2a1R6dVV4VWJLTlluN0s5VjNiZGtEU1A3UGttTTlPa3hHM3c?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 13:52:00 GMT",
+      "description": "Metro health officials confirm Nashville’s first case of measles this year WBTV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -237,24 +273,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Metro health officials confirm Nashville’s first case of measles this year - Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOenQ5WTJvY2t3N0NKakNMTjRNUC1VVW5qcjF0LWZBZ1dodi1GLXNpLXI0NlVGMGl6MnVCTkYzWjBVR3dXZmw0VVBKLUo2RWxUWTlMZlhmRG5CeTRPa1dCS01hdEpXMGpEUWllX0JlSnRUVjZKa3BmVFhNREstMkl1RHdGd3cybm1CR2YxeHl1aXpoUHBOb0k5RmFlZDkyU1Y5Zm1WcWtxMUtZeDJtWVRxY0F0QzJSQlhzUkdIVWRn?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 13:52:00 GMT",
-      "description": "Metro health officials confirm Nashville’s first case of measles this year Atlanta News First",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Metro health officials confirm Nashville’s first case of measles this year - WITN",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdU5jQXhjd1F0bi01T1F0WnZ2Vmh4NXktUTRBSGN3Uk9QaFB5SFdzQ2l2bVJVd3pENUxmY2pjY053amM5bzRueUN4UGdyT0lCU21WZjZvY3ZrWXFKMDh6TFg5WGxxcl9SZFlnZXJpTXo0U3g3Y1NqRDhlR2ZERFBfT0swbmg5RTZGX2dqNTZQM09wZU5kQTdWOEVhWXNTLXoxTG93dV9XWUotVkRQaHc?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 13:52:00 GMT",
-      "description": "Metro health officials confirm Nashville’s first case of measles this year WITN",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Iowa's first measles case of 2026 confirmed in Polk County - Iowa Public Radio",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDZTcTdncjZuSncyYzdBNVZrT0ppX2Q1NlZFTmdIdHpwbV9seEJpelluemFYSjMwUjFLSElFVVRSRVdUX0ZsVmNRcC1ncjBDOXJ6TUtPTjA5TVpKalBKemhSa1cxQ0haNG1FU1VOZ1M0Ymp3YXVRWFY3Tzl6WjRhWHQzYkZZZk1QQktubDlWWWVXTGhBSEFGa1V2enF0ZGhtZEpwTVAxWEpCQVZpVy1wSnQzbG05WDdDRmo2alBiamg?oc=5",
       "pubDate": "Sat, 11 Jul 2026 12:00:00 GMT",
@@ -318,15 +336,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Tracking U.S. Measles 2026: 2,200 Cases Put Elimination Status at Risk | National News | U.S. News - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGdtejlVNzBVQ3VILW9pM2hjWWdOVWR4SlYwU1VGOHYxMVNzNEZieHhXUV9fZ1JEMS1LWEtYV0Z4RmFORF9yQUtEd1FIOUhqQTZ3Y2tTdVotZDBWRi1wUkNTYXFLOGJEZHFrY2VIeTJVWkIwZWNGUl9GQWxmdzhHLVlmQk1SQ181MHRsaXNCVS1wZw?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 20:25:00 GMT",
-      "description": "Tracking U.S. Measles 2026: 2,200 Cases Put Elimination Status at Risk | National News | U.S. News U.S. News & World Report",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "ICE detainees quarantined for possible measles exposure at 3 Arizona facilities - KJZZ",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZEJqb1FFeGd0cF9BdC1ERkVic0NxQVAtaUVFMGw1TktZcWQyZ3JMdDRUelZOOVdKR2dkME9CN1ktU3NHY2Q4dG9IaFVwZk1NVUJVNnB0RDg4dEc5a1hHN2xQVDNqdzlyVlFVcHN3MFhvUi0wMnZabjVmMmg1VTM1ZlZLQlZVRHo1TlA3N3Z5RGNSQURSTFNvOFI2bGczV2hZb1RtcVJfSEh4ekpJMTlwUXo5d0VjM0IzRF94ci1WOTk3Wkk1?oc=5",
       "pubDate": "Fri, 10 Jul 2026 20:20:00 GMT",
@@ -354,15 +363,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Study shows how toxic RFK Jr.’s change to measles vaccine is for US toddlers - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3ZsZ0M3VEJHV3hQNkV3LUpxdXFqQUdlNjJGQlFxZnRMQzZ1X1ZTS2lia0NZbWpacjNGQ1FYTVcxY3QtLS1jRDVBd19UbDhoUTJ5RjhvY2RsNnJWSk9rdEtkNWdxWE9heFlkZ1FLWVZZNE1lMGVsQ3BLM2xNdkVPT2RSeFhqcGZkSFlCbVlVRzZFcjZPNWRoa2l2Z09ORXctRzJzRldOcUJ4XzRsZHpteVdUWnNjZ09tOGc?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 19:25:04 GMT",
-      "description": "Study shows how toxic RFK Jr.’s change to measles vaccine is for US toddlers Ars Technica",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "England measles cases now 883, 3 deaths reported in 2026 - Outbreak News Today",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFBMWHdjOUlMeFFsY3hZd3pwRy05QU1lYVpqLUtyWHBBUU5tZnJLX1J5MG5mSDlCcVRHb2NobEM1TTVBUjZUQ2FZa203Z0tMb01mVnRDSUlOVjBzamVrNlRGZFV3OVZjVDRmWUthTDhiMFNKZHE3RDg1SzJtdGt1aUNWUzVUdw?oc=5",
       "pubDate": "Fri, 10 Jul 2026 17:52:20 GMT",
@@ -385,24 +385,6 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40eEtlRWhFRmstX2VPNlB0VXNlLUhkdTdJdlc1UXNqSEJBT1pJaGFtRENUaVNVa1dtN2FPdnhZUlRzZ2Rza1p2M0pVM0dIWkZlT3REZTdVOHp0Q256cHpXUmdRcE1pRnVxVjR3dmp4eEphRkhEQjJlVS1B?oc=5",
       "pubDate": "Fri, 10 Jul 2026 13:42:00 GMT",
       "description": "Measles through the decades: Iowa and US data show historic declines and a recent resurgence KCCI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Iowa health officials confirm state's first measles case of 2026 - KWQC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPek4tMlpaREFRTEtNaHc4a083aUhFQTd5dTFtcFpuVGFoRDZKdS1QZlF2cUt5Z1JWUjVoV1RHTUxHLUFwak0tSml2SlBWekh3VGE3YXI2MUlWcTVhUlE0YjVINC14LTItNzJUeml2VWliSmdwdFBqbGt0Z2VwVlZhMkpyNW5hcTdldGdpY3JrUUJYeGFLdERBUGpiWDlQWS1j?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 13:18:53 GMT",
-      "description": "Iowa health officials confirm state's first measles case of 2026 KWQC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Over 100 cases of measles now reported in the state, most of them in central Pa. - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdF8xSzhfLUJKdmREc0Jwc0lITU9ZZG5kV0lmQlRPY1RMXzRZczdTUldJLXpNRFJ2Wi01OGRWMUJfTWNGNVJlN0JMV3ZGUE9pMHJMYWx2WU1JaUN3OG8xVW1YcXZNWGNOZHFaMDFnVzVwUmxubjVoQUh6ZGtpaVNxNUV0R1diUHpScmVEa1hZUTNDUTZJcXV5Y2hYb1E3RFhaejVIZVFpckpoMXNBSjBNeFo2cnpzX0liYWN4QVc4eEk?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 12:45:00 GMT",
-      "description": "Over 100 cases of measles now reported in the state, most of them in central Pa. PennLive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -453,28 +435,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Two more measles cases were confirmed in Pennsylvania's Chester County - Hanford Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNa09fb1BsdHJyNlJUdENYdWJ2YzBQZzZXakRhWGhFUVctZHJjU2dKc05ialN0X2c2aXJaaElfUm4xZ0V6TERuX1JQakhNWm55OXlaUzQtT0x1UlF2eGw1aksxWkduTWtqeVdHUTRsUElIT0U3SnROaDZUOHE3WHo3Q3pjY1BlTWgtdTAyTGVqX3lfUmsxUUhsQVZ0bU1JeWo3aXBBN3dmTkpFMGNxSWVsRHluRmozMExWQ2lBU0txdTdPczExZnlDUXJDN3VUckR0OExaWTcyOWN1Q3l6QzdwQ3NoNlRtVVFsN2hoTFM3cUFIY3PSAfgBQVVfeXFMT0g1TUptV0t3WTZMcnVFLVc4YUJwWDNwUzN6VTVNV2VSakJXV0h4U0MxUjliQU5hbkJtMlg1dUg5am9zbjlMc3gxMGZJZGItS2wtSFRQQW4zZ1VENlVSQmtEYjl4QTBqdEx3RW0wWmdpeE9KY3JMNThmN0tvY1AtZ0c0TUtqUF9FMXh5Z1pjVW1nRzR3TVBtdzVZT3ZuODFHNERaRlA5NkVWZnhVSDQwYXEzc0o4QTA1UEotNktHNUlGTVkxdV9neHZCZW0xaGo4U1BMWWV1ZjU1V2hVa1oydkoxeGd1ZDJwbjR2Qi1QTjFYekU0RVVxNjM?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 21:23:00 GMT",
-      "description": "Two more measles cases were confirmed in Pennsylvania's Chester County Hanford Sentinel",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles outbreak confirmed at Arizona immigration detention center - Arizona Daily Star",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWDRaMHlKWERCeFNuWWFvVElHMHZ0Q2tKbk1OSjN2MDNQckthdE1meTZvR0M5VEtzS0dKWlNMejh6bU9vd0diNGZOX1FrMXpDY0NOOGE0enVrYkxBY3JxcTQxZ1JtbkV1TTdHVUdnc2lUU0dVTzF2WDZMOWdXeGsyQWE5b3QtM21lU2ZncWYzMA?oc=5",
       "pubDate": "Thu, 09 Jul 2026 21:02:10 GMT",
       "description": "Measles outbreak confirmed at Arizona immigration detention center Arizona Daily Star",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "VDH: More measles cases reported, ninth person hospitalized - CBS 19 News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb2ZvZ3V0dGw2V1pjcEh5MEVHWVZnbjE2NTR2ZmVPUnE4TUxfM1hIYW9WNHFWM1dmTGpWbi1OejdVWVdVTFVERkhmaGdxWDZvallkVkh3alFoNGdsaGo2VTFLZjNBUVltR2ZKcFJZamV4cVlINXNSY2hOeFI5aTQ3S0VtMHFRUUdhdTVBM1NudGVGMUhpX1dITDRmeGhKZ19EdlhZTTZqcU43b2M0aTFwbFBoY0pGaFZlX205SmFQeGdtSVhmWXZ5MTRaOGhrM1FOS2xUcQ?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 20:45:00 GMT",
-      "description": "VDH: More measles cases reported, ninth person hospitalized CBS 19 News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -493,15 +457,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2toVjdzdU92ODZzMW5DU0F4TUpWbmR6SXNmcTBMUmJBVFlieGFFTjBLc2hCSU1sTTV4NElwdEtUVDQwQjYxaFowY2JNS3g3ay1FVFNBYlp5RWVmdFV0ZzdQQVlOa01pUVVFSHUwVlZDT3hTNWFaV2c4R1VDcC1VYmE5NTZjTkNSbV9Kb25OVzFWeE44X2hB?oc=5",
       "pubDate": "Thu, 09 Jul 2026 19:24:32 GMT",
       "description": "Pennsylvania measles cases surpass 100, now spreading in 7 counties Pittsburgh Post-Gazette",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Tucson refugee sick with measles in ICE detention - Tucson Spotlight",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY1YzaF80NWVvcDczVl9qVGhFNzM3UEdPUkZPeW1uS0ljZWFEcEl0cnJqSElWR2plZ1NVTEY3UlRESG0xVzFZR2dsbE9HcDV2aVdnRFNhbmhWSERLWWVOV041ci1yeWc5T01HLXRhbGJCTXV3Y3AyaFl4RzI4YTc1U3pWUEppOFNJSXc?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 18:57:09 GMT",
-      "description": "Tucson refugee sick with measles in ICE detention Tucson Spotlight",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -579,6 +534,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "measles - Encyclopedia Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MTWF1WnlQZ3pzaVBoUkRqb2VJZnNuT0xKcGdSRExEMzRFSWNHa3RlRG9nNGlYTkhvQnNXS1NldUNtdmppa0VaZHZLbFZPUVJPUTIyTw?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 05:00:00 GMT",
+      "description": "measles Encyclopedia Britannica",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Iowa's first measles case of 2026 reflects a changing reality for doctors, health officials - KCCI",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWF1cnVmTGlTUXlRYUR1bE4wR3UweG0yakRzLUt5NGU2aHlLOVBZQ3U5Y1hqY0tLRjBkbXkzRTBmbUlXazB6WFNwT3VwVFVZWW9yTzNLM2NJeTBWNnVPNzZ6cVl4elRWUVFaWkZaeEQzNkkxQzVqcUVtdm5fOXI0TnVjSDg5Z1NJaWNYSE8zZkNDdw?oc=5",
       "pubDate": "Thu, 09 Jul 2026 03:25:00 GMT",
@@ -619,15 +583,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZNmw2SVdmOW5tdjdSZ2VQU3FzRmFlT1FnUnc1WFVFZ25Qa1REdGhISHJlNEJKb1hlU0VRdzRuVGhqRy05dWdHSlFRT1cyRndXMk40N2FjeEJjRjBsWUo2TVZ3OHdJUW5Gb1g0bU90bUxyQ1hZLTBYanZjclZXM0HSAYQBQVVfeXFMTkZoMm9reHJvaXRyMjZLeVZNaUFIRnpwRXZKeldDUUpWaTEtMjU0bmxLVzJJam5ZRW1mU1duVVpXOWVuN3Y5ZmlyVTlwaTBreG9KMmR0YUNpck5YSC1qa0dCUkJnRUJFQ0t1MzkxTnNETGdZdzQtTzdoR085WTJmLXFGUlFs?oc=5",
       "pubDate": "Wed, 08 Jul 2026 23:05:17 GMT",
       "description": "L.A. County confirms measles case; possible exposures at LAX, rental car shuttle KTLA",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Lancaster County leads with 60 | Pennsylvania has reported 101 measles cases this year - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcmd1QlViOUtXNUZxYlhENW5fYS1lQ0ZNS2pkNVpLcFYyTzlxaDJGWEl1Nk1QSmVwYThMMTg2cE5nV1IyX3lrakJyV3lrOGRYRERxRUVJMTZXdU9lSzJRLWlLdV8xRXFPTFZudUMwQVhmR3dYcDg4emJhTGhwWVdIZDNCZjRNc3RhU2xoRWEzV3VoRU1kNEFtOEJ4M185NGpCSW1VOXJmblNOQQ?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 22:29:00 GMT",
-      "description": "Lancaster County leads with 60 | Pennsylvania has reported 101 measles cases this year WGAL",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
