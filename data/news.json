@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-07-14T19:40:18.880Z",
+  "updatedAt": "2026-07-14T20:33:18.191Z",
   "itemCount": 86,
   "items": [
+    {
+      "title": "Measles virus detected in wastewater from the Sedona Wastewater Treatment Plant - Prescott Daily Courier",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQkUxOFprbzAtUXlzRmhkMUNtdDcxY2JiaVJtVDVWNGFFekRiNjdfOHRMVXphcXZOVnptWWVDc1NnOU5fOGhpS3FNdGRsZkM3TFNwcWJpN1N6Nng5SERIY2poc3ZrNHhsOUtibVVFQjZ5QjhjVEthSEtGbHB5UWxnNEl3MTVTNnIyZUNiR0tUMTF2dFFxTlJ3SFVicEN4VVFQdzEzNlFPaS1CX2x6OURQaVMxSHp0SHpqb0U3UkNMVURvUmYwUy1DVHFHYXE1NmRqb1FNZTVVZnN1ajZpSE1tNE5IVFA1NlJIUWRGMlNhOTE?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 19:28:00 GMT",
+      "description": "Measles virus detected in wastewater from the Sedona Wastewater Treatment Plant Prescott Daily Courier",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Fourth measles case reported in Teton County - Buckrail - Jackson Hole, news",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ackxvcU1CTE1rOHYwYVdqaGVCZ1Z5U1pqQXpLYzJINWRTRDJiYk5id1lzRGZnMkw2SVd6ZDJvSXhibXFyS0xPWGZFUFdfeVZQRm84MXlSdHlJYm9EdDBBXy1IczJMUmMyN2QyVzRYOWVuQXZ3?oc=5",
@@ -88,15 +97,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTk9SNXVWb1J1ekh5VkJYMEc3OGdDRks0M2ZxREcwLXZKTU1UMDZ1dGdYRmZNekxwMkpqbnBnMmQwcS1VTzc5eXgzeE9yUkszUGwwQWtvd2U4YzlMaDRGYnU5OEh6Yk1zZlN2UTFQWmdONWZ1aTZLX09LbVc4RWFRZzJHUzAzRE9VYmM3Qk9xRHQwNUMtZFpYRWdnYw?oc=5",
       "pubDate": "Tue, 14 Jul 2026 16:36:33 GMT",
       "description": "Mexico Reports Sharp Drop in Dengue, COVID-19, Measles Cases Mexico Business News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Middle Tennessee measles cases prompt health officials to warn residents about exposure sites - News Channel 5 Nashville",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZERiZEZNWUgyODh5dmJwczhFSkhLMGRsN3hkUElPem96cEROMUdKeExfNjBNejhvSm5ucUFIaGZXRC1qRVlDd3dQNlZkOGlVNW9kQkJ1b193bVVFajNXMkVzR2psNmctR3NwNFNvSklUb2ZWN3k3YkRndDNrMG1yb0p2OC05bVRGeDhCWGI4anFzQjFENUhQM3FJaGJXNnVhcHVydWFKY2pWQUpHekc1STcxUHhJNklaeUZsdmp4Y1JvNFBDc2c?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 16:32:52 GMT",
-      "description": "Middle Tennessee measles cases prompt health officials to warn residents about exposure sites News Channel 5 Nashville",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -255,6 +255,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Middle Tennessee measles cases prompt health officials to warn residents about exposure sites - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZERiZEZNWUgyODh5dmJwczhFSkhLMGRsN3hkUElPem96cEROMUdKeExfNjBNejhvSm5ucUFIaGZXRC1qRVlDd3dQNlZkOGlVNW9kQkJ1b193bVVFajNXMkVzR2psNmctR3NwNFNvSklUb2ZWN3k3YkRndDNrMG1yb0p2OC05bVRGeDhCWGI4anFzQjFENUhQM3FJaGJXNnVhcHVydWFKY2pWQUpHekc1STcxUHhJNklaeUZsdmp4Y1JvNFBDc2c?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 01:20:00 GMT",
+      "description": "Middle Tennessee measles cases prompt health officials to warn residents about exposure sites News Channel 5 Nashville",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Oregon health officials identify 3 Providence locations as measles exposure sites - KGW",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR21KaGR4UjJfdmxxb2wtaG53SlVXek5LbUVTTTNXbjdzUFBPZGdvai1OcG53WjFobkNvck1LNVVQb1ZMM2M0Zkh0dTVMSTdWcDBnMF9MRWVSd3l2UHM0OUYxMDhBV2VOQUxVdVQ4QzNzbmNBN2ZhR3hXTEx5WkdyYU1BYTVUaEd1Nnpsa3IxSlRHTG5ocFFMb1ZFVEJUcF9hc1l6QWtKNjUyaG1vcHdnSmZsR1N0QW1hbERlbDBzTnhFODVzOUhmOGt3?oc=5",
       "pubDate": "Tue, 14 Jul 2026 01:15:00 GMT",
@@ -313,15 +322,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXM1ay1ROV9WcGNCRFBCWFZERG9NNks0RjFmMk5Xb2VFSHdEMlluak9makRLQ1c0a1FlcURVVUkxQWkwMWU3V3VoZllwWnFvQzFTVHlGQ0dsbFp0T1RzOTk5TzRaNWx0dklRcVNyV1ZLdVd5ekRmYWdwSzNacnEzYTc5MjhJbGtTMkgyR1RGcXhTVVFjSm5SdnJFckNBdw?oc=5",
       "pubDate": "Tue, 14 Jul 2026 00:28:00 GMT",
       "description": "Three Providence Locations Measles Exposure Sites JAM'N 107.5",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Health officials contact tracing measles - WKRN News 2",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb2VzbFdaTDIxb1lTSGprZEZfQnVFcGlDRFZtSXNyZWFxS1UzVDZCeWJwT0I5WFFUWXQ0MG5uWnBWOVJTcVdGamNlRF8tc3JzZGUzbDgzdEk5cUZ3WUhmY1VZVXBxS19Hdm1fTC1BSEIxRkZLQ09hdmw1bmt2bTBPM2dPaw?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 23:09:23 GMT",
-      "description": "Health officials contact tracing measles WKRN News 2",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
