@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-07-15T06:57:11.448Z",
-  "itemCount": 83,
+  "updatedAt": "2026-07-15T07:47:00.472Z",
+  "itemCount": 86,
   "items": [
     {
-      "title": "Six cases of measles confirmed by Wyoming Department of Health - Oil City News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVVlMRnJqUjZCUmlVTEdBV1o3MENYWi1mUndPMllHWWF4UVN6UkVOczFfZ24wUzBOcjhVWlhIOXZtWlBLLVliNDVoaEJSay13Ykw0NkdLXzluZk1SUmpmUHd2MjFKMkZXUjhWUkZKYXhoVWxPM3F1NXZKd2U4ckxON0RQVEVEQklYN3lmMUd1VkoyNzQtbkNNU250YXVXcENrREthLVpLbkstQ1dUa1RKT0hB?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 03:41:33 GMT",
-      "description": "Six cases of measles confirmed by Wyoming Department of Health Oil City News",
+      "title": "UN warns of cracks in global immunisation system - France 24",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONTdiQXBxTTRiOW5UNVlrRDluR1VSaFhlSlFkN0lZQTJqZUhCVVpDNkllTThKSDE1UVJfeTlNYWNWTlNJVDZoemU3RDBBUGRKanhvWXhNVmZHSW1DTEtFMzI1SFk0T256bGJoY0ZmUWpVMXQzdVlsSmltMS1nR3hKQlFDaTNaOXdwSll5UFVmTnJXRmNnTFNUeXloTQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 07:27:11 GMT",
+      "description": "UN warns of cracks in global immunisation system France 24",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Six cases of measles confirmed by Wyoming Department of Health - County 17",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd1I1RXdqdUNwb2lOcXJVS21ZUzVGd0I0Rkp3b1ltd1lBZDQtRGNVeXJuUlNFalJVWWdwcktDX3hFdnVJcTFzR29RbGkyV05yeG5yWFRjemd2OWlGM0N1RFZQcm9DZjRmdUNkdGNQdVVPa0hZVlVvX29hcm1MZUNjMGhXOU1YLUVmaVF3cGNIYTFkdHE3YUpLRkdiOA?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 03:44:32 GMT",
+      "description": "Six cases of measles confirmed by Wyoming Department of Health County 17",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -264,10 +273,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "What are measles? Officials tracking exposure in Philadelphia - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVkc1WmRsREN0cGk1NThFMkF3eWRUdXJYNDh4aXJpcENYaXc3ZEZScFpOYkdHNmZiRDQteGp5LVBkZTFZMHcwNzBCUEVVNzl2NUFTLTYzOUtrSllmWVVtVkFaZ0NicjZIUDNfb19ESWdaUElxSHhSazFjS0lxLUYyTERwUm1WZmxmcHZuZ1VGaUdVNVYxdmtURnRyQVQwemRONTV6cklPcFdKUEE?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:26:50 GMT",
-      "description": "What are measles? Officials tracking exposure in Philadelphia Yahoo",
+      "title": "What are measles? Officials tracking exposure in Philadelphia - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVmxQZW1ZM2pCRVZJTF83YnRNdXF4Y09pUkFrTEF3OHQ2MUs2ZnA0bUp4dEx1MHVaZHFCSmk5MXE3Wm9qbWR1TFhzSXhBLWhFYU8yNHp5enl3bW55ZWxRSTdldm1LVjlTRFl2QjJjTjhhWHgzQjRmay1JVDhmNDEwQWZWYjhndEV2Ql9JS1JRMVpzMHdPTUFUR3hSV2dIQmRDcXloc204bkFMNkV4dEFMTFgxNG1kOEN5RnlIZWNKQTNWSlR4UGZuOThVdVNtX0xkVENfM0k5RGtzZkJIc2tVWVJ5VG9RQ2J6MHJMMQ?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 13:26:00 GMT",
+      "description": "What are measles? Officials tracking exposure in Philadelphia USA Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -349,6 +358,15 @@
       "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPUnBFRXBEMEJ1M1gxNjhsOHFGTEZwOGg2YkxNejN4WkFPNnRieDhBcVdmc1dHUkpMclVCQW9XX0FOWWhYOUhzYXNEU0RVWWs4S3o2Ynl1QTBFWXhSYjBkU2ZsY1hPNUpwdmNGMzViRUZJOFBGQlFVQ05PRGotemdQMUpZMWtuT1EzRF9NU0dnaHZDZmNha1E4dG9DMFVzb09LdUdJbW1FY1VBX1NGZzRCa19IY1NvVWdkQUxCcXRRT0hhdUl1dDZiYjZCOW1jekZNZy1kNE8zdEM5Z1htTDVlLTJHNVZTTkt0TlF3WnlsVUpiWFRkZGx2LWFRVGdtQkxPbVpGeXkyVk9wbVNveXFCY0pKWXJFZ1pQNFpBbjZrbi1ndWxzTUFWdUxXTnBFUQ?oc=5",
       "pubDate": "Tue, 14 Jul 2026 01:01:42 GMT",
       "description": "OHA lists new Portland-area measles exposure sites at Providence clinics and ERs KATU",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "OHA identifies 3 Providence hospitals as measles exposure sites - KOIN.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1l6Yy1vRlVVc3RXR0V3NzdtRlY0VW1XTk1RcjhDSVBvN3RpSWNRLThTTFpOOURUU01welJPQjRadkdNMU44Mkdhdi03NGc3TXN2U3VEcnpKeFd3V21vanlGQUl3T1ZHbWE2SkU0dW8ybVBGN3ZxaExzbnlQVExEbnhuSmI1U2VBUFZZOUUwSFpHakJyNTRMTHcxNHBhd9IBowFBVV95cUxQX1NyVnJyME1UaE1YNzRnUWNZT3lVZWJPM1RyRW5xR1A1bEJLajFONHpjbGowcklWNTZsRE41X1BsT3F4ZGd2SFJHZ1plOUJoRXI1M01zTWY0ejdHSm1BUWVOOHlMcEk2WTM2RU5yWDFDM2lPc1hiXzNVRG9Sd0pULVNpRkZRM1BPdDB0NlluenZwQVdub3Nka3FKZDc0dEEtU0pV?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 00:53:36 GMT",
+      "description": "OHA identifies 3 Providence hospitals as measles exposure sites KOIN.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -574,6 +592,15 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWERiSVpVM2Z4YllRSzVYeG1CMUowUUVNU3FZZEItTHlrWnk1Y1V2cDhLeVBBT3FZTzJBakg3Y0o4U2pqbG9kOVFITE1kbWdLanNIME5lSmpVWFJLUDhYakh2UW5NS2REQTVBRmRDS19lUThBNUIxWXNwTzlQNW1wd0IyNkM0d9IBiwFBVV95cUxOT3ZNV0Mtbl95TmRyOWVzVDZ6Rk9TbG1xRnUzNllRRUk2QThlTmk1UnFPZUtiekdHWGcxWU9YbDQ0dTZhcjZyR2tCdTZHZk5rcHBoM00tVC1aMkt2QWZZM3J6RzdXTlVuVzdCY3NCaTFvamk0Y3laOGRLcklyWW80aDBCMFBnak1Qa2hj?oc=5",
       "pubDate": "Sun, 12 Jul 2026 17:59:10 GMT",
       "description": "State health officials warn of potential measles exposure locations after second recorded case in Tennessee WKRN News 2",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Health officials confirm Tennessee’s first measles cases of 2026 - WREG.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUi0wR1JsbnU0VDRsbWNabE1vb3g5TTFMWEdIVGdJOXlXNEpDWVFLWWR6U1ZrQkZUUmZqSVg5cTNwN3FGOU5IcmhlenRJMjM1S0poYlVZQzlNcnJNUWlmZ09pazFDa2NqVEhyLV9DRnY4NnhfVE5MT2xMcW4xZGM4NTQycXBpVmhwNVZjMF9Sc9IBlAFBVV95cUxPeVUzeDZzaXFVbkNONXgySF82VkhNUlNCS19oUzNISlVsRHdRN0Z2MWV5elhXbVVtam4tdVh4VkpKVDNOUy01VXY5RVhqQTZRdXlKSkVUZmZ6bnk1Snk0TF9Weko5ekRNbElhT0U1bEhXc2lXcDg1QXpYMm9IdDJtaV9vWkdxV3F5UlJUcWlWWmJhSXAz?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 17:34:20 GMT",
+      "description": "Health officials confirm Tennessee’s first measles cases of 2026 WREG.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
