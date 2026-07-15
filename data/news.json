@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-07-15T10:45:42.262Z",
-  "itemCount": 83,
+  "updatedAt": "2026-07-15T11:42:50.880Z",
+  "itemCount": 84,
   "items": [
     {
       "title": "As measles descends on Jackson Hole, parents, providers worry about vulnerable babies - JHNewsAndGuide.com",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNN2RsRlh6aGQ5OWc5QlJ6aXVsTE5VWHJSRVJnODlabXpJdG5MU0I3MzZMUVV6SURMSkRteS1xRGw2QzFURWVzdXNhbUx1S01xSUxTcElVOU9pMVBvOGVNZnhJM3pHc0FVVERRaUtDV0l3WUlXaGVQNXY4QlJwYWc2aEpPV2ZQYmgtS3hUVHh2bzhfQktPMnJmTjE4dnRYQ2J4UURibVJ1blZjN3ZEV0lxT3V1dEZTbGdGWjBLQU5TQnlxbW1Sdk84Z0x1STE5REUwZUNJVFp2MDRPMGsyZEJ0VGJlMmE5al9tX3lpb3ZXNXhiSENUb3RpOXVIc1dtMEk3bGlDZndER29Fb0hkLUJn?oc=5",
       "pubDate": "Wed, 15 Jul 2026 10:30:00 GMT",
       "description": "As measles descends on Jackson Hole, parents, providers worry about vulnerable babies JHNewsAndGuide.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Middle Tennessee measles cases prompt health officials to warn residents about exposure sites - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZERiZEZNWUgyODh5dmJwczhFSkhLMGRsN3hkUElPem96cEROMUdKeExfNjBNejhvSm5ucUFIaGZXRC1qRVlDd3dQNlZkOGlVNW9kQkJ1b193bVVFajNXMkVzR2psNmctR3NwNFNvSklUb2ZWN3k3YkRndDNrMG1yb0p2OC05bVRGeDhCWGI4anFzQjFENUhQM3FJaGJXNnVhcHVydWFKY2pWQUpHekc1STcxUHhJNklaeUZsdmp4Y1JvNFBDc2c?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 09:21:33 GMT",
+      "description": "Middle Tennessee measles cases prompt health officials to warn residents about exposure sites News Channel 5 Nashville",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -57,15 +66,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Updated: Measles reaches ‘community spread’ with fourth and fifth case - KHOL 89.1 FM",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SM1BGVnRVNm1qLXRMRTJlSEtWQklKa1czNWROcHMyRW9xWGhIcUNiUFF2U2tZemM1R3RPSzUwMlAyWWV1T0c5WmpoU0pjS0dTT1BVeGx1V2lfcXlJTTFHbzFqa3E4S1ZjcDVFV2QzaFRsUXQ0aU56M1JR?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 23:29:35 GMT",
-      "description": "Updated: Measles reaches ‘community spread’ with fourth and fifth case KHOL 89.1 FM",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles return to Tennessee: What East Tennessee families need to know - WVLT",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVpGNmJYUFpKNnItWC1FSXlJdi16Ykg5QUJHUi1RZXNSZlZHM0lTNkY2ZDJmN3hnVTcyRU83dERJZ0VYbzRqWUswcnNhS0dBYUs1ZTB1dXZ1SS1scFhOcklDSzdfZlROdHY1OUxMQWptYVo2ei1uU0N1amZId2lDY29ad0JMQzV2bFk0WGEySlFGZVBrSkFuX1Ezcw?oc=5",
       "pubDate": "Tue, 14 Jul 2026 23:14:00 GMT",
@@ -88,6 +88,15 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOEQ0bldWbVRDREZEaFZ2bWdENlg0RkRmMUR3Qm91aHZreVJrVzllMU8yS3lncXYxVEtpeVQ4WWdSUmRQdW1mN0N6ak0xR0Q4anpwMkVtMnl5SVJBd2Y1eFZfTExXU2tFY0tVZzZnSzFYbVNxczZZQ1pSNUNDeV9US2tBQnVLZEx4aVMtRDFzSk13eGFDS3RJ?oc=5",
       "pubDate": "Tue, 14 Jul 2026 22:46:31 GMT",
       "description": "Five Teton County Measles Cases Confirmed by Wyoming Department of Health Wyoming Department of Health (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Updated: Measles reaches ‘community spread’ with fourth and fifth case - Wyoming Public Media",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjVIa25KeExnWmY2TU8wbjBsUE5ZUzVJVmVfeHdzQk00OVFtMzFVOEZrc3A4WWZ6T1FsdUoybHZWdUFJUFpzNWZ2MHJYR1Npb3lEZnAzWjV0clk0d0lWMmpSQXdrVlBKeUdsNlJRRG1aM20zLUc1aEhmR2xQV2J2NllUTGJkWW5teDE3WmlrSU8ya2g4VU9GNnphMDh1VVFucE1uV3JLREY?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 22:41:00 GMT",
+      "description": "Updated: Measles reaches ‘community spread’ with fourth and fifth case Wyoming Public Media",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -255,10 +264,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "What are measles? Officials tracking exposure in Philadelphia - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVmxQZW1ZM2pCRVZJTF83YnRNdXF4Y09pUkFrTEF3OHQ2MUs2ZnA0bUp4dEx1MHVaZHFCSmk5MXE3Wm9qbWR1TFhzSXhBLWhFYU8yNHp5enl3bW55ZWxRSTdldm1LVjlTRFl2QjJjTjhhWHgzQjRmay1JVDhmNDEwQWZWYjhndEV2Ql9JS1JRMVpzMHdPTUFUR3hSV2dIQmRDcXloc204bkFMNkV4dEFMTFgxNG1kOEN5RnlIZWNKQTNWSlR4UGZuOThVdVNtX0xkVENfM0k5RGtzZkJIc2tVWVJ5VG9RQ2J6MHJMMQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:26:00 GMT",
-      "description": "What are measles? Officials tracking exposure in Philadelphia USA Today",
+      "title": "What are measles? Officials tracking exposure in Philadelphia - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVkc1WmRsREN0cGk1NThFMkF3eWRUdXJYNDh4aXJpcENYaXc3ZEZScFpOYkdHNmZiRDQteGp5LVBkZTFZMHcwNzBCUEVVNzl2NUFTLTYzOUtrSllmWVVtVkFaZ0NicjZIUDNfb19ESWdaUElxSHhSazFjS0lxLUYyTERwUm1WZmxmcHZuZ1VGaUdVNVYxdmtURnRyQVQwemRONTV6cklPcFdKUEE?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 13:26:50 GMT",
+      "description": "What are measles? Officials tracking exposure in Philadelphia Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -277,15 +286,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONER6X2tKdDZQeWFnRlMzZGhoOHFjRlNVV3N2TlFkVmQxUWRDVDdnUDBKUE1BbHlSSURUYTdsb0JqTjZFVE9wdWxUNzA1N3lJMm0zaTh5QnRKNElDT3psdVY4QlNsZlhHRVIwQWNYcjk5Q2NGV0tHa3h2QVV5TXNrbUJDTjl1NVVObWEzVWRmaXpkVTUtMzdheDF1S0JMbkwzU0JEN3FuR1NYaWhjUWRnb0hVaElfczNZbjBwalFtZ25tQnEzOEN6eGw1amZQVU8yWDFmeUV2enBCMFZpLWtsa1pUOVNQUQ?oc=5",
       "pubDate": "Tue, 14 Jul 2026 12:21:00 GMT",
       "description": "Was I exposed to measles in Philadelphia? What to know now USA Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Los Angeles County Confirms Seventh Measles Case: Check if You Were Exposed at LAX - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNejlkakRXN1dJSE5CRFpKbWFRUXBhWGNqbnpuSkNpaGFFS19uRUlWVE1JNVo1dWp2bTdJQVhicHNLWEFGeUw3Y0VIS2d2V1RtZVlSX1F1WnRjMEZLbUNJVVlvNjJEdFlMNEZpRnJ0Snd4THVmc3BUd3BHZENnd3BNdkwyTkh6eHpKdnRRNWJYaEdaTUl5bXhDbzRtUnVuVmlhLW1DX0lYZ2pRX1ZJeTBxSnREaC0?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 12:01:42 GMT",
-      "description": "Los Angeles County Confirms Seventh Measles Case: Check if You Were Exposed at LAX Medical Daily",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -313,15 +313,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNWJzelBxWWliVFlaRUlsSURBaEVQLTBUNjEyNU8tdWVNOHhlRHk1T3NHRTlPVnplcjA2cngtb3k4NWM4allBNHU1LS12dnF4dXRlTDh0UEh2NmJoT0JLVm51N3VzZUV3RW83NGUyMHhaQVdxSXRzMEY2ODA1VkVWX1l6RjNlbzhoN1V3QzZXY045aEhHSEthSQ?oc=5",
       "pubDate": "Tue, 14 Jul 2026 01:21:00 GMT",
       "description": "Health officials: Measles virus detected in Douglas County wastewater, no confirmed cases KMBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Middle Tennessee measles cases prompt health officials to warn residents about exposure sites - News Channel 5 Nashville",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZERiZEZNWUgyODh5dmJwczhFSkhLMGRsN3hkUElPem96cEROMUdKeExfNjBNejhvSm5ucUFIaGZXRC1qRVlDd3dQNlZkOGlVNW9kQkJ1b193bVVFajNXMkVzR2psNmctR3NwNFNvSklUb2ZWN3k3YkRndDNrMG1yb0p2OC05bVRGeDhCWGI4anFzQjFENUhQM3FJaGJXNnVhcHVydWFKY2pWQUpHekc1STcxUHhJNklaeUZsdmp4Y1JvNFBDc2c?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 01:20:00 GMT",
-      "description": "Middle Tennessee measles cases prompt health officials to warn residents about exposure sites News Channel 5 Nashville",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -417,6 +408,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "No new measles cases in N.B. after 1 identified in Moncton - CBC",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZVdwaFZkR0gwNUpNR3FSNlVzMS1CRWJ2akpxX21COUY4c0JkR1VOeFFORENOTURXYktlWmsxRi1yNTNQREp6N3d0RFV0R2gxbFZSV2hKQ2lNZ0NJbEF0dHlDX1dPdHVvS0ZTb0tFc3hRcG9CRWsyUlZDdTl5MG9IdjBUUFR1c3Zxd1F5cG9TRUVIVjA2?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 19:16:33 GMT",
+      "description": "No new measles cases in N.B. after 1 identified in Moncton CBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles outbreak prompts state of emergency in Teton County - KHOL 89.1 FM",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWGRWZFFjc09KREU0Z0d4TElQRUpPeFNMc1pHVVUzWHFaQjRmWHlqcWxFY1NQZ1V2dmlkMW1LODZ0cmQ1MHJqQUlkRWVYQnRsRnRPWUhsOWpOWXRrb2tkbm43Q1hwYlUySGpkNEYyTHJkLXprOEJ4NkhaN3hlTXNSMkxDblVBVnc?oc=5",
       "pubDate": "Mon, 13 Jul 2026 19:12:31 GMT",
@@ -444,19 +444,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Polk County health officials following up with people possibly exposed to measles - KCCI",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOHc2YkFqaVdSZDhrUmhDY2NOVUZ4MHAyVWZyQkVDMm5Cb1ZZWXVNMi0wWlRNWUkxci1sZ1JuOUdLOHhFbjdrdS1hTWFpNG04ZWx1c3hucFAwdmhBMTV4cU12NkpKN0xBNVZjdjZVV2F5WjVsSkxyd3R0c05HcDBrSXN4WFpVRVBiTXprdnd1ZzlxVmJ6VzQ1X3RZemxDRmdYSlFUTDd4VWpGaTg?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 17:44:00 GMT",
-      "description": "Polk County health officials following up with people possibly exposed to measles KCCI",
+      "title": "Measles outbreak declared following latest Teton County case - Oil City News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSlNTcjQ3ME5scVdKc1JJM2Z4QzNSYVRNQkFpbWxvbDVqTlM0UWxpbmRyVmJoOFlJOGN1ZEl5U0ZsV3doOHEwQVE5Mm1SeV9aRldhVFR3b1FvamR5NjdWX21XWGpCWnNXeGpEVUJIVEM4UVp2WWVNdzBkM3k0TGNJLU5FZTJFYWoxNXpoNk4zYWtNczVJNklNeTQ5bUx5al9WYURSUjNHZXRwb0FMLTM4?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 17:07:23 GMT",
+      "description": "Measles outbreak declared following latest Teton County case Oil City News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak declared following latest Teton County case - Oil City News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSlNTcjQ3ME5scVdKc1JJM2Z4QzNSYVRNQkFpbWxvbDVqTlM0UWxpbmRyVmJoOFlJOGN1ZEl5U0ZsV3doOHEwQVE5Mm1SeV9aRldhVFR3b1FvamR5NjdWX21XWGpCWnNXeGpEVUJIVEM4UVp2WWVNdzBkM3k0TGNJLU5FZTJFYWoxNXpoNk4zYWtNczVJNklNeTQ5bUx5al9WYURSUjNHZXRwb0FMLTM4?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 17:07:23 GMT",
-      "description": "Measles outbreak declared following latest Teton County case Oil City News",
+      "title": "Teton County sees third case of measles in ‘same chain of transmission’ - Buckrail - Jackson Hole, news",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU1hIaVFodEx1VU9CNU84N01MRkJrdTdpXzA2MkZhMTJJaUk4M1dOMGE3NnVUTFdsLWlNSERsUmtlNHFVLXUtbmVWcmduWG9zT09ZVllpbkNPbzkzTGEzc0JudGpMb1NMZm9MMURfR2ozOHk5X2tjQlZ6dWtEYXNVMVFwSDgtTmRQMGUtR1VlVEZKSm04VHc?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 16:56:02 GMT",
+      "description": "Teton County sees third case of measles in ‘same chain of transmission’ Buckrail - Jackson Hole, news",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -592,6 +592,15 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNG9GUmY4SXp0ZDhvQUN4TUxkZkt5eE1yWUZwejNQak95MHE4eVR5akJydTYzeHkzMjRFVjVJUHJfREhNZHZHUV9IcnFBQm8yTjBsZFIxSE9QT1ZRQzhFQ3hVVzJCVTY4QkkzS3gzNFZTVHRjTUxtLU1ELWdMTlNYRnhrMkZBZTZ5aTlPdUo2U2hFemZEX3ZDSGlmZXNWUG1nazUyN1JZYUdRQTBDbmpjNzBMcHFON0YyQTRSM9IBxAFBVV95cUxQbk84ODlkeG14Rk1GX2p0Mmp2QWpzQ3FDM3pLMFpRb1BlTXNyOUxCR0dwY2l6ZUpTSXdwOUMyb1pVYmdnWnVwSFA0LWIwelV2Vm40UWs3MUxLbWllRU9LUkVWSE5QREtYZ3JUeG1qMzA3blZqREFqZjFfanZMaXNzRlRaeEMxR3dwd0NVbmhUaEZBY1B1elY3bjRBVThhazN1NmFfanBnUWpVckJpOHNPS24yUUdyNmx4ZmYtejhORUNSak9Z?oc=5",
       "pubDate": "Sun, 12 Jul 2026 02:34:57 GMT",
       "description": "Health officials warn of measles exposure at PHL Airport on July 4th NBC10 Philadelphia",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Philly Health Department warns of possible measles exposure at airport - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0d4M2QzdkF3NUhNME1TQUhOSWs2V2QteFEtSjFQYm9aTmc4RW1GdTQwMHBTdmtvbHhhRDZ6NndSbWdXZnp6eVJ3N3dGWXFEemZMWmx0MnpGZUo2QnpKajFtSk5FUHppWTlONnRwUWtxVjk2RGpqaXFPNTZkU25iODdNaHVsck5rTlNv?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 00:13:37 GMT",
+      "description": "Philly Health Department warns of possible measles exposure at airport Inquirer.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
