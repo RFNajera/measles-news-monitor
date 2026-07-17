@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-17T00:51:16.164Z",
-  "itemCount": 87,
+  "updatedAt": "2026-07-17T01:46:53.039Z",
+  "itemCount": 92,
   "items": [
     {
       "title": "Teton Valley reports measles case in vaccinated adult - KHOL 89.1 FM",
@@ -354,10 +354,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Vaccinated adult contracts measles in East Idaho - Idaho State Journal",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa2FLQThtbGE2ZEI0UC1SZXhfRjRkU0dmTjc3d1Vyci1tZ3EwNEtqQlg4R0VHYk9GQkcxSjJGbTR5UnNZaW5VaWVfZEFVX2d1eVQ3c2k4OW5mTlNmNGN1UEQ3cWp2MlFNc0xNUnJhdmFEX1ZybGljYm5PYXd5UEpNVjJteDZpaVRjVTFWZXFSRVJLOVVwSzB6S0dBZXdlSGhjU0IxNWZiZ1VYQUhLMlFCY2NCSkdWM2tfVGZrUWFvVy1CSi1SRVZjNmZrUDBHYTAyRUc4d05oRFlPZEk?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 02:05:00 GMT",
+      "description": "Vaccinated adult contracts measles in East Idaho Idaho State Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "5 Maryland residents who traveled out of state have measles, health officials warn - CBS News",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EOXBpX0JqUVo2eEdLSnp5RC1tcDRMRTdjSHUtcURlc1VBVHJYZ3pzcVd5RkVpWEVFbW9yREltcnZOcFVER2xkSWhkeE5obEtoVTZ1OHpxTktXRGF0MHVONFVvcUVMc3M4elQ4N3NCbktXZ3N2UldVd0tkYlZjUQ?oc=5",
       "pubDate": "Thu, 16 Jul 2026 01:28:00 GMT",
       "description": "5 Maryland residents who traveled out of state have measles, health officials warn CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles vaccine walk-in clinic for kids scheduled amid ‘community spread’ - Buckrail - Jackson Hole, news",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOckxPeXhYNFdJcEg3bk5aU2Fqdk5DSW5pUWZqYTBfc1JGUDRKejI2RjQ2SFY2bXlTY0k5Vjc0allVdE5RQ2xseTRscWF3SlNPbWhMZkFxMFRZXzhQWndHdzdxRGpyVjV4aWNBWGl5c0FQQm9ISVhEY2FoZkwzcXB1Nm4zd1RyV3FxTWhwc1ZYZlZCbk5uX2hqaw?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
+      "description": "Measles vaccine walk-in clinic for kids scheduled amid ‘community spread’ Buckrail - Jackson Hole, news",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -480,10 +498,19 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Arizona Democrats press DHS on measles outbreak at ICE detainment center - AZ Family",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObk90ZGNpeFI1bFpYMjBPWTBuWTh0VUFVd0FqRVRILWR4WlBJOHhObjhPWlNiQjhzLWJfa1poTU1HMndyMU1QQjlERmlmVW1zeTlMZ1FOV25HQWhiYTBwSjlEQ21jQ1dXTlVmNHgwQzFiY0pOSG1lMkdZamUxR2lJUWwxVl9saE9ISE9ud1c2dXNPNVp3aDRyeWNic0lfWTRwVUNYOVJB0gG6AUFVX3lxTE5uN0RMS1BKVDJEQXJfSldDTzZiNEFQUl9pcEU3R3RaM1YwcmtLRzBRdUctXzZTVGNhTG9vYTVYX3lqeThLUXdkM1dILXc4T0I4eGpfWWxvRXBYcV9aYThmOVVtaVpzUFFHY2RFUHpVaDQzdnFZR2d4QVVkYmN2akxDWkVPZktBR3I0S3BmLW5kM1l1N3h1TG53YnFkeVMwdW45OUoxM25hUEc4dWtSanRMZ0xhZnA0aGljUQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 19:29:00 GMT",
+      "description": "Arizona Democrats press DHS on measles outbreak at ICE detainment center AZ Family",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "County’s fifth measles case emerges; vaccine recommendation expands - Buckrail - Jackson Hole, news",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdUdsTldBMHlSdl9IeEtmSmt0bFJTVlU1Sm8wZ3VHenFidThKdVNVM1JXcU14eElPc3ROVThNR29QSFhaYXRZQUEyTVNPVXA1LTc4Y3p1cUZnOEQ0RjZpT24yTkNLZDNKaW82SEpQQ1V2ZnhwSVJ4RjRXeEZRNUlwQkZhMVU2R2twVUFWdTB5X28?oc=5",
       "pubDate": "Wed, 15 Jul 2026 16:00:00 GMT",
-      "description": "County’s fifth measles case emerges; vaccine recommendation expands Buckrail - Jackson Hole, news As measles descends on Jackson Hole, parents, providers worry about vulnerable babies JHNewsAndGuide.com Six cases of measles confirmed by Wyoming Department of Health Oil City News",
+      "description": "County’s fifth measles case emerges; vaccine recommendation expands Buckrail - Jackson Hole, news",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -507,10 +534,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "As measles descends on Jackson Hole, parents, providers worry about vulnerable babies - JHNewsAndGuide.com",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNN2RsRlh6aGQ5OWc5QlJ6aXVsTE5VWHJSRVJnODlabXpJdG5MU0I3MzZMUVV6SURMSkRteS1xRGw2QzFURWVzdXNhbUx1S01xSUxTcElVOU9pMVBvOGVNZnhJM3pHc0FVVERRaUtDV0l3WUlXaGVQNXY4QlJwYWc2aEpPV2ZQYmgtS3hUVHh2bzhfQktPMnJmTjE4dnRYQ2J4UURibVJ1blZjN3ZEV0lxT3V1dEZTbGdGWjBLQU5TQnlxbW1Sdk84Z0x1STE5REUwZUNJVFp2MDRPMGsyZEJ0VGJlMmE5al9tX3lpb3ZXNXhiSENUb3RpOXVIc1dtMEk3bGlDZndER29Fb0hkLUJn?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 10:30:00 GMT",
+      "description": "As measles descends on Jackson Hole, parents, providers worry about vulnerable babies JHNewsAndGuide.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CSm90Nlo1aVhLczFhQ3MwSV80amFZNzd4WWZBbHFqbllGaXJ1S3psNFZ5YkxwbVB5bG93bTY5bnc1SEFaOTRtekd3ZVlmYXltT2lvYjRqbTNyc2VBYnE0WTkyYXpUT0k?oc=5",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
       "description": "Measles World Health Organization (WHO)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Six cases of measles confirmed by Wyoming Department of Health - Oil City News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVVlMRnJqUjZCUmlVTEdBV1o3MENYWi1mUndPMllHWWF4UVN6UkVOczFfZ24wUzBOcjhVWlhIOXZtWlBLLVliNDVoaEJSay13Ykw0NkdLXzluZk1SUmpmUHd2MjFKMkZXUjhWUkZKYXhoVWxPM3F1NXZKd2U4ckxON0RQVEVEQklYN3lmMUd1VkoyNzQtbkNNU250YXVXcENrREthLVpLbkstQ1dUa1RKT0hB?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 03:41:33 GMT",
+      "description": "Six cases of measles confirmed by Wyoming Department of Health Oil City News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
