@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-18T03:13:40.723Z",
-  "itemCount": 85,
+  "updatedAt": "2026-07-18T05:05:49.046Z",
+  "itemCount": 86,
   "items": [
+    {
+      "title": "Maryland confirms 5 residents with measles after out-of-state travel - NBC4 Washington",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWV0QktGd1prRF9GdkFNWGZmbDJJNWNTUVhBOUU0TWFkUXR1QzVNSkJpRVlxanhVUFFKaWJlcV9KaVR1ZEhqVTN3VDFZVDdYcEwtdGlNZkxUWVIwWm14cUtBbnIxZlFVblYxMWhKVjZuQkQ0cEl1UjIzZjROdzRYbGFsLW5zT3RZSTQ0UExxUkpJV3FsZ1hnaWlVZlpUU2ZGZzQ4engyMlZxQ2lIOFkxYkRlTVJyeTl3NS1j0gHDAUFVX3lxTFBpbGxXS0hoRTBLUlFLMWpxY09OakRSZzJ1Qmd0UkJ4emNDSVZqY3l4Q2FqLXFVZ1luWWRlUjdpb3YxQlp2dG9VZ3pEdy1zSTNUNTd2ZmF2Vm96a2lqWk5fb3F3ZmZpVG5ITWhVNmYzQUtxNzM3XzJTMmpPUjZVRU9ZNS0xQUdtNWlVTUdnYzBweGo1Tmg1bjF5SXZCYWRDVFZqcUJGc3B2S3A4YzZTSVdqUkVaQkhEcU91WGplQzR3eHNlYw?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 03:29:20 GMT",
+      "description": "Maryland confirms 5 residents with measles after out-of-state travel NBC4 Washington",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Maricopa County confirms more measles cases. Were you exposed? - azcentral.com and The Arizona Republic",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZUlXLXlwdHZyYVN6TjVXMy1pc2NXOWNaZ0luUEZ2eE45M1hRclE0LUlEN0owYkZHWV9TTGo4YzBUVkt6SlhxMlh0SVhEX0JtTzkycGtUUmF3TUd3NGtoX2xyRzVxN3pMcjFka1ZZeTRrUGJydHl1U0JsSFlkNjNPUy1rWGFCRGlDYWxuNEh0Yk1kMlhkaUFZeHdzaFRnUENEYmRxOFNseGZQVGhlLVdENlJ5QlNGcE00d20waC1nQllJR0hzTHpWcG1iSHE3R1l4?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 03:09:00 GMT",
+      "description": "Maricopa County confirms more measles cases. Were you exposed? azcentral.com and The Arizona Republic",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Measles case confirmed in Tucson resident; locations of possible exposures listed - Arizona Daily Star",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdzQ5RnFWQk5sRUp5Vm1pUXA4Q1F6dnljcUthRzh1d2REMFRtME1hNzVsWDNZNzVTa1ZIR0I0Tjh6MnNmb2hBTlRfTjJFWVZxb1l4R01RQnF5b0R5WC13WTRibUtSY0VnMEJkejJmNXIzNUFLU0s1LWdXXzFGU185NmhRXzV3QQ?oc=5",
@@ -48,15 +66,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Maricopa County confirms more measles cases. Were you exposed? - azcentral.com and The Arizona Republic",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZUlXLXlwdHZyYVN6TjVXMy1pc2NXOWNaZ0luUEZ2eE45M1hRclE0LUlEN0owYkZHWV9TTGo4YzBUVkt6SlhxMlh0SVhEX0JtTzkycGtUUmF3TUd3NGtoX2xyRzVxN3pMcjFka1ZZeTRrUGJydHl1U0JsSFlkNjNPUy1rWGFCRGlDYWxuNEh0Yk1kMlhkaUFZeHdzaFRnUENEYmRxOFNseGZQVGhlLVdENlJ5QlNGcE00d20waC1nQllJR0hzTHpWcG1iSHE3R1l4?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 22:53:00 GMT",
-      "description": "Maricopa County confirms more measles cases. Were you exposed? azcentral.com and The Arizona Republic",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Amarillo officials confirm first local measles case, urge MMR shots and symptom checks - KVII",
       "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxObmVNOGhjSFVKN0tOWXBBWTA2TFVhV25SRlpQbzN6MGdpYjYtN0VoUTBrcVEyd09lTmF2bzJKSEtSYXh0UThLRm5aUEJwYy05eWVqam1tWFhoTG1JTy1oaElfenpMZi00UUw5RzMzTEM1MlA4bExTM1JZUXRobmc0bnZyeXpoelZuNHVDOW5QeWJMWmxRQzA2eUJrVS1kenhFTGNsNkxQY2xaRWNxRWdkN0FxU3BOM1FHNlVWY2JRdzR0V1Y0RVZJeExLMmlLOWpZMUd2ODVLWGM2eDNBWXQ4SllyeUVaeVZ2S09SX041M0tId0IxSFRxMHNRNmd0M2lOVmFzTjB1T3drX3dFd0ppUGhGU09ocEY0UFdzdUhUWWdWYkdhNlc5UGxUMmlWblVlbFNHM0VnaERYS29sNkl4OUZsOEFfOFZXV056aTdGTThiNnlwVnJHaEJRaGM?oc=5",
       "pubDate": "Fri, 17 Jul 2026 22:52:30 GMT",
@@ -76,7 +85,7 @@
     },
     {
       "title": "Health officials warn of measles exposures at Tempe Marketplace, Surprise Walmart - AZ Family",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekpUVmhudmFyR0tUT1NBREtoRTZfM2VJNE4yODlOX2pXUnl1RndnTUVaT3JrTnlvYmNQUVFGQ25OTEM2a0llVmhPQV9uV0ljYVhSMGRIZGFwNnM1SEN4cS1LVGE4X3RDT041UnhVTWszZDBrUE5idXlqWVZvMmhvYm9lNFFLLXhtUzRkbUhQenlqMGI4Ul9lZVBQd1h1NUJ0YTZNY1ZDNjRha1lsMm1PYQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekpUVmhudmFyR0tUT1NBREtoRTZfM2VJNE4yODlOX2pXUnl1RndnTUVaT3JrTnlvYmNQUVFGQ25OTEM2a0llVmhPQV9uV0ljYVhSMGRIZGFwNnM1SEN4cS1LVGE4X3RDT041UnhVTWszZDBrUE5idXlqWVZvMmhvYm9lNFFLLXhtUzRkbUhQenlqMGI4Ul9lZVBQd1h1NUJ0YTZNY1ZDNjRha1lsMm1PYdIBxAFBVV95cUxOWEF4SldKZC0zZU52d05Cd1FHNml5OF9LRnRRZWtRdHhIdWtCVWhJUmRRY3lLaURscGZuLTRnVjEta1lNc1NyWmIxMVBjdGpsd3JGeEMxMzBRY3JLc3ExODN2VFlmUS1NYUZQU2drdkxqdVg2Q2VubGJtZ3U1ZHFocEdTVXdoWnFER0hqeEFHRDAyZGdIYVNWUGR5Vks1eDctdC1JMHBFQ3pDZ05OMzdmSUNnc2w5dWNDVVdwTXBiN25jMGhC?oc=5",
       "pubDate": "Fri, 17 Jul 2026 21:40:00 GMT",
       "description": "Health officials warn of measles exposures at Tempe Marketplace, Surprise Walmart AZ Family",
       "source": "news.google.com",
@@ -120,10 +129,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Province hosting measles vaccine clinics after confirmed case in Moncton - CBC",
+      "title": "Public Health holds measles vaccine clinics after case confirmed in Moncton - CBC",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVjkwT3BlVEpBWXVtRU1xU0VUV2VudDhDNFI5TElFaVRjN1FoQlo2ZmFMMTlpbXl0NmFid2J6WkItWFhnTWMxalhyZV9icTRial9RSmpKaHp5RlAyZk50V1dmSnJWODdwemJyXzlPTHo1Vk9mUzFSd2RIWk9keVBSMVhMTjlBWGRnMUx2XzZTTV9OeFBnc3drQnlvQ0stQQ?oc=5",
       "pubDate": "Fri, 17 Jul 2026 21:05:30 GMT",
-      "description": "Province hosting measles vaccine clinics after confirmed case in Moncton CBC",
+      "description": "Public Health holds measles vaccine clinics after case confirmed in Moncton CBC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -255,15 +264,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Free Measles Vaccination Clinics in Yavapai County - MyRadioPlace",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmNHeTlzenZUalFkaVlKU2EyQjRwRnI2ek5LNndxcGNPaHdsQWY4M3pqaDU5RUhBZW5pcjNiWnk1ZjU1bUU0VWJPQzJFYWxiNFhtdTJMb2U4QTZ6WEw0OTZqUjRWUWdXeUFVa2QyZ01NYlNSUGN0VGRFMGxMR3NMbnFB?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 13:11:09 GMT",
-      "description": "Free Measles Vaccination Clinics in Yavapai County MyRadioPlace",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Wash your veggies: A parasite causing cramps and diarrhea is on the rise in Virginia - Virginia Mercury",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbERzWFFaaFJHc2ZvX0J3ZE5yU2pDVGtwOF8wUUlLb0U5Nlh3MlZRX0xrMDBZMll4WlhpRzduUDdGUzZUMXFIVTRUQndfT1E4VHZ1VVlJTUt0QTVNVEd2ZnlyM2gtb1dobzlERDhRWjQta3ZIYkxGeWM1dERMd2NuM1lUQmRDWXVNMlNMZURwU0ZxSTZ6Mnh0VHpIZXVDZzZDajdGcDhwSno0Vkg1Z09rV1VQRUJIR3c4bDhfdDZSdXU?oc=5",
       "pubDate": "Fri, 17 Jul 2026 09:29:17 GMT",
@@ -309,10 +309,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "VDH: Measles cases hold steady for seven days - cbs19news.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaC1xU1A4NEFLS2pwS2NtUi1leW9oRjRQbHE0NUN4Y2U1ejlCSHpMWjhGaWZEdFpnTk84N0hWUUd2dndLTlNYUmU5WU1xazhLWFVVSEQ4RnlIRVctRkIwUWJXcGFPZFU0SmhCSm0yQlc2MnJEYW53MUh0SnZrUWpsZUZ3QmFvWXhIR2dGNTJyNkNDZTRrb05LS1E1OUhaMEhnSGUzSUp4S3QxZXFjeTRsOVE1ZlZnR25MRE1tNFN4UXhPck0?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 21:35:00 GMT",
+      "description": "VDH: Measles cases hold steady for seven days cbs19news.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Studies Document Brain Swelling, Sepsis in U.S. Measles Outbreaks - MedPage Today",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0I4VTdnV2oyQ0RtR0V6RDFDVzlHNE04MTBmRVJaQVAyV1k4QmxpeEp1Wnd6WVQyT2hPZ29YTnl6VFc1VjBLaDlGZDlveVN5ZlhCUC1pOGFiWkt5U1hzTENZQk5DQXQ4MTBQNVlQMWdQaWVHSFZFNG0wRXIwZUNvQ2VYRGc?oc=5",
       "pubDate": "Thu, 16 Jul 2026 21:24:17 GMT",
       "description": "Studies Document Brain Swelling, Sepsis in U.S. Measles Outbreaks MedPage Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Understanding the measles virus - WAVY.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kUmJMajdUdGY0N2Q3aHVQenRheWt1Yk5wUTIwc0N5ZUxYQ0JQN0U3TWd6MFdGVEswX0txUV9WTUNGQW5fX3o1Rk53V0g2WkZ5cTc4Y0FvX05mM2lFcUZNVUFSdWdKT1B4OEHSAW9BVV95cUxQUDR6S1BWUlNYVmRsQVAyUU94T1ZFNEhzV0pWZTktQXJfeFhLYTJaR0VoZ3FYNTU1RVd0V0wtYmh4TDgtRFhQUkd2V0YxeEw4RG8yYlowTWdQbkhjVXFNaVAwLVhWODJmYS05UGRVRE0?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 21:03:47 GMT",
+      "description": "Understanding the measles virus WAVY.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -520,15 +538,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObk90ZGNpeFI1bFpYMjBPWTBuWTh0VUFVd0FqRVRILWR4WlBJOHhObjhPWlNiQjhzLWJfa1poTU1HMndyMU1QQjlERmlmVW1zeTlMZ1FOV25HQWhiYTBwSjlEQ21jQ1dXTlVmNHgwQzFiY0pOSG1lMkdZamUxR2lJUWwxVl9saE9ISE9ud1c2dXNPNVp3aDRyeWNic0lfWTRwVUNYOVJB0gG6AUFVX3lxTE5uN0RMS1BKVDJEQXJfSldDTzZiNEFQUl9pcEU3R3RaM1YwcmtLRzBRdUctXzZTVGNhTG9vYTVYX3lqeThLUXdkM1dILXc4T0I4eGpfWWxvRXBYcV9aYThmOVVtaVpzUFFHY2RFUHpVaDQzdnFZR2d4QVVkYmN2akxDWkVPZktBR3I0S3BmLW5kM1l1N3h1TG53YnFkeVMwdW45OUoxM25hUEc4dWtSanRMZ0xhZnA0aGljUQ?oc=5",
       "pubDate": "Wed, 15 Jul 2026 19:29:00 GMT",
       "description": "Arizona Democrats press DHS on measles outbreak at ICE detainment center AZ Family",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Understanding the measles virus - WFXRtv",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoUFlydlFwVDBoSVpxS29uOTU3SFREc0pxUmpLT19Wdy12d0pvNDJrWmNpeUVFUDNzUFpxSTE0OWU5Q2xmNGVXaVRKUnV5WnRWMGVsclNmYThmSHFUdVBacURmRUo5R3REc2k0ZtIBckFVX3lxTFBUXzRtdk5td2NSQzNaNjVrU09vcEtyM0tQdU5scXBTSERudjRiTENBcUloY1NrTzItM2g0ZEp6UERwU1FoMUg4cmxFdUxNa3hMYUhWQlRQT1RuS0pQOEJJWXBHT1NlTDdSbm1LdWhDb3Vldw?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 16:26:22 GMT",
-      "description": "Understanding the measles virus WFXRtv",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
