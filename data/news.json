@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-19T07:02:06.330Z",
-  "itemCount": 79,
+  "updatedAt": "2026-07-19T07:50:16.970Z",
+  "itemCount": 80,
   "items": [
     {
       "title": "THE OTHER SIDE: Measles are us - The Berkshire Edge",
@@ -48,10 +48,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "New Cluster of Measles Cases Identified, Plus Multiple Public Exposures - Maricopa County (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90eldOMlh1Q0drX09Sd0lZb2ZQMnIwS3VkNkpsSUt4bGRfcVIzOFRMRjRDeFlxRERpUVRKZGlhQmhSVkpXYWdhcFUyTlJTcFFwMFNuSTNkOHJUc0g2ZXc?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 10:54:02 GMT",
-      "description": "New Cluster of Measles Cases Identified, Plus Multiple Public Exposures Maricopa County (.gov)",
+      "title": "Measles case confirmed in Tucson resident; locations of possible exposures listed - Arizona Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdzQ5RnFWQk5sRUp5Vm1pUXA4Q1F6dnljcUthRzh1d2REMFRtME1hNzVsWDNZNzVTa1ZIR0I0Tjh6MnNmb2hBTlRfTjJFWVZxb1l4R01RQnF5b0R5WC13WTRibUtSY0VnMEJkejJmNXIzNUFLU0s1LWdXXzFGU185NmhRXzV3QQ?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 02:38:02 GMT",
+      "description": "Measles case confirmed in Tucson resident; locations of possible exposures listed Arizona Daily Star",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -97,6 +97,15 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUlhhN2VzeDR6S2ZEZHNPTVJtMHFCR1FnY3VKazJIZjMwYVhTcWdBN1JCSmp3OG1zLTRPYWdXUUFCdGk1MUlSNlVQNHU0TjI1Z3U4Wmc0SGtfQ2s2dlhGaUtzcjJvdGpnSlVBYng0VVhhMXFuazUybzJYZ010SzZyS3dGNjA3NzBZaWdQdEZn?oc=5",
       "pubDate": "Fri, 17 Jul 2026 22:24:50 GMT",
       "description": "Measles: Multiple new cases reported in Maricopa County FOX 10 Phoenix",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New Cluster of Measles Cases Identified, Plus Multiple Public Exposures - Maricopa County (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GS2pIazM3V1paV3pYTzc3Z2RWbHhRYUd4ak9DMkxuWlNfNGlGT2p1TlZMY1hxT1BEam5fWXc1bDFnOUJueUwyaVBJa1puYzJrTTFtZ0JRN1VJYTFrVS1F?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 21:44:18 GMT",
+      "description": "New Cluster of Measles Cases Identified, Plus Multiple Public Exposures Maricopa County (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -300,6 +309,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Maryland measles cases rise to 9 after travel outbreak - WBAL-TV",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMEZnN2hiT1FyZ25yVTVqcDZRd2FyLVhVcTJYdjdCTFZZSGlwcXo0eEZ3clJYbm80RVZSblVwMlB0T0pjT0FsRlVlN1VraEh6X1dJYTJEdE5zUjVGYjRZQmF0NWs1VEtzanRVdUxuMjNwT2Eza2xWQkczLUFkOU5hSEhSSGtIZlJEN3NJ?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 16:43:00 GMT",
+      "description": "Maryland measles cases rise to 9 after travel outbreak WBAL-TV Maryland confirms 5 new measles cases, bringing year’s total to 9 WTOP Maryland confirms 5 residents with measles after out-of-state travel NBC4 Washington",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Most measles patients who sought care at Prisma Health in South Carolina were kids - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYmt0ZFktN2x0S3RSQzY0aVM2MURyLXRjOE5qdlowRTRkZVkxaHYyclBIX2N4VFc4azlrTEpwQWpmZmE3NWN2OGNsWDN4eUVrVVNSOWViaWhQRGk2MGZiZFMyS1cyUDJ6RmNyczc0VEpvbGY1Y1U2cmxVTXhfV3I0ZENBZl8wbnkzV2ZkMVR3WEpMUFlYbmtKRWxSTDByNWZaVTZjTkVNemt3bzVkbktjVA?oc=5",
       "pubDate": "Thu, 16 Jul 2026 15:49:00 GMT",
@@ -312,7 +330,7 @@
       "title": "Measles is on the verge of a national record. Here’s what it means for Maryland. - The Baltimore Banner",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjNnZHpxaE5Fb29mWk5EaUdMSGJYeDZuMktTSGVlWk1fLWFqSkNOaG1vVVQyQ0draXIyRnpoMF91OHVndzIxU2JlMS1YRlVVa1dGd2FxbVZ5ekV6V0FUQnAydGN5NnZoT1lDVlVweExkOV9KakR0Ty1GdzNVM1ozUU9IV19FUnRyNE9KUnhKVGV2dXdKODA5ZVpuRDU0NkRDLVE?oc=5",
       "pubDate": "Thu, 16 Jul 2026 15:44:00 GMT",
-      "description": "Measles is on the verge of a national record. Here’s what it means for Maryland. The Baltimore Banner Maryland measles cases rise to 9 after travel outbreak WBAL-TV Maryland confirms 5 residents with measles after out-of-state travel NBC4 Washington",
+      "description": "Measles is on the verge of a national record. Here’s what it means for Maryland. The Baltimore Banner",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -354,15 +372,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Maryland confirms 5 new measles cases, bringing year’s total to 9 - WTOP",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVkZ1TUo4ajV3T3FLVXVGaXNUOVVUcGxsVVd3Qmt3WENleC1POE5DdFlyNURkQ3d5VnZxMktxZDVleTJZRnk4Ynl1d3BublVMWUpNb3BuUlpsOGlfMHk0bzZsazVsQTFqYzRQek1JQzRMTGJhOHQyams3SlpXSkV6amVSdGFvRkluM3BKaEJSRjBnWldncGpmdmZUdmVBdW8?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 10:02:01 GMT",
-      "description": "Maryland confirms 5 new measles cases, bringing year’s total to 9 WTOP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Maryland confirms 5 measles cases - WUSA9",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWm9zMFVCYzRfSVZWZndaaDk2UFJ3Z05ZcGtpWTZ2WE45NlFld3VGdTRtOXdTa2FFaFBxMS1GWEhmdE1hcTV4a3NEcTd5ZnRBTEVtR1k3SlhWT0Jyb0pERVBoclpxWV9zN3VSWDM4aXhkTjlWWGxnSHgzeTRWeDl3aUlIamt1WU94TFk0WlBZczRFM1g3bjBrRzFlUEd6ajhnazVCLWN2X2x4WGRzREFRV2FqZEZnNFd6SzAwdEFXT25Sbm1MVFdhbTdWSF96eEJVejZ6T2kxbw?oc=5",
       "pubDate": "Thu, 16 Jul 2026 02:25:00 GMT",
@@ -385,6 +394,15 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXRldFZWMUp3Y3FzSGJiOTBGWmxtQWVuTFVsM2paT0oxLTBVLW9GMUg4a19IUExQbDVqVnRQQ1VOeW1VZDdwS1hjS0o3OWQyYm55WUxSZVJjWFB5VjlZSHpVbmxER0JfLXREY0dmWnJreTRsQjhKdDE0dDdhNGlYa0loSWZOZWFMaktCcHJ2Z183d3dmRW14dGpaRUl5ZlNLVFN1ZnlsZTRVZENBSlkyb29mb01odUw0RnM1WTI3SlM?oc=5",
       "pubDate": "Thu, 16 Jul 2026 00:37:00 GMT",
       "description": "Possible measles exposure at Driggs grocery store; health officials urge vaccinations East Idaho News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles vaccine walk-in clinic for kids scheduled amid ‘community spread’ - Buckrail",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOckxPeXhYNFdJcEg3bk5aU2Fqdk5DSW5pUWZqYTBfc1JGUDRKejI2RjQ2SFY2bXlTY0k5Vjc0allVdE5RQ2xseTRscWF3SlNPbWhMZkFxMFRZXzhQWndHdzdxRGpyVjV4aWNBWGl5c0FQQm9ISVhEY2FoZkwzcXB1Nm4zd1RyV3FxTWhwc1ZYZlZCbk5uX2hqaw?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
+      "description": "Measles vaccine walk-in clinic for kids scheduled amid ‘community spread’ Buckrail",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -475,15 +493,6 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdk1iQVFUVk1xcFlIMEFiZEo4SmtWdTk0M0V1Tl9nb1VsbVV0Q3hSV3EwYktmeF9FS09ESVJIdHRWMTF2NGs4djlCdERhWWlpTWJ3OVd5YVNyM211LVRkM3JYNFhHVDJYdVlrY3RVbTZWd3N6WW44SkF6X0Jrd0prR0RmZzJObFZsbG4tb3dLWjN6N1VWVTZUcWQzcl9mUnZyWjl3WXJmYm9TNWwtQm5lMmxfUDAydEpMdGNQUnpGbjhNdW5TU2dZeV9KRGxoVWlCX19WaUlZYWw5WVBsWUhkSXJERElDY05hdFhTMXRB?oc=5",
       "pubDate": "Wed, 15 Jul 2026 19:53:00 GMT",
       "description": "Lancaster County reps urge residents to stay informed about measles fox43.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Sixth Case of Measles in Wyoming Confirmed - SweetwaterNOW",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvX1N3bHR6WGU2Vl8yV1dIQ1k2Y3hFd1FkTDZpUkcwR2hnNVdUMlRJZUtuR05jeHhzUmstaDdCcWdUbW9FZWNsLWR2WC1jTVE2a2VBcDlRR1prUTJQZFE2QVE1VUU1NUsyN3dhdVJNeW1UQ2FROU81c2JBcGl4QQ?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 19:39:46 GMT",
-      "description": "Sixth Case of Measles in Wyoming Confirmed SweetwaterNOW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
