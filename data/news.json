@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T07:03:14.507Z",
+  "updatedAt": "2026-07-21T07:56:09.152Z",
   "itemCount": 74,
   "items": [
     {
@@ -57,6 +57,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles returns to back-to-school conversation as Georgia vaccination rates slip - WALB",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeXNkRWRGb2lMUEJ0X1VZVlJhOGkwVzRsTm80MktwX1k5c21KNkt2SkJnOFZDNk1ueEdDVUIzRUcxRDFaOUFlVFdleGtxTDRLUWJDRlVDOXVvR2FNaUlWQmc2V3M0cklOSHNWWC1FQVB4UWxpY2N5ODh4SUJCenBjOW5lSUdhUzlxTVEySjYtclg2TlVZdHBiby1pWmhJWkdmR1FxclRNU1RTME9kbE1BQTFuZw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 23:03:02 GMT",
+      "description": "Measles returns to back-to-school conversation as Georgia vaccination rates slip WALB",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles returns to back-to-school conversation as Georgia vaccination rates slip - Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOEhyN3d1MWMtWlc0M3lhQkItVG9vWERtQ2RobnpCN0ZUdWg4RzNTYWRxWWdOZGdIa2g0ajVtNHRrSnpON01Qa1lDVVBjZTlFbTJKbXFWU1pwdUJiZXN3UnAxUFN3bjktV1RxNVhZYXJXT2QtX0tTVFZtYzgtQzFYVFFJODBkYllobUtmbU1PNjVZM3lfWm81UExibzhOS0VJRHJYdjF3NkViTlhlRkp2TjdCN1lnaTl5QUxB0gHPAUFVX3lxTE8yV2dRUlJhUXFCVXk2YTlOS05LZGdiWnl3b2pqY05GOGZVai1vUS1qWGptb0Z3em9sZWxCZ212VkV0OXdZTzR1Wm5HaEZheGNxYndsQ1BSSkpBbFFOT0ZLYmhNeUJLbzRXZ2hJYzZjbWNMczk0MVh2YXlRM3d0VjEzbV9jWjB4NjI1U1M5dDg3Z2JXajBzMHZyaXBCTmZlM0hFQ0NtUXZDelhUbmJlQVVLdGk1c1B5RVgwckhKNDBtRnY4eV8wZ1pMdGpDUHpUUQ?oc=5",
       "pubDate": "Mon, 20 Jul 2026 23:01:00 GMT",
@@ -70,15 +79,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZzVsSDljQ1ZXdzZPcEZNOGw2clJFc0NMd0tPZE9QeE12SUg1NjBRTWtOdWd2ZFBUWGRrZ0VRYTNnUDZCZEZhNjkwZUxvblFYbEphaHNMZjl4d3o3U0M1U0FtTHVKbi1wY2NPLS1SSEJDU1ZFQXNtR3hmTFFybjF0UmhsVEZ0LVZrMHNBbmxZZ0hRUmtnWklvMkZnLXNHd9IBsgFBVV95cUxQeDhBYldrSEtQa1VfR1BTX2hBRnIyWjNmSHZqUk9sMkRsdGxDVnVudWRsejVRbHNvTnVUSXdFMWxtRFB1V3pxNk1GblhsZWRfY1VfX2RVcFlzSW91TXhCYWNOVXdYZGtXMzFrSGhQSVlJZnFLS0JFUHYwZUdlUzEyTFRlenZLV0owRXUwQ1VPLTNDVVRETVFnNE5STGtjcmJ1U3JXS01yRzJxOW9tSXQxWkdB?oc=5",
       "pubDate": "Mon, 20 Jul 2026 22:13:00 GMT",
       "description": "Ga. vaccination rates fall below level needed to stop measles spread WRDW",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles returns to back-to-school conversation as Georgia vaccination rates slip - WALB",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeXNkRWRGb2lMUEJ0X1VZVlJhOGkwVzRsTm80MktwX1k5c21KNkt2SkJnOFZDNk1ueEdDVUIzRUcxRDFaOUFlVFdleGtxTDRLUWJDRlVDOXVvR2FNaUlWQmc2V3M0cklOSHNWWC1FQVB4UWxpY2N5ODh4SUJCenBjOW5lSUdhUzlxTVEySjYtclg2TlVZdHBiby1pWmhJWkdmR1FxclRNU1RTME9kbE1BQTFuZw?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 22:03:02 GMT",
-      "description": "Measles returns to back-to-school conversation as Georgia vaccination rates slip WALB",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -291,10 +291,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "'Great news': Measles spread slows in Utah - KSL",
+      "title": "'Great news': Measles spread slows in Utah - KSL.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjM1eS0wMXB0NlkyN184SWZIUjZzY3Utd3hNeUtoNGJRRmxmcXdWMU9vWm43eXBtYmxpRjJIdkFNMDFBWm9pQVBseF9xTGllUkVDVkFFRzJvdUk1VlNDOTIwd1hzdUR0OTY3QlJoZTR0MUNjaHlJclpWcjRsdXR1SVhn?oc=5",
       "pubDate": "Sat, 18 Jul 2026 21:04:38 GMT",
-      "description": "'Great news': Measles spread slows in Utah KSL",
+      "description": "'Great news': Measles spread slows in Utah KSL.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -358,15 +358,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekpUVmhudmFyR0tUT1NBREtoRTZfM2VJNE4yODlOX2pXUnl1RndnTUVaT3JrTnlvYmNQUVFGQ25OTEM2a0llVmhPQV9uV0ljYVhSMGRIZGFwNnM1SEN4cS1LVGE4X3RDT041UnhVTWszZDBrUE5idXlqWVZvMmhvYm9lNFFLLXhtUzRkbUhQenlqMGI4Ul9lZVBQd1h1NUJ0YTZNY1ZDNjRha1lsMm1PYdIBxAFBVV95cUxOWEF4SldKZC0zZU52d05Cd1FHNml5OF9LRnRRZWtRdHhIdWtCVWhJUmRRY3lLaURscGZuLTRnVjEta1lNc1NyWmIxMVBjdGpsd3JGeEMxMzBRY3JLc3ExODN2VFlmUS1NYUZQU2drdkxqdVg2Q2VubGJtZ3U1ZHFocEdTVXdoWnFER0hqeEFHRDAyZGdIYVNWUGR5Vks1eDctdC1JMHBFQ3pDZ05OMzdmSUNnc2w5dWNDVVdwTXBiN25jMGhC?oc=5",
       "pubDate": "Fri, 17 Jul 2026 21:40:00 GMT",
       "description": "Health officials warn of measles exposures at Tempe Marketplace, Surprise Walmart AZ Family",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Maricopa County reports 7 new measles cases, bringing total to 21 - KTAR News 92.3 FM",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGRqT05VZlNLWUFlRWEyWXlXTXo0U2hVTVFWVzUtUWF4MUlIdmJXT1VkM2h0LWhtTEhSeUNXOXFCNEd5UTVWazFySVgyOVdSRFZEejVmM05sQ29uallqdUxLY01QcjU4NndiRzM3UjBQRjFGUE9tWU9neHJvdmtoZg?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 21:30:19 GMT",
-      "description": "Maricopa County reports 7 new measles cases, bringing total to 21 KTAR News 92.3 FM",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -493,6 +484,15 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYVNTcnRrSy05dnZYcVEwRi03RVJNUE1oRnF3LTBONzFZVkwyMXhIZ2w5VjR0YVh0ZVBTSFVyMWhEdVRxZ0NDZVFsdmJ1eXd6TzFnQ3dzMGZGWHB4Tjc2YlBtM01CejJxcERoVzRqUWFGblJtT2dUdUF5STBncFBmRVBiWUM3MzFvakpIVW51Z1NnUWVSa2VmX0pybWFzQQ?oc=5",
       "pubDate": "Thu, 16 Jul 2026 20:04:41 GMT",
       "description": "Two measles cases reported in Chester County as officials reveal more data on Pa.’s outbreak Inquirer.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases rise to 2 in TN; Hamilton Co. Health Dept. recommends vaccinating - Local 3 News",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMnBZS1NCd01tSER3blk5czdkY3VTc1E0eXFfcHNkdmdWSm4tUlJiRC1TMkdweEk5a3M5dE1IbVBtVGhOeHRtcGM4TDlfUDN5dUx5WVZERGtUNGgtWF9wdkVrS21wTTkyNFVOSnQyS283b01oTHNwYUR4RVpwVkRab2F3UklKU2RHMnpZUVI2OHpmS0pwbVpHTDhTU3BxeFZJUkszR25DT2U1V2dvZWc0WXdPVzFMUHVPbENCZ0VJeHJ6S21BT0JlVFp3M1RyMG52OG9hWFRKUmIwRnNLSDFmU09YRFhfS0xic1Y2RkZCWENrc2RxN1dn?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 17:34:00 GMT",
+      "description": "Measles cases rise to 2 in TN; Hamilton Co. Health Dept. recommends vaccinating Local 3 News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
