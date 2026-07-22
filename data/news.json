@@ -1,21 +1,39 @@
 {
-  "updatedAt": "2026-07-22T11:45:19.386Z",
-  "itemCount": 73,
+  "updatedAt": "2026-07-22T12:43:28.027Z",
+  "itemCount": 78,
   "items": [
+    {
+      "title": "US hits most cases of ‘world’s most contagious disease’ in 35 years — and it’s only July - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObnVHWGY1R25yQkcyZmVUWS16Z3RhaDVpMzgxOHlNblY4TE5wUHNMMDdoVENRaU1GSmxPWGpOQ2xTOGhPalZ4Zjl4WW9LMEtHSTBfMFk0QnFRTFdCWEhxZ2I4cHBWSnhfWGg4MTA5ZDByZVNHalhEZTdsbXJMZWFKQmgwMVVJeGpwMFFRbXJhNFhGRDBNTWhPNGY1a1R2TE9PNDdTSA?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 12:38:00 GMT",
+      "description": "US hits most cases of ‘world’s most contagious disease’ in 35 years — and it’s only July New York Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Utah's measles complications ranged from pneumonia and dehydration to sepsis and shock - Axios",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWi05OU5DcEU2TUJvejlGTkY3dkVBd21xUUloYlVfLUg0c1NpNkFiTjBNWUZ0YWI5VDN2dmRGZjNtVWlqQUR6dmJONmtacHVlX005S1JXMWFZUEVLdXhRN0o0Y1U4SU1LN3Rxa2s1anlmNGotRTI4bjNMYkQ5cHZKOENPWU5UMWRYMk9sMGVZcVZ6a3FzUzlfbnFaVWNBZw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 12:04:30 GMT",
+      "description": "Utah's measles complications ranged from pneumonia and dehydration to sepsis and shock Axios",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "U.S. Measles Cases Reaches Highest Level In 35 Years - WGHN",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVXBlb2hNUXpENDBMZGwwZ1JQbG9xVm1qRTNFZ2xxVy01TVJiRm9kOW52ZGFfOWtwRlRHOHloVmVqTHdleEZKTlJVVk1OM0NMTzhZS010Ty00LWtqWF9JbWM3dnNaeGQwQmxyLV9zLTdpYlhXSF9OUnR5UVJjYTZhZlpTZk15UFE?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 11:39:40 GMT",
+      "pubDate": "Wed, 22 Jul 2026 11:39:17 GMT",
       "description": "U.S. Measles Cases Reaches Highest Level In 35 Years WGHN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "U.S. Measles Cases Reach Highest Level In 35 Years - KFYR 550 AM / 99.7 FM",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdmZmUVF3Tk51V3B4ZEREZFpHSU1NSlpiWHl1S2k1U1M1eUliYWtrQXI2YnRraW1mbFMyTFdqQ214UFBLb3k4Y19GNjFkWWY1R0dDcE95bjNkUVRiQjNjSzJSR2pHd2Yxc3p5N2xhNWRjQlR1TzV0V1NxMFVxY2ltZUxPLVh1elFrMjhUcXNrc0FraEgwVGFF?oc=5",
+      "title": "U.S. Measles Cases Reach Highest Level In 35 Years - KOA 850 AM & 94.1 FM",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLXJDbUxGSU5KMXdfdkRhNTdKUC1wRFR6RzB5WnhTQVEyUEJVdEwzWlFMNm4tR0dGdDl2MzdGMkpacUtOanIwdndqSGctVllOVEY1MDA3d19PckM1eF82WFFQLUR5QjQyX2E1LTZYNm1tUjJ1X3NQWFk5Nkt4UHpBTlFjeXl6dU8zMnBUV0lfd0p2Wk5OMjNTeDJBUEd5ai1o?oc=5",
       "pubDate": "Wed, 22 Jul 2026 11:23:00 GMT",
-      "description": "U.S. Measles Cases Reach Highest Level In 35 Years KFYR 550 AM / 99.7 FM",
+      "description": "U.S. Measles Cases Reach Highest Level In 35 Years KOA 850 AM & 94.1 FM",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -102,19 +120,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "U.S. measles cases hit 35-year record with months left in 2026 - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHA1ZlpjRnE2SEl5MHRKZlhTMy1aN0lRT1lKZ240bUt1YkJxLXN6WVN5OTBXa2lCSU9kU1JRQXFodWlDVGJwY1NhenZCcGVrMzlDY1VaMWNPeEc2QnBqQ1lxdFBfQXJWQWlYVFFhWnZwM3VYM25zWG1oV2JlZUk3aU01eDBVWFNiLUF1TVN4RS0tZzNJNDQxNkVVLWQ4QTc1WUlIdGJFRDNYR00?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 06:18:37 GMT",
-      "description": "U.S. measles cases hit 35-year record with months left in 2026 The Washington Post U.S. measles cases surpass last year's total: Tracker Axios Covid-19 waking up, Cyclospora marches on, and measles is close to hitting a milestone Your Local Epidemiologist Measles surge is threate",
+      "title": "New measles exposure sites in Maricopa County identified - AZ Family",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWxqZVdHOG9Bd2JtclFKWDd2TlY3ZERxc1Z5a1daazNrbnBURElyN08xeEhlQ2tVQ29kVnh0VFRwSjNlUm5XMjEwbWlYT0VTYnVjb1k2Nl9pVDZVdXlGdVFKaXJNT3pZVW9mRUlhalRFVnoyc2hKSHhNRjNEOEprUHVYblcyamV3d2ZKWXhDeE04UHRiZDJDTWU5LUk?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 05:46:00 GMT",
+      "description": "New measles exposure sites in Maricopa County identified AZ Family",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "New measles exposure sites in Maricopa County identified - AZ Family",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWxqZVdHOG9Bd2JtclFKWDd2TlY3ZERxc1Z5a1daazNrbnBURElyN08xeEhlQ2tVQ29kVnh0VFRwSjNlUm5XMjEwbWlYT0VTYnVjb1k2Nl9pVDZVdXlGdVFKaXJNT3pZVW9mRUlhalRFVnoyc2hKSHhNRjNEOEprUHVYblcyamV3d2ZKWXhDeE04UHRiZDJDTWU5LUk?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 05:46:00 GMT",
-      "description": "New measles exposure sites in Maricopa County identified AZ Family",
+      "title": "2nd case of measles confirmed in Delaware - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM202bzQ1NmNfaFVRMTRGal96cmY5bllJYkVBQnZaN3F2ZUtNUkVaUnJBQVdLZHctTzJBanZMRlhDNDZheHV4UkM1Q1RYU3RRZHRDUnplWFpnNnFHaXFUdWJ0SFU3SGJKQjQ2dlpmMjZtSHd0d0t1WXoteWx6R2RneFZOQzVHck1SSnR6UjlB?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 04:20:17 GMT",
+      "description": "2nd case of measles confirmed in Delaware CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -138,10 +156,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "‘Truly unprecedented’: Portland area health officials warn of rising measles cases - KOIN.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPekc0VmFPbXZaVUEyQTNnb21pa1FQakdqVjRYeUpzTnZyNTVJaDB4NzY0M2hQNkhKR3lxVW5aZkhKdEFjVDBIQzBmWkpSZnJ6Y29VbFFSeGlCYjVkQ2t1RnhyQzZCVHNJTFMxTDBJNnN2Rnp5V092S25vODdXNk1XNVdoV0ZueGx1cktUTEpRQnJNWlA3dkNvSHM0MXdaSkZjSlAxVEZLdjFJalZ5U3dSSmZBcmg4c3JNMVFOeVNyLThTd9IBxwFBVV95cUxOa19XeHh5ci1uVVphcWtfRUNnMXd4cnd1WTIxdnhSNGV6QVJBc3YyNzU2ekp2TW9oMXprOVcwT1dtaThjZzNHeDJVMkN2X0VUenloRENyWG5TVm9TMXVfZldzZmw4Zm1LS0VWMVprakt3UUdqMUNCbi1vdVNJMl9MaUNRMWd2NGY1d1RDcU04LU5IWnhRdGlQSWpHZktlSVdXTHJuYWxJaUUtZC1zVTgyM1dROHFTWVlpbDZUajhudmJnWTkwTnRz?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 01:25:06 GMT",
+      "description": "‘Truly unprecedented’: Portland area health officials warn of rising measles cases KOIN.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Officials confirm three measles cases in Montgomery County - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00WWxMZklhRUttaGFNQmI4YXdIaGc4cU4wNGx1b2dhV3oxYTk3elUyaEFGZjNQM0Q1dDhMeWdxRmdoTS1qaUsyTXNXdGtLR2ZnY2lIQ1lsc0ZwcE1JN19JUTVYMHJESjNGRWROWHNlcDRDMk1MNm5QNnpaNUQ?oc=5",
       "pubDate": "Wed, 22 Jul 2026 01:17:48 GMT",
       "description": "Officials confirm three measles cases in Montgomery County The Texas Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "U.S. measles cases surpass last year's total: Tracker - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fTUJkWk1PcmVxZjNSVWdXU2laajgwaGRXcnhtbW1oZHY4djM0M0VUWjM5Z1IzWmdYWld0bmFESmRTcWRrX3FIUDEtWXlZbGJteHhPYUxKQUg3OVZ5ZWc4bldHaGYxWXZTMUEwMUZQREFBV2pmVEE?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 00:58:01 GMT",
+      "description": "U.S. measles cases surpass last year's total: Tracker Axios U.S. measles cases hit 35-year record with months left in 2026 The Washington Post Covid-19 waking up, Cyclospora marches on, and measles is close to hitting a milestone Your Local Epidemiologist",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -264,6 +300,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles surge is threatening even highly vaccinated West Coast regions, officials say - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQW1NU1FCcFNJVjRPVG5ZbDN5VVlOUUNWU1hEUjBTTUFOZ29xVG1WdTN3UjNwZnpTdjBOLUhHVF9laUFMWlA3emVudHE1X1dsYmtkS05LV3VILTFoQWlvcjBQaER5akZ0QzBET0x1bWFQeGthQnRSWnJIS2J0M0ZmOHlUbkptVVUweXJmQTNBSWQ?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 22:34:05 GMT",
+      "description": "Measles surge is threatening even highly vaccinated West Coast regions, officials say San Francisco Chronicle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Health Officials Confirm Measles Case in Traveler Passing Through LAX - MyNewsLA.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY25Ydk5hb3lRZEc5Wnk1YjNxdUltbVZmVEVjdlY5NnZWZVk5eE5sN21ITWhCX1p1eGs2X25WWVlhYzBGaU5ZMHpVLXhlWlluS05SdEVBdm1EdTVhenZmbDdUYmtORHpOSnJ3TW1oODFxTDlSWEN6WTFGZDZ0T3k3cHlCR3ZxbjZNUG9vQjhpZnhvVGRNQldmNTM5am5GX2g1VkN5TWVyX2p3cDg?oc=5",
       "pubDate": "Tue, 21 Jul 2026 22:30:00 GMT",
@@ -286,6 +331,15 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORXFDUWc4ZXlqbXJibG5mMkUwR3JEbXQ0X2o5MVNXOXVBYVZRZzdUX2VvVTQ4cEc1bk5NcWo4SlBja0lEalZ4UDdEMGN4RGFfMnlNbEJBSi1ndWpKSFptRmM2TVNTSTFUeGFINEc5SmM3TXZtNDVGTHp5ODdMVXFHdWlzMkFUR0RtUkM1NXk3bXRWaG1HUG9pY1BySGRZWFFOTGZqby05bF9BT1VDcUJsN0pWRUpjZGlvMWpscC1hWWY3M0ljWHFrc0dnUE40dXc?oc=5",
       "pubDate": "Tue, 21 Jul 2026 22:18:00 GMT",
       "description": "Delaware confirms second measles case, both in Kent County CoastTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "BREAKING: US Measles Cases Just Hit a \"Grim Milestone\". Here's What You Need to Know - ScienceAlert",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnk2R2dVWWtONFVfWEJMVXpyR1E1a2htelFyQ0Q1M0VJSjR4NFMxWktsZ21FMHFDb2p3eWhZUVlCUTB2TFpHenhZektzcnFxdzctNTlBbXliVnJ5WTRtdTRELTVRR0thM1dUTnI2VkEzVmZ6dXhuNzI4NGM4N2xoWGY4LTdPUWZlNXR5ZVkxVTZwS1Q0aWREaHF5V3gzeksyU0xXZDlYcS00UnZXZ3oyVlBnVThmQ1c3VW9ETg?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 21:58:21 GMT",
+      "description": "BREAKING: US Measles Cases Just Hit a \"Grim Milestone\". Here's What You Need to Know ScienceAlert",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -394,6 +448,15 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3Exb2pFbVc2djc2cUR4V0t5MC0tbmgwR0Foak93bEFMV0pUQzFYRFpqUFNfN0l4ODlzSDRHMGxidGlFWkdna3ZOR1JzWVJoS1h5eUxaazN2dThGTXBMckcwekF3dlhNbGpURVlhV2VBUUZ0dWxEUzBTVktGVGJObkNGeUt1emVFekhnMzJZQVp6R2NHQ1JHMWwwVXhzVDF1SmxhelQyTFhuLVVhd3RVUjREN1d1dTZXZHJCWU5PSGtrT1Fr?oc=5",
       "pubDate": "Tue, 21 Jul 2026 17:59:00 GMT",
       "description": "Measles detected amid Jefferson County sewage surveillance The Courier-Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "The US is on pace for its worst measles year in decades. Here’s where the DMV stands - DC News Now",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdXVQc01jaG9wZmczTVRMdDRwVFp6RWQtRnJxaGRrWUZBbTl1UGtHdDdkM3htWTFsdzNnZkpuXzdNXzVycGRMSkJ6SFJ6VC05NmZ4dF9xWUZDVzZwY0ZRd0NWX1hzVGUxWGVKSHU4emZLOG0tQmlHQzlXY2xpWGNtdzRJejFiUm85Q0tyWlZGODJQRkhqZmprOU8zeEprYUZxWmJOLS16Yld0WVB6Z3h4NFpLTXrSAboBQVVfeXFMTXBCTzBveWc2Ni1TS2ZvSXMxdU1rNzFiMl9nRVpCMDFVd2tlT2tLYkhLN0V3S1JnNW9rQ3NjdlE5MU9TR1EyanpkYjlRMENRNDBDM0JabFUxaUhldW5EdlB3YWE3eHJMamlNYkdLNFp1SnBKb09ySXJFc2VScUExbG1lelFyWndEZ0tpQnZVVU8xbnotMndxcUtsalJtcDdfdHc5VlVEaHZNdURTNkdHSzNqU1VFWUFYVXh3?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 16:58:09 GMT",
+      "description": "The US is on pace for its worst measles year in decades. Here’s where the DMV stands DC News Now",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -570,6 +633,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Will vaccine boosters be necessary as measles spreads nationwide? - San Diego Union-Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVjNRclFJMnItN3hRZ0VoUXl3bUM5VjhoUnVPN3JtOHRBVXlRVU5IX0ROUGNHSXJYYUdnM1YwLWNSblZfSjJqME1QX1N5T1hFQUI0STdTX2llR2toanJTS3JPRG5Qc3ZWVTZjb2c3ZFo0Tk5LMVFXXzVnUkJUUndNa0o5U2NsTVRzbXFYd2hwT2VYcVJTdGNrTjJfaDFobDdWUFM0eFF3a3F6TWFmVWdTMnNjcw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 12:01:29 GMT",
+      "description": "Will vaccine boosters be necessary as measles spreads nationwide? San Diego Union-Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "PA launches online dashboard to track measles cases - Reading Eagle",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWjEtRHhjbXM0UUtaZDN5anpCT1JVbVlHTF91Q3haVXM3SGpvMlZCV0ItNWNHMUE1OTdvYWR2Qm9lc2hNZURLeFBwU05jSTMxVHRzNDFQUFpuaE96Z2xYZXBwS29DRVFCcGpxRUJMLTIwbXdJTEtEWHAyaHNNVzRKdnVkZXhKY2dKMGpJZy1rNFltZ1JDSGZn?oc=5",
       "pubDate": "Mon, 20 Jul 2026 11:30:24 GMT",
@@ -592,24 +664,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbWtpWWZwS0gxZWFSMl9nRUg5RWNnX1FjY0NoZjlVUEZnTFlpVlBMbWctVVRvakZjbUhrZ1dsTjVxazRfdU1PanBCSFY1UE9Dc0UtdnlFUWVPdWh2c2RrRkl3aUgxckJxNldXZHFoS3VWM0hVXzR2N2h6UUx6b3lSSnF1UHNucUtPLUFkM0dWOTFHZVU2UW0xVnNrcnJ0cmR5N3FHbUFqdWFxbDNKU1NVbmpHblpDMXVJaTRfMXM2ZlE1U3c?oc=5",
       "pubDate": "Mon, 20 Jul 2026 08:04:00 GMT",
       "description": "York County numbers remain low as measles cases rise nearby York Daily Record",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "'Great news': Measles spread slows in Utah - KSL.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjM1eS0wMXB0NlkyN184SWZIUjZzY3Utd3hNeUtoNGJRRmxmcXdWMU9vWm43eXBtYmxpRjJIdkFNMDFBWm9pQVBseF9xTGllUkVDVkFFRzJvdUk1VlNDOTIwd1hzdUR0OTY3QlJoZTR0MUNjaHlJclpWcjRsdXR1SVhn?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 21:04:38 GMT",
-      "description": "'Great news': Measles spread slows in Utah KSL.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Maryland confirms 5 residents with measles after out-of-state travel - NBC4 Washington",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWV0QktGd1prRF9GdkFNWGZmbDJJNWNTUVhBOUU0TWFkUXR1QzVNSkJpRVlxanhVUFFKaWJlcV9KaVR1ZEhqVTN3VDFZVDdYcEwtdGlNZkxUWVIwWm14cUtBbnIxZlFVblYxMWhKVjZuQkQ0cEl1UjIzZjROdzRYbGFsLW5zT3RZSTQ0UExxUkpJV3FsZ1hnaWlVZlpUU2ZGZzQ4engyMlZxQ2lIOFkxYkRlTVJyeTl3NS1j0gHDAUFVX3lxTFBpbGxXS0hoRTBLUlFLMWpxY09OakRSZzJ1Qmd0UkJ4emNDSVZqY3l4Q2FqLXFVZ1luWWRlUjdpb3YxQlp2dG9VZ3pEdy1zSTNUNTd2ZmF2Vm96a2lqWk5fb3F3ZmZpVG5ITWhVNmYzQUtxNzM3XzJTMmpPUjZVRU9ZNS0xQUdtNWlVTUdnYzBweGo1Tmg1bjF5SXZCYWRDVFZqcUJGc3B2S3A4YzZTSVdqUkVaQkhEcU91WGplQzR3eHNlYw?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 03:29:20 GMT",
-      "description": "Maryland confirms 5 residents with measles after out-of-state travel NBC4 Washington",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -646,15 +700,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
       "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
       "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "CIDRAP Op-Ed: Measles isn't a coin flip—death isn't the only bad outcome - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTV9IZE9LLXNnc1lpYl9YTnFoeVMzNDM4ekdzSHpXYnFPYXpOWUVFWUYyLS1FM3IwVldRNTZwMV9hb2NwcWlvWl9Wa3ZQczR3N0doemFEdTBsVHFqRktOZExKcFpUN1ZHcF95X29oNTV6MHVaVjVzeW9jc2ZxY3ZwZzhyU2pWWmlQYWk5VkIwUmxaUDJUdmxIV2w2NUVmVjA?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 13:03:35 GMT",
-      "description": "CIDRAP Op-Ed: Measles isn't a coin flip—death isn't the only bad outcome CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
