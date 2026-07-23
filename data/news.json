@@ -1,12 +1,84 @@
 {
-  "updatedAt": "2026-07-23T14:53:26.081Z",
-  "itemCount": 90,
+  "updatedAt": "2026-07-23T15:47:00.673Z",
+  "itemCount": 92,
   "items": [
     {
-      "title": "Maryland Confirms Two New Measles Cases Following Out-of-State Travel - The MoCo Show -",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGpJSEtqYUF6aGYtek5IUHRTMHpkZ1JUQ3BZZ1FtOW82OEloUVh6Tmxldng3U1JkY0xNNzZKN2tlMTJfQVlkdDFQUzBMamRnSmxwNEFheHFzMUdQQno3T0ZmQ0ZCSW9sTU9fZ0RJcXlwSW1uZ0VKXy04amVtN0xjQll0bS1rV2RmWG5xUnhCWldYWmlpdkowTXpiSy1OdGNyelBGZg?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 13:40:33 GMT",
-      "description": "Maryland Confirms Two New Measles Cases Following Out-of-State Travel The MoCo Show -",
+      "title": "2 Southern Maryland residents diagnosed with measles. Check possible exposure sites - NBC4 Washington",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFlZMktkYko5R0FoZVRHTzNpSTVQeXJYd0VHOTE2SzE4OElkNGxEaVdna0ZGT2VaTklWQkk4Q01nU0xzN2J3Uk03Szk2N3V2R09hWWpRNENCZVdRelUxTEpSMTA5Rk9pbWhFcVBMT3hMb2hsQWU5eFdsVGFmMUNONmw4d1FWNGtaS2dTM3JJeDRFX3RhV3FNZGhUNDFZT3NodURqNdIBrAFBVV95cUxQa05HcEJwem1WbzcwVXdVZ3V4ZDV5MVBOdGlwX0NqdDN0dFRrcXdzajk3ZTVQVF9KcmlDaGh3SUxkcXFMR3JzV1ZGeWRvUERHdnJTZUJhS29LRVg4dkFjTThKZElIdElfMnZxY1B2ekF4SGZkUW1mWWdWRTRtbkhYb3AxTzBxbUZlYlNEVXBOQkF5LW5DTmNiS0hpdVFqT2p5T3dyTWhpM2FOYkRK?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 15:29:55 GMT",
+      "description": "2 Southern Maryland residents diagnosed with measles. Check possible exposure sites NBC4 Washington",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania Department of Health Responding to Potential Measles Exposure at Snyder County Lowe’s - pennwatch.org",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVi1tUk1UN3lpVUxQR0tMWkdqdjBNOWhHalVJZzVpaVNPSERqNUMxMjlfQm9zQ0RtdFlFOHI2TGhmcC1aWExjdzQteHFiNmJtWnd0ekRkbGFhU0IwcW5kY256QjRkTmYyUVBnT3FZN2hMcmpJTWVzdmFPdmh5U25VYjViUGtKUXJubE5MeUNHWmRvdTctTFBmQ0dzNmNNcm9SZVdQSzUxUXloWThuX1l6andRSDN1MGpLWGpxag?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 15:29:14 GMT",
+      "description": "Pennsylvania Department of Health Responding to Potential Measles Exposure at Snyder County Lowe’s pennwatch.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Two cases of measles confirmed in Ashtabula County - Cleveland 19 News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbkpPQ2lBd2ZnVzg1RlZTbk1YNUJhV0NWOF9CamMtbHpDc1J3QVB5X1JSNWQ2VTBqZ2REMkhrQ1VNeldfdFhlTGljZDRFTVBoekZVbmNycVZsdXhyem84YnkwVE94cktTTkx1RzBvaHRycnF6WHpyOUx5bTd1ZWJYY2dkNnh0cUEzamdxWdIBoAFBVV95cUxOWXNrLUlMdzB3Sk5RaHJHLVQtQkloekdMY1pSWTVwempuOFlqRkRwSElzSUlsUmU2R0toREZBalhfbHh0LTBtbzFNaUo3a2R6b2c4STlFUWJJTzV5al9OQmFtSXNCOThvZ1V3Q1NiaXY2M1luVmdSWEFKaGdNaHlaaXN4SmpJQ05ESWdvd1lMQm1rYWxlbXZTNmhhUVVlRXNf?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 15:25:00 GMT",
+      "description": "Two cases of measles confirmed in Ashtabula County Cleveland 19 News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania Health Department Shares Measles Prevention Guidance - Franklin County Free Press",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdnMxTTdVYjBSLW5uaUdScEUtME5rT3owSXNaS2t3dENmYVZYZFRMY1NtazNUS2ktQUhoU0NDS0tfeG9xeWM0TmMzX2ZIQzR3dlpsQ0V4blpQYjNnUnBqbE5xcGlDQTA3MUI3OEVzUWhUbm9yWnRQMk52M1YtSE5xaDM5R0NHNEpCSTFqTUNpcW1WX3MzSFBV?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 15:11:15 GMT",
+      "description": "Pennsylvania Health Department Shares Measles Prevention Guidance Franklin County Free Press",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Exposure Reported At Salmon Creek Vancouver Clinic - KBND",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1pQNkN2djhHYlNIOXhiYkVXQlEybXAyNW9KRU1vR2FvN2pTcGwza1Q0QzdNXzZNZnE0a2pXQVA0WS1UWVQzVXh5WUFyZmZMdUpTNV8tNDR0ZERjWVVYMXZRX3VnX19JR1dkejZaZGZMdlczZkcwcXNVSC1CSHdjdU45RGNCYkdJWnd0Yk5LRFFIM1BlRE5WVUtnZ3U1bmhUNURza2V1LUZKZw?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 15:09:17 GMT",
+      "description": "Measles Exposure Reported At Salmon Creek Vancouver Clinic KBND",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Data shows Arizona has the 6th-highest number of measles cases in US - 12News",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMDF0bUFFTHd2NExHS3M3LXU4ZkR5T2lGalVOYmVHTTN3SmRtazd6VkM4MFh2NFdaTU9GempBRzAyN3JCQWVsNFlPckt3ODN3WFpmRFBuWUY0NldrOEdfbWhwa0pfd1NOb0FUYU1vMXQ5alVuQ1pCeDFMOUJ3MUgyTFVSbmQ4Y20yVXZqUmswUGVjUmZQR1Y3RUFXeEZrUVVlWDVnekU2eHluYnNNazFNdVpHODhFZlJ0bU00djhtcEw4WjF4N2R1U18wVmxQTGtid2toM0EzY05veTR4S2JMQ0JR?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 15:04:00 GMT",
+      "description": "Data shows Arizona has the 6th-highest number of measles cases in US 12News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Arizona has the 6th-highest number of measles cases in the US, data shows - 12News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM0ZMRFE1czN6cmRQekNfSHdJaXBXMVZ6Vi1ZdmpiRzUtY0dkV0tRbzl5cnUtbWNsMXUzMWdMeTZ2ZWtUZllVNGljVTQ4akJIMHVGakFuTnRBLVNaOGVNdnlVaWJxRzJlS3JfZDZWLW1SR241ZDQ5X2NpRFlNRGhrZ3ZGYU41Y0p0d0E0SEtPZFdkTlNMM2xz?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 15:03:00 GMT",
+      "description": "Arizona has the 6th-highest number of measles cases in the US, data shows 12News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "U.S. measles cases surpass 2025’s total, according to Johns Hopkins University tracker - Washington Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcXJicnZqd3JSaTNKZllBZjVvOHVuTHc4NHIzWTBMQndqRXI3dE5wVU9hSTFrdXBZTUhfRDBaVzZraENoeEZmZEFYS0pMd2ZGby1KbjFqSmRJVVJ1YlFRSG9hY0FKNG9BNm5rY0tFU0x1dG5Vb0Z4Z0JvTWUtQmJDN2tUajctSjBTbVJrQkNMWWJSSFFpLUNyaEd6VUl0RzRqZ3lRRHFiY3V5eTlCdVZJ?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 14:57:01 GMT",
+      "description": "U.S. measles cases surpass 2025’s total, according to Johns Hopkins University tracker Washington Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "The U.S. May Lose Its Measles-Free Status in November. Here Is What That Means and How It Happened - Medical Daily",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTzU0Y0ZQU1lmTkRDMzlianZMTlE0eVdzaThoSDhHOXd5eTJVcjVEeEczUk5hbUpKaVk0WUdyN2k0QVc1dGlxdERIa3NVR3pGMHZvMk16NHZjNW9qRWhBME9EU2JXZ3BEMjlMWnR0dEkyRm90UzJBQmE1MFZnVy1TRTRaWlhCS25SblZ1OEo2MHp5VE1UQUE?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 14:00:13 GMT",
+      "description": "The U.S. May Lose Its Measles-Free Status in November. Here Is What That Means and How It Happened Medical Daily",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -111,10 +183,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "The US Eliminated Measles in 2000. Scientists Explain What It'll Take to Get The Disease Under Control Again - ScienceAlert",
+      "title": "The US Eliminated Measles in 2000, Now It's Surging. Scientists Explain What It'll Take to Get The Disease Under Control Once More - ScienceAlert",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHB3NkxfQmNYTE5DQ1cyS2pSbU9Sc1pIUHY4Q1lVZWxBNEFkU3lCWHA4UExnczRzWi1UUERySmRhNU4tRGRjOTZyb0dncEU3bC1EMDJBa241Rk1MVlhaQ0llNW9tSFdobUR4cjZ2SGx2Z1JxZXJ5SEYyTnNHbUVEUUJfdi1ZdEVoTVhrRWtucUxEQkppTHBVbWE0TWU3VUlhcnBxSEU2enYyX19rWTlOOTZac0xsOGlpQkZSdVZVOA?oc=5",
       "pubDate": "Thu, 23 Jul 2026 10:02:57 GMT",
-      "description": "The US Eliminated Measles in 2000. Scientists Explain What It'll Take to Get The Disease Under Control Again ScienceAlert",
+      "description": "The US Eliminated Measles in 2000, Now It's Surging. Scientists Explain What It'll Take to Get The Disease Under Control Once More ScienceAlert",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -142,15 +214,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOekZFS3BfRmxqOVEycU9KRmFEVzR6SHE0dDd6Y2F4MjVWamlnc0wxNldoY2VhRVMwQU5LWG41c21mLWpLNU5kQUVXQm42emZXbm10clZqdEVhUnpIMGU1dVk2N25wanVsbzV0d3RTZndWS0VfM0t4RlhubzdNUkhfdWM0TUphRXMzX3Q2a19pN01ZMXFjSlAtQlZMMkJpSHFHdnlwdVJNbkVMbVFnMi1aSEhoam5lLVVnRUtsRE8xVm1UdVBla2hCM2sydU5mLWRfYTRvVVBsczdFOFBkam53d21B?oc=5",
       "pubDate": "Thu, 23 Jul 2026 06:00:00 GMT",
       "description": "Adults born '63 to '67 may consider measles booster JHNewsAndGuide.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles outbreak declared in Delaware; cases also rising in Chester County, Pa. - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzNaZ3FmbEUwbGJ3Znl6LUctUkM2S2hiMGZINUE5QkdVTF9McGdoclZoZGREWEtZSkVDcUlNbnduQnFSc0d0ZGhqVGpxd050TFU1SW1LQ1owMVgzUUtzQWUwa3ZucUw2b3NXZXFZSzFwZ1lnNHpuZmR3MEpYWXR2VV9ERHJzTE01Z3dhNGpyVDVSQ2RvRFJESWVTTHUyQdIBowFBVV95cUxQOG1HX0ttZnJXak5ENUFTUUNBaEpsZmF6ZnFNWVU4TDVmRmcxWUhQVnA5eGtaZ09fck1NYVVidTZ2N2dVc3FuTkI0Z2c1d2xObnRLeGhzRFE4TzFVSGE3TVlnN1EwNmJXNjJHbWQ3UnR0TVVWME9XY0ZfYlJBM3BJaDEwSGpjYTBnZXA4Sl96cHg3UkpmcjVSbXBtV0VTUndtWF9z?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 04:57:43 GMT",
-      "description": "Measles outbreak declared in Delaware; cases also rising in Chester County, Pa. 6abc Philadelphia Measles cases in the U.S. hit a new 34-year high Science News U.S. measles cases surpass last year's total: Tracker Axios",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -201,10 +264,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Yakima Health District warns of measles exposure at Memorial Hospital - Nonstop Local News",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRUo2WmpjMjQxX2RWSzFvbkpGRl9INUtCR1hvbHAtb0l0RC16MXp5NHZYMnk3cDhMNzZKbERCdDgyWlN5NDdiSF9WNHNrdzhVSHNsOGVmc1Q3YklqWjVkLXlZWHNJa1J6REVKQTZFeWxNNW5DWmd0a0lQY25vNEppZHJDN2VCS2ZpQ00ya3dYTTNDZWtsZjlORTlSYzRTb1RQZEZjSDd5eW44TXZjeTdLSW5SandUNDRCZmpmV2NBbkRFZGFUMTdrTWlzTVVSbmhkenZxUlJtWnJwZnBwc2dKdld3cnM?oc=5",
+      "title": "Yakima Health District warns of measles exposure at Memorial Hospital - NonStop Local KHQ",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN0FicS15dndwbHJKdzhmS0FLMWtoM3o1RDhNdnhiZE9aWGh0TDhmcGI1enhrampoU3h5enNKYWpFWTFRVUhieDRWWFo5RndFdGNTaHcxdzQzSFFMVVRaS3lFbk0wYWlIMjJ3bHdQSHlIb2loaW01UmdkQ2lpQ2JFVVYyYkk5Z1A5aWd5Tk1KRk5oTlg0Vmtsa2JSR3NwMldHSHh6SG1hN2NkRmYyLUw5WTVRQTBJZ3JBbS1OVm1aY3ptQll1bjJhVE8xQXlqWm95UC15Z0dkdmQwdw?oc=5",
       "pubDate": "Thu, 23 Jul 2026 01:57:00 GMT",
-      "description": "Yakima Health District warns of measles exposure at Memorial Hospital Nonstop Local News",
+      "description": "Yakima Health District warns of measles exposure at Memorial Hospital NonStop Local KHQ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -417,15 +480,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "UPDATE: Delaware Declares Measles Outbreak Following Four Positive Cases - WMDT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFVXV1hUcENTVEdjRGpzaE5LQUU4WkRCa092WV9CdW5jODRMUHFhMUFaYy1pYk9FUUxtM0ZaSUVGWFVGb2M5T1JMeHBvQ3ptWDAwOFFaaURHclUzd2w3eXJxa3hLMGt4ZHgyckJxZzEzelNBYjRKaHQ4b0R0cnNYWlMtWDk2NGdiZUEwSThxV3hYSnhYeEpNNGZhdXVzbU5UekVn?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 21:29:07 GMT",
-      "description": "UPDATE: Delaware Declares Measles Outbreak Following Four Positive Cases WMDT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Chase Field concert, restaurants and hotel listed as possible recent measles exposure sites - KJZZ",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeEIxcG5NdzQ3V2lmTWZ1ZlRDbkdtYl9EVTVzNmJSUy15aDl4QXlLSE8tT09NVjFCc2kxSkpjX0tDdjNBeVJEOGlrdlBqdlpUMzc4VXNZRkhmRnFveERCbG5QVXNDaVZTYm1rTjZreHI4Q2oyM0JwODNFcHRmOHhXVGJGbGx0eGZldWxPbnV5NHZNWkVBbE1qdVhMU2pGRTNJeURGUmhtSkthandmUm9abHdIYVZZdTNuc0luTVlQeXlwZ3RvUWdBYS1TT2w?oc=5",
       "pubDate": "Wed, 22 Jul 2026 21:18:00 GMT",
@@ -543,15 +597,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Delaware declares measles outbreak after four confirmed cases - CoastTV",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON0VGeTltODZIaGhycmR2UmhyeUltR18wZlBXUlZZMmlxRy1vcU9JcXZIdHNzN0tZYzBoamNFelM0MGNoQ3lJOGJpX2d0R25vS3FXUXo5cHFLdHVQaFpZQ05kQUE1THNQalFzWlFuYUVxZk5IcHdOd2pDQ0NJaTJjTmlsVzlkOEl5dWJ5VjdIWmcyMTBwQW4tN2NWbUIxaFl0SHRhWHVTN0QxNjczdXJ4Q3l4X1ZOeXJVNWFhOUtBNmM5cURjX0JMWk9SMUE5dks5ckpSUWpKMA?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 19:34:00 GMT",
-      "description": "Delaware declares measles outbreak after four confirmed cases CoastTV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Delaware Declares Measles Outbreak - State of Delaware News (.gov)",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5MEpUeUI2QXdYQ1V2WVR2TGU4VkVJVEZoVXVDVFJ6OHNvdWZhLV9zLWRnVGhpbWJhWUVBTWliUlZzX25UdVlwN1RXaVJpWlhhT0lPZklnT2VZS2dJTW5seFNpdjNCOXd0eUVYVkUzczdBUnRsR0ZIUnJmUkM?oc=5",
       "pubDate": "Wed, 22 Jul 2026 19:26:10 GMT",
@@ -579,15 +624,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases set 35-year US record with months to go in 2026 - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTG9NdlZSMllHWVVJV1pKUWdxS3RWeUtfbnBienVwODVnZFBOeXhZTTYtUFJqLURRRU1ieUlfd0tkUjQ2UFRacnBVbktxSVkyWE5iRTQ5MlRNWkNYcG5BajVUNWdNT0ItV0xLUzJydDgxMFF4ZVphUQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 17:40:09 GMT",
-      "description": "Measles cases set 35-year US record with months to go in 2026 Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "The U.S. has already surpassed last year’s number of measles cases. Here’s what’s driving the surge. - The 19th News",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nV2FGTWxFaXYzYmotX1RUT1VDUG9GZmlTRGVOc2NqNjRYQl9vNXpEYmVVYXBEVk5RcDNrN3JzUG5fb0pMWWs1MjdPZ0NZU3kwUzZ5anJpcTFscnFPS2l2NGFEeHkwSVQzeklhQVlB?oc=5",
       "pubDate": "Wed, 22 Jul 2026 17:39:57 GMT",
@@ -610,15 +646,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYk9xeHl6Qlg3MVlNZTZDQ1ZwZTlZZWFGdXdMQkt5aTlIckhyU25ERFU3TlJaWDQyUVZReFRhbnV5Z0Jqb09MbDZuOVR1R0dQV1hwOFJxSHQwd0ZpYVNmTXg0dFZnbDdGN0FNSGprUjF5Um1UVmhvdU5MbF9tTlcxR29KN1pRbEhvZ0Y3dzBrbE9YbDJFSzgtanRQYXdSVEF0am5VT010aw?oc=5",
       "pubDate": "Wed, 22 Jul 2026 17:14:00 GMT",
       "description": "CDC cuts leave US less prepared for disease outbreaks, former officials warn The Guardian",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Trump, RFK Jr. Smash 35-Year Record … of Measles Cases - Protect Our Care",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZHh0OVBkQy1mUE5XY0hBbER2R2hLbnFfMHZiSVBjRHRILXI0WU1HQUdHeTN2ZlFTbzY2UHdpY3YzODNOSC1jY2l3UzZxNXkxZU96TFRab3lnbWRxZGxteEtIX2xfMm9UaXAwdnBvNXlEU1hKckxSRWgwaC01M08xQ2hKR2VraDZfamc?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 16:07:08 GMT",
-      "description": "Trump, RFK Jr. Smash 35-Year Record … of Measles Cases Protect Our Care",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -660,15 +687,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Collaborative Aims to Provide Updated Guidance for Clinicians - Medscape",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSzM4ZGZWT3Z0dFM5UWFzSkNRbWVzWkRyTTJVOVI2OVhMWjdvYWRjXzdEbHBnTnd4TDAwZ3M2elBfc2VERW85RVV1WDNkakdwQjdhbUhoNWozU21LMllnLU9VLW1PYlZ1QkkzSXF2dlBrM0syWEMxWGxuSEJ0bktDc0ZuSFlZa0I1TVFQWVhOdmVOUUJJdGFKa2tZSzN6RjhwUE5z?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 10:43:12 GMT",
-      "description": "Measles Collaborative Aims to Provide Updated Guidance for Clinicians Medscape",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Delaware reports first measles cases in decade in Kent County - Spotlight Delaware",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcXV0SV8xS0ZZam5BQnpvUzRSWEZyUjNhc19neUN6OU5QNmtfLXJFZGxMaXFKWUU5THBCRGpTeVJKX1puTG5GX0lrTmljUEJfWnRQTDNRczlmVEk0RnpoZXgtTTNFeGgybzUyTU9qMWg0aUNQTWFWa1Zsd19Ic2dQVjI0R3RhblZFYVl3ZTJKbUxGUWJYem1BY1Frck8?oc=5",
       "pubDate": "Wed, 22 Jul 2026 10:00:00 GMT",
@@ -705,6 +723,24 @@
       "sourceLabel": "News"
     },
     {
+      "title": "U.S. measles cases surpass last year's total: Tracker - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fTUJkWk1PcmVxZjNSVWdXU2laajgwaGRXcnhtbW1oZHY4djM0M0VUWjM5Z1IzWmdYWld0bmFESmRTcWRrX3FIUDEtWXlZbGJteHhPYUxKQUg3OVZ5ZWc4bldHaGYxWXZTMUEwMUZQREFBV2pmVEE?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 00:58:01 GMT",
+      "description": "U.S. measles cases surpass last year's total: Tracker Axios Measles cases in the U.S. hit a new 34-year high Science News Measles outbreak declared in Delaware; cases also rising in Chester County, Pa. 6abc Philadelphia",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Maricopa County announces 6 new measles exposure sites in Chandler, Phoenix - KTAR News 92.3 FM",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVDlSWTVYZDh2azlqMV9PZFp4ZDBxMXE5VzNnekp5SnlZY3dRVFNxb3dPUDg1TFBEY3R2aEpaMDhoamtmTGxIeUs3SHFha1RXNjZfSVN5ZmtNcm1LTmRmUE85X0ZlY0pzQ3pkdzgwQXFsLW0xTVJIcWJNWHhOMFVfaG9kSnduc1dmeGtfelV2NVg?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 00:20:57 GMT",
+      "description": "Maricopa County announces 6 new measles exposure sites in Chandler, Phoenix KTAR News 92.3 FM",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Bay Area health officials urge vaccinations as measles cases continue to surge nationwide - Local News Matters",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT3ZEWlFuQkdfTlNqamRYYUd0aXFHTlVsZjROSndISC1CVDFZUDd0V2JSQlByWnhPWjBWajljTHQyTDlhLV9LNVNrOC1ubEhVUzVZU2stSzZCOTF3UC1VT095bDlMczM5SFBHaThLMkdEOHRoRTJHSk15NkJ3NVBrN1lGMnV6UDZuRmZtTVdsZUlocjlNcFJWTmFra1BRRXNvdzdwbzhjVTRralhSejA5YVVYVV9rQzRJenFWSXUxODhkZ1dtOXg0WDNn?oc=5",
       "pubDate": "Wed, 22 Jul 2026 00:00:00 GMT",
@@ -732,15 +768,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles surge is threatening even highly vaccinated West Coast regions, officials say - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQW1NU1FCcFNJVjRPVG5ZbDN5VVlOUUNWU1hEUjBTTUFOZ29xVG1WdTN3UjNwZnpTdjBOLUhHVF9laUFMWlA3emVudHE1X1dsYmtkS05LV3VILTFoQWlvcjBQaER5akZ0QzBET0x1bWFQeGthQnRSWnJIS2J0M0ZmOHlUbkptVVUweXJmQTNBSWQ?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 22:34:05 GMT",
-      "description": "Measles surge is threatening even highly vaccinated West Coast regions, officials say San Francisco Chronicle",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Three measles cases confirmed in Montgomery County, health officials say - KHOU",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ3ZIdjlOdEpLVXp1dzEzSkM0RlVPX09EVUdQOFVWN0Vyc2lsYzNiMHFHa2MyMkNiRUJyNmttWVV6b3JVMGl6WHRQVl9uc25SY096X2lBWFZmaWE0Undrci1uQVVoUzJXLXdpZ1padktLTGZSQjhNREhCMENxWTZpTGV6cHZzaWoyZjBXUVNoMVRtNHNjNmpXdE9fU1VQR2ZRRmd5RHluRXlnVW5OV3lQYU05RFJRWUtpN3FkTWFvNVU?oc=5",
       "pubDate": "Tue, 21 Jul 2026 22:22:00 GMT",
@@ -763,15 +790,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUHo3UnBfQ1pnWHZ6bHU3WENwZmZTUEFyRURWeEVEdG1pYlBqaUZQa2pocjU2Tkt2eWtBS0FSUmxUOHJSaXR4cVZlWV9iWDBzZ3dDdE1UU3NaZ01pSHc2STJBQ3FVLVhnai1EUFlvZDdkY2xmdVExQ2RZSllCUlo1aF9iMmxIRE1NQVhkaDFpMUszdWpiTmJMZHU2WWdaaTVGOVpoV1pmRDZNUmJhZDE1NzhzVDBEZVpKMkZCWC1XbnBsMmIwaUxDOU01Tnk0MXBvYjdsNUNlc0VDMzRqS2k2S1E4QzhpN1pCUnBzOGNTSVR1VkFTbzhBOWlWZkt0dHVy?oc=5",
       "pubDate": "Tue, 21 Jul 2026 19:16:00 GMT",
       "description": "JCPS encourages vaccination after measles found during Jefferson County wastewater surveillance WDRB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Will vaccine boosters be necessary as measles spreads nationwide? - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzZEZkZrcnhLREw5YjE3c0huR01TblFJUXlZeVpzZEZqRWltUEE0c0EwWmtEaGhheUNHbkFaZVhjbUlueUZTWGVuSVNLRGhYVjVfbW05RzdpUHR0ZnRSZFlQVDdBQldoMVIwcFVqTERQYUhQYkZnNGo3YTE5TUh2VGlZTE9wdC1FbmdOM2VpcXVuSHBQSWZ1UUFpd3dTVXl5cG54UU82MNIBrAFBVV95cUxNbGY4enhQYkJXczE2X1V1NHVJNGdoRVBOV2RkYjFjRTVJekZIdk5LLXk5R09uTkNjRHB4S3dCMUZ6d3BHNG43VFBwVzRRZ0VoNEFRb0NpcjEzdHRRcmw4eFYyNUxJSjFIdVRGbkFIT3BTM0d0c2lDSm1hN2tuTjBxTy1KNHhoNWF5VjgzUlc1RzF1bXZOeURGLUhUS3RjOTkzRlhRODZvR2YxSW5j?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 14:37:24 GMT",
-      "description": "Will vaccine boosters be necessary as measles spreads nationwide? The Mercury News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
