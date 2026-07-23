@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-07-23T11:46:22.989Z",
-  "itemCount": 89,
+  "updatedAt": "2026-07-23T12:43:48.859Z",
+  "itemCount": 91,
   "items": [
+    {
+      "title": "Maryland confirms 2 measles cases tied to out-of-state travel - Baltimore Sun",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WbERZS3BBTVdJMTRFbGVadUdJdEZhNmdrVGFZbVQ1WW1BNU8wNzlzWTFsVkdYc3FUZWhOU1pSdmY3VzRHem9oRi16U1FrWGt1WkMwQWJreGdzVHE4b19XZDJNOVg2b0VlTTBZZ3lyT0xXNkJfTnIzVFRR?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 12:38:00 GMT",
+      "description": "Maryland confirms 2 measles cases tied to out-of-state travel Baltimore Sun",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases on the rise in Pennsylvania as Delaware declares an outbreak - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVJZcFF4eDB2SUR6emZVUmIzQktUQUNRMWJKOGpURWhzWDBuekV6anVMTDlzT3M5NlI0MWZVelNad3BraEFlZENOZlVzTEJfTjhZRzhzRHVDZGtNQXhlVWsxUUdQQUJ6REJtSHlnazlpVlpjZDhnbWhCUmYwMW5saWFiNl9OczNZaTVURlI3dTdod3Z6bnZHd2JrYUdteE9RWExNQUx1QWJ2b2pQS0hfX0dMaEdxcmJEYUE?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 12:25:00 GMT",
+      "description": "Measles cases on the rise in Pennsylvania as Delaware declares an outbreak CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "U.S. Measles Cases Hit 35-Year High in 2026, Surpassing 2,295 With Five Months Left - Medical Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWdyZTBxY3pPUGdXVzYwUmtYSm9GdVNSblUwNjRyUG9rdzE0bjhFVFNSYkpEUzVhRmV1Nk1BdVljOVBhUW1LVEg1eTBwdUQ0SWQ1ZlozNVNUYzlFWXhGOEhWcEtMMFZ1M1BqVTdVZ2s2d0Uzc252aFFHSjJtRHBQVDVSRVp1T0tjUkRv?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 12:00:12 GMT",
+      "description": "U.S. Measles Cases Hit 35-Year High in 2026, Surpassing 2,295 With Five Months Left Medical Daily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Unvaccinated child diagnosed with measles in Clark County - Yakima Herald-Republic",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSi1BTmRQa2FlZWtDVzJIbC1oQnFZRmxVNlBvRmRtZ3V4cjBOdjJjbDZjWmxkUDZwbG5WdU4xUk1ocGpKdi1KUmFfQ0YxVFJkTlhOamFCOEpza3dRUVNwTjA4a3htVnF2TGFTMnJzaEhnUVdLdzdMaFZtYmZ6TDBON2NZVS1TUk90UUlSdlpmZDdGcnRaYVNVVTl0RE90UThDc3B1UW5aTmpqeXN6VHBzNWhaRGJGLU9pYlJKZFFqOWRmb0dJS1IycWxHTldJOUhRVjN0ZnlIb3UzNkFlZ3l4TmpPaHZoUdIB6wFBVV95cUxORTdMV3JRSHpxWjV1N1lMZmxEakd3TEotZ25HQUU0dXFpUW4xOGlPS2lIWndqbm9uZlZBVk12X0VVVnl2Vmh1S3F0ckhzY2x6X2FwSXVYX3VpWUlsV0xyNlZiRkZOV3A2TXItczRlenBVcmdGZVduTlNyc3VodmZ3amhZM2t6LUpCQTZzMWIwNEZRaXAtb1hiaDgyeTVYaS1ERk81VUhGRXZ4ZXpLM05pZWZ4ZWRPNkVXa2V4WjdKS0F2SHcwaG9vYmJ5TF9nZjhDZHZib2VldzBHZVJidElldjhwRUpqd1VVd0Jz?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 12:00:00 GMT",
+      "description": "Unvaccinated child diagnosed with measles in Clark County Yakima Herald-Republic",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "U.S. Measles Outbreak Raises Alarm as Cases Reach 35-Year High - La Voce di New York",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmhRNE4yWVlMZ1hwa3VteFYzcEJpZjNuVUJOLTE5SnczWkxzZWF5ODA5YVQyNmY5MXhlOEozbDItX01aaE5TaTFEWDFiUmJSQUtSYVpuYXN1MnRablJnTHhTdjNJWXEtWmdZVmNwdjZ0d2oxQjRScVdqVUV1MDJ3M2lXUUdXVzdwVFlPOW5Lb0tjbnpBS2xPa3gxLTZSVjF4MU5FQmFMT1g3SklILUE?oc=5",
@@ -66,15 +102,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "‘The Child Is Terrified’: Measles Doctors Speak Out - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdTk2WTBuam9Tdk9qUlRBZ0FDVEl5OE0xMVNUT0VhRzhuUDNheU1PcVVUQ3hXY3RTUVlwSlZxV1MxWXFHa2xUTS0yWEtDTF83cVVDTFMtOEVLZGl1YjNrZW5BT2tIZnpvajluME9GZHh2c0hhUDJYb3JjcnNBU056eWpQVQ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 09:00:00 GMT",
-      "description": "‘The Child Is Terrified’: Measles Doctors Speak Out WIRED",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Adults born '63 to '67 may consider measles booster - JHNewsAndGuide.com",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOekZFS3BfRmxqOVEycU9KRmFEVzR6SHE0dDd6Y2F4MjVWamlnc0wxNldoY2VhRVMwQU5LWG41c21mLWpLNU5kQUVXQm42emZXbm10clZqdEVhUnpIMGU1dVk2N25wanVsbzV0d3RTZndWS0VfM0t4RlhubzdNUkhfdWM0TUphRXMzX3Q2a19pN01ZMXFjSlAtQlZMMkJpSHFHdnlwdVJNbkVMbVFnMi1aSEhoam5lLVVnRUtsRE8xVm1UdVBla2hCM2sydU5mLWRfYTRvVVBsczdFOFBkam53d21B?oc=5",
       "pubDate": "Thu, 23 Jul 2026 06:00:00 GMT",
@@ -114,7 +141,7 @@
       "title": "Measles outbreak declared in Delaware; cases also rising in Chester County, Pa. - 6abc Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzNaZ3FmbEUwbGJ3Znl6LUctUkM2S2hiMGZINUE5QkdVTF9McGdoclZoZGREWEtZSkVDcUlNbnduQnFSc0d0ZGhqVGpxd050TFU1SW1LQ1owMVgzUUtzQWUwa3ZucUw2b3NXZXFZSzFwZ1lnNHpuZmR3MEpYWXR2VV9ERHJzTE01Z3dhNGpyVDVSQ2RvRFJESWVTTHUyQdIBowFBVV95cUxQOG1HX0ttZnJXak5ENUFTUUNBaEpsZmF6ZnFNWVU4TDVmRmcxWUhQVnA5eGtaZ09fck1NYVVidTZ2N2dVc3FuTkI0Z2c1d2xObnRLeGhzRFE4TzFVSGE3TVlnN1EwNmJXNjJHbWQ3UnR0TVVWME9XY0ZfYlJBM3BJaDEwSGpjYTBnZXA4Sl96cHg3UkpmcjVSbXBtV0VTUndtWF9z?oc=5",
       "pubDate": "Thu, 23 Jul 2026 03:31:19 GMT",
-      "description": "Measles outbreak declared in Delaware; cases also rising in Chester County, Pa. 6abc Philadelphia Measles cases in the U.S. hit a new 34-year high Science News U.S. measles cases surpass last year's total: Tracker Axios",
+      "description": "Measles outbreak declared in Delaware; cases also rising in Chester County, Pa. 6abc Philadelphia Measles cases reach 35-year high The Hill ‘The Child Is Terrified’: Measles Doctors Speak Out WIRED",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -192,15 +219,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Unvaccinated child diagnosed with measles in Washington state - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWlRIb0NmTmhkYThzdzdxT0dDcHN4RVdKZkwxa21SaVdxTjBBalZrVDlVdTBSQ3R2cVNyNjFXdlhyUkxyMWd0akhkMkhRZ2VjNFhMOFo1N1c3ejN1MnpONlVoXzdJWV9qNVlpRjNjVElXYmNXNTlxbGlKbWFnRkljRkJGZ0VqVEtNeFl6YVZ0UVh0R2w2QXV5Yk9zemdab19FajVqTFg2bnNBZnQt0gHAAUFVX3lxTE1aaHlyWkZ0WjNMeGh4MVBoUm9ST2xxN2RfOW92VUZWQlh6c1dwbVhiODUwMENuOUJBX3BoSW9Dc19Ya0tzNWdMMk1rMDVpSk5RUE9xUE5nbjUwNGI5ZzRKZDZrYjZWQlJxUEs2X3RHYTAxb1VvaXJtQzRvQTlaeHh3djJuMko2TU0wbnMta2kwQXhzaWROUllkZ3BQV0lXczNvMVFFc0RiY25oOWxPbHpXWUpfMEZ2X0dQWTh1d1puSA?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 00:24:00 GMT",
-      "description": "Unvaccinated child diagnosed with measles in Washington state OregonLive.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles exposure at Vancouver Clinic’s Salmon Creek location. Here’s what to know - KOIN.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT2diZDJVb1k0eDhzQ29Cdm9SNW5tVjhUSTFBX1NXSkxacExpZUNjYnFGRkh1aGVYY3NSZHMwMzdmQzFQdkN1eUMxMk9SVEtCbndzYkFhckdZMk1lOVFZMWhZWXZLT3lUMEczR3V3aTFWdDB4dWRRTExid0hWRnRMbnZfYVA5T0puM0h1WDRnb1hpSmVHeGg0RE5PUjg0WEwyNWhwR0RXZ1lNTlFGbGlLUE8tX0c1d3Q1YTdZ0gHAAUFVX3lxTE1paWR5WkQ1eURxbGFqT0JvWDNYd3FqcXlBMldTWjJOZHRFNWg4WTRGTVBwV0F2ZGlWaDZPWXdkZS1GWTRqaGF4bUxDVk1VSWJ6WGVRaFkxNURjQ0ZxaHdOYmNNdmlOTFNKUEFlaE5fcHp1RWwwTjNDazBNdkVZVnRoRWl5cDZKdDZ2WWs0QUNtTmJuLUVsUGtQbGZZNmFTbHcwWmJiUFByMFBOdE1pSXFUV3hZMTYtVFZveGFicHhfdA?oc=5",
       "pubDate": "Thu, 23 Jul 2026 00:20:54 GMT",
@@ -268,15 +286,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZVNVaTNkSFhkSDhMQ3J2cU92N0xjSHZFQS1oVnlna3M4aWM3bWdySUc4OGpwb0NpenVjLWVkVUdORmRYdmlwdlZXQmFKZEh1Vk5qaEZuN01pemVwMG01bVI3OHRfOHVRdDJ3Q1RaQjdtMzZOS21FQXpGNWVZajVNemFxOGlUY3YwMGtGeEJhbEJzYjY5cUJIZ2Z1ckc4SHZYTDlTSA?oc=5",
       "pubDate": "Wed, 22 Jul 2026 22:39:00 GMT",
       "description": "Measles cases hit highest level in 35 years USA Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases reach 35-year high - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblo1c01Ma3FESnNLUGlFVmRHVHp3MmE0MFRnOElzOWxCbzcxSHFGSjNwbzdTUVRuLWZ2Sndfd3JJbUo2VE50T3I1bnJyY1dacjhBQ21KODRXU0I3U2RTSC1xdFhsSDRiQUI3b2o3Y2NpSUpmZnAyRGZ2MHhHV0t0NjVYbE9od2swSkdQWdIBkgFBVV95cUxPVFBoVnFlSUNXN2VKMTBnTGRwMnhEcy1qSXFSMUlFTEtWM0hwZ2Z5Z216R1pGbXlmVEdsc21QNWQ4TUpWU011Y0h0M2hNMVZKQnZqeFZqbWxlVklmUHFRN1hmcDBST25ma3UybWd4MXU4dEo3aUl0UXA2UE5mblZZT0JISDJ6NTJaQ1g3ZkVUMnhYZw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 22:34:00 GMT",
-      "description": "Measles cases reach 35-year high The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -354,15 +363,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "MD Confirms Two Southern Maryland Measles Cases - The Southern Maryland Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT29aRUU5WkpUemJyVGNFLURXeXc4bThMSE9Gb2UtTlhFdmhBdC1va2xmcUtwbjVNOGQ3U2IzZGN6MjUxc0I0VzNQdzBJZ3o5UFhrR243Xy1reHdncFcwVVotWm1keExSWDlOdzlRRGlIMmFtVVpwRHVUZ0IwR201NHdTbW4yenRGN3plZmgzbGZIeHhTemw0dHlVTUJhUQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 21:35:25 GMT",
-      "description": "MD Confirms Two Southern Maryland Measles Cases The Southern Maryland Chronicle",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Two test positive for measles in Southern Maryland - SoMdNews.com",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdnBsN1VVVElKdU1aZjhRamdqUW9hQTFzM2R5MV9Xc042ZE53VjBPOVNuWVhMRGFRNEh4cFRnNjZOQktnWE1KN2ZnbC1sS3NuaWJzZE1tN0oza1ZLcmFlRXItemhERUoySVRPRXJmRi1RdTVGdXgwdGpteEZELUNsS0xsdk1ZNWdPTWoybUVqck1leF9DRFpkLVlJb3o2OTN3V2JWLWFGcEYyVk0td3oxcUhhcmdzYnNMcGdsd011YmtsQ3RGa1ZqQzBoWVNWX2gwajhhZldyMUE5b1N0YzhJYg?oc=5",
       "pubDate": "Wed, 22 Jul 2026 21:34:00 GMT",
@@ -394,15 +394,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeEIxcG5NdzQ3V2lmTWZ1ZlRDbkdtYl9EVTVzNmJSUy15aDl4QXlLSE8tT09NVjFCc2kxSkpjX0tDdjNBeVJEOGlrdlBqdlpUMzc4VXNZRkhmRnFveERCbG5QVXNDaVZTYm1rTjZreHI4Q2oyM0JwODNFcHRmOHhXVGJGbGx0eGZldWxPbnV5NHZNWkVBbE1qdVhMU2pGRTNJeURGUmhtSkthandmUm9abHdIYVZZdTNuc0luTVlQeXlwZ3RvUWdBYS1TT2w?oc=5",
       "pubDate": "Wed, 22 Jul 2026 21:18:00 GMT",
       "description": "Chase Field concert, restaurants and hotel listed as possible recent measles exposure sites KJZZ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Delaware declares measles outbreak, 4 confirmed cases all in unvaccinated patients - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeWRDTVhzc1pOdTd4MkE5dU5MRzI2N3M4SU5VVnc1ZnNGR1dUaXVuSUZaaDFzV01SWjl4UE9UU2poNnBwdjVSV2U4dFg0Sllac2pvR2YyTE5oZXNzd0phcG9yQTJaWHhBRTI1NzhGNTd3SDhIdGliSUl1aDVxay1IV2RIZy1jVW1GYnlqUjlmbEs3Rk4tMlVVbzZkMA?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 20:57:29 GMT",
-      "description": "Delaware declares measles outbreak, 4 confirmed cases all in unvaccinated patients Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -615,6 +606,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles cases in the U.S. hit a new 34-year high - Science News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pdE82dEMxckM5NlpaNUREemowWDNKVnlwN3FSQnZHc1FoSF9wOTNNa0xGTWp1SFZDakFfMjJ6NTVJc0lmeHY4SUZUZ2VLNjNqUTdvamU5c2dXd1ZsVGtoekRZdkdVVzAtWFk2c2c1YU1SUS01SXRZRUFVOGoxZUU?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 14:19:58 GMT",
+      "description": "Measles cases in the U.S. hit a new 34-year high Science News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Utah's measles complications ranged from pneumonia and dehydration to sepsis and shock - Axios",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWi05OU5DcEU2TUJvejlGTkY3dkVBd21xUUloYlVfLUg0c1NpNkFiTjBNWUZ0YWI5VDN2dmRGZjNtVWlqQUR6dmJONmtacHVlX005S1JXMWFZUEVLdXhRN0o0Y1U4SU1LN3Rxa2s1anlmNGotRTI4bjNMYkQ5cHZKOENPWU5UMWRYMk9sMGVZcVZ6a3FzUzlfbnFaVWNBZw?oc=5",
       "pubDate": "Wed, 22 Jul 2026 12:34:07 GMT",
@@ -669,6 +669,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "U.S. measles cases surpass last year's total: Tracker - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fTUJkWk1PcmVxZjNSVWdXU2laajgwaGRXcnhtbW1oZHY4djM0M0VUWjM5Z1IzWmdYWld0bmFESmRTcWRrX3FIUDEtWXlZbGJteHhPYUxKQUg3OVZ5ZWc4bldHaGYxWXZTMUEwMUZQREFBV2pmVEE?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 00:58:01 GMT",
+      "description": "U.S. measles cases surpass last year's total: Tracker Axios",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Maricopa County announces 6 new measles exposure sites in Chandler, Phoenix - KTAR News 92.3 FM",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVDlSWTVYZDh2azlqMV9PZFp4ZDBxMXE5VzNnekp5SnlZY3dRVFNxb3dPUDg1TFBEY3R2aEpaMDhoamtmTGxIeUs3SHFha1RXNjZfSVN5ZmtNcm1LTmRmUE85X0ZlY0pzQ3pkdzgwQXFsLW0xTVJIcWJNWHhOMFVfaG9kSnduc1dmeGtfelV2NVg?oc=5",
       "pubDate": "Wed, 22 Jul 2026 00:20:57 GMT",
@@ -700,6 +709,15 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNemhtYVlOdVMtZm1TOGk0OEk3U1lMQzA3UUREZkstaVk3dTdhSG1tclBFZU53dFdja08zMm9QMUdkbVFOMWdCU1FDTTllXzBCTTUzVlluX2NvTGVraXFvQ2wxUEhVYmUwTzczbVkwcXhycFR1bDNBUndaanlQd1hmbjVRcnBqRXM2WVBsa0VNWWFaWXJ2ZFRHRTZSVkNPa05jcXptcnhsLUgwWTA3RUp3X3JMWnpsRV94UlpFZ0U0WU9NYzNnOFlpa9IBzgFBVV95cUxQS0pYVTNCQ0JxeGVpanhSRDFmU0duLUpNV3BYQ3FvUUE4bXhTMzRMd2sxa3VhRGF5YXpOMDlVbWhQNTFZQkhGNG5nYW5HR0VDNi0yZmc5MmpabU1QV25lbWJLZG9xelR5Rmk3STNNOFBGOWlPWE1OcEFsTzlVcHNfNl8tNDQ4OGRtWm9wYlowUHBVb0xWVDVuTUhMM0FTN2Q1WFk1YjBpTWg1aks2NjdGWE9fWHlGbHJCQ2NpeFVVSi0zWC00M1NZYUdEdHFIUQ?oc=5",
       "pubDate": "Tue, 21 Jul 2026 23:34:28 GMT",
       "description": "Measles outbreak at AZ ICE facility prompts quarantine FOX 10 Phoenix",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Health Department responds to county's first 2026 measles case - localmemphis.com",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMU5VOGRCbXRQSmQ3MFFyZ1I4NllhOU9XbFN6elFiMVlrdzBhWWcyTkI5S1M3aVFoT1dDY00yZUgxYUoxUWNONUVxY251RmhmbWZrR1ZWM1VmRHdZSDRZTDJKTlVscV9JaWxfOEVra0NuR0hMX29vMF9Ta21DYlNqTnl1XzY1SkRROEtiMDRzYTZUTFdQa19OaFpRdnM4akFHalJhYUFDZ3lIa19PSUtUaWpDb0FjX241amF4MlRWX29YTldBRlJZSzAwSG5JMllqcldDazRESEd3enJ2SnBtZmJCaGU?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 23:06:00 GMT",
+      "description": "Health Department responds to county's first 2026 measles case localmemphis.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
