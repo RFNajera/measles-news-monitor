@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T07:56:03.796Z",
+  "updatedAt": "2026-07-24T09:01:24.609Z",
   "itemCount": 88,
   "items": [
     {
@@ -237,10 +237,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles case reported in person from Alabama - WBRC",
+      "title": "Measles case reported in person from Alabama - WBRC 6 News",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMm53THlCb3ZGZEZzWnZXR0M3NWxfSFpGWWRUUV9LRlBXNm1LalRMWnU5M2gycmM2aGdxQ0U2VmtFRDNibUdfYk1EYUlpYTgzUUFFT1RZODRuS2FFMGVoSklQS19rSG1RX2pnZUtoS2NSZXdUbDBtYzFKcnFLOEs5TA?oc=5",
       "pubDate": "Thu, 23 Jul 2026 21:02:57 GMT",
-      "description": "Measles case reported in person from Alabama WBRC",
+      "description": "Measles case reported in person from Alabama WBRC 6 News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -331,15 +331,6 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1Sy1hME9Yck1lNVYxUjF3UWdGVE01MTl5TGdwLTlaRlE5a2tCUUNBQlZnYVVoQUhhNUdoSng0NXNlM25BUnZzT0sxb3NLY1N4WjNPSXJZUnppdENIY0s0VldnbFFMeGJPa2hXODVRVENzQkF3YTQ2anZR?oc=5",
       "pubDate": "Thu, 23 Jul 2026 17:06:10 GMT",
       "description": "UPDATE: Measles cases surge among California kids EdSource",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pa. resident tests positive for measles, might have exposed others at department store - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVWhieE8tVF9KQlhhRGNwZTZ1dHhqbUlNRTgxa3VRblhWTVdJMWFVaFhnbzVuUkJuV0tnZllXeDJqWUV3M28tMnFGcjBvcnY5bVhLa3NuUWtnOFdDNkJqdEJ0ZTZ0WHFwQlBERVBTSFJDMDhqSVoxZFRWWW95MmhIakNnQWtlT0h2cFBuQXFMZHlVYlVKdFdHOEVaYk1xbHVtNkZ2WVhQOFFVbldtQUVveGllcy1ybW9EU3d2MGZVZ1hTLXc3WWpEdg?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 17:02:00 GMT",
-      "description": "Pa. resident tests positive for measles, might have exposed others at department store PennLive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -534,6 +525,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Health officials investigating Clark County child measles case, identify exposure site - KPTV",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUl9zVThGUVEtZkd4V0VaNDBTRDdTNHdCSFdzWGJUWkRidlJGY0d3WThXMEpOalMyUUZIUGxKMUktdWlWc0ZhU3hfVGZzUk1pZjdtVDNqRFlmOFA4V2xtdlB6UmFkd21ZbmFpUGlXYy1Dd0VWY2JlcngtZGl6U0FxdlFqVU50Mi1SYXZPTTJNOVVUaHZvNDF0emllTjZ5eHlpWmxKMl91SUV4NTJvNDNraFI5RGhFdHhsaEE?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 00:19:00 GMT",
+      "description": "Health officials investigating Clark County child measles case, identify exposure site KPTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "2 more Marylanders contract measles from out-of-state travel - The Baltimore Banner",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkNZTUVyb1F4cGZ3R1VCc2RBeTBGZjA2LUhHRVdJcTF0NURuTktVSGpaQjRHdjRWeUJlZUpWNUgxek80c1BnaW9tQ00tY1VDMUktaDhnVGdIeVp5M09IWTc2T0RIYXRxOHlJWjN0b3djVGEyVFJBRHhnRWF2bnJTaS01TWMzMC0tQUhZbjRfYm9pOGRKMzdjZTFBZ19xR29DUHc?oc=5",
       "pubDate": "Wed, 22 Jul 2026 23:24:00 GMT",
@@ -714,15 +714,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Teton babies get measles shots early as outbreak looms - JHNewsAndGuide.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWjV1UUZSalNaS3d1M3RJcmpzUFpXd2lUYVBIMGpYUnJ0LU9oZzV5VWQ4S29Zb1BzNEQ5SGdrZ0JaNkx6c1hYT2V3MzJZVGQyXzBpc1psMGF1RFV5X0dfYkN0QlpEczZtWUM4M3V0T1drdWpWaXFfM2NtLXRsMHZ4ZUhxSE9LekQwcHVpVXo4Tl9ZZlBmMmNaMnpOb2staFhINUZ4ckdwemRPUG5tcUp1SFBKZ0ZpaHNQV2lHdXBpY3FMYzdkQ1o0SU5ic3ZCdzFZa1FBMEJRek5lcWVDMTBaNQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 10:30:00 GMT",
-      "description": "Teton babies get measles shots early as outbreak looms JHNewsAndGuide.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Officials confirm three measles cases in Montgomery County - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00WWxMZklhRUttaGFNQmI4YXdIaGc4cU4wNGx1b2dhV3oxYTk3elUyaEFGZjNQM0Q1dDhMeWdxRmdoTS1qaUsyTXNXdGtLR2ZnY2lIQ1lsc0ZwcE1JN19JUTVYMHJESjNGRWROWHNlcDRDMk1MNm5QNnpaNUQ?oc=5",
       "pubDate": "Wed, 22 Jul 2026 01:15:07 GMT",
@@ -781,6 +772,15 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZU1ZeVJYOG1yNUYxVnZlSElPOXdoRUJvVndiX0h1WjdLRkdvSFZtOTlKYXViazA2Y1V1YjBnblNvTkp6WF9OX2wxN0ZPVnN2VnZ2NHM5TkpQd3g2QlBZdm9Oc21LX1JtZ2FFZVdZN2FHMFl1UDVVRzJUTDd4dXF4VXBWbFFwWWVuMmhmTA?oc=5",
       "pubDate": "Tue, 21 Jul 2026 10:30:49 GMT",
       "description": "Covid-19 waking up, Cyclospora marches on, and measles is close to hitting a milestone Your Local Epidemiologist",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New Cluster of Measles Cases Identified, Plus Multiple Public Exposures - Maricopa County (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GS2pIazM3V1paV3pYTzc3Z2RWbHhRYUd4ak9DMkxuWlNfNGlGT2p1TlZMY1hxT1BEam5fWXc1bDFnOUJueUwyaVBJa1puYzJrTTFtZ0JRN1VJYTFrVS1F?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 21:44:18 GMT",
+      "description": "New Cluster of Measles Cases Identified, Plus Multiple Public Exposures Maricopa County (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
