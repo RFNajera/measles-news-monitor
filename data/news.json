@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-07-25T09:45:10.045Z",
-  "itemCount": 99,
+  "updatedAt": "2026-07-25T10:40:40.508Z",
+  "itemCount": 97,
   "items": [
     {
       "title": "Beaverton trampoline park reopens after confirmed measles case - KPTV",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1RoeHBPOEpEbTVkd0NpclloWGt2NGR6c0lkM1pMVGptbUtURDZaak5LWDhKOGZiTHc5XzUxbm9rN2lxVkVJNVdhTzAxSk5VMWxmbklqSEIyM0laMHd0OHo3cFhmdFgtOWpQX3d3MDRzVWYtNGVsRGZScmVvQWl2M0pHd0VxZ2EwbE95SDFJLUdlb2ZwMllfV2tncHcwV19VMVk0?oc=5",
       "pubDate": "Sat, 25 Jul 2026 06:12:00 GMT",
       "description": "Beaverton trampoline park reopens after confirmed measles case KPTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "U.S. measles cases surpass last year’s total with months remaining - kaaltv.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM3NUTnVDV2xlWFYwME0yTW9HdUJWaXVtSnhSVTZmYlhGVEt2bmZXeEFDbGlxeC1RTDhzZ2JaUzZMX0plekZoTm1RcWJyeDhWVzY2UmItNUtoZUhRRGhGMTFMcW1OSWg4SGNZVzBUejdxdHhTeUFQVm5EeUFIZW45VklnLXloYjRBa2xodFdONVhfQ1JuRGlPbA?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 06:01:40 GMT",
+      "description": "U.S. measles cases surpass last year’s total with months remaining kaaltv.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -39,15 +48,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "U.S. measles cases surpass last year’s total with months remaining - kaaltv.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM3NUTnVDV2xlWFYwME0yTW9HdUJWaXVtSnhSVTZmYlhGVEt2bmZXeEFDbGlxeC1RTDhzZ2JaUzZMX0plekZoTm1RcWJyeDhWVzY2UmItNUtoZUhRRGhGMTFMcW1OSWg4SGNZVzBUejdxdHhTeUFQVm5EeUFIZW45VklnLXloYjRBa2xodFdONVhfQ1JuRGlPbA?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 04:06:36 GMT",
-      "description": "U.S. measles cases surpass last year’s total with months remaining kaaltv.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Rise in measles cases in the US - 11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSWU0emNCcW5YTUdkb2FTd1ZlOWc0c3VrR3pMS1JySGVUTnY1MXJrcjdvd3NvM3BfUUJqd3Q0WjNrbDlFVkdtQ1ctTGZHaTd0bHpvWWNaQjNKMlZXcmlEeGd4QV8yOXFWTHdSakJLTlVCRW53dUJGZ1lWamgwZUo4NjBiYzBCbnZQT2tmdFZRSlY0RVhvVXNxbm40eG9EXzlpbW53S2xLMFRveWpOQi1BRkN5Vjc2RkFlUjZB?oc=5",
       "pubDate": "Sat, 25 Jul 2026 03:37:00 GMT",
@@ -61,6 +61,15 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbmJ0SExabDJWZjFVNkZCbGIwbVdTV0FnQ1lRUnF0SFBVRGNuMGxrNWppY1ZaR3NTSEl3cmxocEdRTkdTUms1SzFfUWJUT192REtQd3ZRa2xHUHM0NldtZXd2VVE3TWMwNlA1U2NpT0l0aUVuYUlSOEZ6U3Y2Y21fOVBTNzhsMHZmcEdIa0ZabF9pZ1dNUTlKOVBJZUJ3RS1wMXZhRmRfM1Q2QmpxRV9yRGlyM2F2VHFERUZhS1lYVnBfanNlaTZPUTdpRjJMWG0xRm85SQ?oc=5",
       "pubDate": "Sat, 25 Jul 2026 03:35:20 GMT",
       "description": "Breaking News: The U.S. has recorded more measles cases in 2026 than in any other year since the disease was declared eliminated in 2000. https://nyti.ms/4yEgqCE facebook.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases reach highest level in decades as Florida prepares for school year - FOX 35 Orlando",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EbUNfSUZvOEpFbzJURGFTbXA5UXZGTXEwLWdEb2dmRXpwZlRnNkIxWVhrN0UteUNBWWsxSHhTZXc1VnQtel9QWEVJSzJ6UHhGWlFDU1FMUjVsTGlDV0hOQzNLNmVHQdIBa0FVX3lxTFBvSEljcHZRVFZZWkRCVDBTNjk1c3VLUWZRZ25oOWdEX0YyTXFHTXBzRzB6T2VWZ0N3V0xXdDRYWUxuMG1rWFFoT1M3ZFRkTFdUX3RVQi0ycDdYZTFvNnAwUER2QmRCbEwwY1FZ?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 03:31:12 GMT",
+      "description": "Measles cases reach highest level in decades as Florida prepares for school year FOX 35 Orlando",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -183,15 +192,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "US measles outbreak the worst in 35 years – official data - Inquirer.net",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWp5RVVPb3ByQVh6T3ZWdWRyd0VrYmc3OHNzMHVBazVvUUZ5UkxWeHVXUWIyenk0TExubk5sSS1WZmFTSHNnRjVGVl9falEyY1E3MlZHMnpOaWJvb09fY0JMNDZXeEl4Q0lHN00zdU9ycXM3VUVCMllWOGFWQTVfYy1YOWtEbUoxSVQ2bmZjM0J0bXhmSkVOd282NFXSAaIBQVVfeXFMT29kWk9HLUp0bWpqMXluOFJBbWZtUEt0UHc1YnlSYzNLNXRzMS03MFdzQk1ueldJdDRJZG1oTE45TTMzd29UWkhxakU3ZlZVX0tWTlRJeTJ4WXBHUjQ0WWM3Y3drSWp0NTZuWklJM2oxWERrc3RuMHNDdjNMS3JSV0pKamMyNmw1RUg5d0thQjVSWkZYN2YtT0FXOGZkd2JEZVpn?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 23:39:00 GMT",
-      "description": "US measles outbreak the worst in 35 years – official data Inquirer.net",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "US measles cases surge in 2026, threatening measles-free status due to declining vaccination rates. - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYklVMFY2c0wzUE5yUGdjQmtGU3VabENYd29DT0Q3dkhUZThoU1lPTmpqNm80OHZkbF8wRXVSeXp5cU12Ykc4aWVqUFVWMkFZQTZaUVJzLUt0d0x1ZlREZXdXNWhldVV3WGk4dGZtdDZJUmNqR0I5TmM0YkpBcUtBc3RVVnF0MXhyb3ZxSnZiWDJ5TTJBc2U2WTBwelBGYUVPR3BBbUsxd2NJQ0o2T2E2V0Y4NFduSG9BbHZlNTVha3B4Z0FWMlVwbGt4YkV4cHdwVWZzSk43VUNVNFU?oc=5",
       "pubDate": "Fri, 24 Jul 2026 23:37:39 GMT",
@@ -309,19 +309,28 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Utah has second-highest number of measles cases in country this year - thespectrum.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMGk4QlVKeGlOSFNkT09YaXdheG1JWXI1b2NIYWIxY2VRaWRHVlBweGp6WnREUFFCYzVzQS00TUVxSFBFVjFINExiN3JtV1lnUU9wNEtWbUk1dXVGQUhEczhHRlhEQkZ5Xzl4ZWZaTnNPdmlXVGtxd25UQ094TDMyN2Z5QUYxS25Qc2VQWFJtTHd2WUFwdExWYkk5aU1DOTU3VjJ6OHlpNWN6NVlDbV84bmFyN3lSU1BCM1M0YkJyZ3BuUEwtVHVGZQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 22:16:00 GMT",
-      "description": "Utah has second-highest number of measles cases in country this year thespectrum.com",
+      "title": "‘Effective:’ Florida surgeon general talks measles vaccine amid spread - WKMG",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWDVNTUx1eDR1QnhwVkdVR3Jpa1JXbnRwWkdpcHY3OWxrLXlmNHBPdjd3U085aXczZkhFSm04R1dnbVdXUEZkVkJGUHQ2dE1aUWEzaVZTVDdpem92cGVhcXk5VWlFNElvSWUwRGhQWHYwSFZqZU5pNTRaV2VJT0hFNnNRSnk0bExMQWVnenhwTzVPZmR0c3NnbVp3QnJNY0ljSUFMQ2w5cEEzSThyQnRpVzF5a05lWkdjZ1E?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 22:03:09 GMT",
+      "description": "‘Effective:’ Florida surgeon general talks measles vaccine amid spread WKMG",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "‘Effective:’ Florida surgeon general talks measles vaccine amid spread - WKMG",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWDVNTUx1eDR1QnhwVkdVR3Jpa1JXbnRwWkdpcHY3OWxrLXlmNHBPdjd3U085aXczZkhFSm04R1dnbVdXUEZkVkJGUHQ2dE1aUWEzaVZTVDdpem92cGVhcXk5VWlFNElvSWUwRGhQWHYwSFZqZU5pNTRaV2VJT0hFNnNRSnk0bExMQWVnenhwTzVPZmR0c3NnbVp3QnJNY0ljSUFMQ2w5cEEzSThyQnRpVzF5a05lWkdjZ1E?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 22:03:09 GMT",
-      "description": "‘Effective:’ Florida surgeon general talks measles vaccine amid spread WKMG",
+      "title": "U.S. has already surpassed total measles cases in 2025 - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTVEblFRN1VPWHBlY1BNZkl6b0U5Y014V0NzNnlhX0YyZmV1T0p3anFKQWpiS0ExeVVQS2gxeXJtSzQ2U0ZqN3hwOXFPUmlaUDNQOFB0V3RHX3A1TVpJMUhUZ1NvN0xGR0NyNkdqWS1EazhzX2I5dWJqV1N0VkdpWGpmVlZYczM4LTdVaEJBZlItMllzZ2lB?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 22:01:00 GMT",
+      "description": "U.S. has already surpassed total measles cases in 2025 CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "'People have no confidence in the science of today', locals concerned with Measles outbreak - CoastTV",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOUZESldnbnFQZkVuWmdWX29PX0lKLW9jYmM5SzVSU3RVR0pJeHlBTjNoMWFzanhMcjl6N2F6N0dzbWxqNWJtWkxkN1RzZnRramp0QVZHdVh3LU96LTh2aFJCOURXeFJ2cmdvUjExejUzcXpieWpfRWVHVmVkMDBvWkZTR0NrTjg0dnBkeHhtNS1NWE5kdzBRWDc0OWZnbFRSblE1amVlS3FoN3loRmNqZER3THRQN2Q5LUdGbDY3eTNNWFJLZzZsWjZtc0Y4QTh5U0ZFdjBmdzB5Nkl4ZTVyYVlkSjJ6OWlFbHFER1Q5X05wTmNDekprd1BxZw?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 21:45:32 GMT",
+      "description": "'People have no confidence in the science of today', locals concerned with Measles outbreak CoastTV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -349,15 +358,6 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KWUtzYnRWTE5DT1NYTzhkbk9rZzNtRHVjTThEWEtKQi1YOHNHVWdvTndzVThhY18zdWJqdWtCNjVRMW1yQVBfMVpNWnhpR1RTcjlYeWowMzdVMjdreXd5d2xWZnYzMThDM3NNQTVVb2ppS0swOEkzb1k0V3I?oc=5",
       "pubDate": "Fri, 24 Jul 2026 21:27:28 GMT",
       "description": "U.S. Measles Cases Hit 35-Year High as Vaccinations Drop. Kids Are the Ones Getting Sick People.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Patient with measles was at MultiCare hospital in Yakima on July 13 - Yakima Herald-Republic",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcTIwUmxFQ3VhWGJMZHlzalJUUEFIS19MdXJKQWpQSmk3SFE3MEVMdXFPRXVYeHc2RWtSMnF1MGVRXzFQOTlhU1E2aDE2MEtXc3dzQld6N1ZFZlBwdktLQ3lLaHhDZnI3c0ZmaV9STWJ2SktELUtfcjRQZkI3Uk5wcWdGQllxMXRvUFF0Yk5WUk9SdFRzTEtMYjdMR3Nodm95ZTNZZnIzMVNKSndWNjIyVUVBNzRwamdkdEpVNzJLREo4MzR4bV9pbGZTSHN0Q3ZMaDc1ME9GLUw2YmJFb0hLa2FONkVKR3JoRm9taDB30gHzAUFVX3lxTFBvRTBYeHh4c0gxSFlPNE9UTkx5ZG1ZM2dwb0FXdmgydEYtTXZJRDduZkNrbkVsWjRrZ3YwaWpaeHpzaHQwNExVZEFWNG43Ql9yb2d5SzhwYWtvTjJ5Rmk3SG5WNmVlYTZmcUY1a3VmbVVRcTJkdnE4N1VEaGF6cVpqMFVHZFBVSmxDNk9FanJiSWJmNC1RdmpMV3ZHLXM3S1g2cUJXM2NMTlFuQkFYMXA3TWtLVDRYeGN2U0lkWm4yOFloNUNvNmxrV0xCMmowc3J4QmYxdlpmeTg1dVM2T2tUZkdtRnBuRko3bGFYNVRTczJWNA?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 21:00:00 GMT",
-      "description": "Patient with measles was at MultiCare hospital in Yakima on July 13 Yakima Herald-Republic",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -399,15 +399,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases hit new high, surpassing 2025 count - 13newsnow.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS1E3OGZVNjRpNjdRQ0QzZHdXU1Y0aEo2Q01FY0xZTDkyQUpQRUxHWVI4QjJTOG1Nekw3UVF6Qmx1dDEyZFprYVBtQU4xak9ZaDZMYnNxREdHV3YyWHdiOHZwc2NNUkVPaWh3LTdxRlJJUF9EWHNadkNzN2VEV3oxbnRLWWJveVRrRlZ1T3JZXzhRTW1BWDZKTEN6MUhMOE01NG9tSmVUelVpMFM4OU5pcHRCcXhYSlhvRkxTMDdjX2x5OTh5dG05YmJsZDZ6UQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 20:15:00 GMT",
-      "description": "Measles cases hit new high, surpassing 2025 count 13newsnow.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Florida measles cases spike in 2026, ranking among top 5 states nationwide - News4JAX",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObXZiMHlRQzJ1SjNFWk5RRHdpT1o1ZEIySVhrcG9qM1NIX3VuenhDMHdCUDQ4RGlOcnZZWkxxc1BFcVVWLUd1T3UxMEdFdUs2OVpwTEVnOWlMckJjaW4zN3JfSkU4OXR0cWR2RjBVelZuZTRZckUxNGdveXhKaXFCR2pVRGk1UVM4emM0QldDOUNJazEybnNSNVhHSkotTlBvMTNOOWJsWUVxaUhnQ25xOXdFQ195dw?oc=5",
       "pubDate": "Fri, 24 Jul 2026 20:11:28 GMT",
@@ -444,15 +435,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Alabamian tests positive for measles - Chattanooga Times Free Press",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUdBUGFJOHI3Ni1vUVo2aEMtOU45OVU5R2EyQ0lyV2pnZHRIQzdHdGNJSVFEejFsMkF2S215d1g3WmM0bEdBYktTcGtscGtqWUwxeE1qVWVMazJjVTZpcjJ1LVdfV2RlNWt3SGhKdURNT2RlVkhPWUJuY3I2WU5ibUhmWWk4QTVWd011cnln?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 19:35:40 GMT",
-      "description": "Alabamian tests positive for measles Chattanooga Times Free Press",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Florida ranks #5 for U.S. measles cases in 2026: CDC Report - WFLA",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNXzVYcmk3c3l2cTljNHVrZ2kyTDdiTk42S3FibllqU0hZekVGbi10a3pIQjBQWko4OEZaRHlLVlhHdWgxdFQtbm5FRkM5YWpwMXZRTElWS1loUTF6NjlmLWVLUlJaZUZRMVNZWXlHRGRLeHJyZEg4ZnNmMXhIeElJemNVV1E2TUdrbGpV0gGQAUFVX3lxTE1ucFlYSFZLbUh0RWthcHhLdWZIRTA0clhINE9JM0VhMXhFU0V1QzRjX2Y4aUxpY2FIb29EbzllZnZkaUZBNlJIWUlZTWdCYXM0My1tTUw3QjV4Z2hrOVN6aDhOUzJxcFh1eUNpMGNXZ3ZNekVXRzJfZkVIN2dJbEtEM1lVUjFQWHdFejR6LWs2Mw?oc=5",
       "pubDate": "Fri, 24 Jul 2026 19:13:46 GMT",
@@ -484,6 +466,15 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmJzQUNYUjZuTFFTWDhRSENIdmRmZTA0dzlHTjZkbktmUnRvN0FpdTFZYkF6WG9raEluSUZxdldSNTRlRC1ld1FZSlA5ZjhGRWdwZ1JVUF90UTljd0g0TTJMYmJUWHJtNWtDc3RPMmdlTWthc2dBUWZuOEhneWVGZW5ERy1HVGUwUXdSMjNjMjF6S1BBODFtT1dhek9MbVFzU1kwMm1rdzhIRV9jMmF0UnpxYw?oc=5",
       "pubDate": "Fri, 24 Jul 2026 19:00:00 GMT",
       "description": "As measles cases reach record highs, see your school’s vaccine rates The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFBiV2pOcE9jOVU5N1g5VzBWMC1LdnpPRm15cFdXMVluQ2VWOU00WEktOGF1QUZhWUF4eEJSU1BPNjNtUXJBQm5rOXNxYjh3cDNNN3ZtMklSdzhDb0o2UnVtelZGM0l1aFdxUmVpbEtMTGVnaGdHMk1MVGVBbmZSWF9zVElIYmxB?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 18:57:27 GMT",
+      "description": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane The New York Times US measles cases reach 35-year high, for second record-breaking year in a row CNN \"The child is terrified\": Doctors on the front lines of a measles comeback speak out CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -714,15 +705,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFBiV2pOcE9jOVU5N1g5VzBWMC1LdnpPRm15cFdXMVluQ2VWOU00WEktOGF1QUZhWUF4eEJSU1BPNjNtUXJBQm5rOXNxYjh3cDNNN3ZtMklSdzhDb0o2UnVtelZGM0l1aFdxUmVpbEtMTGVnaGdHMk1MVGVBbmZSWF9zVElIYmxB?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 14:59:15 GMT",
-      "description": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane The New York Times US measles cases reach 35-year high, for second record-breaking year in a row CNN \"The child is terrified\": Doctors on the front lines of a measles comeback speak out CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "4 measles cases confirmed in Montgomery County, 1 person hospitalized - FOX 26 Houston",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmJwcUFSRkU1NWxjMjgxVGo2cEZINTROU2RiUEVaamFCbWRLaGpOWU0wako1NFQtZ0dvME9lb2NDbEJMd1RmNFdzQ1pFU3pBVXliaGFJUDdPaGlJaUFkQjFVbUFoS3NkTGl5MF9mTHl0cEgwSWdHcl9WYW5ONE04dWRmTWtQcm5ZZ0kwa0wwSW1MOFFHZDVYUGRZcw?oc=5",
       "pubDate": "Fri, 24 Jul 2026 14:56:04 GMT",
@@ -736,6 +718,15 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaEdOTnd6YVVfOUVaaXZyaVZlMnZGVGJ3dGJRMnAwcXZXQk1UVkJudTE1ZnFQNzdVR1U3Y0w2XzVoeVY3UFdWQWdVMURRUW0xMTh1N1FPWUVwMmM3RG1TVk5VOUR6RVpRclBJVktjQ3VUMEtva0tfUnhiMUlxaW9FSlFZcDZwUWNyRjhjN19LOEJ1QVdnUjJiR0dSWi00UQ?oc=5",
       "pubDate": "Fri, 24 Jul 2026 12:14:00 GMT",
       "description": "Lancaster County accounts for 80 of Pennsylvania's 132 measles cases this year WGAL",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "‘The Child Is Terrified’: Doctors on the Front Lines of a Measles Comeback Speak Out - KFF Health News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2lYWmNudkZocElVSkdYbmtuTXg2LTBDb1dZR094T19fc3Ryb1ljek1hSEl1LVdpUUZzM3AzLUVvdFl6Q3p3dnpsX0pVUHBWWjNjMVRvazdTSXJ6N29peVAtYW55RGR6NXNtdldGWUktcnVqd3p1QTFzTjJNeENqNEVSUEl3ajNfOTFZdU80c2ZFZzVLTVhfWWhGMVdwZ19iYlpWc2x3?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 09:02:57 GMT",
+      "description": "‘The Child Is Terrified’: Doctors on the Front Lines of a Measles Comeback Speak Out KFF Health News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -777,6 +768,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Maryland Department of Health confirms additional measles case in Central Maryland resident​​ - Maryland.gov",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNT2ZDUWpzTTVGSVJmWXV1bEx1NUI1MTV0NjFtWlVCbHVWdjRjUHlydzBLYWNwMUlLTGNnQ3JraF9UQWl5TlhkNW5DU1ZIOGtjam9IUHpxMnFVVW9uWXh5R1NQVE5ZZGFiQ1ZHZ3ZJWkUxOE9qSUpVeUU2WUZrd2tHZm9nSVlqLWZPSVJCbVlLMkdHa09tdXNZUDFhMDY3SGlQSmphRndYT3B5Q2x1aXk1SklmN1hnUFkzNWpIU2tSbmtCczFwSVEybWxFV2RVdGtweTNiQXlQdXZrUkhETEpidHpyLS1FMUhobEV2MW45dkpXLWNkWWQ2cFVR?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 21:22:54 GMT",
+      "description": "Maryland Department of Health confirms additional measles case in Central Maryland resident​​ Maryland.gov",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Two measles cases confirmed in Ashtabula County, Ohio - Cleveland.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM0NIU2RMXzhjRm5zTVoxa3dFMnZGRzhLXzNHZXFiWm5CV01YWUVZVHVITE9uUmZ2d05rRHp1STJHa21kNGRKWmJ2TE1jOEpNMHNxb21OSWRPTzY4ejRUbnM3d3dmQ190Zm5MSmdtZkw5ZDJtTU9GYVd6TVdJaEo1Y0p4QXRkRUd5Y0xPVU9fbUFhZDR1M2ZBTHZ3RWcySjF4Q2d3?oc=5",
       "pubDate": "Thu, 23 Jul 2026 21:16:00 GMT",
@@ -808,24 +808,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbkpPQ2lBd2ZnVzg1RlZTbk1YNUJhV0NWOF9CamMtbHpDc1J3QVB5X1JSNWQ2VTBqZ2REMkhrQ1VNeldfdFhlTGljZDRFTVBoekZVbmNycVZsdXhyem84YnkwVE94cktTTkx1RzBvaHRycnF6WHpyOUx5bTd1ZWJYY2dkNnh0cUEzamdxWdIBoAFBVV95cUxOWXNrLUlMdzB3Sk5RaHJHLVQtQkloekdMY1pSWTVwempuOFlqRkRwSElzSUlsUmU2R0toREZBalhfbHh0LTBtbzFNaUo3a2R6b2c4STlFUWJJTzV5al9OQmFtSXNCOThvZ1V3Q1NiaXY2M1luVmdSWEFKaGdNaHlaaXN4SmpJQ05ESWdvd1lMQm1rYWxlbXZTNmhhUVVlRXNf?oc=5",
       "pubDate": "Thu, 23 Jul 2026 15:25:00 GMT",
       "description": "Two measles cases confirmed in Ashtabula County Cleveland 19 News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles surges dramatically in California among children and young adults - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkpwcC1SeUZjMUlOTm5KRkEzcEVkRlk5UlA4bjQ3bG9STExXVXhfZnhfWC1NTzFwQWFmRlNwNUZZTmdqenNJVFZrTV9ic0tnNTg5NjQ1LWt4OUszMGhYWlhaSWljZ1JJaVRreVBiNGhMN2tidUktMDJjTFVpeUFaMzNGV2RBbmVBT1l3OEZwQ004Tk8zYUdPZjlEU3dSXzJhYVJKd2toaEc4RE5nVkNyMkhMNWtOcVRxSjRDNw?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 10:00:44 GMT",
-      "description": "Measles surges dramatically in California among children and young adults Los Angeles Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "‘The Child Is Terrified’: Measles Doctors Speak Out - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdTk2WTBuam9Tdk9qUlRBZ0FDVEl5OE0xMVNUT0VhRzhuUDNheU1PcVVUQ3hXY3RTUVlwSlZxV1MxWXFHa2xUTS0yWEtDTF83cVVDTFMtOEVLZGl1YjNrZW5BT2tIZnpvajluME9GZHh2c0hhUDJYb3JjcnNBU056eWpQVQ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 09:00:00 GMT",
-      "description": "‘The Child Is Terrified’: Measles Doctors Speak Out WIRED",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
