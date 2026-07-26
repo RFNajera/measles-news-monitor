@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-26T00:56:18.836Z",
-  "itemCount": 88,
+  "updatedAt": "2026-07-26T01:46:55.527Z",
+  "itemCount": 89,
   "items": [
     {
       "title": "CDC: US reports the most measles case in 35 years - KGW",
@@ -16,6 +16,15 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUVROUxSUkNnWk9IXzA1TmQtMUdOQTY1V0ZKTEhGM0N5OUJoeWpvam55TUpLc0M5M083THBfeklqdk1qXzU2TDBMOV93ZEJvbi1YNUc1NHRuNldUQWwyS3VTaEpmV0JkOHJQeXZFRFR5RUhMT1JuUGxnSkZiUDdpbmdzTHdkYS1oakVSdlRsaFB5UDd5NUwtbnVLeXlRdFlqZHhJMFUtaE5DQXBf?oc=5",
       "pubDate": "Sat, 25 Jul 2026 19:34:00 GMT",
       "description": "Measles on the rise in California Spectrum News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "County confirms Gresham urgent care facility as measles exposure site - theoutlookonline.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSFhaVlRLdHV2MFpST0tQRFNZU2RIRkxHeFVvazR2SlE2blJkNGQtdlJQMnFaallWZVlaUjBQdjZheFN5VzlYS3BwSVdHUWY0Q1E4Mmc2dW9fcVhDdHozNHBnNGRfSmxhRXptMlpYTFVTWmJidkNCak9HNlpBRTdLeWd1NTdRSGNVV09aLTdaLUxHLWt2VUNmdlJfTWw2bld4WlNPcUpFWng5blJiTzlZ?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 19:07:10 GMT",
+      "description": "County confirms Gresham urgent care facility as measles exposure site theoutlookonline.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -88,6 +97,15 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYkU3WDZBOEZuZVNKVXpEZHJUcVFfUXEzQkhnOUN2dmFZSFdaWlAwcm5wTEFPZVVGYzBleDRCS1JUZFBzdzcwaXdrSU5nbVJZMTBCRnN0LXFFbkU2N0ptT2Zld0VoUllzRndUbXhTZWN2VVc2Y25KbjNsUGxjWUs5aVhoRDZQTFJ5QV8wV2FvZ0xFX1VqUjBBZ2Jjam52SDVHQUgwaU1B?oc=5",
       "pubDate": "Sat, 25 Jul 2026 13:36:42 GMT",
       "description": "AMA urges public to get vaccinated against measles as cases surge Florida Hospital News and Healthcare Report",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Watch US Faces Growing Measles Challenge - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWEtIRWoxbXhMSmgxQUxTMjRFTzlLcG5IOGlQVUU5cG1SZXByT09RXzdJYXVaM0JkaVo3UkM1MVZHMHVJeTN2YTJ2eXdmUFExTmtGbFc4STZfMmFHSG1PTGp3SUplWHNfTXNjVHhpOTczYXhRazlyY2QwOE5HSDBKQV9GcTZUOEVlMC1TNFQ4cXlFWms?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 13:20:15 GMT",
+      "description": "Watch US Faces Growing Measles Challenge Bloomberg.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -174,24 +192,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Wisconsin measles rates continue to rise - WFRV Local 5",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNGlFMU03VkpYc2lUeUd6LUhwU1dPNVM5MW01MFVsRVBaSjRFeXpubXFmVFVSaVlrSG1QZWszQmVjM3pZWG1jdUVUY0pfQnlyc2pwSmtHTGlTamk5UlVjUjNXSUg1UnJHSXlVOW9SUWctWUJUTXNPM1I2UzJyRHJHeHR2RXdram9ZamMwQm5DMA?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 05:13:15 GMT",
-      "description": "Wisconsin measles rates continue to rise WFRV Local 5",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "DOH: Measles infections on the rise in Pennsylvania as CDC reports highest number of cases - WJAC",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYXZwcHREZC1iOHZVUTF0YURFV1JFLVk4RzFzM0FYWDE4bGRGT01QUmJnMDRKb3Zuek8tb2haaXEwRHZ3ZkU5OXlYcE82WE01YXJjRnhVS01FMUVCOFVCSldpZHVETWwxdk1xUVhxQlBvRU5vVC1KMzBZZUZDWXl5a190dnM0ZDg0TUNrSW03UDVGdDJhNm1ta1pZcDgyZnBGM3IwdUNYcHBSUXpPUjJiQ3JwNkQxTUxpa3V2MEoxSU9OeFRjRVVB?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 04:35:58 GMT",
-      "description": "DOH: Measles infections on the rise in Pennsylvania as CDC reports highest number of cases WJAC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles cases break record - FOX 13 Tampa Bay",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSVFlaQzZ3Nk5IWWVDcFFyYTRQeFdZQnVGa2VlQ2JjaWRMWmV2OHU0WkFSTll5OFh5X2UtblhhNFhkSllLalVoams5eGFxalZ2WkYtLV9MVWJHRHJ5bTJzSFp30gFnQVVfeXFMTndObmZYU1lqVzllLTdKQnJFWTFjRTZ1S3d3OFBUbEwycEg0THM0ZGlsM05mTmJ0RlZRa3VlTVNQMnY3Y2FiR3pZbjhidVRJc1dtTk03OTJfYW1idTA0TnlHb1NLNHAwQQ?oc=5",
       "pubDate": "Sat, 25 Jul 2026 02:56:47 GMT",
@@ -201,10 +201,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Maryland confirms 12th measles case in the state this year - DC News Now",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUnZMUndqbUItWmZQeHZKcXozbGRmbllOR0FMQXZQVjJ2R1AzTmlXZzlUaUVWNzU3bXZBZkN2N2J4SFRELUNHQW9tLXExV1N2SmlMY2RadkRtNllDMHlsc0pGM01WWVJMaGlzYlJ4emh2Zm9kSFhybnRuZWZFSHJrUURVaXZITWRlRFM3N2lTdk01V1AwcE85VWpaTTd0a1VSQ0E?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 02:11:30 GMT",
-      "description": "Maryland confirms 12th measles case in the state this year DC News Now",
+      "title": "News Wrap: CDC reports more measles cases so far this year - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ha3NZTE9SSTExdUp2WTFUYXBvV3BNNVZ1cUFraGtQOHdWYnhPVVZGUkhqU1VHaXh5Q1MyRWFfSjN1aVR0VW1neHdyYlRPdU9LNU12S0xfMEE2T0k?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 02:35:46 GMT",
+      "description": "News Wrap: CDC reports more measles cases so far this year PBS",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -282,6 +282,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "6 new measles cases found in unvaccinated children in Clark County - KOIN.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeU1lclNtZ2NrSjNLb09RZ2lyY2FjMVN5S2gtUGxCRHc2UXpiTUFjRDgxTkhYNG1NZWpMRUItbl9IT0VDd0lTWVVmbmhtdEV2MG0yNGpJVkhlOUdzaExPcTJmaVpLdWNyTnB3eHVZS1RfcVkyRVl6S3RvRVVYQUZYSUpBV1lDQWJWWjlhUUlUOV9FYmQtckstSURZSmwtbTYtVXE3T0hEbHE5Z2vSAbABQVVfeXFMT0tfT29NQWJOQ1NWY1NnMUNGZHl4eFFqM0NiaUNRNEt0dHpuR204U1BUOWcwUkRYVHdoTlpfeXZtcU9ueVlYN1l1Q0t2RGFGQ2RjSlhhaGFGNkF5dWlRZkRGRFNJNi1MRzhwLXUwMmhlQS1aaDdRLUZKRERsUFFpSnl5WmltN2hPRnlOaERaYm1MX1ZLRkNMcFd5ZC1FM2tYZkFoSkxhdmE5OTRZdzRlX08?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 23:05:47 GMT",
+      "description": "6 new measles cases found in unvaccinated children in Clark County KOIN.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Six more cases of measles in children confirmed in Clark County - KATU",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVnh6aEFtUW9pZWxjcFdSVlljS2xuNVRRRXU3cHZpRjduNDBZM2dyVG0wYUkxRW80ZWtIOVJJS20tMFdYTzJxR0tlWTBnbW82TVdQcU9fM0tuQV9mVi1jZ2hHSWJsc3VURUJOSG0xajhRM1ZxS2NIZkZWSlBfQkJDNk9XdnlNLTI1TEtRd3otVkw4b0ZvTnlyd3N0RThLazNHM3d1MWhBWThZa2JfQWMwcDFYMGtXazhSX3BQWTF5cTNjUG1OT0xB?oc=5",
       "pubDate": "Fri, 24 Jul 2026 23:00:38 GMT",
@@ -304,15 +313,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTE1PTGlrU2xJd181aTUtMEdJczZKQ1Ribll3ZHVZTFl3RG1EU25uU3FUT3YyaGhDMnpwdkVSZEdpREtud3lMX2ZjTnVZOGxPbHo3TkNmVVNzYnVQUXBYYW16Nm1Bd20tR2F1QjR1WGJScFBveEJpRWdmbVBXV1hEWVhn?oc=5",
       "pubDate": "Fri, 24 Jul 2026 22:46:00 GMT",
       "description": "6 new measles cases identified in Clark County KPTV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "CDC has announced record measles numbers. See how bad cases have been. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdWJUXzlWMWlXb3VsVlNNVklnZGRVTFhpVjMydlE4Q25zMlFJUmJWVkZubzV4N0o4Z3VhQVk4VDdGTzZ6YXptYXY3Zl8ya2pfNEFIdU02NFZHM3VJTDQtVW1JVDVsVmxVUnZ5VzNaV2k0V3UzdU4xS2J0Zm0wNzZ0eVJ0bmZtQ3U5NFNtM053QkpQZl9EbDhOZ3Y4UV9EbWtIM0xNVDJSa0cyNzAwXzVyZ1Q3NzUyMVBjV1E?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 22:44:58 GMT",
-      "description": "CDC has announced record measles numbers. See how bad cases have been. The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -579,6 +579,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "\"The child is terrified\": Doctors on the front lines of a measles comeback speak out - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kZmpjYkFRVzE5bDdUZnZYM0NhZUdoWmNkWlJwd1VJVmdUMEhuNnBQTEt6UnctdmVxMllQM3ZqOVhHQUV3clNXLVFWLXBzTERmdktGWEJ0ZXN1QS1QOE9rdmhzenVIc0RYUDFxcUdWVmlJeVNockE?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 16:38:00 GMT",
+      "description": "\"The child is terrified\": Doctors on the front lines of a measles comeback speak out CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "US measles cases hit 35-year high as vaccinations decline - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcHdqbzdCMnJfOG0yWmRCSk9feW9sVk13d1ByOVl3c3FCQjdSWkxiNGRlZG15V2c5RmdBMmdTZDVOSGJmTVNjZEVnUUxLZ2pWTGlRaGRVUENvVFpkbTQzRmhhZHFkRnRDaTBNM0F0UG1HYldnNmhnUHFqbHJIOFZBYW1nODBNZjFqZWVyeTRDcUU1eU5KVXZ6Z0xtbHI0dWVEekVjc2hxbm5temdZZVNFWENIa0tnc3lvcjRXckpMUQ?oc=5",
       "pubDate": "Fri, 24 Jul 2026 15:51:00 GMT",
@@ -627,7 +636,7 @@
       "title": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFBiV2pOcE9jOVU5N1g5VzBWMC1LdnpPRm15cFdXMVluQ2VWOU00WEktOGF1QUZhWUF4eEJSU1BPNjNtUXJBQm5rOXNxYjh3cDNNN3ZtMklSdzhDb0o2UnVtelZGM0l1aFdxUmVpbEtMTGVnaGdHMk1MVGVBbmZSWF9zVElIYmxB?oc=5",
       "pubDate": "Fri, 24 Jul 2026 14:59:15 GMT",
-      "description": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane The New York Times US measles cases reach 35-year high, for second record-breaking year in a row CNN \"The child is terrified\": Doctors on the front lines of a measles comeback speak out CBS News",
+      "description": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane The New York Times US measles cases reach 35-year high, for second record-breaking year in a row CNN CDC has announced record measles numbers. See how bad cases have been. The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -637,15 +646,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmJwcUFSRkU1NWxjMjgxVGo2cEZINTROU2RiUEVaamFCbWRLaGpOWU0wako1NFQtZ0dvME9lb2NDbEJMd1RmNFdzQ1pFU3pBVXliaGFJUDdPaGlJaUFkQjFVbUFoS3NkTGl5MF9mTHl0cEgwSWdHcl9WYW5ONE04dWRmTWtQcm5ZZ0kwa0wwSW1MOFFHZDVYUGRZcw?oc=5",
       "pubDate": "Fri, 24 Jul 2026 14:56:04 GMT",
       "description": "4 measles cases confirmed in Montgomery County, 1 person hospitalized FOX 26 Houston",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "‘The Child Is Terrified’: Doctors on the Front Lines of a Measles Comeback Speak Out - KFF Health News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2lYWmNudkZocElVSkdYbmtuTXg2LTBDb1dZR094T19fc3Ryb1ljek1hSEl1LVdpUUZzM3AzLUVvdFl6Q3p3dnpsX0pVUHBWWjNjMVRvazdTSXJ6N29peVAtYW55RGR6NXNtdldGWUktcnVqd3p1QTFzTjJNeENqNEVSUEl3ajNfOTFZdU80c2ZFZzVLTVhfWWhGMVdwZ19iYlpWc2x3?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 09:02:57 GMT",
-      "description": "‘The Child Is Terrified’: Doctors on the Front Lines of a Measles Comeback Speak Out KFF Health News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -718,6 +718,15 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkpwcC1SeUZjMUlOTm5KRkEzcEVkRlk5UlA4bjQ3bG9STExXVXhfZnhfWC1NTzFwQWFmRlNwNUZZTmdqenNJVFZrTV9ic0tnNTg5NjQ1LWt4OUszMGhYWlhaSWljZ1JJaVRreVBiNGhMN2tidUktMDJjTFVpeUFaMzNGV2RBbmVBT1l3OEZwQ004Tk8zYUdPZjlEU3dSXzJhYVJKd2toaEc4RE5nVkNyMkhMNWtOcVRxSjRDNw?oc=5",
       "pubDate": "Thu, 23 Jul 2026 10:00:44 GMT",
       "description": "Measles surges dramatically in California among children and young adults Los Angeles Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "‘The Child Is Terrified’: Measles Doctors Speak Out - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdTk2WTBuam9Tdk9qUlRBZ0FDVEl5OE0xMVNUT0VhRzhuUDNheU1PcVVUQ3hXY3RTUVlwSlZxV1MxWXFHa2xUTS0yWEtDTF83cVVDTFMtOEVLZGl1YjNrZW5BT2tIZnpvajluME9GZHh2c0hhUDJYb3JjcnNBU056eWpQVQ?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 09:00:00 GMT",
+      "description": "‘The Child Is Terrified’: Measles Doctors Speak Out WIRED",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
