@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-27T03:14:50.746Z",
+  "updatedAt": "2026-07-27T05:27:50.007Z",
   "itemCount": 86,
   "items": [
+    {
+      "title": "Why are so many disease outbreaks popping up at once in US? - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdEJETE5pWlM0TWUtNncxQXQ1eDNBcnpIVXRZT29SRWFiUnhnLUgxWXlsdW5FRGFNVTZLOEtWSzM1QUpRVjVZRTIwWk5iMWFRZm1mSEdfUEdRNXNLYWJWTWZOYTh3V3J0TS1TUUlGMmRSaEwzUFY3T3NFNVFRemFRM2d6VEVaZ1QyUkVVdXByTU3SAZYBQVVfeXFMTVBtQWRsSDBjVmljb0MwNjViRk5Ia3RNTW5fQXp0czc4SEk4Z19VZEt2T2N1elBWQ2FxVHZMWlZkbWp6emdrNzRQUnRrd0x1WGplYk1tX0ZtTEpLRy12OVZPQjNGNXlESURMcF9sc3hiNVZ2aU9vUVcwUDVITDFIZlB5dzJHbWNHTUR2YVVFM1FGdDhDRk1n?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 03:56:07 GMT",
+      "description": "Why are so many disease outbreaks popping up at once in US? NewsNation",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Polk County measles concern ends after 21 days - KCCI",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmszam51ZkN1YUE4dHNLY0Zud3VEa1pUZnVhRU5DVnRTbEgyYkhrUWkzYXp1MXZRN3VlLXFzbjV3bVNRUG4tV2NGZ2ZWUmRuV0Q5SUdzQmw0N2lNejhHOTI3Mmx6dTlDR2ktb1NFdFgyQ09XbUsxWnZBZ0ttbUtVNnN3?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 03:26:00 GMT",
+      "description": "Polk County measles concern ends after 21 days KCCI",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Measles in US hits highest level in 35 years - China Daily",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FRUczYWNYaGxoS1lTUmZIM1JBeWtVVmllMHY1bk51RXlpVXU4b2s3R05sa3plMGRLVEc5aTR4Y0l4M0IyRERoeTdmc3NWSlBweUJuRG9yV3dQeWloVlE3N1dHRHdmTzhiVUkwWWhta0p0a3ZOU05UWWtEYTNmUQ?oc=5",
@@ -16,15 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2VOMkQybmNmb01rZ1ZtSHdFbWZrbUZ2Q0ItSGo4VERKUHYwZHhwR3VxV1dVVlRBcW5lOFZRUDhHMEFZVE5aRTM5dDFySjVNNjBuUGd4dEdyR0pLMDFHa1BqTWFiZUg3WnpwdHE3VXRVVmZ3aFpDd1l5WEF6OEtyUnBvRUVVYlU2Q1Uxc3pMV0tYQ3o5MGYyZA?oc=5",
       "pubDate": "Sun, 26 Jul 2026 23:44:00 GMT",
       "description": "U.S. Measles Cases Have Reached A 35-Year High Park Hills Daily Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "US measles cases hit 35-year high; Kentucky reports 4 cases in Jessamine County - KPTV",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUGFiUkVFTW1oMW5iUk01ekU5YUZpR3l4Ni1xTUZpd2NLY1RFdGtZOWY3czRTbnpPOEFVZ3d6ZExZaFRaVW1FN3hlek9Sd05SV01Fcm51MmY0OTZFeDJjbkh1cUV5Q1NkekgxWlBaR2IzT2MxSk1zUm1TTS0xQ2YyWG1RS3Q3ZEoySUE1Z21pZ21JSEsxa2VUUDBzcndLSDVBZ3lmdzlyYXdJaGk0dzU3eGxoakc?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 23:31:00 GMT",
-      "description": "US measles cases hit 35-year high; Kentucky reports 4 cases in Jessamine County KPTV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -52,6 +61,24 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMndfV0hRZkpHQWpRUFpSSVpuYTYwNkV4U2VGMnVUWjdqai0zR1IwMFkyNkpPRWJHTGluWXBtaFJEQXFPZ3hndmdPaGQ1RkQ2WjB2Q2JvWEd3Y3JGdEo0SzZqNVQ5RlpzLVIwamxWZE1fY09zb3VlcGlvdWNfRGpfRGZQelJ6SC13OTFUU0FkemQ2TllzRzFteWhVZlYtbEtlSnZwWENDMVAxSmcyVzFPT00tTEQ?oc=5",
       "pubDate": "Sun, 26 Jul 2026 23:31:00 GMT",
       "description": "US measles cases hit 35-year high; Kentucky reports 4 cases in Jessamine County WLBT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "US measles cases hit 35-year high; Kentucky reports 4 cases in Jessamine County - WAFF",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXZUcGxkZ21KZk9HTjlCVUhzY0thMkVTNjYxMENCQlB4NVg4WDROVHl3Z1FSNU9DdkF0OWVxQVA3TWFhSGFUQ093cjZsSm9aYlRTRktGXzlMRkRqUXdmN2RLUDNMZ1hYX3kxQVlhdWFYUHBHeE5SQzRPcDE2ZjhvRV82eFJwVVpvSHVFVkkzR3YwY1hwZjhkbGV0ejZCZFVaZXd6dm5IRVRjcHJPYTQ3VW1MbjQ?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 23:31:00 GMT",
+      "description": "US measles cases hit 35-year high; Kentucky reports 4 cases in Jessamine County WAFF",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "US measles cases hit 35-year high; Kentucky reports 4 cases in Jessamine County - KBTX News 3",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORm9iZTJCVFFJZW91eXA5RnNaeXpfTUUzZXRENWllWlAwT1FGdFlPZml1dG9waG43TjVmVUYteXh4UWIwTXBEUFM0TVR1WVZ6NmxNVmpQbkd4OWN0WDIxQ01mVU9fbjRxZllESkJZd19RbXRyNVRwWVdEc1hiUlhIejJHcXdaU0ZPUWppSnB3S1VSWm9VTUFuYktDTWJJVWlWODUyTHFYNVN3MjZjbXBQRWI1TkU?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 23:31:00 GMT",
+      "description": "US measles cases hit 35-year high; Kentucky reports 4 cases in Jessamine County KBTX News 3",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -106,15 +133,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeXhwbGI3Yl9mWEQyTHB5NFlXdG9iLWYyZ0w1Sjd4RmRVMllYY2NjeWNBQjdOZzFDYUdaQ2VfUkxENm5pMWFxUzVzZkxYN0R2djhLc1p6Mm9ySXlJN3JEWjRhR2h0WS1iaWhmakN1NTVvRlVQX2l5SnF1S2VlZkZRMXA4QzVaTTlUUy1mX2psWEY3UzFlSmxtTQ?oc=5",
       "pubDate": "Sun, 26 Jul 2026 09:00:00 GMT",
       "description": "Measles cases hit US record not seen since 1991 Jefferson City News Tribune",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "US measles cases reach 35-year high, for second record-breaking year in a row - WXOW",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbWNSNTRxRGZDd09mQlZXNjlyR0lJYzU2OG1EbUoxa1lua0xucmZaVTdzUHJSdHZaNHBJZkxBTGFod19jYTkxeEtBeUtBalJvczdiVzdBMTQ3Q3NPQm1aTnU0U1dwU1lyeU8ySnJLZ3EtSm9OQWN6SnVLTHdxaWpTRjZ2djlDSFhBUlktOUZvdUJQV012SXFaaHRxVE85YUVDYTBJZ3ZTNmd2RjZBYk5fbG80a1NxTnZDOU1tWmQyR1BKbExhWFFpcG5ncFhhZFBfTUIzWW9qaXM2R1F1U1MzQUNLWnZSWGs?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 01:45:00 GMT",
-      "description": "US measles cases reach 35-year high, for second record-breaking year in a row WXOW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -259,15 +277,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEtLM3hGOXhSR2l6WG1TamhVR0JOS2ZKdjhucW5QWkhHRjlQMTM5UW1qRG9lNEg3cHZZNHl1SmRLWlRyY3JEeWpLQnZHUlF3LWVIcG9YdmljaFI3aTdldW1jRERUQTlkaG1pUnBaV1FvTjJyNTh2dUNFaC1BZGlPcldXNXh3UGgw?oc=5",
       "pubDate": "Sat, 25 Jul 2026 01:31:29 GMT",
       "description": "Measles cases hit 35-year high in 2026 NBC News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles exposure location confirmed at Gresham urgent care - KATU",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSldvazdscDZpS2tUOUJxaXhUWTJveURkWU9VZ25KSkUyYXR0TWMtZFJHd1FBeHJqbUlSX00zRjkyMktVV0FKZFpYZUFpb2ZJd1RMcG9HWDlYSC1JUzdWQTh3bmlDNTdoSm5LZE5FVXo5WHBnSEV4NkRnTjBPU1BGUmIwU1pkZDRFS28zaTRBMDZrdTQ2RGR3RTVHMGRTQW1NVGJ6TVZfZ3dvLURqcUg5UFVQZXBkZ2dMZW9ycHh5SHNJZw?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 01:24:03 GMT",
-      "description": "Measles exposure location confirmed at Gresham urgent care KATU",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -646,15 +655,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmJwcUFSRkU1NWxjMjgxVGo2cEZINTROU2RiUEVaamFCbWRLaGpOWU0wako1NFQtZ0dvME9lb2NDbEJMd1RmNFdzQ1pFU3pBVXliaGFJUDdPaGlJaUFkQjFVbUFoS3NkTGl5MF9mTHl0cEgwSWdHcl9WYW5ONE04dWRmTWtQcm5ZZ0kwa0wwSW1MOFFHZDVYUGRZcw?oc=5",
       "pubDate": "Fri, 24 Jul 2026 14:56:04 GMT",
       "description": "4 measles cases confirmed in Montgomery County, 1 person hospitalized FOX 26 Houston",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Lancaster County accounts for 80 of Pennsylvania's 132 measles cases this year - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaEdOTnd6YVVfOUVaaXZyaVZlMnZGVGJ3dGJRMnAwcXZXQk1UVkJudTE1ZnFQNzdVR1U3Y0w2XzVoeVY3UFdWQWdVMURRUW0xMTh1N1FPWUVwMmM3RG1TVk5VOUR6RVpRclBJVktjQ3VUMEtva0tfUnhiMUlxaW9FSlFZcDZwUWNyRjhjN19LOEJ1QVdnUjJiR0dSWi00UQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 12:14:00 GMT",
-      "description": "Lancaster County accounts for 80 of Pennsylvania's 132 measles cases this year WGAL",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
