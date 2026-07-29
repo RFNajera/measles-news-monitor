@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-07-29T00:49:21.030Z",
-  "itemCount": 84,
+  "updatedAt": "2026-07-29T01:46:48.638Z",
+  "itemCount": 83,
   "items": [
+    {
+      "title": "2 Portland health care facilities identified as latest measles exposure sites - KGW",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbGVIZm9scGRNN0V4VmowMExBSWRNOWZKT21fMXM3aGdFQUpNa2QyWGhRSi1XSUg2a1N6YXJORHZTR0ZRSDJLNmxIU25vVkxLZ1Izc1hUU3ZTS0RBQWRDbUh3SUF0cWkzRGVtVnlXNjBScVZxVWMwRzVHYkxRQzQ0YVhPalczNFpsZXVJLUpDbGFaZVRDYXBuaU84Ym5ZbWxnN2ZuMF9UVm5DWjUxME5OdWxvWGUzU3QweGtsMmlmSk1EQTVBNEFuQ0ZWUEV5d3JDUVNCTWU0WnJ5TmtvajhicU5R?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 01:03:00 GMT",
+      "description": "2 Portland health care facilities identified as latest measles exposure sites KGW",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Exposure to measles possible at two Portland health care sites - KATU",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQay1RbVZMYlV0amxXZUJWNWdReWx5dWlzNnVrMXVUMmRMbnBUZDY5dWJ4aVZsRFFCc0lTUXN6c2RKdy1ldTllUmtVSzRhNXEyNDUza3Z2amZKbzJPWGVfV1pvRXJmTHRiN21PSDBVVVhUbjh5TGhYaGFmSkJLdTNPTkFrNVpQQW5UMlc5NnlraHQzb0szUkxsRjNqUmlBUjlDSndGYTlsR0NWNERQbzRsQTZ2ajRSRmtoZ0VDZkh0a0ZULXhJY0hXNUJfamFXWnZHcjllb04ySkVCay1CYzg2TlJYWVk1bGlnRlphSXJNSjQ3Qkk1SWdIWlFvbklIZ1BpY0UzRlFxMlhuZWhNUksxNDZ3a2QwaDNHcjZqWVh1UzU1QVY5aV92ellwUnMyZVBoZzZ4ZmVrUGt1dw?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 00:58:26 GMT",
+      "description": "Exposure to measles possible at two Portland health care sites KATU",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "2 Portland hospitals identified as measles exposure locations - KOIN.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUVZFZUxoV05qVnNudk8yMzNLdElNb1gyUnBRb2xKTXZIUk1fMkNsajFUeElrTVRjODN0aUpKMG9fY2E3MXMxSzFwbkp3RkxKaWtyOFZYRGI0THhXUXY2bnloRHZVT2puUVE3T3dSdllaNTFyMW1ZbElvZUtENGQwdGxxekl3MUxHNXdVZmFGM1B6VzUyZlZXbi04S1IzZ9IBowFBVV95cUxOb1V3RHBmaEotZDlIRE84ckxqQ0xzenQ4VG8zc3F1cjNwSzNUZnNwSFBFcGo2YU5ETEM1bjN1X1RYZk5SVnVzWldKdEM3WTQ3TFdZT0pnUkN3alhScjVEY0VmSnJuRkRqcEwtU2p6X2IyaUs5UkVsZTZIUmR6aGV3bXFBR0hoYjI0dTFkaXNRY19UWTgwc2R3XzJ3WmFodjlYN0lF?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 00:49:43 GMT",
+      "description": "2 Portland hospitals identified as measles exposure locations KOIN.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Measles cases have reached a 35-year high - The Apopka Voice",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNGtMeEQtZm0tMEY4U2xNYm1kNXN0eUV2VnhxMDlzZk5SRUZWYkFEYlhOLTZZZDdTOUd2NFhCNGktbWtHeVYxQ2hTajVpYWQ0aHZ5dXlvVmFaSmRqRDdONUx5b093QXg2SnBoNDhHY0xqNkh0cWpkOHQzcEZXQTZINVNnXzFneFJqSWc?oc=5",
@@ -21,10 +48,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Randall Children’s Hospital, Providence St. Vincent East Pavilion are latest measles exposure locations - KPTV",
+      "title": "Randall Children’s Hospital, Providence St. Vincent are latest measles exposure locations - KPTV",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR1lObE92REtXQWNUZ0RleXFLRVhCcFA1U09KaTZzNmxlLWFkeWRnZmctY1ZTUWxSbklZb09OVHFwQXBSS3dIa1Z4Q3J5c3g5cGlldEt1R0l2S0hldjRQSnh1VkhFcEcxZENYUERYaHF2TGZtZlVFTXpCWFR2MnIwYmdWSTJObEJzeFRPMnlpX0Nxd2N2WEZBdVA3NElFbDBSXzBXUXVfUm1oSW9wMlFHc3VFZjhCTWRKd19oM19uNkw1WUpCcWVzazRsSm9UNkZWMkhMWkk1a9IB6wFBVV95cUxOa0tsWjJjUW55bU1jd0U3TVV4LVJDeHVCWXBnQXl1MTloSmh5ZV92QzJnWk5zNFVLbFBRTklIbThYdk4yWWhKV2ZsMnZBaXRzY2gzYWxPS2N6QlB5Vlc5RVJ2WlpISGJxUU1CUS1TWlVNQjQ0WExaUktWcVR5RjhXZS1mYTd0RGxmbjRZeVVkUWlXNDhIWDBGU3FibWxMR0FFMUJ0LU9sWE1ZeWdGT3BtdWdHUWVLbXYyM3BfQjllcWN5dHdibzVLNFIwWXByb1U2Wkp4VTNXWmlZRUtsczdRdnRWZ2ZFWDcxNUFn?oc=5",
       "pubDate": "Wed, 29 Jul 2026 00:35:00 GMT",
-      "description": "Randall Children’s Hospital, Providence St. Vincent East Pavilion are latest measles exposure locations KPTV",
+      "description": "Randall Children’s Hospital, Providence St. Vincent are latest measles exposure locations KPTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles hits 6 more unvaccinated kids in Washington state - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUVCaDFnczIzQmpSa0xPWVp2VU1XdVVQdzJFd2ZkTjJ4eUMxUDlnSkU2TUZSd2c4Z3BKRkc0eHVPYzZDUXJURlg4MTlYM3FpbzhScDBMQWEweTFqY0I3U2FoZFc2bHdsV2lRV1VuZFNtRkRfdkJQODZvNmRxRzhiZlpEWTd3bnY5Z3lLZzlLc2w4ellac1hEdG1uTVhjQ3dncG1qZVBic9IBuwFBVV95cUxNTzQ2Q3F6VzZHa21oZmRNTTY5aTJHNlpySE1ZOFAwbG1nd3BTUFJyR2V2VHg1NVdIRS1nSVc3MEg1NTJ4UmpGZFF2NzZmZThEaDdtU1lIeFcwdFduNm9JZWh2ZEVJSC0tSTZLZVJtVy03dlV0Y1FQLTZLVUtCN1NncWw0Vjg5RVRyVUdQNzNkQzZTSnVKNEFlMUx4NG9zRlpaYTJMYkd6OFc0ZmxSWERjSDNjUVExVG5MaFZF?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 00:31:00 GMT",
+      "description": "Measles hits 6 more unvaccinated kids in Washington state OregonLive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -39,10 +75,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles cases hit US record not seen since 1991 - Arizona Daily Sun",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeVZ5TzU5SlBSdUdDbjZzY0t1Q194OVkwdWdxdWU5SmhWbDE3Z0s0VGNpSThWTkNyUkZ1SUhRTklIZFBnYlhtR2pkdHF5MGlfdlJtVnY4c01tOVhmX1RDUmhVWEFQQUwtQlVrb1QzRlFfeS1VcEVxN2dPdlZZLVBjZkQ1d01oYVNvM3VBNC1ISVctTEhwTDBXbTdFODVFN3VBQ0pweWV5Sm0tbXR4VkJkQXRQWTZsSVdHMU9xcVNNVzYtNGVPb0RhdUdldHZPMEk?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 22:30:00 GMT",
+      "description": "Measles cases hit US record not seen since 1991 Arizona Daily Sun",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles outbreak leaves local doctors urging residents to revaccinate - KESQ",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQmY1MDNpZjZ5S3JfeGlYN1VuV0psbkdXeTdHQjV2SHE5ak9FN3VpWU96MjViMldGWG5jWWxmbEY5a3dnamoxZWxsZklKTFVlQ2JweWhZWF96cUYxMjAySmc5M0NmZmZkQnFUVWVOU1FsTlJheGZSTHFMSGhlZl9JVDVzbnliLXFRdGNJSHRDODQtbGkzaXB6dGFDTVQ1NjE3ajFRbGdn?oc=5",
       "pubDate": "Tue, 28 Jul 2026 22:22:45 GMT",
       "description": "Measles outbreak leaves local doctors urging residents to revaccinate KESQ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "The hidden cost of Canada’s measles outbreak - Policy Options",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ESGNsYzJNQlVqbUdkQ2lEN01IYndrSDI0RnhuczZ4bmZ1ZjlaWW9tNDJ1aWxyZ3ZfUkRlbHRKRGR5bmlSQWh0UWloSjhzYUtDN0xONGVQdlpRMk1mNW8telRlRUt2eUk3VWM0U3Fn?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 21:53:20 GMT",
+      "description": "The hidden cost of Canada’s measles outbreak Policy Options",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -61,15 +115,6 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmNrWXVEcGNqYUozR3JFMWhoOU1BYmkxSXF6ZlB1ZVRzeUYyMzBTUl9uX1pZNzdOVGRxYUpNaXd6THpTLUpUb0NFYk5OVFFyOTEzdmNZQkJpR0pORms5OVRzRmRZaHFGZEdaUUo0RU0tN2k1M0R3eFF5S1dPcEg1ZXY0aFQzcGVMdkhKMkFJNkRjSUFoLWFhbkN6NURFVGRhcklERnFjdUhzMEtvRW5heDV6MjMtb1RfV2tLSXVISHRxQkVYM2c?oc=5",
       "pubDate": "Tue, 28 Jul 2026 21:30:17 GMT",
       "description": "Measles, Polio, and Other Vaccine-Preventable Diseases Are Re-emerging — Here's What To Know Discover Magazine",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "What is the ‘dose zero’? Here’s what you need to know about Pennsylvania’s new recommendations for early measles vaccination - Hanford Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVHdJYnE5SDk4eU9Wd3JEclZJVEZ1cTEtNERxejAybVlWd1dLSUhhY0pDbU5WaWlBVUdZNnhFSkFSMkV5Q0pxczRhdzRtdjZ0c09TWi1vd2FQQmJVYVlOWlk2bU5SaWg4VXk0ai1lZW5NbVZGUVVGVFVrRVRDc05QQmJkdWlRai1HS1ZRcVdQZDdBamtlS2tkZXJ0V1l3eTdpMl9lTVQwZUNPblBZR1FkNnYtV3FIU1A4NkRVMkd6MXhzVmZXU0ZtUjFkbEpmRG9tLVktY2tabWc5MWMzUnViSi1iV21sa2kydW4yWkRfTjJ5TDBwb3fSAfsBQVVfeXFMUHl3ME15MThTb0NIZUhUbG9ISXNWREJVSGoxem1SZTJaM1VsUTRvRnVOWmxhaEpXUVhCVmJheFNnVWhqWDZZRFNtUEJrdnpXR0FSTEY2WUpsYVhDdWJ3bTZCWWZtMDhCYm5KZkt3UUZhd3hvQVFaTHBuTjNqdllfN3pvTzNlM0JMVDRITmIxS1IzZmtMUFE3VXFDTENkYlhYam5Qb00yWS1EMkFQSzduTWQtRUtsZlpGTzFCYmRaYjdRalVGaGZuT3NwNnd4RUJ1VGZSMDlpWGVUX05FeS1vbEg3RHVmcGxYVW5Cd3gwN1BSQktVRENZMTc3M1k?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 21:03:00 GMT",
-      "description": "What is the ‘dose zero’? Here’s what you need to know about Pennsylvania’s new recommendations for early measles vaccination Hanford Sentinel",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -192,10 +237,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles record (and hot questions), foodborne illness summer, Covid-19 summer wave, and more - Your Local Epidemiologist",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUWw4U1hMYUlPbmJvajVYX1pkRnU0LTFfSF92enQxamwxVzA4Tl9QSExOSmxFWEpyaEd1eVR0Slo1THAzWHRkMlRUZ08xRjdtQWRYUkxCSTZUVkVBOW52WGdoNmhPU0l1NHhBVDdzTHpYbGVHaHZsMHp4azF1T1kySHc3dkhwZw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 13:02:33 GMT",
-      "description": "Measles record (and hot questions), foodborne illness summer, Covid-19 summer wave, and more Your Local Epidemiologist",
+      "title": "Summer camps consider measles policy as Targhee requires shots - JHNewsAndGuide.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVVo1ems5MjFQRVZwbWM1ZHB3NDR6R2ZzOXREcTNmcXpPb3JBbHU2S2lULTlMaTN3WDdNYllEbDBkWFEwOHdkRVA2c2trMkluM1liV0RQcHdsZHFSZ1lpNUF1aVc4SGdwSHNnZTAzVTdIVktnV1c5NFdfcGVRS2NvZ05Wb3VLNkFTaWNYNHVJUjNFNnZrV3UyNkJESm42dndVamZRU2ZCRElVM0tUYUl2NnhBcFM5WmF5ZEh3OUFVdGRyX3pPVE5QV0d0QjUtb0JmX1NrOWltN1BiVl9ibXhVUC1nYUtONGxJUTVWV21vUFk?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 13:00:00 GMT",
+      "description": "Summer camps consider measles policy as Targhee requires shots JHNewsAndGuide.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -223,15 +268,6 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1cENmSDBUcGhQcmtfNTdWZGxjY2NWOHRPeWlpdU9kaGlsVHZtWEdVVTk3elFVMXlmZXpRT1ZXeUM3SG5xZlp2RXBMU242cTlvZExHeWd3VGk3cGxmUGhUY3dBa0EtaVJQNFE?oc=5",
       "pubDate": "Tue, 28 Jul 2026 12:00:00 GMT",
       "description": "Measles is back and vaccinated children are suffering the consequences, too AFRO American Newspapers",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "The hidden cost of Canada’s measles outbreak - Policy Options",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ESGNsYzJNQlVqbUdkQ2lEN01IYndrSDI0RnhuczZ4bmZ1ZjlaWW9tNDJ1aWxyZ3ZfUkRlbHRKRGR5bmlSQWh0UWloSjhzYUtDN0xONGVQdlpRMk1mNW8telRlRUt2eUk3VWM0U3Fn?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 10:56:45 GMT",
-      "description": "The hidden cost of Canada’s measles outbreak Policy Options",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -273,28 +309,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Summer camps consider measles policy as Targhee requires shots - JHNewsAndGuide.com",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYXdXeFJRb0c3Ukt2dXdUaVR0VVpqZE4yYkdRTjZaY2pDY1Q2NXE3TUpDNUZvR0s5TVZlWENJTjNONWYyODIyWDFqZktyNjBud0xHQVZCWUp3T04wajM3RkdaWTYzbjMxVU9rd3lNcDhWV0xpb2VZamc1bFRCLUhpR1p3cU5idGlpLTduS2FUY2ktcUpReXJZXzdqNkdPREZsN19McE9XNWVXM3pJSzFTYmN5VXBwRDc2QVMySnp3Q25nemxVUVlqVmxod1BXc0xlVThlc2dtLW5NT1JlU2cyamp3dUg5NnhIMW9hUDJkczhPVEU?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 06:00:00 GMT",
-      "description": "Summer camps consider measles policy as Targhee requires shots JHNewsAndGuide.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Health experts: State’s high vaccination rate is keeping spread of measles in check - Maryland Matters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS2ZkVlFmOFpndE84SGpqNmlGQ1F2VGFfWjFSNGFjc0hZeC1QZndXZ2M5MEtMYUFxZTJWS2ZHNDQ0ck53ajFmcG10bFBfVlgyZGg5QmhFTUc2OU85S0NGZzA2U1hhamF6c1lkVUg2QWlMQ3pHVURsTk1kNVhBVndNSlJrTUwwRXpBY19lMTdGdExhUEFiU1ZmUkxsZTFhX05tVjNaVnp2aXdGdHlnUnMtX3hRdjV6T21Ub1JpVU5R?oc=5",
       "pubDate": "Tue, 28 Jul 2026 05:43:27 GMT",
       "description": "Health experts: State’s high vaccination rate is keeping spread of measles in check Maryland Matters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Iowa health officials say threat of measles outbreak has passed - WQAD",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQmZ6cmU3S3pwdDJyNEVNOGdyOWpsLVF6R002a041SXgya3NfM2tDVk1FdWJLZjEtWDRkZ3FnOUtJSDhkWVkwX2lrVmxKcER0Tlc5UTFXY3JmRTVoQ3U3dzZ4YklVTWZQc3VJQjN4T010SzUtZU1uRWU3WjhmcWQ2NDZEcS1vUGlVNGM0c085OURUSm44LXJ0X0ZwS1BtQTN2QXJudEtYdmVXVHdDbTJ5Sk9sWGx4aGVDa2RlbVdNay1oRXhTSUswb0JlaFVOdVAtZFJNa0I3cHJXZw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 03:12:00 GMT",
-      "description": "Iowa health officials say threat of measles outbreak has passed WQAD",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -372,6 +390,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles Cases in the U.S. Are at a 35-Year High - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BTTlKVGxkLU5wU3VHaHktWVNHSEVibVU0clAtRmRRMGsxRnp4em5FbUtkZ2J3NzI2NHFJRk54TDJBZG9QUlRtN2liVzdSYnJLVHVZUUdZNGJSaFExeGFTaEh4aDNfNjkxcWRnSVlreDE4QzVt?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 20:22:29 GMT",
+      "description": "Measles Cases in the U.S. Are at a 35-Year High Time Magazine",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Delaware County launches vaccine campaign as Pa. measles cases reach highest level in more than 30 years - Inquirer.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3NKcWZHekNyRzNBUVVlQlpKTERsakUzamJpY1YzdU5nRWFyTUlKc1oxMUkxZjhKbVFKZnJNcmMzcm01XzF2NTZ6RGZjeU0xZ203YThKMFl5ZE02VUFaUEtnZGVsNnc5bHRZQnZ5czNMR1JKeTFxczloVFVoNjNEWGg4ZlpLSmxRQ2ZHaFhRRTQzdW9TQ3NiSlJkMTR5bTZKaDlBMk9JQVZ0UF9iU2c?oc=5",
       "pubDate": "Mon, 27 Jul 2026 19:50:31 GMT",
@@ -435,15 +462,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases surge as first day of school approaches in Florida - Naples Daily News",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOEV3MmR1TGFyUWE1UExkS0hzQUFOXzRVeGhvVm5DV0VnTkpTcmpZSThYSkxqVFRTaG9Fd051VUVYXzlwSmg4dDlpcGtIc1l2bndxeFlBelgtcEY0blc0YjhRS3hHTUhjSjRyUV92N25FZTJ3Qmx2U2FJTlhaM1doMU50Q2MwS2ZOM25uQWVTWENQYzg1bW8zU1dlT2NmZENOc0l2VW5laFBXSi1IN0ZYMWtSYXh3bEpCUzZocDNWcDMwNGs1OE9uam4yS3I2aGFrcU4xUkc1WldhWGt1emMwWkpZaGdLNXloblAzbGJScTI0c0Zr?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 15:05:00 GMT",
-      "description": "Measles cases surge as first day of school approaches in Florida Naples Daily News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "No more risk of outbreak as infection window closes for Iowa measles case - KCRG",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNemVab2RsM3JibjFuOGNqcGpZRWhXNm1KdndwNTNwVXVjQWRUNFdyV3RyWDhsLUk4dmtvMnRlM2FPazVRbzlvRUJzeG9TajRiZTNSTmg0QTVEckRiZS1peXQxbmI5VU84ZXZWMzdUeDNRWVI4YkdEVE9XSEEtYTNJdTNzRFBqdmJhS0VmZTd1US1Kck94aDJDanV5Ul8?oc=5",
       "pubDate": "Mon, 27 Jul 2026 14:09:00 GMT",
@@ -483,16 +501,7 @@
       "title": "Measles Is Becoming So Common That Treatments May Soon Be Needed - WIRED",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KcHN2ZDQzV2lPd1JTNmFfX0p0WW9SaF8yQk9jNWJnZ2JjVXpKdGhqY2Nzb2EwcTRZWlZGcW14dGNySk5iS3lwS0xUSXJKQzRiQmMzamxESmZEaEVDLXRQY1RsMEc4eHE3bXVZ?oc=5",
       "pubDate": "Mon, 27 Jul 2026 09:30:00 GMT",
-      "description": "Measles Is Becoming So Common That Treatments May Soon Be Needed WIRED Measles Cases in the U.S. Are at a 35-Year High Time Magazine Virginia among states leading U.S. measles cases surge Axios",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Polk County measles concern ends after 21 days - KCCI",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmszam51ZkN1YUE4dHNLY0Zud3VEa1pUZnVhRU5DVnRTbEgyYkhrUWkzYXp1MXZRN3VlLXFzbjV3bVNRUG4tV2NGZ2ZWUmRuV0Q5SUdzQmw0N2lNejhHOTI3Mmx6dTlDR2ktb1NFdFgyQ09XbUsxWnZBZ0ttbUtVNnN3?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 03:26:00 GMT",
-      "description": "Polk County measles concern ends after 21 days KCCI",
+      "description": "Measles Is Becoming So Common That Treatments May Soon Be Needed WIRED Virginia among states leading U.S. measles cases surge Axios Measles record (and hot questions), foodborne illness summer, Covid-19 summer wave, and more Your Local Epidemiologist",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -696,15 +705,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Delaware declares measles outbreak days after first case - News From The States",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUhkRm9HQ0o0NTR1bU1VM3BIbXY0NjhIdDhnbVNMZXRVbkFtazkxWHVSOFZRM1pvTGs3OVZrV0JheWtxSlhaX0VDZlBiQ2pKc2JSQXc4ejU4aEZIZEY3VkM5YjRiOFJoY3RUZzJSTTY2LXBrcmdLUEd0dlNaR2NmcUhIZElCdmJZVWp2QW0ycU5lUnFKRm1rczl5cll3N0E?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 10:00:00 GMT",
-      "description": "Delaware declares measles outbreak days after first case News From The States",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Delaware declares measles outbreak as cases quickly climb to 4 - WHYY",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42S0czbzVMOTBSbVlYdzZ4XzRCZnJXMGRqaGFCU3YtdWM4OFNqX1FjaTN5dEtKd01pYWRYZFc0M3o0STNNSXk5dEpKOTZEQ0hMZFBSemZVNjIwMVNaLXl1UVVB?oc=5",
       "pubDate": "Wed, 22 Jul 2026 21:50:50 GMT",
@@ -745,15 +745,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHA1ZlpjRnE2SEl5MHRKZlhTMy1aN0lRT1lKZ240bUt1YkJxLXN6WVN5OTBXa2lCSU9kU1JRQXFodWlDVGJwY1NhenZCcGVrMzlDY1VaMWNPeEc2QnBqQ1lxdFBfQXJWQWlYVFFhWnZwM3VYM25zWG1oV2JlZUk3aU01eDBVWFNiLUF1TVN4RS0tZzNJNDQxNkVVLWQ4QTc1WUlIdGJFRDNYR00?oc=5",
       "pubDate": "Wed, 22 Jul 2026 06:18:37 GMT",
       "description": "U.S. measles cases hit 35-year record with months left in 2026 The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "U.S. measles cases surpass last year's total: Tracker - Axios",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fTUJkWk1PcmVxZjNSVWdXU2laajgwaGRXcnhtbW1oZHY4djM0M0VUWjM5Z1IzWmdYWld0bmFESmRTcWRrX3FIUDEtWXlZbGJteHhPYUxKQUg3OVZ5ZWc4bldHaGYxWXZTMUEwMUZQREFBV2pmVEE?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 00:58:01 GMT",
-      "description": "U.S. measles cases surpass last year's total: Tracker Axios",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
