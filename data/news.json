@@ -1,12 +1,48 @@
 {
-  "updatedAt": "2026-07-30T19:43:39.972Z",
+  "updatedAt": "2026-07-30T20:35:33.869Z",
   "itemCount": 85,
   "items": [
     {
-      "title": "Opinion | Measles’s Communal Risk - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84dmFxXzdraTdYdEJsQ1p0M3RJWGNFY3lrYmI3bi1wWjU4QTdDYTh1RWVGUWhnbEtNcVRvblZuS2lBZW55TnJvNGQ2ejNIZGgxdlAtNnZZQzRYRjd5Y0xFNE1BUGxXVktGSjRr?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 19:00:00 GMT",
-      "description": "Opinion | Measles’s Communal Risk WSJ",
+      "title": "Ask Dr. Nandi: Measles cases in the U.S. are at a 35-year high - WXYZ Channel 7",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRGJwcmlEVW5WVmlicjZBT3dVcmZOMi1HUFVQckx0eHk5Nnc5RXphdUdxSUh0djdIM1g1OFViZU1EVFV4U0EzZERxUWlOYXQzY3kzaXdSMWQzRXVlNUV6OThNWDNDaUtzSkVpOFluOXhaLWxaMXduN2xMMjMzb09WVDVxVUowQUdRcnNVWTdaYUhFQXBxN1ZhTHoyU1pLRGtZbG9KMnBBcVE?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 20:22:21 GMT",
+      "description": "Ask Dr. Nandi: Measles cases in the U.S. are at a 35-year high WXYZ Channel 7",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "I’m an Infectious Disease Doctor Who Treated Measles in the 2015 Outbreak. 7 Things People Keep Getting Wrong - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXQwaTBtMDQzOENTRWUxaUVFYnBndVRnVUFzNS1Ic0ltNkpENXdCRk13TWthc3ZlZF9mOGstcUFGY19NNHF2aG1aVjZMMWYwMGU2RlE2NGhRSkxrc3libU00Ync0R0VvYlNnQ3lwUmh4cFpiaWFpa2tUekRxUExMa1pObHNwOVh6WnM4WlhXQThMUENGaEJ0cEYtUVJmcWhjTm5DdXB4UEM?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 20:16:34 GMT",
+      "description": "I’m an Infectious Disease Doctor Who Treated Measles in the 2015 Outbreak. 7 Things People Keep Getting Wrong TODAY.com Michigan health officials urge vaccinations as measles threat looms The Detroit News Opinion | Measles’s Communal Risk WSJ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Health officials warn of measles outbreak in Ohio - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYW1IVzJKUHVjU0swS200cU9KY002d1ItZ21UOVFzU0Q2cC1TcWdBdlFwYnk2OUJCbUhhd2t0cUlYQnVzZHZJWURGTS13dHMxbG44Z1BrcVdqVjBsVnd3OHlfaEVEQ0dkWlF1dlN6TThCbmRqNEZXemxWRXVDVUhWc1V5b0pEM2toTW4waWhZSUlXdw?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 20:09:00 GMT",
+      "description": "Health officials warn of measles outbreak in Ohio Spectrum News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Move over, cyclosporiasis. RFK Jr. is hosting a cooking show. | Opinion - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkh6dHBQRUN3eXdPM1M2M2pmakJwX19OUmhYVDVTaVJmMEVtekxpNDBLanZEU3VYb3JXZVQtZnFqNHdRR1p4MjdUOFZGZ3UwMTloM3lJZDVqOE5xM0l4NGdERXNPYUMxVzdtejFIRGV1VlFjc2tMRGhPeUhveS05WEJSMVBlb2tBY1pXbkEwa0VCUDdyYzZRQzZQenFBX2h6SDRxSlZFdzMxZ3RUaF9CWm1oSFd3UmZONy1GUU9UUQ?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 20:00:00 GMT",
+      "description": "Move over, cyclosporiasis. RFK Jr. is hosting a cooking show. | Opinion USA Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases surging in Maryland - OC Today-Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTU1NZ1ltUzZSMVJyYnM5SjZmLU54OWtRdkpWMXNDNm14TVJDeWJVSG1UaGFGbFFUUnJ6bkotbVducWstUkhvY1VjcWNKN2RMOE8weXZvVG9ZLTEwTUNMYjhqbnRJRW9WWHpmemdFYnBaSDRDMTVCZFNwbnNzN3VlZmhMQVlKQ3oxbENXWFYxbkRFWlN0MzFQYm5VYXRudUVmbXpwQXF4RmNra1VfZDdRRVNVQkd6cjIwNUF0Qw?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 20:00:00 GMT",
+      "description": "Measles cases surging in Maryland OC Today-Dispatch",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -16,15 +52,6 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmZma2tIZGNlVkpnZkRScVJJZW50UHoxLWFGS2gwUWxQbzVUNXFqNWJVekFWc2JHRndnLXQ5SmJyQU05SDZkUERfTjdGMW9aWFZDNW1peDN4LVpGeFpsQnNocTdqT2l6WWVwTlcyQS1VVUl2YmtMWkJxQzN4WllXMHdyeTExX1lsMTlkeHg0aDZ5VGs5YW1aZkwzNG5ORWxXVGo4TlhKUFYwUVFCa2x4eTZKYmZrd28xQkVpd09qU3hDX2N6cHRKRW1PYTcyOEk?oc=5",
       "pubDate": "Thu, 30 Jul 2026 18:12:00 GMT",
       "description": "Health officials warn of measles threat, urge vaccinations before heading back to school Audacy",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Did scientists ‘reverse’ autism? Plus a measles milestone, e-bike injuries and gum health - Straight Arrow",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc1BaTFdkR254c0tuZ1BBY052RmdQeG0wdHFBeTFkdnhUMC1XX3luTUU2dlprTmFkcTJxUzNwcEVQdVNHNXFQRlFtY3ZESC1oTkpaeEtFd1AwbF8xRnRHUV92ZW1EeG1TNFVQOWNJZ3NHNkVYRTk3RFNYcG43WDlpTldYNkpyRXdGVTVsQ2R6d2IxNnRVNzJkWUJqUFhwOGhrZVJPS25PRUY?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 18:00:00 GMT",
-      "description": "Did scientists ‘reverse’ autism? Plus a measles milestone, e-bike injuries and gum health Straight Arrow",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -66,10 +93,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "New measles case confirmed in Tuscarawas County, possibly linked to exposure in Sugarcreek: TCHD - FOX 8 News",
+      "title": "New measles case confirmed in Tuscarawas County, possibly linked to exposure in Sugarcreek: TCHD - fox8.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSWpMQ0pha1h1dTNnY0tKMkx1Tm1LOXRpbVIyQ0xWM0NudXMwM21BTy1tclU5Smw3NlBMVFpzRHQwVDctUmVWZHdYV0N2MUZhbWtPZXFtc20tQXZmNk1odVFmdndDR2xfc29WVU1hMzJDV2JfaFNjRmFJTzJZb3JoSkpzU01XcVRkZ1ZHQ1hEQ2tQVXRza1JweVhUWlpLR01ESldjN3ZpNG9Ja3JmQjZFWXpJaHJicWZK0gG-AUFVX3lxTFBLV3pGSUtFOWN2MVBvZjYwUmFlOS13SmdnTG5mN0pmWHhkNHh6YzZ3bW5QRG9ieWpHcHljc0wyRUFqTld0a0RIdllreXhPQW5RcTZHZk1pWmhkb0s3ajdwbWNWOWNZQjRlZzlUYXl3NXZ1UlJkM0NseWlETnY0UzR3NzJ6WjIydVd4LVF6U0oyVHFKd3IzcDVsMUttZU1kY2VwWFo4Wnc3b0JGR3NHb3VnckVMSUQzUEpHTTFDYVE?oc=5",
       "pubDate": "Thu, 30 Jul 2026 16:54:17 GMT",
-      "description": "New measles case confirmed in Tuscarawas County, possibly linked to exposure in Sugarcreek: TCHD FOX 8 News",
+      "description": "New measles case confirmed in Tuscarawas County, possibly linked to exposure in Sugarcreek: TCHD fox8.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -156,6 +183,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Tuscarawas County confirms measles case linked to Sugarcreek exposure - Your Ohio News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbnduQ28ySmVUU0pTWTdsQW96blVJaGRodjRvaDlMVDlZX3VoOHNpWlY2ZTB5Sm5LWFJkaXVlVkk1YnlXeTVid01hOXNscldwNmRKYXZXM2FXYzVXd0FSeVVURUtsYjJPT0l5Y2QwVXBWdU0yVk5LZEhlUEdiM1F6WFpHT2hYdWtEMWV6OHpyQ1l5aFhpNUFZcGVB?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 14:07:24 GMT",
+      "description": "Tuscarawas County confirms measles case linked to Sugarcreek exposure Your Ohio News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "As Measles Cases Hit Record 35-Year Highs In The US, We Ask An Expert: What Can Be Done To Combat Re-Emerging Diseases? - IFLScience",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTFhRUy1FNDJ3ZnRGWTdaaHFMZWZkN1k2WVJ1d01FSUxpRGN5R1Fsc0Q4YVVhMktDMHdmV0hoYVRrWG8yV1A5NEQ4NWxZMVJaNDgxRmtRVXRFZWNNY2VGMW4xWmJmTGZmdXFoczRRR2JEQk9rYnJ6U1ZHR3YzQ2VBRFpfWHRIaUpzT1lOS0JSZkxBV2lpalJnN1J6d3JRZDlWd0k1d2JJc2pYMllnRlpkckJYLURFbC1Ta080eUJaTWpyckQtaUJJS1JQT2xzbG5UNzlhaHJYLWtxdjllVzVTRkUyQQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 14:05:57 GMT",
@@ -237,10 +273,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "This disease was eradicated in the U.S. 26 years ago. Pa. saw 31 cases last week - LehighValleyLive.com",
+      "title": "This disease was eradicated in the U.S. 26 years ago. Pa. saw 31 cases last week - lehighvalleylive.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOHBHeFMtZUlWM3ROdFZudkhRSHk2TmhfUXdIS0xTWjJlRVNRb0dsMmhfSHViOGh2Tm5tYzcxNVd0Wnc0MzZfWGMwOTRkT1lCRm8xS3pvZ0t3ZG1oeVJ3UU5Na0NyT0FNYWpYT2puT0xYU1R3cFdmNjJmNklhNUFpZWJ3b3MtNUhtS2lidmNZMHBtYlkxMjFpX2w2UkNzekgzV0ViYnpiQ2xnOVBkNVlMc2thRXcxRTRvak1wSXBKYlNvMFlHOXc?oc=5",
       "pubDate": "Thu, 30 Jul 2026 09:03:00 GMT",
-      "description": "This disease was eradicated in the U.S. 26 years ago. Pa. saw 31 cases last week LehighValleyLive.com",
+      "description": "This disease was eradicated in the U.S. 26 years ago. Pa. saw 31 cases last week lehighvalleylive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -309,15 +345,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Gresham urgent care clinic exposed to measles: What to know - KOIN.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcnI0bnJCdV9yR0lpNGhLWUhyZllpaUJ1UF9TalQ3UXJqUm5DbTFzUXhCbHFKaUNBODNCaTloYUpFelpmSVZ6V0xVaFY2TnRnWndZNXpSaERINkNHM1hiVzJpN2hFd0h6dmNHZWJHQXltOXF4bkdPTnZLZ3cyWElxRkpJVnctV29GeUhFVzF2M3NoNEpQQUYyNHFudXpBb21xSGlZWmxR0gGrAUFVX3lxTE9OeFV4YVpIZGowcVhsamZUeWFVQWtaOFFZc3FWNmdTVk95Mlh0dU5OdHk3N1ZQRlhMbmlhNWwwNW8zZU5vX0JqY2VPNTN0amtuV3pIOFpQZG14NllGQnVSVVpCQ1dvcnN0ZTJZLXZuRDR4dlZZR1lCYXpyTzUxNWx6SnFYOUlMVnNWLUlveGhfYzlXa2ZmWXN3VlpPSzdfX081TzFlelFmazY0dw?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 00:18:08 GMT",
-      "description": "Gresham urgent care clinic exposed to measles: What to know KOIN.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Wastewater in Anchorage signals warning about measles - Anchorage Daily News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnNyVWlQRmluOURzdXp5QXBCNkVNYkFfZklwdzJHSGlpWkZpYllSUGc2alJQNkdZdG5ibGktV3hCVHlKdTdYR0RFeXZsLWZkcmV1LXBGLXBpcld0bzg5a3FZQm15NG1oX3FJeUltU01UYmdzX3pQNXBzSExOaWZhdXVGeWE0aUVYMDZvR2tXMFo2d1pLRGVFeGZGNUhIQmcyYy1LVi1lZmk4Mkk?oc=5",
       "pubDate": "Thu, 30 Jul 2026 00:16:56 GMT",
@@ -327,10 +354,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Gresham urgent care identified as latest measles exposure site - KGW",
+      "title": "Gresham urgent care identified as latest measles exposure site - kgw.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbHRJWi1lTnR2a2NMbFhaTDFUMzlUNjJNU051RHdQOGdUSUdaaktIaW5zT2ZoV2JiRHQtbUpoR3J1ZXB4LVo1TE1VZmlvNEJPNkxwVVJSTmZldHRHZFVzVEpmc2FUcHR2WnpXb2ZPYUFRbDBiX2J0RFdLNEV4QXVCcnZZUmk1d2NMS0JHTzBmUVJNQktxM2k5ai02NVh2Q01iOTZ1Z0pfR0hsZnpSY2YwV0U3SWtHMzJOOFlZUXZfeWJMdTFUMnFZc25hdDlaT1cwOGhzVENXcDQ4WFd1bGgwaDVfYw?oc=5",
       "pubDate": "Thu, 30 Jul 2026 00:11:00 GMT",
-      "description": "Gresham urgent care identified as latest measles exposure site KGW",
+      "description": "Gresham urgent care identified as latest measles exposure site kgw.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -372,10 +399,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Evidence of measles virus found in Anchorage wastewater - Alaska Public Media",
+      "title": "Evidence of measles virus found in Anchorage wastewater - alaskapublic.org",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDZib3pXVGVDclphRnlnTW9BV1JaRGlwVlpBdnl0eDZzVUhJQUxieU9nYlR4UTFocUh5VWhTRmEwM0gwYlVaQWw4LTRhRDczTzItdUk3ckZWVy1leHFaZVpYRFdXNTFpb3J2Mi1kWERjaE5mZndWcTBOZ0ZBUHlqcXRLbTVGUGs5d256RUNJUmdMcnJKQ082NnlydUpuX1plNF9vb29R?oc=5",
       "pubDate": "Wed, 29 Jul 2026 23:07:00 GMT",
-      "description": "Evidence of measles virus found in Anchorage wastewater Alaska Public Media",
+      "description": "Evidence of measles virus found in Anchorage wastewater alaskapublic.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -408,15 +435,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Senator Warnock calls for RFK Jr.'s resignation as measles cases spike - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb1V1ZnRmOGpDVEFJSFJ0djhraWpjNkJyaEJscWF0eU1wZFhONGZQdWhOZy1iQ3RJLVQtTnltTWxaZVJDWnR3OXlmWnZYM1h5a3hSZzZES3NUSjRKbXlNdEpHNmR3VU50c1ZvczBBQUdoTnZockU4Z2R4bHhJelhKdU9KckRRRzJsdVAzTk1NMXZIdF9LdmdQQ3JjZDJmRlJQbTV1M2VOSDlSdUkzcTNrZ0Y1ejhKYVo0OHo0ZjBlaHVScENKd3Y3ZEk4eFRCcU95ekcwRFVTLXk?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 19:30:00 GMT",
-      "description": "Senator Warnock calls for RFK Jr.'s resignation as measles cases spike USA Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Texas Department of State Health Services issues health alert after 4 measles cases reported in Montgomery County - ABC13 Houston",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOWFxLTRxYkh3bGZ4QXNZWmQyWXl2Y1FSaU1Zb3pJVFN1aHBBTnB6SDU2WGx4Vzd1bGFFd1JHNjkybTFvRzdKS3NLbm1VZUYyazFHajBRbjFUVWR0UjdjSDFKTkJpcTQzVjNVdFVCTlRZVTcxSTZ6S1NsYWYwLXUtSGhWTkdZVmQwejFVUkNrUWh5a0JyN096TDJac19VRmE4VVFrUjdlUUpmbWx3V0xKT00zN3RSUEFiT3FZOXc2c0VYbmR5d1HSAcsBQVVfeXFMTTFDbWhuSjVlNDdfV1ZlbVEzcThTY0NmaTI2Y3BzVW9lN29ORWhBRlVneVJkOEt1bzhVOFFON2FqaWNhRUVPOUJoX0NJb0lUSjJQYmhrMHNkanR2VG84YVpBckptcm1MaEVqWHRJWldzYXluemJHOG9VbjlnQ3FSRnF0WnRacGFyNTU1UlZGb0k2RTdhZG1USGVLUC1yeU1SM3Q1MlhYNy14bGxsSE5WaTJxamROdy1YQldIR0dkWHJqZERvMkhlZkVCejA?oc=5",
       "pubDate": "Wed, 29 Jul 2026 19:04:14 GMT",
@@ -426,10 +444,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Texas health issues alert after 4 Montgomery County residents infected with measles - Click2Houston",
+      "title": "Opinion | Americans deserve the truth about measles vaccines - MS NOW",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQzd1QUwzMVNYQWx2dklmc1FOR25QUUdDcXFKbXBzUW1uN00yU1FRczJmaWhBcHdjZjlQLXZMZmc3ZklyaEhLb3hyRXNaRGN6MV9Gb3pMNk1sSnNSM2t2OGtnOUNLS0dDa00ycFR6V2F4UGpzR1FqSHR0dC1WbXRFTGdhOVFxSV95WXBjTlZvY0xzOGc?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 18:42:19 GMT",
+      "description": "Opinion | Americans deserve the truth about measles vaccines MS NOW",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Texas health issues alert after 4 Montgomery County residents infected with measles - click2houston.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVUNsRUY3ZV8zWmhrdEh3MDVyVGJzMEJiYXJNOW9jUmU2SUtvb2RlNFhIdGhoUzRxR0s1bjlrNWEyVEFCbVVhbHAtazZFaXZrMFRPbXhRMnJHb2dHLVRGdXBJUlpwems2clRmRExHemEwSmliTjRfM25sdnZZTjc0SlhtUE4zcmloanJUNFlKSVZkNkpXU2phTXBVU2FnSUItaTBjdTJ0VGl2NkdUUWhfWHFxUUVnWDJJRTRLRFBUSDZ5ZE5pV2tDdkxkNDh4cHZVOFE?oc=5",
       "pubDate": "Wed, 29 Jul 2026 17:18:35 GMT",
-      "description": "Texas health issues alert after 4 Montgomery County residents infected with measles Click2Houston",
+      "description": "Texas health issues alert after 4 Montgomery County residents infected with measles click2houston.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -462,28 +489,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Lancaster County's status as measles hotbed should spur county and state officials to action [editorial] - LancasterOnline",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNc18zOC1ZQ0Q0VklvMGdWLXFQQ0R3M050eURQb0Vrdnc3eUtRYTE2bXFfN3dTM2RGSXU0RnU4WDZOZUZGcVV6MGtEbDVEOFItaWxSVWtjWE5rZTNwRS12ZFM0aFN0V1BlbVZOaGNoOUdQdXZSSWdMNTNQN1VPLVVILU01eFgteFV2a3MzYnhPMXRMSUwycVNkZHJNM2h4dTI2OGlpdmVCemxXeDBoeG1RUUo2cWRRVk9YWDd3b1B3YkIzZWxJU1NQVVVHcVp5N3BMbHg0Z0s4RVRhR1ZjM3B6b21ZTThGUFEteTF1Y3p6Z0NtUGVFMi1DeklWQjV0cnJQd0V0OTQ5MHZhdDRPcDJFZ2NaaGdwUmJ3cHNPUFpSTThCQU9S?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 10:00:00 GMT",
-      "description": "Lancaster County's status as measles hotbed should spur county and state officials to action [editorial] LancasterOnline",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases reach 35-year high: What doctors and hospitals should do - chiefhealthcareexecutive.com",
+      "title": "Measles cases reach 35-year high: What doctors and hospitals should do - Chief Healthcare Executive",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYnVSZUFvQ0o5VXptdm9Ka2wxVmRDSzI2ekdtdXFJVko4YXRkVmVXODNWNVRFcXNLRk9lZ1pyVlRSNmZUMklrQ1E4WnZEOXhSb0FWVG5kX1RtaEVLMzZlcUdseHpUVTlQQWdzRFB4a3IxZjhBN2FBVElpMlcxY1hrc1NEcW44SjJ5eW04dTdNbDh1QUZyZVJ2UEI1eGhyM1RINjBsUllmUlpSbkY1a1F4ZzFZVzRLZw?oc=5",
       "pubDate": "Wed, 29 Jul 2026 07:37:28 GMT",
-      "description": "Measles cases reach 35-year high: What doctors and hospitals should do chiefhealthcareexecutive.com",
+      "description": "Measles cases reach 35-year high: What doctors and hospitals should do Chief Healthcare Executive",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "2 Portland health care facilities identified as latest measles exposure sites - KGW",
+      "title": "2 Portland health care facilities identified as latest measles exposure sites - kgw.com",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbGVIZm9scGRNN0V4VmowMExBSWRNOWZKT21fMXM3aGdFQUpNa2QyWGhRSi1XSUg2a1N6YXJORHZTR0ZRSDJLNmxIU25vVkxLZ1Izc1hUU3ZTS0RBQWRDbUh3SUF0cWkzRGVtVnlXNjBScVZxVWMwRzVHYkxRQzQ0YVhPalczNFpsZXVJLUpDbGFaZVRDYXBuaU84Ym5ZbWxnN2ZuMF9UVm5DWjUxME5OdWxvWGUzU3QweGtsMmlmSk1EQTVBNEFuQ0ZWUEV5d3JDUVNCTWU0WnJ5TmtvajhicU5R?oc=5",
       "pubDate": "Wed, 29 Jul 2026 01:03:00 GMT",
-      "description": "2 Portland health care facilities identified as latest measles exposure sites KGW",
+      "description": "2 Portland health care facilities identified as latest measles exposure sites kgw.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -543,10 +561,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Opinion | Measles outbreaks shouldn’t happen here. Our county got lucky. This time - Bridge Michigan",
+      "title": "Opinion | Measles outbreaks shouldn’t happen here. Our county got lucky. This time - bridgemi.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLS1rVTkzci13OXMzdlVpVkxDUzVnd3JreThYVU91UHRacGpXNlhoQXhsU1dTYVF2SXI2dGlmV1o4UEhGSGJ1czh1bmNEVGRHaks4dVZQd1NOUENqTlpQVXV4TnhMeTR4WDFZTndieVBfMURRaG5qaGcyc3BlYktWb0lFdk1jR1FoTUh3Qi1Nc05sWTR5UHdtZ00wTWlsSE1hS0U3RTZXUndTdjRyM09CYmcxTWRXblU?oc=5",
       "pubDate": "Tue, 28 Jul 2026 16:17:11 GMT",
-      "description": "Opinion | Measles outbreaks shouldn’t happen here. Our county got lucky. This time Bridge Michigan",
+      "description": "Opinion | Measles outbreaks shouldn’t happen here. Our county got lucky. This time bridgemi.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -565,15 +583,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQlpOY3o0MnVxVS1WSG4yV3c1d3pxQUpiZUlmR1hFV0xuWnEwZzFZUmVzVW1Da1UzSEZxX3JrcFRPbFg0QVNuT0tBY0tmMV9jT21HUWlEXzZHTl94UEt2OGkyRVZSdlVNaERDWHVoZjNKU1U2S1RJakdVN3lLU2x4UXdIOHJGSDFSNGlHU3k3bmktdDRMT3JoT05pcU9fTXJSZE1qdFlXREV4VDFqV0xiM0dLbHE?oc=5",
       "pubDate": "Tue, 28 Jul 2026 14:20:25 GMT",
       "description": "Florida Measles Cases Rise Before Schools Reopen EMJ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles record (and hot questions), foodborne illness summer, Covid-19 summer wave, and more - Your Local Epidemiologist",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUWw4U1hMYUlPbmJvajVYX1pkRnU0LTFfSF92enQxamwxVzA4Tl9QSExOSmxFWEpyaEd1eVR0Slo1THAzWHRkMlRUZ08xRjdtQWRYUkxCSTZUVkVBOW52WGdoNmhPU0l1NHhBVDdzTHpYbGVHaHZsMHp4azF1T1kySHc3dkhwZw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 13:02:33 GMT",
-      "description": "Measles record (and hot questions), foodborne illness summer, Covid-19 summer wave, and more Your Local Epidemiologist",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -642,15 +651,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Guatemala measles cases top 30,000 - Outbreak News Today",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53MlpYRmE5MmNNQjRUdENtTFdUUnVRVktZWFV0M1EwSEF1cGxPN1NQNEhfWURkc2UyLVRQRlNVcTNnNjZWS3dPSjVncHNXWWtYanBZaFhnU3FERkhKS3liQVFLalJTanFicVJ6SUpzdXFTMjZDcnI2RHU0cUFsMUk?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 21:42:58 GMT",
-      "description": "Guatemala measles cases top 30,000 Outbreak News Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "The worst year for measles in a generation - vox.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0c2a0ZsR19nS2lUQVVreFZMT19ES2NpcjNLU190ZnFTLW10bW8wbzdWRmFDYUJPQmdNRUlObThsQUR1NlpwS3E4ZXZRVTVMSkdhQkpGSXRxcERxZWdPM2w0NVVyNzh4YXJsOUpteE1xVjd4bm00dXZrYy1UV3MwWkxjVjBkSW8?oc=5",
       "pubDate": "Mon, 27 Jul 2026 20:50:00 GMT",
@@ -663,7 +663,7 @@
       "title": "Measles Cases in the U.S. Are at a 35-Year High - Time Magazine",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BTTlKVGxkLU5wU3VHaHktWVNHSEVibVU0clAtRmRRMGsxRnp4em5FbUtkZ2J3NzI2NHFJRk54TDJBZG9QUlRtN2liVzdSYnJLVHVZUUdZNGJSaFExeGFTaEh4aDNfNjkxcWRnSVlreDE4QzVt?oc=5",
       "pubDate": "Mon, 27 Jul 2026 20:22:29 GMT",
-      "description": "Measles Cases in the U.S. Are at a 35-Year High Time Magazine Michigan health officials urge vaccinations as measles threat looms The Detroit News Opinion | Americans deserve the truth about measles vaccines MS NOW",
+      "description": "Measles Cases in the U.S. Are at a 35-Year High Time Magazine",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
