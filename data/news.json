@@ -1,12 +1,39 @@
 {
-  "updatedAt": "2026-07-30T07:55:45.845Z",
-  "itemCount": 80,
+  "updatedAt": "2026-07-30T09:05:30.470Z",
+  "itemCount": 81,
   "items": [
     {
-      "title": "Measles detected in Anchorage wastewater - alaskasnewssource.com",
+      "title": "This disease was eradicated in the U.S. 26 years ago. Pa. saw 31 cases last week - lehighvalleylive.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOHBHeFMtZUlWM3ROdFZudkhRSHk2TmhfUXdIS0xTWjJlRVNRb0dsMmhfSHViOGh2Tm5tYzcxNVd0Wnc0MzZfWGMwOTRkT1lCRm8xS3pvZ0t3ZG1oeVJ3UU5Na0NyT0FNYWpYT2puT0xYU1R3cFdmNjJmNklhNUFpZWJ3b3MtNUhtS2lidmNZMHBtYlkxMjFpX2w2UkNzekgzV0ViYnpiQ2xnOVBkNVlMc2thRXcxRTRvak1wSXBKYlNvMFlHOXc?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 09:03:00 GMT",
+      "description": "This disease was eradicated in the U.S. 26 years ago. Pa. saw 31 cases last week lehighvalleylive.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Challenges abound as measles continue to tick upward in PA - York Daily Record",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSm96cmhtZmhNRW5ubG5oVUliRnJ5R0haNFdrdS11b2dKejFXVDhYMGpxVVBQLTBBeXdaQ0hBSml1QTg0M3lYSjJNMzl0bXp0NUEwWlhMMjFhZUJCbThtQlkzbERTU1JsMXcwYWljODZkdmtCLUdzbDF4eVlZN2xHSzhsRnF0RzJfSERXeFBZVjFFSl9LMFpORTRpelRNVmZ5ekNnVzY1R3ZkbF9CZ1d6dTNGMEJzQ3JEbVQ4NUh3bThLM2hEanBoWklFQQ?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 08:57:00 GMT",
+      "description": "Challenges abound as measles continue to tick upward in PA York Daily Record",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases reach highest level in 35 years. See the charts - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR2h2R3JOSVJzSDZhdEpOQlBpei04X2FIOGluYzNmb1hxcWcyUURLS3BNLXZHd1A2ZzI5Z2dvOVNVYWlXTEh6YVh5LUVoZi1xZFdyUk55Ulh6dEF0WVREQUtHcllrMVRuNXduSTVwU1h3VlMtby1MWUhjMjRLWWNmQlBKTnBzZEpkTVVTMFhjMHVRMzFGT3Z6eDZSVDJINEZw?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 08:02:00 GMT",
+      "description": "Measles cases reach highest level in 35 years. See the charts USA Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles detected in Anchorage wastewater - Alaska's News Source",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVk9aYXZtNVd2V0xIMDJpaVJpbV8xTFd0cV9RRUVCZUhlZmxyN0FZMGlkSEV0UGowdmFldm03WWRTSHVrRHptbzlHZDZwam9EOE5QdC1RYjk1RmJDc3ZjVkprVlktbnNqS21nSElCWDFtbnBkd1F1Tm13bWoxMHNEeUloYU9WRWdPYktN0gGfAUFVX3lxTE9qUWEzU29sZUZrSTNlaE1xRW1VNkp0OFZZcC1fMWx6akxsOTFkOEwwcE9CSTJuV1l0TGhyYXV4RG1OTklRZm1QSnk5a3dnTzhuQVJQa0x4QXFtQUFFRWFCcHA3VWJKVjI1SlhaTHE4WWRKMERUT2ZfWEhUZHlqN1FIWFZHZExjc2h0djRXUXU4UGJiQjBqZUFJWC1kOXNsbw?oc=5",
       "pubDate": "Thu, 30 Jul 2026 04:57:00 GMT",
-      "description": "Measles detected in Anchorage wastewater alaskasnewssource.com",
+      "description": "Measles detected in Anchorage wastewater Alaska's News Source",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -39,15 +66,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Wastewater in Anchorage signals warning about measles - adn.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnNyVWlQRmluOURzdXp5QXBCNkVNYkFfZklwdzJHSGlpWkZpYllSUGc2alJQNkdZdG5ibGktV3hCVHlKdTdYR0RFeXZsLWZkcmV1LXBGLXBpcld0bzg5a3FZQm15NG1oX3FJeUltU01UYmdzX3pQNXBzSExOaWZhdXVGeWE0aUVYMDZvR2tXMFo2d1pLRGVFeGZGNUhIQmcyYy1LVi1lZmk4Mkk?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 01:42:07 GMT",
-      "description": "Wastewater in Anchorage signals warning about measles adn.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Gresham clinic is latest potential measles exposure site - OregonLive.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjNZRUhpWHdERzRHM2NyS3B6OGpDWUlGdkJZWWotdTA1OE5mQzQ4ci1kLV9LYzVyRjkxMzR4TmppT3ROSFdNY1A1cVFJR1BHR0xkSnJPbDBnb3cxLTdlYXByYW1IUmRHVWs0blhLVFlUNUVudjRXdWhfUTkyaWVTdTNFb3o2aUZObFd4SzVlRDV4R1h1YjNMajg4SmE4Y0wxMThIS3Jn0gG6AUFVX3lxTE9ETDFNdUhHcFlQM1RBV1dPM1NwMG9KV1FiSHFjTWtMdzBYSy1HWkRKWTBpSkdQTUZoeGZXVU16TkdSRGVWcFN0MHZMeE94bGVvaWNzLW9kelFzYWlGNmxxM1RhLWFEd0RaODB4OTdyR0FuSzBkYjdEejJ0YWwyRWppbXVCbGZCTmZQZUd5QXN2UGEtMHlmNjNjTERkcWlCQ0N6aFZIZHVrZzFrcklkOUxTV0Z5dm1UcjJWQQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 00:38:00 GMT",
@@ -57,10 +75,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Second Gresham urgent care clinic within a week identified as measles exposure site - kptv.com",
+      "title": "Second Gresham urgent care clinic within a week identified as measles exposure site - KPTV",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeFczenJRaFNvSzNGa05zYjNrblJIWDR3Y0dUWlNRVXM0QXFOMmQ3RGRsNUpRYTBPV2NUZWFJYzNKZWxrNHV5UjFDV2l2dFhYTjhKNk5lR3JYeEs5U3VwRGVQalV1Q1FqdmowQ3dKTWFJQ05LdVo5WjBfR0REQ05SN3llZUlvM29mUERTcFo1ZmJNTGxfVWNQWU5mejNUeWRPR2lQYW41RzFJd3hIbEJyZQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 00:20:00 GMT",
-      "description": "Second Gresham urgent care clinic within a week identified as measles exposure site kptv.com",
+      "description": "Second Gresham urgent care clinic within a week identified as measles exposure site KPTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Wastewater in Anchorage signals warning about measles - Anchorage Daily News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnNyVWlQRmluOURzdXp5QXBCNkVNYkFfZklwdzJHSGlpWkZpYllSUGc2alJQNkdZdG5ibGktV3hCVHlKdTdYR0RFeXZsLWZkcmV1LXBGLXBpcld0bzg5a3FZQm15NG1oX3FJeUltU01UYmdzX3pQNXBzSExOaWZhdXVGeWE0aUVYMDZvR2tXMFo2d1pLRGVFeGZGNUhIQmcyYy1LVi1lZmk4Mkk?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 00:16:56 GMT",
+      "description": "Wastewater in Anchorage signals warning about measles Anchorage Daily News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -102,10 +129,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Wastewater in Alaska’s largest city signals warning about measles - Alaska Beacon",
+      "title": "Wastewater in Alaska’s largest city signals warning about measles - alaskabeacon.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbFB5Z0FvZDIzVjktaFNJWnFwXzEteHpnUHJaNFp5TmlVaFZqc2ZxSTFESmJhR2lrUm5FcjFxQ3lmNExoREZGRVNRdGh4RnFnWXRpMml3NDBLVkJlcEtCNlJLMmV6VGh4TEk2Nk9qWlp5Ti1Ea2Z2QXVNdzBtV2paeTMtSWl5QV91bHVnMUY2bTZmZEo5MWtleDFyTnkwcU9hZk9r?oc=5",
       "pubDate": "Wed, 29 Jul 2026 23:31:45 GMT",
-      "description": "Wastewater in Alaska’s largest city signals warning about measles Alaska Beacon",
+      "description": "Wastewater in Alaska’s largest city signals warning about measles alaskabeacon.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -174,10 +201,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles makes 'concerning' resurgence in the U.S. - spectrumlocalnews.com",
+      "title": "Measles makes 'concerning' resurgence in the U.S. - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeDRKUXBpSzk4MUE5SWZXaFZXZi11Sk96OVBpYUxydkNvMmNwY1VXWUZXOTlGMzJLcUJNQXRvellCT1lGRGRNUUlBVEJ0QzNJMWgycGtMWDJPXzlLS3BIM1U5TFZnWjRSYXZJYVpwRTdYaGJmYlpDRWR5cTBrbnJndHVCb3V3QWJQaC1FZ01tRTI5UlRSTmQ4aExscGlPelE5dTk5NVlFTFBDSjdwUWxJZW1YOA?oc=5",
       "pubDate": "Wed, 29 Jul 2026 21:10:00 GMT",
-      "description": "Measles makes 'concerning' resurgence in the U.S. spectrumlocalnews.com",
+      "description": "Measles makes 'concerning' resurgence in the U.S. Spectrum News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -205,24 +232,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb1V1ZnRmOGpDVEFJSFJ0djhraWpjNkJyaEJscWF0eU1wZFhONGZQdWhOZy1iQ3RJLVQtTnltTWxaZVJDWnR3OXlmWnZYM1h5a3hSZzZES3NUSjRKbXlNdEpHNmR3VU50c1ZvczBBQUdoTnZockU4Z2R4bHhJelhKdU9KckRRRzJsdVAzTk1NMXZIdF9LdmdQQ3JjZDJmRlJQbTV1M2VOSDlSdUkzcTNrZ0Y1ejhKYVo0OHo0ZjBlaHVScENKd3Y3ZEk4eFRCcU95ekcwRFVTLXk?oc=5",
       "pubDate": "Wed, 29 Jul 2026 19:30:00 GMT",
       "description": "Senator Warnock calls for RFK Jr.'s resignation as measles cases spike USA Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Senator Warnock calls for RFK Jr.'s resignation as measles cases spike - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2J1QUFUWFdXQmNET3EwblFmVlhvZ3hFT1ktR2FKdzIzczlDRjAxcVQtTF9BYTVRYm13YzNkMmVpdk4zdVlIMXhQNml3emZtUlJGcHRDWUNNSW1uTjJUS094LWRQMkdXbFd0MHFNbXNWREhUZms4aU5VQmVxSUxwb2Q2aklzaVJPRU9MaWNSTTQ4Zw?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 19:10:13 GMT",
-      "description": "Senator Warnock calls for RFK Jr.'s resignation as measles cases spike Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Opinion | Americans deserve the truth about measles vaccines - MS NOW",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQzd1QUwzMVNYQWx2dklmc1FOR25QUUdDcXFKbXBzUW1uN00yU1FRczJmaWhBcHdjZjlQLXZMZmc3ZklyaEhLb3hyRXNaRGN6MV9Gb3pMNk1sSnNSM2t2OGtnOUNLS0dDa00ycFR6V2F4UGpzR1FqSHR0dC1WbXRFTGdhOVFxSV95WXBjTlZvY0xzOGc?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 18:42:19 GMT",
-      "description": "Opinion | Americans deserve the truth about measles vaccines MS NOW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -300,15 +309,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Democrats try to deflect from COVID-19 to protect Fauci in heated hearing - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeHJQWHd1dW9TS0pZaHNVcWtHVy1IQjhEaDRxSVRXU2R4VFdvR3huN2lSeFUwWWhVVWdYVER1cFBIT1oxeEN0TFFLeURYakkzQzhnMUZuTEpwcTJ0NlZmTEpMcnBGeG9sMk50SjQ1R2RyWkRYYXVEM2NHa1NBRXZEVGZpZlVaMVJZV2NfTDRCaDlHdmFTVFBzbW9Cc1o5YzVHMUFWcGNxMA?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 15:13:00 GMT",
-      "description": "Democrats try to deflect from COVID-19 to protect Fauci in heated hearing Washington Examiner",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Highly contagious: Viral disease tops 2.3K cases in the US and the numbers are still climbing - MassLive",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeTh4M1VNV2FpZjIwWHM5RjQzOXRKZXVIQnpBMDBmcjE5SXVfZEl2aXRkUWRCamFTbjNtTk5Qd194RjZkS1FmMk9wRlZDVGF5d29uRjAtVldBUE1MS3lTMEFHRjNrZzNyYUx3N3dCUHpDUE5PejdZb0lYNTJwYTNaZkNPaHd3N1hJMmp5RkwtcnpGUXFTT2xoZXpsRVpjakF1aFVuQ2p6SFM5WTBBeGJNYnNGc3JSem4yNXdKQlFsTXYySzZydVRxb2k3VkNlbWfSAeMBQVVfeXFMT2NEeFRHVmtWNUhaMllrdDdIM0hvUGtTUEhhamZiUnRNZnJyYjlZRlVSRU9VUEp5empIRUpWcDA1bXFHUGpPZ2RrQk01SmZlOWx3OElxZGdvenI4LS11SGxoZXJsZHVZdVJLbklZdzE0Rk1iX0V1U0RvMFl1TXVCRVAwYW85b2VoaHhpNEZLRTNHdjNGVmZSbXFhY0RMdGo5clJ0bkJIZXEybjFUVVBhaDlUQ3h0ekRZQURWTFUtelNYTll2NzY2Tl9NcmJvZU5xUG9ubkFUQVcwNmRkbG9xaGE2V3M?oc=5",
       "pubDate": "Wed, 29 Jul 2026 14:24:00 GMT",
@@ -363,10 +363,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases reach 35-year high: What doctors and hospitals should do - Chief Healthcare Executive",
+      "title": "Measles cases reach 35-year high: What doctors and hospitals should do - chiefhealthcareexecutive.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYnVSZUFvQ0o5VXptdm9Ka2wxVmRDSzI2ekdtdXFJVko4YXRkVmVXODNWNVRFcXNLRk9lZ1pyVlRSNmZUMklrQ1E4WnZEOXhSb0FWVG5kX1RtaEVLMzZlcUdseHpUVTlQQWdzRFB4a3IxZjhBN2FBVElpMlcxY1hrc1NEcW44SjJ5eW04dTdNbDh1QUZyZVJ2UEI1eGhyM1RINjBsUllmUlpSbkY1a1F4ZzFZVzRLZw?oc=5",
       "pubDate": "Wed, 29 Jul 2026 07:37:28 GMT",
-      "description": "Measles cases reach 35-year high: What doctors and hospitals should do Chief Healthcare Executive",
+      "description": "Measles cases reach 35-year high: What doctors and hospitals should do chiefhealthcareexecutive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -417,10 +417,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Randall Children’s Hospital, Providence St. Vincent are latest measles exposure locations - kptv.com",
+      "title": "Randall Children’s Hospital, Providence St. Vincent are latest measles exposure locations - KPTV",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR1lObE92REtXQWNUZ0RleXFLRVhCcFA1U09KaTZzNmxlLWFkeWRnZmctY1ZTUWxSbklZb09OVHFwQXBSS3dIa1Z4Q3J5c3g5cGlldEt1R0l2S0hldjRQSnh1VkhFcEcxZENYUERYaHF2TGZtZlVFTXpCWFR2MnIwYmdWSTJObEJzeFRPMnlpX0Nxd2N2WEZBdVA3NElFbDBSXzBXUXVfUm1oSW9wMlFHc3VFZjhCTWRKd19oM19uNkw1WUpCcWVzazRsSm9UNkZWMkhMWkk1a9IB6wFBVV95cUxOa0tsWjJjUW55bU1jd0U3TVV4LVJDeHVCWXBnQXl1MTloSmh5ZV92QzJnWk5zNFVLbFBRTklIbThYdk4yWWhKV2ZsMnZBaXRzY2gzYWxPS2N6QlB5Vlc5RVJ2WlpISGJxUU1CUS1TWlVNQjQ0WExaUktWcVR5RjhXZS1mYTd0RGxmbjRZeVVkUWlXNDhIWDBGU3FibWxMR0FFMUJ0LU9sWE1ZeWdGT3BtdWdHUWVLbXYyM3BfQjllcWN5dHdibzVLNFIwWXByb1U2Wkp4VTNXWmlZRUtsczdRdnRWZ2ZFWDcxNUFn?oc=5",
       "pubDate": "Wed, 29 Jul 2026 00:35:00 GMT",
-      "description": "Randall Children’s Hospital, Providence St. Vincent are latest measles exposure locations kptv.com",
+      "description": "Randall Children’s Hospital, Providence St. Vincent are latest measles exposure locations KPTV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -453,10 +453,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Nation amid worst measles outbreak in more than 25 years - PhillyBurbs",
+      "title": "Nation amid worst measles outbreak in more than 25 years - phillyburbs.com",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQY0NnRVNkSE5uTG0yS2ZkMVZ1dFBmMHFXeUJDY0RvRlowLXlJUUgwTGQxQzBKUHNBZ2Nod3RHdjJ2dmJIU2l4ZDZrZVJsM214OWx1WHMwajlJWEY5QlhHeVpRM3E3ZkdUajliak5rS2l2R0dEM0VCRjZEbi1QelQ1TE9JSjQ3SmhVYVkxV3dMRll3Xzl4VzdZWmlkbG9ramNqaXd1NEF6QWRBT3prcV9NOFhPZGdhWXZmbExiUHp4bEtRUXBjdl8tRnZxVWNaTzVVWWRhUmtJalRtQ0J6TTliRnFTSHMwSWcwX0JoQmxiVFVLU29Zd0VkZ3FSWQ?oc=5",
       "pubDate": "Tue, 28 Jul 2026 18:12:00 GMT",
-      "description": "Nation amid worst measles outbreak in more than 25 years PhillyBurbs",
+      "description": "Nation amid worst measles outbreak in more than 25 years phillyburbs.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -489,10 +489,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Florida Measles Cases Rise Before Schools Reopen - EMJ",
+      "title": "Florida Measles Cases Rise Before Schools Reopen - emjreviews.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQlpOY3o0MnVxVS1WSG4yV3c1d3pxQUpiZUlmR1hFV0xuWnEwZzFZUmVzVW1Da1UzSEZxX3JrcFRPbFg0QVNuT0tBY0tmMV9jT21HUWlEXzZHTl94UEt2OGkyRVZSdlVNaERDWHVoZjNKU1U2S1RJakdVN3lLU2x4UXdIOHJGSDFSNGlHU3k3bmktdDRMT3JoT05pcU9fTXJSZE1qdFlXREV4VDFqV0xiM0dLbHE?oc=5",
       "pubDate": "Tue, 28 Jul 2026 14:20:25 GMT",
-      "description": "Florida Measles Cases Rise Before Schools Reopen EMJ",
+      "description": "Florida Measles Cases Rise Before Schools Reopen emjreviews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -520,6 +520,15 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZUs5QllpbG9MRDB5UWI3SW5SNWllZm1yQkRNaEQ3aXBJajhVNFA3YVA4S01xSkY4MElnLVJFeTVUS1FyejRadGx1aklyMURKZFJFR1hTbVRkbEdUSXp6WktQQUJ3OWtUV1pBOXFFejFZWHFFNV9OcVR6NGxXcEJqazgwd0t4VkFvOHg1QV9pQlJlMEgxTUF3SG1VUmdLdw?oc=5",
       "pubDate": "Tue, 28 Jul 2026 10:15:06 GMT",
       "description": "Measles cases are surging in Pennsylvania Axios",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Summer camps consider measles policy as Targhee requires shots - JHNewsAndGuide.com",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYXdXeFJRb0c3Ukt2dXdUaVR0VVpqZE4yYkdRTjZaY2pDY1Q2NXE3TUpDNUZvR0s5TVZlWENJTjNONWYyODIyWDFqZktyNjBud0xHQVZCWUp3T04wajM3RkdaWTYzbjMxVU9rd3lNcDhWV0xpb2VZamc1bFRCLUhpR1p3cU5idGlpLTduS2FUY2ktcUpReXJZXzdqNkdPREZsN19McE9XNWVXM3pJSzFTYmN5VXBwRDc2QVMySnp3Q25nemxVUVlqVmxod1BXc0xlVThlc2dtLW5NT1JlU2cyamp3dUg5NnhIMW9hUDJkczhPVEU?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 06:00:00 GMT",
+      "description": "Summer camps consider measles policy as Targhee requires shots JHNewsAndGuide.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -600,16 +609,7 @@
       "title": "Measles Cases in the U.S. Are at a 35-Year High - Time Magazine",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BTTlKVGxkLU5wU3VHaHktWVNHSEVibVU0clAtRmRRMGsxRnp4em5FbUtkZ2J3NzI2NHFJRk54TDJBZG9QUlRtN2liVzdSYnJLVHVZUUdZNGJSaFExeGFTaEh4aDNfNjkxcWRnSVlreDE4QzVt?oc=5",
       "pubDate": "Mon, 27 Jul 2026 20:22:29 GMT",
-      "description": "Measles Cases in the U.S. Are at a 35-Year High Time Magazine Measles Is Becoming So Common That Treatments May Soon Be Needed WIRED Texas Department of State Health Services issues health alert after 4 measles cases reported in Montgomery County ABC13 Houston",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Delaware County launches vaccine campaign as Pa. measles cases reach highest level in more than 30 years - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3NKcWZHekNyRzNBUVVlQlpKTERsakUzamJpY1YzdU5nRWFyTUlKc1oxMUkxZjhKbVFKZnJNcmMzcm01XzF2NTZ6RGZjeU0xZ203YThKMFl5ZE02VUFaUEtnZGVsNnc5bHRZQnZ5czNMR1JKeTFxczloVFVoNjNEWGg4ZlpLSmxRQ2ZHaFhRRTQzdW9TQ3NiSlJkMTR5bTZKaDlBMk9JQVZ0UF9iU2c?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 19:50:31 GMT",
-      "description": "Delaware County launches vaccine campaign as Pa. measles cases reach highest level in more than 30 years Inquirer.com",
+      "description": "Measles Cases in the U.S. Are at a 35-Year High Time Magazine Texas Department of State Health Services issues health alert after 4 measles cases reported in Montgomery County ABC13 Houston Opinion | Americans deserve the truth about measles vaccines MS NOW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -651,6 +651,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles Is Becoming So Common That Treatments May Soon Be Needed - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KcHN2ZDQzV2lPd1JTNmFfX0p0WW9SaF8yQk9jNWJnZ2JjVXpKdGhqY2Nzb2EwcTRZWlZGcW14dGNySk5iS3lwS0xUSXJKQzRiQmMzamxESmZEaEVDLXRQY1RsMEc4eHE3bXVZ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 09:30:00 GMT",
+      "description": "Measles Is Becoming So Common That Treatments May Soon Be Needed WIRED",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "These seven states are hot spots for 2026's record measles outbreak - Axios",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWbWVDR1RSbnBiaU13S0lPY054MGM5R3Y3SlFhU0IzWWhHTDhZbXBUSVJ4VmFkX3dlV1dBeUZLM2EtelF5eWZjREIwVWJkdFliUG8tczZEcUxyaVVkV19JZ293cHV4U0d2OG9xS2YzZE1vWDliaVNR?oc=5",
       "pubDate": "Sat, 25 Jul 2026 11:00:27 GMT",
@@ -669,10 +678,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "There are already more US measles cases this year than in all of 2025 - apnews.com",
+      "title": "There are already more US measles cases this year than in all of 2025 - AP News",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVzRoRE04SEhYVnVZQ1F3aWduemwtdENSQS1LckVlR0RfVEhBUGotNHc4clkwYzMxckpycTBzbm9BQVROeTFhSE01N3N1a3ZKVUwzR2xQNVkweFNIblJmTUg0Rm1fZzlvWFVPOEhrb21hNzZaWG9wMlFBUmVxNi01dWtSNDVRTFY1Q1ZSMUlwWmlaVmtaY1NCVFhUVlVFSmNTWENJSUZB?oc=5",
       "pubDate": "Fri, 24 Jul 2026 15:24:00 GMT",
-      "description": "There are already more US measles cases this year than in all of 2025 apnews.com",
+      "description": "There are already more US measles cases this year than in all of 2025 AP News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
