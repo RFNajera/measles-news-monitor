@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-08-01T13:43:29.545Z",
+  "updatedAt": "2026-08-01T14:39:39.916Z",
   "itemCount": 79,
   "items": [
     {
-      "title": "As measles has a record resurgence, doctors relive terror of last major US outbreak - The Independent",
+      "title": "As measles has a record resurgence, doctors relive terror of last major US outbreak - independent.co.uk",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTItZ2JwQ3FuYXk5RWdHS3dqQVBYZks4TFVzcmkxZm9sRkhQQjQxRmNsSGZCZmdRV2MyeWFfalNscS1TU29sYTRoSkRPbUNIUmpubGx1dHNqa29zcGxxcUs3SUl5ZTEyMFpZazJPU2NSZ0xYbXBwWjBCMjk2TEpWanpaOGNnUjNiWXJVU2hQWGdSTlFhM21GLUpYeUszRzNW?oc=5",
       "pubDate": "Sat, 01 Aug 2026 11:32:00 GMT",
-      "description": "As measles has a record resurgence, doctors relive terror of last major US outbreak The Independent",
+      "description": "As measles has a record resurgence, doctors relive terror of last major US outbreak independent.co.uk",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Possible Measles Exposure from Person who Visited State - WCBC Radio",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNFM0azBMQzFXczFCN1dLYi1uOFBzVV9NSExHQkdRVDEtdXdQN3lCV2ZnTzc1RllDaVQ1MFU0N3BWOEk0YlFOeUhNTGx4R1JNTDJ2QVQyRGNBX09NeFNCWmNNaXdWVS1FaFJvbF9QMEhmTUtzc1c2UG5ZRVJuMXhNc3VPeEl0dDhlMU5VN1haZFo?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 11:24:53 GMT",
+      "description": "Possible Measles Exposure from Person who Visited State WCBC Radio",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -21,19 +30,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Possible Measles Exposure from Person who Visited State - WCBC Radio",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNFM0azBMQzFXczFCN1dLYi1uOFBzVV9NSExHQkdRVDEtdXdQN3lCV2ZnTzc1RllDaVQ1MFU0N3BWOEk0YlFOeUhNTGx4R1JNTDJ2QVQyRGNBX09NeFNCWmNNaXdWVS1FaFJvbF9QMEhmTUtzc1c2UG5ZRVJuMXhNc3VPeEl0dDhlMU5VN1haZFo?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 08:03:23 GMT",
-      "description": "Possible Measles Exposure from Person who Visited State WCBC Radio",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles Cases Double In CA Amid Worst National Outbreak In 35 Years - patch.com",
+      "title": "Measles Cases Double In CA Amid Worst National Outbreak In 35 Years - Patch",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2hVeVMyUE1hNjdEWURmSTFVSmEzOTV4MHQ0bGtRSXF1YVpoMFdSUVAxR0JrWHdiZl9Ra1N0blQzVGVnMG1lTVhSNW1PYTVjanlSaEsxOVlIcjVsXzMwOTc2Zk8wYm5EZGg2MldoS3NOVVk4eWRFVkZDYnVhWDdEbkZkSWR2c2x4czRFejRXMWRJOTlWWkRpRUxZQUxJVG53WXfSAbsBQVVfeXFMT1h5TEhPQ2x6WjM2d3ptNUw4dTJwV015UGk5ZWFZTkZPN2lxWlgyak9wYWhSekZwdGJkMVFVcmg2UmV6Smt6NFZCanZlcVltWU1naS0yTmc3dGtlblNPcFhid0JIc3lYWjNJZ0RqMUFuT3RGLWlaZHlnZFRSSlpoRmlxNkdkZ0tpa3otS2VhRVZWempqZEk2Nmp3UXQ1VG1EQm9veE83SEFPZHduTElfNEFHTEY4dmRRWHZoOA?oc=5",
       "pubDate": "Sat, 01 Aug 2026 06:01:00 GMT",
-      "description": "Measles Cases Double In CA Amid Worst National Outbreak In 35 Years patch.com",
+      "description": "Measles Cases Double In CA Amid Worst National Outbreak In 35 Years Patch",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -156,10 +156,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Tracking U.S. Measles 2026: 2,300 Cases Put Elimination Status at Risk | National News | U.S. News - U.S. News & World Report",
+      "title": "Tracking U.S. Measles 2026: 2,300 Cases Put Elimination Status at Risk | National News | U.S. News - usnews.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGdtejlVNzBVQ3VILW9pM2hjWWdOVWR4SlYwU1VGOHYxMVNzNEZieHhXUV9fZ1JEMS1LWEtYV0Z4RmFORF9yQUtEd1FIOUhqQTZ3Y2tTdVotZDBWRi1wUkNTYXFLOGJEZHFrY2VIeTJVWkIwZWNGUl9GQWxmdzhHLVlmQk1SQ181MHRsaXNCVS1wZw?oc=5",
       "pubDate": "Fri, 31 Jul 2026 20:44:00 GMT",
-      "description": "Tracking U.S. Measles 2026: 2,300 Cases Put Elimination Status at Risk | National News | U.S. News U.S. News & World Report",
+      "description": "Tracking U.S. Measles 2026: 2,300 Cases Put Elimination Status at Risk | National News | U.S. News usnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -169,6 +169,15 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMVk0UzcyVjNRYUdwNlRUelVyTzV1cndqdmZicFUwaXlxOG9CQ0JETW5kbGJNMV9ZbFp6c0VNdnNhZGFUUDN0Y0YtbWRCS0MtZjFndnlhdndWeVhVQjBXRWEyZS15RDlLRjdJVHJGQ0JlU3Nsbnl3SWIxSEc0RUFvN3RHOHZqdw?oc=5",
       "pubDate": "Fri, 31 Jul 2026 20:29:00 GMT",
       "description": "US adds 53 more measles cases to its 2026 total CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "The people who called AIDS God’s punishment for gays are helping measles make a comeback - Advocate.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QQkFhVFpoTGc2SXB5YmU5dFV5aHNELWlzV01tRlJTNHY4ZzRpeVJscGt4d2hkR1c0Wi1ZS2F2QnVuRFlVcE5BcXo5VWZ3NE9JY2daNUhTY2s3TGoxUUlsczJ5Y1hUOWlB?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 19:14:03 GMT",
+      "description": "The people who called AIDS God’s punishment for gays are helping measles make a comeback Advocate.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -192,6 +201,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles outbreak intensifies across Pennsylvania - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3V3VmpkY3ZxNlVkNzhGWlc3aGVQZnh1X1VhUGhpRDNmZU51YUZ2cXNMWmdDN3NYZDhxY3k0V0laZUlHY0o4WER4eDJnY1dfWERzcUdiaHNSdVJlWUdZY2tNbURud1NubmhSd2p1aTd5TTBaeUpjX0pNX29WdDBvOVZqaHEteTktQlh2TmJQU05uZGxFaEw5OXpkQVlaM216ZDR0NQ?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 18:16:14 GMT",
+      "description": "Measles outbreak intensifies across Pennsylvania Pittsburgh Post-Gazette Measles outbreak declared in Ohio with cases reported in multiple counties Cleveland 19 News America’s new epidemic of measles and malaise The Hill",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "At least 16 were sickened from Wapato area salmonella outbreak; no measles cases in Yakima - Yakima Herald-Republic",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNnZfNHhsYVpxTVI5dWI1ckhhVHl6M3hIYlJFUzlCbUZKS0FfMmpVdGZCdUE2bHgtNnRVcVNhZ1Rhb2hQMXdMRjBxYnk1anN1N2dpRGpkTnFjbmR0LTFYSU5HVDI3MUVxSTlrb0pIS2pQcVNQbHZYYXdGaW1INEpMbWxvSENWekFreUN1UFI3M1V2Mm5OU0R5d195anQxN3pwdldVWWNjaDE4NXllVDBnVUE2Uy1vU0l2Z2d2a0FZaG9sby00RzNYcXd1NjJPbjMwbUJVUFhIV2pOeXJUYnlnd1RDZ0pxZnhKQmZsZWFwZ3czck1PTmRZQjVUSlBua0NmZ0tNQlBLaFdRV2c?oc=5",
       "pubDate": "Fri, 31 Jul 2026 18:00:00 GMT",
@@ -210,24 +228,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles case confirmed in Barbour County - WBOY.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2g1cWVQbXdxQURTTEY4LVF3V2pVVDllamtWWU8zTFIwamFuZURRbWQ0ZDNXRE1jY2wtV3EySUFEbHhDNnRGQjJTblpiNU15NFc0LWZ1eGUwRGhZX3NBUXR1Y1NpZGYxZXU3WmpLaTM3bzJLOFd2UkI4YkpQSVltddIBhgFBVV95cUxQYmF5SGJnaWI1a0lRLW5oMHQ5OVVrbXhVTFhxRE9PYzlDaWY2MzE1Y0lfOU1fN0VTZjNZOFoyQVdXaTAyelRKRjRlN29SN3IxdGlGMzFCVk4wbWdmcEhHb2VILXFKM3BCcUVFN3NJM2pmbk1OaFdGdmNlQUdELU05MktvZmthZw?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 17:02:57 GMT",
-      "description": "Measles case confirmed in Barbour County WBOY.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "'Overall vaccination rates are declining': U.S. on pace for worst measles year in 3 decades - KSDK",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSnpWRVVkRmdOUE45UWlGZVBfbEttbm11dWNlampfSUp0eEZ2VDV1SlhucklqWnRxN3VlZG92bVdRMlk1cWJFS1VuMzB5RUh0dG13NXAxSDBHQXNwX3ZYeVBrVFBvVFFwVW5KN1NoZHJQV0N0SzdMODJmdzFFa3pKc1BfeVNvVHNoSnNWRVpsc3RIaVUxelhzVDQwbGJ0NVNEeGhDTkJuUVpUS2F6V3VIN2Y1VE1LUGhJVkR0cGFoZlNwS0ppNnU0dEZYS0g5Q2RaZ09EMW1ocHEtcEZGV0psZzRqMFpPZnZsaGQ2N3FhdThRZnVoMWNDQ2VzQQ?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 15:22:00 GMT",
-      "description": "'Overall vaccination rates are declining': U.S. on pace for worst measles year in 3 decades KSDK",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "‘Measles is here’: Michigan health officials warn as vaccination rates fall dangerously low - ClickOnDetroit | WDIV Local 4",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaS16WXBIWElnTmZUczMxaG0tZnFaZWJhcE9nUVIwbVp0ZDBIcFRWczl5QjdnYjl4aHpkMHVUV3hVX2RJckJyVWZ3U0RlU2hDT1Nod2o3cm16MXc3SHl4bEJIZk5fTnYyUVY1RmthRjlibmxjTVY3ZU50aDRkZC1YNjhpR3ZVVVdFZEFTeGhjQWZQR196dHpYTDZ5S0dBeGxVY2l4WGJvMnBEU2poOERRNXBOazczWmUwMkdMeTh4VVczeXJFS0ZndVdPM05mdjE2VmFReVJVVzZfdw?oc=5",
       "pubDate": "Fri, 31 Jul 2026 14:26:12 GMT",
@@ -237,28 +237,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak announced in Ohio - WTRF",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yR2hTUVp6SVhEQ0VtRC05azM0SHVfUlNmaGxfakdTY0ZSUmRVSWtZd0JVLVNSSGI1X280c0dQUWhIM2dLTThXdDJ5OWJZY2Rfa3hTZHUzd0tfb3Z4dkZ3T2YxMXU0VExkajl6NXhn0gFzQVVfeXFMUDZzZFRIMHFTTW5PaWktT0RTZW1IeDg3clZBcDR4eUZjaFVfUnY1cFU4QmhKMk8tX1VQejZ1b2xFTHVncE90cU05RGhjeWxvTGRZeHA2TUJNRVdoNk52R2ZMWC03elFEbVlfTTFsRWlpUENSMA?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 14:05:33 GMT",
-      "description": "Measles outbreak announced in Ohio WTRF",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "America’s new epidemic of measles and malaise - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPenJHVTh0UHV6NkpHVWNaNVlrZUIxSXhrc0dERnMwalRDX1loZzJNek1zZkl1Z2FpOUxib2xGbl92VF9SVWRUWE8xSkRWRks0Rjd4QTFyTWliOVN3Zkd1eEJuTGJDMmVqOXFPaVFhMXpwY2s0SXJ5VnFWekNJR1YzdHlR0gGHAUFVX3lxTFBqRFJjeUU0bXduSm5TQ2gzTEhaVHZRRkdjWXhNREU4Vi1tMEttcG1pa0ZMaHdzMXRhdWJicmVjM3ByQ0N6Nkt4T2ZqN1FtZlhfY0dfZUZIQVdfZzBfb2VueFZzVXRwQlJtOEx2TmZqcXFUcFg1QU54SWpCUFpic2J2MWt3VFBRMA?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 14:00:00 GMT",
-      "description": "America’s new epidemic of measles and malaise The Hill",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "First measles case in West Virginia since 2024 confirmed in Barbour County - WDTV 5",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2ZKdUkzdEJOZktwd2J5RFJ6LWxHUjZDZjI2U05YVlNWbjdVZTZjMkpUMUg5UXdialBWeEhITkFQY25CQ3oxbWVTNkFKVXpGcUgxWWlpRUZwWEFDdG1Lb212dkFrQTFrLUFBaHBTN3dHbm00OFJsR2p5bVpPNTRQQ3R6UDl5S1RpMEFiSWZENGd1SzJQTzdYekh1Ykdka1NRT2xj0gG3AUFVX3lxTE92TmVRbVJpTEdTOHVfZ3lFVmVtWDNFZzMtbmdVV1lBa240OHRSTDFNX0kxVDNsWTE2ZUl2QTNQZnZ6T21qSDlJdExJbm1nd0J1ZWthT1ZWRVJhT05nTnhfamRRREF4d0pkUjRTYVJSYU00OTBGTk10aEx4ZlJyYVBSeE1qb3B3WTIzYVlDbWx3VDRqQkthWHY0U2txVWtwX0lfMF9iNUlPcldOeS1kR3RScE03UVdfQQ?oc=5",
       "pubDate": "Fri, 31 Jul 2026 13:25:00 GMT",
       "description": "First measles case in West Virginia since 2024 confirmed in Barbour County WDTV 5",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Officials warn of possible measles exposure after infected person visits Maryland - WJLA",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNDNyWm5oVHo0TnpLdkJINHd1ZGRVUFpqOTNCZWExWlFXaVhpMG5NNlBwN3AxdUVBVHRGLUlMb0xyV05RUzZjSnRiLW81TEJnRmtpT2VOQnFiYTdwRUZXOGpsY0FYT0thTzBad3BFUHY2ZTNBR0ZiSXhSSjVzV2Z5UXJ6QXJmSF9YWFpYOFYzOWdOdk1idTJ5eDIwOUNpeW52OXVaTUo2Y3ZIQQ?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "description": "Officials warn of possible measles exposure after infected person visits Maryland WJLA",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -318,6 +309,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Ohio Department of Health declares state’s third measles outbreak of 2026 - FOX 8 News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSGRUSmw5NGtDQklLS295OFFPNG9GTlM4LWJGR2F6ZzZrc0w1WXJVYkp0dWNkVjlkak9aVTROOWpvVlpqb1U0RjRtbDc3ZUFXRVhMSktiM0hHa3VmOXVkNFlxQlUxdjY3Y3U4OFNkNVF5QmRXSzVWczcxT2xlMzhzeXZYOUV5My1FTkxCLWZ2bHBlN1p6QTQ2ZDFqc9IBoAFBVV95cUxOQi0wUkRycURyRG1McDd1VEtYR08xZ1JhOXYzU2FfTnlnRUt5ZVBKcl9uZV9CcXRCdmZMQWR2Q3pNNkRsaFN0bFJBOVhhWV9FSUt0ZzVnT2tDYnhnSEJERWtHSWhjLXF0TVNDNWNqcXRTRXBZT2EzOHBQMm0zaURZR05IVVZ3QnpReklvRnY4Z1MtdVhlRzQ1V1FkS0xQZWp6?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 21:22:29 GMT",
+      "description": "Ohio Department of Health declares state’s third measles outbreak of 2026 FOX 8 News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Florida ranks 5th in the country for the most measles cases - Spectrum News 13",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2c1ZHBpTy1QSjJNTExVdTNJX0FtM09FbTVrUWUyZzl1V3RLcGFRV09wR3hBY1UweWxodWxJck0zRFVxekg4MjNpb1pTVW1ETTRsU1FrMmdDUUFpUzY2NklIVEpKVy1Wa0VLaWdfcFBfN1h3YjRma29TNXhnWHlvbmJPOXk3RmNZaWY3MFktbHpid3k3UThKczNfNHFXSFM4RDdyTVM0cHRVUQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 21:15:00 GMT",
@@ -340,15 +340,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcjV0UFNIdjIxSTgzZUpLanJUTmcxRDdXelBJVmFPWGRPSzNCczBJcmF5MzhtRENWV2gycDFEckhpeUNnd0JZTlY5MmxWaWtiVEFibnhRU25WdE1wT0Z3dFFDbHotczFSTGhBemE1eC12MmVLb1ZHaDd4bGJHOWdrUERjQ1BZLTRsZWp6ekZjMy1rQmRX?oc=5",
       "pubDate": "Thu, 30 Jul 2026 20:57:56 GMT",
       "description": "Measles outbreak reported in northeast Ohio; Third outbreak in the state this year Dayton Daily News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles outbreak declared in Ohio with cases reported in multiple counties - Cleveland 19 News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmZ0R1MyLV9RdkRJQmtoM3k5dXZ2MDZjTjVGeDNqa3pERFlzSDBOWXhWcTktT1RZSC1lNlFsdDEtd3phaHAyZGRPRnk0MHpOX283MXBuY1FtRkVJOTVkSjZ1WnNQanJVb29HUC03RkxVaUprYWZGeG9qQkVHdHoxYUVUN2VwRVptQTlxSm9USEV6bHU1a09QX25DN09HajZuSWRzX1FBcG05YXNT?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 20:55:00 GMT",
-      "description": "Measles outbreak declared in Ohio with cases reported in multiple counties Cleveland 19 News Ohio Department of Health declares state’s third measles outbreak of 2026 FOX 8 News Measles outbreak intensifies across Pennsylvania Pittsburgh Post-Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -444,10 +435,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Ebola, Measles, and Avian Influenza—The Importance of Emerging Disease Surveillance - U.S. Government Accountability Office (.gov)",
+      "title": "Ebola, Measles, and Avian Influenza—The Importance of Emerging Disease Surveillance - gao.gov",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNDAtTHhRUGR2UFlaNzNrWmY4U3RFR0lVUHE5alFBRTN3Y0t4aDVoTk1GdEtvbXlyNGQ2U3BLSEswSkNoUjJrbXpQQ291RmNvVE5SSlgwdEVDOFpEV3VSWXZrQjNfTlpYc0tBZG1XUlJ4V3RQajlLSUVCSDhTazB5MzVHX2p2YjhESUdUbWFTbWhLa2R0eEkyMWVjRGFqakl2WFdfTA?oc=5",
       "pubDate": "Thu, 30 Jul 2026 13:51:01 GMT",
-      "description": "Ebola, Measles, and Avian Influenza—The Importance of Emerging Disease Surveillance U.S. Government Accountability Office (.gov)",
+      "description": "Ebola, Measles, and Avian Influenza—The Importance of Emerging Disease Surveillance gao.gov",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -480,10 +471,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Gresham clinic is latest potential measles exposure site - oregonlive.com",
+      "title": "Gresham clinic is latest potential measles exposure site - OregonLive.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjNZRUhpWHdERzRHM2NyS3B6OGpDWUlGdkJZWWotdTA1OE5mQzQ4ci1kLV9LYzVyRjkxMzR4TmppT3ROSFdNY1A1cVFJR1BHR0xkSnJPbDBnb3cxLTdlYXByYW1IUmRHVWs0blhLVFlUNUVudjRXdWhfUTkyaWVTdTNFb3o2aUZObFd4SzVlRDV4R1h1YjNMajg4SmE4Y0wxMThIS3Jn0gG6AUFVX3lxTE9ETDFNdUhHcFlQM1RBV1dPM1NwMG9KV1FiSHFjTWtMdzBYSy1HWkRKWTBpSkdQTUZoeGZXVU16TkdSRGVWcFN0MHZMeE94bGVvaWNzLW9kelFzYWlGNmxxM1RhLWFEd0RaODB4OTdyR0FuSzBkYjdEejJ0YWwyRWppbXVCbGZCTmZQZUd5QXN2UGEtMHlmNjNjTERkcWlCQ0N6aFZIZHVrZzFrcklkOUxTV0Z5dm1UcjJWQQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 00:38:00 GMT",
-      "description": "Gresham clinic is latest potential measles exposure site oregonlive.com",
+      "description": "Gresham clinic is latest potential measles exposure site OregonLive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -493,6 +484,15 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnNyVWlQRmluOURzdXp5QXBCNkVNYkFfZklwdzJHSGlpWkZpYllSUGc2alJQNkdZdG5ibGktV3hCVHlKdTdYR0RFeXZsLWZkcmV1LXBGLXBpcld0bzg5a3FZQm15NG1oX3FJeUltU01UYmdzX3pQNXBzSExOaWZhdXVGeWE0aUVYMDZvR2tXMFo2d1pLRGVFeGZGNUhIQmcyYy1LVi1lZmk4Mkk?oc=5",
       "pubDate": "Thu, 30 Jul 2026 00:16:56 GMT",
       "description": "Wastewater in Anchorage signals warning about measles Anchorage Daily News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Gresham urgent care identified as latest measles exposure site - KGW",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbHRJWi1lTnR2a2NMbFhaTDFUMzlUNjJNU051RHdQOGdUSUdaaktIaW5zT2ZoV2JiRHQtbUpoR3J1ZXB4LVo1TE1VZmlvNEJPNkxwVVJSTmZldHRHZFVzVEpmc2FUcHR2WnpXb2ZPYUFRbDBiX2J0RFdLNEV4QXVCcnZZUmk1d2NMS0JHTzBmUVJNQktxM2k5ai02NVh2Q01iOTZ1Z0pfR0hsZnpSY2YwV0U3SWtHMzJOOFlZUXZfeWJMdTFUMnFZc25hdDlaT1cwOGhzVENXcDQ4WFd1bGgwaDVfYw?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 00:11:00 GMT",
+      "description": "Gresham urgent care identified as latest measles exposure site KGW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -525,10 +525,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "DOH: Measles case reported in Bedford County; health officials conduct contact tracing - wjactv.com",
+      "title": "DOH: Measles case reported in Bedford County; health officials conduct contact tracing - WJAC",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWFFdHl2eGJxdVBvbFZWUnNQSkw5WmF5Q1hVdzVPcVI3cHV1SlpSZC03M2lBaTROX3lYVkMwTkpIbHJqM0Nra2xYWGwtaS1YQ2lCMURzZldNVlJtME9ieTB4dWpJOE5WSi1oT2xfSEhON1B1VGxXNENzem5FVmNrck5RMmRROEZFcFBxM0M4R0VMQ3lMeVNyQkRPNnVkcUV6eVV2MDQwYw?oc=5",
       "pubDate": "Wed, 29 Jul 2026 22:12:25 GMT",
-      "description": "DOH: Measles case reported in Bedford County; health officials conduct contact tracing wjactv.com",
+      "description": "DOH: Measles case reported in Bedford County; health officials conduct contact tracing WJAC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -597,10 +597,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases reach 35-year high: What doctors and hospitals should do - chiefhealthcareexecutive.com",
+      "title": "Measles cases reach 35-year high: What doctors and hospitals should do - Chief Healthcare Executive",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYnVSZUFvQ0o5VXptdm9Ka2wxVmRDSzI2ekdtdXFJVko4YXRkVmVXODNWNVRFcXNLRk9lZ1pyVlRSNmZUMklrQ1E4WnZEOXhSb0FWVG5kX1RtaEVLMzZlcUdseHpUVTlQQWdzRFB4a3IxZjhBN2FBVElpMlcxY1hrc1NEcW44SjJ5eW04dTdNbDh1QUZyZVJ2UEI1eGhyM1RINjBsUllmUlpSbkY1a1F4ZzFZVzRLZw?oc=5",
       "pubDate": "Wed, 29 Jul 2026 07:37:28 GMT",
-      "description": "Measles cases reach 35-year high: What doctors and hospitals should do chiefhealthcareexecutive.com",
+      "description": "Measles cases reach 35-year high: What doctors and hospitals should do Chief Healthcare Executive",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -624,28 +624,28 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles exposure reported at Randall Children’s Hospital, Providence St. Vincent - oregonlive.com",
+      "title": "Measles exposure reported at Randall Children’s Hospital, Providence St. Vincent - OregonLive.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUHVQWXBpLW5GY0JuWGhyUmtlU20yTmxORVRXNmNYbmdQSXRRZHI3alV6LU5qbXlXS1FzdnJVd20wSXgyc3RqaVFVTW0tSmxDSm1qejdKbzlKemNGS2JBVVVqSkk5cnF3WjA2WWlDaEhfUTRzYkx4S1ZYZWpNNGs2eFNiY2x3cDhKZHF3VlRNMGY4UGQzYTVkSHhTajhqZ0x1a0xNZ2NuOUFHQ3paY3E4Yk45cS1oald5ZUJSMm5DcVphd9IB1gFBVV95cUxPNEdQX0xhSXo0a0R4b29zYnAzRmtDbjNqQjZGM0pXS1VWXy1vR0pqQnNGNFBiYTZlTW05SXg4TS15M1hSb1phUEwxSDJoLWE0MnI5c3FLb0xXUTM0WnZ6eEdXMC1vdzFfT2dveXVpempmUkp4cWJHdmhRNmR6Q0I0VGRvVEVRNVV2TDZtU0hhTFc4bFBiYlViN05QMkVEOEtLN2RLdjNZR1lISWpBeW01QXN6S20wdTcyck1ua3FCUjNYbi1lVlJzbkVsOTNzME5YZzFjMlBB?oc=5",
       "pubDate": "Wed, 29 Jul 2026 00:59:00 GMT",
-      "description": "Measles exposure reported at Randall Children’s Hospital, Providence St. Vincent oregonlive.com",
+      "description": "Measles exposure reported at Randall Children’s Hospital, Providence St. Vincent OregonLive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "2 Portland hospitals identified as measles exposure locations - koin.com",
+      "title": "2 Portland hospitals identified as measles exposure locations - KOIN.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUVZFZUxoV05qVnNudk8yMzNLdElNb1gyUnBRb2xKTXZIUk1fMkNsajFUeElrTVRjODN0aUpKMG9fY2E3MXMxSzFwbkp3RkxKaWtyOFZYRGI0THhXUXY2bnloRHZVT2puUVE3T3dSdllaNTFyMW1ZbElvZUtENGQwdGxxekl3MUxHNXdVZmFGM1B6VzUyZlZXbi04S1IzZ9IBowFBVV95cUxOb1V3RHBmaEotZDlIRE84ckxqQ0xzenQ4VG8zc3F1cjNwSzNUZnNwSFBFcGo2YU5ETEM1bjN1X1RYZk5SVnVzWldKdEM3WTQ3TFdZT0pnUkN3alhScjVEY0VmSnJuRkRqcEwtU2p6X2IyaUs5UkVsZTZIUmR6aGV3bXFBR0hoYjI0dTFkaXNRY19UWTgwc2R3XzJ3WmFodjlYN0lF?oc=5",
       "pubDate": "Wed, 29 Jul 2026 00:49:43 GMT",
-      "description": "2 Portland hospitals identified as measles exposure locations koin.com",
+      "description": "2 Portland hospitals identified as measles exposure locations KOIN.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles hits 6 more unvaccinated kids in Washington state - oregonlive.com",
+      "title": "Measles hits 6 more unvaccinated kids in Washington state - OregonLive.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUVCaDFnczIzQmpSa0xPWVp2VU1XdVVQdzJFd2ZkTjJ4eUMxUDlnSkU2TUZSd2c4Z3BKRkc0eHVPYzZDUXJURlg4MTlYM3FpbzhScDBMQWEweTFqY0I3U2FoZFc2bHdsV2lRV1VuZFNtRkRfdkJQODZvNmRxRzhiZlpEWTd3bnY5Z3lLZzlLc2w4ellac1hEdG1uTVhjQ3dncG1qZVBic9IBuwFBVV95cUxNTzQ2Q3F6VzZHa21oZmRNTTY5aTJHNlpySE1ZOFAwbG1nd3BTUFJyR2V2VHg1NVdIRS1nSVc3MEg1NTJ4UmpGZFF2NzZmZThEaDdtU1lIeFcwdFduNm9JZWh2ZEVJSC0tSTZLZVJtVy03dlV0Y1FQLTZLVUtCN1NncWw0Vjg5RVRyVUdQNzNkQzZTSnVKNEFlMUx4NG9zRlpaYTJMYkd6OFc0ZmxSWERjSDNjUVExVG5MaFZF?oc=5",
       "pubDate": "Wed, 29 Jul 2026 00:31:00 GMT",
-      "description": "Measles hits 6 more unvaccinated kids in Washington state oregonlive.com",
+      "description": "Measles hits 6 more unvaccinated kids in Washington state OregonLive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
