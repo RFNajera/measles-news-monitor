@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-08-04T11:01:06.207Z",
-  "itemCount": 67,
+  "updatedAt": "2026-08-04T11:50:08.425Z",
+  "itemCount": 66,
   "items": [
+    {
+      "title": "Letters: With fewer vaccinations, measles is making a comeback - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU0tOdUhXR3VraHh5YW10ZGFPUHFqSkRhMHdLYmFsVzFMQlMxd2xZOENDS1hUZWhRZWtGSjg0T1lzd1FVZUkwb3gyWnpKOTJCNE4wYW5JcGRlNlVwTU11dm9kMEFZS1lEVTBVN2NDaTdpN3AzTnBFRjhZZEtJSFpzM3FqUlk4VmsyVC0xVDJVbURoc2M4WlJtX0Yzcm83MU5MaUVaVEc0SHlOUmc?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 11:33:05 GMT",
+      "description": "Letters: With fewer vaccinations, measles is making a comeback San Francisco Chronicle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Texas doctors urge parents to update children’s MMR vaccines as measles outbreak grows - Tyler Morning Telegraph",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdjRGLWw0ZVlkSnlRVWJaaFU2cVAtS3Fha2s0VDg3UFpDMFNYenlZRGwzMllGS0E4NEtpMzdMOE9CMmxtZHc0MTYyRklMVE5GRklGYVViUjZSX24xcHRqSjBleDJoa2lkOTBQdldfaWxyZXZhWU5GVmhuWWpHRC1NUnN4YzE2VHNGcVBwdWpPODNSZTEyb3BFRk40N0dCeEQ4ZHNPeXJuVHFyWGRkbEdQTnJJVzdLQnhLeUxGNA?oc=5",
@@ -16,6 +25,15 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGFCU01XVmptOF9BbFZ1dENLTlpqVUVFbTBheWY4ZmFRZEZuZHZqdTItdER4QXplWmp5aWIzcWhBNlY1SGE3emZ2M3hGS0w5SllkQ21BS2J6WjRkNmc1LXZrX0pvQTRFZ1Vqam0ybV91Mll4clQzODZ0bHRnNjk3TVlBVzZISXhXWE5rcGVMMUV2MTM4ZGw0ZUJGSQ?oc=5",
       "pubDate": "Tue, 04 Aug 2026 10:27:00 GMT",
       "description": "The staggering cost of a single measles outbreak has experts sounding the alarm The Independent",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Health Secretary Endorses Measles Vaccination as US Cases Reach 2,371, the Highest Total Since 1991 - Medical Daily",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRlRWc0UzVnVHVmstRnlnTnBmWVplcWNBLW5rdWR6OF9Ca3VvZ0hFZmRrQVpfTV9BRzFrZE5NMW5ZOUtRdElCaXVfbzF2QS1pa2pXUVRqUE90ZGdnVVozUm0yUmNYbkc1dnNKUWNZeVNJMjFHMDM4Z2hhYUFJQU1TUnJ3VTN1bXpkbjdBaC1lQjlwdlQ0RGc?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 10:20:24 GMT",
+      "description": "Health Secretary Endorses Measles Vaccination as US Cases Reach 2,371, the Highest Total Since 1991 Medical Daily",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -66,10 +84,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "State medical executive urges vaccination against measles - wsjm.com",
+      "title": "State medical executive urges vaccination against measles - WSJM",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObGFvMjNvODhfdGhDV2o2RHVWWDA3SHdzbnp3RnFlX3BWTWU4a2l0MUhaSjR3UUZfc0xtclBURGpVdnpYc1BaTE1NdXU2RWxKMU5TYmYtQ1FNbXFGNFRLQW5LVERUWXBwNURXTm5ON3BkNlFVd19uVmw5WElNWGk2R3NRN1ZkMENYdTZVMmVPbTdSb29X?oc=5",
       "pubDate": "Tue, 04 Aug 2026 03:03:05 GMT",
-      "description": "State medical executive urges vaccination against measles wsjm.com",
+      "description": "State medical executive urges vaccination against measles WSJM",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -93,10 +111,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Merced County Monitoring Farmworkers Exposed to Measles During Arizona Outbreak - losbanosenterprise.com",
+      "title": "Merced County Monitoring Farmworkers Exposed to Measles During Arizona Outbreak - Los Banos Enterprise",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMWJLUFF2WkZhRC14T2dHMHFRYUlIdk43VkZBdUZhenBSMEFyeHR2SFEwU0hYT1VPOFpVdzYtUlRhbFRTTGxKWU1POUJSLTV0ZlBoLURSR2g1b0diSlJiWS1VdUFwMUZnUVN5UGM0eVVOcEI0RTZjakpKd3JNVzJFaGV1Wi1tZm5DX3NISHNJYi1CZG5RdDh5aWtpM0duc0tJVnJNMlJOSlhOak9IS2ZvR0EtdmxEcUota2F2d185YUlnMG5NaUFv?oc=5",
       "pubDate": "Tue, 04 Aug 2026 00:57:18 GMT",
-      "description": "Merced County Monitoring Farmworkers Exposed to Measles During Arizona Outbreak losbanosenterprise.com",
+      "description": "Merced County Monitoring Farmworkers Exposed to Measles During Arizona Outbreak Los Banos Enterprise",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -210,10 +228,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health workers administer measles vaccines in Nejapa - lufkindailynews.com",
+      "title": "Health workers administer measles vaccines in Nejapa - The Lufkin Daily News",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVFhwaUlTMDFKZzMzc1FJazk5bFNBTUVNRlJLMmVfcVo5WXhvS1Axcm1tQ01DM0I4N05maTd5d2JGX2U1c2NmQjRYeTZzR0ZzMzRvdEhUX3B5SjYyZ251LUtnSGZDa1p2RnlNTDdBVXk3cDFJTGlfV1pfQl9fcE8yTFVKOUVkY0hmWUR1a3BwVHRTNFhCZVBiTDl6LUhaMzlWSVoyUjk5eVV0OTZBdVoxUEpjamcwQVZSbGh4am1GSHhoeXJWUHRaOU5NZkVVdmhqd054b2ZuakdTcXNNTmVsR0VQeEQ?oc=5",
       "pubDate": "Mon, 03 Aug 2026 21:06:09 GMT",
-      "description": "Health workers administer measles vaccines in Nejapa lufkindailynews.com",
+      "description": "Health workers administer measles vaccines in Nejapa The Lufkin Daily News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -246,10 +264,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "US officials focus on identification and rapid action as measles cases rise - The Guardian",
+      "title": "US officials focus on identification and rapid action as measles cases rise - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jQm41ZzFQaUVnQWx5b2w1dEpjbnZoME1seGxUSGFhVVRJbjFzUXZTX2pMeHpST0tib3lua1lwUzhacFBZakE2OVIxRTJqY2xqdWUwb0lBdkJuN05qMnM1enNCTFBuTHMzZGhsSl9oZzNIQW1LUjJZX2Q5QlZhUQ?oc=5",
       "pubDate": "Mon, 03 Aug 2026 20:18:00 GMT",
-      "description": "US officials focus on identification and rapid action as measles cases rise The Guardian",
+      "description": "US officials focus on identification and rapid action as measles cases rise theguardian.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -291,19 +309,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Video RFK Jr. faces questions on measles and vaccines - abcnews.com",
+      "title": "Video RFK Jr. faces questions on measles and vaccines - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZR1hSb2hyNFZrRFNkcEp2MHYxcjRTUUcyOGJIbnFRREwzWmdwQ216UWJZd0hmZmZDMjluRGhRVDBVb0hHMGlrT0tKMVo?oc=5",
       "pubDate": "Mon, 03 Aug 2026 18:47:50 GMT",
-      "description": "Video RFK Jr. faces questions on measles and vaccines abcnews.com",
+      "description": "Video RFK Jr. faces questions on measles and vaccines ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "RFK Jr. interview sparks corrections on vaccines, pandemics and measles - Endpoints News",
+      "title": "RFK Jr. interview sparks corrections on vaccines, pandemics and measles - endpoints.news",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3pWTEJEenB6X3F1SUt3UHg3OEtFV3lCUGlTZWtVVjZKbXNlOW5rTWJnT05RWllEUTNqSnFzN0o5QklocWpKdS13c3JaQ1ZlNWNyMl9jLWdZVnlwdTU1bE8wTkRXcF9xblN3MkJZWnRKblpVLWFZcjNnWmtBd2VjYXhPWjc3Y3QyMWg2MlBMczZodnVEVWc2TUtR?oc=5",
       "pubDate": "Mon, 03 Aug 2026 18:47:00 GMT",
-      "description": "RFK Jr. interview sparks corrections on vaccines, pandemics and measles Endpoints News",
+      "description": "RFK Jr. interview sparks corrections on vaccines, pandemics and measles endpoints.news",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -354,10 +372,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "RFK Jr. pushes measles vaccine and blames Fauci's COVID-19 handling - Casper Star-Tribune",
+      "title": "RFK Jr. pushes measles vaccine and blames Fauci's COVID-19 handling - trib.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWlQ0TjlTNFJjVDJZbzVxVXF2OV9lUUtVZDE4Yk05dXhiY2ZyVS1fM2t3SHpWSHJBRFQ3cnFTNjAxT3pORjdXcktHUjR1NlhSOEFDOVlkYk51QV92MnFadDZ6YW0wbHlMZVlTR1VGWmNpbW5WdHNqb3V3TTM3M0xHbUEzUHlhUnhFLXFfdjdUbTd0UTQ3dlhuRkFQYi10WEllOTdDTkRxYw?oc=5",
       "pubDate": "Mon, 03 Aug 2026 16:30:00 GMT",
-      "description": "RFK Jr. pushes measles vaccine and blames Fauci's COVID-19 handling Casper Star-Tribune",
+      "description": "RFK Jr. pushes measles vaccine and blames Fauci's COVID-19 handling trib.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -390,19 +408,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "The dire warnings of doctors as RFK Jr’s agenda sees measles surge back - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV1llQ2NMS0pFQVNnMlF3VzIydnVPRGJkc2U0Wks5bnRxNnpsM3JMY0RSNThTWElZTm5WbmJ4dUFoU25jUE1xTGhzTDh5aFJSU3VOb1ZJOHBtVXd3VXRMRGNPQ2FuZmpwanZGNzVEelZ4MGZtU2ItUzNBZ19YeDI5UzJpMUQybjZLU0lIX29NcWMxd3BoYnNCSmdR?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 14:58:00 GMT",
-      "description": "The dire warnings of doctors as RFK Jr’s agenda sees measles surge back The Independent",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "RFK Jr. says parents should vaccinate children against measles - The Hill",
+      "title": "RFK Jr. says parents should vaccinate children against measles - thehill.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWktveEtxREdUbUk3c0dWZ01hLXVOMUtNdk5WZVVEdEhSZ3ZBTmtXMWFPSDFiZDNBcG9uSUdUTFhwcXhoRjVTMmVGbWx6S3BIQ3lCbWRIY053UUFQWUM4U082blc3Q25YMC1NajdTS2t3ZGo0OWlwR0h2NE5KQUcwQ1pzYkTSAYoBQVVfeXFMTTRiNnU1eG80ZXRIREV4VXkySUI4Z1F4Ykt0Ry05VFAzVkN1dmZoS2lpX0ttQ0NlQV8xbFl3anExM2g1bEM0V2JySS1palc0R1B2WGtSSEhNUmZlQ2dkTDdUbnZybXZYTElDY3ZKbzQ5c21WX1gtVzNMWnl4T2lONS1ySTk2YUVnZVdn?oc=5",
       "pubDate": "Mon, 03 Aug 2026 14:29:00 GMT",
-      "description": "RFK Jr. says parents should vaccinate children against measles The Hill",
+      "description": "RFK Jr. says parents should vaccinate children against measles thehill.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -453,19 +462,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "RFK Jr urges parents to vaccinate kids amid record measles outbreak - ABC News & Headlines – Australian Broadcasting Corporation",
+      "title": "RFK Jr urges parents to vaccinate kids amid record measles outbreak - abc.net.au",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmlzVnlSU0o0NTFSN0ZueTJQREhHaGdLeGdoeFluNVRLLXBIcEprNy1qTnpua0hlTmpPREVVdVdSZG8yeUp6dW1JTUVWbFF1VUg3M244NVBqWS03cnJLS1Z0aGZzdl94Z25qZ1Y2MmlCM0xYS21rTkFzTmlxdHpyaHpvUENtVkhKUkpBVVBQMno4SGdBYjdpTzdUYw?oc=5",
       "pubDate": "Mon, 03 Aug 2026 05:49:53 GMT",
-      "description": "RFK Jr urges parents to vaccinate kids amid record measles outbreak ABC News & Headlines – Australian Broadcasting Corporation",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles case confirmed in Allegany County - WIVB News 4",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWZkQTZWM1h6S3FhRi1QNzRKRXlNMmxrb2toeDllcDYyNm1hRGp2b3RXQ0xaMENGY2JyYUI3NHE4V2lfelI5UVN4LW80V0lJcmdVM2REcXpacUE4bDNEZkFKNjBoR0dZWjFZNmlsZkFZdVNCakEwdjRqV1M0d0VyaFVYbm9qTFdEazRJMnM2NS04akJMZzk5TGNXMS1YR3dhaWxiaHJCcWdCM2tJYVpvdnN30gG3AUFVX3lxTE1mSHgyVjVnT1VjalFrYkNQTE9TdmwycGp6UE5ZVWVqWTMwanVhTlI0RXRFSDhxNVdfa1lwTm5RT2RKUzdUeXNzVlVZc2puZHlDbENKNHhQSnVic2VObWlHd19nNVVqc29fckxOQnZHQjBfSXNlNVFER1NIT0FxNTZPTlBac29YU1JlNW5nTjdLRERtenN0dmdXeHlaXzF3QWlLb3Atc0lXcXdPdGpBYUZtdVlrazdKTQ?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 01:07:58 GMT",
-      "description": "Measles case confirmed in Allegany County WIVB News 4",
+      "description": "RFK Jr urges parents to vaccinate kids amid record measles outbreak abc.net.au",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -480,10 +480,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "California counties monitoring for measles in farmworkers from Arizona - latimes.com",
+      "title": "California counties monitoring for measles in farmworkers from Arizona - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1ctWmcyMHhQa1djcnBiYS1DdEU5M3MxaGlxM3l6QkE5ODkyY0tyN0tfMmU4XzFlMElSSUhUa0JOX3c0OC10WnV6N2lVSDI0dVJYakE3NzZtdjlzZy1WQ1FDU1JzTWUxS0ZrVnY5MFpFckx6UWRDamFHc3JUdkdLWjdVZG5TWWFRUFlBX08xeVBob1Z3Q1lLZTNuZkpENmJqVE1lTDRhakdLRVl3Y2NaeERJQ3ZpeWpZUGc?oc=5",
       "pubDate": "Sun, 02 Aug 2026 19:55:42 GMT",
-      "description": "California counties monitoring for measles in farmworkers from Arizona latimes.com",
+      "description": "California counties monitoring for measles in farmworkers from Arizona Los Angeles Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -498,10 +498,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak - The Guardian",
+      "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMU9OZ2liMWJPUmUwLUlpZUVwVkRRbTBCOEg0ZXBpQ05kZDVsQVdnMTBaby1tM0kyWG1jTjd6N05VT09BREVVT1NGbkZIbkJUb0FoUmxTTFNsT0czNTVfWjlXR0tQOGg4MzFjdVpDWmRyZ00tbmxERFR6VXE5SGM?oc=5",
       "pubDate": "Sun, 02 Aug 2026 18:28:00 GMT",
-      "description": "RFK Jr tells US families to vaccinate children against measles amid outbreak The Guardian RFK Jr. pushes measles vaccine and blames Fauci's COVID-19 handling usatoday.com RFK Jr. defends handling of measles outbreak CNN",
+      "description": "RFK Jr tells US families to vaccinate children against measles amid outbreak theguardian.com RFK Jr. pushes measles vaccine and blames Fauci's COVID-19 handling usatoday.com RFK Jr. defends handling of measles outbreak CNN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -570,10 +570,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "America’s new epidemic of measles and malaise - The Hill",
+      "title": "America’s new epidemic of measles and malaise - thehill.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPenJHVTh0UHV6NkpHVWNaNVlrZUIxSXhrc0dERnMwalRDX1loZzJNek1zZkl1Z2FpOUxib2xGbl92VF9SVWRUWE8xSkRWRks0Rjd4QTFyTWliOVN3Zkd1eEJuTGJDMmVqOXFPaVFhMXpwY2s0SXJ5VnFWekNJR1YzdHlR0gGHAUFVX3lxTFBqRFJjeUU0bXduSm5TQ2gzTEhaVHZRRkdjWXhNREU4Vi1tMEttcG1pa0ZMaHdzMXRhdWJicmVjM3ByQ0N6Nkt4T2ZqN1FtZlhfY0dfZUZIQVdfZzBfb2VueFZzVXRwQlJtOEx2TmZqcXFUcFg1QU54SWpCUFpic2J2MWt3VFBRMA?oc=5",
       "pubDate": "Fri, 31 Jul 2026 14:00:00 GMT",
-      "description": "America’s new epidemic of measles and malaise The Hill",
+      "description": "America’s new epidemic of measles and malaise thehill.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -592,15 +592,6 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcTIwUmxFQ3VhWGJMZHlzalJUUEFIS19MdXJKQWpQSmk3SFE3MEVMdXFPRXVYeHc2RWtSMnF1MGVRXzFQOTlhU1E2aDE2MEtXc3dzQld6N1ZFZlBwdktLQ3lLaHhDZnI3c0ZmaV9STWJ2SktELUtfcjRQZkI3Uk5wcWdGQllxMXRvUFF0Yk5WUk9SdFRzTEtMYjdMR3Nodm95ZTNZZnIzMVNKSndWNjIyVUVBNzRwamdkdEpVNzJLREo4MzR4bV9pbGZTSHN0Q3ZMaDc1ME9GLUw2YmJFb0hLa2FONkVKR3JoRm9taDB30gHzAUFVX3lxTFBvRTBYeHh4c0gxSFlPNE9UTkx5ZG1ZM2dwb0FXdmgydEYtTXZJRDduZkNrbkVsWjRrZ3YwaWpaeHpzaHQwNExVZEFWNG43Ql9yb2d5SzhwYWtvTjJ5Rmk3SG5WNmVlYTZmcUY1a3VmbVVRcTJkdnE4N1VEaGF6cVpqMFVHZFBVSmxDNk9FanJiSWJmNC1RdmpMV3ZHLXM3S1g2cUJXM2NMTlFuQkFYMXA3TWtLVDRYeGN2U0lkWm4yOFloNUNvNmxrV0xCMmowc3J4QmYxdlpmeTg1dVM2T2tUZkdtRnBuRko3bGFYNVRTczJWNA?oc=5",
       "pubDate": "Fri, 31 Jul 2026 00:06:26 GMT",
       "description": "Patient with measles was at MultiCare hospital in Yakima on July 13 Yakima Herald-Republic",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles outbreak declared in Ohio with cases reported in multiple counties - Cleveland 19 News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmZ0R1MyLV9RdkRJQmtoM3k5dXZ2MDZjTjVGeDNqa3pERFlzSDBOWXhWcTktT1RZSC1lNlFsdDEtd3phaHAyZGRPRnk0MHpOX283MXBuY1FtRkVJOTVkSjZ1WnNQanJVb29HUC03RkxVaUprYWZGeG9qQkVHdHoxYUVUN2VwRVptQTlxSm9USEV6bHU1a09QX25DN09HajZuSWRzX1FBcG05YXNT?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 20:55:00 GMT",
-      "description": "Measles outbreak declared in Ohio with cases reported in multiple counties Cleveland 19 News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
