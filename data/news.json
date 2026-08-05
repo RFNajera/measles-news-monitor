@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-08-05T08:00:48.334Z",
-  "itemCount": 81,
+  "updatedAt": "2026-08-05T09:06:13.637Z",
+  "itemCount": 80,
   "items": [
+    {
+      "title": "Ask the Pediatrician: What parents need to know about measles - TheDailyNewsOnline.com",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdmpneS1JVkwwb1NtcU1SUG9JTENJeng2bTR4aUZvLXFHYlVNUGx5VTJIMUhVOWd5SmJHc3VReDB2cHZHYm9LS3ZYUDBkMUh3bjlZaUJvemE2RmhJcjh1UE1Nd2Jqd3QxZkVocFZKQ1o4ZXQxMVBnYmkxbUJ0RDdfNmVNc2JRLThxT29XLTFyNzJtOGpubHZrci04RjNaemFQd1g4YW5TN0drMlBfMVR1bkhSY3JKanI1WnNKa2FMLURGTlNBZEJXOVJIaFhvMTFNZUlROGhfeVpJOFVMR1ZOWElkSm9ERVRpUzc2Zw?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 08:45:00 GMT",
+      "description": "Ask the Pediatrician: What parents need to know about measles TheDailyNewsOnline.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Measles case confirmed in Allegany County - TheDailyNewsOnline.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSGZmYW94U1pPeF95MHRPQ1E2b2JZOXE1enBvbmtKOTM4OHJiaW9jejdsYzFtTGRlMU9ORFI1VTFsZk1ONzZKOTROb295RWVXRmdtMWo0Qy1YR2JOMktDLXdoQVZHT0Y4OGJHRTZUNzVfYlYyYVN3SmxGQVNJcWExRlBvVnNQNnJRRy11cXFlSEtFYlFxT3phWUl2ejZDVFhZTi1IMHpxakZXUFlaY1VEUXhxNnRicTB0djlVWll2ZW9WM1d4aVZmaG04WQ?oc=5",
@@ -16,15 +25,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVTY3emZSa2NRLUlTNENhb2ljMUQyTkg2YTRTUGZwb2RpSnZYa3VtN01jdXN4YUoxbzZnWmFIQTU1T0VseDlZUWg3dThySmNzWi14elQtSktsXzhBOEhKZFhCU25UYzI0am8teWxodGttT1FwbndKZnVzNzZKMG45dWxXUUlMb05YcUdQT05YZGhKZlQyNkFCcdIBngFBVV95cUxOSWxXM3dIa1p0amdHMWpXWmJ3NzcwblRrc25pVFUyRk90OVBtaXYtd1B6OHRyYUtFYWZWTEswT0k4NGRpdEt0ZzZkTGhSa2pTY1N4UDVtUGZzbGkxVGY2QnlMYlZ3VmhIanNTUUZhVXNDMmRENm93Qkg4ejRoRXBpc0lZd1NrOW9Kb3VkWWJMTGIydjYycE8wa3UzNGgxdw?oc=5",
       "pubDate": "Wed, 05 Aug 2026 02:38:47 GMT",
       "description": "What public health officials are saying about measles outbreak in Ohio FOX 8 News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Local measles prevention is down as school year starts - The Record Newspapers",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlJleG0tUm5WZmxCY3B0OFdZT215eGFCbXhzNndpaDR5YjJyd1VFZHh0TnRrYk5vbVNzc1A0RGU5b2RRdEhUeGRPNnBqcTI2WG1qRFBnVlpGUkZyb0lCWGpHdWxjcGtHZVJsQld6Wk1mamxWVHdRZkIyemFZTHJsbDIzakUtREFuSDdmanh0Vk0zU3JNSzJZT25rdWk5aW8zMzdjN1AtT0tXem5RLUxrd01raU9IVDhW?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 02:16:41 GMT",
-      "description": "Local measles prevention is down as school year starts The Record Newspapers",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -156,10 +156,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "ODH: Measles case count expected to rise, cyclosporiasis updates - WFMJ",
+      "title": "ODH: Measles case count expected to rise, cyclosporiasis updates - wfmj.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbno5cXEweHpiNFpsVkNQNjRxMDVLUXVQZUN6eHJZU3M4RFl4Ul8wVWlaa2czXzJRZ1VGU3dNaEowM1VpRU1RMk4wRHdRMGUxZG9KRnRDVVJtTjVOalpPU1QxNURvZ3Y2X1llbGJmYWV5TXlOSzlIOFItMDNJbHlXTXE2Vnd2RlFzVGViLVFFd1FUQlJBZ0xVRkNKTld4WVMwbU9SYWIxUlZOYnZtMWl6S2NjdWFwVXRmcXRHWjFzWlVLN2hjTUtGcmtjcTJQRDVnOTQ5bnJEUFBiUFI0RGhRX185RQ?oc=5",
       "pubDate": "Tue, 04 Aug 2026 21:45:06 GMT",
-      "description": "ODH: Measles case count expected to rise, cyclosporiasis updates WFMJ",
+      "description": "ODH: Measles case count expected to rise, cyclosporiasis updates wfmj.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -192,10 +192,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "County lifts measles emergency; no new cases in 4 weeks - buckrail.com",
+      "title": "County lifts measles emergency; no new cases in 4 weeks - Buckrail - Jackson Hole, news",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWV3aHkyaGFMVXZWSkFwWkxmVzREQWE2SU1ONkF1Y3ZWMkNfZXg3cFVuM2V5NWw4Q2ZqN3BjczBrTGhTbUw4dklON1FGRFhrMVMySFVvOTktZkVPRXdKTS0xU0xMTGhRUTM3YXZMYXFvNGxGb1E5bTB4MXVKejZlRjRn?oc=5",
       "pubDate": "Tue, 04 Aug 2026 21:00:00 GMT",
-      "description": "County lifts measles emergency; no new cases in 4 weeks buckrail.com",
+      "description": "County lifts measles emergency; no new cases in 4 weeks Buckrail - Jackson Hole, news",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -228,10 +228,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "State medical executive urges vaccination against measles in Michigan - WSBT",
+      "title": "Maryland confirms new measles case after Elkton exposure - WBAL-TV",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0VaeXdrOEFSam1DUC0tQU4wVDFEWndENzNsVzE0NEc0V1VhYWQ3UWxFLTRCNjlxc1JLcFRvcGVLM3hTUk15dDN4NTJmd29ha1dFUm9xamZ6WXZSTm9EOElZaG9xczVPdHd5SWYtUVNGd19LUl9jZ0lVQ1NqaUFCWlktMzVGU1A5a0lYMXFnN05fTnc0dnlGMw?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 20:24:00 GMT",
+      "description": "Maryland confirms new measles case after Elkton exposure WBAL-TV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "State medical executive urges vaccination against measles in Michigan - wsbt.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLTRiNnlxa2VvclFzejY5NUVweGJYM1JmbWl5bHN4Q0xNTkRWT2lJVkJXN0EwQWF1WEYtMmZrTnl2UW9uc09lc3c3WTA2Qi1JMGJ6TDJyTkk1anZ3ZEJ5ZHhKdjRRX2pIc2VuazlOVGt3d3VjaEFtUHVwT3RsQkh6eGFvcHF6U0VmYXFGcFp4MHprNHIxUElMbC1xZWZ0dw?oc=5",
       "pubDate": "Tue, 04 Aug 2026 20:23:24 GMT",
-      "description": "State medical executive urges vaccination against measles in Michigan WSBT",
+      "description": "State medical executive urges vaccination against measles in Michigan wsbt.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -273,10 +282,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Which vaccines has Robert F. Kennedy Jr. changed his mind on? - Newsweek",
+      "title": "Which vaccines has Robert F. Kennedy Jr. changed his mind on? - newsweek.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWE01RzFlOTlaZV91a0VTNnhESVVKdU5LbUNWM0d2cFJJRVFTaXhOMTJOOUlpS1g5c19UQ0lDSXNINFBjLVFad1pQNUpwWUlydkV1QmRIakl4djUwZF9KOHhiazY3bDhnNHgxMl9nNTFUcFptVGZRaFZ1Y2d5ejJGbS1n?oc=5",
       "pubDate": "Tue, 04 Aug 2026 18:38:00 GMT",
-      "description": "Which vaccines has Robert F. Kennedy Jr. changed his mind on? Newsweek",
+      "description": "Which vaccines has Robert F. Kennedy Jr. changed his mind on? newsweek.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -354,15 +363,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases continue to climb in PA, inch westward - Audacy",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4dlFGS25saDZKZlJvbGdEZ0hVQmlvTUgtaUdyMW9tanhQdmhnN2x2dVFVUktmLV9Gd1lmbV93dUx2ZTlLa19MYy1KdHRKelZFejNCeEFzTzVUZENRVDNPUnNPbXZqbWFJVlBVSmI2WU5nb2pMdmdQdjl3?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 14:28:00 GMT",
-      "description": "Measles cases continue to climb in PA, inch westward Audacy",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Orange County health officials report measles in toddler - Orange County Register",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd1kzaFNWdHlHRGtwX1o2NUFFOFQydmdlVGprdHI0Y1FuLUY3MTZnTlN2R0hHckR1RGw5S3NNTjFYZ1ZnMkZMTW9FZkpYMjRqTDFXSHZvX1dsSUlHSTFHM25xcUl2b0xibmY1RnRBS0ZkQ1RvYTZjUlVCaXNrNkZwazBrTDNicHZYTTN1dVZTdldBc2lnV1ZjM3NoTQ?oc=5",
       "pubDate": "Tue, 04 Aug 2026 14:09:34 GMT",
@@ -381,10 +381,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "New Mexico's 2025 measles outbreak cost $5.4 million - cidrap.umn.edu",
+      "title": "New Mexico's 2025 measles outbreak cost $5.4 million - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMWNkNzJLYWNkbmdGVlluVkFGbWlHTlVzdmdGNHdnV2VXblhCX1dGOWFHQ1U0WWY3MER2UDJGWEoyN2FUV2ZKa29KSDhOODlTUTFnOE5sVE9FaWEwazlSSkhHcGNDdHNvV2p0d3l0cFRaYlc4aDRMMm9FVENGcFViR0NpbHNPVEtUcUFucQ?oc=5",
       "pubDate": "Tue, 04 Aug 2026 13:39:38 GMT",
-      "description": "New Mexico's 2025 measles outbreak cost $5.4 million cidrap.umn.edu",
+      "description": "New Mexico's 2025 measles outbreak cost $5.4 million CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -408,10 +408,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "2 more children die as Bangladesh reports over 1,000 new measles cases - Anadolu Ajansı",
+      "title": "2 more children die as Bangladesh reports over 1,000 new measles cases - aa.com.tr",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNEtVRi1vVm16NjZTcEZXQ0VqTVZWNDBMTFVsb3JMUWNoV0ZrR3MzaGpNdHpxYjAzbGZkaVlEYUxYeFFXdkU0MDdTN1liMnR6dTZ5eUR1M19vX1B0al9xdzFyNjAzaHpLeTZ3YmFVT0x3NlBOUUV6UTVtOFdPMFY1NGp4eDBpOFNzLVQtcTk5WDQ0dWI1aEdsaDZfR25HNkswY3h5V1V5ODBkYXltZ1FqTmw1VUp6dnM?oc=5",
       "pubDate": "Tue, 04 Aug 2026 12:56:26 GMT",
-      "description": "2 more children die as Bangladesh reports over 1,000 new measles cases Anadolu Ajansı",
+      "description": "2 more children die as Bangladesh reports over 1,000 new measles cases aa.com.tr",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -426,10 +426,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Letters: With fewer vaccinations, measles is making a comeback - sfchronicle.com",
+      "title": "Letters: With fewer vaccinations, measles is making a comeback - San Francisco Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU0tOdUhXR3VraHh5YW10ZGFPUHFqSkRhMHdLYmFsVzFMQlMxd2xZOENDS1hUZWhRZWtGSjg0T1lzd1FVZUkwb3gyWnpKOTJCNE4wYW5JcGRlNlVwTU11dm9kMEFZS1lEVTBVN2NDaTdpN3AzTnBFRjhZZEtJSFpzM3FqUlk4VmsyVC0xVDJVbURoc2M4WlJtX0Yzcm83MU5MaUVaVEc0SHlOUmc?oc=5",
       "pubDate": "Tue, 04 Aug 2026 12:43:51 GMT",
-      "description": "Letters: With fewer vaccinations, measles is making a comeback sfchronicle.com",
+      "description": "Letters: With fewer vaccinations, measles is making a comeback San Francisco Chronicle",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -466,15 +466,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdjRGLWw0ZVlkSnlRVWJaaFU2cVAtS3Fha2s0VDg3UFpDMFNYenlZRGwzMllGS0E4NEtpMzdMOE9CMmxtZHc0MTYyRklMVE5GRklGYVViUjZSX24xcHRqSjBleDJoa2lkOTBQdldfaWxyZXZhWU5GVmhuWWpHRC1NUnN4YzE2VHNGcVBwdWpPODNSZTEyb3BFRk40N0dCeEQ4ZHNPeXJuVHFyWGRkbEdQTnJJVzdLQnhLeUxGNA?oc=5",
       "pubDate": "Tue, 04 Aug 2026 10:47:51 GMT",
       "description": "Texas doctors urge parents to update children’s MMR vaccines as measles outbreak grows Tyler Morning Telegraph",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "The staggering cost of a single measles outbreak has experts sounding the alarm - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGFCU01XVmptOF9BbFZ1dENLTlpqVUVFbTBheWY4ZmFRZEZuZHZqdTItdER4QXplWmp5aWIzcWhBNlY1SGE3emZ2M3hGS0w5SllkQ21BS2J6WjRkNmc1LXZrX0pvQTRFZ1Vqam0ybV91Mll4clQzODZ0bHRnNjk3TVlBVzZISXhXWE5rcGVMMUV2MTM4ZGw0ZUJGSQ?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 10:27:00 GMT",
-      "description": "The staggering cost of a single measles outbreak has experts sounding the alarm The Independent",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -543,10 +534,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "What local doctors recommend as Measles moves into our area - WJAC",
+      "title": "What local doctors recommend as Measles moves into our area - wjactv.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3FhalYtVnZDMFRKN3dFdGxpSF9QYzRYRjJDdDJET051WDMzNE1sQ3VlM0RtMUhBd1lob3diRnhwREFnQlBSZURtQklKVjRjRWtfVjVnWmYyU3ZJN3BydHgzUkhFMmd5bFhJemppanY2dmFWRF9ubDhPRW9WQTdFV1p3ZU45Ry13Y2Y1UHVhV1A2SEk?oc=5",
       "pubDate": "Mon, 03 Aug 2026 22:17:01 GMT",
-      "description": "What local doctors recommend as Measles moves into our area WJAC",
+      "description": "What local doctors recommend as Measles moves into our area wjactv.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -561,10 +552,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "13 Action News Big Story: Measles outbreak - WTVG",
+      "title": "13 Action News Big Story: Measles outbreak - 13abc.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLW02UEh4UzFrVkhxS2NJMnZBOVBzWHQ5Z3plYnlVTl9YRTNKWGxwMGRGc2RBcG5xenVCNm9BYV9hV0hoOFE5WTRfWlQxRHBhUDR2c0JLUS1mRlZROXJyV2NreEx1TmVzb2JWZENvcVpDdS1RWVhFTVRZcjU1bkx3adIBlAFBVV95cUxNLXRoRUVvbGdNUjE1TTFwdk1UYWZiLWVnSlBHakl1emszWDVmcUtYb0tPMWUxYWhtakpOdVQxbjZQcUZWQzRLX25mQnlzRjZRODF1UHdUTWJTTUdHOHlUdzgxb3RMaUdWenJQV3FMMk9wUWFBUEo2d01BZ0lVYmItVFJOM2Q1T3ZVOG5jcVNpRVVOUW1z?oc=5",
       "pubDate": "Mon, 03 Aug 2026 21:16:00 GMT",
-      "description": "13 Action News Big Story: Measles outbreak WTVG",
+      "description": "13 Action News Big Story: Measles outbreak 13abc.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -579,10 +570,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "A single US measles outbreak can cost millions of dollars, study estimates - reuters.com",
+      "title": "A single US measles outbreak can cost millions of dollars, study estimates - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOTJCeWoyMEptWkJCRVJZOWZ3SGlXbHJnWTRuckwxR09UWEgwQkNUSHdObG5FRXl2bEg0M3FXMS1FMXZzaDhweUJZcTJVWjVteFR2eDk3SVFXSTEzV3kxNkJFd3dwSjE3WnNzNnhaY0VzcHgtVWhSZndTWFJIcmpoMUhGNU1WblRyTDZVcTUxbDJCZTZwMWJBa3pPSWF6LWRsRTMwckNrclVOdnZKUFQtRlFkNEdmTThwNFJtQUdn?oc=5",
       "pubDate": "Mon, 03 Aug 2026 21:06:00 GMT",
-      "description": "A single US measles outbreak can cost millions of dollars, study estimates reuters.com",
+      "description": "A single US measles outbreak can cost millions of dollars, study estimates Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -624,19 +615,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "No link between MMR vaccination before age 2 and autism, large US study suggests - cidrap.umn.edu",
+      "title": "No link between MMR vaccination before age 2 and autism, large US study suggests - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFk4Nlp3enNJblA4LVhyOVFmeW1uSFl1VVJDZFVCZnJ3SE9fYmtyd3pDWFlXaXFvc0lPUWU4bXE1VDBBcHlsR1dKaEpjT1JWVzh3Ui1BYmZleWFXcjQ0WWVRMDk3N0w5cENRWGlRNXRLTV8xYkYzZEp0ZndjMVMwUldxeFprZGFuall0bXJqRk9EdDRIbHpkbktnSy0xT0R0Y3pOY2RBUVYzS0YxUlFlYUNBQ0NSQTdPSXc?oc=5",
       "pubDate": "Mon, 03 Aug 2026 19:30:00 GMT",
-      "description": "No link between MMR vaccination before age 2 and autism, large US study suggests cidrap.umn.edu",
+      "description": "No link between MMR vaccination before age 2 and autism, large US study suggests CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "UVA monitoring regional measles outbreaks - cvillerightnow.com",
+      "title": "UVA monitoring regional measles outbreaks - Cville Right Now",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVE1YURiRGRTWG1IZEMzY0RteEFZVEFVMlh5OVhiWlhjWkFUSnlYV3ZaaXo3Q2xIZkM5NkZEeU9UaGM0M1ZtMTQ4d2VGSUw5WWdyczdRSEpiQTVRMFZMRk04VVJsb3UyNGY4RWo1Z0F6YVlDS2hWblk5dXRmMm9kTmg2QmlMLUtl?oc=5",
       "pubDate": "Mon, 03 Aug 2026 17:31:16 GMT",
-      "description": "UVA monitoring regional measles outbreaks cvillerightnow.com",
+      "description": "UVA monitoring regional measles outbreaks Cville Right Now",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -646,24 +637,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWFXbGd4VERJemI0WG1zbkdKRmFPYUdQYnRidWo4Y1ZVRTVfZ1BYN1ZsMVVDMkFsbV9uYVQtck1DY3JSZ0JaVndKNDQ1VDdFSXROMWVXaTNOcnJzMWd4UER1LUc4OWZ2ekt3dC1kV3BvaGdqaVR4akttdzl2OVJuWVc3SjBfZGp4RUJPTmVoUUxzUjRHbmI5NVFYcw?oc=5",
       "pubDate": "Mon, 03 Aug 2026 17:06:45 GMT",
       "description": "Oral Antiviral GHP-88310 Blocks Measles-Like Transmission in Ferrets Contagion Live",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "RFK Jr. says parents should vaccinate children against measles - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWktveEtxREdUbUk3c0dWZ01hLXVOMUtNdk5WZVVEdEhSZ3ZBTmtXMWFPSDFiZDNBcG9uSUdUTFhwcXhoRjVTMmVGbWx6S3BIQ3lCbWRIY053UUFQWUM4U082blc3Q25YMC1NajdTS2t3ZGo0OWlwR0h2NE5KQUcwQ1pzYkTSAYoBQVVfeXFMTTRiNnU1eG80ZXRIREV4VXkySUI4Z1F4Ykt0Ry05VFAzVkN1dmZoS2lpX0ttQ0NlQV8xbFl3anExM2g1bEM0V2JySS1palc0R1B2WGtSSEhNUmZlQ2dkTDdUbnZybXZYTElDY3ZKbzQ5c21WX1gtVzNMWnl4T2lONS1ySTk2YUVnZVdn?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 14:29:00 GMT",
-      "description": "RFK Jr. says parents should vaccinate children against measles The Hill",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Why Michigan doctors are watching the measles surge - Axios",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNelhudXYxaGF2VkhmZjBuRVlTOVpHcl9GZmVqVE5zNWRCUHdfcmpDd2hRTVczQUYxa2ppbUxQYkRCZW5IUlV1ZWFKTXhnX3NsdWFRSDNJT05Nb3Q1YS1mRXRtTnRxSW1VMWZPZXo1dGg3ZjN6d1BkdTJNeTV4eVYyOFhzOXdlVmZwV3cxemtuUTVZWS1xT2NoN0dtbThqZw?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 11:34:22 GMT",
-      "description": "Why Michigan doctors are watching the measles surge Axios",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -681,7 +654,7 @@
       "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMU9OZ2liMWJPUmUwLUlpZUVwVkRRbTBCOEg0ZXBpQ05kZDVsQVdnMTBaby1tM0kyWG1jTjd6N05VT09BREVVT1NGbkZIbkJUb0FoUmxTTFNsT0czNTVfWjlXR0tQOGg4MzFjdVpDWmRyZ00tbmxERFR6VXE5SGM?oc=5",
       "pubDate": "Sun, 02 Aug 2026 18:28:00 GMT",
-      "description": "RFK Jr tells US families to vaccinate children against measles amid outbreak The Guardian RFK Jr. interview sparks corrections on vaccines, pandemics and measles Endpoints News RFK Jr. defends handling of measles outbreak CNN",
+      "description": "RFK Jr tells US families to vaccinate children against measles amid outbreak The Guardian",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -696,6 +669,24 @@
       "sourceLabel": "News"
     },
     {
+      "title": "RFK Jr. defends handling of measles outbreak - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoN1k2S3hWeXNWalYtY01zLWZoZ181dFZUMW5ud0dRM1V0OUVYWTZfbXlSQ0VvOG1TUkpPeVJZckNIZjJ6SlZIbWNTNGtWSFNkQ3lDQ3d6U09nU2hpd3l1Yk1yRVNQOWJMSlpmVGlnTHNlQ01fN3E0UUc1N0w?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 16:30:42 GMT",
+      "description": "RFK Jr. defends handling of measles outbreak CNN RFK Jr. says parents should vaccinate children against measles The Hill RFK Jr. interview sparks corrections on vaccines, pandemics and measles Endpoints News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "RFK Jr. targets Fauci and pushes medical misinformation in fiery CNN interview - CNN",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN1dMVlJJYkV3TkxqSUpqZjFqMTctSXhTVXFiTmt6YkJoNjR6TUFMOVdWRXBrV1JuUXpnbUowWHpXY2pmc1JjT1ZwWGFzMDAzdUMwNHVhNGpwV0k2NDRFREcwcThmZWVUWWJxZ21ITmlYaGJjNF9faGNHLWo1Sk1sRQ?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 16:13:44 GMT",
+      "description": "RFK Jr. targets Fauci and pushes medical misinformation in fiery CNN interview CNN",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "RFK Jr. says parents should vaccinate children against measles as U.S. cases hit a 35-year high - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa1E5UkxWVi1ZcGF1b3J6TWctNEE0NFp1UFNEQTFxNll1cXk4bDBiZS1mTU91ZXZMTmN1X3BmYWd6eXNQYjEwZTgxaHJmcEpiU1BLR3liZU5rWmpmbndTY1lGZFcyWHdINE9zN3NyMEtIa3VyU01DUV8yUEZ6a09NRXg0cjcyUVZzU3hicmdMd3I1T1pXNW50VDZvaEZJZ0pFdmlsMXByMTYzUUx5Y1JZQk5ncXZFR3Yzdm8xRk8zNExYUVhjWmwtb2xkMkRuV1FReDB2bm5wUXdlMl9jbWIzYjlsNkNvQQ?oc=5",
       "pubDate": "Sun, 02 Aug 2026 16:00:31 GMT",
@@ -705,10 +696,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Tracking U.S. Measles 2026: 2,300 Cases Put Elimination Status at Risk | National News | U.S. News - U.S. News & World Report",
+      "title": "Tracking U.S. Measles 2026: 2,300 Cases Put Elimination Status at Risk | National News | U.S. News - usnews.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGdtejlVNzBVQ3VILW9pM2hjWWdOVWR4SlYwU1VGOHYxMVNzNEZieHhXUV9fZ1JEMS1LWEtYV0Z4RmFORF9yQUtEd1FIOUhqQTZ3Y2tTdVotZDBWRi1wUkNTYXFLOGJEZHFrY2VIeTJVWkIwZWNGUl9GQWxmdzhHLVlmQk1SQ181MHRsaXNCVS1wZw?oc=5",
       "pubDate": "Fri, 31 Jul 2026 20:44:00 GMT",
-      "description": "Tracking U.S. Measles 2026: 2,300 Cases Put Elimination Status at Risk | National News | U.S. News U.S. News & World Report",
+      "description": "Tracking U.S. Measles 2026: 2,300 Cases Put Elimination Status at Risk | National News | U.S. News usnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
