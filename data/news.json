@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-08-05T22:31:54.665Z",
-  "itemCount": 80,
+  "updatedAt": "2026-08-05T23:29:43.455Z",
+  "itemCount": 86,
   "items": [
+    {
+      "title": "Public Health Confirms Measles Case in a Person Who was Infectious While Visiting L.A. County - SCVNews.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjcybExiUDFRSVZNS1JCRlFkWmNjZm9aVFJjak1WOGRmcmVEVEJ0VHJIY0o0VE9tY09EMlFjYWVNUUlLVjhFOXBiRzBZdzl5U1JsNmJ6c3R1V0l0T3JCUFRHX2w5NzFtM3Fob19yRmpPQzFZRGlueng2VEQ3Sk91enl2bmQ5RnhGN1EyTzRXN1hRaHB0UmRQbFNieExjTFBFTTM1ek1KMm5jaFFiUjhrcnhGdw?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 23:15:00 GMT",
+      "description": "Public Health Confirms Measles Case in a Person Who was Infectious While Visiting L.A. County SCVNews.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Measles Update: Allegany County Health Department reports patient recovering, no new infections - the wellsville sun",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWW9CNTV5S1RGWGpkUnEyU3pLaXZVcDdCR2lPQXk5dWV3WFZvX1VwYzc5VDlURW5sN0Y0MW5ZRm1RdEFNQWdZaWx5VEE3NmM4cWprZlRpNEdPVF9mV1dCNThJR2p4a2plaGN1VTk2Mlo5ejBiWU91ZUtuenlNSEtlLTZWNkgxSUxnWkdjU283U29pUWlULVlyQ3BnR0ZTTWE5bklZNk1kTTdjOEtOUmJPWWJCZ1V1cFBROFBwZ3daR0VwOW1GVm8zY0FKNXpTdnR5Smc?oc=5",
@@ -84,15 +93,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Two Wayne County residents confirmed with measles after Sugarcreek exposure - Your Ohio News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDlYMWk0RFVjT1NuWS1MUDlYRzh0M3Z5NGRxU0xEaXVFQ0xxZkVIakI2a2lBSThpMmc4VmJ5YXRnQkI5bGhrTkVLYmVIRTBTZlEwUlVWV3VSMjhWT2pNdE5jNmY1NUxrU1FtUG5OcXctZk9NSl9CdVRId0lOQ3AtVnJ0UDY2Qm1iWU9wTVBidUV1X05PakM5VmlodnV5VnU2dW9JRg?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 20:12:22 GMT",
-      "description": "Two Wayne County residents confirmed with measles after Sugarcreek exposure Your Ohio News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "What are the symptoms of measles? How is it spread? Is it contagious? - The Oklahoman",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNzRHcmloVlZvZVU0Tm1CQkxLTV90MHhnRU5YUnQxcFYzNGY0c0x5ZTVIdWZkRWhFeXZOREQ4VlVjLUJ5aHVxekh5aHdibk9oSUZVcC02ZllmLVFZaXU0Z3VhTUNHOVVEZlphQlFDaUJpZlNFWDE1clU4Nk5EeFVaN2hNT3hMcjFicUpSQTh5MXlQXzJTZDd0ekw5bVZpdTNBVDdKd2NsYzZwT3VrdjJyYlZwWlRqSXRhUzdN?oc=5",
       "pubDate": "Wed, 05 Aug 2026 19:37:46 GMT",
@@ -120,10 +120,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials urge MMR vaccine after confirmed measles case in Osceola County - upnorthlive.com",
+      "title": "Health officials urge MMR vaccine after confirmed measles case in Osceola County - WPBN",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVTQ5dmlfTUtxRUk1dXlZVzM2T2FUTDRMbFJsWWxWblBJcXlZeHhULW5zZkc5MG1tOFV2YnkwdUtmVVlONTd5aEgtSDZick5SaWpKTjk1cGl4UEtncjJ4eTdLbXhyUVBjYUdjNW1vLVVQZjZpQTMxMFk2TmlXNFpfNnlvbG5WTmxhRDBiME5DYTNuOXVfTWxHQ1VfOGhGeDdFWGNXdlVYTF9PQkVVT0JSVVJUYkFLdw?oc=5",
       "pubDate": "Wed, 05 Aug 2026 18:11:00 GMT",
-      "description": "Health officials urge MMR vaccine after confirmed measles case in Osceola County upnorthlive.com",
+      "description": "Health officials urge MMR vaccine after confirmed measles case in Osceola County WPBN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -192,6 +192,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Two measles cases confirmed in Trumbull County - WFMJ",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTHh6NUVsX0JkX1JMV0pUdzF3MEw2c0FKZTJ3bUtmQzlYaS15bEs0Z1c4T1lleGFMS0JJNEl3Y0loZFVjMFNMY1JzWEd6MGJGNEV3TG5RdS1Ra1JYS3paTG1iU2dOR0NDdGdaNW9BeWUtVmt6dkxwbUxQZFNkdlAxdUhMbUJIcFlUQndWTlBZSG9aUFptanp6dVZ2cXByenJ1TWo5bi1yNFFlSVZfeWRURmg4ZkJfNEliZ1pPc24tNUNEWVFadTVxWm1SODBCUQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 16:39:50 GMT",
+      "description": "Two measles cases confirmed in Trumbull County WFMJ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Delaware reports 13 Kent County measles cases, including four children - WBOC TV",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWFM2SnRua3Q3OGRtclVPeXcwb2ZDUHBaUFhUM2VEbmExQjA4Z25VTE0tbXZYb21UUUNQR1FuV0Z3WnhGQTlnOXBIbVdjTUFvbGxadk5XVUdLUm1NZlRDX0w4YXNPTGprZW9WNFFSY2xZcWxqN0NLc1Iydm1uLUZJNHZ3dVduMU1wbk5KdmlTV1QyRUE5a1g5bEpuZ1ptVFhxMkVqTUFzbExoS3poX1dKZlFPNU40S29RNkZiNUYtT1JHSEdCcnVkeDE0ZktIV3c2Z0ZwMHd4VTNLaGYxbEE?oc=5",
       "pubDate": "Wed, 05 Aug 2026 16:33:00 GMT",
@@ -210,10 +219,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Two measles cases confirmed in Trumbull County - WFMJ",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTHh6NUVsX0JkX1JMV0pUdzF3MEw2c0FKZTJ3bUtmQzlYaS15bEs0Z1c4T1lleGFMS0JJNEl3Y0loZFVjMFNMY1JzWEd6MGJGNEV3TG5RdS1Ra1JYS3paTG1iU2dOR0NDdGdaNW9BeWUtVmt6dkxwbUxQZFNkdlAxdUhMbUJIcFlUQndWTlBZSG9aUFptanp6dVZ2cXByenJ1TWo5bi1yNFFlSVZfeWRURmg4ZkJfNEliZ1pPc24tNUNEWVFadTVxWm1SODBCUQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 16:18:00 GMT",
-      "description": "Two measles cases confirmed in Trumbull County WFMJ",
+      "title": "Two cases of measles confirmed in Parke County - hi99.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTHVhQ2NzZjlYQUV6SHdhTlhpSGNEM2tRdjJHaUZnUUdodzdTZF9kbGpDeElGVjVYSkhoT2Z1WlBFb01XN0x4Wk9ibDU1RzVPLXNHU2Z0dXZ2U0VHN2dqZUgtRF9CWXhubjFXLU9pV2NERk41UzZ5dFFFWHBOQ21STw?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 16:16:13 GMT",
+      "description": "Two cases of measles confirmed in Parke County hi99.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -264,10 +273,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "What NY residents need to know about confirmed measles case - timestelegram.com",
+      "title": "What NY residents need to know about confirmed measles case - The Times Telegram",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWIyLWQzOFNrZDJwYmNYSjRsenlZMURmSG1IUmx5TG1wQUFSYUR6U2NWN1dXUTlNQ2NOWnZiUTBiR1NqTW1ON3ZYdnVtVlB4MnhaZ0YzcGd5S1FWX1pvd0hJVFJ2T3p1QjZCc2J0a3dTSmwxYnRpTjdVVlFiMzhTVzFZR21WdHhRdENZd1pyRzd0eVVvSExhWDlSSzFEVi1Sck10ZVJNLUJMODVVZFpLa211R0p2OTM1OVIwYTZ5eUw3Yi1RQ25kWTNfTmNISzZyVlBnZ1g1OVFHQmtGNFBR?oc=5",
       "pubDate": "Wed, 05 Aug 2026 13:57:00 GMT",
-      "description": "What NY residents need to know about confirmed measles case timestelegram.com",
+      "description": "What NY residents need to know about confirmed measles case The Times Telegram",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -291,6 +300,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Ohio health officials urge back-to-school vaccinations amid measles concerns - myfox28columbus.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFRQb3diZFBlbExVdWRCR1JUMkxuWTRKQ1hkalZ5ejJVbC1VeF9JSTFmR0ljbkpDbk9jenJBTmFrTm9yd1h1LWxULTB4cXpEdkprZFF1VUZzcGx0Q2RPUWhMYW9hMlE5Z2xRZHYzSFlRWXZkclNvaERXdjByOUVaQ01CeC1XZHBWNVpvT1ZjSkRpVzA3N0p2a2g1Vnl0dFdFVm14R1BEWFRQTklPWHUySmF0YjlpX042TkpHUW92SHU?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 12:45:40 GMT",
+      "description": "Ohio health officials urge back-to-school vaccinations amid measles concerns myfox28columbus.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles outbreak a struggle for families - Jackson Hole News&Guide",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONHQtUktGdHhaeVg1bmFjR1NDS1lQX0tMckRzVVF3RGJ2SllZb040ODZpUlBOT3lvR0dsWWRwRHlpZ05SZ3dINFA4U3N5U1NqM3NxQnpMckpvZEFQREo1NUp0ZTMyd1lDT21lMVVQcVkydjlSTVpKT09WMUtoNjBNWU1RSTVpaEJSX2h3VWJ5VkltVkhBQ1duWUxXYnhROWJseld6TjB5dkFuYlBFNWhVWUVYbXdaT2NNeElOekRiUTFRLXNnNVRibTYxd0hfd1dRek85NU1DNDFvQlBaMU5qekt5cHBTRFM2QlNFOA?oc=5",
       "pubDate": "Wed, 05 Aug 2026 10:30:00 GMT",
@@ -300,19 +318,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Cases Hit 35-Year Record High Just As Kids Head Back to School - The 74",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0FiRkNrdXBJR0tYbExnWVlrOE1xMVR0RzZzSWQ1MjJpdWJxd3F4YWc1SjVPcFhPMXQ3T2JycmlzR21tOEdOU1ZMd05JT3h3TFFYbTljTXJlVVlfaXR6YWFKRlZQYTN6dWpScEZZNEtpU3RPZzhtdkg5WWtCN3FCeTNER2lRMFVaa0RzS2doWFBZbndHdGJWNVBzTGQ1QWRzVzBYSUltazdiWVhl?oc=5",
+      "title": "Teton Valley’s measles vaccine rate is a mystery - Jackson Hole News&Guide",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOXZGZ2hfdnB0Z25QYkp5Q1Rab09zN3B5RFh5bGhMUFd4NkJ2MTBWakFFLXg3d09lRFpHYlVNRjVwZjRiVFhnNVJNVzZLRkp5TEM5NDlJWWh0ODEtM0lpZVZRTUdTTTJObEQzYkxzUWhxQlJNdXpvU0VlWEplZDNxRUhib05MZEc1Vmk2TVVZeFFRMHBZenNJNW9vSXZqVFRzS2YzZTZDbzNvWGUtZzlLVlQtN0ZXNGk3Um5ZWEZVMEJLUzFfekU2QTVZcGRsQ3JqdnA1bFMyNXc?oc=5",
       "pubDate": "Wed, 05 Aug 2026 10:30:00 GMT",
-      "description": "Measles Cases Hit 35-Year Record High Just As Kids Head Back to School The 74",
+      "description": "Teton Valley’s measles vaccine rate is a mystery Jackson Hole News&Guide",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Teton Valley’s measles vaccine rate is a mystery - Jackson Hole News&Guide",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOXZGZ2hfdnB0Z25QYkp5Q1Rab09zN3B5RFh5bGhMUFd4NkJ2MTBWakFFLXg3d09lRFpHYlVNRjVwZjRiVFhnNVJNVzZLRkp5TEM5NDlJWWh0ODEtM0lpZVZRTUdTTTJObEQzYkxzUWhxQlJNdXpvU0VlWEplZDNxRUhib05MZEc1Vmk2TVVZeFFRMHBZenNJNW9vSXZqVFRzS2YzZTZDbzNvWGUtZzlLVlQtN0ZXNGk3Um5ZWEZVMEJLUzFfekU2QTVZcGRsQ3JqdnA1bFMyNXc?oc=5",
+      "title": "Measles Cases Hit 35-Year Record High Just As Kids Head Back to School - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYkhZbWR6cmpHR2hJRzV3UXZORkM2YmlSSDhvRjREZnVjc3gwalRkc0ZOOEFISUdfd3lJZ2EyR3QyNGtSeWtINE1JeDI0WXprVWN6d0RpbGZjWUt4MHM1RTFrRlFXWG45MV9XdnVQbU5ULW8wNGFBam56OFdLc09oclJ0bFFzNDdG?oc=5",
       "pubDate": "Wed, 05 Aug 2026 10:30:00 GMT",
-      "description": "Teton Valley’s measles vaccine rate is a mystery Jackson Hole News&Guide",
+      "description": "Measles Cases Hit 35-Year Record High Just As Kids Head Back to School Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -354,10 +372,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "19 charged in Pennsylvania home care fraud; New Mexico measles outbreak cost $5.4 million; cat training helps kids and cats alike — Morning Medical Update - Medical Economics",
+      "title": "19 charged in Pennsylvania home care fraud; New Mexico measles outbreak cost $5.4 million; cat training helps kids and cats alike — Morning Medical Update - medicaleconomics.com",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOV0ExbWFXTnBYdWJvLUc1S2x5bWx1VkZTbEZXWENLSHVLMnBWeHh5VlFyNzZlc1VVMUhiaHktS29hV3d0X2t5T3NSLW1zVDVKN2ZVUDlvMlhZYUJZUXB1QVVVaWlpMUk1UVZNd3lZWTZITjQwbG1BV1YzNWhiVVZ2Zk5oaV95RnJDWFphd0llLUhhVDRBRlJCbjVVOTUwWUNrdXUwNGNvWDVTb1BicmdKRTFBNkpkRXFpUEYwSmlhb1B3Z3pjcG5ReW91Y1M4V0tfZ1UzYXBKUFlKVUlRbm9LLUl6cGNndk1QVmlxQlpZVS1IUE5VYVpUeHBjYUpSRnBIS011cDlKbUdiT1BLVEo3dWlUMFllQQ?oc=5",
       "pubDate": "Wed, 05 Aug 2026 09:14:19 GMT",
-      "description": "19 charged in Pennsylvania home care fraud; New Mexico measles outbreak cost $5.4 million; cat training helps kids and cats alike — Morning Medical Update Medical Economics",
+      "description": "19 charged in Pennsylvania home care fraud; New Mexico measles outbreak cost $5.4 million; cat training helps kids and cats alike — Morning Medical Update medicaleconomics.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -385,6 +403,24 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVTY3emZSa2NRLUlTNENhb2ljMUQyTkg2YTRTUGZwb2RpSnZYa3VtN01jdXN4YUoxbzZnWmFIQTU1T0VseDlZUWg3dThySmNzWi14elQtSktsXzhBOEhKZFhCU25UYzI0am8teWxodGttT1FwbndKZnVzNzZKMG45dWxXUUlMb05YcUdQT05YZGhKZlQyNkFCcdIBngFBVV95cUxOSWxXM3dIa1p0amdHMWpXWmJ3NzcwblRrc25pVFUyRk90OVBtaXYtd1B6OHRyYUtFYWZWTEswT0k4NGRpdEt0ZzZkTGhSa2pTY1N4UDVtUGZzbGkxVGY2QnlMYlZ3VmhIanNTUUZhVXNDMmRENm93Qkg4ejRoRXBpc0lZd1NrOW9Kb3VkWWJMTGIydjYycE8wa3UzNGgxdw?oc=5",
       "pubDate": "Wed, 05 Aug 2026 02:38:47 GMT",
       "description": "What public health officials are saying about measles outbreak in Ohio FOX 8 News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "2 measles cases confirmed in Lehigh County: \"This is the worst it's ever been\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRjFLVFFCa0ZyTHpnWWZlU3hYdF9aWUN5X095Vng0anl1bnZSWWUwR2N6WEdDRm9tWER6aTlITkItX2lLUXdneDZpMVFJZE8xUDVlVC01U3NUX0pJZUxWYXhCYlAyTFpjdUJGSnZhZUtSY2NzM0VLSXV3OEtFV3QzRTFPSE5ueXNqdllUekRNYzI5c0FZdlRTVnR1bGZLSExTX041S2FlWTMzaHNlbWxpUXNueGVzZWFPb0E?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 01:15:00 GMT",
+      "description": "2 measles cases confirmed in Lehigh County: \"This is the worst it's ever been\" CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New Mexico's measles outbreak cost $5.4 million, CDC finds - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNktrRHZCYlU5UDQ1djVWcnprOHJoazd5NnpvSlBJQlFNMVcydnBmb0l0M1FyNjdFTE1NYmwzMjlJQkZjcTBWOGs0Q1JFU2s3c19SVEtvSVVKRjB3R3pTOUM5Q0NSTFVReFhUZTAzNngyZUswcUx2LUIzVXBNUnNmME9qUVU0RGlPTEs5TVRR?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 22:19:00 GMT",
+      "description": "New Mexico's measles outbreak cost $5.4 million, CDC finds CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -561,10 +597,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "First measles case in \"recent memory\" confirmed in Lehigh Valley, Pennsylvania - cbsnews.com",
+      "title": "Study reveals steep financial burden of New Mexico measles outbreak - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYktfRzI0dl9saEF5MklMMkFpNU84YTJ6bkwtTkRJaEFTZHFLTC1OQk5yajdwTlQ2TmRXVVV1WDhvazR0OFBSb0dLMVp6d3Y0aFZ4bjd3a1hHMldYejkwVWdyY2VnTDJkbmFaV0tCYTRsdFNzdU5DeFYySEJUVE82RWVyY2hpTkNnNm5KNVdQdURmOUQ0THpZanhxc2NJNG1lRlNzOTJxcmo3WWd3R1FveXcyMEdCZw?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 02:52:00 GMT",
+      "description": "Study reveals steep financial burden of New Mexico measles outbreak News-Medical",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "First measles case in \"recent memory\" confirmed in Lehigh Valley, Pennsylvania - CBS News",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pR29iQnljUllvZGREaWE2c3h4OGRZMlZkSjJhVk1oU1JXRnlfWjI3SWVJMzljbGc5MHNXeEIwaGRBZmYtYmJZX1dKQ2gxMlA0VmNDTG1xTzQ1b2lPNloyNXNYV3VxdHowcXNtSTBLYmRsVHh6MEE?oc=5",
       "pubDate": "Tue, 04 Aug 2026 02:32:00 GMT",
-      "description": "First measles case in \"recent memory\" confirmed in Lehigh Valley, Pennsylvania cbsnews.com",
+      "description": "First measles case in \"recent memory\" confirmed in Lehigh Valley, Pennsylvania CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -624,19 +669,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "A single US measles outbreak can cost millions of dollars, study estimates - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOTJCeWoyMEptWkJCRVJZOWZ3SGlXbHJnWTRuckwxR09UWEgwQkNUSHdObG5FRXl2bEg0M3FXMS1FMXZzaDhweUJZcTJVWjVteFR2eDk3SVFXSTEzV3kxNkJFd3dwSjE3WnNzNnhaY0VzcHgtVWhSZndTWFJIcmpoMUhGNU1WblRyTDZVcTUxbDJCZTZwMWJBa3pPSWF6LWRsRTMwckNrclVOdnZKUFQtRlFkNEdmTThwNFJtQUdn?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 21:06:00 GMT",
-      "description": "A single US measles outbreak can cost millions of dollars, study estimates Reuters",
+      "title": "Measles cases reach highest annual total since 1991, CDC says - WTAP",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVG5XUmZSR0pXTklrRm1fN09tU3pfbG80aG1paklrU2YzTkRmLVQyQktCOFdjSlBPTVJYcUphR2lOSHN6NXpYQ2xGVER3eU9uVTVoMHhwZzczQ3hjaWp4d1AxOFBrblVLM2ZZWTNxVWpMZjVLSzNDX3ZXUEROQXl2aGRWaXd2MzZqSVNoOGt6TUpHTG02N3hWZNIBrAFBVV95cUxOUU5jbDF5OUpnc1VHcG9LdHFhU2phSmRheUhkNlpBMmR3T2pyWjRoX2FFZjdYMjhacUZTYlQ0NW5kMUxMOFAtREpibHBBa1VpcDhUb2tzV1Z2aXdHTHo5WXJKcWlZdzN3cEUyVjd6bk9LMDljT0pPLVo4YWFuN2UxcGxkX01CaUV5UEo4ZTRBQkJjOTNYeHdVcXJFUmMwcllHSkk4OXY1T1NZeng4?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 21:16:00 GMT",
+      "description": "Measles cases reach highest annual total since 1991, CDC says WTAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "New Mexico measles outbreak estimated to cost $5.4 million - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMTNja1JtWDFBTkJOZ25RWHFpclQ0LVNOc2hwX3NBUV9xeWhOei0zamhRMkcwSmZkdHVBVlBUX2hXcVJDRHZZdTdHMUR3Rzl2NEEwVU1XbVo1Yks5Y0ZQd3JpNjVQQmFvd3N2TE9JWHdTY19iRDJQemM2NDFmTkQtcg?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 21:00:03 GMT",
-      "description": "New Mexico measles outbreak estimated to cost $5.4 million Medical Xpress",
+      "title": "A single US measles outbreak can cost millions of dollars, study estimates - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOTJCeWoyMEptWkJCRVJZOWZ3SGlXbHJnWTRuckwxR09UWEgwQkNUSHdObG5FRXl2bEg0M3FXMS1FMXZzaDhweUJZcTJVWjVteFR2eDk3SVFXSTEzV3kxNkJFd3dwSjE3WnNzNnhaY0VzcHgtVWhSZndTWFJIcmpoMUhGNU1WblRyTDZVcTUxbDJCZTZwMWJBa3pPSWF6LWRsRTMwckNrclVOdnZKUFQtRlFkNEdmTThwNFJtQUdn?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 21:06:00 GMT",
+      "description": "A single US measles outbreak can cost millions of dollars, study estimates Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -669,10 +714,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "RFK Jr. on CNN: fact-checking the measles and autism claims - celinegounder.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZN2FXMDZGMkFaNER5dFIwRnZaem4wenNTdy1hMGN1X3ZwRFFZc3VHd3BEd0JqcjRqbDlsQzdUMGM2amowbEJaZ1Q4VzRrS3ZQc1FlWEdWTW5acTdRSjZjN1hyeU94Ym5Pck1ldF9LRHNRM0wtbHJzTA?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 03:36:25 GMT",
-      "description": "RFK Jr. on CNN: fact-checking the measles and autism claims celinegounder.com",
+      "title": "RFK Jr. says parents should vaccinate children against measles - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWktveEtxREdUbUk3c0dWZ01hLXVOMUtNdk5WZVVEdEhSZ3ZBTmtXMWFPSDFiZDNBcG9uSUdUTFhwcXhoRjVTMmVGbWx6S3BIQ3lCbWRIY053UUFQWUM4U082blc3Q25YMC1NajdTS2t3ZGo0OWlwR0h2NE5KQUcwQ1pzYkTSAYoBQVVfeXFMTTRiNnU1eG80ZXRIREV4VXkySUI4Z1F4Ykt0Ry05VFAzVkN1dmZoS2lpX0ttQ0NlQV8xbFl3anExM2g1bEM0V2JySS1palc0R1B2WGtSSEhNUmZlQ2dkTDdUbnZybXZYTElDY3ZKbzQ5c21WX1gtVzNMWnl4T2lONS1ySTk2YUVnZVdn?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 14:29:00 GMT",
+      "description": "RFK Jr. says parents should vaccinate children against measles The Hill",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "RFK Jr urges parents to vaccinate kids amid record measles outbreak - ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmlzVnlSU0o0NTFSN0ZueTJQREhHaGdLeGdoeFluNVRLLXBIcEprNy1qTnpua0hlTmpPREVVdVdSZG8yeUp6dW1JTUVWbFF1VUg3M244NVBqWS03cnJLS1Z0aGZzdl94Z25qZ1Y2MmlCM0xYS21rTkFzTmlxdHpyaHpvUENtVkhKUkpBVVBQMno4SGdBYjdpTzdUYw?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 05:49:53 GMT",
+      "description": "RFK Jr urges parents to vaccinate kids amid record measles outbreak ABC News & Headlines – Australian Broadcasting Corporation",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -690,7 +744,7 @@
       "title": "RFK Jr. defends handling of measles outbreak - CNN",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoN1k2S3hWeXNWalYtY01zLWZoZ181dFZUMW5ud0dRM1V0OUVYWTZfbXlSQ0VvOG1TUkpPeVJZckNIZjJ6SlZIbWNTNGtWSFNkQ3lDQ3d6U09nU2hpd3l1Yk1yRVNQOWJMSlpmVGlnTHNlQ01fN3E0UUc1N0w?oc=5",
       "pubDate": "Sun, 02 Aug 2026 16:30:42 GMT",
-      "description": "RFK Jr. defends handling of measles outbreak CNN RFK Jr. says parents should vaccinate children against measles The Hill RFK Jr tells US families to vaccinate children against measles amid outbreak The Guardian",
+      "description": "RFK Jr. defends handling of measles outbreak CNN RFK Jr tells US families to vaccinate children against measles amid outbreak The Guardian The dire warnings of doctors as RFK Jr’s agenda sees measles surge back The Independent",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
