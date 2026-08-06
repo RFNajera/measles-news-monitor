@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-06T01:46:31.682Z",
-  "itemCount": 84,
+  "updatedAt": "2026-08-06T03:13:57.046Z",
+  "itemCount": 85,
   "items": [
     {
       "title": "Measles-infected Universal Studios visitor spent whole day at the park - Los Angeles Times",
@@ -21,10 +21,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Ventura County reports first measles case in nine years - Ventura County Star",
+      "title": "Ventura County reports first measles case in nine years - vcstar.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeTBUeng1S3pmV1NhV0wxcjF4eTUzVHJaaDE2al9kVlFqTWJCU0FEZEJTUU9WcG90SEpNcU1lWHROOGd1UEtXalZYVzgwM1pQSlcycmdyTXBKNGNNMzJ0eGpHUzZsV2NGdmZfeGoySG9XVWlndnlzaFZGRldtR1BLd00xVV9FandYeHNmSUw4dXMxUnFJT2EtT2xqNldiNTJSVHlXbFVPMDF5OW5oYWUtR3J5akdiek5PYnRHWW9XUFNLNlBaZHc?oc=5",
       "pubDate": "Wed, 05 Aug 2026 23:48:00 GMT",
-      "description": "Ventura County reports first measles case in nine years Ventura County Star",
+      "description": "Ventura County reports first measles case in nine years vcstar.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -66,6 +66,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "DOH: Measles cases reported in Centre, Jefferson as statewide infections total 200+ - WJAC",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbkhKUE9aUEZlb0kwMURHbGFFOFdxTFY5d2k5NkZNaUo5enlQVi0yU3FYejNwU0dibnpKV1JnWDN1QUJORlJ4aEVIejNJSkpfNE96eU5pOGYwekJVSWpTVTBSTl9UY2RmRFh2dEl4Z0Y0Q3lVTThjcE9jeENPc2hHZHBUdXp0NnBFbmFiUFYwZE1kQ3ZLV2R5MW5pcjlXUVhBY1RXZ2NhcW9HazBGSTNIOWhMU3MyWVB6Y0R6MEhTQU5VRmt1YWlCbW4xM3BwZXFYWk9SNHk3Qks?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 21:57:57 GMT",
+      "description": "DOH: Measles cases reported in Centre, Jefferson as statewide infections total 200+ WJAC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles Update: Allegany County Health Department reports patient recovering, no new infections - wellsvillesun.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWW9CNTV5S1RGWGpkUnEyU3pLaXZVcDdCR2lPQXk5dWV3WFZvX1VwYzc5VDlURW5sN0Y0MW5ZRm1RdEFNQWdZaWx5VEE3NmM4cWprZlRpNEdPVF9mV1dCNThJR2p4a2plaGN1VTk2Mlo5ejBiWU91ZUtuenlNSEtlLTZWNkgxSUxnWkdjU283U29pUWlULVlyQ3BnR0ZTTWE5bklZNk1kTTdjOEtOUmJPWWJCZ1V1cFBROFBwZ3daR0VwOW1GVm8zY0FKNXpTdnR5Smc?oc=5",
       "pubDate": "Wed, 05 Aug 2026 21:35:16 GMT",
@@ -102,15 +111,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "DOH: Measles cases reported in Centre, Jefferson as statewide infections total 200+ - WJAC",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbkhKUE9aUEZlb0kwMURHbGFFOFdxTFY5d2k5NkZNaUo5enlQVi0yU3FYejNwU0dibnpKV1JnWDN1QUJORlJ4aEVIejNJSkpfNE96eU5pOGYwekJVSWpTVTBSTl9UY2RmRFh2dEl4Z0Y0Q3lVTThjcE9jeENPc2hHZHBUdXp0NnBFbmFiUFYwZE1kQ3ZLV2R5MW5pcjlXUVhBY1RXZ2NhcW9HazBGSTNIOWhMU3MyWVB6Y0R6MEhTQU5VRmt1YWlCbW4xM3BwZXFYWk9SNHk3Qks?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 21:19:17 GMT",
-      "description": "DOH: Measles cases reported in Centre, Jefferson as statewide infections total 200+ WJAC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Tuscarawas County up to 8 measles cases - WJER",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15bno3dEFuRDE1VUNNQUd2TTh1Wm5qODVFWDFVcGlITU5FQlk1WXY4LXdkcFJCaEoxZFI5bVFwYXR1XzRtQWFYMXdNMW44eVBVME5JV1NfSlB3ZHF5eWtpQVU0a0hQNFhGRW1Xdkx1UkhFZGlG?oc=5",
       "pubDate": "Wed, 05 Aug 2026 21:18:59 GMT",
@@ -133,15 +133,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSVRnNTZCUGlmNFpWSXlYZmFUS28wZWhIcTJqWWd1ZFo2bHJQUmR2WTNHWkl5WmNYenB2YUFBdERtY2dDcktTeFJMZlZwZ2FrOXpSZXREdDBOZmMwMGxDYm83RmdXZWpuaXpnanVPWVNsbXA0X19yMnpITkhMb3EtWHNYLUs5ZEZfMHRjbUo5eFJZMVdFNkhzbl9RR3lYR1RiMWNoWFAwVDR2aW1JMzRibkE0N09EU2NI?oc=5",
       "pubDate": "Wed, 05 Aug 2026 20:28:00 GMT",
       "description": "Health officials confirm two measles cases in Wayne County Wooster Daily Record",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania sees 26 new measles cases in two days - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX2tTZHYxM1hYSDlkc3dxRWEwUXFzUkhJRlF5ZEpBUGJPbnBnNXA4UkFySV8ycjJLNjR5NDNVQU5SNHVtWGw3eVMtVEc2UGNsWk9WdC1laDZNYjNaSXpOXzl2cElSTHloN2tKbzFVMUZHMU1iM0E1OXhLVmNjRnJHOQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 20:14:52 GMT",
-      "description": "Pennsylvania sees 26 new measles cases in two days Yahoo News Canada",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -201,28 +192,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Another study debunks that MMR vaccines are linked to autism - the-independent.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmx4M0FqYmxnSVlRdmhGNE5JVnFodEJhd1dYUGVxUElva3R1QXB0bmd1czJtWlJDRzBYV0pMcDlpMTlTcU9HSlRpMmlmZTluRWtEdlFrOHFjZG5kVmp1T1FicnJyVVE4S3dYdXRERzctS0lTMXYwMzZOR0pzQXRvN2ZKQ185eUk2QVpUY2hOZTFzUHg1b180NA?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 17:46:00 GMT",
-      "description": "Another study debunks that MMR vaccines are linked to autism the-independent.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Teton County lifts measles emergency - KHOL 89.1 FM",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yUWJuREU2a25WMFEzZk5fR3cyYmxwSW1meEV3cGdZYUJBOTVoWGpyYVBPNXZ3R0JCWHhzeWhNVHF6dmdwYkZBeWt6WVJzaW81RU91ajA1U2tNcXZTODFPLXduZTVxTHhO?oc=5",
       "pubDate": "Wed, 05 Aug 2026 17:44:55 GMT",
       "description": "Teton County lifts measles emergency KHOL 89.1 FM",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Is your York County school at the top or bottom for MMR vaccinations? - York Daily Record",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSE9ybTVUNXFHWHNjWUtjdDlyUnMxWEZHMlBRMlpQb05hYmRpTHpseFEwOHZ2eXQ4azZ5N0trRF90Z0c1SjlXUGlUQ0RRUkZGRm9pbF9JT0Uyeko3TGE5b0NDeGJBZ0U1OFRnSEhqUUc3NDdGTWlTT29WRkhGY1hsbmdCTWhYUkFkazg2VmNTRG1EX21KbEhQNl84ckFFMFA1NXRaeFhHXzkxVDFONXU0dXdxSmFvRlZoX2JfOFA3WUlPX3g1dHRr?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 17:36:00 GMT",
-      "description": "Is your York County school at the top or bottom for MMR vaccinations? York Daily Record",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -250,6 +223,15 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTHh6NUVsX0JkX1JMV0pUdzF3MEw2c0FKZTJ3bUtmQzlYaS15bEs0Z1c4T1lleGFMS0JJNEl3Y0loZFVjMFNMY1JzWEd6MGJGNEV3TG5RdS1Ra1JYS3paTG1iU2dOR0NDdGdaNW9BeWUtVmt6dkxwbUxQZFNkdlAxdUhMbUJIcFlUQndWTlBZSG9aUFptanp6dVZ2cXByenJ1TWo5bi1yNFFlSVZfeWRURmg4ZkJfNEliZ1pPc24tNUNEWVFadTVxWm1SODBCUQ?oc=5",
       "pubDate": "Wed, 05 Aug 2026 16:39:50 GMT",
       "description": "Two measles cases confirmed in Trumbull County WFMJ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Delaware reports 13 Kent County measles cases, including four children - WBOC TV",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWFM2SnRua3Q3OGRtclVPeXcwb2ZDUHBaUFhUM2VEbmExQjA4Z25VTE0tbXZYb21UUUNQR1FuV0Z3WnhGQTlnOXBIbVdjTUFvbGxadk5XVUdLUm1NZlRDX0w4YXNPTGprZW9WNFFSY2xZcWxqN0NLc1Iydm1uLUZJNHZ3dVduMU1wbk5KdmlTV1QyRUE5a1g5bEpuZ1ptVFhxMkVqTUFzbExoS3poX1dKZlFPNU40S29RNkZiNUYtT1JHSEdCcnVkeDE0ZktIV3c2Z0ZwMHd4VTNLaGYxbEE?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 16:33:00 GMT",
+      "description": "Delaware reports 13 Kent County measles cases, including four children WBOC TV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -291,10 +273,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Geauga County confirms 5 measles cases - Cleveland.com",
+      "title": "Geauga County confirms 5 measles cases - cleveland.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaDZCQjNBZzFRTHRjazN0UUo4UlBGdW5IbmU1UFk2a01jYXNEYTJGbURtbmpVbUVic1FPVGNfQ2JlUFM4aFpIUE1KeXlrNnBTR3RtVDV1ZmxkRTlYbXVpZk9QUHlHLWxRZW94ZE5BTHRqclJHRlBXMHVkQ0t4YVB1Zkgyd2tyaU41RUpxRlN0Sk5uVTgzc3c?oc=5",
       "pubDate": "Wed, 05 Aug 2026 14:56:00 GMT",
-      "description": "Geauga County confirms 5 measles cases Cleveland.com",
+      "description": "Geauga County confirms 5 measles cases cleveland.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -426,10 +408,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases rise in Chester County amid outbreak - 6abc Philadelphia",
+      "title": "Measles cases rise in Chester County amid outbreak - 6abc.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVNGd0dBVS1yRFZhd1hxajBJZzNZQXFkNXlLTFl0eVFmRXFiSTR0UWxUTEY4M19MN2xOWXdyMTFJOC1sOFNfdHdSZUh5UDN6SkdaeTl0STZGQ2lTUzVhTUVDRXdEN2kwdXlqTlMtbEZ3WTdtZV9XdTZiUGFkY21WQjVka0lyZ9IBiwFBVV95cUxNR1hWRV9tbkVfY2hZV1JGUFpyRHlZRFNBZmlvRzZHRTRCclJ1MjIyQjNBUGRHX3dVR1RMRVhONG9ld1YwNGd5andZdlRNZHAtdTRmNzVHVzB6NjRaampEa2JKV2JLSkF0dlhRZzNzQ2JFbUtKNjRBOUpuYlUtNHlMUWpRT1pPcE5hODU0?oc=5",
       "pubDate": "Tue, 04 Aug 2026 22:11:07 GMT",
-      "description": "Measles cases rise in Chester County amid outbreak 6abc Philadelphia",
+      "description": "Measles cases rise in Chester County amid outbreak 6abc.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -448,6 +430,15 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTBUSC1fZ0dva1FqWDZIQmJWQzdtck5iS21hQlRReWNxQUNKOFFhZ1lCUS1yZktxbkQyMVlWWlhOakFTRkhzQkNVdjB0c2VtQW9ESGt5YjBiQkQ1R2ZKRXJwUWxqYnhxZkp5Z0FDdmtpSlZCS0p0RHBWSWhqb0VuQ05JdHrSAYQBQVVfeXFMTnFEVlA2RHdnSTctdEU3UDFVbk5qRldCMkFJa09hbHJTSFdaRENBak9jT1N0eUtubkRxZ0Rna2JmSjRJSU1STTVJaU9tRk80dm9GcVpHUGJGaFgwbkU3bUJmQlAwT3R3cHk4Xy1EZDV2UVJFY29GaEZLekdSSzB1cTZjNnVw?oc=5",
       "pubDate": "Tue, 04 Aug 2026 21:28:00 GMT",
       "description": "Health officials on lookout for measles in farmworkers in Central Valley. What to know Fresno Bee",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Health officials warn of possible measles exposure in Elkton - WMAR 2 News Baltimore",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPem1fZlVRa3cwbU5CSS1XTzB6MzUzMEhsZFZ2UU5Fc2tCZGNyTjdQeE9ZX2EzbW9PWGJTR2x3RjhweFZFRU1MNFhTMXJUa3J4dGd3YmxPdHJQa0pTd2N2TXlYeEVzV1c0ZU5iZzBGTm5UZnJ5TmNFeXQ2T1cxVjFIbm5zdHVrNmZGcngzSlVvVDhVTDJEQ2NEaXN5UzdaTVhjNHIzdnotN1VwVVFNN1lQVA?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 20:33:21 GMT",
+      "description": "Health officials warn of possible measles exposure in Elkton WMAR 2 News Baltimore",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -525,10 +516,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Lehigh Valley confirms 1st measles case amid nation’s worst year for virus in decades - Lehighvalleylive.com",
+      "title": "Lehigh Valley confirms 1st measles case amid nation’s worst year for virus in decades - LehighValleyLive.com",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ2JfMWZuZ25oTzR4VkoxVE40dXppVXFkdTMtSno2QU1oUUlIdGxiOTlnc0RpNDhiR25OU2J1NXUxNmRuMjRObC1hXzFfdmRwNzMtS3NiYUpkNXRhVVAyd3Z1Q3ZMeVkxUm5MczhTSHZfYW9wYS1RWXBYSHNCTnhOZHhoUzZibTIwNWY2SmFfNmJHMXlieGFDSFhDNUFRX081SGQ5X2NDcHJhLXJlV0ltbTROTUtMZ0dDYXZJZlpYMXE3SU9od2kybWpBMVhQWnZFMy0xRkxOSlA2MERv?oc=5",
       "pubDate": "Tue, 04 Aug 2026 16:21:00 GMT",
-      "description": "Lehigh Valley confirms 1st measles case amid nation’s worst year for virus in decades Lehighvalleylive.com",
+      "description": "Lehigh Valley confirms 1st measles case amid nation’s worst year for virus in decades LehighValleyLive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -588,10 +579,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Child among 2 being treated for measles in Lehigh County, health officials say - 6abc Philadelphia",
+      "title": "Child among 2 being treated for measles in Lehigh County, health officials say - 6abc.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOGFOcmd1cE9PVkRSS1lJQU5VNy11RFEzS18xUXdNMGRFdzVhZ3lwT0daenVkMjk0SFZYS3JMVVpiUkFFMXhIQzRyelBfS2pIRjNscG5PeFI5WWZ4d0E2VTR6ZDlrNjlXakh1OWNpQm1ZNzRBWFJFNTBwaFozLTY1NzFnYkJpeU1nWnFSNHRXMlNuaExtWjdwRG15d9IBoAFBVV95cUxPQ3hYYkcwOTctNm5DVTE0QzlkeG5kX1BDV3dDcFdVNXZXQ1RWYmlnTW1DOUYxRmp6c09tdWYtQm56c0ZKVmRMcWlzcnZhVmMteGJ0UF8zQkZBNjZXT1JQVDJZakMtbEtpNEJCT1lWV0RSSWU0bkpMRUFWdjdSbkZyV0FVSVg4LUdLcko0Zjd6NFo5aEFYUW5ZdGt4aGh0UFk0?oc=5",
       "pubDate": "Tue, 04 Aug 2026 03:45:24 GMT",
-      "description": "Child among 2 being treated for measles in Lehigh County, health officials say 6abc Philadelphia",
+      "description": "Child among 2 being treated for measles in Lehigh County, health officials say 6abc.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -610,6 +601,15 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pR29iQnljUllvZGREaWE2c3h4OGRZMlZkSjJhVk1oU1JXRnlfWjI3SWVJMzljbGc5MHNXeEIwaGRBZmYtYmJZX1dKQ2gxMlA0VmNDTG1xTzQ1b2lPNloyNXNYV3VxdHowcXNtSTBLYmRsVHh6MEE?oc=5",
       "pubDate": "Tue, 04 Aug 2026 02:32:00 GMT",
       "description": "First measles case in \"recent memory\" confirmed in Lehigh Valley, Pennsylvania CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "RFK Jr. says parents should vaccinate children against measles - NEWS10 ABC",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWkdULVBPNHcxV2VKN1hrLUNpN0x2cWxVRy1EZi1hYzdUakNFZ1diWWVuaVV6WDFCUGNPUVpGZURjc0Fkdjh1QUNxRmtrRW9mSnBnQnBCX25wVnVmQnhSNERhMmo0a1JRaWFEcDEyQzZkUzQ2Y1BXMmRMaU43NV9TeXdJQWdlNXdDSGxxLVRjMHRGSkNnSm9mZURJemJPRUZa0gGmAUFVX3lxTE0taGJYUEtLQkpoa1hyTTZ5VlA2cjk3R1UwanlvQW4xRlJzN3lIc1QxNHNCYnNFcG8zb3ZkMnJJbWI3RXdraldjMy1MZXpmeDNwNEFrWGR2UzRaaUtJLTJNUlFlQnBBbDBiZnpBc2JTczBDd19WeGpCbks5YU45b1ppMm9yaFkwS0t1YzdLOG9wQW1MTVFCdXUxc2NYQWVaNi1NNXg2Zmc?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 23:55:32 GMT",
+      "description": "RFK Jr. says parents should vaccinate children against measles NEWS10 ABC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -635,7 +635,7 @@
     {
       "title": "Lehigh County reports first measles cases, including pediatric case, as Pennsylvania outbreak surges past 170 - WFMZ.com",
       "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQUUNwclk0TUQ2YThIc05CLXNaYmRwckFmQWs5anEwYlFROUg2Zko5Z3FVcXhWS09GVGUwSDFiQXZaWDdPQ2w2dXVxbGFKZ1JQeFJpNEg0blZOZGExbFJ3WWh0cmZGcmVySUU3MXRXNG51X3hKdmtKMHpoSThHUFVfUjhlUDBIX0M3LVpmQU1DWWU2RHpYTXQyMkN5MFBueHNaS2FLVm96R2psOVM2QWdIZGFsMmJ1Tldoc1FUT3pqQ2pwOWdKRmlsVVA2XzAtWnc0dlRYZ1ltcnA4ajVLbFhwUDY2eVVkUTdhVWZxZlVEMjhzMU9xQnFmVnE3dXpiWHpzbl9hZUFZM1A2ZnZEUUdsWjNyVThWNG9HNkVyQUFTVmlUSXpBOHJpc2gyV0pPa3JOMThiSTAyV1ZUd1U?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 23:30:45 GMT",
+      "pubDate": "Mon, 03 Aug 2026 23:23:00 GMT",
       "description": "Lehigh County reports first measles cases, including pediatric case, as Pennsylvania outbreak surges past 170 WFMZ.com",
       "source": "news.google.com",
       "sourceType": "news",
@@ -669,15 +669,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases reach highest annual total since 1991, CDC says - WTAP",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVG5XUmZSR0pXTklrRm1fN09tU3pfbG80aG1paklrU2YzTkRmLVQyQktCOFdjSlBPTVJYcUphR2lOSHN6NXpYQ2xGVER3eU9uVTVoMHhwZzczQ3hjaWp4d1AxOFBrblVLM2ZZWTNxVWpMZjVLSzNDX3ZXUEROQXl2aGRWaXd2MzZqSVNoOGt6TUpHTG02N3hWZNIBrAFBVV95cUxOUU5jbDF5OUpnc1VHcG9LdHFhU2phSmRheUhkNlpBMmR3T2pyWjRoX2FFZjdYMjhacUZTYlQ0NW5kMUxMOFAtREpibHBBa1VpcDhUb2tzV1Z2aXdHTHo5WXJKcWlZdzN3cEUyVjd6bk9LMDljT0pPLVo4YWFuN2UxcGxkX01CaUV5UEo4ZTRBQkJjOTNYeHdVcXJFUmMwcllHSkk4OXY1T1NZeng4?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 21:16:00 GMT",
-      "description": "Measles cases reach highest annual total since 1991, CDC says WTAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "A single US measles outbreak can cost millions of dollars, study estimates - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOTJCeWoyMEptWkJCRVJZOWZ3SGlXbHJnWTRuckwxR09UWEgwQkNUSHdObG5FRXl2bEg0M3FXMS1FMXZzaDhweUJZcTJVWjVteFR2eDk3SVFXSTEzV3kxNkJFd3dwSjE3WnNzNnhaY0VzcHgtVWhSZndTWFJIcmpoMUhGNU1WblRyTDZVcTUxbDJCZTZwMWJBa3pPSWF6LWRsRTMwckNrclVOdnZKUFQtRlFkNEdmTThwNFJtQUdn?oc=5",
       "pubDate": "Mon, 03 Aug 2026 21:06:00 GMT",
@@ -696,10 +687,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "RFK Jr. interview sparks corrections on vaccines, pandemics and measles - endpoints.news",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3pWTEJEenB6X3F1SUt3UHg3OEtFV3lCUGlTZWtVVjZKbXNlOW5rTWJnT05RWllEUTNqSnFzN0o5QklocWpKdS13c3JaQ1ZlNWNyMl9jLWdZVnlwdTU1bE8wTkRXcF9xblN3MkJZWnRKblpVLWFZcjNnWmtBd2VjYXhPWjc3Y3QyMWg2MlBMczZodnVEVWc2TUtR?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 18:47:00 GMT",
-      "description": "RFK Jr. interview sparks corrections on vaccines, pandemics and measles endpoints.news",
+      "title": "No link between MMR vaccination before age 2 and autism, large US study suggests - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFk4Nlp3enNJblA4LVhyOVFmeW1uSFl1VVJDZFVCZnJ3SE9fYmtyd3pDWFlXaXFvc0lPUWU4bXE1VDBBcHlsR1dKaEpjT1JWVzh3Ui1BYmZleWFXcjQ0WWVRMDk3N0w5cENRWGlRNXRLTV8xYkYzZEp0ZndjMVMwUldxeFprZGFuall0bXJqRk9EdDRIbHpkbktnSy0xT0R0Y3pOY2RBUVYzS0YxUlFlYUNBQ0NSQTdPSXc?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 19:30:00 GMT",
+      "description": "No link between MMR vaccination before age 2 and autism, large US study suggests CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -723,6 +714,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMU9OZ2liMWJPUmUwLUlpZUVwVkRRbTBCOEg0ZXBpQ05kZDVsQVdnMTBaby1tM0kyWG1jTjd6N05VT09BREVVT1NGbkZIbkJUb0FoUmxTTFNsT0czNTVfWjlXR0tQOGg4MzFjdVpDWmRyZ00tbmxERFR6VXE5SGM?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 18:28:00 GMT",
+      "description": "RFK Jr tells US families to vaccinate children against measles amid outbreak The Guardian RFK Jr. defends handling of measles outbreak CNN The dire warnings of doctors as RFK Jr’s agenda sees measles surge back The Independent",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "HHS Secretary RFK, Jr.: ‘Parents should get their children vaccinated for measles’ - CNN",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUVEwLVl0ZXFxSEhZOHNXR3YycjFxM0xlUk9LS2t6Q05rNjJxWDFNQkpLVlg2SDM3Sk9sRHhZbW8tc2NISTVnRWpzcFdfcDJxcW9rNDZJVGRkYklaTHN1dk5hZF8zTlVNZVZzZXgyUm1FLWhTTDNRR3AxVDN4ckN5ZTlWZFZ3LTloLVFxWkdmM2QtM3QxZURoMjh1WGxWWmhITlcwNXNzUHJMbFhMQ1UzZ2h6MFRFQ0ZUSC1Gb1ZmU0dpR1d3OHVkNzFTcUlvclQ5S0N3VXRUdTkzVG5tOHg4?oc=5",
       "pubDate": "Sun, 02 Aug 2026 16:45:56 GMT",
@@ -735,7 +735,7 @@
       "title": "RFK Jr. says parents should vaccinate children against measles as U.S. cases hit a 35-year high - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa1E5UkxWVi1ZcGF1b3J6TWctNEE0NFp1UFNEQTFxNll1cXk4bDBiZS1mTU91ZXZMTmN1X3BmYWd6eXNQYjEwZTgxaHJmcEpiU1BLR3liZU5rWmpmbndTY1lGZFcyWHdINE9zN3NyMEtIa3VyU01DUV8yUEZ6a09NRXg0cjcyUVZzU3hicmdMd3I1T1pXNW50VDZvaEZJZ0pFdmlsMXByMTYzUUx5Y1JZQk5ncXZFR3Yzdm8xRk8zNExYUVhjWmwtb2xkMkRuV1FReDB2bm5wUXdlMl9jbWIzYjlsNkNvQQ?oc=5",
       "pubDate": "Sun, 02 Aug 2026 16:00:31 GMT",
-      "description": "RFK Jr. says parents should vaccinate children against measles as U.S. cases hit a 35-year high Yahoo RFK Jr tells US families to vaccinate children against measles amid outbreak The Guardian RFK Jr. defends handling of measles outbreak CNN",
+      "description": "RFK Jr. says parents should vaccinate children against measles as U.S. cases hit a 35-year high Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -745,6 +745,15 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGdtejlVNzBVQ3VILW9pM2hjWWdOVWR4SlYwU1VGOHYxMVNzNEZieHhXUV9fZ1JEMS1LWEtYV0Z4RmFORF9yQUtEd1FIOUhqQTZ3Y2tTdVotZDBWRi1wUkNTYXFLOGJEZHFrY2VIeTJVWkIwZWNGUl9GQWxmdzhHLVlmQk1SQ181MHRsaXNCVS1wZw?oc=5",
       "pubDate": "Fri, 31 Jul 2026 20:44:00 GMT",
       "description": "Tracking U.S. Measles 2026: 2,300 Cases Put Elimination Status at Risk | National News | U.S. News U.S. News & World Report",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
