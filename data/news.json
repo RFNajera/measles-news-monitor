@@ -1,12 +1,57 @@
 {
-  "updatedAt": "2026-08-07T01:25:38.158Z",
-  "itemCount": 89,
+  "updatedAt": "2026-08-07T03:12:09.928Z",
+  "itemCount": 88,
   "items": [
     {
-      "title": "First Confirmed Case of Measles in Ventura County Since 2017 Announced Wednesday - News Channel 3-12",
+      "title": "North Portland is latest possible exposure site for measles - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb2lQZU1SRUs0RS1LVHNWLWVOdklWYklrVXBSblNoYWNjdU80UjI3d0RMOFpJVmVxenhOa3JWWkJvQ2NnYlZRYk9WMGVNXzhqRGotWlpHekdXb2tMUzZIdXcxUjRudVVjMnpBb3JsZlY4eXlXNmYxYW1XM1ZaMmlqOUZwX1g0aUJNUV9vWFR3NkpmY0cwZVpWbVVLVzM1OHoxZWVSeWtuQ1QzQdIBvgFBVV95cUxQUTJhX3R5RXJ1Z0I1LWFRVVROelBaV0hnZV9RMUJnWHJ3XzhBVTFZeFh1SjNnMDV3WUU1YjBLVnk4NVlJZGlaVy1YUzg5MmE5T2otbVYxSzhsS0RkeURJYS0ycExMZzQyS2hMN1FXSlYtM0ZlMHV0cUNidWU1Tm12cGJ5MnJMQ19YSzgtUU1qY2hfVWFnQWp1NmRhTElWLURiR2FCVnNHd0hmNE1wOFFMS05nV0paUlBDQjBia0p3?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 01:31:00 GMT",
+      "description": "North Portland is latest possible exposure site for measles OregonLive.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Randall Children's Hospital identified as measles exposure site - KATU",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPajhWbVMtTld2NmUtWjJqTVVzTXJHRUlFLWpXZWtXblM3RmhPQk95d2M1NkRPU3ktQ3RaNVpZSVo5UFphQ2EwU0gwNWdNdkVNbmQzYjVkSURQbndFRDJZUVFZT3AtQzZQVC1aY2lNLTNzTUZtRVBudnloNDYxS0lqbXFtdU1xN2RIWUpJb0Z6R3pETVFI?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 01:27:53 GMT",
+      "description": "Randall Children's Hospital identified as measles exposure site KATU",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Officials warn of measles exposures at Randall Children’s Hospital on two separate days in Portland - KPTV",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYjhNSXhoVkFnMUFjdThKZEdjX19xcmZtNzJGVTVud3pWVDhoRm9HY0lKQXRlMEtBMGZtSmFVblNGM0tndUFJVFAyRC1OR0JJcUl2YUY3OGptbzZjUjRhejktSllSaDNnWkhqbGl2R3UwYTNVRmJTNDNDcmZXR0ZlSEMzbXMtSFdNR2M0Tm0xVW13RFoxNDdyOVNFaTdrX003eFFWM0xLd2J3VTRxMXA4U1gyT2lpYXFHd1l3?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 01:26:00 GMT",
+      "description": "Officials warn of measles exposures at Randall Children’s Hospital on two separate days in Portland KPTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Portland hospital ER identified as latest measles exposure site - KGW",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRWZONlNrdTQxekpBWkpGejR0X2dHTW1LVTRyZmN1Zk9HR1BYOFFZUkNYOVlEWEVjWlBHN2tTZE9DaDZlNGpoQXh1U1Z1UzhsWkpXRTB2SEdsMlpoM0JFRHIzVktEUkdLa1R0cHhQQjFUeWROQnlrRllsalV5RlJxZ0tieDlNOTY0eHdqTndpZUx0U1lnNzFhVWstdXV0clhGanY3cDc1eXU5Z2ZrdHhScnJsS29yTDhpM01kbTVCc2I5dGhaY19HRHBzZ29Bd0sxVWhUSXpuM1dsT3lLZXRHTUtsNWVRdHVNUUwtc21MVEkyV1ZXdGtJcXNROWY?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 01:24:00 GMT",
+      "description": "Portland hospital ER identified as latest measles exposure site KGW",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Portland children’s hospital identified as measles exposure site - KOIN.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcUdSMHMwVEVONlFiVmNCaUpTbC0zZkRBZTFTNVQxYmFPMnY4V1dhT0NMRkNUSDl4eG1YaFM4aHZpR2VHZXJBekQwM1BUZmxaV1NUYnJPbTE5NXQyOWVwU2hsb0NsRHFpZVpzcllHWFE1S3ZKc0UxSmpoQ29pQnU3dG9zX3NLS0JOaTFwVThYdXlUbHhjOVltQ1F6ZW9DSW100gGmAUFVX3lxTFB3N2J0RHpnY0RuY2hfbDZaVUdQb0phcEUwY3FsVnhoYkw4U19lTEpRTHFwUFU3M3pUaG9tbGJ5cDBPb0h2R09wNGRLTHBiaUVUekpXcWNQTmFSSGtsUUkyRG1LWHJ6LWdZX0hYZFhTX1BPMmM0eWtYSDc4WjB6SEJPTDVMem1pRU1hSVFNb0tBYXZJTVE1UU9VNUF1STJHOFdoT0o5bUE?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 01:18:25 GMT",
+      "description": "Portland children’s hospital identified as measles exposure site KOIN.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "First Confirmed Case of Measles in Ventura County Since 2017 Announced Wednesday - keyt.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSFV0eTdTdWE2MjdXOFg2V0FpQU5YTGZJc3pLWTZkVmtwM1BTaVZVTjhaUFYwWWFuTmlTWHZlSy1UeDJQM0RnM1R2clQ1WE12SVFHd1JTd09PTEZNb1RQbDJyYXpzVGFmRWhjZ0Q4UjlRVVc2ajZSZV9SR3pxZzZOWGlzYjVETS1KanI2UFZtRVk4YzZNVGVvelA1SXlzMTBsMGh0MV9yUTdQSFF6aVdBZm9URmpVcnU3aHk1N1BJNFZ4cEI0elp1ZA?oc=5",
       "pubDate": "Fri, 07 Aug 2026 01:08:45 GMT",
-      "description": "First Confirmed Case of Measles in Ventura County Since 2017 Announced Wednesday News Channel 3-12",
+      "description": "First Confirmed Case of Measles in Ventura County Since 2017 Announced Wednesday keyt.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -21,6 +66,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Confirmed cases of measles pop up in Kern County - ca.news.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XakZYeVpqX2tHekZmQU80cmZOcnd1bXg1QmJGc3hSb01hLU5DNjFpbnNsSXdCR3JqWmhRM3VLbXdSdjZlQnNpVEdaUERyaHNBWXJhcnNqcTFGMl84YVYtZUxZcFpOc0xlNWp2Nng1R3ZfOGtidXlkSHlpc1M0dw?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 01:04:00 GMT",
+      "description": "Confirmed cases of measles pop up in Kern County ca.news.yahoo.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Kern County confirms first measles cases in residents since 2004 as health officials urge vaccination checks - 23ABC News Bakersfield",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZndmWVkxT0VkSzI5ekZmRmNITUcxV19LdGpTbXk2dlZPdy1yclJZWkNlWGVxVjcxZUtLdWNoUm56NDlsUXZiZmZ3LTZKSjBFUUctUklDd0ZxNHd5QUV4eGlwb1k3UTgxTGNGZUo5d1RHVUV3NFJzbXRRUmRrZzBHOGR6dWdRbnF0ekhMa0RHUUNiWVgwQjJSRHBXV3RYWEpUdy01UHNXYTFhX1g5NDFfQmJTemszaGNuT1gzNmtIWWFKWTdXOU1NNXJ6TFpXaklyNnUzRDlBNlM5enQtLXJwaThRS3BZMlNOZ2NsMU8xU0pYZTZ0RnVEa2xwWlNqY0dY?oc=5",
       "pubDate": "Fri, 07 Aug 2026 00:36:31 GMT",
@@ -30,19 +84,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Michigan health officials stress the importance of back-to-school vaccinations - Upper Michigan's Source",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbUJLcGlHSXFnM29ibGdKNTR6QXBXMzFra1JDUzJweVpwS1pkY1NfUUlMa21EMWpqZmhfRkpjTmd5TUdiS25uckZ0VVp1ZFVfRU5lRy1sZk1NZDlUNEVrQmZzUkJWX2VVUi01aHhXRzRfRmhLUnRYc0NWdmd2bVhDaWFzb3BnOU5fcU5tNTczcDNsM2hGcXpSWkpQU0VTX1cxRWxBZm9DcVBOMDdnalZ5NlJPVmxEVkRvR2ZhaA?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 00:00:00 GMT",
-      "description": "Michigan health officials stress the importance of back-to-school vaccinations Upper Michigan's Source",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles exposure leads to 2 presumed cases in Allegany County - WGRZ",
+      "title": "Measles exposure leads to 2 presumed cases in Allegany County - wgrz.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZlVFNkpFTHB3bWZOTGRna2ZJcHNCTlBoLWJtRW5wamc1dlhSTGRxRHVBUjZkaGoweVE0Y0FVUF8yM0l0c1Fja3hiX0FDOUQxSzdPR2YzRFFSRUhjZmhwTWt3VUFPN1dReFdCVE5GVVB6MkNHNlNTaEYybkpmRlBmcGNvYUJlUFkyOXV0YzBSRlpQUWJCbUc1dDZCbEZVTXB1T1RKX2FuTDc5STRJakJVX3I0WmdtUE5xX2p6UHVYWmVtVzF0VmhpV0cwQWlNMDBVMGZF?oc=5",
       "pubDate": "Thu, 06 Aug 2026 23:28:00 GMT",
-      "description": "Measles exposure leads to 2 presumed cases in Allegany County WGRZ",
+      "description": "Measles exposure leads to 2 presumed cases in Allegany County wgrz.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -67,8 +112,8 @@
     },
     {
       "title": "Public Health confirms 2 measles cases in Kern County since 2004,linked to travel exposure - KBAK",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZHRwOC1hTkRsd2xocExMYkNZUVY1OG1EVkpsS1BJdnNnSHZEbnZYZ0lWY3JvdUxiM3hUZVl4WWRSYTVTbkwwanFsUG1Yb1Ytb1lya3MwY3paNUlFODl6Y2VDa1FZdFpaMXhrcGNCdUNjNy1uYnR3VDIzOXJ3LWtDN0pIUUZhdE9QM3ZkQkQwUkRzY1ZOU2pFd0Q0N2pwRHY3NW52Nm5XMktFc2xMcW9DWlFwYnFYbk0yLWVNck9ETTdtU2pmYjF2YWNnSXE4OFNuVXhBajNhZXNLM0NWWi1FUg?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 22:21:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa0R0Nm9aeDE5TGZ3UDFiUTV2ZlRSREpMRXhRSlM0aG53WFpDSk9rNnRoa1NYR3JocUxpY0l6ck9xRnN0dVRlZW56elltcXdKRnNJRXRIaExmNjd5MDhScHdhNDFud05PeXlOQ183Rlh6dGgyV1dBR3Jhend5dVFLYmRoLW5HbG1vdXZNeTZqaHp6VzdvODRKTnRIa2RnaWJreVlBMHV0SEJVOG4tTklpWG16TEExQTlKUkUxNFY1U0RTWFg5a1pSOFRMWTh3T1lhQ0pwbFZ3?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 22:20:26 GMT",
       "description": "Public Health confirms 2 measles cases in Kern County since 2004,linked to travel exposure KBAK",
       "source": "news.google.com",
       "sourceType": "news",
@@ -97,15 +142,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR2JuSFFtMFI3SjcycFRuaHJCRjhhZ3BKSF91THZXeXNCS3pLR2tOckpMR1BLVTRSM1l6SEVmYzY1MEFwYkdZYWxNcEZkb1NicnBybWJtV0c0MjJFcmU1RmlUcEtBUnVFQTMyT2VDWXdqdWJka3cwZmpJelJ4Yng3RHh4OTZaMGdkd2g2cnZ0amZoOUpH?oc=5",
       "pubDate": "Thu, 06 Aug 2026 21:46:00 GMT",
       "description": "Measles cases rise in Pennsylvania, doctor urges parents to stay alert WTAE",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases rise in Pennsylvania, doctor urges parents to stay alert - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTXMzNHFsN1VNY01sWjIzX2ZxYmdaYmN6ZXVaaXNCQkpKNm8yTlU4S0hLOWNnajRRcy1KclJEblZ0dzNpM0l0dFVCNVhuN0xqMXNTZkxYYzM4TUF6SHJsM1pSV2pMUzRxdnpWSUJlZUdfN24wMVg5VG1BOXJRVFBGRUN1M0xaUQ?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 21:43:22 GMT",
-      "description": "Measles cases rise in Pennsylvania, doctor urges parents to stay alert Yahoo News Canada",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -149,8 +185,26 @@
     {
       "title": "Universal Studios Hollywood Warns Guests of Measles Outbreak After an Infectious Guest Visited the Park Last Month - LAmag",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPelZtOTRPZVZGNDc0VV9IVUt6eDh0Xzl0OXRod2RKel9mdGh5RmFUV2dfVjY2QWI1QVc0dnlScWRwUGFmcVdTT1lURXlHb2lFYkFVS1ZYR0NvV3ZwZUVJaGhxNWMycnAzSlF6dm9pZEtwX0Z0YThNMXBSSFhHeTI3TjVUXzM1eHZnQVRkX1RwYjJOdlAxQmRPNkpOOHhzNUtveTlJa0tRRkFlaERyT0NvYm1oNVFNWm1lUzRTQmkyTnQ5TzNXRkI4dDVGR3QwREVac0ZjaXVCYw?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 21:02:16 GMT",
+      "pubDate": "Thu, 06 Aug 2026 21:04:16 GMT",
       "description": "Universal Studios Hollywood Warns Guests of Measles Outbreak After an Infectious Guest Visited the Park Last Month LAmag",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Allegany County IDs more direct contacts with measles case - oleantimesherald.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLV9PTmZFOTFVb2J4VEpBS1ZGTkdJcm5WQjlIN1hpWVgwTXZweHJlMHJCZEhhTmJ2bktEV0FpWWYycEZMTXZYeDQ3dG1KdFdZNVZIbXNLY3dzblh0ZDBUSm9keG9FRHVOVWlvQXNNOTdXRllPNmVXam9zOFdWM2NCNmVMazNBMWhselhQcVB3T253R2Q0WlBZSDQySlQ?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 21:03:37 GMT",
+      "description": "Allegany County IDs more direct contacts with measles case oleantimesherald.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Cases Confirmed in Centre, Mifflin Counties - StateCollege.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY2xEaFJuaHdpYjY0WkVaSFI4YllETDA0MXF6ZnctWmdlQ2VWZXZfMDR0Z3RKU1FGaTIySzRUdGdSZ3pJTkYteXJSU1R3TzNNcXRXRXpHT3FpZkZXWFNRR09WTjVEQjV0YXE2QjBMRUV5LWdfaXptSkxCNXE2RUNPZDlBelpDR2NzVkFkcUIzNnBfa1cwTG92cThodS1raE4xcTRV?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 21:01:01 GMT",
+      "description": "Measles Cases Confirmed in Centre, Mifflin Counties StateCollege.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -185,7 +239,7 @@
     {
       "title": "LA County investigates measles case after possible exposure at Universal Studios Hollywood - kmph.com",
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQNWdtYXFDdVVOWm5oMndQcEpYZXhDbjZLa0lheDh5eTVEYUdxRWJyOHhXY21aLW5jbXlkODRnTGdDbGZjdkVKdXY4T2o0a0RDZEUtQ2JJbWZxQ1lxN1hrbkhVenY5NE9TTDNGYkJlaGE3MllKeVp4cFl4Y0hOcnhjMkp2QTFwQzFfakt4bFp1RTFzNndWT0hLVERHc0ZMV3lUMjc3ZGZCOGxIX3Ztc3FGQ2wweUxoRWpzaXJrVkptMUJjUUxFWThJT00zWVR4VnAwcGdtbXN4MmdhOUxKQzdsT2h5RHE5Ul9LLVlneVp2WXd6emdJYm50UWJ5cmdIQ01KakItckNpRVhKZ2RxVnJER3h2SmFiZWI0cTRsT3o3MXFZbG5V?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 20:32:11 GMT",
+      "pubDate": "Thu, 06 Aug 2026 20:33:47 GMT",
       "description": "LA County investigates measles case after possible exposure at Universal Studios Hollywood kmph.com",
       "source": "news.google.com",
       "sourceType": "news",
@@ -228,19 +282,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News",
+      "title": "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV1NtZkN5XzJDa1J5eS1WSnBIbUp1dUYxcTVxWFVGZFJOMkd5TDhKeVpILUtkRDNuY0trRmVxUjdua1p2NEx1ckg3SjhDaHZWTnRVODl3RkVIOTRzQW9wRDU3SDhjZ045bzloV0l1Q0hzeE0zLTZRTHlBQXFXR1ZGUUw0NTZBa1RHbHUxSjR4UjBFWVNidHFTZGdpUm5HU0ZJVU81UndGdEhSa1Ri?oc=5",
       "pubDate": "Thu, 06 Aug 2026 18:28:10 GMT",
-      "description": "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles exposure reported at Universal Studios Hollywood - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ05tb3BLTGJJYVllWWpTZVZhSl9IMHAzNUp1ZklEdmN4VkdHR1BYMXNBZm0zWUFXLUkwZHJlcnBaQjJQMG5xMTJLaTU2Z1BxUi1zV3RkN1VoMUxvTmt4V0c0VFh6UXRiN1NXNnZnN09qSU1NUzk3SGVXU3pBNkRXNTQxcW0tRFd1TzMyZnhGOA?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 17:42:07 GMT",
-      "description": "Measles exposure reported at Universal Studios Hollywood ABC7 Los Angeles Measles exposure warning issued for Universal Studios Hollywood KTLA Measles-infected Universal Studios visitor spent whole day at the park Los Angeles Times",
+      "description": "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor cbsnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -282,15 +327,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Amid soaring measles cases, parents can now track vaccination rates at Pa. schools - The Keystone Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUjY5MEdNeVlOVGs3ZHBkZTlLaUVhTTVibFBnM044VEJjQVI5d3dhb2cxcmdfV21OMnMyTnBUVjg0eG56bUVaeWxHVU05YlozWXA2eHowaE9KSW9EUnAtaHgxOG5xSTdCdnhQbWRzN1ZRUHVwTHNBaHpEbExqMlJlTTl4OHd0N3ZycVBUeERpd0xpQlJfc1lnNXpnVC1QOEdhMTBQTFVKZjlhY3JJbG4zTXhPenByRWpFR3N1dWJjSGVFWkU?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 16:53:29 GMT",
-      "description": "Amid soaring measles cases, parents can now track vaccination rates at Pa. schools The Keystone Newsroom",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Could Philly See Another Measles Outbreak? - Philadelphia Magazine",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfRUdWd0JoRVE3VmctSmZJZHlwOXZQVHRGTnBpMnZPckhLRWVZZHpKU2czd3FDMEZ5dmpnU3N4a1VlMXotZnVMQmt1b0NOTmdYQlliS0w5aXNER0U4SkRfVjVWal9FOTd6ejNGdDB5MFRJYmxucjRUWg?oc=5",
       "pubDate": "Thu, 06 Aug 2026 16:32:13 GMT",
@@ -300,10 +336,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "What families need to know about the recent rise in measles cases - The Bradford Era",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZUZ3MHd1amdJbDZBeUZRZWZpSTc5NkxDYkpxQmt6a0htZHhCUTdjc25mVXk1V1BZY2JTYjBrREVRd1JYVzJUZGNudXlwT1dUVy1PNGhBbGpvQ21WRURmMkdpbDVGMWxpa0dKWGlsT3ZDVm9jdnZZclQyN0g3SmViOEpfWTUtWldlbXVnRA?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 16:27:37 GMT",
-      "description": "What families need to know about the recent rise in measles cases The Bradford Era",
+      "title": "Measles exposure reported at Universal Studios Hollywood - The Eastsider LA",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNGMxcEVPRGdUbk4wcThxeHE5YVdMcTBBT2J0REtWajRzOS15dlZ1OUhjSXZMbnBhNldJZThPOWlqckl2bVpvNVhfVGpSd21MRUg4VnlVQm1kZF9ZTzc4REtUMVhpVnRKVXNLVUU5YW9ZV1NhRy1fMnRQUWxIOHM2VUU1cjlOb3UtbGY4b1FFUG5UcVQ4R0d5eUlZek4yTFJYS1B0bnRoNXBjdDBXWEk3WXRsMm1IMXVkdjdfN0FIMWJCbi05Rkw4LUxqQzZsVktTNkdxaHBWeXBBVEVKSFJrT1Z2bGJuVjjSAewBQVVfeXFMT2VzR0JFb3c1bUd1Tm1EUVdWZVlIMzJHa2Z4V2JvMHNETkhlV2xnbk9PVFNrVjFoY056TjBuTjdoWmVEQTZYVWtSTWNtVWN0V2VHUzFuRTVGamUyR3ZOQ0NaQlJwU2JtWnZ5Z2UzQjM1V1RSMkwtbEQ4S21mNXBncEY3Y056aEQ5bnFVLUJSRE5va1NXZ3pVRENSeUQwdmVwa2E0c2FxeHVYcUlQN0JSekVUdkMwd0tHb1RqSWFIVU1tTUM2VXBjdGY5MTVRQ1dPeTl6WWM5bU9rSUczUmN5VmZ5d1RXMFZNU3pObUk?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 16:15:00 GMT",
+      "description": "Measles exposure reported at Universal Studios Hollywood The Eastsider LA",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -345,19 +381,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Exposure Warning Issued for Universal Studios - Disney Food Blog",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ0lmbUlYMGVvSDI1ZloxYlZDMU9PajZ3VTZQdWNIN21mNkdtR0NkOGlnTmpnNkZwZTYxbkVFSkFZTTNlUHo0OXpOdzF6bkFyS3hCalg0R2dGQXVEVGR5TWFoWXFZN0U4N3d0dkd1SnM0ekNUN3NDUUFiM0dsT2NxNkxwNU5UeWNUT3lkQlZQQ2o0MFo2ZVFhNnZ2NUw?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 14:59:31 GMT",
-      "description": "Measles Exposure Warning Issued for Universal Studios Disney Food Blog",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles case infectious while visiting Universal Studios Hollywood - Outbreak News Today",
+      "title": "Measles case infectious while visiting Universal Studios Hollywood - outbreaknewstoday.substack.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNHhrQ192NDVLSE1BQVc3UktYZEh6WnN3aGpHVWM1V0l1WVBQTGlVbHVoNW1IYXFRR09RZV9oQWFmNE51S1p1OF96cTY5RXNuV1o1bmdzVndMaTFGMkpCT0NwQjFienVoMWJDTEdfcGxtbXM2RktBZ0tXdWkzNW9HbjREMU9IUQ?oc=5",
       "pubDate": "Thu, 06 Aug 2026 14:23:42 GMT",
-      "description": "Measles case infectious while visiting Universal Studios Hollywood Outbreak News Today",
+      "description": "Measles case infectious while visiting Universal Studios Hollywood outbreaknewstoday.substack.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -399,15 +426,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Pennsylvania Measles Cases Climb to 202, Two New Local Cases | - 1070 WKOK",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAzVDdwSFhXYU5iTEdqaTRhdFVSYXhhQUdraDg5ZDA3UEtXdnZid1ZmS3ptc18wWlJMenJsMDI2aUJFRmlJ?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 12:01:23 GMT",
-      "description": "Pennsylvania Measles Cases Climb to 202, Two New Local Cases | 1070 WKOK",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Ohio measles outbreak cases double in third 2026 outbreak - Akron Beacon Journal",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlFzdDk5ZUZKRW85a29FbjR1VE5PakhucjRwU2Npc3duSWJVQ3MwaV9MYUtaN0tfaHFUWWJackxtNWx6OHVTakpTSm5JazFDSE1OMkNMQVo4cmkzaXN6bjdWNzdTOU4yWTZBQnQ4NXRTb2RqLUJPX2lrLTdSUTRrMk5sNmJ0RUUzaXlGM0hRT2s4MGhzZkIyM3ExT1VSWmwtcWtKRUZwbG9KYzBhSmJtRmczUlU4Q0pjOEZQVQ?oc=5",
       "pubDate": "Thu, 06 Aug 2026 10:52:57 GMT",
@@ -417,10 +435,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials urge MMR vaccine after confirmed measles case in Osceola County - upnorthlive.com",
+      "title": "Health officials urge MMR vaccine after confirmed measles case in Osceola County - WPBN",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVTQ5dmlfTUtxRUk1dXlZVzM2T2FUTDRMbFJsWWxWblBJcXlZeHhULW5zZkc5MG1tOFV2YnkwdUtmVVlONTd5aEgtSDZick5SaWpKTjk1cGl4UEtncjJ4eTdLbXhyUVBjYUdjNW1vLVVQZjZpQTMxMFk2TmlXNFpfNnlvbG5WTmxhRDBiME5DYTNuOXVfTWxHQ1VfOGhGeDdFWGNXdlVYTF9PQkVVT0JSVVJUYkFLdw?oc=5",
       "pubDate": "Thu, 06 Aug 2026 10:31:16 GMT",
-      "description": "Health officials urge MMR vaccine after confirmed measles case in Osceola County upnorthlive.com",
+      "description": "Health officials urge MMR vaccine after confirmed measles case in Osceola County WPBN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -435,10 +453,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Maryland hospitals take steps against spread of measles - heraldmailmedia.com",
+      "title": "Maryland hospitals take steps against spread of measles - The Herald-Mail",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNlNaaE9XeXh4NmVCbWdGd1dMOElLLXBJQktMaWFPcU4xVlIwMTJRVVA4UGdjcmxvQ3dncW94Z0dFTGtTWGVGQnBWU0Q1Xy1LOFA0UWVEbTYxM2ZuWFlVYnRNY0c3UzZMOExWYkljY3NiYmlEQVpEUmtjWTlMNy1KYXVreGFXeTJNRTNoTkIwWUl2T0RIRE13ZjBCSDQtLS1wdHBLcjE0c3Q5T2tRWlRrb0VPcXRaOFpLWklkeUhyS3phOXdoRmtZRWRpdU14RzFMWWNOVDFCLTdCaWdnUTFXSk92TTFTbWc?oc=5",
       "pubDate": "Thu, 06 Aug 2026 09:04:00 GMT",
-      "description": "Maryland hospitals take steps against spread of measles heraldmailmedia.com",
+      "description": "Maryland hospitals take steps against spread of measles The Herald-Mail",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -462,10 +480,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles panic at popular SoCal theme park after infected guest roamed for hours - nypost.com",
+      "title": "Measles panic at popular SoCal theme park after infected guest roamed for hours - New York Post",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNGdpZmFkRGFsU2FtRnFkcEI2djNXaUROX09UZE5xYi1qVHZTdTVLV1ZNdDY3MU1KTmZpS1hPdkR0ZzQ5MU1KRmRDam9vNDRrbzByQ29PX0pQWGxpUlZWc0ZBbm83VnoxVm1Od0d5eHI5RnRWSWJZUnctLWVCUzFXYkV3RlRBQjl1eklxbVpNMkxoQ0hka3ZoblNGYm9rWDdfcEFKdk8yZ3BfRUVkS2JPakx5TEJJNHBTV1BoNXJpa21Rb09oY3hSeF9RcDJKNjZTZ015NmxyeEl1alk?oc=5",
       "pubDate": "Thu, 06 Aug 2026 04:41:00 GMT",
-      "description": "Measles panic at popular SoCal theme park after infected guest roamed for hours nypost.com",
+      "description": "Measles panic at popular SoCal theme park after infected guest roamed for hours New York Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles-infected Universal Studios visitor spent whole day at the park - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUndlamRqMmRBNWpvRFBtaUczRDRzMHQ2TG1tNXE0aVk0bXd6Y1R5NnRsQUNzOU9fME9iYmVPMXRvNzhla1BTT1cxU0tBT2ZaMmRnd1c0R1BMYnEtUTRwb1lZT1VOYzU5TnJsay1wVjJfQXU1U1NLN243eTdmUDhpSWRnMWl4M290Z0l3V250dXZEV1hfa2YyeEN2Q2VMQkVpN3dwZ0FBcmZ6OHNNdHA3MlhUWW96NFJNR1E?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 00:33:00 GMT",
+      "description": "Measles-infected Universal Studios visitor spent whole day at the park Los Angeles Times Measles exposure warning issued for Universal Studios Hollywood KTLA Measles exposure reported at Universal Studios Hollywood ABC7 Los Angeles",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -480,10 +507,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Ventura County reports first measles case in nine years - vcstar.com",
+      "title": "Ventura County reports first measles case in nine years - Ventura County Star",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeTBUeng1S3pmV1NhV0wxcjF4eTUzVHJaaDE2al9kVlFqTWJCU0FEZEJTUU9WcG90SEpNcU1lWHROOGd1UEtXalZYVzgwM1pQSlcycmdyTXBKNGNNMzJ0eGpHUzZsV2NGdmZfeGoySG9XVWlndnlzaFZGRldtR1BLd00xVV9FandYeHNmSUw4dXMxUnFJT2EtT2xqNldiNTJSVHlXbFVPMDF5OW5oYWUtR3J5akdiek5PYnRHWW9XUFNLNlBaZHc?oc=5",
       "pubDate": "Wed, 05 Aug 2026 23:48:00 GMT",
-      "description": "Ventura County reports first measles case in nine years vcstar.com",
+      "description": "Ventura County reports first measles case in nine years Ventura County Star",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -543,15 +570,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak changing how doctors identify and treat patients - fox43.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYUJrc0JKbnJUNXBmMkhiVUxWSjlhakZTZGZxVm8zQ1R3VEd3NHJSajVxT2FpeHRFckk4eEoxa1Y1enNuSjVnY3R3Z010ZDJ6VVNBUkNlVUM2WkpVaFMyd3dhMlZDZUVOY2RJaENITURTcXdlRG9qV2QyRmRBQ1J6cXJReVN0cUFJLXJuMDFJX3RXRzNIODl5bV85cXI2WlhQUmtIYmpxU3RaTl85VzBpYWluLTNScTZaYi1GcmxfNmJfdTE0LS1FUl8yekwzR1F1MUk1S0hsQ1YyZUJpM1FneVpR?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 20:58:00 GMT",
-      "description": "Measles outbreak changing how doctors identify and treat patients fox43.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "202 total cases | Pennsylvania Department of Health confirmed 26 new measles cases in two days - WGAL",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDBkTEI4RElZYmZmd0x3aGtIZGJEdjRKNTZIQ0hVdGZkaVFNOEFESDFJUHA3cXNvdEI4bkxTVzl6RVVwdHBUQ2JmRC1lVE8tY3hDc1MwcndvZi1mYzZkX2dUN3EzdzRYeklqaVRIR3N1eFg3MXJid2NiUjMyc0tBckJ1NU95d3M3LUdKcWxoLUlLYnRBS1hRNg?oc=5",
       "pubDate": "Wed, 05 Aug 2026 20:18:00 GMT",
@@ -579,10 +597,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Delaware reports 13 Kent County measles cases, including four children - wboc.com",
+      "title": "Delaware reports 13 Kent County measles cases, including four children - WBOC TV",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWFM2SnRua3Q3OGRtclVPeXcwb2ZDUHBaUFhUM2VEbmExQjA4Z25VTE0tbXZYb21UUUNQR1FuV0Z3WnhGQTlnOXBIbVdjTUFvbGxadk5XVUdLUm1NZlRDX0w4YXNPTGprZW9WNFFSY2xZcWxqN0NLc1Iydm1uLUZJNHZ3dVduMU1wbk5KdmlTV1QyRUE5a1g5bEpuZ1ptVFhxMkVqTUFzbExoS3poX1dKZlFPNU40S29RNkZiNUYtT1JHSEdCcnVkeDE0ZktIV3c2Z0ZwMHd4VTNLaGYxbEE?oc=5",
       "pubDate": "Wed, 05 Aug 2026 16:33:00 GMT",
-      "description": "Delaware reports 13 Kent County measles cases, including four children wboc.com",
+      "description": "Delaware reports 13 Kent County measles cases, including four children WBOC TV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -601,6 +619,15 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc1dhc3RtWEVaSHJHVGRrRll3dXA4Sm1tSlZRUW9JS1V3dHFFN1ZSN3pzQmRONkNaSE5SWEJxMXlzZkN6UjFrLWJGNW81emVxQ2l4UWpMUGxncEttRTVaYlhING5fblIwSXBuaVJXQkN3X3RfR1hXWUFjczk3SC1od01HVXVmSEZDSzZmWDJXR2FXNWlRS1IxLVFQQVlDdjY0aXRXM1dkZ21XeENBVW8xeXpCYkxxQjNO?oc=5",
       "pubDate": "Wed, 05 Aug 2026 15:22:46 GMT",
       "description": "Ohio's latest measles outbreak doubles with new cases Akron Beacon Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Lehigh County reports first measles cases, including pediatric case, as Pennsylvania outbreak surges past 170 - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQUUNwclk0TUQ2YThIc05CLXNaYmRwckFmQWs5anEwYlFROUg2Zko5Z3FVcXhWS09GVGUwSDFiQXZaWDdPQ2w2dXVxbGFKZ1JQeFJpNEg0blZOZGExbFJ3WWh0cmZGcmVySUU3MXRXNG51X3hKdmtKMHpoSThHUFVfUjhlUDBIX0M3LVpmQU1DWWU2RHpYTXQyMkN5MFBueHNaS2FLVm96R2psOVM2QWdIZGFsMmJ1Tldoc1FUT3pqQ2pwOWdKRmlsVVA2XzAtWnc0dlRYZ1ltcnA4ajVLbFhwUDY2eVVkUTdhVWZxZlVEMjhzMU9xQnFmVnE3dXpiWHpzbl9hZUFZM1A2ZnZEUUdsWjNyVThWNG9HNkVyQUFTVmlUSXpBOHJpc2gyV0pPa3JOMThiSTAyV1ZUd1U?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 12:55:24 GMT",
+      "description": "Lehigh County reports first measles cases, including pediatric case, as Pennsylvania outbreak surges past 170 WFMZ.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -633,15 +660,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak a struggle for families - JHNewsAndGuide.com",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONHQtUktGdHhaeVg1bmFjR1NDS1lQX0tMckRzVVF3RGJ2SllZb040ODZpUlBOT3lvR0dsWWRwRHlpZ05SZ3dINFA4U3N5U1NqM3NxQnpMckpvZEFQREo1NUp0ZTMyd1lDT21lMVVQcVkydjlSTVpKT09WMUtoNjBNWU1RSTVpaEJSX2h3VWJ5VkltVkhBQ1duWUxXYnhROWJseld6TjB5dkFuYlBFNWhVWUVYbXdaT2NNeElOekRiUTFRLXNnNVRibTYxd0hfd1dRek85NU1DNDFvQlBaMU5qekt5cHBTRFM2QlNFOA?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 10:30:00 GMT",
-      "description": "Measles outbreak a struggle for families JHNewsAndGuide.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "What Gives Me Hope About the Future of Public Health in the U.S. - Time Magazine",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcl82dHVJWk1BYkVLWWF6OGtiSEpmdFpFQjJpV2xPcEE4UU1NR0hiU1ZWc0xQdzE0TDhRLU5mVm1pRllfQTUtay03MFBieEVZX0Q0MWpUUk1vSkVrN211OE1zWnNoUzVhbEVsbTBJbDlidjZlYnBIc2VvaDJKNi03dTBOZTBZZw?oc=5",
       "pubDate": "Wed, 05 Aug 2026 10:00:04 GMT",
@@ -660,46 +678,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Amid soaring measles cases, Pa. parents can now track vaccine rates at their child’s school - wesanews.org",
+      "title": "Amid soaring measles cases, Pa. parents can now track vaccine rates at their child’s school - 90.5 WESA",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM1ZSQUFkRkM1Q2JJTThwRFhfbnh3dkxoREwzc1Z4MS1lVjBKNmZJS0l2WDZjYmtkdzFiUDR6X1diNjFkM3hwWHpiVHhQZGhyU1pSVjV4UUtZWVY2eUdoTEVmeFEybnB6bU9PVVhLTDEtaGRzdDJlejczTWg4ejdBbmVHcVVMRnd6Y29uMldaZFo4QllFenFmTkpQQkVqaGk0ZW5n?oc=5",
       "pubDate": "Wed, 05 Aug 2026 09:33:00 GMT",
-      "description": "Amid soaring measles cases, Pa. parents can now track vaccine rates at their child’s school wesanews.org",
+      "description": "Amid soaring measles cases, Pa. parents can now track vaccine rates at their child’s school 90.5 WESA",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Allentown Health Bureau confirms two isolated measles cases in unvaccinated children - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOaUstVFM3NlZRdTNjQmd6b2d0Zi0ySmxFQ3ctcTVoX3lEaXR4czlfOTF3TW04UlRLZXFLYVhpTGFBRzBMUjJ4a0huSWUzdWRNNUpLV19IUVItZGxTdVB4RUlWbWtidUp4YzZXNFFSU1FHNHVSYTFMS0JXRzVZOExaQXRBUVFXTzAxQmJiMTB6LURMcFJ2WmJnbzJDRFVqZEE3Wm9QNEVrajVpQThEZmkzajZuMGh6ZTZEUUVPaW9RSzY3VHJFcFZ6bk5Dc2pGTnY0Z3gzZEFUWkVrNlUyazNJWkdHMmU0d1VKaXBITlJrS3U3N1FLcEw1MXY2UllXZVJFakVKcW5wRFpnZw?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 22:24:00 GMT",
-      "description": "Allentown Health Bureau confirms two isolated measles cases in unvaccinated children WFMZ.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases rise in Chester County amid outbreak - 6abc Philadelphia",
+      "title": "Measles cases rise in Chester County amid outbreak - 6abc.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVNGd0dBVS1yRFZhd1hxajBJZzNZQXFkNXlLTFl0eVFmRXFiSTR0UWxUTEY4M19MN2xOWXdyMTFJOC1sOFNfdHdSZUh5UDN6SkdaeTl0STZGQ2lTUzVhTUVDRXdEN2kwdXlqTlMtbEZ3WTdtZV9XdTZiUGFkY21WQjVka0lyZ9IBiwFBVV95cUxNR1hWRV9tbkVfY2hZV1JGUFpyRHlZRFNBZmlvRzZHRTRCclJ1MjIyQjNBUGRHX3dVR1RMRVhONG9ld1YwNGd5andZdlRNZHAtdTRmNzVHVzB6NjRaampEa2JKV2JLSkF0dlhRZzNzQ2JFbUtKNjRBOUpuYlUtNHlMUWpRT1pPcE5hODU0?oc=5",
       "pubDate": "Tue, 04 Aug 2026 22:11:07 GMT",
-      "description": "Measles cases rise in Chester County amid outbreak 6abc Philadelphia",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Health officials on lookout for measles in farmworkers in Central Valley. What to know - Fresno Bee",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTBUSC1fZ0dva1FqWDZIQmJWQzdtck5iS21hQlRReWNxQUNKOFFhZ1lCUS1yZktxbkQyMVlWWlhOakFTRkhzQkNVdjB0c2VtQW9ESGt5YjBiQkQ1R2ZKRXJwUWxqYnhxZkp5Z0FDdmtpSlZCS0p0RHBWSWhqb0VuQ05JdHrSAYQBQVVfeXFMTnFEVlA2RHdnSTctdEU3UDFVbk5qRldCMkFJa09hbHJTSFdaRENBak9jT1N0eUtubkRxZ0Rna2JmSjRJSU1STTVJaU9tRk80dm9GcVpHUGJGaFgwbkU3bUJmQlAwT3R3cHk4Xy1EZDV2UVJFY29GaEZLekdSSzB1cTZjNnVw?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 21:28:00 GMT",
-      "description": "Health officials on lookout for measles in farmworkers in Central Valley. What to know Fresno Bee",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania ramps up measles response as Lancaster County remains center of outbreak - fox43.com",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdDVWemdQa0tQV0lCSDZ3TmdBMVNNMjUyeFRNWXIzQlpOWHVNLWgtNHpMbFppM2dXLWpYSlRwSjJXbUUxTXBWMmdHOWMxODFXNjdpbUxDSzZJd2QtVnNfRUY3eUhuRVRfZW9BYlNzRFNqaWI3SWJLSlRNVFk0RmRLX0l2blZvNHZ5YVE3RnZLZTVtaEN1VTRKVWRvVTBqWk55eDIzOWtWVkh6RWx0M0hacUwwQTdJM2lwbGVfSy1VS05PQl9tNmw0SFAxZGU3d2tsSXpfMVFOYk9NdGZrMGQwTnRtc2pLSVFDYk9mLW14MS1KM0pNMjFoUGlpQnE?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 20:46:00 GMT",
-      "description": "Pennsylvania ramps up measles response as Lancaster County remains center of outbreak fox43.com",
+      "description": "Measles cases rise in Chester County amid outbreak 6abc.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -732,10 +723,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Child among 2 being treated for measles in Lehigh County, health officials say - 6abc Philadelphia",
+      "title": "Child among 2 being treated for measles in Lehigh County, health officials say - 6abc.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOGFOcmd1cE9PVkRSS1lJQU5VNy11RFEzS18xUXdNMGRFdzVhZ3lwT0daenVkMjk0SFZYS3JMVVpiUkFFMXhIQzRyelBfS2pIRjNscG5PeFI5WWZ4d0E2VTR6ZDlrNjlXakh1OWNpQm1ZNzRBWFJFNTBwaFozLTY1NzFnYkJpeU1nWnFSNHRXMlNuaExtWjdwRG15d9IBoAFBVV95cUxPQ3hYYkcwOTctNm5DVTE0QzlkeG5kX1BDV3dDcFdVNXZXQ1RWYmlnTW1DOUYxRmp6c09tdWYtQm56c0ZKVmRMcWlzcnZhVmMteGJ0UF8zQkZBNjZXT1JQVDJZakMtbEtpNEJCT1lWV0RSSWU0bkpMRUFWdjdSbkZyV0FVSVg4LUdLcko0Zjd6NFo5aEFYUW5ZdGt4aGh0UFk0?oc=5",
       "pubDate": "Tue, 04 Aug 2026 03:45:24 GMT",
-      "description": "Child among 2 being treated for measles in Lehigh County, health officials say 6abc Philadelphia",
+      "description": "Child among 2 being treated for measles in Lehigh County, health officials say 6abc.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -750,10 +741,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "A single US measles outbreak can cost millions of dollars, study estimates - Reuters",
+      "title": "A single US measles outbreak can cost millions of dollars, study estimates - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOTJCeWoyMEptWkJCRVJZOWZ3SGlXbHJnWTRuckwxR09UWEgwQkNUSHdObG5FRXl2bEg0M3FXMS1FMXZzaDhweUJZcTJVWjVteFR2eDk3SVFXSTEzV3kxNkJFd3dwSjE3WnNzNnhaY0VzcHgtVWhSZndTWFJIcmpoMUhGNU1WblRyTDZVcTUxbDJCZTZwMWJBa3pPSWF6LWRsRTMwckNrclVOdnZKUFQtRlFkNEdmTThwNFJtQUdn?oc=5",
       "pubDate": "Mon, 03 Aug 2026 21:06:00 GMT",
-      "description": "A single US measles outbreak can cost millions of dollars, study estimates Reuters",
+      "description": "A single US measles outbreak can cost millions of dollars, study estimates reuters.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -768,15 +759,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "RFK Jr. says parents should vaccinate children against measles - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWktveEtxREdUbUk3c0dWZ01hLXVOMUtNdk5WZVVEdEhSZ3ZBTmtXMWFPSDFiZDNBcG9uSUdUTFhwcXhoRjVTMmVGbWx6S3BIQ3lCbWRIY053UUFQWUM4U082blc3Q25YMC1NajdTS2t3ZGo0OWlwR0h2NE5KQUcwQ1pzYkTSAYoBQVVfeXFMTTRiNnU1eG80ZXRIREV4VXkySUI4Z1F4Ykt0Ry05VFAzVkN1dmZoS2lpX0ttQ0NlQV8xbFl3anExM2g1bEM0V2JySS1palc0R1B2WGtSSEhNUmZlQ2dkTDdUbnZybXZYTElDY3ZKbzQ5c21WX1gtVzNMWnl4T2lONS1ySTk2YUVnZVdn?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 14:29:00 GMT",
-      "description": "RFK Jr. says parents should vaccinate children against measles The Hill",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMU9OZ2liMWJPUmUwLUlpZUVwVkRRbTBCOEg0ZXBpQ05kZDVsQVdnMTBaby1tM0kyWG1jTjd6N05VT09BREVVT1NGbkZIbkJUb0FoUmxTTFNsT0czNTVfWjlXR0tQOGg4MzFjdVpDWmRyZ00tbmxERFR6VXE5SGM?oc=5",
       "pubDate": "Sun, 02 Aug 2026 18:28:00 GMT",
@@ -786,10 +768,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "RFK Jr. defends handling of measles outbreak - CNN",
+      "title": "RFK Jr. defends handling of measles outbreak - cnn.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoN1k2S3hWeXNWalYtY01zLWZoZ181dFZUMW5ud0dRM1V0OUVYWTZfbXlSQ0VvOG1TUkpPeVJZckNIZjJ6SlZIbWNTNGtWSFNkQ3lDQ3d6U09nU2hpd3l1Yk1yRVNQOWJMSlpmVGlnTHNlQ01fN3E0UUc1N0w?oc=5",
       "pubDate": "Sun, 02 Aug 2026 16:30:42 GMT",
-      "description": "RFK Jr. defends handling of measles outbreak CNN",
+      "description": "RFK Jr. defends handling of measles outbreak cnn.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "RFK Jr. says parents should vaccinate children against measles as U.S. cases hit a 35-year high - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa1E5UkxWVi1ZcGF1b3J6TWctNEE0NFp1UFNEQTFxNll1cXk4bDBiZS1mTU91ZXZMTmN1X3BmYWd6eXNQYjEwZTgxaHJmcEpiU1BLR3liZU5rWmpmbndTY1lGZFcyWHdINE9zN3NyMEtIa3VyU01DUV8yUEZ6a09NRXg0cjcyUVZzU3hicmdMd3I1T1pXNW50VDZvaEZJZ0pFdmlsMXByMTYzUUx5Y1JZQk5ncXZFR3Yzdm8xRk8zNExYUVhjWmwtb2xkMkRuV1FReDB2bm5wUXdlMl9jbWIzYjlsNkNvQQ?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 16:00:31 GMT",
+      "description": "RFK Jr. says parents should vaccinate children against measles as U.S. cases hit a 35-year high Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
