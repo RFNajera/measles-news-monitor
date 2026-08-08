@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-08-08T04:32:06.099Z",
-  "itemCount": 84,
+  "updatedAt": "2026-08-08T05:24:00.696Z",
+  "itemCount": 86,
   "items": [
     {
       "title": "2 measles cases reported in Kern County for the first time in decades - KGET.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlVtdUk5dDA3Q3Y0NV81UHVsZ0diUTZRRnYxOVUzazUtUXhjWkRHdjNNRjFNcG1fMWJiVUR5M1ItamQ5ZFptNGFZRXgtZFNLV0VoNUlQSXp6Y0tISVRzSXFvSTNxT3NMMVNDNmF6ZUxJRXo0Y1JKWC1UTlJ6bEduaGhpbDI0Um5XR3VvbWNlcmZqZ0V3ZmoxWXFNYW4wSEE2dFdvV3BUVkpWQQ?oc=5",
       "pubDate": "Sat, 08 Aug 2026 00:12:48 GMT",
       "description": "2 measles cases reported in Kern County for the first time in decades KGET.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Possible measles exposure at UH Rainbow in Cleveland, report says - Akron Beacon Journal",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN3NBeTczSmk3YTM5bVB3NnJyZnZHenNjelhacFhBM2lHTUF2NzliYkVSZl9Idk85TURsQWlXSHc0T01RX2ZCNmlwS1B6bGtuQlFGX0tqcWRlMzN3a09vOEp0Vy1ONzNOWnVsTTM3Q1FTRkVfRkRRM2VMaWl2YlE1X2lVU0ZiYnB2eTBDcWFXQWNnSHRMc0haV0NBemlKR0xwUW1LYmZzOTlOMDhiX0tZSVFzdFpvU2JZQ09QVjhDaHVwM2U4NnNURXVYbEJUbkZ3?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 00:00:00 GMT",
+      "description": "Possible measles exposure at UH Rainbow in Cleveland, report says Akron Beacon Journal",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -48,19 +57,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Giant’s pharmacies offering measles vaccine as cases rise in central PA - abc27.com",
+      "title": "Giant’s pharmacies offering measles vaccine as cases rise in central PA - ABC27",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSDBUZzF5SFI1cTkyN2VJWU9uQUljakM2Qkh3RFhVTHBGU1BnREdGYk5iNzNIT1dHNW5ERzBTc1lNS0JyNV9ZTUVrRW93VHRleFlZQ19PeHM5ajNIY2tGaURCVlU3YTFBZGYxQjMzYWIzWHVlSnkyamk1MjhrbXdXbUt4czhSVFpaWkNFVU1sdHNlSTZ6eHZsTkdhbnNLWkRMMHNVdXJIOUp1ZGNQ?oc=5",
       "pubDate": "Fri, 07 Aug 2026 22:27:44 GMT",
-      "description": "Giant’s pharmacies offering measles vaccine as cases rise in central PA abc27.com",
+      "description": "Giant’s pharmacies offering measles vaccine as cases rise in central PA ABC27",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Possible measles exposure at UH Rainbow in Cleveland, report says - Akron Beacon Journal",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN3NBeTczSmk3YTM5bVB3NnJyZnZHenNjelhacFhBM2lHTUF2NzliYkVSZl9Idk85TURsQWlXSHc0T01RX2ZCNmlwS1B6bGtuQlFGX0tqcWRlMzN3a09vOEp0Vy1ONzNOWnVsTTM3Q1FTRkVfRkRRM2VMaWl2YlE1X2lVU0ZiYnB2eTBDcWFXQWNnSHRMc0haV0NBemlKR0xwUW1LYmZzOTlOMDhiX0tZSVFzdFpvU2JZQ09QVjhDaHVwM2U4NnNURXVYbEJUbkZ3?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 22:21:00 GMT",
-      "description": "Possible measles exposure at UH Rainbow in Cleveland, report says Akron Beacon Journal",
+      "title": "Measles cases continue to rise in Lancaster County - WGAL",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPenpWT2xSNHNOVHJ1X1JfVlU4T2hWYnlUY1loR1BvMEFwSlZ3cE9tV04ydVE0UTJrM3prVTZtSnVTR2ZVZVNNY0F3TGo3VkxVd3pYS09kb1pwV285VHpyM3FMV2M1TGRYRXVtVVZkX1cxc0tfa2V5V1YxWGVabVd5TS1iZzFQeTFTTFBSMTdLQUxNUQ?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 21:36:11 GMT",
+      "description": "Measles cases continue to rise in Lancaster County WGAL",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -75,10 +84,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Visitor with suspected measles spent hours inside UH Rainbow, Cleveland Medical Center, officials warn - cleveland.com",
+      "title": "Visitor with suspected measles spent hours inside UH Rainbow, Cleveland Medical Center, officials warn - Cleveland.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUWdHUFdITk50WG1CbUVHandWcHMzbm5RSGFZY3BZN1lpb1VJOXN1OWVrT1Y3Vk54b1FZYXBNelRSbG9leGdTemlvUXVVVGNfdE5FSEk4MFRYRUM4ZG1HUGVMaFJ1eTJHVVNBOWt0RUZuTVhFTExlUTFJZ19EbEpYUDVPU19TOUhIcHl3LXBNZVhkZ0lvWTNPSHJETVp0dmV1ZTBvd0NuLW5JM0dlczYyZGZzZHV6MC1CMC1tbFJ1Tkc0dHhxUURzVFNrd3lRTjjSAeMBQVVfeXFMT2NOc0FQX1pyNTNQQnIwOHRnazBzQWtjTVFCb0dENmxGN0Y3aGZKLW41cmVWOVV3S2pHX3dhR3hJaXF6anZsUXBGbHFHLUpvbVlXeFo3VEVseUFUOGFvRXlKbWFsSHk5MkZFS3lWeUZ1djIyWGcyV2dJRlRUQVZYVkExXzR3OUZxOVF3Vm9QZGlyako0a1VmWURldk5KLXZNdG9PbC1VeE5NUnhmNlRTNzhtUmJMQ01hV0t3NzJjZFl3UVBVU3BxLWd1M3RPanptMzZSRGVCZUZ2ZVFaNnlGb3JpNVk?oc=5",
       "pubDate": "Fri, 07 Aug 2026 21:33:00 GMT",
-      "description": "Visitor with suspected measles spent hours inside UH Rainbow, Cleveland Medical Center, officials warn cleveland.com",
+      "description": "Visitor with suspected measles spent hours inside UH Rainbow, Cleveland Medical Center, officials warn Cleveland.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -138,10 +147,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Pa. measles outbreak spreads as health officials urge vaccinations ahead of school year - WITF",
+      "title": "Pa. measles outbreak spreads as health officials urge vaccinations ahead of school year - witf.org",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZkdLNDlGT2NhR1NYazNBZzN2V1F2U1k1TlBUdWF0U2lXUUZJdVNDZVk4LTFYWHBsZWNzWkF1dFpmWWo4dkwwbU9uMzN2akJiR1hYb1haNS15cEdFcUVZdWFoUmVNVjFmSHdVWEVHRWZxZ2hqb0F6ZFJWMkRmWkdxWkJZeDVYc2lIY3RzcVpZckMwTTdWOFJRa280Z281ZUpSQXNwcXBxZXRQNVNFVVowamFfdkxMc3p2NW1z?oc=5",
       "pubDate": "Fri, 07 Aug 2026 19:21:00 GMT",
-      "description": "Pa. measles outbreak spreads as health officials urge vaccinations ahead of school year WITF",
+      "description": "Pa. measles outbreak spreads as health officials urge vaccinations ahead of school year witf.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -237,10 +246,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Authorities Alarmed When Person With Measles Spends Entire Day Frolicking Around Universal Studios - Futurism",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMVFuQlEzdkNJV3lNV0wxZXBla01IM3lqLVJnMThZb053TjlYX3RraU9FcTRhWHR2U3RxME1jMl9VeHlqTnMtR09JZFFoUEh5bmpsZWJDLXMyZmZ6NVEtZi1JNVdrRHV1c0FYZlA2UWVCUExkNjlaZk9RQ0Z2YVJodWdPUExRRlZxQUE?oc=5",
+      "title": "Authorities Alarmed When Person With Measles Spends Entire Day Frolicking Around Universal Studios - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTNBOEkxQ242b3Nnb25UWGdKUnYzTnd6ZlVydkNFOW1OSjRQcFZEekRiZVAyRDhEanRsMkMzTERZYnFNWU5uWTJCVjlfblQ0NnZhMEpKbURGaEtOanVSemFVLWwtZFpCQVJCR3oySEp0UGFyOXBXTHhJbmdJZHAyVlZQR21oYldVNlZhcUowczgxdGxYSmJQOGhHU2lVUWZid2c?oc=5",
       "pubDate": "Fri, 07 Aug 2026 16:53:19 GMT",
-      "description": "Authorities Alarmed When Person With Measles Spends Entire Day Frolicking Around Universal Studios Futurism",
+      "description": "Authorities Alarmed When Person With Measles Spends Entire Day Frolicking Around Universal Studios Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -255,10 +264,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles vaccines available in the Midstate - abc27.com",
+      "title": "Measles vaccines available in the Midstate - ABC27",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdWRjX1p6ZE1mMkhQSHh5NFV1WXdrTnBaM1Z4Q1FaYXBVTVpfb0NzczZpOS1DZWljWnIwb1V0QmpOcWtOUEc4UzJDSmtzNk8tbVRsSUxucHhTZGdtV1I4czhhbkVsR0ZsZ2hGeEFlaGJHMi00WEhxTVp2MFdqMHByOE5UUnpSZU0?oc=5",
       "pubDate": "Fri, 07 Aug 2026 16:21:15 GMT",
-      "description": "Measles vaccines available in the Midstate abc27.com",
+      "description": "Measles vaccines available in the Midstate ABC27",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -309,19 +318,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Pennsylvania grocery store pharmacies offering measles vaccination - abc27.com",
+      "title": "Pennsylvania grocery store pharmacies offering measles vaccination - ABC27",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOckpIY0V0MmVRUWwxZWdJTXlacGFZXzFEeHpBdnlaUnlxdHZnQ0VfMElKay1td3JzRWpBTWV3MTEyS2dVN1NqTWw3NU4yczNKNk9FSU9qX2VORHIyNk1kbEdzSVNWRTZVYzV6WjJpWVpUQUhFTHB0Q3JhSzg4SmZwTHRlR29yVmpxUDlzR0FqWDl4eUJkaW9FeEZtSUJhdXVRcUlaR9IBqgFBVV95cUxNcy15S19KZHZkTDJ3bzRPaGhvdENlVUFUeUpvM0JOdmdIWlMtdHkzcERyMDkwb2pidnZhdk9NUEhKeHIzb2JrYXpHbWt1Y0NidjRfYV9YbUJhc3FnZ1pOX2ZqRTFBR1luWFN4U0k0YmVnWGRtREttVnkzTXVnRk5nUVZMSUYyQVNQRXplZks1cEtNX3B1a1p1d0tjVkVTN1czcDVMTVE2aWd5QQ?oc=5",
       "pubDate": "Fri, 07 Aug 2026 12:38:07 GMT",
-      "description": "Pennsylvania grocery store pharmacies offering measles vaccination abc27.com",
+      "description": "Pennsylvania grocery store pharmacies offering measles vaccination ABC27",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Two new cases of measles reported in Allegany County - spectrumlocalnews.com",
+      "title": "Two new cases of measles reported in Allegany County - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnZkWWx5T2ozSFVRN3RPaGE1TUxMYXZreGpEb1ZtV2F6X0I0MmdHMHFKaWtfMDUyd1Noa3pCVnp0bzhvdDZkcTJWWWNiNWFkdEQ4QWNudjIteVdud0FLR3VPdEUwNkdOUHUwNkhkZi1DTHlWVXBaMjhFMWQzT1ZHNmdZWWpZYkhySE93em11ZWJQbG1xNlFQdWd4OHRuMVhKSVNLZHJSWnZDUWE0STRZ?oc=5",
       "pubDate": "Fri, 07 Aug 2026 11:11:00 GMT",
-      "description": "Two new cases of measles reported in Allegany County spectrumlocalnews.com",
+      "description": "Two new cases of measles reported in Allegany County Spectrum News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -331,15 +340,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON25yR0xXSlkxNEVvaTFJSm5IUjhzZDB5ck12dWZsejNKTU9DWFVvdF8xX2JNa0tFUFo5Z1VZZ080ZWlOMkpMQ2tqdjd2YnpvVXk2QUc4V2dZeEtkS2xPa19fcTZnRzNVR0dsOWEyWmRKUVd4eDZrbGxSUG1wV3hES25vWnVLMEZxZWJkdDNmdVpwNE53amN4Y3dRQTgzLUZEbnViWnFSYVU2MXI4UEE?oc=5",
       "pubDate": "Fri, 07 Aug 2026 10:39:39 GMT",
       "description": "Fewer Dallas-area kindergartners are starting school with measles shot Dallas News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Contagious measles case reported at California theme park - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLTd5TW0zTEpkZy1rdWd5VTl4ejM3Y2hvbTc4MTVHV3kxTmx0dVFPaXVSb0gzdGM5Zi1XVTNMVVZWQWJnV1NsaGE5V2YwR25EWUxOUDllbzE4VndSTU9mZ1hFanRUTWpVT0NLek9NWklyajdfMDVUbDQ3U1BUN1pzYURoeUw0ZUtvUzZKWg?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 06:34:55 GMT",
-      "description": "Contagious measles case reported at California theme park Medical Xpress",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -394,6 +394,15 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNempXLVlUdzZVMk9CSy1nUTFTYmVCSlJDTmUzQ0ljd1RsTDJnai1Gc1VSbko5WTZWSUV4VjF3OGNVdzRvc1dpMDRRMGRsaWZXUnlfNHFKVldnMHB5QXZDNUhWa0JqazZjblB4a0J1TUIwZDZKRnB4d2c0bVAyZWdJZWw2VjR0YWxZaWc?oc=5",
       "pubDate": "Thu, 06 Aug 2026 22:08:45 GMT",
       "description": "As Ohio health officials battle cyclosporiasis, they’re fighting a measles outbreak too WOUB Public Media -",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases hold steady for fourth consecutive week - cbs19news.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR0JUTl9LbzdUcXI5cVhuS1NvZEV3Y2Myc0hRUG1WVlZmSkNiRUNqS19fazN4NXVYbnE3MXBMeFRzUmpHOG83TTFJUTJzOGJPcUc4eG95TEtFVU5zM2RfUDhoRnZiX28tdV9ZUU1ZYU5HUXZNYzN3OEVXbXVGX2NnZmpsREtJVXZlN3Rma3d2Wl9sVWJLZkM1azB1ZEI1TkMtQWlwNE9zdkxDUXF5dG81U0dmaHYzUS1VcVNKMmtyLWdSNFpaNnd3czlXbzY5VG8?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 21:40:00 GMT",
+      "description": "Measles cases hold steady for fourth consecutive week cbs19news.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -573,7 +582,7 @@
       "title": "Measles exposure warning issued for Universal Studios Hollywood - KTLA",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdUxPWDFhV0JkMUhoWFdqOGE1TDJlQnVtZ3FjSlROU0tjbzNCMUVyS0dWcVRnOHBnRk1jUlZMbnRBMW9RaWJyMWpoRk1yM2p2M1g2QldEVnZ2Y0NfZFNUU0VDdmRLa1RSdUVacWFFNy1GY3F0cWN5ZFlPYVUyeWFPZUpn0gGHAUFVX3lxTFBpbE84NVo4cWZPMnA4TXZDdW1ocXVYZlV2OE1ubExEbzhwUUplLUVtZU1FREpJSFRXTVFXSWVnZU1vUkFONjByNlNpNnM2VXM3YkZJMm5vOU12cFZhR3dMcWI2WFU4ZFZlajJXLWp6WHRaVHdpTTVJVFJFS1VQaUpaZlJSZWdROA?oc=5",
       "pubDate": "Thu, 06 Aug 2026 12:26:04 GMT",
-      "description": "Measles exposure warning issued for Universal Studios Hollywood KTLA Measles-infected Universal Studios visitor spent whole day at the park Los Angeles Times Measles exposure reported at Universal Studios Hollywood ABC7 Los Angeles",
+      "description": "Measles exposure warning issued for Universal Studios Hollywood KTLA Theme Park Visitors Given Urgent Measles Warning thedailybeast.com Measles exposure reported at Universal Studios Hollywood ABC7 Los Angeles",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -606,19 +615,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles panic at popular SoCal theme park after infected guest roamed for hours - New York Post",
+      "title": "Measles panic at popular SoCal theme park after infected guest roamed for hours - nypost.com",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNGdpZmFkRGFsU2FtRnFkcEI2djNXaUROX09UZE5xYi1qVHZTdTVLV1ZNdDY3MU1KTmZpS1hPdkR0ZzQ5MU1KRmRDam9vNDRrbzByQ29PX0pQWGxpUlZWc0ZBbm83VnoxVm1Od0d5eHI5RnRWSWJZUnctLWVCUzFXYkV3RlRBQjl1eklxbVpNMkxoQ0hka3ZoblNGYm9rWDdfcEFKdk8yZ3BfRUVkS2JPakx5TEJJNHBTV1BoNXJpa21Rb09oY3hSeF9RcDJKNjZTZ015NmxyeEl1alk?oc=5",
       "pubDate": "Thu, 06 Aug 2026 04:41:00 GMT",
-      "description": "Measles panic at popular SoCal theme park after infected guest roamed for hours New York Post",
+      "description": "Measles panic at popular SoCal theme park after infected guest roamed for hours nypost.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Ventura County Reports First Measles Case Since 2017 - independent.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa09rZVdFM0I4MENBTnpPX2tKWm92bFAyTVhSYkhna2JQWHVnSGpaVlNXSUc2S3ZGTWJFVF8xaVJwSjJGSmk3Zm1VMllrQVJYdWpxbk15UjBlYlpyVHVqbVJwU2o4cUlST1dQR3EwMHBRTDNYN1NGYXI2NHExSnd4ejhBbTdVYk1RVjNJdkltQllBd3lHODlZ?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 00:30:55 GMT",
-      "description": "Ventura County Reports First Measles Case Since 2017 independent.com",
+      "title": "Measles-infected Universal Studios visitor spent whole day at the park - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUndlamRqMmRBNWpvRFBtaUczRDRzMHQ2TG1tNXE0aVk0bXd6Y1R5NnRsQUNzOU9fME9iYmVPMXRvNzhla1BTT1cxU0tBT2ZaMmRnd1c0R1BMYnEtUTRwb1lZT1VOYzU5TnJsay1wVjJfQXU1U1NLN243eTdmUDhpSWRnMWl4M290Z0l3V250dXZEV1hfa2YyeEN2Q2VMQkVpN3dwZ0FBcmZ6OHNNdHA3MlhUWW96NFJNR1E?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 00:33:00 GMT",
+      "description": "Measles-infected Universal Studios visitor spent whole day at the park Los Angeles Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -633,19 +642,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Tool Brings Vax vs Disease Risk Into Stark Contrast - MedPage Today",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vUFNQeVY3R2tOWHpnc0Q5b0RVRHhfMFdtSXFFYUJOd1VUeGFOQ2xtT0F6d0ZOVHE2TjNGY0Q1cGRvSm1MNnFVYVBZVmNMNWp5dnMzM2F4anNqZ1hkdm9Hbm9mN2VRYXJZMzhYcnNGWQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 21:13:15 GMT",
-      "description": "Tool Brings Vax vs Disease Risk Into Stark Contrast MedPage Today",
+      "title": "DOH: Measles cases reported in Centre, Jefferson as statewide infections total 200+ - WJAC",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbkhKUE9aUEZlb0kwMURHbGFFOFdxTFY5d2k5NkZNaUo5enlQVi0yU3FYejNwU0dibnpKV1JnWDN1QUJORlJ4aEVIejNJSkpfNE96eU5pOGYwekJVSWpTVTBSTl9UY2RmRFh2dEl4Z0Y0Q3lVTThjcE9jeENPc2hHZHBUdXp0NnBFbmFiUFYwZE1kQ3ZLV2R5MW5pcjlXUVhBY1RXZ2NhcW9HazBGSTNIOWhMU3MyWVB6Y0R6MEhTQU5VRmt1YWlCbW4xM3BwZXFYWk9SNHk3Qks?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 21:19:17 GMT",
+      "description": "DOH: Measles cases reported in Centre, Jefferson as statewide infections total 200+ WJAC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Another study debunks that MMR vaccines are linked to autism - the-independent.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmx4M0FqYmxnSVlRdmhGNE5JVnFodEJhd1dYUGVxUElva3R1QXB0bmd1czJtWlJDRzBYV0pMcDlpMTlTcU9HSlRpMmlmZTluRWtEdlFrOHFjZG5kVmp1T1FicnJyVVE4S3dYdXRERzctS0lTMXYwMzZOR0pzQXRvN2ZKQ185eUk2QVpUY2hOZTFzUHg1b180NA?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 17:46:00 GMT",
-      "description": "Another study debunks that MMR vaccines are linked to autism the-independent.com",
+      "title": "Tool Brings Vax vs Disease Risk Into Stark Contrast - MedPage Today",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vUFNQeVY3R2tOWHpnc0Q5b0RVRHhfMFdtSXFFYUJOd1VUeGFOQ2xtT0F6d0ZOVHE2TjNGY0Q1cGRvSm1MNnFVYVBZVmNMNWp5dnMzM2F4anNqZ1hkdm9Hbm9mN2VRYXJZMzhYcnNGWQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 21:13:15 GMT",
+      "description": "Tool Brings Vax vs Disease Risk Into Stark Contrast MedPage Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -669,10 +678,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "As child measles case reported in Delaware, what families should know - delawareonline.com",
+      "title": "As child measles case reported in Delaware, what families should know - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbS0wd3VUbF9aMXFpZmk5aF9KMk9XS0JhSy04X3pkeEtvbVZZY0wwcXdjV3hGZFMxVDd3czQwWDlVUzhnYk5LemJwYTJVYUthenY5VnNXMHp1OUNTSFJjdHVMQnVlVWtUTFpSZXgzbXFfSWJod1ZVZ3N3YUtBaGRpV3ZIVG5KSXN6UTF2dTNiREV3czg0WTZjRUpZczJVdUhFcjcyc0w4SUUxMTdnNFpOV3p6QWtQd3VmZDhiUUphVy1GbDYycFdyM0Fidk1BU3JOQzRuYTI0ZTNfaFE?oc=5",
       "pubDate": "Wed, 05 Aug 2026 09:46:00 GMT",
-      "description": "As child measles case reported in Delaware, what families should know delawareonline.com",
+      "description": "As child measles case reported in Delaware, what families should know The News Journal",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -691,6 +700,15 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOTJCeWoyMEptWkJCRVJZOWZ3SGlXbHJnWTRuckwxR09UWEgwQkNUSHdObG5FRXl2bEg0M3FXMS1FMXZzaDhweUJZcTJVWjVteFR2eDk3SVFXSTEzV3kxNkJFd3dwSjE3WnNzNnhaY0VzcHgtVWhSZndTWFJIcmpoMUhGNU1WblRyTDZVcTUxbDJCZTZwMWJBa3pPSWF6LWRsRTMwckNrclVOdnZKUFQtRlFkNEdmTThwNFJtQUdn?oc=5",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
       "description": "A single US measles outbreak can cost millions of dollars, study estimates Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New U.S. Disease Tracker strengthens monitoring of vaccine-preventable diseases - Johns Hopkins University",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwS01PbDVzMzNYXzJBelpHeVY1aEdhd0toM3FnSFl5UTV3Q3RqSktPUXhncG44MTB5ZzhBS1QzTW5tRU8ybWZ3LXRIQzlXNXdwdUZIcktpaG5DUjVIclRRcDMyU0pfb01LMkpqeG9tRjlzUQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 04:36:05 GMT",
+      "description": "New U.S. Disease Tracker strengthens monitoring of vaccine-preventable diseases Johns Hopkins University",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
