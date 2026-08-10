@@ -1,12 +1,129 @@
 {
-  "updatedAt": "2026-08-10T21:24:11.706Z",
-  "itemCount": 67,
+  "updatedAt": "2026-08-10T22:20:20.306Z",
+  "itemCount": 77,
   "items": [
     {
-      "title": "Trump demands major changes to childhood vaccine recommendations - The Washington Post",
+      "title": "Trump pushes rethink of school vaccine mandates and MMR shots - France 24",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY01TUTNLdXloQ0haSzhXcHB1ZnUtbmJBSGlEMnp2Yk92YkM4UkE0THFBUFIxTGpVLTJQNlg4czdEaFhDVURaajU2cTZtRUlZRHpJUnhHTEJ2N2x1SFRwTW1RLUxEdlUtZkVIbm9KVVdBQzd6T3piQnhxTW5wa2dPV3NEWXByRUdqNVBhUWpjc1MwdFdyZ3F1Qkx2aXBLcC1KX0F3eldGWnFscjQ?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 22:15:00 GMT",
+      "description": "Trump pushes rethink of school vaccine mandates and MMR shots France 24",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "It's a \"matter of time\" before Pittsburgh sees measles cases, doctor says - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1N6WlNMVVNTQlBTNlBiV3ljSzNEUk1nWkc2MWtrRGdSOFZRY3BZUXNVYUVMX1V2RHViUHpDamZDdDRKZTh2QmIwT1cyV1hLVGNuT1VoN2ZZWmNCaS05c0pCdzNFemZ2eDZhVk1zWGx4dkd0NzZodW9Kdl9Ma3lxNG9vRmNvXzlZTzVvSTJTSkN1eU0?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 22:13:55 GMT",
+      "description": "It's a \"matter of time\" before Pittsburgh sees measles cases, doctor says CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Rising measles cases in Michigan spark warnings from health experts - 9and10News.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWdXY000OElLamZSUDNiNmJIaVBNbkJaUUpUbVdfcjFySUxIMU9pdlMxOG9NQTJsQ1ZiaUdDLVZFdzJuQjBXaXFhcVJCaUNwRDJUS092LUsxWUFJNmNlbjRBVWxXdWNnRF9LNzBXZWY2QUZWZEh1cTl4RUltTGs4Z2R1VnllVlB3YkRYSFlXOU9YVGNSajhBczVjNlNPNTZhU1MzUC1YSkl3QQ?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 21:44:08 GMT",
+      "description": "Rising measles cases in Michigan spark warnings from health experts 9and10News.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "MEASLES BEFORE SCHOOL - 9and10News.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXaDZNYmVHUHBuemtLZ0s2ajJLMk1fN1NqbmZ0MDZnWGxJcjJMTjl2cVNlS2Y1TElJVXRfSDF1dWs3eWJOMkdNbWJkY2lES2JEV3drXzBLV2lQN09CZjlwb0ppa2h0U1ZnOFlYeXk5bWlsbFM5?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 21:43:57 GMT",
+      "description": "MEASLES BEFORE SCHOOL 9and10News.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Trump Plans to Sign Order on Splitting Up Combined Measles Shot - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcE44YmZvc1N1Y0VDSzVNN2NzZUV6S1RuNHhNQ3NQblRmaTducjJGRkw5ODBMWlI3M01hdkJFczZaY1JzdWEyTl9aSzNYZWk3VWY3R3JYNVB6aUFCbk0tQ1E5bjZNOEdPYjNaM195N0gtdWxkRDlmcm1qT2JoWjdmektiU18tMy1NZzVNWXVxWV9aX0lkNXl1MzhGdk1VUFl6a29rRGt0eTZrRGlTbG5RTzNtLVc?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 21:42:28 GMT",
+      "description": "Trump Plans to Sign Order on Splitting Up Combined Measles Shot Bloomberg.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Trump order pushes for overhaul of childhood vaccine schedule - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUGhfYjJkajZqRWR1cERLc2ZPQ1ZyR3BLR0Z2Vl9qRWtWM3V3NUNZWUZZMVN1dG5ZdjhTTkl5eHhhS0sxbTliOEJaY2RmUWhBQjNCeDQ5bUNZN1g2VVMzaUttZU0tQ2R3clN5SHQzWkJSRG8tRXMzcVFfWVR5YWEyVzBtelMwQno2T2pnSmNuQVFZZ01XWGlLYjRwZDVfZFd5Z29JNTdKd0FXMHNYRkhKMWxyc2xjZnJLeEduZnZWSnVxVkRhX3U3cWlFMkNEY3cz?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 21:35:00 GMT",
+      "description": "Trump order pushes for overhaul of childhood vaccine schedule Le Monde.fr",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Trump signs executive order to split up MMR vaccine - axios.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55NWtEemlWQ2ZEeDhlU29CX0F0a0NGTGttQ2hKUVYteVB6NmFsc3YyeHpobzFHSG04MzJjd1dhMnhBcEpFLXhmTmdZS0JGSFlyRURIR1lSSWZyMlVvaFlFLWdVSkdrYXRQUEwzbjN5c0JlYTA?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 21:33:41 GMT",
+      "description": "Trump signs executive order to split up MMR vaccine axios.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "DOH: New Measles cases reported in Clearfield, Jefferson counties - WJAC",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOclZ4cUdhOGJCMVpHbWJPV3g3TWExWXgtRzFOeHlQcDhtZC1KeTNHTk9tajU2SjNGRXgxcDlMUXdfVW1uSW9GV3NFbTdGNW9sRGNZTEhON2xiN1A3Ml91a2pPWVZybGhCMHBlOEY2Z1RMOWUyWlNubXAwd3R1WmEyUEVGQnJKVGJVWDRFaHNoSlhZVnBIWTVob25uR2Q0WkhYcTRjVWJkTUkwUi1LTHNZT0RaaVhrbGMxMWRIa25R?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 21:33:25 GMT",
+      "description": "DOH: New Measles cases reported in Clearfield, Jefferson counties WJAC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Trump signs order on childhood vaccine recommendations, citing autism - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9venBOLW9Ua3lRRFU1NW9oRXRjejZ3UWdqNTAyb2tOeWZuWHFJeWRNbFVQZHNROFE1ZXNOb25iTEFjeFhnZ185ZFlRM3hWc1lNOW52SGRuZEdWU0tCeVJZVmRVUHpiUDZ0X1FqejFEN2pnd2V1U2loNld3?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 21:23:00 GMT",
+      "description": "Trump signs order on childhood vaccine recommendations, citing autism CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New York state vaccination requirements for school - WETM",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa05RQWlqd29UMWRlbmhobG5VaDZpWU1zZzJ3SFdkYXZadXFiZGV1SmxZWnNXb3I0WFVqRi1uT29qb09TMnZidjgtbFlPVVhXWjNULTRCcU5RNFgwalNTRjV1UTNhdVlpZlBsRTZWTFlPWHN1TU9MSnpLSkhVQ3pqNmZhX3A4cXhHUmI3UkpYOTlQTk96SmhQazBSZWZPQkpBcFIzeWx30gGrAUFVX3lxTFBMN0lJQkJlS25lUDQ5YTh4QTY3ZEZnb3FCQTMyMGtpdFNHTXBUSkduaUZMRjVya21NVHNZcWRNUG5taXRsUmFlbm94R3lFcHg4M1hCV2EzM0VUelREM243YnctUlZHT3gwQlY1WFVQUTJzLTlmTlRCMnQ1QVRlbFpLQ2VkeFN6YnE5UmFXa1ZlRGFFY0NaSHlEX05nYXk0ZHNsM21hR2w2amJkdw?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 21:19:53 GMT",
+      "description": "New York state vaccination requirements for school WETM",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pittsburgh doctor warns measles could be coming as cases surge across Pennsylvania - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbEF5bEgxWXFLRlhmMlpJMHJBaDFRdlUtazgtazJ3ejQ1bkJOM1ZMWnNLZjJnaEN5ZGZIbDZnb2x2ZTNDTWc2ODdqUHJ6djhpOF9CY3B3cnFVOWdjTDQ3d1EzWVlHcnU1Q3paNUVnd1ozZXhVbHNFT3hJZUxYb052aE9kdHE3Q2lTbUNpM3dwRDNjSXNMRzNmN3puS2pVMmJiY19fYWRMc19HSjNpcjBJcXp6bHNZajE3aEU3aktER1lxQQ?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 21:19:00 GMT",
+      "description": "Pittsburgh doctor warns measles could be coming as cases surge across Pennsylvania CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Trump demands major changes to childhood vaccine recommendations - washingtonpost.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMjRtRm1FVTFOMWg4Qm0xWG5LWXg1cWtQQmt1d2I1V0NLc1FBbVNOUFpNdHhPN1YwTm9wMnNnSGpnZm9mdDZhb0NaYVdRRWF5QU1WNElWMmxiY240ZHVZZjVDWUpVb09VLWZXWm5TY3NqNlE1UVVzX2xVZHBRdlZza3QtUnVWMzlxMWlSRmFQTFNiUm4wSHJXQ0p0ZlRhWXRSdXJmT3hydm53SXVTS2RlXzJrS0w2cVJCaFA0dkV5Um1uTU0?oc=5",
       "pubDate": "Mon, 10 Aug 2026 21:15:58 GMT",
-      "description": "Trump demands major changes to childhood vaccine recommendations The Washington Post",
+      "description": "Trump demands major changes to childhood vaccine recommendations washingtonpost.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Trump signs executive order to break up measles, mumps, rubella vaccine - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaElpa0tUem9hZmdiWVN3ck1oaTl6RXB6ZEhyR0p5VEtacVlqOTJBX2MxM1QtZ1dXMGFuZjIxU2V1Y1VMYWF4MkVuQVpZNHF0eS1XUEU3NWZ2Z2RVdlI1d3pBMEVrZUp2RTNBT2VocFdVOW51ZXhwNC1Ybm1hTEZUNUs5end2cVdLQnBMVDFYQkJBa2Fm?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 21:06:35 GMT",
+      "description": "Trump signs executive order to break up measles, mumps, rubella vaccine CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Teton County Ends Measles Emergency After Outbreak Linked to Grand Teton Worker Housing - Medical Daily",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYy1LdG5DeUJ3RlVPY3p6Zi1qdEJwUjBrTG1fRlRJcVZ2eHZrM25EX1hmQWhnc0NwbDdfVGloNTEwWWFxZ3JZWlM0TG5HSGhTTldaTW9LREY2S0oyNjFpTnU2dm9HakVVdm10TlZpblNkelJXakxQYVRmNXhOR09WWU1SSzh2NUpsUU8yTnZ5SlhkeGZUcl9TZlVjVE44X1ViZ21uSA?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 20:45:09 GMT",
+      "description": "Teton County Ends Measles Emergency After Outbreak Linked to Grand Teton Worker Housing Medical Daily",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -21,37 +138,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Trump wants MMR split into 3 shots, other vaccines given at separate visits - ktnv.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNjRHbGJRc3JLQXEyNjNIUnExYXFPeWlNOThzbDFLV1ZCQXpZVVNvMFBIRGpEcVBhaDVoNlA4UngzR0FyVjIyN2dtaXIweXdFd05sOVQwX2gzMTJxa0pMNldvNFdIQUl6MGRxZlRBRlZpMEJJeVdwZ1dtd0FsS2NRUmljV1BzbG5LYUt2a2JDRWVKcFNTVGpvRDE1VQ?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 20:18:41 GMT",
-      "description": "Trump wants MMR split into 3 shots, other vaccines given at separate visits ktnv.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Trump signs executive order overhauling childhood vaccine recommendations - Contemporary Pediatrics",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0pleEgtZ1kxQlNCZ1FBMHpPR3JDVEl4YV9zYXVta2dQX2FlT21OeC15YTQwTXctX1JwLWRXa0k1YkZ3ZEdPVXNEMDJaVEdNRFhoRVdkT1pTVnpYdEUzQ2JGNzFGekg2NDcyTVNMRkhmZlhOSzZoZnUzRE1JLWxraHFTTEFGLUtkTW1XcHUtNkVQaFhTaERyY1p1TW9LdFJ4a1JKNXBKX0RCVm5KQmdPV0ttY195aVdN?oc=5",
       "pubDate": "Mon, 10 Aug 2026 20:15:32 GMT",
       "description": "Trump signs executive order overhauling childhood vaccine recommendations Contemporary Pediatrics",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "WATCH: Trump signs executive order on childhood vaccine recommendations - PBS",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMy00VTBndFBFNkVtZC1QRWNkVVRPa1RmVXZqMm84R0QzMlVNUmlwWHZlT2JBbVY3SG5rMlFra1Z5Q2dMYkV5b1lnY3NMdmROcWotaFJpcDk2NVR2M25wS0l4OWt4M093RlBKaDhJWVdmd2o3NHB2Ym1WT0VaeTYyRTdGUnZyODl4VlJJQzJvV2lrTEZsYk45WVF6RDZGOUZYUlliOWdSZVRNTHdN0gGyAUFVX3lxTE9ZcDk3S29fNEV1TjMtNmtsNDlzbFFXalVOU3FwVXFPNE85TTlwV196SnZCVDdxQnpuUUFNSjN2MWdmNVRwTDZLWWlwV09SeldybTBHRkRkaWo2VS12TXRZMElKRkhmdVI0T0U2T3VQam1aYm95RURnQjZIY3hsdlZuZThMN0o2LXh5anptZVVNcGRITDc0cUF3V25ZUXdKZzlVQ0JNSVQ3SDlMNlhPY1dtRFE?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 20:10:20 GMT",
-      "description": "WATCH: Trump signs executive order on childhood vaccine recommendations PBS",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Trump signs order attempting to override CDC vaccine schedule and break up MMR shots - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZm5ydFZzXy1BUTZFVUllVlc4RjZXOWI5WkVyRzFRWGtQMzdJdDhMMVJjYWVwMjB0OC1OREg0M1o5Zno5MDMwSVBlNTZBeWQyNFhrRkt1R2ZJMFBvR2kxZUF5OVFGT25ueVhQaUtnN1UtUlcyNHVWOE9USUtNVkxxZktHVVQtcjBaWTNxUVVhZw?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 20:04:00 GMT",
-      "description": "Trump signs order attempting to override CDC vaccine schedule and break up MMR shots The Guardian",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -84,10 +174,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Trump Plans to Sign Order on Splitting Up Combined Measles Shot - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcE44YmZvc1N1Y0VDSzVNN2NzZUV6S1RuNHhNQ3NQblRmaTducjJGRkw5ODBMWlI3M01hdkJFczZaY1JzdWEyTl9aSzNYZWk3VWY3R3JYNVB6aUFCbk0tQ1E5bjZNOEdPYjNaM195N0gtdWxkRDlmcm1qT2JoWjdmektiU18tMy1NZzVNWXVxWV9aX0lkNXl1MzhGdk1VUFl6a29rRGt0eTZrRGlTbG5RTzNtLVc?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 19:23:46 GMT",
-      "description": "Trump Plans to Sign Order on Splitting Up Combined Measles Shot Bloomberg.com",
+      "title": "Trump signs executive order to change childhood vaccine schedule - ABC7 Bay Area",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaUY1RnNVbmp5T0dIdkJ1V2JXVWc3ZVdJaVJEV1d3eGt6ZEowMDdEZ0hmd3BwUzhwRE5vS0NKYnpMRUZhWXdrZFRBbUNpVW40aGdPTW5RR3JZMHF1R3JjRGVCQUxObVp5WGp6NzVka3pYYU5QU2VvS1RTZVFVV3lVb0ZYcVFINkQ2azFDVUlILWhZbmgwRFdEdlpJbkYweVU?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 19:28:55 GMT",
+      "description": "Trump signs executive order to change childhood vaccine schedule ABC7 Bay Area",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -111,10 +201,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Trump signs executive order to change childhood vaccine schedule - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYm1DZTR5RmduTVZick5kRGdTT1poQVNydmZFU2VMVDNaNnZ5U3RsWGhWYWxTbUN5SUtaWWNVZDF6bHBlZDFvMU1YZGRIVkpUNVQ4NFlmaldNMjluUW53WmQ5YVdQaXJ5a0xNNDdkTkRwUGJiQmxYYU94Z2xfT1hqaV9BUUhqYUdCLXk0TTBVZGsySXl6akgzSmFJTHg?oc=5",
+      "title": "Doctors push back on Trump executive order to change childhood vaccine schedule - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYm1DZTR5RmduTVZick5kRGdTT1poQVNydmZFU2VMVDNaNnZ5U3RsWGhWYWxTbUN5SUtaWWNVZDF6bHBlZDFvMU1YZGRIVkpUNVQ4NFlmaldNMjluUW53WmQ5YVdQaXJ5a0xNNDdkTkRwUGJiQmxYYU94Z2xfT1hqaV9BUUhqYUdCLXk0TTBVZGsySXl6akgzSmFJTHjSAaIBQVVfeXFMTVFaUFN4aVZkQ3JuYVpTSkFFNUZSa3JPMG5Jdk4xU0haYU5Ta1oxc3RLcDB0OTAyOGFOa1RZNHB2Yng5ZXdxYVJXcE1sQ28tbDF2OUgtWUNmbmZVbC05STJJZFQ5YmxDakM1ZlN3ODZ2WHo2TVlnOXhURHlXY1VHTVdGcU1kMWM1eWQwWWRDdURLVWxxZmRlT054eW4zVHJmR2pB?oc=5",
       "pubDate": "Mon, 10 Aug 2026 19:16:35 GMT",
-      "description": "Trump signs executive order to change childhood vaccine schedule ABC News - Breaking News, Latest News and Videos",
+      "description": "Doctors push back on Trump executive order to change childhood vaccine schedule ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -124,6 +214,33 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUjFQdFFGOGwwMktkS04yaTVxQ3JSc1NaNmdjcjVJQm1nSGZDR1haRW5iOU9qd2lGOU5EVURVZ2RaOWtRWkJoVTR5V3VNUVJFZmQxWU1xXzFqY2NVTHdHa3ItcTFYaUtndm43SjJRT2REdHlBMzdVVGJBcUFfTWlxRXU5cjgwQ05sSWlISENWTDg5Y0ExekVtT0xrcFlJWGRPbkVGZW9ITW9tYnp4UGc?oc=5",
       "pubDate": "Mon, 10 Aug 2026 19:15:27 GMT",
       "description": "Trump signs executive order calling for split MMR, one vaccine per visit Medical Economics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "President Trump signs executive order calling for revamped childhood vaccine recommendations - kare11.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMkNsQXNmOWlEWTBvT3dUcVI2N1JseTRXUXJQMjZWTXYzc0RCRHZEY1gwUWRIMGY2WF9OaG44ZnFhcnc2X2hhUjN0dDdJcGNiVUUteU1QZWJ2YnltajE5MXhKWW5fMzBpNWwtWXE5Z0tlUEF1Z2gtYmxlRVFSSEJfWWRXVzBuc2VNeVNIb2NoYk00MEN6azRSMGJGOG52aHhFUWV5VHRoTG1hLUdkSDV0U3NkcDdHajVDdUl3US1zQzRaVWE1b1cxSQ?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 19:07:00 GMT",
+      "description": "President Trump signs executive order calling for revamped childhood vaccine recommendations kare11.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Record U.S. measles outbreak: What Tennessee families should know before school starts - Knoxville News Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3ZJajlHeV9mRjVhRFhXNHR1aEt0Y05WLXo5QU1YeWRoeU5nQXFDSjJrRHRuaWpZa3hBUmtSNzQtLUVNbFV4RVFVY1hUNktQaHlVWFJNXzdGaDdRSFBKcDB0bmpYa1NvOXU3Q19XalhpNE5Kak5jUk1DTVJvWWdaZ1BSS0lla3NGT25GVG1WV3ExMUpzbkZPRmFSV3FEamp0bE9Oa28yRXFzT2FxRFprVUNoUQ?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 19:06:00 GMT",
+      "description": "Record U.S. measles outbreak: What Tennessee families should know before school starts Knoxville News Sentinel",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Trump signs order attempting to override CDC vaccine schedule and break up MMR shots - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZm5ydFZzXy1BUTZFVUllVlc4RjZXOWI5WkVyRzFRWGtQMzdJdDhMMVJjYWVwMjB0OC1OREg0M1o5Zno5MDMwSVBlNTZBeWQyNFhrRkt1R2ZJMFBvR2kxZUF5OVFGT25ueVhQaUtnN1UtUlcyNHVWOE9USUtNVkxxZktHVVQtcjBaWTNxUVVhZw?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 19:06:00 GMT",
+      "description": "Trump signs order attempting to override CDC vaccine schedule and break up MMR shots The Guardian",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -147,6 +264,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Trump to sign executive order calling for spacing out childhood shots - 10tv.com",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSWE5YTBlRUZQMjdCRVBiUHhEMHE3Yk1mZXBFd2FxTkx5alVrZmpZMi1ZZFNGLWY0VW5vaVNfYjF1TmJkcVl3b3NwYUNmaXNKUEU2RGo2cmljdFpKamEybkxBeXJnejNremEtMENlYzBWaUhpSDZiZ0xKdVNKRDZmWmNaelMxMWVSRU9INjlfby1maXM3OThLR2F4NVl1R01QVF9WdTFpeXlYMXk4LUpmZVIxdW14X3gtdTJsdHFNNE8yMkYxSnhnb1FxYXVjYm9GamFBcllucjNTWHM2Ty1nQUdJVm5ySGRHQUoxRTJheWZvN3hMcHlmTlY4WQ?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 18:44:00 GMT",
+      "description": "Trump to sign executive order calling for spacing out childhood shots 10tv.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Trump to sign executive order calling for spacing out childhood shots - KING5.com",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRXNSSFNyUWtRellhWGtFbGYyTkNkTWFRS3VuSUZ1dTlhYzFrOGM5ODhfOG1nUTdfZXFWdmNKX1FvakhrNU1KYUpTOEN2YTRjaEdGX1FYVTZaS09XTVRITXVsdnhIQlRMZUFlOUg1bVQ2STBHSjlsZlVrd205U1pKd3FlSHdnUmI4MTgwRzYzenU5WmVVUk5UVWlUdkNZSEZ4TEdXc2ZBVUN3aVVqdmJXbUxSdlY2VUtaMzEtdDZyazNXZWhmTWVsSG91S1MwcC1DaDlyMHl4OW1tTHVId2oyYXh2MUxac0cwRTM2b1c5a0lTRHo3MGJ5NVAzekQ?oc=5",
       "pubDate": "Mon, 10 Aug 2026 18:44:00 GMT",
@@ -156,19 +282,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Trump executive order would split up MMR vaccine - Axios",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55NWtEemlWQ2ZEeDhlU29CX0F0a0NGTGttQ2hKUVYteVB6NmFsc3YyeHpobzFHSG04MzJjd1dhMnhBcEpFLXhmTmdZS0JGSFlyRURIR1lSSWZyMlVvaFlFLWdVSkdrYXRQUEwzbjN5c0JlYTA?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 18:28:05 GMT",
-      "description": "Trump executive order would split up MMR vaccine Axios",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Public Health confirms measles case in person visiting LA County - Santa Clarita Valley Signal",
+      "title": "Public Health confirms measles case in person visiting LA County - signalscv.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVUdCZ05GZ2pqdzkwQkRBdWpwcGJ1NU1XQXlXelAyQlNTZFZTY3VrUzlqaVlVa1FQZGg1a1Z1bFhtc09IUUdUVUJPTy1CYVFiZjFaOUZlLVFhcmlxNmluTjNPelN5NG9rZzNWWm82OEcxb21tZndsbW5mQmZ6NWpyeXFzdmRsWUtpd2RpSjRnaThpUlJxMFhVeks2Yw?oc=5",
       "pubDate": "Mon, 10 Aug 2026 18:22:14 GMT",
-      "description": "Public Health confirms measles case in person visiting LA County Santa Clarita Valley Signal",
+      "description": "Public Health confirms measles case in person visiting LA County signalscv.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -187,15 +304,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNYlZrb0VrTWdWSUQzT2ZhVWpteEpibUlzQW9VMmxpVnNCMmZEM09sdFdCVkF3R2VWTVBvVFRldXNmMUtmY25OeEIzaFlTNnJULVJpX0prc3o4MlVhZnlOWGNUZl83Zlo3WEZtSm5oQjFHZHhkRWlXWWZRS0Q1dWZUUnRfOFNka09heWNiS3hUSFRGckVQYVRyRi13LTFDM2htM1JhWlluNkhYNlEtd0FlS1ltZnFncFF4bjBsaGdNdWJ1N2liNFFtVUg1b1pkUEtrS05XN2tIbEJ3cnEzaFh0eGVFN0dSdjh0Z0s3WVZjZmZYY3QwaEFOMjdCbXFSdWlrTi1UOWR3?oc=5",
       "pubDate": "Mon, 10 Aug 2026 17:53:00 GMT",
       "description": "'A concern, but not a surprise': A resurgence of measles looms over Idaho schools Idaho County Free Press",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "NIH's Bhattacharya Urges Vaccination Amid Measles Spike - IndiaWest",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcVphTVBteG83MmF6WVVjZmlkOFUxRFZEZjJTRkJIMU9XVGEyNmRnV2k2dFdGY0RDU2F4Z3JmenlUN3p1RVUxMFdsb3BOaGdRYl9qNW1ob2RaTG8wSm9YZUk0QUhnRVk5a25Zb084Vzl4OTZmRUZwWDNrZnY5RWNvUllqbkJ0Zk9ROVNxRm84WXRaMUF5QmpSZzA0SkI?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 16:51:35 GMT",
-      "description": "NIH's Bhattacharya Urges Vaccination Amid Measles Spike IndiaWest",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -221,17 +329,17 @@
     {
       "title": "Few parents in Illinois opting kids out of required vaccines, data shows - IPM Newsroom",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzdRdkxoMXNxNEZ0Vll2djNUak15dnVMWTNJSTcxaHI0bTY5cWFtSWV5NVl0VVdHbEFWeGtVRzdUNk9BcFlzb0lLX3lBWGJzVExWMy1EOXFqaEI2UkxES2luSDgzRG5oUE9Tc2diUjVJLVp2ZmpNejB1YzZpUGpyQ0owMzI0UlRjS3c?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 16:18:22 GMT",
+      "pubDate": "Mon, 10 Aug 2026 16:23:17 GMT",
       "description": "Few parents in Illinois opting kids out of required vaccines, data shows IPM Newsroom",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Latin America Faces Measles Comeback as Vaccination Gaps Turn Deadly - latinamericanpost.com",
+      "title": "Latin America Faces Measles Comeback as Vaccination Gaps Turn Deadly - LatinAmerican Post",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd3NSaUtPQ2JvcHBLRTdLZDRtdVZEc0xNcTdDMHhIdkk1b2s0TVNldjYxeXhZSkx6ZEFOWGhyMEt1SVU4YlZJNXBLeHhiRnI4M2tReERHSU5YZm9oN1l2VDd3bjhIYkRJbEdJM3FRamxHR1k2YzRQQVJ3WHhkU3JENC0tS2IxNTV6bFRuSkctMEU4MFJmWGhaRkhPUzV4eGZQV0N0Y1d2UlpHdndN?oc=5",
       "pubDate": "Mon, 10 Aug 2026 14:29:59 GMT",
-      "description": "Latin America Faces Measles Comeback as Vaccination Gaps Turn Deadly latinamericanpost.com",
+      "description": "Latin America Faces Measles Comeback as Vaccination Gaps Turn Deadly LatinAmerican Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -300,15 +408,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Canada’s measles cases are half of U.S. total, despite smaller population: WHO - Global News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc21Lckd1WUV3aFF0bi1oWV9wOXlFeVZHdEt2MTZ3Z2Z1eFJWYTNvQS1LaXZFX1NWb1YzMUV1Wmp4cldNWnl4ell4QWJGaWFOZHFkb3AwUVl4R2V5MHpmSHZlTG1FNDBJNGpiTzZsaURVZkhBSWxMOFdkOGJYSm1ER3BtUFBXVWEtRlZyS05FUm1WaHJIeXJqckNmQW43bTkxNFhEYUNLRkR4d2RRaU1feA?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 14:43:54 GMT",
-      "description": "Canada’s measles cases are half of U.S. total, despite smaller population: WHO Global News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Single measles outbreak in 2025 cost almost $5.4M to contain: research - WOODTV.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUm5hV01vY1MzQ1RJRWFwWWJJNDhld2kwdmdSbk83OVFJZ2NxSXJJS1JlUE56MUk5ME5YNmk4RzBldXh6ejFXeUhZd041OGhaMF8wVlR0QmJZLU5fUG5rR1NGRk5rc2xrSlQ2THBUZVBjNGxFd1R0ZDRjWnhxNi1TbThLTTR6aDVQNmNWRkJScW8tSThYeW5DRl9UQklsVTdPZTQzaTVMa0hnR252MWp2WFkxY3F4MmPSAbwBQVVfeXFMTnJTZEJkSXR3YzFZZ2luOGkycElPa01laWYzSFROZzBJeGdSX2JUX0l0REVrOG1BTjhLVEo3VXFBeENwNXNnR0xVUVdOeFV0eGZDTGhBN3RSdDFNX3Q2ZkgzYXgxMWxrdVlGZ2JLbTg2dTFjSzMwblNZWkhFQkhfWEk5WmtrUFlfX1Bpd1Vyc0R5Y1FMbUpmY3RTOHVGYUtwZnNHaU1salN6TFJlR2ZEYnVRRzk5NkVUN0RWVVo?oc=5",
       "pubDate": "Sun, 09 Aug 2026 13:00:00 GMT",
@@ -331,15 +430,6 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRnk3eC1Zckd4OU9EZFc0OFN5cW40YzZjMG42dllFM01Edi1EZFFha1UtaUxHcTNVRnEydVhEVXNxSDVZc3dySzNYelFjcFlFZEVfZkdna0llYWRINm9JZGZEOXh1VmxfQ2NESS1FUEk0aUZlUFY4bWN5UmwzOUY5UUJTTWFhNDFPOWNEWUxGVmFrNC0xN0VEVFpSYWlDOHVRbjlwX0poelpQMzZIUXhQUE55M2tETjM4eUEwckNQTkFNN3E2VEJqZHZIY0ExREE?oc=5",
       "pubDate": "Sun, 09 Aug 2026 11:12:35 GMT",
       "description": "Measles cases diagnosed in Lehigh Valley. What to know as your kids head back to school The Morning Call",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Posssible Measles exposure reported at two Mount Nittany healthcare facilities - WTAJ",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNW1MZlB6b0Q1a2Y2UktyV1NFcE5YMHAxTHVhWjQzanlmU0gzUFN5UWR2OEI3T1dqTVpWSzNxYVI2U3JvY25jaU1IcnNZVTFkRlVCMlRCWkRQaVF0ZFA0Q3RYYmFaUVV1TUJ6Qk1GcHFWSm44T3hrSGhmVzY5R1dkQ2VnODFBMUdDaEtQZ25lQXloX3dwVnk5MjAxUXEyNnRrc0YxcmUwNEJvMTJiR01HV1VTblFOa2_SAbwBQVVfeXFMT3RTeTZvS3dUNm5jVUd6eDRjRVRDS3RJc1R2N2lVUFBzOEdTU3pENWYtWWxYc2VkSFNCeVA2Y08zcURjcmhUMUVYejlyLW9KcHJoNHNCMjlxZjVaV1Y4bUpoaS1WOXRfTDZXdWt2dlBTMjdvbmwtc3lROVQ1RUpFLVFvaHJVUkYwaUFCZjh4NGY5dVlWc2w0N3pDWjFNbUpPR0t5bm45TlhDbTdSX19lblJOcXZKeUJic1lOQVE?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 22:08:50 GMT",
-      "description": "Posssible Measles exposure reported at two Mount Nittany healthcare facilities WTAJ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -372,15 +462,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Spread of measles here shows why Lancaster County needs a public health department [letter] - LancasterOnline",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQNjZDNDhmRllQd1NpWlN0SmkzUC1SaXJEZnIzR25EODBxd0swNVB3Y3k1QzJoZnpXM0d3NHRvZTNzelVzTXlQV1N6LXpiT0IwUWxMSWNDNFFlX3VJOVdRd2otR2tiSzIzZUxaQ0E2S1JDQ2dYVm1DSzlBSkE2eFVmMzBRcE5vZFA1ZWNGZ0xoc2RXbEx0cl94dlpYeHFPMzdqYlI1VTRGVTlrWm1TM3NKeHo2eFdCMnQ3Y0FvdEpUVWJETW1nQkhFMmpQNXIwTm13dkFLNmhBdU1FdzhCSmd5UHRqMmlXWG5hb2dkbXdCQ0dXOG9VSlRIM25fSmJrc2xaZ3ViOHhZOEJDTXEtRmlNMWNHR3BSSnFZSnJGYnRB?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 09:00:00 GMT",
-      "description": "Spread of measles here shows why Lancaster County needs a public health department [letter] LancasterOnline",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Epidemiological Alert: Measles in the Americas Region - 7 August 2026 - ReliefWeb",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORzRCQ0pqN1BzQkZpODgtSUNqRjB0WkdLOURiVU1XV1RpR1k3RVhuaWlpWnlmS084Ymtxc2dCczBUVVViSDBEOFpDN0d5cVJ2Nm1PNzE0U2YxbHd3NHhNOGdFb3Z5eFctVlNuVUFZQlM1YlUycVBGTk5DQWhJdFBjdi1oejlfWHczbm8zeEdlR3BRYmZ1cGNmeFg3bjI0dTA?oc=5",
       "pubDate": "Sat, 08 Aug 2026 04:03:05 GMT",
@@ -399,10 +480,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Mount Nittany Health warns of possible measles exposure at 2 facilities. What to know - centredaily.com",
+      "title": "Mount Nittany Health warns of possible measles exposure at 2 facilities. What to know - Centre Daily Times",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ta0l1TGFWN0RpVjNJNVhWMW1HOVZ6MUxMd1lPTkVtNndmVnF6eVY3V01xVnBHQUFGakZyR3RpaFBlcVNlNE9xMGg1d3J6N2FRZGFSZ1RwNWdGUVM0SDQ0OGdFeE9acE1fVXJNZ9IBbEFVX3lxTE42MGRBbUJRdjl2WUhvYVBXSUhVaWtteVlqZE52MWtvWlB6SVk4b2ZjZ3JPak55ZUZCT0ZzeXJNRjFEVlg0cGNQNzNJaUVQeFI4WnVsRXNfWXE2bE00WmlzbXJIa2d6QjBodmJueA?oc=5",
       "pubDate": "Fri, 07 Aug 2026 22:46:00 GMT",
-      "description": "Mount Nittany Health warns of possible measles exposure at 2 facilities. What to know centredaily.com",
+      "description": "Mount Nittany Health warns of possible measles exposure at 2 facilities. What to know Centre Daily Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -453,19 +534,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "PAHO urges countries to strengthen vaccination and surveillance amid rising measles cases in the Americas - paho.org",
+      "title": "PAHO urges countries to strengthen vaccination and surveillance amid rising measles cases in the Americas - Pan American Health Organization",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRFFaOU5FaDhaaGpER0dKS3A5ZnlzekV5R3FMaXlUUHZLQnVsQkxrSmNObHI2OU9RcDV3eERBaDRnbFU4M1poN1ZwZm5tTXA3ejY5VzdENmZNbzZDZWpsYmZDTGN5N0RzX1hZQUJzTkM1Ujczc0VJZDNQc3EwTE1WNTZZaDhwOUQ1a2lrZGx5b3VRUzZfbkhMdmF5MEJQMFBGYVZTZjJmaVpmVV90UzVFcUNlb01BWDhxT2c?oc=5",
       "pubDate": "Fri, 07 Aug 2026 21:09:48 GMT",
-      "description": "PAHO urges countries to strengthen vaccination and surveillance amid rising measles cases in the Americas paho.org",
+      "description": "PAHO urges countries to strengthen vaccination and surveillance amid rising measles cases in the Americas Pan American Health Organization",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "University Hospitals reports possible measles exposure at UH Rainbow, Cleveland Medical Center - wkyc.com",
+      "title": "University Hospitals reports possible measles exposure at UH Rainbow, Cleveland Medical Center - WKYC",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNaVJvRWdYT05EazU2VWE1U0h6S2lwYl9MVkE1eGdIT080eFg3V1o2UXZaNXcxSFZYc0xpajNmNUUzR2tERXgxd01obWZwNVB0d1RBbUlWUHNORndCaDVzZm9PNGR0NXJ6VjYzYnVlZ3ZHOEMycUJDR0hMblVYUG5RY3QwcGR5ZHVHU3NDem5mUmQ5MEFrYVpqZ3JyUTJTMVo1UG5ZbTBaZFVnQTRWNWNCUV9IMXRjVERKaTlRcW1qY2taWWVLTGxSc1pfVG9qblVqS25GMEJFWTRWaU5xdnJNQm5pUFExaU9weXg1TzdkeDNfWUVWcU1SWTNCVFBCY1gxMXpHX1U0TGdJM2J6NlVuc1BHRnNXWFY1MFQwc1Rja3E3LVFzRk1sUkZn?oc=5",
       "pubDate": "Fri, 07 Aug 2026 21:04:00 GMT",
-      "description": "University Hospitals reports possible measles exposure at UH Rainbow, Cleveland Medical Center wkyc.com",
+      "description": "University Hospitals reports possible measles exposure at UH Rainbow, Cleveland Medical Center WKYC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -552,19 +633,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Amid measles outbreak, PA launches school vaccination tracker. See Centre County data - centredaily.com",
+      "title": "Amid measles outbreak, PA launches school vaccination tracker. See Centre County data - Centre Daily Times",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5ZVl3STZ0a3lSNlZQU1dQUnU1eHFhRlJMZ1NPQWNuOUNIZXF1UVlOWUIxb1pjQnh1aEV0U2U3ZFl0Z0Zqb01lR3FFRGRJQ0FyQ0trLXVfM1ByWERHcDlSTFZWSFdtOEtub3FmWtIBbEFVX3lxTE1JcC1hWWxjRGgwMW0zQk84S0JTNFh1dldzbnNTVjFkUHVrQTh5cDFRam5RcExZVmhXc2MzaE1MMzRGRnVXaDRYbG9TYVlHNERUSGpubjYtaGtmRXdjRUdrWEhFbFZ6VWFXSnBYbw?oc=5",
       "pubDate": "Fri, 07 Aug 2026 18:10:00 GMT",
-      "description": "Amid measles outbreak, PA launches school vaccination tracker. See Centre County data centredaily.com",
+      "description": "Amid measles outbreak, PA launches school vaccination tracker. See Centre County data Centre Daily Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Exposure Reported at Universal Studios Hollywood After Infected Guest Spent Entire Day at Park - people.com",
+      "title": "Measles Exposure Reported at Universal Studios Hollywood After Infected Guest Spent Entire Day at Park - People.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0d5eXE4TUFiWG0ybEVrSjVsZExRbldzR1lPZFJJdmlfVXNyS2JEZzkxOXNlSGVyYlNhUVZ6SGQ4YXc3TzZLOWx0alJlempKUU5kUDdUZnBBYXZ4aGlZcW82NG1tT1RwTEdYVlpDOUtNdUNtZS10dFVMY2cwRGFXQ2k1aUczLUdaNHF2V2dKT3JtQzNZYy1DOGllZ2w1RlQzMGtwN2JHS1lCNUE5d0FSSFhHeGtTS2ZKX29r?oc=5",
       "pubDate": "Fri, 07 Aug 2026 16:49:16 GMT",
-      "description": "Measles Exposure Reported at Universal Studios Hollywood After Infected Guest Spent Entire Day at Park people.com",
+      "description": "Measles Exposure Reported at Universal Studios Hollywood After Infected Guest Spent Entire Day at Park People.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -579,10 +660,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "title": "Measles Cases and Outbreaks - cdc.gov",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
       "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
+      "description": "Measles Cases and Outbreaks cdc.gov",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -592,6 +673,15 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ05tb3BLTGJJYVllWWpTZVZhSl9IMHAzNUp1ZklEdmN4VkdHR1BYMXNBZm0zWUFXLUkwZHJlcnBaQjJQMG5xMTJLaTU2Z1BxUi1zV3RkN1VoMUxvTmt4V0c0VFh6UXRiN1NXNnZnN09qSU1NUzk3SGVXU3pBNkRXNTQxcW0tRFd1TzMyZnhGOA?oc=5",
       "pubDate": "Thu, 06 Aug 2026 17:42:07 GMT",
       "description": "Measles exposure reported at Universal Studios Hollywood ABC7 Los Angeles",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Universal Studios Hollywood visitors may have been exposed to measles - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdlNRdndwa3FBdjVnVVNBQWdCQXVUTElHcWpCcWdPdmZsN0JPN25XTGZXSnZsRUJta1I0MXFGQzhoVGgzeXhJRjJ1WWp2cUExbGxTamVqWHowSWNuMVAxeHo5LV9ScnBBd0pRU0JON0pxYm9PNnU5ZXdiSHJfYW9WOGJUYVpTUEk3ZHRqMV9KS0hHMFdRbWxaLXNtVHNPR1dUYzRZcHlYR3dLQVhzYmUzVXNvRnduc25vQzJYN2dYYVh0bGxDZ256a1FOTTJrQVdnNmVxN3E2Zlk?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 17:12:00 GMT",
+      "description": "Universal Studios Hollywood visitors may have been exposed to measles USA Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
