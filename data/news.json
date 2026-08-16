@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T09:16:46.556Z",
+  "updatedAt": "2026-08-16T10:16:07.748Z",
   "itemCount": 75,
   "items": [
     {
@@ -30,10 +30,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Death toll crosses 900 as eight more die with measles-like symptoms in 24hrs - The Daily Star",
+      "title": "Death toll crosses 900 as eight more die with measles-like symptoms in 24hrs - thedailystar.net",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUFhRVEdielJRbmRHeXdoY2k0bFplZWU1bm04enZJclNDWlNOcG8xQUdza0lMTHRLYzJCbTNweEpnelI3eWVUaUxlWk9VZTdNRUtxV3ZkU2k2M2JlamRuMkNZMVp0OXRXV2J2a3ZHdm1GRGpfSnRrcW1mSnoyNGVVa2lPYWlnS3F6dlpoUXhRaGlTcFhKcTlvZ0Q5NnVtZ2FRS3RGRWZYemhNamZvZDlVWnQ4TQ?oc=5",
       "pubDate": "Sun, 16 Aug 2026 03:47:25 GMT",
-      "description": "Death toll crosses 900 as eight more die with measles-like symptoms in 24hrs The Daily Star",
+      "description": "Death toll crosses 900 as eight more die with measles-like symptoms in 24hrs thedailystar.net",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -61,15 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeVNFUE5SZzBKb2kwQ3p6YzNkQUloWGpGR2RCZGhpMUEtcjhHejBqbHVaU0pURmxIZmJnYW5vS1RWeWs3VXVTUDQ3SDNwOGdSbGlyQ2NmTGJmYzVyQS1IdU1RRW01SGIzRE93ekhfaXl2MHJ3V0gwYTV0YV82YUFDckMxdXVVRXhuZlpYSlR1Qnd6OHlsdUszVGUxNk1lRlJNQTg5MWpPX1lIVTc2Q1J5eUNOLVVSTWdhVHZMZDVZcTZRSFZVd25jeVcxSGZRU0ZvQmdKejMtX3dNVkd3aFQ3SlctdDNMRkV0VFBn?oc=5",
       "pubDate": "Sun, 16 Aug 2026 02:20:00 GMT",
       "description": "Allegany County confirms second positive measles case WGRZ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Geisinger officials notify public of potential measles exposure at GMC - The Daily Item",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVMyNHMtV3pFc1l6VE92ODUwX1p3LVE5elVfN1BSQ0RtaGNQNXdiY3VneThXb01nX01GcS1SYzZEdFhfZGxzMXNwOHY0YTJMVWlmak8yQjZlVmt3Y0JQTExjNUxVWTBLOUJhQ2pPalNpQlRpR01lc0Fnb1NHV0lIaHk1UGxWZE9CY0tNS3ZBYUZCekFOdlk3WTNZQlFOd2pnX1FOT0ZHN1lrQXpKaEVDdTJGWGlkS1RVNDNBaHdnNkRhbWRraU9WNWw2LU90TUZOdkY1OXVmOVpPdnVlaC1jcV9yWk00dw?oc=5",
-      "pubDate": "Sun, 16 Aug 2026 01:30:00 GMT",
-      "description": "Geisinger officials notify public of potential measles exposure at GMC The Daily Item",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -111,6 +102,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Wisconsin has first measles outbreak of 2026; 15 cases confirmed in SW part of the state - MPR News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFhtRC0xWm95XzNxSDJqR19OTjVFbWJ4dmtmb1cySERYVGcyMGNUbm1ZU1lFR0x3dWdLWEpic0VvZEh2LTh0MVRjSkpSa1pLUW1DZElrMXdDRWJvV0FPbEZwTklTNFc4NXp5U0lTcVpsV0xCWFRoTS1PS1R1S1FzOWR1N2g5RlJQYmJha2VHd3pnSld0NE1JQl9jRGcyaThkQW03Z2dtUTFyTTN5TUdCMA?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 12:00:00 GMT",
+      "description": "Wisconsin has first measles outbreak of 2026; 15 cases confirmed in SW part of the state MPR News Wisconsin DHS confirms 13 more measles cases in Iowa, Lafayette counties Channel 3000 Wisconsin measles outbreak may be spreading, no source found Milwaukee Journal Sentinel",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles case confirmed in Madison County, what health officials are saying - WSTM",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2diVXZRcDk2SDZVZVFiRUFKV1dHRUl4Y0dwRWUyYkV1SEV5UzJYTHA3OERkVk1hSENIbjZfbFJQQ0ljazdwaFRuTUE2SEdjYjJMamlTeEg3YTFqcmxxLUc5YTdpWjBrT1A1bG1FUWJENDhHOTNPMVpRV1RWUHlDS2tjUFNzX3QwM1BkckxYc1NFbzI2TzJxTE5NV2J0VG5oWWgxbWhtSjRTYzA?oc=5",
       "pubDate": "Sat, 15 Aug 2026 02:32:14 GMT",
@@ -138,28 +138,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health department confirms case of measles in Seneca County - Spectrum News",
+      "title": "Health department confirms case of measles in Seneca County - spectrumlocalnews.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU0poV1NuT0pZR1F6eHIySVZpQWxIMWdZaEw2cXJxazZVMFE5ZGRGbkcyVE5tbXFuSU1BX2U2WU41bGdQZGpaMktuLWFJaTZqTDlnYngwVVFSbmtxNXFQMlcyeDNHUmF6Nksyb201WmQtWXFNV28xUy1NdGxaRUpESF8yQUxJVS1OcVpWTlhrQzZiNkVvemxHQUFYYVBaZXZhMzB4SWhfeEc3ZkFiaUpKY28tc1AwQU5Kd1o4bVF3?oc=5",
       "pubDate": "Fri, 14 Aug 2026 22:10:00 GMT",
-      "description": "Health department confirms case of measles in Seneca County Spectrum News",
+      "description": "Health department confirms case of measles in Seneca County spectrumlocalnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Oregon measles cases reach new high for recent years as infections rise across Portland area - oregonlive.com",
+      "title": "Oregon measles cases reach new high for recent years as infections rise across Portland area - OregonLive.com",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaFBJeElrdG54UlBfUmxteHRGZDRKX1VOUnMzclJWaTRVcWxtNXpBMGZrUjFhSHd0czI3SEtrb2RHSFRILWtwZDJjdzJfbTFwWkp1dGt5QmRmRjFmcEd1NmRab3lMdmtPMVZ0OVR0S0lGTUhPYlN0SDZlT3ItaDh2a0c0WG9uWENpbUkzR3NVMkRoS0J5ckd4NW1QRzlWekZQbVBPdDlhZWlhY2JHZVc2UW5McXBxcFVvU2FzbmZmX2JhQS1jQVdYb1ZBYk53VThwdURoSFh30gHqAUFVX3lxTFBZZC1aa0lrZTFaNUQzMkdpcmQ3NmF3TGNmTWp6eUFReVp6ZVlEV3hxbmlYLS1xdEJYSUdrUkpIajNFay1FeFhYOW5QWW1IRW1fVTl6bDdlR01wWkZSajA3Nzl1Sk5kTFlNREhuRGZWYk9aSkRGSmFrdTZoX3daa0E0bzhqOGVCYmZ0cFU3RTFFS2czMF9IdTc0Tld3TkxEaXR6VnlVcGxCUV9NTm4wUENiRmJOV0k5amdSODNBUTlXcmFva25MZ1QxTVlmSUdiTFV5ZWJGTHZFaUE4d09PR1daSi16Z0Z2Z3RYdw?oc=5",
       "pubDate": "Fri, 14 Aug 2026 22:02:00 GMT",
-      "description": "Oregon measles cases reach new high for recent years as infections rise across Portland area oregonlive.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Wisconsin measles outbreak may be spreading, no source found - Milwaukee Journal Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRFVMWklUalladEdsY3hpTVMzbV9acVU5OFFCcFRNV0ZuRG9kY2xyRm0zaXJaQ0NxS3JZOTkyVU5SVHBqbzlOYW1rNDBiM2sxMVZiMkhYNjNmVlJMVElOX01oTnF5VWR0N2ZMdGxhZFNCTnFLUWNRakp4ajBGZmQyXzQ2bS1sbGhsSlhOQklwbElvbGwwOUNodVRNTXlZeU5lSFZJYkxLczlXaExQZnZNZnYwSEhwdFJKMUZ4UWc1V0ozOVpmVk1WeTcxOWZmRDg?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 21:23:00 GMT",
-      "description": "Wisconsin measles outbreak may be spreading, no source found Milwaukee Journal Sentinel",
+      "description": "Oregon measles cases reach new high for recent years as infections rise across Portland area OregonLive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -255,10 +246,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Tioga County Public Health investigates confirmed measles case in unvaccinated resident - wbng.com",
+      "title": "Tioga County Public Health investigates confirmed measles case in unvaccinated resident - WBNG",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUdrcTdxMjdhbTFLYm9PUlctNlBWYVBxNWxJUXVaTG9zcnRibWdjbUt0ZThoMFRpUWVSTTBxZ0swYnFDZ285ZWhTbnVTRlNaT0lmVnZsWU84SEo3RHZnYzZ6aVpOTWNYRHY3RDdvcFQxa1lKangzZTdpcGh1LUFVel9lc2hvekFOdmZzeGRjWkhmRDU5QWlxcEhYQTgyak0zN01oQWhjakg0OE9lMVAyNThNbmhKaU1I0gHMAUFVX3lxTFB1LUpOeGFscWkwZENYWkVaQllEcjVjMnl3cEt2X19DMDlzc3pYWjJ2VEMtV3A1NGxiZkk1cEg4SEZlRHF2a3VtMHdmWjRNZGM2dXd0ZWYtRlcxMHVGMXpYTVlNNlJwc3JtbDJveEVWM0l5Y2NXR3VWZldibUZ5c2lsU1A0ZWpsQjZRYmhjS3BDYXZYQml3UUR3UGZPX2Y5RnhHR3pTenNpdEdwNGNnRlNScUFnT3UxWGdaUnB0LWpQM0pKYTNkWG14eEJQQg?oc=5",
       "pubDate": "Fri, 14 Aug 2026 18:57:00 GMT",
-      "description": "Tioga County Public Health investigates confirmed measles case in unvaccinated resident wbng.com",
+      "description": "Tioga County Public Health investigates confirmed measles case in unvaccinated resident WBNG",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -327,10 +318,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "New measles case reported in Eddy County - kob.com",
+      "title": "New measles case reported in Eddy County - KOB 4",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQNThhMVFZZVVRZWI1T1c4OXc2RlhIV1JUOG9NOVRxc2VyLVU5WEN4X3dDeW9ZSHp3bGNTV2tKWnV6UWJtNjJydGh1MTVZR0V1Q3FBcnBDR1AtRmVPZlJyeU9tQW1JUjFzUHNFcDMyOWE1VjNKRGVtd2ZKRzQ?oc=5",
       "pubDate": "Fri, 14 Aug 2026 13:39:27 GMT",
-      "description": "New measles case reported in Eddy County kob.com",
+      "description": "New measles case reported in Eddy County KOB 4",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -340,6 +331,24 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcDVXT19qVU5hTk1hVk81bTNzSWhkTkdOOWJRQlVFTVhBQTdTLVlNS2hjaUhQY1daaVhPUnFtTWNPOThfY0RkZXZaTm12T1hxM2VBQnVqd2tfS1VoenVvZmJFeW9Qdm9mOWZJeW91UGZQZlhuQ1RveHVJSHB2OVZEMTRJVXBEVjVDQWFwNw?oc=5",
       "pubDate": "Fri, 14 Aug 2026 13:23:31 GMT",
       "description": "2026 Oregon measles cases have already far surpassed 2024 peak Axios",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Wisconsin health officials investigating measles outbreak in southwest counties - wpr.org",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZHI3RGhoWVFxV0dtTnF5eUpzeFhFWGNsY3NaVWFMUWJUZWFqTmRKM2NHUzU1YzYwQ0szeUxxU05NRkRCRmFTRElrSEhZRHhDMVN4ZFlKVFR1UTJvS29YcVBWWkxEYXU4bVBPajluSjB4Z0JIaHBOT1FXWk9kc1d3RGtiOWo1a0tnQkE?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 13:21:01 GMT",
+      "description": "Wisconsin health officials investigating measles outbreak in southwest counties wpr.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles case confirmed in Kentucky - WUKY",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZnBrR1N1VE9BOURmdnZvQmdfMmdpMFFYTHVsQUJjUFpSa29oelU0YTM2QlhDUE93OHR4YjEwMnYxWDRXc3p0RWkyb29xbkE0bEJrRlU3Y3VLQkQ4cElxZm45VmRrMlBKQVgwbUxPZXF2ei0zbjRlSXhQOXI0TkM0NkxB?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 12:38:00 GMT",
+      "description": "Measles case confirmed in Kentucky WUKY",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -376,6 +385,15 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYjViSTFzUlczM2NRLUFObDNBenJjbC1VdHo5Z2xZaUNnVFZLc21YQXVRYjlmUUZwNm1fUmhvZ2pWSmtVcjB2OHJ3T1lOU1A1T1M5SzNTTU9OMlNiek1JMzJaNERhV3hSUWNIS0xZeGMwYmlRWWRYU3I4dG5obFBZV3FNc2w4QmlpM18zaHRtblFFaUpaeTJmanVybWVLUXZPU1lkODlYYWx2Q2dRV3JKQ1BLNWFxMmI4d0QtbQ?oc=5",
       "pubDate": "Fri, 14 Aug 2026 08:34:20 GMT",
       "description": "Measles outbreak in Southwest Wisconsin grows; most taken ill weren’t vaccinated Wisconsin Examiner",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT",
+      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -435,10 +453,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials report measles case, suspect outbreak in Christian County - WNKY",
+      "title": "Health officials report measles case, suspect outbreak in Christian County - wnky.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFlpZ0hYcm9veHVCVGpfUlh2WFpaakJHcmE3YVdGZVJRZlQ1eFNiYXNpQW9nYkYxSHkybW5NbTViUG9RZDVuMk5tUUhPdWtyQVdMMms4UXZ2OXYwQnhJcF9KaVVoWEQ5SGZ3VTBxS1REa2twM29QWmtEQ1JCeDZZSWw3RkdYVmJmQ3BvZ1hBbDVPTXUxX2JzRlNGTQ?oc=5",
       "pubDate": "Thu, 13 Aug 2026 23:17:03 GMT",
-      "description": "Health officials report measles case, suspect outbreak in Christian County WNKY",
+      "description": "Health officials report measles case, suspect outbreak in Christian County wnky.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -457,15 +475,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3FtOEY0T3lMQmVhYkVYV3JJWVZpLU1FdHp4ZE5HcWxIRnBIRXM1a0FYTkRTbjlMS0YyMzRIcFhNNHJkTTZXd3IyQWM2ZGZmS0w3N2JLVW94VU5GbHNwZHJuUTdnaTYtTjNYUlQwSjg2Z1F3ZEFJc3Y3cmEyNmo4OGxaMTRWcmRWMmpKelpxOUQ5LVo4Y3FTVG02aWRqbTBhS1NjeGp1blE2WXhGdDFiN0xIenJnbzZSX2lMWG9jNXR2UlNC?oc=5",
       "pubDate": "Thu, 13 Aug 2026 22:32:46 GMT",
       "description": "Measles outbreak spreads in southwestern Wisconsin WKOW",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Wisconsin DHS confirms 13 more measles cases in Iowa, Lafayette counties - Channel 3000",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSXFVbC01MnhwVUk4dU96M2VVWDVWYVNOT2hXWk5YRVZubTVZRGk5cWhQeU1EeVE4Vm9HUkVWLWtRT0JfY3k1V1RxOVhvTFlSeG54b0VHSEJzT2Rzemg3eWdkUE05aFIzRGpjWEtLSmlVbThWWG5nYTJNUGhKVzdUT2c1bDU0U1J6MkxBVDhpcnZLd3h6Q0FFdnh5SjBGeXFUdHBPQko2cHhiblFNS0RxLUlEdVhydWFRb3JWd3phbUZNX0MwWXJQNWNKRE03ZmpEQi02a1JSbXpmUm1lZm5sQjhVSGJ4YVlEN3c?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 22:30:00 GMT",
-      "description": "Wisconsin DHS confirms 13 more measles cases in Iowa, Lafayette counties Channel 3000 Wisconsin health officials investigating measles outbreak in southwest counties WPR Wisconsin has first measles outbreak of 2026; 15 cases confirmed in SW part of the state mprnews.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -597,10 +606,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Doctors, health officials urge measles vaccine as cases linger and school is starting - ksl.com",
+      "title": "Doctors, health officials urge measles vaccine as cases linger and school is starting - KSL.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOalRqaHJ3dXNNdTdEdGRpTEZ3Yl9uYkt3T3ppWnJzbC1SZ1FlbU5aZlV4TUt4ZEVpVDlDVldvTktnRlhPR2hpbXExNWZERHl0SUZwSGUyaHZLSHktRy04TjdVZWh4T0VHTldZdmp1MXhVTUt2NEFOVDI4RjZsWWlpaUxWUW5UNnIxd3hoUVFBZTdYUzVlOEwzUXBDNDdXeVBJX19WZTBoZ1h2dnVaVmxxak9wSGgyaU5CWUpobUpn?oc=5",
       "pubDate": "Thu, 13 Aug 2026 03:36:08 GMT",
-      "description": "Doctors, health officials urge measles vaccine as cases linger and school is starting ksl.com",
+      "description": "Doctors, health officials urge measles vaccine as cases linger and school is starting KSL.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -646,15 +655,6 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zODdYNlFKLW01UWN3aF9URXRsejNuQ1ZhN0FHZFZlLXF2Y0REWGMxYktPWnozQ0c5bzFFRExEUVhGajh0WnVmelJ2Q0hpMkJpaGdyUHUxY3dGajJFSVc5UkVlSEhzWnNKUzh5bkN1aWt0MkRvVkR4Uw?oc=5",
       "pubDate": "Wed, 12 Aug 2026 10:30:53 GMT",
       "description": "The Rise of the Measles-Industrial Complex Paul Krugman | Substack",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Two new cases of measles in southwest Wisconsin, health officials say - Milwaukee Journal Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWVWclZPYmNhN2lOY2JKaFFDZVQxbVRod1NFeHBmYVFMQjN1bC1fSkpIdURUTlhiVDNOU1dBbW8zZDItbFgwNmprU201REZsMVU3RjVDaFFzMGZwWm13VnBCb1Ixa3VQLWhsRUNHcWFxU2FSQmkyVmdWNWt0N3ZNcDJEay03ME5fYm5oSVNuQlNHTkc1NXh6a3U4cFZnNXBja0FGOGxpbmFwQ0JOT2Ryd3k3cjdiRmlqbXl0YUNGbzJLSG8?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 23:03:00 GMT",
-      "description": "Two new cases of measles in southwest Wisconsin, health officials say Milwaukee Journal Sentinel",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
