@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-17T06:20:53.149Z",
-  "itemCount": 73,
+  "updatedAt": "2026-08-17T07:30:33.163Z",
+  "itemCount": 74,
   "items": [
     {
       "title": "Death toll crosses 900 as eight more die with measles-like symptoms in 24hrs - The Daily Star",
@@ -102,6 +102,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "As SW Wisconsin measles cases grow, officials urge vaccination, caution - TelegraphHerald.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUi1tdTlrMlFIQnNlSy1nY3F5OEgxQk96Umg5OFlPWERURjFrZWFaSzRxZkt1R040ZEYzeG9GcDB3X3FCSWoxSG1oOXc5RkMzZ1I5NEM5Y0VmMk4tQW54UHNTQV9iWEFFOGxvSzVZYmplbkRYUFo2RWxtRGNSVFpUYmxNeU9FUm1tQWFCNzhqR05XOGlzTDg2MjRLNUg?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 06:00:00 GMT",
+      "description": "As SW Wisconsin measles cases grow, officials urge vaccination, caution TelegraphHerald.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "With measles cases on the rise, doctors stress childhood vaccination - Toledo Blade",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbzgxWHRtTWIxeXU5OUNnc2htMWZrVk9HZ1dUc1ZQb1VzS3RpajRUM0g1cjBGTFU4WGYwc2RnMERTM0NHV0NsZXVNZ0F4QWFWc2t4aU5OSlR0UVhCMHV5QTZ0X3U2Vk5DRmhZRGhoYnlrSDltNW9XZkYwMTFCOUR1SVdKcE9XSEdVUzdOWHc3MW1yRHVwdDRpLUpscEl3Vk5XaHJ3cFZoU1djSDZlV1VMZlhRQXFQb2ROdF94bnNSYmp6MVFfRmVyT2tOTFdzTmpncC1TZzl4MGNmZEYzMEdhZlhYZU9IRFJ3?oc=5",
       "pubDate": "Sun, 16 Aug 2026 04:03:02 GMT",
@@ -111,10 +120,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Allegany County confirms second positive measles case - wgrz.com",
+      "title": "Allegany County confirms second positive measles case - WGRZ",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeVNFUE5SZzBKb2kwQ3p6YzNkQUloWGpGR2RCZGhpMUEtcjhHejBqbHVaU0pURmxIZmJnYW5vS1RWeWs3VXVTUDQ3SDNwOGdSbGlyQ2NmTGJmYzVyQS1IdU1RRW01SGIzRE93ekhfaXl2MHJ3V0gwYTV0YV82YUFDckMxdXVVRXhuZlpYSlR1Qnd6OHlsdUszVGUxNk1lRlJNQTg5MWpPX1lIVTc2Q1J5eUNOLVVSTWdhVHZMZDVZcTZRSFZVd25jeVcxSGZRU0ZvQmdKejMtX3dNVkd3aFQ3SlctdDNMRkV0VFBn?oc=5",
       "pubDate": "Sun, 16 Aug 2026 02:20:00 GMT",
-      "description": "Allegany County confirms second positive measles case wgrz.com",
+      "description": "Allegany County confirms second positive measles case WGRZ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -141,7 +150,7 @@
       "title": "Wisconsin has first measles outbreak of 2026; 15 cases confirmed in SW part of the state - MPR News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFhtRC0xWm95XzNxSDJqR19OTjVFbWJ4dmtmb1cySERYVGcyMGNUbm1ZU1lFR0x3dWdLWEpic0VvZEh2LTh0MVRjSkpSa1pLUW1DZElrMXdDRWJvV0FPbEZwTklTNFc4NXp5U0lTcVpsV0xCWFRoTS1PS1R1S1FzOWR1N2g5RlJQYmJha2VHd3pnSld0NE1JQl9jRGcyaThkQW03Z2dtUTFyTTN5TUdCMA?oc=5",
       "pubDate": "Sat, 15 Aug 2026 12:00:00 GMT",
-      "description": "Wisconsin has first measles outbreak of 2026; 15 cases confirmed in SW part of the state MPR News As SW Wisconsin measles cases grow, officials urge vaccination, caution TelegraphHerald.com Wisconsin health officials investigating measles outbreak in southwest counties WPR",
+      "description": "Wisconsin has first measles outbreak of 2026; 15 cases confirmed in SW part of the state MPR News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -165,10 +174,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Kentucky health officials warn of possible measles outbreak after 1 confirmed case - fox56news.com",
+      "title": "Map shows spread of measles across 46 states - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOU1sc05BQlEwWWNtSG03RzBHQTlGX280YWU1NkxvY3NXdVFPdTA1dUhRYnhyblVISDNEYzJLVmpydUJ2TjBmNzkxcm92ZEJyekFzNW9oUzE4cGNkb2h5LWwtVzZKcXJzT1BMeEFndEJ0a2h2OXZGQnJnQzZVMFF0S1c2TQ?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 00:37:00 GMT",
+      "description": "Map shows spread of measles across 46 states Newsweek",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Kentucky health officials warn of possible measles outbreak after 1 confirmed case - FOX 56 News",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYkNHRG5scmsyNHRvdE9wSGxXd0lhMDF6VTR0Q3VfeklpRWFMZEFwOS1oQkJTcDZWMFFDY0FUNTdxUlhyaFYwaXF0azRmS1k1Zl91UmJiaVBIZzNwNExoaGw4VHV1a3FKV3kwZGNRbG1CWDlzXzhJXzNVb0FzY2t0Q2hZN3o1RXBaR3p0NGVDU0hEb3FhWjdpWkNVS3Jxc1F2S3BTTXVYSi0xSWhadElFMDVndGh1em9mLUtN0gHAAUFVX3lxTE1DUnZHeHFGdG4zcVJLMU14UkFLbG1xXzBaZmh2VVpoNXI0aXpYRThfY28tenJmaDIzSXpmdDV5aDdQek8ybXdtb2o2SVhDcUlCM3oyWS1rZEZhdng0dXRpOThGTDJpZG9fUmJ4QUpmOER2Y0Y0dG5Xc2ZnMnppVXZkelo3ZVdPX2dZWmd2UFlpc0tSSmdqQnlnRnBpZzg1dHlVcFFfcjhtTWtEdjNiaTZ5VjJFek9DSW5mb2ZIX0dHYg?oc=5",
       "pubDate": "Sat, 15 Aug 2026 00:29:46 GMT",
-      "description": "Kentucky health officials warn of possible measles outbreak after 1 confirmed case fox56news.com",
+      "description": "Kentucky health officials warn of possible measles outbreak after 1 confirmed case FOX 56 News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -264,10 +282,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Tioga County, New York resident tests positive for measles - WSKG",
+      "title": "Tioga County, New York resident tests positive for measles - wskg.org",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWk0MnpTUXdqRkJETzVxUHYwSmhDa3ZNaW11V2psQVVaTVpCbHd2SHktR0V5WXc5Y01WYWFIaWlqZ04zR3Y4UnhYWGd4WG5MX2VJY2REUXA2RHhkX2JGck5wekRkU3JucmpfaVY4a0c2dEpHRWJ3aWxPOGhqR2ZyUDVuVG9ZcERSd0VseU81dWx4YzV4MzZUWXdzdlBjTUVIMDhJMW53?oc=5",
       "pubDate": "Fri, 14 Aug 2026 20:21:00 GMT",
-      "description": "Tioga County, New York resident tests positive for measles WSKG",
+      "description": "Tioga County, New York resident tests positive for measles wskg.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -309,10 +327,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "With 101 new cases, US measles total tops 2,500 - cidrap.umn.edu",
+      "title": "With 101 new cases, US measles total tops 2,500 - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONFBUQlRyd01rRkVkbEpJUl9aNnM0c0R5dTJXeVBsSzdFYzNQbFFZaFN5a2YybGRINkVOa2s1emZEcmZnUUs4OFVOWTNWNXNLZjZrdXB4NGlvTlhJZ2N1Z2VMcG9lYVFCeFRFZzR1UlQ5S054LXd0WEdwaUY4NjZnTg?oc=5",
       "pubDate": "Fri, 14 Aug 2026 19:26:54 GMT",
-      "description": "With 101 new cases, US measles total tops 2,500 cidrap.umn.edu",
+      "description": "With 101 new cases, US measles total tops 2,500 CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -390,28 +408,37 @@
       "sourceLabel": "News"
     },
     {
-      "title": "New measles case reported in Eddy County - KOB 4",
+      "title": "New measles case reported in Eddy County - kob.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQNThhMVFZZVVRZWI1T1c4OXc2RlhIV1JUOG9NOVRxc2VyLVU5WEN4X3dDeW9ZSHp3bGNTV2tKWnV6UWJtNjJydGh1MTVZR0V1Q3FBcnBDR1AtRmVPZlJyeU9tQW1JUjFzUHNFcDMyOWE1VjNKRGVtd2ZKRzQ?oc=5",
       "pubDate": "Fri, 14 Aug 2026 13:39:27 GMT",
-      "description": "New measles case reported in Eddy County KOB 4",
+      "description": "New measles case reported in Eddy County kob.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "45 measles cases reported this year in Oregon, well above previous peak year - Lookout Eugene-Springfield",
+      "title": "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZHI3RGhoWVFxV0dtTnF5eUpzeFhFWGNsY3NaVWFMUWJUZWFqTmRKM2NHUzU1YzYwQ0szeUxxU05NRkRCRmFTRElrSEhZRHhDMVN4ZFlKVFR1UTJvS29YcVBWWkxEYXU4bVBPajluSjB4Z0JIaHBOT1FXWk9kc1d3RGtiOWo1a0tnQkE?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 13:21:01 GMT",
+      "description": "Wisconsin health officials investigating measles outbreak in southwest counties WPR",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "45 measles cases reported this year in Oregon, well above previous peak year - lookouteugene-springfield.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmFDYm9vLUVSODh6Z3poSlhpajMyTGZpQTZLVk52d1RGcmtpMHlBa3NULTl1VFF1dnJMNGF0ai1VN0d4enltWmNGMVR5S1JOMDNlNmYwODRWUExnZDBQbEpLWTN6dXp1UTg1cWt5QjlNZW5pRWtfTXk3Ym4tNDhhVzNDNmR3eHVfT0s0VVl3bENNSE9Mb2VUMlhXbTJzN01uNldQYUNMVFNqMmYtR0RRS2dHZDV4R0p4dHlaaTBYc0JjOHdYcWZ3NXd4TVJtRFRCT3hHeQ?oc=5",
       "pubDate": "Fri, 14 Aug 2026 11:28:00 GMT",
-      "description": "45 measles cases reported this year in Oregon, well above previous peak year Lookout Eugene-Springfield",
+      "description": "45 measles cases reported this year in Oregon, well above previous peak year lookouteugene-springfield.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials suspect measles outbreak in this KY community after positive test - Lexington Herald Leader",
+      "title": "Health officials suspect measles outbreak in this KY community after positive test - kentucky.com",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBLUVHMm11ZFdneDd2M05qV18xRkN4WGV5c1g2Q0pYblVaRW0yV3dqNkhxTzFWS0ZzWW9xWUs0WFV4VEFBSEwzWHhERXpaSW1tcVVYdW1MZ1NMVzIzS1M5U0EzNzkzRTIyQnZhNDFCbkwyckF40gF0QVVfeXFMTlFiaEplOXAxRzFkb19lLU1YdHZ4YkVPRzBrazhzRi1sM3MyZzRDSno3YnVqS1R5X2ltX0lWRzFDYmtRNjFQN2J6M3d0RlN5RHBCM2podmdaWEVZMm9sbFF3aFc5MzhicjEzWWM5VW9MSnlQVV8?oc=5",
       "pubDate": "Fri, 14 Aug 2026 10:16:03 GMT",
-      "description": "Health officials suspect measles outbreak in this KY community after positive test Lexington Herald Leader",
+      "description": "Health officials suspect measles outbreak in this KY community after positive test kentucky.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -516,15 +543,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak spreads in southwestern Wisconsin - wkow.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3FtOEY0T3lMQmVhYkVYV3JJWVZpLU1FdHp4ZE5HcWxIRnBIRXM1a0FYTkRTbjlMS0YyMzRIcFhNNHJkTTZXd3IyQWM2ZGZmS0w3N2JLVW94VU5GbHNwZHJuUTdnaTYtTjNYUlQwSjg2Z1F3ZEFJc3Y3cmEyNmo4OGxaMTRWcmRWMmpKelpxOUQ5LVo4Y3FTVG02aWRqbTBhS1NjeGp1blE2WXhGdDFiN0xIenJnbzZSX2lMWG9jNXR2UlNC?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 22:32:46 GMT",
-      "description": "Measles outbreak spreads in southwestern Wisconsin wkow.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Wisconsin DHS confirms 13 more measles cases in Iowa, Lafayette counties - Channel 3000",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSXFVbC01MnhwVUk4dU96M2VVWDVWYVNOT2hXWk5YRVZubTVZRGk5cWhQeU1EeVE4Vm9HUkVWLWtRT0JfY3k1V1RxOVhvTFlSeG54b0VHSEJzT2Rzemg3eWdkUE05aFIzRGpjWEtLSmlVbThWWG5nYTJNUGhKVzdUT2c1bDU0U1J6MkxBVDhpcnZLd3h6Q0FFdnh5SjBGeXFUdHBPQko2cHhiblFNS0RxLUlEdVhydWFRb3JWd3phbUZNX0MwWXJQNWNKRE03ZmpEQi02a1JSbXpmUm1lZm5sQjhVSGJ4YVlEN3c?oc=5",
       "pubDate": "Thu, 13 Aug 2026 22:30:00 GMT",
@@ -570,28 +588,28 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health Watch: Measles cases highest in 3 decades, hospitals push for upfront payments - cbsnews.com",
+      "title": "Health Watch: Measles cases highest in 3 decades, hospitals push for upfront payments - CBS News",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdENnUXExMVFGU2ZqYXN5cEJsWS1IeEFFdm1mLTdHSEU3OG9BVzRjckJ1YlhlYmJGV2Y1RXFMeFB6SkZJOGY2ZWdxblJRZlo3SUl2enYzWmRpUEJSNHdad2JzbHhLUWN0QjNBbTZvVmdZQkswVGlnNEtCYnlaMEpvR2pmUDJzVkFfWTFTeFRuVDFaU2cyLWxoV3BpUHBZa1JQdjNyZXMwN3d5bXUyRFR6MXpqNUNrNEs1VjdidXJhOA?oc=5",
       "pubDate": "Thu, 13 Aug 2026 22:04:00 GMT",
-      "description": "Health Watch: Measles cases highest in 3 decades, hospitals push for upfront payments cbsnews.com",
+      "description": "Health Watch: Measles cases highest in 3 decades, hospitals push for upfront payments CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak hits Wisconsin: What you need to know to be prepared - WFRV Local 5",
+      "title": "Measles outbreak hits Wisconsin: What you need to know to be prepared - wearegreenbay.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92NlpmZllyV1dEd3VGcFEzVkl5M0RXVmFFRVRmMTRDLTBael9RQ2plNVFDaG95UnRYaXFfOGZ0Y1pJTzNtQ3FwenhjdDBoNlc1VmRCX3paNWFmeWJ3ZGJRaFRLVEVOOThjalJpQ3RWQ25LRXU3NjJMZVVlRi1PZ9IBgwFBVV95cUxPeEtLc0lydFMwdnFqMDRIZlk4cVVJbzd5SlV0cm1PVmVVb1lZSGxMRDh3ZFJYVEs3WHFqajBlaVBwUGFmc0R1TDNlWHlIUHpMcjUtS2dpTzQ2V0pVV1ExQXNnRFlfQ080WlByWUtXMFRzeGpVbmtoS1h4RFBRMFJENTl3OA?oc=5",
       "pubDate": "Thu, 13 Aug 2026 21:41:13 GMT",
-      "description": "Measles outbreak hits Wisconsin: What you need to know to be prepared WFRV Local 5",
+      "description": "Measles outbreak hits Wisconsin: What you need to know to be prepared wearegreenbay.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "An executive order, a confirmed director, and 20 straight months of measles: The State of US Vaccine Policy - cidrap.umn.edu",
+      "title": "An executive order, a confirmed director, and 20 straight months of measles: The State of US Vaccine Policy - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOekpMWjhVRDFncnY2Ui1qU3FTSFVyRVRwMGN3V2VHd2ZnMHY0QUc4UVpxbmMwNlNtQWFFbDEzN3V0ZnNRU0pfaFNGaTBlRy1xWXgyb3M5MGRQXzBTQWp3Nk1XTXhhVGE3YmE1ZHlIWERnX3h3VkhFWWN0MEpjNGx1dlhVcUdSYS1yWE5PTkR6YVh6bGZadUx4TFhoTGhacURsWnFPZk1WT1FkVkI3ZVdFdUhFS3g4bGh4eU8yeA?oc=5",
       "pubDate": "Thu, 13 Aug 2026 20:11:07 GMT",
-      "description": "An executive order, a confirmed director, and 20 straight months of measles: The State of US Vaccine Policy cidrap.umn.edu",
+      "description": "An executive order, a confirmed director, and 20 straight months of measles: The State of US Vaccine Policy CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -615,10 +633,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Doctors, health officials urge measles vaccine as cases linger and school is starting - KSL News",
+      "title": "Doctors, health officials urge measles vaccine as cases linger and school is starting - KSL.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOalRqaHJ3dXNNdTdEdGRpTEZ3Yl9uYkt3T3ppWnJzbC1SZ1FlbU5aZlV4TUt4ZEVpVDlDVldvTktnRlhPR2hpbXExNWZERHl0SUZwSGUyaHZLSHktRy04TjdVZWh4T0VHTldZdmp1MXhVTUt2NEFOVDI4RjZsWWlpaUxWUW5UNnIxd3hoUVFBZTdYUzVlOEwzUXBDNDdXeVBJX19WZTBoZ1h2dnVaVmxxak9wSGgyaU5CWUpobUpn?oc=5",
       "pubDate": "Thu, 13 Aug 2026 03:36:08 GMT",
-      "description": "Doctors, health officials urge measles vaccine as cases linger and school is starting KSL News",
+      "description": "Doctors, health officials urge measles vaccine as cases linger and school is starting KSL.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -642,19 +660,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Trump signs executive order to break up measles, mumps, rubella vaccine - cidrap.umn.edu",
+      "title": "Trump signs executive order to break up measles, mumps, rubella vaccine - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObThaUzBtano2Ym9kWnZ4bXJZeGFRLTdGai1TcG1Sal82R0lmY3ZONER3d3Q2Q1dSV1hHRjZJbEJoTnhTelBPdE9NY3pmRFJyaGdqN1ljR0FUQlI2ai1ldXpfbnJKWnBzamp5QVdmajN1dHNyR20xTVNfYlk1ZjRHRjJRNHgwYnFwc2FmQmZMUWNpdTBpaUFibGU3N2dGdHJWNGkzYS1WVGJ5a3FFOXc?oc=5",
       "pubDate": "Mon, 10 Aug 2026 21:06:35 GMT",
-      "description": "Trump signs executive order to break up measles, mumps, rubella vaccine cidrap.umn.edu",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Global Measles Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2cyVktrSnlXRmg4VTg0bUJ1azB0RENCSFIxTXd4cmU4alMwdmVxcW00VWtrRmNRbUN1bDlXV1JORkRXbFJpcXZ1U3ByaUhhM2hWczQ1S1l0dVVrNmlUMFl4ZlMzQ21CTEMzMXBaTXZGTTFDVnV3YVNIMWRjTWtRYTVnTmZ2TWhnZnJxMHZLemtQZm05UnlBZWFTdTY?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
-      "description": "Global Measles Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
+      "description": "Trump signs executive order to break up measles, mumps, rubella vaccine CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
