@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-19T16:16:57.889Z",
-  "itemCount": 94,
+  "updatedAt": "2026-08-19T17:16:53.219Z",
+  "itemCount": 91,
   "items": [
     {
       "title": "Back to school vaccine information amidst measles outbreak - News 9",
@@ -12,19 +12,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Georgia's seventh case of measles this year reported in the Atlanta area - Georgia Public Broadcasting",
+      "title": "Georgia's seventh case of measles this year reported in the Atlanta area - gpb.org",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZnVvcnp5UUkxbnFZbTNHaFRJUmNxNnhYZ2lEbWxwam5DSTFTbXE3bi13T0pKM2Y2U3BYOXl0TktDcmZ6a0wtdFZQQVpoQUR1NDEwRGxXRmlkTFRhU3JDZU9zRS13dV9OTmYzVy1uUUU3OWlHMU1wR2VSUGZsbkVZU1ZDWE1EdlJvS3lHc01nMEEzdFBVelZjcDM3RDdubmJjU1JRUw?oc=5",
       "pubDate": "Wed, 19 Aug 2026 15:43:00 GMT",
-      "description": "Georgia's seventh case of measles this year reported in the Atlanta area Georgia Public Broadcasting",
+      "description": "Georgia's seventh case of measles this year reported in the Atlanta area gpb.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Kentucky says measles outbreak is worst in 35 years - spectrumnews1.com",
+      "title": "Kentucky says measles outbreak is worst in 35 years - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnByWUNXRDk4Ti1OYnZHNy1ZYV9tQm5YMEN6OW5vOGdZZVRQaXgxdXprd3prYVN2cUlLYnN5dENhR2tWczBReXlocktXZXU1bnlRZTg2UnhUNU4zZGF3a1hNc2ZXbW9PU3RrQUxGc21ncEYyQ0xaUmFZdmhHc2ZVRmpOY1BJZFRaaVV4am1YdGFkaWhrZUdWRTRJN3o4REs4UzFTNXcwOWo3NUpvWml6MS03QXV0cXRCV2o5NE5TX2ppSFVWUERLR2pSeWk2Ml9qV0k2Nw?oc=5",
       "pubDate": "Wed, 19 Aug 2026 15:30:00 GMT",
-      "description": "Kentucky says measles outbreak is worst in 35 years spectrumnews1.com",
+      "description": "Kentucky says measles outbreak is worst in 35 years Spectrum News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -39,10 +39,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Vaccinations drop in school-aged children as measles outbreak continues - News4JAX",
+      "title": "Vaccinations drop in school-aged children as measles outbreak continues - news4jax.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVzdVNFczSE1oUXRDaFY0TG9Pb0hJVlNjeUg5SUxHR2tQTExna2ZnZnllSXpoSHJWNldfX1k1MUZtNkNGYXRzcjFLWXA0OXlXY0I1NHRERUJFTGhrWWU0OUNOVDJKWFRhQlB1aGMzdWhZXy1LMXc4VjB1ZXNPcnV2ZVRYeG5tMmpYLUlNay00aG5UZDJ1WC10bkljZHUxVzR2eUFPWkRkV2VrcTNGTWVtbVNGQkNSNXBCTW9UM3QwYmJaLWhQeDFnZFNQbTk?oc=5",
       "pubDate": "Wed, 19 Aug 2026 15:26:13 GMT",
-      "description": "Vaccinations drop in school-aged children as measles outbreak continues News4JAX",
+      "description": "Vaccinations drop in school-aged children as measles outbreak continues news4jax.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -57,8 +57,17 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles case confirmed in Otsego County - yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDNvb2luWnkxMkZEclBCaU1YYWVtWG1sWnZ5SzRoVHZWMlkzOC1ZUjRxR2paUlVESUhJQktkY2xKdTlYNV9DRnl2MDVwN1hjVVY2bWlPaGZpSmdxeEFmZC1Ua3VEVFFabGtQdm9NcF9KNkktTXNnakdzZFpXOFUwOXVMRXE4ODNKVmVLV1lSTXdzUGJJ?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 15:06:03 GMT",
+      "description": "Measles case confirmed in Otsego County yahoo.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Wisconsin measles outbreak continues to grow - The Center Square",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUDM2MkwtZDJnM3ZxY3hkd2hEck41V1NmcVowX3YyN1FTSXIzUUpPbFg4RzREYTVCUEc2WWdWRjlXX05xbHpCN1ViSEl2U3NPdkNmU0xZZ2ZpQzNmQm5xaHhuQ2NBeGlDUloxU1gtX1JqOUd3RzYxU20yVC1OMENBS1BGeFlXc0xpU01JcXMyT05ESkNCTXfSAZsBQVVfeXFMTVVmaDVjVTMxR09leTgzOWNrcGV5bGU5MEN5WVhpaWlOdWExYVI1UXo4RTFXQmxOaTRsZzI4TS1LdzFRczRtRzRHMUQyQWd5bzk3NVFFbVZ0c3lXdEJPREJBdk0zaWhVQlJqZ3k0YXFxNFNWNGF2Y2NjMHBMMmhOd1NacWJlT0NxNWp6WnVJQVB4c01Pc2IzbDlpQ3M?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUDM2MkwtZDJnM3ZxY3hkd2hEck41V1NmcVowX3YyN1FTSXIzUUpPbFg4RzREYTVCUEc2WWdWRjlXX05xbHpCN1ViSEl2U3NPdkNmU0xZZ2ZpQzNmQm5xaHhuQ2NBeGlDUloxU1gtX1JqOUd3RzYxU20yVC1OMENBS1BGeFlXc0xpU01JcXMyT05ESkNCTXc?oc=5",
       "pubDate": "Wed, 19 Aug 2026 15:00:00 GMT",
       "description": "Wisconsin measles outbreak continues to grow The Center Square",
       "source": "news.google.com",
@@ -120,10 +129,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "'Cautious optimism': Massive measles outbreak in Buckingham, Cumberland has ended, VDH says - WAVY.com",
+      "title": "'Cautious optimism': Massive measles outbreak in Buckingham, Cumberland has ended, VDH says - wavy.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQm1TSTIydHZjVFJhRUlSVjdDX29CbjFQdm12Ty1sREZGXzcwcndTY2l5dmprbkZmdmR4T1lUOW1GckQ4SFBwTmd3WUxXNUZyUUwtV0ZETGtlMDZTR1p2bWtlMy1mUVVLdjAteDRpLUE3RjJPc3Nuem03MUVTVDJNdS1HLWZobDZyVzBSM3AxV3NVcDdVRG1OYmJDa3NmVXN5SlpfUUVYN1pKdjRNQUVZcUp0U1lJWXBEWFJPR2JXTUs?oc=5",
       "pubDate": "Wed, 19 Aug 2026 12:22:25 GMT",
-      "description": "'Cautious optimism': Massive measles outbreak in Buckingham, Cumberland has ended, VDH says WAVY.com",
+      "description": "'Cautious optimism': Massive measles outbreak in Buckingham, Cumberland has ended, VDH says wavy.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -132,7 +141,7 @@
       "title": "Utah's vaccine exemptions spiked amid measles outbreak - Axios",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NyQjVkY3NIYm5FNXNYWFJyU1dvRHpPT0JoQzRrczVzNmU2eVBnYXBYeGtCdlFKMzFmQXFTektET3lCcG9PWDVGeEVsU2ZTY09wd1ItZkxWUjRfUG1kWXFvbmFyaC1WQ2ZDcDFlWlk2bndldWlUTzYzVzJvWjRXTVlPd0VqLWlzV1BTem9heXMxM3RmR1g3eDVlaDdfRGg2Ulh5YUZjQTVEdw?oc=5",
       "pubDate": "Wed, 19 Aug 2026 12:07:22 GMT",
-      "description": "Utah's vaccine exemptions spiked amid measles outbreak Axios Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs. ProPublica Vaccination rates fall as more parents opt out npr.org",
+      "description": "Utah's vaccine exemptions spiked amid measles outbreak Axios Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs. propublica.org Vaccination rates fall as more parents opt out NPR",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -174,10 +183,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "ASK THE DOCTORS: Measles vaccination remains highly effective - rockdalenewtoncitizen.com",
+      "title": "ASK THE DOCTORS: Measles vaccination remains highly effective - Rockdale Citizen",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZE5UR3pJQktxeWJHWjlNWktyNmYtODJFTE00RlJud0tqVGNZQm5BczVVYnh1a0FQRUttZFRadVRUWm1fSjJYMGdScmkxNF83LWptZDV4N1ZId1RseXlwNVB6MWo5Smxzb09BOFFFcVJJYllkbk5sWFM1aHlLdmpUSWJ4bUNMYng0cWFIbTJsczdZaTJKT2ZraWpYLTlqOXN1OHZ5Z3NMX2kxdm1tWTEtQ2hwRmRXNlBPZzNjVmI4X1VDSFY4TnRLQjlwb1dBVFhnOThVWnJPRVV4RVhrTWxhb2w0SzdMS1VUb1ZmakFR?oc=5",
       "pubDate": "Wed, 19 Aug 2026 08:00:00 GMT",
-      "description": "ASK THE DOCTORS: Measles vaccination remains highly effective rockdalenewtoncitizen.com",
+      "description": "ASK THE DOCTORS: Measles vaccination remains highly effective Rockdale Citizen",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -192,15 +201,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "‘The cure for measles is chicken soup and vitamin A’: Kennedy’s dangerous history of mocking vaccines - geneticliteracyproject.org",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbGF0aHJTYUFLQTlOd3h4WUtDZkt5eUkzOFdrSnQydWFRMzJIR1o2WU5rLXppTmlwdFFTM09iaXBTMEg4ak9YYVhQWFpNdlo1OUtTVlZMSGhUbVpkcFNJcGxMQzdsNTlCRnREOFUzSDd5SFhKd09GRjJuazJjYnNSMUp1QTgtSVZGZEI1RjVMTlgzZFh4cGwzZXZCc251UWFaVGNGczd0YVoxX19UXzh0eHYzR3lwZ0QyM0VKOXlqWGxYSlBRdUdtYWJBcVZSbjlNZDNzT01NYjhnTDcy?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 07:43:20 GMT",
-      "description": "‘The cure for measles is chicken soup and vitamin A’: Kennedy’s dangerous history of mocking vaccines geneticliteracyproject.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Kentucky has a measles outbreak - The Paducah Sun",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdGNfQkQycWU2eVlJYjFsMDUwbVJPcTF2QjBHOE1hakVFdEtLLTNpYjBjM3hYb0pWMlZpaDhtZktoZVBBSzV2akJiRlpiLU4tOTF3Wjl5NzN0aUs5QXNYZ2hlN0t5NW1UN0RQOElmVHhydS01aHNYcVNkZ2FTWVlhOGpKNG9Jc1RxNmtCQXU3NFljUHZkaUY0UlYxQXhuemFqTXVrbkxGM3Q3R19sYW54VUtXUQ?oc=5",
       "pubDate": "Wed, 19 Aug 2026 05:00:00 GMT",
@@ -210,10 +210,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Kentucky health officials confirm measles outbreak, the highest number of cases in 35 years - Northern Kentucky Tribune",
+      "title": "Kentucky health officials confirm measles outbreak, the highest number of cases in 35 years - nkytribune.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY2Nyb3djTVdiR19GdHZNQXZVelk3YWRvc1gwMnVxbmg3X0FkQWtpWWFWSGpfQVVmNFZOY1h2QzE0SERYNmtGTGJxOWhlTEpkQ1o1djdZYmg0b1VERWYzZHFYOTl0T1pzcTRWbmlBaTRBQTg4djlTaDRFeHRZUEhqalV0c244aHJHUmNHWjBXNS1TZjRPLVpITkl6VkZVQl8yYWZFQ2g4NzNaM1kxQi10QkxIUDEtMk9PY3BoUlhVRQ?oc=5",
       "pubDate": "Wed, 19 Aug 2026 04:40:36 GMT",
-      "description": "Kentucky health officials confirm measles outbreak, the highest number of cases in 35 years Northern Kentucky Tribune",
+      "description": "Kentucky health officials confirm measles outbreak, the highest number of cases in 35 years nkytribune.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -259,15 +259,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnZMZUtjWldYUkJWQ0MyMUg3RlRCT2JVbTF5enNRMkRhU00zWno5cVZyY01wdWtsVldETDJsVnV1VGtjVXpzZDhWcDkxWjQ2cTBIRUtTOURxZ1VYVGphZXYyQ0s1WHpPeEFxZ0ViS25OSGV1TXAyNTVDWUJjaUluM3pWREVJNUlUd3JHRklDX3hZSWRTcEpXemNVN0ZPT09YUmlJb0tR?oc=5",
       "pubDate": "Wed, 19 Aug 2026 03:10:22 GMT",
       "description": "Allegany County DOH reports 2 positive cases of measles: Positive case in Steuben County WHEC.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles outbreak spreads to Grant County, 36 confirmed cases across southwestern Wisconsin - WAOW",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVHZoWURVaXF6S0FJMnJOV2NrYmNPRGVTT0NxMHRZeXhMWGt1NnNjcGh3YnBfNEpUcXhKeDFJUWhhaDZ3cDBkYk1ZRnRjeEd4S2s5aWUxSTRyZ2R3NUtpX1FnWXpCY2Y2dnhWU29IYkZvR0ROZlBrck8zM0RUbEtXa3R0cDR6WFVFUFdPODluUnNhai1PTVp2Rl8zYTZIUnRxbnkxTHIzZENITXB2NDhscDZfQThFV3QyV2tMNTIwVmpCRmxJcWphcFZsX1lJZE5IdXJDN21RYnFiTnFJOWNqS0I0UmtMZXBxSnZVTDJQNHRRSGliX1lwNA?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 02:58:00 GMT",
-      "description": "Measles outbreak spreads to Grant County, 36 confirmed cases across southwestern Wisconsin WAOW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -327,15 +318,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Make Measles Great Again - The Bulwark",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sanU3OTV3bnRXdnVEWGdCcERUMVpLUXJvcWd0TjZvbVZYQ2NST1FjdFFkcTFnYUQteG5jZy12MHRIUWNia0Z4Z3l5d3VEOGZNN1hSYk5qX2F0NTVJejBNVnNfbw?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 00:41:56 GMT",
-      "description": "Make Measles Great Again The Bulwark",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Unvaccinated metro Atlanta resident diagnoses with measles - FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXJkenlvUW5td1dlb09kUm1GaDNaUm5vY1JVdm1XOEktYm1ETW82SUhkSjl0eHVDakdJNHpZUlM4T0VackJBR0RsWk9NQk5kb1d0Q3pWZE1weWF0X2l4bGhobnI2akFhNUo1WUo2Z1c5MWZEbVI5ZERGWDA3R3UydXZkVUxQSTd4NGVtRzV5dw?oc=5",
       "pubDate": "Wed, 19 Aug 2026 00:20:22 GMT",
@@ -345,10 +327,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Allegany County reports third confirmed measles case, 14 presumed positive - democratandchronicle.com",
+      "title": "Allegany County reports third confirmed measles case, 14 presumed positive - Democrat and Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczB2RlVvUUNWcU9TcDFhMlF3T1FHMllVVTE1LUFNZGVCbDZUODJlVFpCaTQ2N3hnMEltNWYybUlDclZOTzd3UGh2YTR5SDVmXzE5SEI1ZmwtemY3TWNPRlptRjhoZUlxSGZtYktWSWpxUU9jczdZOTJrMk9pUkJTRXBmSnJxLWdOcEYwMzEwSHBOYjlILU40TENKQ3RJT2NvX0ZNT2l6TFRYS0w1eFg3VTRyT0k1OWpr?oc=5",
       "pubDate": "Tue, 18 Aug 2026 23:52:00 GMT",
-      "description": "Allegany County reports third confirmed measles case, 14 presumed positive democratandchronicle.com",
+      "description": "Allegany County reports third confirmed measles case, 14 presumed positive Democrat and Chronicle",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -358,24 +340,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1RFcG02OFRzdnpEejVPSkIzM3FRZkhLRFdhUE9qU19EVkIwNnhhbkZDVXVXeE1IdGJ4LUYwWm54ZkZHRVBKbDhIaGptUWdnZjl0NFBSSUpPMk9SRjJqOUlEb25tRDhDaFpDTkVjUzNkWEROSmt3d3ZCQ1VXaVVfRENQdjd3TVY0U3RXNk5KX2tVYkRRY1NZa1ltTXdDWEwyOTRwbTJnbmdXOEFrMnBFTk83RTBLZzRmUGZVMzZuWjVhTHFnVmtEN21XT3hWNV8xcFE?oc=5",
       "pubDate": "Tue, 18 Aug 2026 23:50:00 GMT",
       "description": "Black Hawk County health warns of Iowa measles outbreak risk KWWL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Davis County School District taking steps to fight measles as cases grow - KCRG",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUJxd2RUNUlCMDhWbE12X1k5Uk80MEpybUlUbm1qRHVPODA5b0xUTlJ2YVo0YWlSeS1PaHZLMFdZSWl4dHI1TkR3TzlUV0V2YUdjSm9zdkFjdjdyYlhRMjZ4UThrSmRLbkhpSjN1ZHhMOFFSeGJNeERMZUZ5NkVjZnAwRlZ3ZGo4bmlMM1FhSzM1NkdkOFFUOHhaSFdFTVlG0gG0AUFVX3lxTFBoUmtlOUszMy1IbWFuRkZXWTlUMmgtdTgxaXA3LVFZRHUxZnVoNmtmQUtwZG5lemlnQWU4eUxNRmt4UWJKYUQ4UnR0VXNEVnVvbmZ3VlI3OFFjcDVSRXBEcEFVWTFCeVdTRS1OZ2RvZWtZdWpSZTgxNWd4VVJEVzNjNm94NXljTVBwdHVJZS1DMGpkaG5wSkhDeHplenpyck1BNTZ4NUZDRUxvM0pwQ1FETzZEcQ?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 23:32:00 GMT",
-      "description": "Davis County School District taking steps to fight measles as cases grow KCRG",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Arkansas sees rise in school vaccine exemptions as measles spreads - KATV",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNTjA4eWZfTlYwMTUwR1dJZXpEYVRvdWV3cGNEYVd2WllpSDZ5TVB4VVVWWXFSSTV6cnFBdWpBRFRPanlfX0U0dG1JeldDX2xoQmpRN3ZWMW9oYmF1R2Vxd0ZlZmNXSEZjR3FfTFgyTlBpa0hiOUZZdkVHOVRvdExQYm0zVktSU2dTblNxUE5zTC1jSktyWTFQNkJkMGI3ektKNEFPOWFDYm9ESXE5eTFtUTl1ZkdDdHhZWUZtVGhXNUNfUW43Q3hpWnJleGJpenlhcWJuYWtjV3N1WXpJZEdYdXhQQXdoWF9oODlENWVhUkVBZi00OTdoVW5oX192TUhQa0w4aXcyRVdkZTNzZzdKYmdKei14UmxHLUNWTzloRjNpSkFTbXlhZkJvbHdsM0Z0OHY1a2VJVEgtdTBBenRPeDI4TWpWQTVOdFJpZWl3THNxU24tODg4X3A2SHU?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 23:18:32 GMT",
-      "description": "Arkansas sees rise in school vaccine exemptions as measles spreads KATV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -453,10 +417,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "County vaccination data may mask school-level measles risk - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVUxoUy00a2k3dENKbnFGUWR1bHdKSjlZVEdfaDRQT05xYXZWbHdsc2FDdGpWMkxjQmd6WW5OaFU5N2MtUk1IR2xkckp6SElNVjZkc3FxS1VDT19TbFZUM3gtaVhBMnkxMlQzVm1UUFV4Q2VRMjQ2VzE1M3NjSy1nRlUxY1Rwb01DQkE?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 22:00:03 GMT",
+      "description": "County vaccination data may mask school-level measles risk Medical Xpress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "More measles outbreaks feared as children head back to school - Northeastern Global News",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SSzJuYWxHVFhTVlRmaXZ2SVZWN1MxcDRHVWFmTlprUm81T1B6ZC1ILUp5cXhrNGFzWWM4VjFSdTJNTTljRkE0M2FVb3hJUWZBdXVNeTQ3bWxLSDBhN1lyU1I0YXY2YWU3RnBIbVFZcFgxOWY4YlEtcm1CenJTXzQ?oc=5",
       "pubDate": "Tue, 18 Aug 2026 21:53:53 GMT",
       "description": "More measles outbreaks feared as children head back to school Northeastern Global News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Buckingham County Schools Reports Zero Measles Cases as Outbreak Ends - WDBJ7",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVXgxQzFndXo0aDU3OGdiZFZfVGQxWS13cVBTQ3ZtTHVORFpxcnRkaDdYRm1jaExQX0VaQm1zVkthT0N0MGV1ZE5nT3U1TmZyOW1qcm1vTHR3QkFacU9SWGpVWkY0WEhtd1p1ejVxN2tVanZmd0VQSWpDTVNsOC1ySVItQVZOWm5WZU01cWp3bnE5c0laeXFKTTVweFZPNXpkUVRfVFBfSlBSZw?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 21:45:00 GMT",
+      "description": "Buckingham County Schools Reports Zero Measles Cases as Outbreak Ends WDBJ7",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -480,10 +462,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Outbreak Grows to 36 Confirmed Cases in Southwest Wisconsin - Urban Milwaukee",
+      "title": "Measles Outbreak Grows to 36 Confirmed Cases in Southwest Wisconsin - urbanmilwaukee.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzJwVnBTcTZJR1lRNlJ3enFLRFlIMGx0ak5XRVJpUnVMVk11RTlrV1JpbGMzWnh1RnVQLTJweTVZY2t2R09tdnRKaF9sTHRGd3BKc1ZYbUVRQkhsdzdiX1BlR2dQZ3FKZHRpRWs1U3RNQ19sd1pqVF9EQW13YmVXaXJPU2pXRDBfMzRlcHZkT196bUJsY3BoV3RtZUwteUFMRi13TENkaG5OQQ?oc=5",
       "pubDate": "Tue, 18 Aug 2026 21:31:00 GMT",
-      "description": "Measles Outbreak Grows to 36 Confirmed Cases in Southwest Wisconsin Urban Milwaukee",
+      "description": "Measles Outbreak Grows to 36 Confirmed Cases in Southwest Wisconsin urbanmilwaukee.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -498,19 +480,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Another Measles Case Confirmed in the Finger Lakes - Finger Lakes Daily News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPczd5UFlrLUpVTUhpc1YzRVhzTEZLYVlmRElDUXpfbjMxOEdGS3Y3aHpHYUNJaEJuWnJqOExKZU1mT2xpMlE5MzBWbGYwTFBpZ3ZzWUtBUEdrUkp5V2Eza2lCUlNEaWJ4X19GT0taYTUwSUJCQ29qSDVyV3dqVmhNdFI0VzdqM0VEeGZaVmsyS0RVR21vMDFKRlhB?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 21:16:48 GMT",
-      "description": "Another Measles Case Confirmed in the Finger Lakes Finger Lakes Daily News",
+      "title": "Steuben County investigating confirmed measles case - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzM0V25jVFg1cHUtT0ppYTBBMW5xc1FfRGxHY2F3b1h1NVB4dFlGRmdpQjZON18xc0dWWmFGQ0p0WFg5eVg2eUZERTQ5YU1lUHdETXlpeTZXWUtUcngwN1FGbXpzVEJnMDNPSy12WXF4V1ZGUXZibnVlQlF6OG40czRyRnJNajNHOG91Qy01RXA3LU04YUlacEcyVkU3cnR2ckRidnhIZi0wNnVOYzdaeWlXX2g?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 21:16:00 GMT",
+      "description": "Steuben County investigating confirmed measles case Spectrum News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Steuben County investigating confirmed measles case - spectrumlocalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzM0V25jVFg1cHUtT0ppYTBBMW5xc1FfRGxHY2F3b1h1NVB4dFlGRmdpQjZON18xc0dWWmFGQ0p0WFg5eVg2eUZERTQ5YU1lUHdETXlpeTZXWUtUcngwN1FGbXpzVEJnMDNPSy12WXF4V1ZGUXZibnVlQlF6OG40czRyRnJNajNHOG91Qy01RXA3LU04YUlacEcyVkU3cnR2ckRidnhIZi0wNnVOYzdaeWlXX2g?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 21:16:00 GMT",
-      "description": "Steuben County investigating confirmed measles case spectrumlocalnews.com",
+      "title": "Measles case reported in metro Atlanta - 11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPemRtZ0lscVl4X2dXRWs1Y0trcFBXUG5lTldXLTV6Qi1mOW5TalBEb3IyM1Y2Y1RMdDFNcjdmemdMNVZldG02aFNlSUhBeU9SQ1VocmxyNmZ1YW9uRE1RM25SY0o1em5ZSVJzMzEwRjFHYURYcXRFZEM2cmdwaXVULTdIYzc5a2QyUjkxMFdrVGR0WjdGVEpSUVpQV3cxVEZqdXd5R1lBSzZGZld2T1c3ZTMyVG92U1FJMGgyZw?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 21:10:00 GMT",
+      "description": "Measles case reported in metro Atlanta 11Alive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -529,15 +511,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOUpCTDBMeW1zZzBlOE9mTlpYMGlaNVotVlM3enNFSi0yY2JDUDF2MDZKbkZCRDB1ZTJqSVFVbS1VQVp1SkNnMHdlMnVLYVQteGQ0SXBraGN2R1hGVkU0bU0wNDAxcmN5aEMzM3NsdXh0UWc2YmJnbmlmaWNtTWI0WDFnazEwSko2M1pFWjNTd2J6TGNUUjV6UmpuUHUtaDhkUjdCVzBsRktpTGoxd2xwZFhOeVNxb2cxWnZJM1lLMWdOZDBCc3EzcHRsdFA?oc=5",
       "pubDate": "Tue, 18 Aug 2026 20:58:00 GMT",
       "description": "New measles case confirmed in unvaccinated metro Atlanta resident, Georgia health officials say CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Confirmed measles cases in Iowa reach 12, 1 case in Bloomfield - KTVO",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcVpaQ2p5NFFzcjJRN2s4SjVJNFdTZ2hfaE5FNExEcExfT0l1Tkd1dHBsUkZsQzFpTi15TlZtTzRza0tBV0l0MzBOZlg2YnZVZk1ZSl8zM1lTcU5XU0tyVXNhTUhycEZPNjNVMVdLUVg0M0Q0X1Q2cWx0V19RcTNja21ENm9leGMzN0J3SldyenR0ZUl1ejh6ampObk1aZDdGYkpjUHJDbnU0Wm5DM1YtdlNURS0tN09JLXFEalNLRTh3cXlQSXZ6dVlQZEN5TTJ6aDMwZzh1cTJEMDg?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 20:51:00 GMT",
-      "description": "Confirmed measles cases in Iowa reach 12, 1 case in Bloomfield KTVO",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -574,6 +547,15 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcG1BRXhNbXBSdWR0akFsM1FTcWstU0w0MWNwcUx3SkhUUmdJaXlON1IwX3ZOdEZJMkVja05SNFBKb3lhU1owbXF4MDlxZGI4bFppcGtxTnBNRFlTbTdTYVZjQVMzQVEtNHViOTZJT1R1ZS1OdjNjelljM0RFRVFjdXJYanAzbDRZ0gGcAUFVX3lxTE42UllpdjFMcWk4cFh6UUVKc0RQa1R6X0pZc093SGRuUmlZczZ3T0xaMk9IYTFESVhGLWRyWGpDNFRWVHFZakpfdjk5eUIxOWxvSWNlYU1CeHpPb2ZNcG84NDJmRkNkMHZnQUdxZ2FkbklHRkh2NzZsNE5uRDlXbTVIUVRyTlFXSEwxZ3Q3ZkRmV2d5S1Y3dlNGVnY3cA?oc=5",
       "pubDate": "Tue, 18 Aug 2026 20:14:00 GMT",
       "description": "Measles makes a reappearance with new case in Georgia WRDW",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles outbreak grows to 36 confirmed, 3 probable cases in southwest Wisconsin - WPR",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1JtRXJGN0RKSlBoSGk0WEprRk9pcTVpRmxpWFJmT1N4VW1OSEk2am9sYmtIa0txSDhlQ2Vld2d5bWxjYndhRHpudmVyQkVuZWxlLVhsSUMwR1dmdUJWbXcwWXMzeS1TOXQ0NHlydi1BZWpMQng1UjhWVmV5bldMRU82NjU1R0w2OG5Xa3dIQ1RFZFJJZ0E?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 19:55:15 GMT",
+      "description": "Measles outbreak grows to 36 confirmed, 3 probable cases in southwest Wisconsin WPR",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -660,10 +642,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases confirmed in county bordering the Dubuque area - KCRG",
+      "title": "Measles cases confirmed in county bordering the Dubuque area - kcrg.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd1NTc01sTUl5eGRFWnZ4cFhDXzRmN25TSU4yX21fbFN6LVB6Vi0xNDI5MnRqLWx5cXdwUlB1Y0R1aWlkcUlzTlp2THI3bi1mYWVCQ0xRdFZUdEVGWGVsdTFvcHlsajdUQ2RWUEVCWEpYeEN2TkU3QXd2bmRTUjJOY0FWeDFLbnR1a21N0gGfAUFVX3lxTE03eW5QR3UyMHVURUxCY09zMEN4NEdJR0d2aU10VTJJMXFBb1hfXzJVUTQxcFB4VjRHWW5QZlRHX2lMRl94dEMyelVGSUVLVmplaEI4TXFKdkZrU2E1THcwVzdNNHRyd3pYQ1JjRWdBbGRJNXljWDZzQ2MwN2dlcHJUUWsxTk1ZNFZHYlctS2QyU2Z0OWRzNkgwYlZleDZVbw?oc=5",
       "pubDate": "Tue, 18 Aug 2026 18:44:00 GMT",
-      "description": "Measles cases confirmed in county bordering the Dubuque area KCRG",
+      "description": "Measles cases confirmed in county bordering the Dubuque area kcrg.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -696,10 +678,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "County vaccination data masks measles risk - news.cornell.edu",
+      "title": "Measles outbreak in southwestern Wisconsin grows, 2 cases confirmed in Grant County - Channel 3000",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV0k2VmwzMjY5TVRLbFNNTmpObkVXRUdvQ0FTdnVnQUNfU0czcDZQUHV5NHJzck9ORnBYN3poTjFkNk84cFhVaFFvcHYxSVg3UEFoMnhDMHE0ak1QaTUzSkNzQkNuYzJNTEp3RElQSWdOQjFySUxtdy1abEJMZzNPMjlTRU05SzVBMXQySFNPMzd1Z3dYXzloeW1WVHNKRGR0UUJUUmktaVdPTm1VR1BkR3cyaUFlOC0tRmFMdnozUXRSaDBEZzdJODlMR1V5ZTFucXJmRUFOQkVOX1VkM0x0dXlBVHJfS3FNSXlOd0M1bjM5NWx4akpKOQ?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 18:10:00 GMT",
+      "description": "Measles outbreak in southwestern Wisconsin grows, 2 cases confirmed in Grant County Channel 3000 Iowa officials identify places visited during measles contagion KCCI Davis County School District taking steps to fight measles as cases grow kcrg.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "County vaccination data masks measles risk - Cornell Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVU5ZUG1rSDlMWFc1M1JXbTF6S2RBZi1PTmNaYnlGVFUxRS1hMDltYXE0Sm5lVlBzQllYNkFWRmI2eHdNbzBaaXYyYzVIakRnaWpsald0bUZEWTB2YzZXUWlmSmE0U3N5UDVrV3ljLUZERUFiTFVjanlXMWxucEY0SmVFUGtvX1pXa2xR?oc=5",
       "pubDate": "Tue, 18 Aug 2026 17:56:06 GMT",
-      "description": "County vaccination data masks measles risk news.cornell.edu",
+      "description": "County vaccination data masks measles risk Cornell Chronicle",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -741,24 +732,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Kindergarten vaccine exemptions jump to another record high - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUzlFUlhjR0ZXV0M2NHFzU2czc0pYQlBSczNLbzhLZ0hiRVczQ2pWdllNT3YzU3VjcTVjZ0dGQnd4cWpDQUhkQklzaUE4cFJGWVE2ekJ1N3E0OXNQZGVRRk9zOXk1MnZRcjgwQkpHVUMwWkhiS3lqMjhoYmwtLTUtUERYWWhCQTMybWt2RlpUN09DVjFzWnJPYzFPSFhNS1VxOXJHekhYM1pxQQ?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 02:56:34 GMT",
-      "description": "Kindergarten vaccine exemptions jump to another record high The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Iowa officials identify places visited during measles contagion - KCCI",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVGdxWUZEdkVFX3dKbk1pZlJNc1VsbzFzNlZzdWs2cHdNR3hBZ2laNU9ZYTY4eDdGaS10Umw4Y2tKSHpkWTJiMG9reTB3Um1TSmN2M2FBTmdyRnIyV0JrSURzSVNDUzBQaGNpYkpGS0dPaDJySEFwT19XTUsyZkZzbFhQRXpPNHg2MG9rZWZ4d0RuQQ?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 21:32:00 GMT",
-      "description": "Iowa officials identify places visited during measles contagion KCCI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Kentucky health officials confirm highest number of measles cases in 35 years - WKYT",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2RyNGFjVTl2WDlWZEFmZEkzc1hKTnR4eHFtaXNpemsyMW5ncHZGS0NYV2dNcTZ1S2dxanJ2X0h0R1MxcmcwZWFkcFhZdVRzeVlmVVhsY1lhZWpRbmZVNGcyaDkzeUE1MThJemY0ZFhydGZhVTkwLU11VFFNUzUzM2ExRkZ4QjRGUjNkM1ZwYjJXTmd5bVRhRS1rMzlhZmdyZXJ0WUlrSdIBuwFBVV95cUxOdzNYZFpJTGRGVl9pd1l6V3d0NElPQ1hBcFR4dEpfMHFtd3A4REJyTUFNejBjUVhTUWVqSnc5WVRGVFgycW9GSGxJS0dNbFRfTDljZ3BmbzMteGVVWWJXaVlyTWZiM1oxRjYzVm5xWUJUX1p4NnVHaWs3ZFdJYnRkaF81QmdOM1RSWVB1dG1BTktqNl94T1BVa3pnMUFrSVFZNkpWUTllcjhES0dWUU55WURKRGM2azdjeFlr?oc=5",
       "pubDate": "Mon, 17 Aug 2026 21:20:00 GMT",
@@ -768,19 +741,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Iowa HHS confirms new Measles cases - KCRG",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42alh1dzNNX2h4dGFUcUs5aU5Lc2czcUgwaGZCWjFuekExVU9uVVBxLXFHVXV6LWRwN2FBZW9UZUR5SGRMSkxXZGp5NklnN2hPbF90MWtSa1dxUTNlUHBXUjdSRE1iWm5FRmtuVkNvQmViQk9FU1NN0gGLAUFVX3lxTE04OVd5LUdNbFJfb05iMEt0R3oxVUJTeWxzb3QxbzI5MHhUb2pjYmppTUNZT28tenNNU2NSbVhwQlJUamFEZjhlOGIyM3pWQlJPaE41cWNjUFNSVFQ4R211ZkVpQ1hCMWs3b1NYTVA0Vy1lLW9rSVREb01QRkRxbjZwSVBXeTVIOWg0aG8?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 20:46:00 GMT",
-      "description": "Iowa HHS confirms new Measles cases KCRG State health officials confirm 11 new measles cases in Iowa The Des Moines Register Measles outbreak grows to 36 confirmed, 3 probable cases in southwest Wisconsin WPR",
+      "title": "Although it’s uncommon, vaccinated people can spread measles, study finds - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2prbFFVaUp0ZFhibGM4X0JpOTBPOVc3ZzZ3bTgxRmFTMWlzLU9TRVpzT2JQbzlvU3R3NUZlX3B1SjRLeGxvd1Fwa3FLMXFVLUl4REtVcG1ldjF4cS1nVUUtTzlmdEVMa2Z0TmRoZEZEMGtJODNWMHBUQnVxUXY1TGZMSnlpRFhLYU5DUnRxVW5DT2I1Zk0wd1k2RWdQSnFHYU8wazRUU1BkbTJ1LVgtbFN5ODVNT0pm?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 20:45:00 GMT",
+      "description": "Although it’s uncommon, vaccinated people can spread measles, study finds CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Although it’s uncommon, vaccinated people can spread measles, study finds - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2prbFFVaUp0ZFhibGM4X0JpOTBPOVc3ZzZ3bTgxRmFTMWlzLU9TRVpzT2JQbzlvU3R3NUZlX3B1SjRLeGxvd1Fwa3FLMXFVLUl4REtVcG1ldjF4cS1nVUUtTzlmdEVMa2Z0TmRoZEZEMGtJODNWMHBUQnVxUXY1TGZMSnlpRFhLYU5DUnRxVW5DT2I1Zk0wd1k2RWdQSnFHYU8wazRUU1BkbTJ1LVgtbFN5ODVNT0pm?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 20:45:00 GMT",
-      "description": "Although it’s uncommon, vaccinated people can spread measles, study finds CIDRAP",
+      "title": "Confirmed measles cases reach 15 in Wisconsin - FOX6 News Milwaukee",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9meFQ4b3o1NDlrMks5d2NYd2lXZHlON04zY2RZUHJRY1VIZmVmN2FDVmtmZWJyeVVjQVpjRXN3VlMtNGUwOFM3R18yR1piUHBWRXg4cVlhS3FrTy1WbUctQ25tMU5EMmYtenc?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 17:25:31 GMT",
+      "description": "Confirmed measles cases reach 15 in Wisconsin FOX6 News Milwaukee",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
