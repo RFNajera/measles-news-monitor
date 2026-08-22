@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-08-22T14:15:42.245Z",
-  "itemCount": 89,
+  "updatedAt": "2026-08-22T15:15:29.056Z",
+  "itemCount": 85,
   "items": [
+    {
+      "title": "Low vaccination rates drive southwest Wisconsin measles outbreak - Wisconsin Watch",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc2ZQazB1RjNQMjh0TmctR3N0UGxrVEdCakQxNGN4VVpqalBvaW5qLUhGT292WmVQZFFKNklSUTRPcXNMajU5Q0pRN1RvZTFobjZjd08xUWxrQzJ5NUllSlh0WERFZ0hCZGlzVmtmUjFHY3Bwanl1RjdHZUs3TEFocVM0WmpZZDRNeWFneWF0YlF4NGw3aHQ5b0kxWmM1cl8xQUE?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 14:52:26 GMT",
+      "description": "Low vaccination rates drive southwest Wisconsin measles outbreak Wisconsin Watch",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Measles cases reported across NY as school year approaches. Here's what to know - Lohud",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGozbTZkSTR2VmdRdkdsNHRDbXRfZ05OdE1yU3EwQ3pDa0kxR3dVWlZ1WFMwS1BwdG9tcHNnUVdHMHFFd3U3T0Jma195VGk1S1g1NTZwamw0cFo4OS1SbjVjUzZYa0V0dkdjNlZ2a3dXV3VyTENCTS0zMC1hOUNtNXllRVBLQUk3ZUFOVWJGbTBVeVZoM1FXSTRBU0hkNUxGcnBaT2ZDcw?oc=5",
@@ -174,15 +183,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Low vaccination rates driving measles outbreak in southwest Wisconsin - WPR",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0d0c1dKSDJZOUlCeVAxWTc5UmdESUFOY0h1N29pd3R3dmd4UUFVOVlNeFNHb1dUN3hRdjJSYThzMXRBa2tobWp0RkFFSkNpeHFJNlNwYkRCd3RDeFJSbG9vUHJFUGdvQmxQWjFlZ2RPMHJxY0NjT3k5WVlEX3J3LTREemlSRlFDUmVF?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 22:26:02 GMT",
-      "description": "Low vaccination rates driving measles outbreak in southwest Wisconsin WPR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Wisconsin DHS gives update on measles cases in multiple counties - WISN",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmtUNjZTc0NTaGhMdXRhZ3FkdTdiX2hYemJsZlAwQXlteDlZR0xsa2Fac3ZGLUoyTWpwbV9MT0xuejlPSmViZFJOTlZlTFc1amw2c3dMWkt6aV81UVAyY1hLaEh5WmpmTkpCRXFrOElkc3lvZEF2amlIa1hkQzlzNTVZUjJ2dTV0NVNPMS1jdlpSdGdUU1JBUGc3cW1mR3hfUXpKcg?oc=5",
       "pubDate": "Fri, 21 Aug 2026 22:22:00 GMT",
@@ -223,6 +223,15 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY3dMblJORWV6MnF2TXVDdVNnWmJ0X0xpNDlyOEJNS0lwZFFJZ2RPVEhSSWF1R1o2aHlOcUllLU8zNWx0ckc0dFhVMjB6RGJlXy1PNW95M1FfX3cxdm9aM0plQ1NyRG1RNTRYY3U5OTVjenJtX2hvVGJISnBsT0xndzRxbVhrQTZEWEdQdTg3QWg3c29mMzBoTVVQdzBPNzjSAbMBQVVfeXFMTzYzbVJLYVV4TU1BeF9seGdqYVZFclFLVmlsQUw3cUJqTkFTbXZUbzFIc3JuRFR0amRsdlVVelg1enZ3dGRpdHh3aTFackZFNnhSTm01UEZUWEg1SlpRV0hqOG80MGpNOVRZQmlvZlBwWnE4NXdQUTh1bjVQN0RuN1pkcTRlVEhBVVpGMUpIT3dNQk5xWGxULU9ia2dGTFNqQjFYNjYxSlZ4OU0wcGRlWHhvNGs?oc=5",
       "pubDate": "Fri, 21 Aug 2026 21:41:00 GMT",
       "description": "Bangor wastewater tests negative for Measles after recent health alert WABI",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Seneca County officials confirm 2 more positive cases of measles and 2 'presumed' positive cases - WHEC.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkEwaUhNUmNZMmc4cWthaHR2SlJxcy1lWE1GMERzaFluVjFKT2ttWjRXb2tfcGJPcG5PRzV6Q0xFYkk2Q2lsNlRhMlZqNkZiTWRMQjR4SVFYaFYzd0VXcnBJWFVMeHBCR2hKUU1iYUVmYUh3TGtBSXlRWVgxOU45R1VfRU1lVlN6WktSOVNJMDRtWkp4dVdIRl9GQzdYTGdya2paQjRLdTN3dGNIc1pzdmlyWFNsanlyQU5CQ0hHSG03c28?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 21:20:54 GMT",
+      "description": "Seneca County officials confirm 2 more positive cases of measles and 2 'presumed' positive cases WHEC.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -309,6 +318,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "California maintains school vaccine rules despite Trump order - capradio.org",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTG5obzkzZ3VqMzlvQ1hYQ0dueDI1X2JMdWZCLTNHckp5Wkl4UUwyVHJkQlk1V1RscEluaHNoWFlOb0lZTmhnajkzN1B5R2pxM0ZzWHNTdnJZVjY0Wk1yY0RsRkpCZDIxbEVWS2hOUTgxbzZyaWNRTHRvb2Y2MF9FclJWTmdPTnBPcmMxQWp5bjVHVGF5X1BXSmNBUmxsRlAteF9SZnNtbFJaVFk?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 20:30:36 GMT",
+      "description": "California maintains school vaccine rules despite Trump order capradio.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Hershey children’s hospital is warning the public of possible measles exposure - PennLive.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTh6WU5WRTJCbHAzN1UwNnVMN3VMMFJnWDdrRlNLaUI5ZnE4QkJoRnBvQ0hMdlNhSDZfR2xheW54akU5NnduUjh6R3J0bmNiVk1JQWdsOTQ5d1F3bkxTeVNBcktvekppNGh4eVBMUHlCbXp2MjNHcGxkemZ6WWJYR3ZUM3BTYWpkTnFkSFBlYVA4NGFKaVVYU2pXTDZsUjdJMWtGX1U4Y2FaRzlRcnpKNG5sMHJyMHFYUlZwY9IB0AFBVV95cUxQTVQxWGlFZEI4QTlQYmRiM0R4Zmg3ZWV0QU1QeDQwRWVpZTdtaGJ4V04wb3JBb1RTVXJ4VmtQZlBLb29yQzlOU2F2dUl5Y2M2WHB1QllFQUoyY2duN1VjNDdBS1Y5Q0ZSY2dPQlJkRVhqSk5sYi0yWVFKQ2xScW8ycWg3clZzcThBRzBzZEFSS3VGb0tvTy1MYkJQZTBIbUdxRG5vanFFQkIzWEF1YmFmZS1maEVnei1QWU5ndEJwLWFrV3ItY0ltRGhXbEdhMU44?oc=5",
       "pubDate": "Fri, 21 Aug 2026 20:24:00 GMT",
@@ -372,19 +390,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases in southwest Wisconsin rise to 41, with 7 more cases probable - Channel 3000",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYThNbXNfUmtfM2xyeVBPeHkzTGpIMEJRWGtEdEZsLVBVMnpVM3NQXzJBTnBOODYzc29uSkN1TU93VGdyRHc4RHJlaThpbFBra3F6amw3c1RvSEZEMEdyRWhOSC1rTDM3dG5vVkI5QjVHclZ0c1VBM2hMWmxhYzc2cE9aREluMXlrNzQ3bEJzTnZoNkFfVG9tb3dzeGRudDhHMkJGWmU2a3Nybk1RcnQ0X1kxaXhOZ1FLaThjRjQ5TEZNUUUwcXp6eGtWQXM4ZVRLRUJ0bjNkNmc2QnJIS0Z6WHlJb0hmTmRzUlhWWTZn?oc=5",
+      "title": "Update on Measles Outbreak in Southwest Wisconsin - Urban Milwaukee",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVI4MEpvMWtERDFxYVJMazJGb0xTbEZuRTI3RGE5TDZud05aTnVDS0F4SjRVLXdVU2dSdHZibzVPUXA1bWJyamtiTThoX19ZN2RQa2U2RUtOSTdLUTZiOVRYRzYzUGhtZkdJZHA2T1hNa01UYWE1Mmt3cC1Kalczek4tVTQ1OW9xekdhNkZQS1VKX0hn?oc=5",
       "pubDate": "Fri, 21 Aug 2026 19:18:00 GMT",
-      "description": "Measles cases in southwest Wisconsin rise to 41, with 7 more cases probable Channel 3000",
+      "description": "Update on Measles Outbreak in Southwest Wisconsin Urban Milwaukee",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Update on Measles Outbreak in Southwest Wisconsin - Urban Milwaukee",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVI4MEpvMWtERDFxYVJMazJGb0xTbEZuRTI3RGE5TDZud05aTnVDS0F4SjRVLXdVU2dSdHZibzVPUXA1bWJyamtiTThoX19ZN2RQa2U2RUtOSTdLUTZiOVRYRzYzUGhtZkdJZHA2T1hNa01UYWE1Mmt3cC1Kalczek4tVTQ1OW9xekdhNkZQS1VKX0hn?oc=5",
+      "title": "Measles cases in southwest Wisconsin rise to 41, with 7 more cases probable - Channel 3000",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYThNbXNfUmtfM2xyeVBPeHkzTGpIMEJRWGtEdEZsLVBVMnpVM3NQXzJBTnBOODYzc29uSkN1TU93VGdyRHc4RHJlaThpbFBra3F6amw3c1RvSEZEMEdyRWhOSC1rTDM3dG5vVkI5QjVHclZ0c1VBM2hMWmxhYzc2cE9aREluMXlrNzQ3bEJzTnZoNkFfVG9tb3dzeGRudDhHMkJGWmU2a3Nybk1RcnQ0X1kxaXhOZ1FLaThjRjQ5TEZNUUUwcXp6eGtWQXM4ZVRLRUJ0bjNkNmc2QnJIS0Z6WHlJb0hmTmRzUlhWWTZn?oc=5",
       "pubDate": "Fri, 21 Aug 2026 19:18:00 GMT",
-      "description": "Update on Measles Outbreak in Southwest Wisconsin Urban Milwaukee",
+      "description": "Measles cases in southwest Wisconsin rise to 41, with 7 more cases probable Channel 3000",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -417,15 +435,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Dubuque health officials: Check your measles vaccine now - KWWL",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUS1JNkN2ellLWWxLQkpsMVZoX3F4UG41YjN0akpQYmxjWmY0a0ozSG1HNk1GWTRQVFo4U1ZMTWNQV1FZRFc5SE1TWnFFMHZLeTlmN2xLaUplaFRUcF9xZDRpX0Y2UV9IUGpwSHZXaUhKVjdlVU5VTkRFVE8yX0xEcFFJcWtjRnJMZUNTaEZBRlhaSl9SZEd5NGdyc3ROZVhkTld0V3ZwUG5SU2F1clB3LUFKM0cwMGpKM3h6LVhSejZVRXlCaXgxYjgwdw?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 18:30:00 GMT",
-      "description": "Dubuque health officials: Check your measles vaccine now KWWL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Dubuque County urges MMR vaccines as measles cases confirmed nearby - KCRG",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaENSbG9LdUROTGlKcGhyWWZnQnlqaUNyUEtCWnFfam1DejJtbFBHTUFxUWJxMDFLY09ZZWFQRnc3QkwxQ2pHVFBVdTZBMTRPNUd2SUE2bU5EQ1djbF9SRkRLUnc4Y2VBVGZDbXlpTnRvemtsc3IzVEpIdmZUdnVlVGxrLWxGbURWOFh4UXZob29IclFJOF95N0hYYWY3UQ?oc=5",
       "pubDate": "Fri, 21 Aug 2026 18:12:00 GMT",
@@ -439,15 +448,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWERQVUR0UFNEZEczbnZKTzZuSHZZUnQ0WlZvMzZmNERiWHpMZUl2eVdVS09wMGxDYlRndlVMTXVQWHE2R1N6ak4yWXRuTmxFTW5CQjY3THFuMUJhS0RZUDJscC1LT0ttdVZmS3B6Y1JROHVobWhJTE5NWnlkbmRMTnpEODc3YkRPYWtuZ0RzRUxsdw?oc=5",
       "pubDate": "Fri, 21 Aug 2026 18:10:00 GMT",
       "description": "Steuben County reports second measles case WSKG",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pittsburgh reports first case of measles. See exposures, US data - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd194WXB6dnU4YlRCQ183bDRadTFYcWYxWDIyWGxVbXBMWmM4cXBwNFhoNFRUQWhRMzJNWTJBaXFnSWJVNDlvc1MzdnhEWjJDbjlEWmtsUzZlS3JKMTM5UG84VXBaenAyamZObkc1LXlvRjZiYjRRX1pFOXdXdWVqVHQtejQ3T29sRmlJZjFkM3RhOWMwTkYzcEJpVXM1aWVFYlNfX2cyWXAzLVNmQnFNdUNXZGh2TG5saEFqaHg4bUVDbjQzMUVaT2VsemJIcU9PaDlobG1kTzJ6LXc1QTVF?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 17:21:00 GMT",
-      "description": "Pittsburgh reports first case of measles. See exposures, US data USA Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -570,15 +570,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "DPH Confirms Measles Case in Georgia - MMR Vaccine is Safe and Effective in Preventing Measles - Georgia Coastal Health District",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWRfQzBpVVBpX1NZNGNtYUN0aGl6a1NsVXFONmxGMlJfYjJfUF9TNVNxZnFUd1lDXzRjODI2bEZReXlUOW16QW40My1yejNWT0o2YktiaTVSWDBaR3NubWxkOGdOTmZvSHRVNEJ5X1Zrck1kTkpCSXNzeVNqOUgyUmczSVFGZXRTbTNIdUtzUUpFYVFHdFV0UU1KM195eUQ4NlVXNkV4bV84STdTWTJXcnhPTXZ0ams4UWRiVVpFVkNsTzNJQlE?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 19:20:11 GMT",
-      "description": "DPH Confirms Measles Case in Georgia - MMR Vaccine is Safe and Effective in Preventing Measles Georgia Coastal Health District",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "UPMC confirms positive measles case at Children's Hospital Pittsburgh - Audacy",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2Ym5SSTE1YVdtZ1FrY0JKa0ZTU0R4cjJZUzZNVXVjeDZUSmlUcFdtQ1dadkpjMG1JeXdORlpBTG1tV1pBVTNVdFF6ckh4Zl9fajFsc1pSQ0dGR1d0a3VsTlRaV1VrbWV1eXMyVWJjOA?oc=5",
       "pubDate": "Thu, 20 Aug 2026 17:28:00 GMT",
@@ -601,15 +592,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTXFCQUJ3aVdNT2duSkJxeUlDVG9JVVJFNW0wd2FaRnZDa1NER0MwQ0J3UDFiMXZHR0VsTmstc0pGdDdJeUVvdWFCblZCU2dsZm5PQmNNc0xzbGtNSUJnT29QTWpuTkFPejN0RHJ4Y1lwc3lwcVljLTA5aF92T0tSUUJxRTFrY213Y2NQeU1fNmluLUNsdXZzS0tuSWR6ZjAzX1VMcjlkNVA3b01HXzN4R3dKSGdna01xRU9QVTJITjNmZw?oc=5",
       "pubDate": "Thu, 20 Aug 2026 15:26:40 GMT",
       "description": "Each measles case in 2025 US outbreak cost almost $60,000, study estimates, or $134 million total CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "The dangerous spread of measles stops with us | Op-Ed - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFI5TV9vNEFSNnFyak1EUlVxWlpNUy0tZXBncWlodkVOaERSU1d4RzR1U0REeWZxQjh3am9HZzBrSzhfSGlWS29YQ0NlWHF5MjNnU3BHMzVzSkJ5RDRIOVdMckphbVg3SWpORnVsT08xd050TGdURlV4ajNqcC1PQTNUQWNTLTNwQlhF?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 15:15:00 GMT",
-      "description": "The dangerous spread of measles stops with us | Op-Ed The Seattle Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -705,15 +687,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "CIDRAP Op-Ed: No, 3 vaccines are not better than 1 when it comes to MMR - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV3hBZWh2cDNXaHpPbjd1S050cWM0MXg5Y3QxTnd5anMzODk1OTNFTlZPY2JWeF94dHI4eFdKWmp3VE5TbnZubGdybE1vUThqMnRmSUNJeHJpbVlDVzlFM1cxT3U1X3ZkcmJtSVVrRE52OGpsRmlkbW1PZEp4Nng4clc3QmhDWk5QSF9IOXJYSjJpajZFZEllemlUTks2RUhNNjFydFlFNHVOSmM?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 13:58:00 GMT",
-      "description": "CIDRAP Op-Ed: No, 3 vaccines are not better than 1 when it comes to MMR CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "As Pa. measles cases persist, back-to-school vaccine efforts ramp up - WHYY",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByVWh4VXR5dGFWM1Y3MVg0ejRxTDBKX3J5VU5MS0taTkduNW9hT3N3NjlNZHkxa01xM3Y2UE1FazFkc0FDUVNHYU5MOGJ2eVhGYkZQdk5ra2dpd1lNVjd6ekJkc0luUDQtTEZJbEpxSEZXUnVZM2NsX1lpRQ?oc=5",
       "pubDate": "Wed, 19 Aug 2026 09:31:15 GMT",
@@ -736,15 +709,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1JtRXJGN0RKSlBoSGk0WEprRk9pcTVpRmxpWFJmT1N4VW1OSEk2am9sYmtIa0txSDhlQ2Vld2d5bWxjYndhRHpudmVyQkVuZWxlLVhsSUMwR1dmdUJWbXcwWXMzeS1TOXQ0NHlydi1BZWpMQng1UjhWVmV5bldMRU82NjU1R0w2OG5Xa3dIQ1RFZFJJZ0E?oc=5",
       "pubDate": "Tue, 18 Aug 2026 19:55:15 GMT",
       "description": "Measles outbreak grows to 36 confirmed, 3 probable cases in southwest Wisconsin WPR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles outbreak grows to 36 cases across southwestern Wisconsin counties - WKOW",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRnphX2t3dlRlTnUxdkE4Rlo2cG5CeFlSZVBaRS1BbUJQTDREcGxxOTdxS1JTY3ZvaWZrU1ZneFc0VDdyeTY0OXRkT21feDQwdWtrSjdrejBmakYzdFY4LW9WdFZuajFEdDFWd1h1YVc4RFIwbDk0cE5sakkxV2RROW56R241UUl0VjI3MWdQUFh5eWo1eFZkVjdUWFBVNTZfQVJNYTRVUU1GT0tQczFJRE04Zk9wN2FBenNIZ2Q2OTFJNGZpZWk2Tl90dmVUY0xDeV9ZQWdpa1RwS3B1bk9jX3lrQmZfcG42TXVGRw?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 18:12:00 GMT",
-      "description": "Measles outbreak grows to 36 cases across southwestern Wisconsin counties WKOW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
