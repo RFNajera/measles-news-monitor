@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-08-23T09:16:39.845Z",
-  "itemCount": 82,
+  "updatedAt": "2026-08-23T10:16:05.928Z",
+  "itemCount": 83,
   "items": [
+    {
+      "title": "11 million measles cases expected worldwide in 2026 - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVk1kcU1GcmxvLVh0Ty1sNEpkQzVSai1IX3JJT1M1LURQOWlMQkRxY1JCSUZLMW1EdFdvLUtDdzZXeU1pWDRyZUoyOGViYm5sQV9VNHFkdVBmeFJkNTJXaGFuVVhLNW9IQjFTMFlFWmhfSmFxaUEtNHlLSTRHTXIzZ0ZJenN0aFZUTDdpaURYc3V1U2lhZXFuSWlDYWF0QdIBsAFBVV95cUxNMXF6eVdncWdrZTlHclBZMHdXTDFJSjFrcC1aYklIcjFqMk4tOFZMa2dXRDhjakZtWWU4VnZjMGNQN0tJWGI1MEFSS1JnZFVQYXVIU3BDVVAxM0NQaC1CYXg0ZVNoMUJOZlRNclpVcVdwLXZTcHBnbUFPa2RIMFd6TUtmYzAzbVdKam9rRFU4ZDYtckkwUVZwb1pUNUFqWGtnOGR3b2owMmVwNjVHOUdhYQ?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 09:41:13 GMT",
+      "description": "11 million measles cases expected worldwide in 2026 Gulf News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Vaccine enforcement gaps in Pennsylvania charter schools put thousands of children at risk - Pittsburgh Post-Gazette",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXZRZzZxX04tWjkzMGFVckZNMUZReHZvdFdRSFFjTVFQUmNJTW5sSFVZTVdydXZnVk1ybkx6eWp3SjBtVnBNdDFvNlhCZjBiQnJZN04tWEd5RE9yRWRERWlJY01OcXZkMUs0aUh3VEVUcU1xRktjSU9uYlZTYWR1XzNjdko1UEUyckQ2dWV5NVJZQllMS2p4ZElveU45ZTVjZHZHX3NNQjkyb0dYMnEyMTI4MUI5Zzdw?oc=5",
@@ -106,15 +115,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yRDB2TzByQUxEMVo3Y0RwTWV1R1k1dFo3bkEzTFZPWThYZUw1N3EyZlhVRGZoS2p5R1NTRVNGU0ZFYVZPcE5ESm9ocFM5QkVVTmp2akJR?oc=5",
       "pubDate": "Sat, 22 Aug 2026 10:48:08 GMT",
       "description": "Editorial: 1 case of measles matters TribLIVE.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Vaccinations Best Measles Defense, Ohio Valley Health Officials Say - - The Intelligencer",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTHpLU3dVVXBYRUFWdlRQNjJMai1SS09yb1htZ2RGZ09YbldBM0tnR0hvRTBlTERxcGNwTnNSY1lUUV9uanFmbE1ia1NxeG5DR1ZwVXZWZkJaS3BvZk1iN1JBak83VzlWMVlLMEl5VGphMjVqR19aa0RoVlI3MVFHNmFXcVhGa1BpdHUyNWpEa2J5RGpFMTZVNExKcGItNnpsZkVWS09HSXA4aVNWa0RpamFVRVZ5Q0trQ0xsaDFMY0J1YjJLaEE?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 05:21:32 GMT",
-      "description": "Vaccinations Best Measles Defense, Ohio Valley Health Officials Say - The Intelligencer",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -363,10 +363,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Wisconsin Department of Health Services provides update on measles outbreak in southwest Wisconsin - WMTV 15 NEWS",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSmN5ZUVVZ2ducWw5NjE0dFpkZXR4VHlrZmFSWFVYZ2thaDM4U3hTdlY2T1BDaHRMcXpsMW1Jd2J2cGhkRkpqeDFCc2o2aVc0bHVZLUFLeG55M2lEZXp2M3lySm1IaGV6Q2FGLTFsRk5pNmdxbmkybERUMEVZWE1SaFFlNWZNbGZsNER0WGZZM1RTQkdGc2R2R1BEXzU4VjRlbHNxelE1aDRPY082QW8tUWRBbXFEUVdlTWFGSlJ4OUoxV3J5bGlz0gHbAUFVX3lxTFBta2tOaGJqamJjbXNVS2JxM1Z5bGlLQmw5WFlHbGwzZVhwUVl5WE43R0daNldvTWl0YXJHWUM2c0ZxWWN5TE5feEg0c25MTTBuZzgwWXNqWmlvMG1kSEc2cnp1T3lzVURKVURjV2JEWnQ5bmgzdFBrMkU3VXROUTROTnltS2k3UFZOM3Jqd1ZLQkZ1VlJ2RVRjazF5Sm5QYThEcU5RWUZSM0JLMlhpOVFWbkFPWW84MjdxaUZyNU9TSWRzdkpJdnpEcnpRU1ZscUNTRGtkSTdFdUZMRQ?oc=5",
+      "title": "Wisconsin Department of Health Services provides update on measles outbreak in southwest Wisconsin - Northern News Now",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbjRRTjlLLVNvOTdFdzE5RmFpRDYzalRJbVdRQ1hTM3g0b3F0b2wtS0otQ01yZndiU1F3bFMxMVVTc0k1RVVSLUNReWpRTngxYi14TUNEa1BXT19BVDhaRTd0UDJtLVFQTXdpb1R4eDdiNXYySl9WX2xyZldLcEZINHc1UzlWMmt6STEtTGZKbUUyWS1aT2FDOGFLRTBVRXhfWkNsVFhkVHZoMk5fcFBqRHZ3aHJtajVQOFRmS1BvYTJzMWtXNk5lTHlOSDV0UdIB4gFBVV95cUxNdDdOcWZIU1hTNXMzdXBtNDRScFN4LW5OaGpvcFkxZEFOWlEzZFNWbmY3c0dzbzBLV2dwSldaS3VZdVlBQmlnUkRJa19YMVFJTU9Dc1RBSmRtRGdEb1FaZXhvdXMxZHAzMnZBUUgwWmhqbTlsRm50RHQ2aWQwS3lyc3Y2U0xvNkZ3dTNSRjFlb2c0WHp4T1VPUC1YTnFvZnBENXdvOE9URGlRLVRZMTdvQVlmQkZqOXdtS3lfRU94aGtaWko5dnQ2bUFVYWpBRXl3WVFCNndPSmZqOXZxTUZfbmVB?oc=5",
       "pubDate": "Fri, 21 Aug 2026 19:50:00 GMT",
-      "description": "Wisconsin Department of Health Services provides update on measles outbreak in southwest Wisconsin WMTV 15 NEWS",
+      "description": "Wisconsin Department of Health Services provides update on measles outbreak in southwest Wisconsin Northern News Now",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -412,6 +412,15 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVI4MEpvMWtERDFxYVJMazJGb0xTbEZuRTI3RGE5TDZud05aTnVDS0F4SjRVLXdVU2dSdHZibzVPUXA1bWJyamtiTThoX19ZN2RQa2U2RUtOSTdLUTZiOVRYRzYzUGhtZkdJZHA2T1hNa01UYWE1Mmt3cC1Kalczek4tVTQ1OW9xekdhNkZQS1VKX0hn?oc=5",
       "pubDate": "Fri, 21 Aug 2026 19:18:00 GMT",
       "description": "Update on Measles Outbreak in Southwest Wisconsin Urban Milwaukee",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Penn State Health warns of potential measles exposure at Hershey children’s hospital - ABC27",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFBXbmRjNnd2ajJwQ0NkdXdZUVZ5Sk9uRE84d3lpWUdrZUdVTl9SWFdLMFRiYVFERHp3VkNfRU5rNHRNbFY5b1BSaFNaSUdzYTVSU3I2N3c0M01ybWx1VVZvRi1tU2FIRWRfcS04Rm0xUC13TVNLeDBhQURaVXA0c0JHYU5iS0VTNjlBTENDX2Fud1dxczVoRHVBd3d6eVdkcTJ4QVplSDRWOEZhYkE3VV9NOS0zenY40gG-AUFVX3lxTFBmaWhUaHI2c3lmemZoQTl6NzJhQXFEaGhDLUx1MGRWMzJwdW96eVdCTE1CWWRBSHNKSXM2TTcyOVphX3BBc2FyUnB5WWprWnFNSHk2cWRmMDhXNlNjM3BpQ085bFQybUVzSEZsZjJpNFlGYVF4aTBOWnR2R0YyenBhWmNPU1VTV2Y3ank2QkFDZV9fRTQwTWtBZFBuYkNZeXdETWVmMFBDSFJSRWZtek10YklVZC0zOGVGNUtRNkE?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 19:17:59 GMT",
+      "description": "Penn State Health warns of potential measles exposure at Hershey children’s hospital ABC27",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
