@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-08-24T13:30:01.553Z",
-  "itemCount": 85,
+  "updatedAt": "2026-08-24T14:23:50.965Z",
+  "itemCount": 84,
   "items": [
     {
-      "title": "Measles Detected in Bangor, Maine Wastewater Sample - 92 Moose",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCQldXUF95VWl5VDl2ejhYYUlSMEtULWFaVHhCdTZ1UjdGOTc5elRjck53Vk1pV3hZX2FLYkVGSENXdG1MNl9VNkFtWkJkM1kyTkxjZ2tCcWhJcmdLQmtuSHhR?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 13:25:18 GMT",
-      "description": "Measles Detected in Bangor, Maine Wastewater Sample 92 Moose",
+      "title": "Measles is overtaking Pennsylvania. How are schools preparing? - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEFrbjNlXzNmM1g3QXFGYjJEZjRXY1JyQVBKQVlTcW43aWNjNGIwNHZjZzd6TDQzaGhKZUhCV3JKTGEzVERmV2trdHJHS3pfRW9yQVM2a1dMR2h1YWtnWFNEc21XX3Y5R2h6Q1FQTWlKeVVWNnlDNUpxZUpKUjM1Tzh4NkdtQXVyVHQ4U0l3am44QWNLbkVodXQzSmw3VEkxMk5z?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 14:19:01 GMT",
+      "description": "Measles is overtaking Pennsylvania. How are schools preparing? Pittsburgh Post-Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "'Here & Now' Highlights: Dr. Ryan Westergaard, J. Michael Collins - PBS Wisconsin",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdGVaYWM1d19FVC01ZVlYcEpKYWRlYmRoYWtIZFY0RW45Q2ZIM25xcUx3Q3h4eklqcUxKQndkUHNQdEVZTlZnaWYtNEd2Tll6NUpXamRqYXpXN1E1ejVHb1E3eFFIU25ueFhKWWJpZDNwMzZrZ0E4dm1EWkJIQ3BKeUJKX3hLNkgtdzlNdUVfZ0F0Yk01bC1JRA?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 14:16:00 GMT",
+      "description": "'Here & Now' Highlights: Dr. Ryan Westergaard, J. Michael Collins PBS Wisconsin",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -14,8 +23,44 @@
     {
       "title": "Fighting measles is expensive. See what it cost to contain 10 cases. - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWtzblJxbFd2ck5ycnVHcGliV0lreWZGRnZEeTd3MTU2WHRuMGFEaVRhZS1ITmJ1NFkxRGE1SWZxck1INTVZbXBKaDJoeWd6RlJsVWZrUEp6OW9CRHd0Ul9nQkxIaGVQallhMTQ4TURaWWVNM2hZMmpWTk1RQktpVEJ3MkdKS0k2SjRkV28wV21kaVctTnAxMzV0UDJ1ZF9WczhHQTMzVlp0RmY1Q1lPb1VtYlljdFdqQllUbC1RQTBMbmc?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 13:02:32 GMT",
+      "pubDate": "Mon, 24 Aug 2026 14:07:06 GMT",
       "description": "Fighting measles is expensive. See what it cost to contain 10 cases. The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Dozens of NEPA Elementary Schools Miss 95% Measles Vaccination Benchmark - Audacy",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0RBMlowQVdiblhNcmFhSHo4V01sVVZEVHViM1JUVERGVUNiY2xMbHVvSWVCZmF3cERqT0V2V084bHlXVGYtWm1pRmhGRlF6ZUJ3QnVzUEdjdTdjRjI2OFFWREV4WjJrRTJ0b2tjanVHNm9nTC15WlNCeVNucERsZktQNnJ2N0NJU0d3TkZEdkl6bE9vOGxEVFJtQmw5X21FNW9NUVFqMlBIOFVEUDJsdW9iNk8?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 14:07:00 GMT",
+      "description": "Dozens of NEPA Elementary Schools Miss 95% Measles Vaccination Benchmark Audacy",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Susceptibility In American Kindergartners Has Risen By More Than Half Since 2019 - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTmVueWFwamx1VE51MjF5Yl90LUJpcW5xMzV3VzM2ZWdBNW9ZYndkWW8wN2Vzd3lUMmVpR3V4SExNUUpnMUpjTWtDN3poSUxjaVhGUzBHc2hxQWV4aHhyOFJlNDFDdk85bFo2UXRzblN2azA2U1B4eDZMTG5DTHVtX0ZWeElQelNNUFNxVnVhSFF2R1g2ZWRVN2p3Zy1RQ05yZ3FPbFdEYW5SUnEtaDhWS0ZwZE8zaXRVbG1Mbl9DUG5jVW02X2NDSzFocmxTSTVYV1c5NnNn?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 13:55:46 GMT",
+      "description": "Measles Susceptibility In American Kindergartners Has Risen By More Than Half Since 2019 Forbes",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "More measles cases confirmed in Wisconsin as vaccine clinics ramp before school - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1MwdmJNWG92eVYxRUFxSzRKZFNvMUhCNkV6cGhoSG4tOEI4TnpMY1dWWTdzelgwZGt6MjdIMWVwQ3o5b2NOQWpVNnlabDR5Q1lLYnhUZUxqMkowU2tDa0pfZVVhQ3dQQWoxWkJKRVZXcmlFTWpjY0JMbmNRaWdMcnIxUlc2V0dUZXpBSlZ1V1hLY1BnZGpxN0Rpd0pxMG1zQllWT1pPNnRPX2M?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 13:45:00 GMT",
+      "description": "More measles cases confirmed in Wisconsin as vaccine clinics ramp before school Spectrum News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Detected in Bangor, Maine Wastewater Sample - 92 Moose",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCQldXUF95VWl5VDl2ejhYYUlSMEtULWFaVHhCdTZ1UjdGOTc5elRjck53Vk1pV3hZX2FLYkVGSENXdG1MNl9VNkFtWkJkM1kyTkxjZ2tCcWhJcmdLQmtuSHhR?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 13:25:18 GMT",
+      "description": "Measles Detected in Bangor, Maine Wastewater Sample 92 Moose",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -30,19 +75,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Pennsylvania reports dozens of measles cases in past week - Outbreak News Today",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONW1oNDE5T2ZIOEJCWURCWThNdU5neG9ib3hXWnp4eVhhaTJZeWxDdGV1N1NDb09fNnFHdjE5Tm52eW1taUtGMF9NSkZUbjBVS3JZN2I5R2JCbU9jS3BxT2xDaDFKYXJONElfWUt5dTBNTlpuaE95NHpHNWhVbTVSZk13dldWUQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 12:56:55 GMT",
-      "description": "Pennsylvania reports dozens of measles cases in past week Outbreak News Today",
+      "title": "Florida Vaccine Exemptions Rising, CDC Says, as Measles Cases Surge - The Boca Raton Tribune",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEFnSzJvMzF4UU1XaHNyaUk5d1NjdWNRZkRZQ1NtaTcxbjNmLWtIWEh2ajhJZ1plckxDTGVVS180ZjZtUTh4U3hoZEticnp6aWRrRUg2cmxVc2p6TnFvcHh0TFNsZnQxUDVMc0ZvaGxsekZJaXhrbnlpQ3dqcU4xMVB0RFU1N3N5aXgzY282UmhDQnBrMkd3Vm8tSWxuMU1HUTItQzl5VW9POG1vaFZvcnBXRkZHRlNvSDdNRjBB?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 13:00:00 GMT",
+      "description": "Florida Vaccine Exemptions Rising, CDC Says, as Measles Cases Surge The Boca Raton Tribune",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles is overtaking Pennsylvania. How are schools preparing? - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEFrbjNlXzNmM1g3QXFGYjJEZjRXY1JyQVBKQVlTcW43aWNjNGIwNHZjZzd6TDQzaGhKZUhCV3JKTGEzVERmV2trdHJHS3pfRW9yQVM2a1dMR2h1YWtnWFNEc21XX3Y5R2h6Q1FQTWlKeVVWNnlDNUpxZUpKUjM1Tzh4NkdtQXVyVHQ4U0l3am44QWNLbkVodXQzSmw3VEkxMk5z?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 12:11:06 GMT",
-      "description": "Measles is overtaking Pennsylvania. How are schools preparing? Pittsburgh Post-Gazette",
+      "title": "Pennsylvania reports dozens of measles cases in past week - Outbreak News Today",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONW1oNDE5T2ZIOEJCWURCWThNdU5neG9ib3hXWnp4eVhhaTJZeWxDdGV1N1NDb09fNnFHdjE5Tm52eW1taUtGMF9NSkZUbjBVS3JZN2I5R2JCbU9jS3BxT2xDaDFKYXJONElfWUt5dTBNTlpuaE95NHpHNWhVbTVSZk13dldWUQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 12:56:55 GMT",
+      "description": "Pennsylvania reports dozens of measles cases in past week Outbreak News Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -142,15 +187,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb1VQMGdnQWgtQlF2eEc4NUFlTGlqcHVVa3loUGFiTGZaNHpPNjRuWkdOUGxXaHR2WkxvRGRqWmpha1YwWVRNRFp0d0dMc2tMeC1mS3FNcjlGUDUyeWlOZ09uOFRjakhseTdSSENjWHctR0IzektyemFsRmtad1dyV2hmVkhyYWJCdm1uSGF0dVVtYVZLTTVyeC1HdVJMaWE1MHhXVTJ6TGp6ci0zaWM0?oc=5",
       "pubDate": "Mon, 24 Aug 2026 03:26:00 GMT",
       "description": "Iowa HHS confirms measles case in Ottumwa KTVO",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles case reported in Caldwell County - West Kentucky Star",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVHdWcWVyYTFxZGFzN1hLM3lJZ1QzQVF5MzdOUDlXVDJUZEZVbmhfTWtTVWFWSG9Lb2VxMlRheGE1VXZlV3ktRE44VlhleUgzMzNLVlR0cHNxbFhPN1llS0NXMjRBcXpabU9VZkVMekl0aE5yMFRqNEZ4a0IwQWQ5ZW5UT3pGMF96U1ZxRU5LZXAwUQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 02:58:00 GMT",
-      "description": "Measles case reported in Caldwell County West Kentucky Star",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -363,15 +399,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles case confirmed in Allegheny County prompts vaccination concerns - WTAE",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVnFLd0t3UmFiN0tlZ25jR1cta0lSdkItZTlaR2VWQVpJR2kxcXBqSU45ZFUtRzF4RmJXNXdnQ05iZWpReHNFSEFoNUZpbnNQdTZKeE9ycklSSERheE1YSmlVTk9abHBvTDBuVi1qQnpGQlJldENZc2FSbktSYlNaQQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 23:58:00 GMT",
-      "description": "Measles case confirmed in Allegheny County prompts vaccination concerns WTAE",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Four new measles cases confirmed in southern Iowa outbreak - KCRG",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOU1CQUdnWndCVVpoMUh0YS1fNFVJS08wQ1FkNlhOVE1uU1h4YTZwMDJzZkt1STN0SG5nZ3BfS0hKUWRVQS1PNmc5eDUxMTg3LXdMMDJwdEw2aDRMdVM1dmM0OWJGNDN2VS1tX0JwOXdCVTBQWTBtamZOWEJtMExjcWxuTkZ6eWZScXYwZ3FHR1l5dw?oc=5",
       "pubDate": "Fri, 21 Aug 2026 23:58:00 GMT",
@@ -381,19 +408,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Wisconsin measles outbreak grows to 41 confirmed cases, 7 probable - Daily Dodge",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR21qRzlKYWFjZ080alhPUG5WbF9CZzh3WFRiU1VTcjdLX3ZyaVRoTjN6Y1FLbEVrdGdLb2p3U3lrRFV6N0REcDhEdVFkR0tVRDk5RUoyYk9zVWZFRVc3Q0xoRUhHNkFQZUJPbDMxLS1VbnhLLU1GSFBnVHM1akpVUWVObkFJZDdJWFp5QXRMUzBhd0U?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 23:29:49 GMT",
-      "description": "Wisconsin measles outbreak grows to 41 confirmed cases, 7 probable Daily Dodge",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Iowa measles outbreak grows to 16 cases; new Ottumwa exposure reported - KGAN",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUm9zLUU2ekl4anh3U0NmRGZBa25YbEpucFJXbUhvN3lJalJfMTFGX2VLVlIyRWRuU1VXUk5lU1VEX255RzdXWDN3bXZPVnFKUEpKYml0OVAxTkU5U2hNS29aNmk1UGRaMFUyME1MdlV4RVdoUlZJSkNYT24tdTYtTXdOUmMwWVRmS3FmOHVCUVNlT0NZNnhZUTdWQ1lRSkpCbW1v?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 23:13:01 GMT",
-      "description": "Iowa measles outbreak grows to 16 cases; new Ottumwa exposure reported KGAN",
+      "title": "Measles case confirmed in Allegheny County prompts vaccination concerns - WTAE",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVnFLd0t3UmFiN0tlZ25jR1cta0lSdkItZTlaR2VWQVpJR2kxcXBqSU45ZFUtRzF4RmJXNXdnQ05iZWpReHNFSEFoNUZpbnNQdTZKeE9ycklSSERheE1YSmlVTk9abHBvTDBuVi1qQnpGQlJldENZc2FSbktSYlNaQQ?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 23:58:00 GMT",
+      "description": "Measles case confirmed in Allegheny County prompts vaccination concerns WTAE",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -493,15 +511,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaEdmTDZidUwtbFdFRHVZa3lHUzl0MlF2a2t0Z0VnSEg4eGlfWkk2Nkw5WE9IRWNRM0ppVHBzVll5MVNOUkZzWHFpU3hCZTVTTlUwNXNlTXRMLVpIZDAzeTloWURJZmNRYm5IWGdrd2lfYmhvYm9QbldXSlVHSWtEa0ZFR0Zody1wOWR1UFh1Q2VSUGdqLTg1dV9sd0xqU280MEZDWXFlWTlHX1JVRFFDM1c2QnBTWXJ3bF91VjNIamc?oc=5",
       "pubDate": "Fri, 21 Aug 2026 20:34:00 GMT",
       "description": "Amid measles outbreak, western Kentucky doctor advises on how to curb spread of virus WKMS",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Penn State Health has announced a potential measles exposure at Golisano Children’s Hospital - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjhLNjVZMXZhUVlmZ0J5dHJWX04yMHdOWDdlRm5KczhQcUQ3cWVQNnJNRUdMMGFkT1VINWd0WEk0TkNseklhS1kxT3BGcXI3Z05DX25TUXp0S2V2dDJGc3d1eVdtQU1UQ3FhVW1iMVBYelAwZVRUR215LVR4aFc1WkZ2czZkemkxbnBqZXRBVEZ5LW1fLS1lNHhlVVBZMjhfZ1FKZ2lSMERJZW1o?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 20:17:00 GMT",
-      "description": "Penn State Health has announced a potential measles exposure at Golisano Children’s Hospital WGAL",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -687,28 +696,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Pa. measles outbreak has reached Allegheny County - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pVT3FPUDdyOTYwR3l0bVcwQWpzSDFobkd1TmdOLXlkeHlRV2ZvYXlXdkFoN1V6OWxQbVY4Si00SUpDMEpEYVFYRlM2Ukk4WG1uNUM5TTlGYTdrZ0k4MnpHeGFMOEhsOVhTc1l2S2VndUczUUNWNl9DbFZyeFQzY1ZJOExzcC1zTTZQTnE4R1JBOUlZaWtHdEF2RjZiZw?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 20:44:12 GMT",
-      "description": "Pa. measles outbreak has reached Allegheny County Pittsburgh Post-Gazette",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "What measles? Arizona kids are skipping vaccinations at a record rate - Axios",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaFJ1WXYyZXZEOC1sOGpwRi1Bc0FMRnI4TVhzZlViNVkxd0JWdlRjMVVJSnMzeVV4SG5uY3A2MWRHOHNiZ2Z5RFAxdGdUTURYbVBXMmxWeXV5NVA2NDQ3blNYX2p4bF9uaDl3UWFSTlNTR25uNDB6X3l2cUwtb1ItUjA5UHVROURMWHZUbnZrVzJ0Tk1oWTBZd2pPMzlfVWw0YWo1NQ?oc=5",
       "pubDate": "Thu, 20 Aug 2026 14:26:03 GMT",
       "description": "What measles? Arizona kids are skipping vaccinations at a record rate Axios",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Kindergarten measles vaccination exemptions climb as outbreak confirmed in southern Iowa - KCRG",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmFBVWhYZkh1bVhiWUZhNmJrNldJUWxmV2FReVl6d0lfcmNFRVVuajloNEoxUmRHUm9Fai1CYzRFSVZtT3F3TGs5RUtOTHVpNlVZdWVNRk93UGw1Y0g3Q0MxVmYwb1JHUkNyRjc5QnpnY0VnV2VqUExCVDNrZTk0OUUxeE9xM2VOVmtJcFZJak8tUGhVTnlaaS0wV2pTRVV4LUU3YlNYVVh4Y28wY0JlNW5RY1pyZ9IBygFBVV95cUxNMVp5aFRWbmJpWi1kRGJpbk5IMXVrNUpxSjdkUWktdE9Ta0l4UzMyNWNDLS1oLTFfVFB6TDR5Rl9zVjdKTUNjankzWnQ4S0hKZjNFR1hxSVUwQU1DR0tqUXczWkhSQWlxM0xTdVRBa0ZpYkdoeDRwcnQyUFlKOHBxRjNpYzBSeVJKZ3dnNm9FM3FreGV3TzZsSlB3ZlRTN0hlYmpkN0U1eWtlZ0hDSXAtZjZFZmlpdDlDSTR6QWtpWkN4bmljamlyeUFB?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 22:01:00 GMT",
-      "description": "Kindergarten measles vaccination exemptions climb as outbreak confirmed in southern Iowa KCRG",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
