@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-25T03:27:09.980Z",
-  "itemCount": 100,
+  "updatedAt": "2026-08-25T04:22:34.099Z",
+  "itemCount": 94,
   "items": [
+    {
+      "title": "Measles Outbreaks Reported in Ohio, Pennsylvania, and Wisconsin - Infectious Disease Special Edition",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3lQVHF0c2JHa09UOE43UkNQdDgxRGpfd0VYY3Q3SllVYWMwVjltamxTeVFHMkJtZ0FocmJCcjNGQWhBc1JMaDl1SUtLOEJkbVpKTElUMlpuR25qOXZZNWlMUHEzcXdzazEzSURhSFNGZ3RfdVRCclNzMnB1T1FiUmRTV1E2eUY3cG1aQUFPZFRITEZ5bUxncFdnb09Mb0l3MHZzN04wdy1sR3ZHVmVqR2Fn?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 04:07:48 GMT",
+      "description": "Measles Outbreaks Reported in Ohio, Pennsylvania, and Wisconsin Infectious Disease Special Edition",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Health Brief: The cost of containing measles - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRlJsaXBneUdMOV9zMXRTUTZzUGs0Zk1mWEI1c2wxek1vVl9GUGhVM3UyUHRtUlhpaWs4bkdIUWlEVWlVSEVHVXZkSnk4amV6V1V0eUxqa011UFRoaGptLXpmaDNTR2lwOXlyRWlMUExVLVBkTmdxSWQ2cF8tdjV1ZXI1NDZsMVhvYWhrNzJhQUY0MlJtMWxHLVRoNEN5N3R5QW02OVd0QkNmRy1F?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 03:35:09 GMT",
+      "description": "Health Brief: The cost of containing measles The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Maryland health department declares measles outbreak in 3 counties as school year starts - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORUJnQjB6WFEtellhVjgwQWZ1cTNMeWFudXNXXzNQbUkwcnNtLU1MZ0JQZ2kweTR3OGJVM1ZiazFiMjh0MFpEQ3htTUNPV0gwcS03QkYwdFBXeFNSbjBlVF9oVmtodnZhMnRJQ3hQaEQ1dk1Xbi1YSVVuRWhSUDVQUzRtSXpqT3AwRjF5SVY1Z3hnMG1KR2liMzNjQXlYVVhsLTRrQlRHVTR6NERWUmRxVjJzUQ?oc=5",
@@ -30,19 +48,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak declared in 3 Maryland counties - FOX 5 DC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqZF91ME4wWGNReFVuSnhiajJwQ0Z2bm44c2k1OThlSVFPUG1LaS1FY2N5X2ZGNTZSczFQWkoteVBITm9pcTNWY0lXY0RLSXdJWUJlNGhJZTZhVE5BQXfSAWNBVV95cUxQN01MUnpaLThaQkRXTTdqaXZ2Zm1JeDlWVnNXcFl0cTNOZmdWdUhoblE0SG9Edk05dHZaR0RzWEFvZnhCTXptRVI4azJ0c1AzdmRIV3kyTWx3YldPdWZQU1RCVE0?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 02:45:05 GMT",
-      "description": "Measles outbreak declared in 3 Maryland counties FOX 5 DC",
+      "title": "Maryland Department of Health declares measles outbreak in 3 counties - DC News Now",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1BwVW9aSUUyVUozdzJ4aWdPM3pMWjcyTUtXYUNpRGtRY3NyZTM5ZV9QMXI4QXNXdy0xWThKbFhOVTNXdXNOeXEyTUpkTk5pYXhVQ2FRd3RobFRnN3pYU2dmLTZnaVhxZG9yT3dsZzVKNWh4VnpkcGg2d2pkU2FOMTExalVGOVRHbFlvUDhEdmlSREt0OGZILUs3LWVsTVN3N2JVYmh6b25zV0VGMU5FdA?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 02:49:26 GMT",
+      "description": "Maryland Department of Health declares measles outbreak in 3 counties DC News Now",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Health Brief: The cost of containing measles - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRlJsaXBneUdMOV9zMXRTUTZzUGs0Zk1mWEI1c2wxek1vVl9GUGhVM3UyUHRtUlhpaWs4bkdIUWlEVWlVSEVHVXZkSnk4amV6V1V0eUxqa011UFRoaGptLXpmaDNTR2lwOXlyRWlMUExVLVBkTmdxSWQ2cF8tdjV1ZXI1NDZsMVhvYWhrNzJhQUY0MlJtMWxHLVRoNEN5N3R5QW02OVd0QkNmRy1F?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 02:05:09 GMT",
-      "description": "Health Brief: The cost of containing measles The Washington Post",
+      "title": "Measles outbreak declared in 3 Maryland counties - FOX 5 DC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqZF91ME4wWGNReFVuSnhiajJwQ0Z2bm44c2k1OThlSVFPUG1LaS1FY2N5X2ZGNTZSczFQWkoteVBITm9pcTNWY0lXY0RLSXdJWUJlNGhJZTZhVE5BQXfSAWNBVV95cUxQN01MUnpaLThaQkRXTTdqaXZ2Zm1JeDlWVnNXcFl0cTNOZmdWdUhoblE0SG9Edk05dHZaR0RzWEFvZnhCTXptRVI4azJ0c1AzdmRIV3kyTWx3YldPdWZQU1RCVE0?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 02:45:05 GMT",
+      "description": "Measles outbreak declared in 3 Maryland counties FOX 5 DC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -111,6 +129,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles outbreak in southern Iowa expands to 17 cases, new potential exposure location added - KCCI",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHhQQ1JXOFd2QWNvb3JHaW5XbTFfandKdHNOZVRWN2hjZkRwdGFYSXJsOU5qd3JjcjY0X2hYSzQtekNNQm5aNWp0MExrM1gtdElRbjNyYWhkVldXdFFUdEV1OFdMcm12ejRHN0Jtb2RsSlU5c1J3OHZQUUZhdURtQ25TWXNBclBTRU1Yci1POGl6dTVabE5OYUhDWV95Y0dmMlZF?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 00:23:00 GMT",
+      "description": "Measles outbreak in southern Iowa expands to 17 cases, new potential exposure location added KCCI",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Local person with measles is Kaneland High student; exposure in building Aug. 18 - Shaw Local",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZG5HRk50aEM2b2U0UDNwV083enNwQ2FDd3VmSXdiNXhaczRpS2hKVks0U1NjdDV0VzNlWTRKVDhlODFLdHEyckR3Q0NFb3lxZEZNTlh3VVFjbndGZHZTWk9ORXJMNlVhVWswa2RGSnlrRUlGcHlfWjNob19kZ3VkU1NXc3RxWjdXb2FyMHlTT0hucW10dTRUZktuVllBZTFWWFhqRG9yWFFZbnlvNTJqc29vakFaRTJJRGNpTkYwSGdfeS16ZkVPRWFnb1lDWUR6Vk40Ug?oc=5",
       "pubDate": "Tue, 25 Aug 2026 00:23:00 GMT",
@@ -129,28 +156,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak in southern Iowa expands to 17 cases, new potential exposure location added - KCCI",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHhQQ1JXOFd2QWNvb3JHaW5XbTFfandKdHNOZVRWN2hjZkRwdGFYSXJsOU5qd3JjcjY0X2hYSzQtekNNQm5aNWp0MExrM1gtdElRbjNyYWhkVldXdFFUdEV1OFdMcm12ejRHN0Jtb2RsSlU5c1J3OHZQUUZhdURtQ25TWXNBclBTRU1Yci1POGl6dTVabE5OYUhDWV95Y0dmMlZF?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 23:50:00 GMT",
-      "description": "Measles outbreak in southern Iowa expands to 17 cases, new potential exposure location added KCCI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "UnityPoint urges parents to check kids’ vaccine status - KCCI",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMUY4XzhVMHRXLVNKV21weFVnMXVMZFd6S1pmV3pjS1V1OC16V1BqOFRJLTN5bFZtU3ZLb0pMem1mSTBvYlBKQVZneXhicVZnamZYU05mTTJIWDVEcU9ZS0picWhYaVh1RmtEVWpDOVVuNEV4RnBIaEtjQ05OOWdmLUJvWndvbVk?oc=5",
       "pubDate": "Mon, 24 Aug 2026 23:37:00 GMT",
       "description": "UnityPoint urges parents to check kids’ vaccine status KCCI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles case confirmed in Kane County; health officials working to notify potentially exposed people - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN2RyMGtmc3lLMkxSNVBsSU1iRWlpR0pfbnFuTkltNUh3ZVBPOC1mYTZGREpYSkcybzV0cVVxcFpwVVRMaTRxN1hISmNfemU4Ukk4aDNVbFFIcFVLWDB3M1drdXFPNWJic3FGS1hCTXFwS3gxRmN3STVwR2pyMGR6ejFsSWZyUDFIUGcyRnhmOE5zQQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 23:33:33 GMT",
-      "description": "Measles case confirmed in Kane County; health officials working to notify potentially exposed people Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -228,15 +237,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Maryland declares measles outbreak in 3 counties - NBC4 Washington",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmxDU05vX0JvRXhTTGItcjNXa0N3eWQxM0RoMmNHOWtlU081MW5tSFQxZVVhV3lHTTgzT3hJTmlxRVR3M2VwU01GTWJLUHFOUHFXaXRYVEFRSGs2R0NZVXZ5ZkQ3M3JZUUdJeUtZRUQtXzlFdVFzZ0lSaEdlSkpmQ1kyNkxtamxoaHp4TnM1Tlc4U3B3SW1sQmMwXzZJdXFad3BORVR1Y9IBrwFBVV95cUxNNUVyNXM5Y082cUxzRVFfYzY0QVBjRTJGTDlSaEZ3cHJqM2pfeGw0Tkk3MXBVcmFrNmllWEZhd0tkLTFIQ3VjdEd1amlYa0F5RjFNaXhOU0VyX3pvOUFpX3FIRjVyY3p2WEhjdHNjcEh2SW8tamM0T2xNMFZWUVNRQXF5T0E2bnNnODlKdWRLdDFuMlhOcWVZVlJQaDh1OWpfZXlyRmwtQTFyaE9MZWEw?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 22:03:29 GMT",
-      "description": "Maryland declares measles outbreak in 3 counties NBC4 Washington",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Editorial: Oregon vaccination rates are headed in the wrong direction - bendbulletin.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTU0MTVfaU55VkNIeGFmc19ycU5RQUdhVVZJWVY4cVJmaC1yR1lfbkhvZGh3UnZoQ1JmekNndVRKb0JjN18tUWFiLXoyR0JrRnVuYVdOU3pXYmlHQTZuUTF4V3ppRUZoS1hpODdYdGNGTzlFX29xUkpzT0ppUTZtVVRzZE1mZUNHYkJFdDJrOGtpeDIzXzVNU3k1MkloZjNhNzVnRzV4Q2k?oc=5",
       "pubDate": "Mon, 24 Aug 2026 22:00:20 GMT",
@@ -257,7 +257,7 @@
     {
       "title": "Maryland measles cases jump tenfold this year with outbreak declared in three counties - The Baltimore Banner",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlk4X1Q0d0pFbDZBdjYxMVlsTmUxS1hfUnNnNlQ2Z3dmQVNvZDM3NlZJeFJvc1puU3M1a0xuSTdWX0ZWSGZ6emdBZGxFelVnVkZCQjhTbmRFZEc4ZzUtR2ZvWGJ1TmJMSUxuamZtSmUwc2dTalVyOUk5ekJMTktlcGJVbXRYblUxakkwbjBCOWZrSWpTWmlWazhPZVVLVW54VURhUGlB?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 21:51:00 GMT",
+      "pubDate": "Mon, 24 Aug 2026 21:47:00 GMT",
       "description": "Maryland measles cases jump tenfold this year with outbreak declared in three counties The Baltimore Banner",
       "source": "news.google.com",
       "sourceType": "news",
@@ -268,6 +268,15 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTBfTkJFV1dsZkJSMHhQMmdwNU5vQzVtblJ1c3gxTG1oYWxSVVRMNllIV3NvYmtMVE5ZdFpLTFY4aDNJUHNoZm9lTFdmR0Rkc253S3ZkdXpDVndKYWV6X19GdVB4U19iR1U0RWF4U1hYa1Q0cllvT1M4N3BGTGlCaWViVXFXT0ZHTjI4SGRCaWNjQm5WTlE?oc=5",
       "pubDate": "Mon, 24 Aug 2026 21:44:00 GMT",
       "description": "Third measles case this year reported in Connecticut Audacy",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Maryland declares measles outbreak in 3 counties - NBC4 Washington",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd2pIZ2x0UV9yWEhfSFlyTzktWVVsM1JaZ21Ednk4RDhJX3E0SlBZOXlvVHZZZlAzM2ZZZ2ctTXNqaEhQdUVBVDFwbDJoQ3VQNkU3T1Rma0t4NDdfU1B0a01GeUpadzhLMHV5NGhxajRMa1lFZmN2czdKTVhGR2xudXNNdWxhdnNKTVlybnVfMUYyZEh1RkYzTXowcmwxQVBL0gGoAUFVX3lxTE1SUVRKRXYwT3RzcWQ1Wm5pNTRxZFp1RUJ3b3prWDd2Wm9MOHVNeHJZNkoxLWF3MjNPRDVsSzhmQlRGNWtVMWFmQXlTOTNOcVhqcTRQd29nbmozUHpoeTR6b3JkSG1tSDl4bjk5cm4wbHhyaFg0QXR6eEFGUktPbmVBNXk4WnZINlJPaW9UNWd1SlRUR01heE5mNGRVeG1YS01CcGE4Szl4MA?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 21:43:06 GMT",
+      "description": "Maryland declares measles outbreak in 3 counties NBC4 Washington Measles outbreak declared in 3 Maryland counties WBAL-TV Maryland health officials declare measles outbreak in 3 counties CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -304,15 +313,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1diZ0NkTlJ6WC11cE9VZklEd3g0amZvV0hmNFpleW5XdVVkcUx2SmhPNTlZUVhQSlJsSFdNZkJJaFJmT0U1dmhqS0RLVGNMamV2azZfWnNiaFJpcFFvRldoMWJOTjZIWFpmd3lHX1NzYms5Um5VdU1EUFpBQU82dDBfQlNMRlo1M1JIbE1ieVE?oc=5",
       "pubDate": "Mon, 24 Aug 2026 21:22:22 GMT",
       "description": "Connecticut reports third measles case of 2026, the most since 2019 CT Insider",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Maryland Department of Health declares measles outbreak in 3 counties - DC News Now",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMTRsdjVPVHFTUFA2RzQ0elVYdTJzWTFPdEdjNDhidXphdWN5cWNQV1lmYjRkazZpNjZ6T29yT0FyeThONExuRDg4dlgtZ2xYN3dESVZ5V2JoUHZGOHItbzNvUm1TMVdrOG9fZkY1TjZDLXQta0ZDdXI5ZG5raF9VUGRpX3BWcHJDTXRYU2lXLUVVTWJyZXAzQy14UFQ3ZXU2bV9sMFNRaXVCQi1m0gGyAUFVX3lxTFB0clRldkZIVEhsVGt0ekpSVTdWN0VraHVRT1U3WlQ5OGlkRWFyd0VRX1d6YTdaNDNOaUxBMVU1TU5aNVZTUUlud1VLTldxOWFsSm9oeUltYko3SEV0S3FtUDdEZGF3ZTZNVVFWdm8xaGxKdXhFcTYtNmxpYTNvVTdka3lqWHRIanhuei0xN0FfdEJaV2FTVnY3WmV6dkc5bFRIdlpVR0JKejc3dkVZWVh4aHc?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 21:21:52 GMT",
-      "description": "Maryland Department of Health declares measles outbreak in 3 counties DC News Now",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -498,24 +498,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak declared in 3 Maryland counties - WBAL-TV",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3hYOHVWYW9qUU94T09Pa01uWllDcHBWRW5UMHpuSGtPSjBWWUNUcm9xUTZQNGRMd2NmZ3J1aVJwclhaNkVaaV9meTR2aUdYZkk4THd5WU9aWktodHJpWkhfRjlMTVRPREszWTctRjgtbkZhLWRBdWdibzBQNWhDRW5vWWZwQU5xV05nWWdSX0J6M1RRaElKMGYzRjdkdw?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 19:19:00 GMT",
-      "description": "Measles outbreak declared in 3 Maryland counties WBAL-TV Maryland declares measles outbreak in 3 counties NBC4 Washington Maryland health officials declare measles outbreak in 3 counties CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles Case Confirmed In Kane County Resident: Officials - Patch",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd0ZCNm00bXp5STZBS3FIdWppaE1lb1pNX3VOeE1iVXBGbzd2VE5NNEJEdy1UUWtGNUJiaWxjRmVkTzJ4bDE0am9IU0RLWXNqUzRaM1Rnek5na3c3SkpKczVIekpZSFJaTmNLV2gySnItc2UzWE00X0Q0RmpVbDRFenNLR1BNX3E3ZDFVWjZBWi1qYnFMTF8w0gGsAUFVX3lxTE1UY1RyWG1EbGJhSlZIWTdQWjZBRzQyUzVNcDFUOC1TOExqSWlNQWEzeGNLNHBKQ01jTUhNaXdncFBxWjlDOXBvQzh2dENqcXIzeHZwZjQzSU4yZWsyNGlHTmM3a2Q0U2hUV2RDZUVRYmxTcmRLMXdOTWZQdE14YVFLMWQyaXdKZlQ2SGZFZENqczVpNF9mOFdRdVZ5UWkyczBmbnJhUEZsSTNvVlk?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 19:17:03 GMT",
-      "description": "Measles Case Confirmed In Kane County Resident: Officials Patch",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQa0VlaUs1X3pCT2tvNHFIQV9Tc09XMHBuNWtVc3YtQzh4Q2hXcGRmTV94VWZpWlVnZk5sYTl2WlpyYnFnaEpPU2prNWNrY2RFaGpRUEdCVTAyVkg1ZC1WYy04UExfNlJYR3ZkYVljZ3Y4WnpXRjlXLUV2U19jak94QTdFYWd1bXYxZ3VQN3VMX081SXc4NGp6Z012REZKS05wR0Y4SmRmeXdaSkcycjZ3UDB2eThfY044Q2ZSTHdEbXk1MUUzMi1HdEx1UVFMQmF4UDZtV1VtTl9xdkpOcHZpRFNuTTE?oc=5",
       "pubDate": "Mon, 24 Aug 2026 19:13:26 GMT",
@@ -547,24 +529,6 @@
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMzE1RmN3SlRrckNNbV9FdXpIYWUxcGprSG9wbkluWTRDREV5dURUT0d2Y3ptN1dLYnFFYjIzZUpWRVNYemRoZnc1SWdTOTNSSVA1OWdwTnBOeEJuVU5zMGZWaG8tVnRQTzR5T1k1Zm5fOTVXNnBHTlJCMUtMalNta3VlUTd5dGYyM29SZE5hSjljYlZGbHAyQ0F3cTFjYzVPaHJwMXRSZmZQSVlTMlpRWFdlQ05XSllpbmJpa2RkM09BQlJUUXZENGlwaWdUWk12eGxZeHpsUWxzd1RQV3kzcVJKRU1vNW5CVWs4MHNRVQ?oc=5",
       "pubDate": "Mon, 24 Aug 2026 18:18:00 GMT",
       "description": "23 new measles cases identified in Lancaster County in the past week LancasterOnline",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles Outbreaks Reported in Ohio, Pennsylvania, and Wisconsin - Infectious Disease Special Edition",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3lQVHF0c2JHa09UOE43UkNQdDgxRGpfd0VYY3Q3SllVYWMwVjltamxTeVFHMkJtZ0FocmJCcjNGQWhBc1JMaDl1SUtLOEJkbVpKTElUMlpuR25qOXZZNWlMUHEzcXdzazEzSURhSFNGZ3RfdVRCclNzMnB1T1FiUmRTV1E2eUY3cG1aQUFPZFRITEZ5bUxncFdnb09Mb0l3MHZzN04wdy1sR3ZHVmVqR2Fn?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 17:42:45 GMT",
-      "description": "Measles Outbreaks Reported in Ohio, Pennsylvania, and Wisconsin Infectious Disease Special Edition",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Monday briefing: Canada-U.S. trade war; flood risk in your state; the cost of fighting measles - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU1l2ZjhQUmJLZGR0QW95U2VPdGZOQ1FaX2M5WnJQVXpMQmFYUEpONlN6VmxUYVdrTW9idlMwb3dFeEhDY0Q3UUlXcllMUG1XUnZSNkVlN0R3cHFPcmZla0pCV3FId1RLQ24yTV8yRnRnd2I1NTVjOTNiSU82emtNcG5rSEMzZl9qREoxeGFWa19QaFpuQkRHaXlOVmJtYkZrSW01WHlNRGw0RzU1Y2ZUWmNQa3M0SGFoX2xyR2FzVGVJcmR1b204RGU0aHBRZDBpT3Q4?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 17:26:16 GMT",
-      "description": "Monday briefing: Canada-U.S. trade war; flood risk in your state; the cost of fighting measles The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -615,15 +579,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Dozens of NEPA Elementary Schools Miss 95% Measles Vaccination Benchmark - Audacy",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0RBMlowQVdiblhNcmFhSHo4V01sVVZEVHViM1JUVERGVUNiY2xMbHVvSWVCZmF3cERqT0V2V084bHlXVGYtWm1pRmhGRlF6ZUJ3QnVzUEdjdTdjRjI2OFFWREV4WjJrRTJ0b2tjanVHNm9nTC15WlNCeVNucERsZktQNnJ2N0NJU0d3TkZEdkl6bE9vOGxEVFJtQmw5X21FNW9NUVFqMlBIOFVEUDJsdW9iNk8?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 14:07:00 GMT",
-      "description": "Dozens of NEPA Elementary Schools Miss 95% Measles Vaccination Benchmark Audacy",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles Susceptibility In American Kindergartners Has Risen By More Than Half Since 2019 - Forbes",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTmVueWFwamx1VE51MjF5Yl90LUJpcW5xMzV3VzM2ZWdBNW9ZYndkWW8wN2Vzd3lUMmVpR3V4SExNUUpnMUpjTWtDN3poSUxjaVhGUzBHc2hxQWV4aHhyOFJlNDFDdk85bFo2UXRzblN2azA2U1B4eDZMTG5DTHVtX0ZWeElQelNNUFNxVnVhSFF2R1g2ZWRVN2p3Zy1RQ05yZ3FPbFdEYW5SUnEtaDhWS0ZwZE8zaXRVbG1Mbl9DUG5jVW02X2NDSzFocmxTSTVYV1c5NnNn?oc=5",
       "pubDate": "Mon, 24 Aug 2026 13:55:46 GMT",
@@ -664,15 +619,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNalBzVkZqelIwWWpvQlFJLXFGSm81XzBOSnhEakVOSTcybjgwUzBYc01jeGtJZlRsYUFnWC1RdFhDcVI1aEtrbzFwMDBpeWxhRms4NHpPVDFhVmJNRjBhLXROT1U4aFpMYm9uNFd4TmNtdXFYZVJnNEZzWmh3VnZhc3VSYWRkQ1VLZWVLYm95cFhDY1NaYXByMjlNRTZTenlid29FSjdZM0dmMU5jYklFa3R1QQ?oc=5",
       "pubDate": "Mon, 24 Aug 2026 11:37:16 GMT",
       "description": "What to know about measles as NY school year approaches Lohud",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases increase across Pennsylvania; none reported in Adams County - Gettysburg Connection",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcjJZNXZKanMxYV9VMmpuMUFJSEdjV0pUdmRGR3FmS2diU0ZrdVVJZ3BQekZPZ25kYURqVlBoMmgwV083ZGxTbjFKaHVuaDl3dUpBbFE4bm9CSmJXNzZyQmE3UGtwVEtfaFlYRFRySHJsV2dQRU5Sa1pyTV9LbnVZQkJYRlJ6d2RmOVg4aE5FNk1EWHV0MjlBdXI1MW05YWZ6ZkgxRm03enpqZw?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 10:58:47 GMT",
-      "description": "Measles cases increase across Pennsylvania; none reported in Adams County Gettysburg Connection",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -795,28 +741,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles case confirmed in Allegheny County prompts vaccination concerns - WTAE",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVnFLd0t3UmFiN0tlZ25jR1cta0lSdkItZTlaR2VWQVpJR2kxcXBqSU45ZFUtRzF4RmJXNXdnQ05iZWpReHNFSEFoNUZpbnNQdTZKeE9ycklSSERheE1YSmlVTk9abHBvTDBuVi1qQnpGQlJldENZc2FSbktSYlNaQQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 23:58:00 GMT",
-      "description": "Measles case confirmed in Allegheny County prompts vaccination concerns WTAE",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Pittsburgh doctors brace for more measles as Pa. cases surge - TribLIVE.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM1VUUXpkQjl6aEMzczc2MGxULTJzYlZsbWszNzZQc29UUlk4RXIwbFExSGtmOVZ3VmlKeTdjelg3VEFfMkFEZnJkOWpSMDJrbmN4SkFzbGRJZVRlanhXZElWQ1hCc3VIeTFNZ2VJaUU1SS1MWEN0Wm5vZ1BYNjdjbWwzRU4zZTJnVWhrQ1NxNDlMNjRJN1dsMllkeHhfdw?oc=5",
       "pubDate": "Fri, 21 Aug 2026 20:48:21 GMT",
       "description": "Pittsburgh doctors brace for more measles as Pa. cases surge TribLIVE.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Dozens of NEPA schools missed key kindergarten vaccination mark for measles - Scranton Times-Tribune",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ0Rjald1WHQxSXBSNE5hZXo0UnZjZUlQQmJTUTlqVTNoYjNXR2dBaUhnS2J1aGlnOHI1STgzdUxUMjN6LUx6dDR0cGFJdjBOU25HczlIeEZ4V1BPbHpjVnZmQ2dFWUF6MDVJUEhESTdVUjZZWHliN0pyWTQ2Vy1fVmlaMFFxZ25FS2ZFMUZtSTJmb1JoeUdMRGdzS0VhekFudkxOejJuQmtMU3AtbjFYbzJTQ1REYUJadUJ1eQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 20:43:22 GMT",
-      "description": "Dozens of NEPA schools missed key kindergarten vaccination mark for measles Scranton Times-Tribune",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -835,15 +763,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdGazR5bFV2M1ZncEN5ZlZ3V2ZsaVpVYTNVYVE4MkQwS3hsMTRLQnYwT0xEQUJ3Sm5rUmRIVlN4VFhuZXZmdnFnVDFnYUZlOWxOcUV4QVhzM05Nd2RZVkpvSDE4UHFMMml3Nmd5NEZTd3BoRzFtLW9FRUxkaEJCdC1JQTNzc0o2YXZJZ1FaSkJ5ek9D?oc=5",
       "pubDate": "Fri, 21 Aug 2026 19:54:52 GMT",
       "description": "CDC adds 211 new cases to accelerating US measles outbreak CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Map: Track the spread of measles in the U.S. - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbE5SY1JYYnNMX1pQUlQ3aWxCUWdqZFlNbTR4dUtWaDBxQXFTOEZvemktbms3RzJqeFdSMWpFNVhIazcxR1FSVm1jaEgtRnd1NnVzRElYR2RuYlp3U0x3aTROYnNMc1BHeEhhVnhSZUtBQkdKZUlPUmlVWWhCOEIxNTRpbXFwaDU0dkllZw?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 14:38:00 GMT",
-      "description": "Map: Track the spread of measles in the U.S. NBC News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -889,6 +808,33 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1phZW1Wck15N0pVQldoRHhfbG5wWHAyLW4zdDBFekNGZlNnWGZ1OGl2U2Z1SlNnc3R4TXdBcUZSWWxLZ0cyZ185dTVlRFUzR01XeVF5RFo5dUtTdUlYODFFN0FNMXpiLV9Hbkdod29RYkFlMEkycFowMFRJLVRsSjI1QWFUS0VZeURz0gGQAUFVX3lxTE9XbmZMOXZKcTBPejVwMUQ3M2lWdWswUjl6azVoU1BodDdvLV9wamtDX2RFSGZqOG0tWnNoQ3E5VE8xSDd5VVhKQjZQakRNUGpSbTYyQmNBVUFEU2pOZjVOXzJWQmFxdVF6aEZRMlJTUFBkQ1hmYkVuclBrakFvNnhuWF9vLU84NHFYbFh0ODdHYQ?oc=5",
       "pubDate": "Thu, 20 Aug 2026 21:11:35 GMT",
       "description": "Ashtabula, Geauga counties lead state with most measles cases FOX 8 News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Each measles case in 2025 US outbreak cost almost $60,000, study estimates, or $134 million total - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTXFCQUJ3aVdNT2duSkJxeUlDVG9JVVJFNW0wd2FaRnZDa1NER0MwQ0J3UDFiMXZHR0VsTmstc0pGdDdJeUVvdWFCblZCU2dsZm5PQmNNc0xzbGtNSUJnT29QTWpuTkFPejN0RHJ4Y1lwc3lwcVljLTA5aF92T0tSUUJxRTFrY213Y2NQeU1fNmluLUNsdXZzS0tuSWR6ZjAzX1VMcjlkNVA3b01HXzN4R3dKSGdna01xRU9QVTJITjNmZw?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 15:26:40 GMT",
+      "description": "Each measles case in 2025 US outbreak cost almost $60,000, study estimates, or $134 million total CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Outbreak in Iowa - Scott County, Iowa (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMk5FZnAydkI2X3NzMEdKd1dEVUVBdGFFMDlsaEsxRl9nOENORkZ5MmNKdUNaT0RldVpJeE5WYzNoUm5uVUpPNDh0bjZQNkhsZGZhY3RORERlbm5TWGVWM2ZtN3VHVEhhMlVESkx6LXE5RHpqREpxa21TTjRpX3VFNWhR?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 19:45:00 GMT",
+      "description": "Measles Outbreak in Iowa Scott County, Iowa (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles outbreak grows to 36 confirmed, 3 probable cases in southwest Wisconsin - WPR",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1JtRXJGN0RKSlBoSGk0WEprRk9pcTVpRmxpWFJmT1N4VW1OSEk2am9sYmtIa0txSDhlQ2Vld2d5bWxjYndhRHpudmVyQkVuZWxlLVhsSUMwR1dmdUJWbXcwWXMzeS1TOXQ0NHlydi1BZWpMQng1UjhWVmV5bldMRU82NjU1R0w2OG5Xa3dIQ1RFZFJJZ0E?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 19:55:15 GMT",
+      "description": "Measles outbreak grows to 36 confirmed, 3 probable cases in southwest Wisconsin WPR",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
