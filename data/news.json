@@ -1,11 +1,281 @@
 {
-  "updatedAt": "2026-08-26T19:45:38.857Z",
-  "itemCount": 99,
+  "updatedAt": "2026-08-26T20:58:15.681Z",
+  "itemCount": 101,
   "items": [
+    {
+      "title": "Measles deaths in Lancaster County spark debate over terminology, transparency - fox43.com",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdTluclNQVi0wMFprMGtEZ0tpQWswbkFYYTNHbHhOZ1k1UF9scHU0LU5fU0FCZ0ROWHB1SDU0ZzNBZUxGLUtnMlRWZ3lUaHJ5d3ZwenlncTJwNENPbEF2dDQwaFR2S2VYVWpGZl9DTW1CZDZsaHhpbWtRbXpiaDZleF8wellFMXRNRUotcDJOa29RX0hPWkxTQlMzYWtfY0hrWkRwUnFKQnhTNVl2ajV4Ul9zYWxKVnlraFdOVGEyZmZRamRybDlJWGFob0JYNWdKdkVRa2dISmpFTnpGazVNdnhMVy1XampnZDFJM0hOUlZIQQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:53:00 GMT",
+      "description": "Measles deaths in Lancaster County spark debate over terminology, transparency fox43.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases hit 35-year high as US vaccinations decline - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGsxR2kxcjhEU0MySXE3VThrLVE1NUJ5NFkzcElrRVpEQTJyek9zWlJ5NjFjeGVXSkM5cVZ3R2F6d2RHWmlQZ1B6RUFOS1RLUU9kT0dHcWQydWdMVjg4TDJaMEJHOG5pT2ljNUpWWEQ1ZjhsbEhWYkM3VC13S0gyWjVLQi12V05neFBjZjRnOU9VZ3dzLS14NHJNWjdPR1RaTTJqZTRCNHJZd3hTQjZGelNibGpDNmtGUGZPOWxxa0h3SGc?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:50:25 GMT",
+      "description": "Measles cases hit 35-year high as US vaccinations decline USA Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases climb higher in Kentucky outbreak - WCAX",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUlk4V3o2VUUwMl9RXzhkOFc4LUQxSG92bVQ2a2ZqUjFHSmpOOUNGbFhnbHBZUXRYTWx2TjZzclZUb3hGU2JiWjBqXzBkTjFQTmdUYW1WcFJuVmF4LU1PYTZTUkoxVmZ3OGtKNFZCUEtaMlV2NGhqVTJ5NmJ0ZXN0NjJ5ZkxaZFdXbUp3?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:50:00 GMT",
+      "description": "Measles cases climb higher in Kentucky outbreak WCAX",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases climb higher in Kentucky outbreak - WSMV",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2pMSXBKS09JTXh2YWM2cmRfM1NEcWk3Q3dPM3NjQ2g5bUFUMXNxVU40ZVZGaFVsTDRhU0wwandhc2dCUDdIVmpyLXZMdTQwZ01rSWFwZGFNNmcyVnRWOW00QkFwVGlkYWhMSEU5QzY1TGFqeW9MU2FQc2wtZExzeS1ZQnlKNWRqQWhZ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:50:00 GMT",
+      "description": "Measles cases climb higher in Kentucky outbreak WSMV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases climb higher in Kentucky outbreak - AZ Family",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX1FSVmJ2MGp4STFjQ3o5TnZWMFluanFNV2gtbElFQ09QVTdNWE93TGFHVFlwelljb3BpbkxWblMtZFE1RGhoaTNNeHZkbTlPN0o3UHBSY3BXN3JWMkFMWE9Zd3l4djhESGgyTXctNGpwSmJ3bmx2Njl3NUZ2ekNjX2NxSVlXM0FmOTdSRVpqR1g?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:50:00 GMT",
+      "description": "Measles cases climb higher in Kentucky outbreak AZ Family",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases climb higher in Kentucky outbreak - fox10tv.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEhSVmI1Vk90cExpTllOMTYyYTBmVHpjdk1CY1RpenZKVWNmV3VLMFlkQXdsWENwMV9ZdTUxRWVXdnhjRFdhQmNkbDI1N21LTU9hWThDVnBHSjVDWFBJdzlXWURIcVpoUmcxaVVkbGwyQVBwYTh4UjNuV2J5VE4xcTJQOEZJYjd6WnJGdnlNMA?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:50:00 GMT",
+      "description": "Measles cases climb higher in Kentucky outbreak fox10tv.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases climb higher in Kentucky outbreak - FOX Carolina News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZUdRcTBFZHpyZ2U5emhicVc0OTJ1ZGpvUEpTSU8zTDNSNHh6aldjakVHNHNWQkc4V2xLcXpxalhrNWNHTHpYVEFWc0hNVnY4YWhKQmxFclNmaTFEYTBsWEhGMXlSTU9CZDMwLXU4MkpYYV9TRENodnk1Sng4VGV3N1ZiX3BKcVNXZ3pySzI2b1RMTlhJ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:50:00 GMT",
+      "description": "Measles cases climb higher in Kentucky outbreak FOX Carolina News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases climb higher in Kentucky outbreak - WBTV",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONV9paWxhS1IwVmpCU1ZocmIzQUdmTmdEbmhCZFdtbW9idUl1d0p4VGVUa3R3b1c0dG9KR0oyd2wwb095UEVZczRXMjlaX09OZ1BlTk9wVTI2ai1lWGs2NnhjWEw4UldFVHI3THdQTUFHX1N1TnhnQ1lwYndvN2lBTzBjOGVKWENnT1Vr?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:50:00 GMT",
+      "description": "Measles cases climb higher in Kentucky outbreak WBTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases climb higher in Kentucky outbreak - WDBJ7",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTThMc1pGM2o0NThHODdOaUFmRHl6a0U2VVZvNFNKdmN1RkNQX3V6RURoZFpPN0trcGtpVVRyRWpLTWZDM2Q5bFhZZU91UXBqeC1iSThrQkFQRm1nYjRHa1A0cWdDYVBsbzhRWFRkRGJFeTJSdkdreXZHR19HREVrd2VIbXVib2ZJQzFaaQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:50:00 GMT",
+      "description": "Measles cases climb higher in Kentucky outbreak WDBJ7",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases climb higher in Kentucky outbreak - WOWT",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQlNfSVlaLVF1YV83UFVzLUg3MFFBR09fMUtBQlhaMVpHMkFvbE9ZcjlaUGJXd1RkYm5nLWVPSjBGWTFaZVVqNGVEWUtWOWM0Y2xSOFplbnpIYXBuN0psajhUVlNwVDB5R1JvTk1aaHNEZWdVaVg1ZXNobXo0OWhGQ3hHT1BEUFdjeUhz?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:50:00 GMT",
+      "description": "Measles cases climb higher in Kentucky outbreak WOWT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases climb higher in Kentucky outbreak - WTVG",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMTY2SUNIOEhXV3lmYXVCZ0xFdGVfTUJYVmVXbU9GY0ZpTTNxcmJRWDRNb0VVMDdBTkswaGZVa0lGYUpoWklBZGg1aE96Slg1MGpMeGFPZ0xSTHVyTHhXNzF6TGt5bXFJN2x6NmJLdW5VeG1rSFo2X0dET2JoWVBfQXBBaUhOVW5aMXZhRg?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:50:00 GMT",
+      "description": "Measles cases climb higher in Kentucky outbreak WTVG",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases climb higher in Kentucky outbreak - Cleveland 19 News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVnBCaWYxWkMycVRoRWVqelZjVEwzNTc4WHY0bG1jUWlaRzV2VWxWSUtHdXlHNDhLSHNMRFhJU08tYzFFNXRBajRtdmRHVmJlQ1ZUaGhNLUE3Zkd0T1pveFgxcmp3RzV6dkJUd2ZKX2Naa3JFcGFZS0tFNm41TzdaX0xqbnNnUEpVazdtM0l3WEhFZnBQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:50:00 GMT",
+      "description": "Measles cases climb higher in Kentucky outbreak Cleveland 19 News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases climb higher in Kentucky outbreak - WKYT",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3hfUklzNzlORVlubXRuYjcwNmhlOU1VeWR5WXBMajVhYWZBSlRJdE9zZ3R1Y1FFNEJQLXctQWdOSUo2SG5ULW1uOEdtX2JjdzNDeG5GWEJZeGZ6dFd2R3pNUDZMYlNmTVJxYVpKOHdtd2lKZG5UTU9fdS1MMThfOWVwX2QzSkpDRFhj?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:50:00 GMT",
+      "description": "Measles cases climb higher in Kentucky outbreak WKYT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "In Tampa, RFK Jr. questions accuracy of report of measles deaths in Pennsylvania - Florida Phoenix",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDZkNm91Z2FMZV9EYW1kem1PYy1LNVNCRXVPUktzaWRWTVQ1cHdTeHNycDI4NENnWnlFbS1kX2dRbzBoZnpFM1dEUnVlaHdnZXJSS0hXcEl5YnVvMTlDSlE2TGVxN0pOX0pUZHAzNkQyU1ZqSVB4Q05Qd19uV0YzWlVDNVpDR0lPcjRmaVpEd0JncUwyem85MGJpVmZUT3BuVEFZX0haX0xod3ZackpZQWttcjlOT2Zs?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:48:47 GMT",
+      "description": "In Tampa, RFK Jr. questions accuracy of report of measles deaths in Pennsylvania Florida Phoenix",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "What to know about the Pennsylvania measles outbreak and keeping yourself safe - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdktNZVQ1NDBtRThnbURQTFM4Ymk2cTdqUEx3UnVaV0xFeFBYYm52Y2lSUF9rQ0VmbEpRQWtWSndYWm0zMDJqZWZpLUp3RVh4TkJGbG9JZXJxMkk4UGFXMWJKd3RJUTBtWHNLdWlKcXBWVy1kTmRYbk5BMXFnemxiZUVma1ZSaEl4b2hiWm4wdXNCdkVHc1Fua1g1c0NxVXBtQUJFUw?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:44:33 GMT",
+      "description": "What to know about the Pennsylvania measles outbreak and keeping yourself safe Pittsburgh Post-Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Dallas County health officials confirm measles case, warn other North Texans of possible exposure - Denton Record-Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOOTdpY1JZTXJlSVhuWS1NVnM0WmxGQTNpemxCUENEY2l3LXpJdnFqMW5yYW1TelBNUkZfbDZScDdHcDdfMEpvWm9zRXRGdGl6Nlk5aGk3NElUdFVycGJaM2t5N0FWNlVuQkU5bWRqRnhHX0N5eVYxN0QwUnp0ZWJVUU1CWVJCVjNCX3ZIcXdHZDdQeW5xN28wemRsZkQxMllHazVGZVhYZFJFSWRhcHFEZEQzTEd1eDZmT0VCaGhuX2NjSV9icmFtVDVEa0hNcVFLVS1iYzNZa0g4OHJaR2g5YXNuMDBzdWlnbXlpTTZzM2g2LUU2VFVfdHB0eEh0V0tHalN5cUJnbjNaX3c?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:41:38 GMT",
+      "description": "Dallas County health officials confirm measles case, warn other North Texans of possible exposure Denton Record-Chronicle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Infant among 'measles-associated' deaths in Lancaster County; cause of death not confirmed - local21news.com",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQV2Z6X3lQRHNZbnhvNXozTTllUUp1RHUxR3VhVGVHZUNpNXJQWDc5N3BqWm53bkRDVnJ0ckg0cDEzSk9hRlhHWXE0ZFE1TWJScGJjTlRNU3lMdG51ajQxRkliU0FNbUV4amFzSUZLdl9weFp2NHhwWXFDV1FmWHBPbTQtamZCU3BlMGoycV9rZ1d5WTI0M1dOX1pfVVd4ZkxId0w2WVFaNC0yMG42dkFMdzBWRkx1VEFpZXdkeDBwZW1XRkRpUC1qY2xrUUw0dWxfOVNKekROOVVNd09xX3ZPSHBucGtRSHlyTXNXUFgxR3ZocjRGRTV5YVFPRUJzckRuMWtSbjRuMA?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:39:18 GMT",
+      "description": "Infant among 'measles-associated' deaths in Lancaster County; cause of death not confirmed local21news.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "UW-Platteville urges measles preparedness amid regional outbreak - Channel 3000",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeWJVRlRiaENvQU4zMndCMUdVazdIdEJfZ2wwYWY0Xzg1cTN0ekxhd3pxX3poYi1fb1RtZ3NOaVFBYk1ZZGlId0I4RkZ5VExDSWU4S0ZpOExPVjJYTmlhb1JkMFE5VEdpTVRRZ1FpcjlGY3BQQVFJUTE1NGp4dVdZOUxKbU40SEtSbEtTV004cnV0a0RMc3p0VEFYTnE0RDVacEx4b3daSWFvQzk2WjRPZWRDQ0dUWHNVc1JTaFJnQWVJMU81NVlwRFJlQmZGU29vOG4yRktGbE84NW5ERC1wag?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:34:00 GMT",
+      "description": "UW-Platteville urges measles preparedness amid regional outbreak Channel 3000",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Amid Ongoing Measles Outbreaks, U.S. Children Remain Vulnerable to Vaccine-Preventable Disease - Johns Hopkins Bloomberg School of Public Health",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbWdOUTBXZ3J2S2lPVGxVbXEtaEdUMTBzdzVTVDBJdkVZTFdPeTV0Qm5kR2h0Wkp4Mmtaek9jRFRpMTRFbjdNOURPX0Z1WENhREJLR3ZWSTZwQmxQcGhWN1VfLWJSdjExbXpORF9xdTFfMW1fcDdBamFlbzM0UTlqcmd3Q1RRX3lvN0IwVDJucXlSQkhQSmc?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:32:04 GMT",
+      "description": "Amid Ongoing Measles Outbreaks, U.S. Children Remain Vulnerable to Vaccine-Preventable Disease Johns Hopkins Bloomberg School of Public Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Dallas County measles case prompts North Texas exposure warning - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzExbFl5RjlSblBfZzRrQk53SUMybGVXQ1ZMVjdhNWpRRG8wc2RneWZtcFZTWFJFUldjMFJWaWRFM1NRSTZCandJQXpDUHF3TFRYZmJ3ZG8zYk55emRrbjUxRHhSd0YzOTVadVJMTXh5ZFhRcDhWdU1HNC1qaUZIdEZGa3RHR2tDSlgtSzI5RW00LTdwZncxWFZEMDJWcWxxcEE?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:24:17 GMT",
+      "description": "Dallas County measles case prompts North Texas exposure warning CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Additional measles case confirmed by Iowa officials - thegazette.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWldsZkZ6QnFlUkFjeVp3YTNmUGR4dWtxNlgtTS04WFBMVVhxcllVUnV1SGtweElZLXEzejlOSXgwZEVQZEJQYTk0bmxvVG5LanlEVUpoR2FUSXZsSjQyWHhYYkJ2SHVtX2JRdHZMZ0llcHRyTUp0Nk9YQWNVRzRmTTFnaTl6V3NwTXlrQWxxNFY1MXFZNUJUTkNYMEdxTVAxbm1KdWV6MUNQU3FuYTNDMl9rUHhXNUFUMlgtNi1fOWdvYzR5dXNsZi1WQ0JBb3JWUllB?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:15:00 GMT",
+      "description": "Additional measles case confirmed by Iowa officials thegazette.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "RFK Jr. says Pennsylvania 'is refusing to cooperate' with CDC on measles outbreak - KATU",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYU1uYXVGSzJ2VzVfOVJNdGgwRlBNYW0tVHFXRWpJTXZpQktOaHVKcmRhSnl3UnlEZGZiY1V0TGIyXzAtVWxyZUJxZWNtLVpRbUdrSWctOU54VDFyVkIxd3RmTkVrZjlqWXZvUExCemhQc1R5MWpuQUo3RzZWSDVPd3VjTmg5U3ZCQllJNjB4clV6SkZ4bWpfbmtCY1NPRDAyYmNVT3BsOXctODZhbjVScldDNGNjUU14Y2J6WVRKU3hjdVNyTlNFUjl2Uk1jYjZRVmN3R3FrRFBUZUZ5c18tTkN4cHhDVDBLYS1sQlBsRXc?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:14:16 GMT",
+      "description": "RFK Jr. says Pennsylvania 'is refusing to cooperate' with CDC on measles outbreak KATU",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Kaneland High School back in-person Wednesday after possible measles exposure shifted classes to virtual - Chicago Tribune",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVl3aGdUbkc3NDdyVi1fblQ5SmdVcVVxUG1BcUZlSW1xMWNhSTM4NlY0ejRuWmY0aVlWWUliVFhMMnZrbGp3SlZCNmRwUG9rZDA0U005UEZ4VTU3bVFkeDFZVTQ2ZXZDUmVMUkZ5RTJvV3ZyWXpMMkc0STNZWjc3MjFpVXVNMXYxX19xbHlaOVR2NF9IOUxiag?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:13:49 GMT",
+      "description": "Kaneland High School back in-person Wednesday after possible measles exposure shifted classes to virtual Chicago Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "1st measles case in Westmoreland County appears as Pa. reports 94 new cases in past week - TribLIVE.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeld2R1AtdkdUMHItYlU5WmRuckFCdTg0NnFfTVY5UFhxY0FvaUtSNV9hcHNFR3BGbGNxUzRWcGVGSEh0aVJfUXNsRm56MTBtTWFjREtIX25zYUY4YWNYRldsUzhDVW9nNXFTZlhReEsxNjZBMGF3emNwbFRSa19rbTMyWVZna3JnallManplTHpZZ0FqN3FEd2VRLUZaS2VtRk5iTTgzTElwYmxvWXhia0R6U3V0MEo3RFpSejNZeU05V1pCWlMw?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:13:10 GMT",
+      "description": "1st measles case in Westmoreland County appears as Pa. reports 94 new cases in past week TribLIVE.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Amid deadly Pennsylvania outbreak, Kennedy blames Biden for decline in measles vax rates - Politico",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVU8zNmdxSmNpQkthaTlKM3RXbDJseDhseW9NanhYUE5xQ1ZIVU84R2xvckVoU2hVZHNRcXgwWlFXdDNnOEVLRThDYm1QMlNpd01vV19xYk9adUFuVWV2WDJLWWFESHM3MUREZFJ4eUxGVUMzNGtPQ3FWSUJIWDU2UXhaaW9hdE05elo2d2tySUhDN0hCV2c?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:13:00 GMT",
+      "description": "Amid deadly Pennsylvania outbreak, Kennedy blames Biden for decline in measles vax rates Politico",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "First confirmed measles case in Westmoreland County - Audacy",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lSVFyWW1pRnR4LUN3ckVzTVlDUVlGdGNOaGhoNjFhWWVjQ3d4Z291UG9xc1Q2UEUtdWF2cHdYWnpKUERpSlhib0pYeVNNc2pYcWtVYVdwd2hrQ1Noa29DV3pHUUNsNHBmcERpSzRySEhJQQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:13:00 GMT",
+      "description": "First confirmed measles case in Westmoreland County Audacy",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "RFK Jr. says Pennsylvania 'is refusing to cooperate' with CDC on measles outbreak - National News Desk",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSndzSVVHNVkySzhNSkdIOXFSNEFCamFXLVQtS052SHhKenllTU51a2lud0ROWnBnSWtXUWwzeHE5M3JvWGg4TVRZRFpTN181Nm5hSFg0dkg1RjN0Q0lyU0RXVHB6RHdMLVJpUzlySWZQRjlkQWs3NFQxaVBBa0JkaWl1UWIxYm4ySjJZZ0FBSGVCQlJlbE1UVEcwb21YeWpXWEJtVk11dnNHX1RtLXlsTi0yaGJzb3FYTUZwU21EQTlXNE51dzREUEdYXzFSS0l3SFdON0hRdEpqVktod2JKMmtTMG9NajlTTEd5eDB3V1FyZHkzZUZVR3N5TGtreEE?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:10:30 GMT",
+      "description": "RFK Jr. says Pennsylvania 'is refusing to cooperate' with CDC on measles outbreak National News Desk",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania reports first 2 measles deaths in the US this year, both people unvaccinated - Sentinel Colorado",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaERTYjdmbmg0RzFqekxUQUV2bC12WEdfbFZxSGM0aFlyZHJzNFZ4VzVkMnlfVnZ2TExiNmZSS2JVZXNNdkYtWUJjNXBGMG1LUHN1ZUU0dWdLWXNjVzVWemZReURGTEZiVVBiMk5Md3lJV1ZQSXUyUzI1WnZvZVBqR0Y4Y0U5OHM3Z3BhZzN4ZXF6UVZtNzNCTHZHaEhKRzBqeUZ3aGI4TFhRSzhyMmJCbC1KTm1TMXkyRHRWR0VhUmhqclpQY1ZuYWdrb0I?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:04:02 GMT",
+      "description": "Pennsylvania reports first 2 measles deaths in the US this year, both people unvaccinated Sentinel Colorado",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania reports first 2 measles deaths in the US this year, both people unvaccinated - Charleston Gazette-Mail",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUll1bWQzWTIzSGJuc0RWVVRzRDlCYUgxZ1dYU2lOS09ma2gydmJIb1dmRW9aS1h3U2FQX2pwLWJmeTRncVZjcFdnTkpDMUJBVUhON2NEWFl3bzAtTjNseG02SmZSTzN0cTMwSV8xejVXd1lqYy1oZ3ptRURNeEhyRWhsMFozTmltenlKQTZ3SWlDRzJwWGJsay01MWtnV2Y3aWMtd2pYOTk5SUJSQmo2c2NQdTVaQmtNS3UzYVplNWtMeFM4SjBWRXUwTnptaEpvV0Y4ZkFJX25peDByY1paMlBXaFI5cTZYV2I5M1UteDZ0Zk9QRk5xZFg4X3NjWnFSSW85aWpLaXU0NllG?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:00:00 GMT",
+      "description": "Pennsylvania reports first 2 measles deaths in the US this year, both people unvaccinated Charleston Gazette-Mail",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles is back in Collier County. One new case so far. Where? - Naples Daily News",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLVpjNXFqSXA4QldDWGVtUmZpTlRJXzEzTDhWUTZYZVFMQ2FYbGx3NW1EbnprUHhha0ljdmVfdm9CTndKbDhCb055RnltOGZvOWJUaTJTUklUZUlENHVxV19PN3ZFTkpBcUJVN29LdkV3aVcxa01YV1llRnY3SzVXNUd2VUVqX3BzaGNtV2Z3d3kxQTFpWFcwRHRNWWNmQm9QTElkSmpEeEIwQXc4cmJheE5HNjNadmhMSU1QeFVkcmhRME04S2xMR09lT0RRLTNMeXJta25n?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 19:56:00 GMT",
+      "description": "Measles is back in Collier County. One new case so far. Where? Naples Daily News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Why millions of people around the world will contract measles in 2026 - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbGl0NVB2VTJTeHpTaTBLT3J0dGJFaGQtWUU5ZE1ZMWZjZzZYZXBWU2FLMlU2RU5qUVQ5YWYzeW1hLUotSnZoQUk1STNZVXd5TzNMUGhJdnRNbEs2ZlZvWG9rbC1UeWNrNjZfNEt5NExRZ09hM2xwZVJPd0pHUWR4Wk9TcktsSWhJUmdHNVFNTk4yREVSbzhDX0NUeE9MNEtpMjRrV19EdVhWRnZpQlR5aGxVTnFKZ20xOFA1a1BrUVpFbjNBQ0NtUTNoVnhOQ3BTQ1E?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 19:34:52 GMT",
+      "pubDate": "Wed, 26 Aug 2026 19:52:04 GMT",
       "description": "Why millions of people around the world will contract measles in 2026 The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
@@ -30,28 +300,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "What to know about the Pennsylvania measles outbreak and keeping yourself safe - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdktNZVQ1NDBtRThnbURQTFM4Ymk2cTdqUEx3UnVaV0xFeFBYYm52Y2lSUF9rQ0VmbEpRQWtWSndYWm0zMDJqZWZpLUp3RVh4TkJGbG9JZXJxMkk4UGFXMWJKd3RJUTBtWHNLdWlKcXBWVy1kTmRYbk5BMXFnemxiZUVma1ZSaEl4b2hiWm4wdXNCdkVHc1Fua1g1c0NxVXBtQUJFUw?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 19:07:16 GMT",
-      "description": "What to know about the Pennsylvania measles outbreak and keeping yourself safe Pittsburgh Post-Gazette",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "RFK Jr. Insists Measles Is Under Control as Two People Die - The New Republic",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1BrcmdiQ2g2Z1JkSGdaNHB3LVZHZmR5U2JaYVEwYTl2akZPcFdYQzBUcUF5UHRyeUdUVHZWWUhGNW9tUkQxSVRrZ2diYWVFeVpmbVJzY01TRHV4Q1RyVGxqUkJOV0pvY0xQbmdaX2IzY0U5dkJ3dmRzWG1MSy1nbTdfZ0ZSNGhTRWFTRDdHbVhwV1V4WFdz?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 19:04:52 GMT",
-      "description": "RFK Jr. Insists Measles Is Under Control as Two People Die The New Republic",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "What Pittsburgh-area physicians and hospital systems are advising after Pa. reported 2 measles deaths - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzZqZFVNTG9OQTVSLWFhSFNGbG1Oa3dzQWRyalh1RUV2T3hBXzBLVmg0U2FlZDFYckU0OFBSNVdMYWpkUUNHVkx4cGJsN3JaYS1uX2p5Y2FGQzEzRE9FY0dxa1ZIay1EZ2NfYUJjWVpUTWJtbVhwS3E5SzdxaHNvRE5xWlkwQXpDWENRT0xyLTFZREhDNHNOWFBwTXJRalhwaFlzSVJ4dWk2VHl5SThr?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 18:55:13 GMT",
-      "description": "What Pittsburgh-area physicians and hospital systems are advising after Pa. reported 2 measles deaths Pittsburgh Post-Gazette",
+      "title": "Pa. reports nearly 100 new measles cases in past week, including the first in Westmoreland County - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNck5HNE5FS2VPRDV5QV9KOEtqN00yb2xnWG0yYjh0X1BqMVZESXQwUmlsX2czUnh3V3pYZkhqRmVnbjBFVGNNSE1ZNzlqRlJNdUtnNlktTUVyWlM4SzBId3U5RTJLZllnVnlQOE9nTFhaY2dZaGliNEIxQzNUNXlLa1VqQWlpb051LVo3aXpxN3JMSzk5T0ZzZ1M1YndGMzdpRVpRNzV0NU9uaXpSbE9QWjRsSHd0eUkxdnpfb1JQSQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 19:23:25 GMT",
+      "description": "Pa. reports nearly 100 new measles cases in past week, including the first in Westmoreland County Pittsburgh Post-Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -120,24 +372,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "What's the latest on measles outbreak in Maryland? Outbreak explained - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNODBNRll0MlBRUUNLS2xsQm5vWVRMQnFQZE1QUFFYVTRhN1V4YV9kME1ZNjd3RW44dTVSY0NLaGlFdFlyd2JEWmdmLUhfZHNTZDhrZElWR21saWhEX2VzZER0REV4MHFqUGdKUGRVbFJLaEJnMHB4b3E5QUl6TzlVOGI5cjhtZ041cXpYWm5WZFdKUGl3RzNvWEZNdFYxdzdKaFhNbWpiX2QyR3FjTGNydVUzYXFKY3dhOHRVYmFndm1sSS1ONTdOUl9seHExMExfdEhJN2luQWl6VUlvSUQtYXgydw?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 17:48:12 GMT",
-      "description": "What's the latest on measles outbreak in Maryland? Outbreak explained USA Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases surge in Maryland. What's the latest? - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLUFRY3k4dWdhZTFVYzJHeXlzMXY5Q1o3QnlJdVZETnhVcVR4X0stT1liUm84cWlLQjR2c2x2bTZ3Z0l3emFBQlFRTXpEWU9tOTVyek1vanJKVm1Fb1ctY1g5U3M5TmszTnh3UnVMQ0hPempNT2NiZXkxRXMwc1Bjd2UxLU5pXzlkQUZsdE9TU3A5Zw?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 17:32:56 GMT",
-      "description": "Measles cases surge in Maryland. What's the latest? Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles cases surge in Maryland. What's the latest? - USA Today",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWkNsWURJb0hOczJNOG0wTmw2bVYtTmhCNTJvU0dmVURvTm5VWWNiNGVZNnprdThnd05ockN6eEFDajIwSEd2LXF5dEgtTUpkM215cjVhalBKT3UzbkcyZFFlRko3QXRFU3NxYkZuZnFYSHphYU8teE1mS281ZHNRZndTd2NpbE52MU5FaktXb0NGejJhaC0zbjVDTGNleWZXdWZkdWpfM2lVWmZFU2o3Ni02T29maVhVR1JVMFFQNDZRQTZXOHhrWnpuQi1INGhoQXFVVEt1SXJoRkU?oc=5",
       "pubDate": "Wed, 26 Aug 2026 17:32:00 GMT",
@@ -183,37 +417,19 @@
       "sourceLabel": "News"
     },
     {
+      "title": "RFK Jr. responds to Shapiro over measles-related deaths - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDlRLVBpdWFNNF9TeGlLQ2I5b0JEalctZFNuN0Jfd3RjQThfSDhZcWZyaDUzQVlHMk1KaWNsUXN4NG5MelpXeXJxeXEyeXQxU0JQb05qRHBwUXhOZkV2WGlGUHdNdXIxTWNVQzZKcHdEWFplWl9jQjFkZGZYa2ZybjA3NNIBiAFBVV95cUxQV0NmVlhnNkZPMExtRnY2SkM2RFNUTFB2dG44SkFYa3pIVnY0bzJDX0VaUnpkWnRrVnFfNXl5Nl9PM29xejFjTVU1Mm5uN0FDSlU1cHZsWjBZV1gzY1RwQ0JiWlVTTzJvVXdHR3daNzVKbXNFRGtKMWlyR0VUX2RJeWNjMHd1amtO?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 16:54:00 GMT",
+      "description": "RFK Jr. responds to Shapiro over measles-related deaths The Hill",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Even at big companies, health care costs are increasing - STAT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVktaDdIMDBWck5nME50NjEzTlJUTW5FYWV0NENPVnZWc0RQQ2RseWFHU25KeFF5d09sN0lXWlhBclBPYTVtWnJ6WWR5YVBZdUFobl9BSkQ3THRlb2p2Q0NNZ2JhX3Y3Z25rakl3dkNqYm05Y015UW9Gc0ZXOFMyZWo1N0ViZVNFOVJINXV3c1o4eWxXc3lubGhtdGplR3J0?oc=5",
       "pubDate": "Wed, 26 Aug 2026 16:46:57 GMT",
       "description": "Even at big companies, health care costs are increasing STAT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "What Maryland state officials are saying about measles outbreak - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeHJyZ2RWdWxxRk1sWEQzSzBkdV9NX1hJd0NzazQyT3RMSy1WOVpvTFNucHdCam5NNVFicHNsenNVUU41T0tzNXl5U1VTV1VHcFltVlhGMXNqZm5VS05ZOXhWMUZBMTBhOFJQWThqYmwxSXJ1VURDTUcwSmROOTNaODhtdHl5X1FHcG95UXY0YWh3VGc2RXVKWFhPdzZSMnJWNWhzTUE1OGJ2N3pmNGV2UUNkeE02RzNlaHc3SzJ3OGQ3eGlaSHRTcUI5V1hTUjg1bEt4Qk13emo?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 16:26:08 GMT",
-      "description": "What Maryland state officials are saying about measles outbreak USA Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases climb higher in Kentucky outbreak - WKYT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOajdyNmFKREp4YmlSZzFzNE5McGVKRTFiMjY5NV82dVcwQXNkeE5BajZRS2picUNfZ3p0TG1uRG4ydWxmd25jVGRmOXpnVW1rT0NDRnB6bHNYWk15MWJkY0dxTk5WS2lGYXNNdUFXUHVlY2xGbVhlb3FiLXk5bkZMNVJia9IBlwFBVV95cUxQbXhoWEVZZk16aGFMS2pFeFJJTFkwdkg0V18wM1RJQm9qeUJHWUNKUDZVdmpQMlVFUE5pVlhPQkFwX1p6UE5JQmZ2eFV5QWdxZWFTT21hdTFQNmM4a0JJREo0WExzR2xWVjF1eDlnS3hQa0ZiamhSOEdyTHNsYVVZSWZsRFJGbzZfVUoxb1JTSUdHd25CbUd3?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 16:25:00 GMT",
-      "description": "Measles cases climb higher in Kentucky outbreak WKYT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "First measles deaths reported in US this year—American Academy of Pediatrics responds - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbU1tY21IT3l6QUdmVVlCTDNhdGdkQmFTM01vN1hsb3ZKZ0RWN29ZNE5NVURXY1Nzdk5UWXcyNTJNT0t5Sm43OE8xbnctajhXUWpHVmhNU0ZwOXB3U19vR09KSEZjLTRZTnlLMTRNVkV2WVZUWVJFOUtJTDJCdjFRWjl5eTF3UTg?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 16:05:25 GMT",
-      "description": "First measles deaths reported in US this year—American Academy of Pediatrics responds Medical Xpress",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -255,15 +471,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Calls for Kennedy’s ouster grow as two unvaccinated people die of measles in Pennsylvania - MS NOW",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUpZOWhTUkg4dXVHSllRS3p2VGE5Sm5oVDBnT1BQUHk4U3Y4X3NSdEJUWHZPLUJId25iZjFvU3VXdjNjcm9TTW0wZGthbGZ3bUNxWGdVcHZGd1VQYUVucTM4UG5lWW9LS2tKV3pQT0hDOXB4OXMzMnIySEYtZ21YTUkzN3Q2YUNxRlF0MzlTc2xnVFRnTldhcGpJY1liajlYbGpick5jVmpxT0NTdVkzcWFPZThBUmc?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 15:47:22 GMT",
-      "description": "Calls for Kennedy’s ouster grow as two unvaccinated people die of measles in Pennsylvania MS NOW",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles cases reported in Mercer County - WKBN.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeks5ZUFSSkhkM0RlWVJrbUpBNkdaWktPR3B3UHlvdVVfV3J2SGlKWkx6dWFlRDhJRDJ5VURoeUptYV91ZTZ4NktEMWFGeUNQUWY2cFltTW5FVm9ieGg1SXE3NDFVNGRONEhrSzQ2Y0cwbFdyRjI5OE1iNkZrNjBXTTBKaFBEcXV1MHVsdHQ4SmNxek3SAZgBQVVfeXFMT1poR1hTZklWQjdkVVJfbGkza3hOcGFEck9kRnZQTTZ3cU1WN2M2Nlh6QjNremI3dWxWcnB5THAzTWtNU2laSjFMS1ZidEhWeDVfeTBoRDF6eVhUTGM5MkVsSldkbER3czNOUFYyTnFTR1dwcWVROWdlMEJyQ1BLQ19Hblhlc0RvR2Q0NXdDdXJrVVhpbVh4V1c?oc=5",
       "pubDate": "Wed, 26 Aug 2026 15:36:04 GMT",
@@ -282,37 +489,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "First case of measles reported in Butler County - Audacy",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Nd2ZEZTladVp6T3R0WVNsRElkUnhhS1NJUEdodEtnSFJiUUN1T1JyX3dJUTJZSWdoTXFuM2x4Q0pMXzd2YjFUcnh6aDVZbzhSa0R5cEQyRDY2OFlYVU9TcWgxZ3JyMnZibTlSTGlpc2hJaHc?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 15:20:00 GMT",
-      "description": "First case of measles reported in Butler County Audacy",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "2 dead from measles in Pennsylvania as cases surge across US - KSL News",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcHFkN05FbVRkczR5RlFCYUVUd3lBeHNXazVmdEVtM2tYOHpGeUdtNTYwYTZTcHcxS01FblJYZkpuQXVEa01CY1otMVFLUXhkckx2dExPMGhScTk3ODM1dzhTMlltV1NUZkYxbGkwbkdDWi1xYzAwQmhJS25kTzh3TXY3Tk5NclB5eWtSYzlnck1OanFWaElWeDl2YkxaUQ?oc=5",
       "pubDate": "Wed, 26 Aug 2026 15:12:25 GMT",
       "description": "2 dead from measles in Pennsylvania as cases surge across US KSL News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Two Unvaccinated People Have Died from Measles in Pennsylvania - Democracy Now!",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaG1LV2FQRUhTZHlrQVNGc05uOVZ1Y1Eydld0QXJLRnNjYkZjQ3g2TjFXbmc3THpmT1lNQl9MU0ltcWxCY2VQaXJTQVBPYlpGaExaRkNBenZPVEUwODVyXzBXRk1iT04taDB2LWZNOUszY0IwdUlrYmxkSFFQM3o5cFFQTUdlQXJ4cEtJdUhqNWw3QVMwQ2RhUHg1TnVfQ1FBS2NObUhUV1RUTmltMVI3VA?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 14:05:56 GMT",
-      "description": "Two Unvaccinated People Have Died from Measles in Pennsylvania Democracy Now!",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania confirms first measles-related deaths in 35 years - FOX 29 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tQ3FEZExuRzRsVXFvSk1MQ2M1djFQa0JEVzFXQlltd29oUm1jbkpWLU1kWHBYNHFMS1FDWlhmeUZDTVA1OEFfM0xrUFdBS1Vpc1p5Z2FLQkpxNDZm0gFiQVVfeXFMUGFYTlowd21Ld1o0MUh0bFpZVzhlYlpvS3pZNG9SWUFCamdHdGU3WHFpeVk1b0puSk00NDNkTDVPRHB2Sjlpa2FhQWV2dDc2WXFTTGdqZTBPa1dpdS1ieS1iTnc?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 13:53:20 GMT",
-      "description": "Pennsylvania confirms first measles-related deaths in 35 years FOX 29 Philadelphia",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -327,37 +507,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Two die in growing Pa. measles outbreak - Mon Valley Independent",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRGo3YzZfNHZXeXlPOVo1LWJfQnpnRlIxM05tM2x0UFJwMG1FWWIxMnpsSW5CMWtUb1NJZlVLSnc4WThHY1ZyRXlPcTdrUE9Ia3FIazlUYTA4bVpidnlIREdKVlRGUGNkeENjWkxrS3ByQ2stc3dvVkFtTWFqOHdnWlFaWk51UHB6ZjRvVzg4OHQ?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 13:17:39 GMT",
-      "description": "Two die in growing Pa. measles outbreak Mon Valley Independent",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "7 Things You Need to Know: Heat and storms, water crisis, measles outbreak - KOAT",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOekJ5ajJfa2kyRmdhMWpJUGlieVVtUTJqd1BIX3RmT2VndjNaNy02WUhVc00wSHRYeHlqY0tMdGZ0eDRyRkV5c0QwRUx1SGdCQVE3N1g3cVA4bWduQ3hvRUZGNm1ROTcyS0h3MVhsLWpZcFhVcTZ3bHRUWUd3dUstdDJWcGJNVFZQWTVkc0dmRXh0OUVySzJZbWZ3amp6QXRr?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 13:09:00 GMT",
-      "description": "7 Things You Need to Know: Heat and storms, water crisis, measles outbreak KOAT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Butler County confirms first case of measles amid outbreak - WTAE",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRW43Ti1lTnd1dTVESFZZLWt2UWlPdEJvX1BrUnhFY3MybHZPbFlpRlN2OFhRYURpVVB1MzZkT0RoTnVld2d1VkY2YjcwUGZrMnFSYlZTWm1iWENKSnpBbkhiUmVoeFhIeWJpQnpyWGVDa2RRSmp1SjdrMWh0ejlRdmxpRTljLTJTZjJ3dVZoQnVydw?oc=5",
       "pubDate": "Wed, 26 Aug 2026 12:28:00 GMT",
       "description": "Butler County confirms first case of measles amid outbreak WTAE",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Health Officials Report 2 Measles-Related Deaths in Pennsylvania - TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRklrQWMyVldneTU5RlpLYzlyRldRNEViaGtBelpyNVVtT2RfRGxveEIyYUJ4LWoySENNai1RSnhKVDZYRkpqcDI3Z3dGTTQ4N0xObmJmZVNhT3BDTzVGNEM1ajNTSDgtWmFIVFdWNHlQOUk1b1l2a1dzVXpEbUFBSTdRS3BhVkFPV29PbmF6ZGxNUFoxbk1ObG1XOGQ5UQ?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 12:23:29 GMT",
-      "description": "Health Officials Report 2 Measles-Related Deaths in Pennsylvania TODAY.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -381,33 +534,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Dallas County confirms measles case after visits to Allen, Fairview, Frisco - Audacy",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUjlCd1RNQ0drbjJfYloyTTg4dWJELXprVW9LME5GYldyRTh3aWw1akdxT0pJYV9XWUx5WGZ2Z1JiNW9ZSDQ3SkZFeWdMaFllVXJjcjFqT2tNYkFsV2NpVExZS0xTcEpibElKUTNVaWQtTEJXVnZ3STg0STRmM084RUFRNzlVdXprQnpvNExZYW5fYmREXzM5M045OE5vTWNKYnZ5V0hFMlZiaWhYRjZYekZR?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 11:21:00 GMT",
-      "description": "Dallas County confirms measles case after visits to Allen, Fairview, Frisco Audacy",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Two measles-related deaths reported in Pennsylvania - WHIO TV",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUThaWl84ZlFQbGhYVldWQmNMeHJyN3BwYTROZER4d3FKLUVFVTBsNS16ZmZhc0pJNHFYR2tZSm9UTnlMZFRfZW1BSF80dWpMMVB0bGljZUFWbGROcnd2d3ZEX2U0c1RnOUZWVnp1VnNYTzNyc1NIUWRvWENIRF8wcUhpc01ta3h0TjNmWktuQlhwSTdZd0JGYzhTWTRYd1gwMGFJRFJxdDRlY3JHYVJuQdIBxAFBVV95cUxNSFRncXVrODMtcEhYTmdPc1JaXzJnS3NuNy1VT2pKeVlEZXdYOWZKeFVyVWFDN2VKYzFuZVpNMjhNT0JEb04zS3ZOOVJwLUdNSk5QX01zampvanc1RTlYODNaZURuRHBxeGotR2RZM0xiSENPV3VkQ3d4NTdTWkdJd3dZd0xaWUk0VGJ4N0t0UDJyc2EzNC1sQ1NmcXh5b0xid3hQaVREeWFaVW01NTg5dVI3cW5JT3lPU2FwZ1hoUXhwMk9x?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 10:55:50 GMT",
-      "description": "Two measles-related deaths reported in Pennsylvania WHIO TV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Editorial cartoon: Measles vaccine - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTU5WVHdueExXcnF3ekYtWFQ3Z05lWW82dUVtc3REMDZoOWpSTmNWR3dwZmxGaURhR1cxc0xpbTc0OWx4WEpObkgzTGpta3NXY0NxV1RiUjdxbDFTV19KbG1YWS1nMFh2WU43UURrTHRpTV9iUDJzd0hsVkVDeXBQTUp1QW0zV21DLXdPU0FaZC10UWpnV1E1NmVnUU5MR2YwVXc?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 10:31:18 GMT",
-      "description": "Editorial cartoon: Measles vaccine Dallas News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Pennsylvania reports first US measles deaths this year as outbreak grows - Hawaii Tribune-Herald",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMXk4TVlvU0QxdDJYMUZXR0Q2UGZqbFBaR2psc2Vid014c2N3TWd5aGdTYXotUVFuX2wwRW5JNWVSZjZYQ1kxcWZBdmFTa3Z2ZDdMM1I5cldpMGo5TVdCWHRDQm1NX1ViYS1tMG84WGJ6QmpNWG5LSEowUWJvN2hGT3I5Z1JHN2c3bndZaEk4bUdrV09pdFlLUEdLcE9nZk5ybXN6eE1OemFQUUlJSzJRT2dSWGx5RE9UTzkyMnluYUxCMktnYzBycXc1LWE3U0pnVkNucFFn?oc=5",
       "pubDate": "Wed, 26 Aug 2026 10:05:00 GMT",
@@ -421,15 +547,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZl80bzRVX0xVR1RnaXJQdHFYSDVUbDZONkNjZnNaN0Y3THl5MmQ5VWwxdTQzMG12bkJqd3dKcXgwbUtFZTRMSTh5WWhOMkFNZGd3TVJ1TVlTa3RkS3BQOW51bmtQT3lWUUNsdE9TTU85eE1YR2NkM2dGXzBoYnhYUWxGZUtmNV82UHV0aTBYblJnZmZocFBGdWh0YWswbVpFRTBObHpRQ3RxSnBFM2IyOQ?oc=5",
       "pubDate": "Wed, 26 Aug 2026 09:01:01 GMT",
       "description": "New vaccination data show hundreds of Philly-area schools vulnerable to a measles outbreak Inquirer.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "2 unvaccinated people died from measles in Pennsylvania, officials say - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUFpHYTJvSWlLbUVyT0wtYlNmaDJtVTRhdXdNNFlmTlMyVi1HT2tnenE2SUNIV3ZxaDVEekxPUHBYSFRTemNhWGlBX1d0eVFmQWpLckxwSTlDOWV4cklSWlBlR0JkbktSLWVuRHFrZXVIdGxmM3pLSUIwYjIxd2NuMnF0clQ3c2txUnN3M3ZhbWprQ0FIVUFrcEtUYmszdm1xOXJWclN6VWRxbHkxaTdmREV3?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 04:17:03 GMT",
-      "description": "2 unvaccinated people died from measles in Pennsylvania, officials say The Seattle Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -453,37 +570,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "2 die in growing measles outbreak, 1st Pa. fatalities in 35 years - TribLIVE.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdExJU3JtRUo0NkFPMm5yYms5TTRkNU9reFplZ0tRVFZJWHNPZkdXTnJDX1ZyWU1fRE81TGc1VmV4RTcyc3NpMUFHVU5uOWJsamhiNVVPMHU4UHFZMk9wTUVFY1B5TzJQLW0xU3NNTWtpZFNZcy0wWURaTURDdk02YWRUQk5IUl9DMjlNTUFISTRTTXo3OU5YVw?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 03:18:34 GMT",
-      "description": "2 die in growing measles outbreak, 1st Pa. fatalities in 35 years TribLIVE.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "News Wrap: 2 unvaccinated people die from measles in Penn. - PBS",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY0kwZnhURUpPU0NQS3RGNzVOT0lZMkZFRE02aHA2bFQ2S0ltb0c2X3F6ME5OemJ0bW0xejBxdk5RZUJlY2JENUR0b3lOYk5MRDFEUmNDV0tqQ2hDcFFYd2VNNkp0OGdNR3lWVlJ2djJUS21EMWVMcWYzUmtVeFo4SVJ6YzJGWmE5Vm5PTl9kNUUtc2FKcVBMZ1RB?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 02:35:43 GMT",
-      "description": "News Wrap: 2 unvaccinated people die from measles in Penn. PBS",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "2 people die from measles in Pennsylvania, marking state's first deaths in 35 years - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdEd3QzBUU0F3a284MjlxcVZ6SEl3YkRwemhfRWFCZ3VGSThxb0VDaEdSOGtjbWhvUE5BazhPQS1ZMXF2ZTZwSlB5Zi1zNzAzX1RLQmxINnRyVElSbVlPbDZvN2VGc3I3eExSS2NuRFFFX0JRWmxuSHE3cURvbGg5UHBDUXRCUdIBiwFBVV95cUxQNFNvb0lHb1NsWHJtSmNKWF9fNVRDWDRoZU5TR3ZNNG5oTG40THZnenNHSHZHXzRVT0pFUDBGWHVPb2VjVjh1bHgyUHRaVUpOQlluLVF5blFVM1ZZQTdlV2R6UTZwSUJlQUN3YW8tX200dS13ZkI1bHIzNlh3VkxPSmd6ejFSdlFHYklJ?oc=5",
       "pubDate": "Wed, 26 Aug 2026 02:13:05 GMT",
       "description": "2 people die from measles in Pennsylvania, marking state's first deaths in 35 years ABC News - Breaking News, Latest News and Videos",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "'Measles-associated' deaths mark Pennsylvania's first in 35 years, health officials say - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVnJlNC1TNG9zTkozTXVpbHV5a0NQM1YzRnAwSEdxbkMtOThpbDY5LTNQMzB2YThxSDA1WllTbHhPUXZWNmtKV3lrVXZjYkZxTkpXLVhLelByelZDb1FST2llUlZUTk54dU0ycEc5RkpXWkp3dm10RlpmclNEMGFjV2h2ay1sb2RJME4td3lwVjF5WnIxMkE?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 23:58:00 GMT",
-      "description": "'Measles-associated' deaths mark Pennsylvania's first in 35 years, health officials say WGAL",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -534,15 +624,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "First measles case detected in Butler County - Butler Eagle",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdU5sczNyRTdzdnAwU3N5ODdvZkxKdE1JRlNobURTTVdPUUJOcllDV0I1QUExU3hncGlzLTFNRGdFZjRmX0xQOEF6VGhOaG8tVzZRLWlpUk5CX3RKRXNYcm1hNk5UcWVCeVBVQkswZVRxOG5QcU1ZOS1zS2JqaGpscVBNdFlDcEs4MTlQdGdqTnROS21yX1dqdS0zSmdVRURaZ3AwdVVaZzVXeXhLWjNzX3ZxREczNmRrT2xZWEx3RHFoMEpiM3laeVFfakxIdTBK?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 22:24:49 GMT",
-      "description": "First measles case detected in Butler County Butler Eagle",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "2 unvaccinated Pennsylvanians die after contracting measles as outbreak reaches nearly 400 cases - WHYY",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZVdpcFl4VTR1bFRGdm5wNU1QVEhwcGljWHowVFZmeVBILXlSQzJkbWVDeEJLNUJXYWZ0dm9fZG0wSVFQMVFWeFpNbG1FdTJsbkE3RDVuSmRabkREV20xb2t4SUVjTXh5T1FYLTJ1QTJfWTEwQlFqbExORUFIOFcyOVNUUnFUc1pMb3M2TQ?oc=5",
       "pubDate": "Tue, 25 Aug 2026 22:20:15 GMT",
@@ -565,15 +646,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOc3FHZklLZUwxckx1Y0JuNnVvQkZxcmc0bHJzX1k0Q2JCaGVMODV3UVFPSFJkWC1xTkFZLS1palFKdHlNT2xxNXQxYlk5c3ByLXZrYTFyM3RhX0VrWTI1Skk4VGg2S3JyakE1RTB4bURWRDlYc0ZvV2g5bUdEWGdfTEtERUZYWVZxTzV1RFBCcERYamFKVWFrS3BMSUFDQk5EVE1NdTlkQW5YeVpQbUY5aFgtREdFUzg0a2NaVlJMb1J4Mjl4VXd0dmtRSlZPZVBxNFVEUFBTV3U4a1NuTnB5dWJmVGozT3PSAewBQVVfeXFMTzItSkg0T09wZVVlUTlvN2N1WmlnYTVtdlR2Z1o0VzBpSU1WaXJpTmxSS1ZWQ0JlTUlrTF9iVlJaT1RfbzE0YXlrRG13NnlHV19HMGdfVW1rcTlDdGltMlE1a05nRGN5dDJXaUt3VkpJWmJrSUxscW9SaXZjck05TDR0V01VQ1VocGJhU1l4UnFzTERaNFFISVF3d2tzMkU4Q2dKdFNIU3hLdmtOMVZJRzdvOWNkQVZOLXZoOGJtenN3UlBCX1c5UnJsR0hWbVpRRFV0aGxRc3ZvaVFuTzFwSm9jZ3NfckZYQU1CUVA?oc=5",
       "pubDate": "Tue, 25 Aug 2026 22:17:19 GMT",
       "description": "Kane County measles news: Officials urge residents to get measles vaccine; case linked to Kaneland High School, South Elgin clinic ABC7 Chicago",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania measles deaths highlight need for vaccine reporting - Association of Health Care Journalists",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRVR5bE1qamVTbFhsRlRhUG1CWGwxWl9MSlR4azAtWGl3YzZyc1JxUjF4RjVldG93ampMeVN5Z1FVT0Y1MjZ3VHFwS2dNLWZkaU9rRWE4cTVCMXBnQVRrZW5xTUZPeWhNcXB6eE83U0lyeXhPako2RU9IQkQxWnVfNHZsMnJfWnpKY2t4cDJnenVxb0Fya2xuaGprX09pMWlhZ1EwcS1Iemt0WG8?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 22:12:40 GMT",
-      "description": "Pennsylvania measles deaths highlight need for vaccine reporting Association of Health Care Journalists",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -624,15 +696,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Wisconsin measles cases increase to 61 - Channel 3000",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSXBVMVZFYjNFM21CMnpVc0VDcXZ3WkxQazlrTUxpQ3NkeDFjSTlVZk4wYmhjS0JueDRITGFsR3BId25WMUl2LVdkT21fa0VOSUZCMVhkZFlxVm1FQmZXaVdUN251Z3JwQVpOcUlwamxlTi1LZWRHS1YtcGh6WlpUQmlkSFNkaC1Tc3JSSnFrLTVkX1ZiUnFnczZIeTdHNmVaXzlaRUZWSy1XcUIwSF9ORzRGdnR3c0tUNTBaMnp3?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 20:32:00 GMT",
-      "description": "Wisconsin measles cases increase to 61 Channel 3000",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Kane County measles exposures reported at Kaneland High School, South Elgin pediatric clinic - CBS News",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXpPbW05Y2g1UDB6SkRYaUhTbHlVd1N3Rmk4V254YzZnV2hPbnh6a3dwS3dMSXZmTGl3NDRFbHhOc081TjhJUjdzeG16ZUwxLVRMb0lESXE1Z2pMcjhmZnF0Vl9GUmNRckh3OTFuRWxMbW1QcC14c0RWbVhWdF9CbDc3Y3VfY3BaWEw5YzdDc081aXR3Qm5oQWZCdw?oc=5",
       "pubDate": "Tue, 25 Aug 2026 20:26:00 GMT",
@@ -642,19 +705,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Two people die from measles in Pennsylvania - American Hospital Association",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSWxPU1N1RGtIRkVmQmV1dldCTFJlZlI0bXBiQzRSRS1KRWk0M1NZZzVzUHJzVkxjMzhlZVV0YzdJd3B0MGh2eC1LMGFRZE5Za21zeVR6eWE3b1ZqWlUxdnk4ejExaWRkRlVva01qSHQ3S1BFZGVxMElHMjJfakxHVWNlYXRhM00?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 20:09:35 GMT",
-      "description": "Two people die from measles in Pennsylvania American Hospital Association",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Lancaster County coroner’s records don’t add clarity to 2 Pa. deaths tied to measles - LancasterOnline",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUHFkclYzVUswZnpKekIxbjJpbjhLLU5aRHI3Z2FDWnNrTXd3blhndzVpbjdiNzJvaWplMUN4NUUzUlM1Vi1lU3FBb2R6bjlnVXJraGpTSXQyZGdhRnBZcDV5WUN4b0FsWGlCdEpaa1Z0WFUzcGdRMFYtYmppNS1fMzFnekUzdlpDcUw2cVZDZmN2bld5Q2w1OW5OOTlTeVVRQWp6NkRIUUFCWm5jSDFYTDN6cnBUTHRDQ21CS3cyc01pWE1hWFViUzJsVjJtbUZDSERKcHBFZVdkX0trMmw1REFlQTZBbHl2eTYtQmpiM3RKWDZ2dndKQg?oc=5",
       "pubDate": "Tue, 25 Aug 2026 19:48:00 GMT",
-      "description": "Lancaster County coroner’s records don’t add clarity to 2 Pa. deaths tied to measles LancasterOnline Deadly measles outbreak hits Northeast as state records first deaths in 35 years Fox News RFK Jr. responds to Shapiro over measles-related deaths The Hill",
+      "description": "Lancaster County coroner’s records don’t add clarity to 2 Pa. deaths tied to measles LancasterOnline Deadly measles outbreak hits Northeast as state records first deaths in 35 years Fox News What Pittsburgh-area physicians and hospital systems are advising after Pa. reported 2 me",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -669,28 +723,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Two unvaccinated people die of measles in US state of Pennsylvania - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUI4Q205bzN2T1Nzb2h6U0dhd2JES0ZPNHJ0TmtQMmI4d1ZFLTVvY1hnbkZrZ0o0U2NKVGd2X2tnWVE5ZVFMemF4eWZjY0p1YU5ZRE9aSWJBdnk4T19QcHY0MUdfT29YdUZnNENZdEdqcFRVbGlYZDFIWWhaNWcyV1c3X0hab2h0SWtUSEhBeGh2b1ZKbWxGci1vY2c0WjZ3VklpbDBZR0s0TWfSAbABQVVfeXFMT1FrRVZnb0NMTGtEUU5UVTB5QXM4U0RNWXVvRHkwQnh2VDVHVHU3elhXWWs0WURtN003Z29CR09yOTNWQllQcWtEZXpEQmY0ZjNvNDFsRDJsWEdyNjRRWkFvQ29ENkVVNzlaR0M4LTJNb0xQOGx5ZEFfOWNTWFhWMjBkWXIwTjVZTHpCc0hrWnhkY29teF9SemNsOXRQVzNhdzZlUGRKUjlCSTZHRF9pZ0w?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 19:32:03 GMT",
-      "description": "Two unvaccinated people die of measles in US state of Pennsylvania Al Jazeera",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Two People Have Died of Measles in Pennsylvania, Marking First U.S. Deaths This Year - Time Magazine",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbWNTbjRZcjc1YWtrWHZVTDVoNWd6NGtBVklySnA1WVlGeXNmTjkzTWNmMThGY0Q1TzZMZ0oxSWRvbTF3WXNLYTgtNUFJczhpSEpoZ01VenFneXl2VDJKbDl4TDhUaENwSzQ4WHRPcHExbVZsNV9TTlVDbl96MllCQmdaN0FsZU5rQ05xVA?oc=5",
       "pubDate": "Tue, 25 Aug 2026 19:27:49 GMT",
       "description": "Two People Have Died of Measles in Pennsylvania, Marking First U.S. Deaths This Year Time Magazine",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "1st Butler County measles case confirmed in Buffalo Township - TribLIVE.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSE5kaVVvMy1ZVk1kbUlkLUJockhnaUpBelVIUTU0V09BQ3d1X3p2Z2NKWjdhWnE4N0Z2S0tkejFmaVpUWkFKVFZOZnNNWFgxY082emY4Vy05dFNhTzhUMno4UExrUGctM1ZmamRsV2JDd0Vjb09Zb0p0ZzRyWGMtVWRyYUdQRnZwUFBNMVNhX1MzUVJmVnZ4R3dnOGVMdGJFWHFVM1g0UHRGSUdVZFE?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 19:09:04 GMT",
-      "description": "1st Butler County measles case confirmed in Buffalo Township TribLIVE.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -714,19 +750,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "2 unvaccinated people die of measles in Pennsylvania - Politico",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc3ZudkpWR3lTMFR6M3VuMEZmdXg0Sl83TngxajdPcXFpanFON1lmTzJpcnFhdk1KTlp6VHlpLUdqNm1CQ21QWHJrTG9lMkM2WnltbEVoWTZ5UFZXT09rQ29iXzZoZUdoejNHSUlTMzZmcS0xV1Jabmd1ZVM3ZmZhdnNicXdxbjh1WHNFNXNBd2lSQQ?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 17:25:00 GMT",
-      "description": "2 unvaccinated people die of measles in Pennsylvania Politico",
+      "title": "‘Completely preventable’: Pennsylvania now has two fatal measles cases – the first in the U.S. this year - City & State Pennsylvania",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMXZ6VVU0MVZuX2NEdWxqeEVENWEwNkFvWHNtcTJtX1N0TVZmNGQ2SVlJWmJUQ2Zud3lBLTdfM08xSzNTclBCQXVXWUdPaHVZYVVvVnBvWU5aZVdBT0RjeHFoa29GWEE1N05sWkk0aTNPQlFFczhGeDJlRXVGdFFPS3pWZkE3ODNtbXZCWlUtQ0M5LWFEUE1jdTJIMk1oRUh2bVA2Y0RKRDU5bWJkdzFoOGxDWUx3NVJWM05mUXdsaTBpakM0czBjcHA3Mm1xay1VSkRxNjY0c3YwQnpGOEE2TXJNNkd0UVV4ZWlBY1F3?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 18:08:07 GMT",
+      "description": "‘Completely preventable’: Pennsylvania now has two fatal measles cases – the first in the U.S. this year City & State Pennsylvania",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "U.S. measles crisis deepens with first 2026 deaths - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTnZkcmF6aVFZQmxkbUpvQkowMlBueTBDMDU5ZVVkRXZpTEpYU0VDalBMd0JMcUpMSnVWZVI2eHhZSmotMllxZjVYeXMtOTNVbDlhSFpvWmp3UU8yYU1tT05ZTTR6SGlxZXpaUS1FbFBqUXNpcjgyMUJhUkJPYkhWb3h5UWNQZ1lJ?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 17:20:01 GMT",
-      "description": "U.S. measles crisis deepens with first 2026 deaths Axios",
+      "title": "2 unvaccinated people die of measles in Pennsylvania - Politico",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc3ZudkpWR3lTMFR6M3VuMEZmdXg0Sl83TngxajdPcXFpanFON1lmTzJpcnFhdk1KTlp6VHlpLUdqNm1CQ21QWHJrTG9lMkM2WnltbEVoWTZ5UFZXT09rQ29iXzZoZUdoejNHSUlTMzZmcS0xV1Jabmd1ZVM3ZmZhdnNicXdxbjh1WHNFNXNBd2lSQQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 17:25:00 GMT",
+      "description": "2 unvaccinated people die of measles in Pennsylvania Politico",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -745,15 +781,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOHlvS2ZTcXA1M0l0X2lYWEJpcVBSaVdwaW9oak41bGdzbFF1NmxXdTRXSlVNSnpuWXFZNlBRaVQzZVNEX2w2QVBnLWEtNWxNc25RS0NENWxyN2xsb3g1VVhBODhjRlA1RWx2N0NLNnd3R0twdFh4cThmSlVPMEVMNXZ0aGRYbTJjcjF3VkxxLTlIcFlfWkJaejFHNGJWS2dHX0Q3VWJ1clVkV0hJ?oc=5",
       "pubDate": "Tue, 25 Aug 2026 16:45:00 GMT",
       "description": "The U.S. just recorded its first two deaths from measles for 2026 Scientific American",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Map Shows Where Measles Cases Spiking in Pennsylvania as 2 Deaths Reported - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iS3BfRXZlOWlDbVBnSnVNTFg4N0xaenFyaExTNy05S3VWZEdOU1IyejRMeFVYSmd3dGptS2pCWjlhclJWcEYwZkJpS1FNNDIwOTNjYVlEVDRuSk1JeDNXbjJISGNlZ0hObjVYNGZIRW9qN2NRY2tPQ1Z3?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 16:40:00 GMT",
-      "description": "Map Shows Where Measles Cases Spiking in Pennsylvania as 2 Deaths Reported Newsweek",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -831,10 +858,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Iowa HHS identifies potential measles exposure locations - KCRG",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNGhnbV9DVGtxWkk0YmpnLVVTOUl1eXhIbEVkRVhXUjQxMTU0ZDBjV0YtT25kaHRCTmxGOWNlSnVwejNjYlFxMTdjMlpjOWh0T0RXYTZDemNpdGZsWFUwLVJQZks5R2VtbS1EWU1sdC0tZ1h2eko4N1NWSS1ENGE1eHZaYUc4LVQ3TmNKSE9pYjBUUTA?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 01:16:00 GMT",
-      "description": "Iowa HHS identifies potential measles exposure locations KCRG",
+      "title": "Measles outbreak in Maryland calls attention to the need to get vaccinated, local doctor says - WTOP News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1IwNGRMQ0UtRTNFRjRoc1dYWjJOVk4yOXpLcmxFWEZGVU9PRjBuVXVSVUhPSzU0TUl4VENqRWNpbUhoaW94RlVXaF9EVWh0dHBTck1xZ1pQVFAxeE96LTA5ZWhhVkxlNkg2emFxeXh4NmwwNS1oeVlwRDZVS3c3YnUwSWJ1V0ZUQWVuSzRDZ3F2Y1BSRXNyQnAxejgyWGVoSVkzRkxSNVliUDNSRDloeVR0R2VkSWpjTktoekgxRWdIa1MxdVE?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 01:59:15 GMT",
+      "description": "Measles outbreak in Maryland calls attention to the need to get vaccinated, local doctor says WTOP News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -862,15 +889,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQa0VlaUs1X3pCT2tvNHFIQV9Tc09XMHBuNWtVc3YtQzh4Q2hXcGRmTV94VWZpWlVnZk5sYTl2WlpyYnFnaEpPU2prNWNrY2RFaGpRUEdCVTAyVkg1ZC1WYy04UExfNlJYR3ZkYVljZ3Y4WnpXRjlXLUV2U19jak94QTdFYWd1bXYxZ3VQN3VMX081SXc4NGp6Z012REZKS05wR0Y4SmRmeXdaSkcycjZ3UDB2eThfY044Q2ZSTHdEbXk1MUUzMi1HdEx1UVFMQmF4UDZtV1VtTl9xdkpOcHZpRFNuTTE?oc=5",
       "pubDate": "Mon, 24 Aug 2026 19:13:26 GMT",
       "description": "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties Maryland.gov",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Fighting measles is expensive. See what it cost to contain 10 cases. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWtzblJxbFd2ck5ycnVHcGliV0lreWZGRnZEeTd3MTU2WHRuMGFEaVRhZS1ITmJ1NFkxRGE1SWZxck1INTVZbXBKaDJoeWd6RlJsVWZrUEp6OW9CRHd0Ul9nQkxIaGVQallhMTQ4TURaWWVNM2hZMmpWTk1RQktpVEJ3MkdKS0k2SjRkV28wV21kaVctTnAxMzV0UDJ1ZF9WczhHQTMzVlp0RmY1Q1lPb1VtYlljdFdqQllUbC1RQTBMbmc?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 17:00:00 GMT",
-      "description": "Fighting measles is expensive. See what it cost to contain 10 cases. The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
