@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-06T13:18:16.739Z",
-  "itemCount": 82,
+  "updatedAt": "2026-09-06T14:18:49.278Z",
+  "itemCount": 73,
   "items": [
     {
       "title": "Brandon McGinley: How the measles got political - Pittsburgh Post-Gazette",
@@ -21,10 +21,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Sullivan County monitoring measles spread - midhudsonnews.com",
+      "title": "Iowa HHS confirms 3 new measles cases - kaaltv.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LSGN3aUd6TXNoQkpiN3B6cGItOG51Zm5pc3JFWUQzQnhxMk5CS3o5ckJNMTZjeVhqQ0NXd2JXekNhY1k3Qk5hdGtHNDROc21NTTZGWmcyWVJpU29ybzdVaXFxUUo5MkFHSDRjYVVpUFFFam1HTERKaEFn?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 12:02:07 GMT",
+      "description": "Iowa HHS confirms 3 new measles cases kaaltv.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Sullivan County monitoring measles spread - Mid Hudson News",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3FWQnhqa2JqY1o4eWJuMWV0bndjcnBPdTlDN25oLUMyTkpmaEViMWs5WEc4VjdJNGRmdlFOcmtnTFYwZktlRGtNeDNpUHJqUFdpUEtYclB2OHVlbDNwTm03UzFncVNXWmdKeDFLOXc1bGJxS3B5ZlVWZG45R0R3aUQyUF93QQ?oc=5",
       "pubDate": "Sun, 06 Sep 2026 09:56:33 GMT",
-      "description": "Sullivan County monitoring measles spread midhudsonnews.com",
+      "description": "Sullivan County monitoring measles spread Mid Hudson News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -48,10 +57,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Editorial: Pennsylvania measles deaths are the cost of poor public health leadership - thederrick.com",
+      "title": "Editorial: Pennsylvania measles deaths are the cost of poor public health leadership - The Derrick",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWGM3NjRSVVo4bUJwTkJLZnNvQ0RUWERndHZJMVFhQ0lQamNIeWFaLTlobUZfckJfbXJXVnhUamZHT3dlb01NRWZHdWM5R3ZocnVnQ0daZ1J6RDBTYkJDTUZIT2tVZFZOUkpSb0U0cUg4bmcyTVZYWnJhU2xCNm81Z25lNXl0NUs1MmRjWUNaYm00aTFMdkJCTGluTlFoSmUtSzJVNFRGcmlfd1Z5U0hKVEZkUWZ5X291M0FMdktnUDJWX1ZaWVJNWWlEbHJKZlN6MFd2ZFpCUGZFS0licE1tcjNnWFdndXVKRVVvZlZ4MHZDRzVHc1E3RzhnQXQwSGlsS1dZdmNxWWs2WGM?oc=5",
       "pubDate": "Sun, 06 Sep 2026 08:00:00 GMT",
-      "description": "Editorial: Pennsylvania measles deaths are the cost of poor public health leadership thederrick.com",
+      "description": "Editorial: Pennsylvania measles deaths are the cost of poor public health leadership The Derrick",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -61,15 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSG8tbmt5bENacTdTdUJ1b2kzS1U3RHhiSkZEVlpUR05qQlB5eHpnSkxIUFU2ZDU4Ujc2Ujd6MWM0ZUNuajk1TEl4VVplWVpoZnV2SUdDOVh2T0ZhNEtpU0xPMEhpMVFqZDZfZGFRM29QSFRJUFFHZVJ3anZCR1JGVFhhZ3M3WFg4cVNfemZoVDQxdkh0M25ielg4Y2dRYzlCMUp1dHdIOUU?oc=5",
       "pubDate": "Sun, 06 Sep 2026 04:05:35 GMT",
       "description": "Health Departments Urge Residents to Know Symptoms of Measles Finger Lakes Daily News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Iowa measles update: 22 cases now confirmed - weareiowa.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOWZ3dnNQdDI1Y3oxZDJEN3NleWZvR2ZqbVVPam9oNU9wXzVXT0dwQmJhU2tQdmhmM3hCQkVBYnZpWXVJclRGbGs2WENVRnFGYUZkeFRwWTdES0dGRFRBb3N2cW9HOE1MbzVKVUJhZThsbGNYWlNXR3RuS0FudzJidWFCdmtSRnIzdFpZUnBRTVJvY2loRUJCNjN5cFhPSUs5SGdJakstekQ2ZUFQUW9NRUdPeU1IYk5GUjlqUTFoMllDdTdxMkE?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 00:40:00 GMT",
-      "description": "Iowa measles update: 22 cases now confirmed weareiowa.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -93,28 +93,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Iowa HHS confirms 3 new measles cases - kaaltv.com",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LSGN3aUd6TXNoQkpiN3B6cGItOG51Zm5pc3JFWUQzQnhxMk5CS3o5ckJNMTZjeVhqQ0NXd2JXekNhY1k3Qk5hdGtHNDROc21NTTZGWmcyWVJpU29ybzdVaXFxUUo5MkFHSDRjYVVpUFFFam1HTERKaEFn?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 22:37:00 GMT",
-      "description": "Iowa HHS confirms 3 new measles cases kaaltv.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "WHTM: Measles cases continue to rise in Pennsylvania - yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNak9GUkphY25jZExBNUgza05hY29FcDBXVndlRms4cDF5cmpOckF3VVJRc2xLVmdWTm9EcG9iQklXYW9GSVpvRVZnTVl5UUpFdTRsS09PSEQxcUxMY09XZTAybWVCSUF0aVI5alNpcU5BU2o1UWdaUGMydWJQTHZKZ3pMMDZxcE0x?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 20:47:00 GMT",
-      "description": "WHTM: Measles cases continue to rise in Pennsylvania yahoo.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "3 more measles cases confirmed in metro Atlanta daycare outbreak - atlantanewsfirst.com",
+      "title": "3 more measles cases confirmed in metro Atlanta daycare outbreak - Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU2pEWkZaenlfVllBUzZoYWtkM0FfTEpPakVkMWY5RzZ4Z3NXYmpDbEM1dkFmUVNGT0dEcFp6aEM3eVgtN09GREtOM2FlOFY2bnBjNVhBTDlMQl9SX3ZYMXFXcjlob2tYd2t2ZXRSZGxBbVBFZVFydEhTc2FIMnlSZlZid210YnZqeHh0MDRuZTJZellOcW15MmN2UWhEQTA5UTZpNU5SNUVGZlRQWjU1STlB?oc=5",
       "pubDate": "Sat, 05 Sep 2026 20:44:39 GMT",
-      "description": "3 more measles cases confirmed in metro Atlanta daycare outbreak atlantanewsfirst.com",
+      "description": "3 more measles cases confirmed in metro Atlanta daycare outbreak Atlanta News First",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -138,19 +120,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Local health officials on alert during measles outbreak - WRBL",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcU5Gak13cHBrLW80QU9ZNnFBZ21GN05TejRUUGFKYnpJWHdrTmh0SFkyZnVfLTBNak43dEVsRUVQckVmSDQ4UHNLX0xlUmw3MTRCUVlUTVIxbHBCZ1dnSE5Odl93T3dMLWdSYU9QOFY0RFZubVJCYkF4cUVWdko1cndON01RdkpNSUxZckswdW95NWloMFdj?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 16:52:35 GMT",
-      "description": "Local health officials on alert during measles outbreak WRBL",
+      "title": "The New York Times. . After Pennsylvania reported two measles deaths, the CDC took the highly unusual step of challenging the state. Our reporter Apoorva Mandavilli explains how this tension between the Trump administration and states over health issues i - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRThUb2lTcVBNa2pvOVNtY1RxQTdmajdsSi1Nc0pFd2RHeHlCWlJoYm1NdzBUeUZMdWxtZmJRMkZwcXpQMEZkSmpkY3VKNGl0TmE5N2Y2eG9IRDhadjVIT1NaWUgyUVNOQmQ5NzhibWFZbElyWjRrUHdJWEtGa190TFFGYkdwdWNmOUI3cS10VVVsbFNCRm45NnkwZ3RHVWw2QmxmMTctR3RJWHgwekRCbExfWQ?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 16:25:06 GMT",
+      "description": "The New York Times. . After Pennsylvania reported two measles deaths, the CDC took the highly unusual step of challenging the state. Our reporter Apoorva Mandavilli explains how this tension between the Trump administration and states over health issues i facebook.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "The New York Times. . After Pennsylvania reported two measles deaths, the CDC took the highly unusual step of challenging the state. Our reporter Apoorva Mandavilli explains how this tension between the Trump administration and states over health issues i - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRThUb2lTcVBNa2pvOVNtY1RxQTdmajdsSi1Nc0pFd2RHeHlCWlJoYm1NdzBUeUZMdWxtZmJRMkZwcXpQMEZkSmpkY3VKNGl0TmE5N2Y2eG9IRDhadjVIT1NaWUgyUVNOQmQ5NzhibWFZbElyWjRrUHdJWEtGa190TFFGYkdwdWNmOUI3cS10VVVsbFNCRm45NnkwZ3RHVWw2QmxmMTctR3RJWHgwekRCbExfWQ?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 16:25:06 GMT",
-      "description": "The New York Times. . After Pennsylvania reported two measles deaths, the CDC took the highly unusual step of challenging the state. Our reporter Apoorva Mandavilli explains how this tension between the Trump administration and states over health issues i facebook.com",
+      "title": "RFK Jr. accepts PA child died of measles, says Shapiro hastily ‘politicized’ death - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUM2NGJPenpUaWcxM1lsN19Ua1dNdFlnSU9Sc2Y4VEUxdzdXZlJZbk56UkNlOUFsQ0JoUE52ZEFFYVR4dnlBaThqWVZuY0pMNHdJRUQtQ1ZoakwyMkNJNE0zbVlBMXRvODVBT05ELWt5eHhLUExkaUhXcDdxMDRmRVluX3BKaWI2TnRKU0ZVR0dmdDJX0gGaAUFVX3lxTE9wVzhBbWpMWGR3emNTR1R0S0p4MnhWNnFlRTd0SENwbnlXMHpTRTI0ODNLeFF6XzhHaVBEdC0wc1dUV3JEYVROZ2R3RWE3SUtSVlVjdXJmLXVidUY3NWdlQ18tVmc1cXBiUXFsTDNKcmJfQlMzLTU0MXBzY0Y5TDRlcEdpU0p1TTVGem9xdnJNbEhuWGNZZGVJMVE?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 15:48:00 GMT",
+      "description": "RFK Jr. accepts PA child died of measles, says Shapiro hastily ‘politicized’ death The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -165,10 +147,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "3 new measles cases found at metro Atlanta daycare, Ga. health officials say - AJC.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXJhX0hqYmI2MW1YaHo4ZXJpdFAxTV95Ry1sTGxkd3RhMFVrSmVFd0gyQU5keUYwQ3d1YXBXWS1YSUd4NnRqT1dNclVUYXdDamdEM3RncXRsdFlCaDJROUluTTZ2QTY2Y2g4aXQyUElKQ1VEdlpwQlJMZWlaMjFJNUFhRkRBVmxScEFQRk1pMTE4TkNsSmxyMFNRd2JiSDN5VUpsQWlXbExweTJ3dWg5Wl93?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 09:14:25 GMT",
-      "description": "3 new measles cases found at metro Atlanta daycare, Ga. health officials say AJC.com",
+      "title": "The Amish are not to blame for the measles outbreak in Lancaster County [column] - LancasterOnline",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbjkxdWZBZXByNGE2X1dNemtZQUV2ZlQ4M09mYWtheDl0YXo4VGdJcFYtRTZxUUpVYmVqbUd3LTR2ZlRUY2hrcHozMGM5N1BhRlQ0di1hTzFvZXhTWG9zclQ3MUJsWU1NRHdMYU1SOXVhTFI0X0ZKaV85aVQ3cGtDU0lJZGFsaTBhaXhYSUZuQnFzQjBtLUlhOFBCbVdDcS1WcXotYVIxM1RCS2xOTXVidFo0NW5SN3VzZjRGR2ZyUGdMOWlsWUxjNHY2cWNmY1dOSklLcmRLMERieUNvLTBaS05NdjBJMWtqQnVWend3bzFqT2h1eW5JckNmdUJCOGVxVkppWkNn?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 09:00:00 GMT",
+      "description": "The Amish are not to blame for the measles outbreak in Lancaster County [column] LancasterOnline",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -183,37 +165,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "The Amish are not to blame for the measles outbreak in Lancaster County [column] - LancasterOnline",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbjkxdWZBZXByNGE2X1dNemtZQUV2ZlQ4M09mYWtheDl0YXo4VGdJcFYtRTZxUUpVYmVqbUd3LTR2ZlRUY2hrcHozMGM5N1BhRlQ0di1hTzFvZXhTWG9zclQ3MUJsWU1NRHdMYU1SOXVhTFI0X0ZKaV85aVQ3cGtDU0lJZGFsaTBhaXhYSUZuQnFzQjBtLUlhOFBCbVdDcS1WcXotYVIxM1RCS2xOTXVidFo0NW5SN3VzZjRGR2ZyUGdMOWlsWUxjNHY2cWNmY1dOSklLcmRLMERieUNvLTBaS05NdjBJMWtqQnVWend3bzFqT2h1eW5JckNmdUJCOGVxVkppWkNn?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 09:00:00 GMT",
-      "description": "The Amish are not to blame for the measles outbreak in Lancaster County [column] LancasterOnline",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "At the center of Pa.’s measles outbreak, those closest to the most vulnerable feel ‘helpless’ - Pittsburgh Post-Gazette",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVZSbVRDLUpvdHliMUFDc3lVTnFCdFh3VURBRHJwTi1yTUFXdkI5TmF5cXZwbjN5Wm5lVDV6ZHhHQ1FQTGRiTkp1WE5iZjR6OHdJU0FPaHJUNGpTdkVBUUViNHM2a2lCa0gwS2dkRHVKR1VxOEJjX1B2RHRrbU92eWZiRW9oMzNjNi1OWE9fdU9GMU4tekptTjJqTjBtSURST25vUF9OSl8ybnp4QWJlTUVxeTdydFVQbXpyVGlB?oc=5",
       "pubDate": "Sat, 05 Sep 2026 08:00:00 GMT",
       "description": "At the center of Pa.’s measles outbreak, those closest to the most vulnerable feel ‘helpless’ Pittsburgh Post-Gazette",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Infant died of measles in Pennsylvania, coroner confirms - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnhKcVdqT3dlRVQyUTdPMWFfSWVTMzMyVnJXbkV0cHVqUUhGRGZRU1lycW1OakR1SnhGbldmT3VPRGlzTnpiXy1DRW9jLTNWREpxLUhSbVpWVmhBallmM2F6Q2owYm42b3ZBVVh0V19yaWR6a2xrU1hHaFowYjBNMW56OThjT1ZwSGVqYTZIbGNqV2tQb3ItbkRTQ0I1dk5v?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 05:05:24 GMT",
-      "description": "Infant died of measles in Pennsylvania, coroner confirms The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "RFK Jr. acknowledges one measles death in Pennsylvania - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYi05R3FpbVNmN3R6SWhZZ3Z2VzNEbU5zUXl5Z2RUQU1aZVlMSHhZWFN0WVlJbFZ0NTJHRFNGMHpTcFR0U19leWpqSDh6VkRZRUs0aEx1TGZycm42cUh5VE9rNGpneWtNbEdYeW1RTUp4YmpkSE93TzFtTzYwenladzZaVzJNejh6bUROSGNpdUswZzlEcDUzZDdDU3lBbW9weU9FVm1vS1Jsbmc1ZlduUlRXbzN6VnNvYXhGVw?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 03:15:00 GMT",
-      "description": "RFK Jr. acknowledges one measles death in Pennsylvania USA Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -228,19 +183,28 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases rise to 136 in southwestern Wisconsin counties - WBAY",
+      "title": "Measles cases rise to 136 in southwestern Wisconsin counties - wbay.com",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajBwajRyZlhIelNQSGRPRjgtZ2tGb2pNMURBSk10anFoV2JJNFNXMkp5UW13YnZfUEgxWENWb2JQZzRfMEFlT3VmaVpzdXRoNzF3dXNUaDJNMUZOTmJraXVVRmZhZ0hIUVFSNTV0WW10emZaUlh1UmtHY2toMzJsWTBIR3R2MlJvQ2o1MUxpVEXSAaQBQVVfeXFMUEU1VTdIamlZMVppVlBaNDdKYnNvVjFTU3U3TUg2dEhlZ1dxU0pyNEFXZU9fTEcyQTlOeGVleFBkLUZwS0VyRE1QeWtkTU1vTFRoVXNyZVNyR3JtMmYzY1JGMzliOHZnVGt4MTlFWEpxc2tnT1ZGU2htNDJnT3J4MUtHY3lOTU5pN2JVQkRKMnFaTEZfTHREQldNQ2RuXzRmTDBwd0s?oc=5",
       "pubDate": "Sat, 05 Sep 2026 03:05:00 GMT",
-      "description": "Measles cases rise to 136 in southwestern Wisconsin counties WBAY",
+      "description": "Measles cases rise to 136 in southwestern Wisconsin counties wbay.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Second baby died of measles in Pennsylvania, coroner says - WVTM",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpenItSzA3T0pvVVgxRG5SY3N3NHhZTUEwd0RDQlJla0FvS3JDYnAtWExkY2xtZVBKWU1UR1BzVzJMbnJ6RUZtU2xOWk9nTWR1dGpqUW1BSGhob1NqaDNERTRDTmI3T0tJUHZRaGkwR0NoQ0FfeHc?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 02:30:00 GMT",
-      "description": "Second baby died of measles in Pennsylvania, coroner says WVTM",
+      "title": "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaElTLXEtcVBFNWEteEVvSmFoYzVHUGg4MG5pUXZ5dDhiZ2FKSjFkdXNOQjJ5STBnTmRBMTZ6RTlJOEpHMVo0UVdJOUQ0T1RxbU9LampDcDhGLXhXb2JGOG9ZV2J0bmZCMnNqTElOc3RoVlR2WUgtN3ZUSVZ1VnRqXzg3X3BpVy13b003M0huM1RPOThCcmlrdUpENUtaRDVQTEJPRjJRbUZFckpoZEp4ZkkzMA?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 02:53:00 GMT",
+      "description": "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Bangladesh measles toll nears grim 1,000-child mark - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbkxIUU96LTgzdGRGOW9zVWpyQmNfTmpSTFBiTjdpVXBqbGo0MFVZaHl1NGNJUzliTGxKX0ctUnJsZHlpeF90NlppT3A1ckRXTmNwM0xhcm5SeWktaEF0Mi14ZXNFZEZHcUltYWtOTU5VREpiZ0VjdGx5VXpXSzJyeVJSSFRHZUlqWEp0bnRXQU15NzN4WHc?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 02:07:00 GMT",
+      "description": "Bangladesh measles toll nears grim 1,000-child mark Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -273,10 +237,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Number of confirmed measles cases continues to rise in Wisconsin - WISN",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNjNhcE9JS3ZKMGhzcHBUNkNRekE5dGxkTFk3b2t0eVd5V21KV2FCbllabVJwalliZHNWeEFlZUVNbmxWZ1VZWnNObFZfckZ5U1dzMk1jdWFUc1dmbUt0LTJVRndPeF8tVXpFNnBHMi1Vbnkwam9xb0JXMV9nQjdXdTBmTnVCT0piMUk3b0FnbUlDTURWWmVMbEh3MFZoczJHRE43Vw?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 22:19:00 GMT",
-      "description": "Number of confirmed measles cases continues to rise in Wisconsin WISN",
+      "title": "C.D.C. Says No Deaths This Year Attributed to Measles - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OaENXcTZ4SzkzLW5Tay1PZ0ItbHg0S0toUGZMLWxWWXRMUzQwMl9wazBVTFBoWDJGaTJ6Vm5RakQ4Q0picU5SVEtkZ3NyNEc2YkVEY25NS1JmNm0ySkxSRkM4R0hyOVpUQ0R3MXNvYUw2Z1BUUEZENVh3?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 22:28:34 GMT",
+      "description": "C.D.C. Says No Deaths This Year Attributed to Measles The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -291,10 +255,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles cases top 3,000 to reach highest level in three decades, CDC reports - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbExIYkgxMGM1dVgxZVZoSkFJTTd2X3E1SWlROTZ0bkRCaEMySDJKRW9XckhlTGFnS0Y5ZzZvNUZtQllBSmhUbUFTSzA0dmI2ODJEc01fbUstS3lsRXFOQUw5T041Qm9Tb093S2FPNGVNQkhjN0pmNzR6Y2UwOGJkRF9oZVItNFgzWEl2U0E1RXNVWEdNdEVVTmpIdDE5eGs?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 22:04:23 GMT",
+      "description": "Measles cases top 3,000 to reach highest level in three decades, CDC reports NBC News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "The CDC’s latest measles update still doesn’t include Pennsylvania-reported deaths - Inquirer.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWHJ6dW5jRWhPRDVIdVNBWnB4WnlTT0pjd0tKR25vdkptV1puazAzaDR3ZlViZDBCamM3SFZXNHpDYkZrZjR6Ql9yZWRsa0xWLUM5aEJ6Nm1ERlV2ZnMyY0VQYTFvbmFYRDBPeUpfZnB1WFZwTnU1NWVkNUhFVjhucHNEU3pXY1ZqRmFEa2lB?oc=5",
       "pubDate": "Fri, 04 Sep 2026 21:45:59 GMT",
       "description": "The CDC’s latest measles update still doesn’t include Pennsylvania-reported deaths Inquirer.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Gov. Shapiro gets validation: A Pennsylvanian did die of measles - Politico",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWjB6dkxmbDllTS1yNVpjVTdIZmR4YlRielBJdlpPcVpNcUU0NDdSVF9ENVZ3UmxJMDByaXZLdG14ekhnZXBNM1N1cExHYkR0MUQtZ09Bb0FZZlZ3OFJXcE9MbU9RMnNRUGJ1SndJWkpWOVBxbXlQWU1YVE82Ulh0eXlaTGhLNW9ubzA0bVFTTWdObEtDWUJHYw?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 21:30:00 GMT",
+      "description": "Gov. Shapiro gets validation: A Pennsylvanian did die of measles Politico",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -309,19 +291,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "DPH confirms more measles cases in state - Statesboro Herald",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlVLcklHXzhTQUctMUpoT0c4aXpiMjE0ZHRqY3MycjdoVlhvWF9RUnNTRTE2dTd6RERpNkEtbkxxcnhkZG9OYktoc1JlMHBoNEVKM3hyQkFPRTBGX1Fmdm50eWdCMWdCb0ZjT0xTTS1zN3BaSDhWTFJkX29vOHVBTHNmOGFtNW8?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 21:19:46 GMT",
-      "description": "DPH confirms more measles cases in state Statesboro Herald",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Shapiro, RFK Jr. continue to butt heads over measles reporting in Pennsylvania - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkZsbGtkczltUnNpN0lOY1ZaWXE0Z2NIRGt4NS1ZNTZUOXZQQjFWS1dUOTM3S0h4WHg2TW9Uc3p4Y20wYmhoTk04ZGtvTUNXTjVDWDFVV25xVXRybnVQNFJDVnpnd3JncFhIc0E1Wm0xSmZxdjRHMUpJTFpCX0NOVFdPWjZTNTM3VkFz?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 21:19:00 GMT",
-      "description": "Shapiro, RFK Jr. continue to butt heads over measles reporting in Pennsylvania WGAL",
+      "title": "Three additional measles cases confirmed in Iowa, HHS reports - WHO13.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUHl3VUxzYk45RVpPeTJselJ0Y2ZoRXBvNTIxc3czRGJka3U2VlZMOWFOZExmenU2dGtrNk1CYW90NnpObm5kMDRyU0Z3bEtYWmZYVEMzUnJBblhQdUVFXzMwV0tzTHBQREd4dTlGR1J2VWtqXzdXT2JOcDFMZHRmMG5Idm9EMU9lSi1QZ29hdlpMNjJ0Nmp5NF9B0gGfAUFVX3lxTE1ZM3U3WjY4MHdqaGFtOHZmTW81dE5jQjZrRW8xOS12eXlYWk5LSVRmYXN5Y0duZ3pYRWhVQnMtdU9aRDFRcnR1WHYzakwtY1dwYXFZcVR1S0VWQ3lzZDJBenhFcFRHbjY4alV3Y2MxUHNrOTNkeHdRSUJtck9CVDVsOWJGUU53Q1hQUFJBQW5qVGF6UHhwclU5QnIwQzZBNA?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 21:03:02 GMT",
+      "description": "Three additional measles cases confirmed in Iowa, HHS reports WHO13.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -330,7 +303,7 @@
       "title": "Lancaster County infant confirmed to have died from measles in Pennsylvania - The Hill",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVzNDd2RmbWJ1VFA4Nk8tbUpxdFhtR3VVY1pyeWhjYlNVc05qZWZfYUotdFJPMHNKbVRVQTZqemJQV1FRdlNGcnlaM2hQSTdsLTJjSEZLU1BBSUVtX0NQMk1UMEpSS2o5d2lYRS1TOUZMdkR6YzVidGEtd3diZk5WdDdvcTNiTknSAYwBQVVfeXFMT1I1YmxSZFJXblVYc2lhVTRpdkZkNzRkSG9aalpNTFFQUjBwOGRVNEZ2TjdhRlluRHRMU3liWGlJMmNyb0R0aVVJS0xCM3VxaHRaUFJCWkhScWdVbzVxbC1QU2s0XzRWQ2Nabk9jOUNoRE50bGtBU09laFo1VFI0RVpVaW4xX3YySEJqY0E?oc=5",
       "pubDate": "Fri, 04 Sep 2026 20:42:00 GMT",
-      "description": "Lancaster County infant confirmed to have died from measles in Pennsylvania The Hill",
+      "description": "Lancaster County infant confirmed to have died from measles in Pennsylvania The Hill Infant died of measles in Pennsylvania, coroner confirms The Washington Post Pennsylvania’s measles crisis: Inside the nation’s largest outbreak Pittsburgh Post-Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -345,10 +318,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Steuben County measles outbreak grows to 9 confirmed cases in unvaccinated residents - WHEC.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNS1FNUppNC1HNmJsdXgwOUtxSlo3VjdwY1RiSUN5OW5WSHByQlAxV2oyVXFmYlVXTUJwMEtDek5XYnJMemYyQnIxUjAtQnZadml2UXdPMU0yTzRQVWdRLXRYWjNoNnFqY3YxbjJOQlhPRGlka21COW56dU1CQXpIazNzbG1Ld3VDNlRuQ2FNd3ZyQ0F6THpNX0FZN1lwV3FpUWd4NWJfc1BDQlhCM3VwT0FRS1M1QQ?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 20:33:02 GMT",
-      "description": "Steuben County measles outbreak grows to 9 confirmed cases in unvaccinated residents WHEC.com",
+      "title": "6-week-old infant died of measles, Pennsylvania county coroner says - CNN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiT0lGcTVVZldDNjB1RWZXUV9STXZTU1V3YWJKNGF3UkxXRndDaHVvRHhPOEVCYl9TeUZ2QmZucTF3YlU2WHl1YVh4bDNqbUhOMHhVdTJva2M3NUI3My01cFc4ZmYxMV9KSktFRWxXZWlEUQ?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 20:26:53 GMT",
+      "description": "6-week-old infant died of measles, Pennsylvania county coroner says CNN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -358,15 +331,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkNLaTNfTV9qZEFpbkF1UnZ5ekdTM01vUngzN09PSVlVZlFXOXVTRTM4Y2hLek1pQkR2UVREd3JrY05Lci0zb2dzTVhSMDJXZEtxcGZtQzFVSEF4cGMxS0xzTTVhQTM0dnI3MHJpSUhCLU94ZENjTkExVzhjTlduaXBJbEJwWVgzcmZsNEtpSThBWEFpRHR6cl9kZm9Pc1o1ZVhGb1RmYzJBZGVSY25vYWc1clZwWWs?oc=5",
       "pubDate": "Fri, 04 Sep 2026 20:22:41 GMT",
       "description": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths Ars Technica",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania's measles outbreak continues to grow with nearly 600 cases reported - fox56.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMzRsS0Z6WnM1MjNGOXA4dHpoRm0wS0dZU2w0WG5sQ3o3cjNsVDgzOWhMakx6VWxIbW1oRnRXdURzN3hmcHBIVjI0alI2X3psSzBZRHVjZVk3MHBpMGczaXZtNXdsLXhBejNHOWRQS09qa3ctYUdVbTVfemRQR080TDlraG1LX1RDOUVLZmR0VEJJQjlIZTAwaVF6eGZDRWM1akxsYkprVGlHZzNk?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 20:20:40 GMT",
-      "description": "Pennsylvania's measles outbreak continues to grow with nearly 600 cases reported fox56.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -399,55 +363,37 @@
       "sourceLabel": "News"
     },
     {
-      "title": "A 6-week-old Amish baby died from measles in Pennsylvania, local coroner confirms, as feud between Shapiro and RFK Jr. continues over the deaths - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSnBydENkQUk0QjNMYy1wNzNqT0J0X0tjREtQUlg4ZmNLNFpNRlMyYk5HUXM5Z1dnUmltaG9fdXFaQ1o1MmIxMXVxak5qLXlVX21WSW94djNfNndONl81OGVZSm5FWEVnN2lra01uT1phMUxNbXc4XzQ4d25ZV25vTmI4QmRoakhTbEEwMHRIem9tZERVR1NEUHVDUHg3bmFi?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 19:54:12 GMT",
-      "description": "A 6-week-old Amish baby died from measles in Pennsylvania, local coroner confirms, as feud between Shapiro and RFK Jr. continues over the deaths Inquirer.com",
+      "title": "Lancaster County coroner says measles caused second infant death as US cases soar past 3,100 - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXNWdU5ha0o1aF9yb2YweDJnVmI2V0ppVzlrbUJscXRCejBsRWhmVzVnV0h5QnJlY3UwZ25NeWR4d3FMeHhGR3dYNW1aSEtGTkF4WlFQX1ZhNDVpQ3REdTZHV2NjQXRJaWpBTjRHdGNOc3JUSmVZSEY0cGVwQ1E0ajNibDFNVmUwbmZLb0hadUdjMEJhVF9yNE5lQ0c4UVhBSC1NTHZ0RzQzOEZURzZON1JJSGlZUFdkWTFFQnpsOVY?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 19:54:33 GMT",
+      "description": "Lancaster County coroner says measles caused second infant death as US cases soar past 3,100 CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "577 cases in 37 Counties; statewide update on measles outbreak - WTAJ",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd09PR0Rsc1AyTDE2TGRZMVlNMmxFWTU1TFJtTzZHTFY3YTVjWXV2OHdXZzdzUHc3QUxrY3o1VzhYVmtWTlBpbVFRU2I2TnJ0cUdXVW1sSWhNSTd4bmVfWDhaRlNOYU5JQUh6VC02NGFCUmM1X0x6b3VRNFo3Y05GLUt3eG9TbERYTzdZM0pZeXRkaW5TY2lmd3hzendQZG4zcTNkSNIBqgFBVV95cUxQOGZEYndpU21nSWt0ajZydmZOQkZxS1ZLMDBZM1Q0UG9zQ2UxYm5SNUY4Y0JJcXgwckJfOGQta210WWc1c0ZSOHJ5clhSWHdTUllHUVg5M2tLQjdXN2lBb3hScXlVUmc4a2h1MVAtVFVBNUlIWEZhMTQ3RkpzSVhxNGNPMEY2Ykd3MmtpaDFmajNzTGhNM005SUtlRUplbHhZQ3hScDZOek9ydw?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 19:50:41 GMT",
-      "description": "577 cases in 37 Counties; statewide update on measles outbreak WTAJ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pa. reports 80 new measles cases in the first 4 days of September - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZkxvS01fNFdTSzhXeDVYZlVUWDFRejJOMUVhUTVBUk9ZZ1BuNTBKWWF2eUNkOGdyaXlnd0ZOaVhXM3pzSXBhcnU2bDhHdk95X3VoTlk3aU1pOVUwMFpwb3dLa2thcVZMZmE5RThpNllsRkozcXBndTlHcmo2ckMyZ1hRUG5nNVNtMHVVSUF3cHdOM05DMlV2alZYcHVIQVpGUU5FOFc5YzdJUmd5aEE?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 19:48:00 GMT",
-      "description": "Pa. reports 80 new measles cases in the first 4 days of September PennLive.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Georgia measles outbreak spreads to 4 more cases - WRDW",
+      "title": "Georgia measles outbreak spreads to 4 more cases - wrdw.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaUwzRUdjQTA2eW5YTFpXaENPSHJYYUNQRVpadDhBUHdNb0Z1YjR3UUhSNWc3a3JWSE40RjktSy1UaTFCOUx1cm15S002VlRWWjYxOV96d1NpUVJsa3pqMFRHRlRpWjJiQzhyOUJaTmN5cjQ1TVZkS3hpOXpZdERydzFRS0djYjJ3NTV3S2RWTzJKNjNpT2c?oc=5",
       "pubDate": "Fri, 04 Sep 2026 19:47:00 GMT",
-      "description": "Georgia measles outbreak spreads to 4 more cases WRDW",
+      "description": "Georgia measles outbreak spreads to 4 more cases wrdw.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "US Measles Cases Hit 3,134 as Leaders Feud Over the Death Count - Bloomberg.com",
+      "title": "US Measles Cases Hit 3,134 as Leaders Feud Over the Death Count - bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2F0LV9ITDJyc2RlSWlWdWJXbGktaG1LbC1QcG9Nb3VYeDZPcUdWODVZZDVNeXVJeEVXV0RyeWE3emE3T0xlVktQWEFhaGFsc2hxYnNIMmJpTldTRUFkNXBSS1hIZlREWUlDaUZ5ci1wRXVtSmM2NFRXeTdYSEpQQ3NpVEtuMU93c2lqeFFTRldzYzhyQXotV0JEY0h1TVhwOGFOOUl4ZHZsUjQ1RGlYVE9lc2M?oc=5",
       "pubDate": "Fri, 04 Sep 2026 19:44:03 GMT",
-      "description": "US Measles Cases Hit 3,134 as Leaders Feud Over the Death Count Bloomberg.com",
+      "description": "US Measles Cases Hit 3,134 as Leaders Feud Over the Death Count bloomberg.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak at metro Atlanta daycare rises to eight cases, health officials report - 11Alive.com",
+      "title": "Measles outbreak at metro Atlanta daycare rises to eight cases, health officials report - 11alive.com",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbS1CT3ZjLWtVLUhmQ2VVM3Ryc1NtWG9HQXJRVGczc2hJZERhY2JiYXJTY1F0U19ISkxoLWpFRkdmTVRPZnlZY2lUMXB0cVhINFdzeHBUbVhJUDNad0JrR0ZQUDZmLWdvSWRsZWo5LTVSNm5yYmhmZGVkT05NWWZFd0JhOFl5NUhKR1VDZHlZUWh5Y1pxX2tUMng1SFFsVVZ4UTRQeWJya3NzSzhGQTVtWkJqX2ZxU3RHN2xYeEhhenFpYmlwemFHVVM0QktXQTFJOFNqeFN2SFBDSkxYZW9iM1laWWRwbURBSmRfdXdzalMweS1nanlV?oc=5",
       "pubDate": "Fri, 04 Sep 2026 19:39:00 GMT",
-      "description": "Measles outbreak at metro Atlanta daycare rises to eight cases, health officials report 11Alive.com",
+      "description": "Measles outbreak at metro Atlanta daycare rises to eight cases, health officials report 11alive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -462,10 +408,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "136 measles cases confirmed in southwestern Wisconsin outbreak - wsaw.com",
+      "title": "136 measles cases confirmed in southwestern Wisconsin outbreak - WSAW",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd0FkX0hla1dZaHAwcl9xdENLekM4YXNsaHp2bXJMRkRFUUJxRkh1NFJQNDhRYmdpWjl2MXhrNFFHVFdYRzhNZWpoalBqd1ljNHFTWm9fM1FYZzUtU0p2TlBKNlJocnBEVEc5aG11SVVmaGR3VnRGT3JQS2x4TXdjRWtVaGlVNlpBSkgwTW1OaU93d0Jwd3hB0gGrAUFVX3lxTFA2OENiVE5sYnRuOVJhRkNMeEo0OW9ucnBlMV8zMC1Ga196ZGY0SUs1dkFzVVNFZWVYcGR3OTZBa0FSZHl0VHJpTU1SNEtuME42bXl1R2VXSGdYVWh1QnVXekNkNXRYUHkzWC1sUnZ2R2RmVGZtMDJTVFNCclRUQlRIWjhib0pBalVCa0Y1aTJVWVNoQjdqQWQyaHhhaHBZeWJDeUV6b1A4U2Zqcw?oc=5",
       "pubDate": "Fri, 04 Sep 2026 19:34:00 GMT",
-      "description": "136 measles cases confirmed in southwestern Wisconsin outbreak wsaw.com",
+      "description": "136 measles cases confirmed in southwestern Wisconsin outbreak WSAW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -475,33 +421,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiQnlaaXlfUElUZkJfczNySEV3WG1Gd3J1U1R1NVdYZC1qY1haQWVvanU3Q0dqZlBLMnNuY3NnOVRJeEF3QnVUeS02QTJDY0R2TEJyYlZ3eGVoMFpuUXNKUE9LYmFOVWVZYm1scWl3YlVucjQ4TVJwc2ZZVENBNUk?oc=5",
       "pubDate": "Fri, 04 Sep 2026 19:32:00 GMT",
       "description": "Iowa HHS confirms three new measles cases KCRG",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Report: Local coroner announces measles death - thecentersquare.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZERBXzN5S21pMEhUa09EdFRuTU1YVi0zQ1J5THRMWm5rdXd1SnlDaUZnN1B0a3VNTWd0NkZNcjQ2LWNDSzduTDI5X2k4LTQ3bFlQQnF5SEdtOGtyNklKWVVfb2dVTXZFbEVlV0g2OU5KbVhtWndVREZLZmNmSlBjY3BlLWljMHZUdGh5b21CQTZnVlRBV2dNQkhn?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 19:14:00 GMT",
-      "description": "Report: Local coroner announces measles death thecentersquare.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "As Measles Spreads, Wisconsin Warns Families To Check School Vaccines - Urban Milwaukee",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2xZYjk1Zlo4bjVuR1VzNU9hQ3RPWkxQUHZkcVBId0YzT2lVSmV6clI3U0hxWFFmbDMwZ2J2QnVBOVZTbTQ5ZkVDQ2h1d3g0RjJ3Y0lEM2RjaktuTFU0NFlLdERGR1ZvdXFrNFBSaG4tSzFZVXpNWTdNOXhxNkFscExoZ0g1eW9XWk84QW9EWUdfWkVMc0ViWEc2X1lJaDY0eWlnaXdhalAwOXM?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 19:14:00 GMT",
-      "description": "As Measles Spreads, Wisconsin Warns Families To Check School Vaccines Urban Milwaukee",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Update on Measles Outbreak in Southwest Wisconsin - Urban Milwaukee",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnpDdHQ0VWQtamk2QnFHZnNZWU9XWndHcmNJY0QwM2phVVBjU3FuNm44TzVLOC1PSzlFTUdfa1NPUGc4MW50ZGMyaVZnaTFwaXQxZ21lRHZnaHBKYmRIUWtxZlFRYm45YXdJdWpRb0t6OGJjOGNkeVgtbDBhSy1WUDg2UV9qNml0MUNEM2d3ZTNpNlhpSzdJ?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 19:11:00 GMT",
-      "description": "Update on Measles Outbreak in Southwest Wisconsin Urban Milwaukee",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -525,28 +444,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Wisconsin DHS: Families should check measles vaccinations with students back in school - WTMJ",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNTgtN1QxODQyT2pHMzkyVFdZNWlzNnZHcVJ5cXQyN0pkeFhob2pXM1ZXbEduY1FZclZrWlNVVDV0c21KRU81Rk5HeGE5eFN6NFE3OEo2cmQyd0paLXo0TFQwUk9NTlNFRzJGNXNmZDZJank1NHJzaXMwVTJwaHlRekdyUWZ3X0xaQXUxdnJxdUtYTHE3NW9PS3RPU1Z1Smw3YnpJbndWaEd4cS1MbzZJMERKM2JQcEtJY3Uw?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 18:17:20 GMT",
-      "description": "Wisconsin DHS: Families should check measles vaccinations with students back in school WTMJ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "US measles cases hit 35-year high as expert warns vaccine hesitancy is fueling the outbreak - Scripps News",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT2VUeDFZaVRkZzhYVV9FNTA0TVp0dnBjSGc3R0t0TzlMMkxDelBNalRaem1jLV9XMlF3ZUgtMk9GM3NuQi1tamQwLUF6ekNpYU9VVV9LdVJPUWNWa1FQWVdWVTRwSjYwcVFuRVp4eWxoMDQwaDRyVDFhSEVWZG1XaDl3WFpHX0hEME9QdEdraVphVG5SWS1zNDVvZFZmbTR4dWNXRnRDeWlKVXpzclFfUVNtT1FUMVozVngzbHdpNUx4ZDVR?oc=5",
       "pubDate": "Fri, 04 Sep 2026 17:48:11 GMT",
       "description": "US measles cases hit 35-year high as expert warns vaccine hesitancy is fueling the outbreak Scripps News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases on the rise: What to know - FOX 7 Austin",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nZUtXaWpZd2NRU0pUbHoycDdfU2MxdVk4Q3ZqQlZsdkhyTmRSVTJZclI5TGktRHhJY04yX2xtRkJfX2ZUNWdmSnU0UGtZa3lrcHlvc2p3a3YtcjEzUnlocHgzONIBaEFVX3lxTE5VZEk5RGI3OWRkNFRXcE1pd1RwYWdnbkVmNmFBeEttZEt1RFpmOTNhTXFSMUoyNWRMRkwwM1BUZi12ZG1YdmNBM0VzNTROVEdJOTJ2WklNTHRfU2FtVm56SVVRTEJFOTVH?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 17:31:31 GMT",
-      "description": "Measles cases on the rise: What to know FOX 7 Austin",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -573,16 +474,16 @@
       "title": "6-week-old Amish child died from measles, Lancaster County coroner confirms - LancasterOnline",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdC1BU3k2Wm04OVVKNHZyQy1zOUNQMXBYeGdjbVpRTUFCb1E5Q1RTb3phQU1nNngxY2QyY09NeEZZM2pJbDMzcnMzNERnZUh3c0UyUjZiaG83NXZ0X1F4VVFKdjBCZDE0eHE2TU1VQ1BqRGZ5anpQY2RlNEs4WWlvelRiNV9iRVdpa3NzakZlYVJGQjRVXzBGaFJrR19MazdGaEl0MlN0SUZ4YXdtc2xjQ1RiN1ZUTFFVQmxlYnJydnZNUGdoUjJDSGlOang4QTRpT0Rsdy1aV2N0WnA5NnFPOEtGeEd3LW1GYzVncy1LNnJ0bHpQNGc?oc=5",
       "pubDate": "Fri, 04 Sep 2026 14:15:00 GMT",
-      "description": "6-week-old Amish child died from measles, Lancaster County coroner confirms LancasterOnline RFK Jr. accepts PA child died of measles, says Shapiro hastily ‘politicized’ death The Hill Pennsylvania’s measles crisis: Inside the nation’s largest outbreak Pittsburgh Post-Gazette The ",
+      "description": "6-week-old Amish child died from measles, Lancaster County coroner confirms LancasterOnline",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles spreads to 14 Ohio counties amid nationwide surge - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaU50UWxUMXhSR0RJRXRha0dCY1pEcGw1aGF6aXBmc0dOQ1RVQWJoYW5Ddnl5dW1udjczc3NtU1U1eVNLd3JnY05IdWtuV096ektIT0pVQlFsOEJjenFZNDZFRGpjUDRpZWU2M20wUndVenJGblo2SXRTZHA2R1BXZHFRc1BJOWd4NG9CMElwdHJjV3BYWk9RSy1jVU1pUDVUQWo3aGozWVd4UQ?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:36:00 GMT",
-      "description": "Measles spreads to 14 Ohio counties amid nationwide surge Cleveland.com",
+      "title": "New report indicates 3 more measles cases in Iowa - KCCI",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNDV5eEtHbTVzQkYwNDFWMnR3WXBuVG53aVAzbkZUeWJ1c25XUWEwQTU0U3ZnNHpobWN0UVBOT0ViMWJvVElYU2YxT3NBR3hYMWM2M1FJYXNIYVVkRTBJdW9JcEZ0dVBKUlZqZUNkRFRNTzVMVFp1eld3V0xKSjUyTA?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 13:02:00 GMT",
+      "description": "New report indicates 3 more measles cases in Iowa KCCI",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -597,28 +498,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Josh Shapiro’s measles response — and its backlash — reignites COVID-19 fury - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbVZLcGZEQUt1TzdNWkgtTEtEbzAydjdtNzc1cXFjSnZ1TU92aTZMZjhOS3RSSldkUWZUbnhVbWExSDcxTWMwczZOa2hwSXY3d0lxNjB5RTFvSkZOcVAydnZUZ1IySk1PSXVXRE80X1k3RUhWYXRvbmZ5VEhIakNtbHRCTUFNSTJXdjlzdVN6YkktVXI1MUVORDNzdkVKQnFzcjZ1cTJLMkJhVnNFdjNScU1fd0I?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 09:01:00 GMT",
-      "description": "Josh Shapiro’s measles response — and its backlash — reignites COVID-19 fury Inquirer.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
       "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT",
       "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1ozXzlZMFVYRFpyZzAyRUxCai1abG5HU3RDSUlQMllUZVh0ZHA5T0x3bWFUY2k4RGFsQkhEVGtzVGk5QVUyUG55Q3plN1haZEJZX2QxN0tIU0hJYWt6UHczRG1HYTRoVncxU3Vodkw2U01IdHFEVDhzNi1idmdvazk0Nk5JYkFpbjNCalVESWRFOUUzN2doUWh3UjRCb3ZGc0F1TExsYTI5TlZHOGNZUFVRSVJrVHJH?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 22:13:50 GMT",
-      "description": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them Ars Technica",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -651,10 +534,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "We called every coroner's office in Pa. about measles-associated deaths; here's what we found - LancasterOnline",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSWROUXVUeXFLemtxQlZtU1lVYmNWWWMwUW1TLXlaQkotQ0U0RHBxR2o0QmhXZDdqMkZMc1haZnQtby1XZTBWSUlhWF93UmxSdVJCTkUwLVNVRHFLblFuUnU3QnUtOF9Lb2ZsSnQwcktwYm9SeWxUR1NBNHBNM1djWmRsclRycjQ3N04zNzN4Z0FtRlhGUE05U2ZYLWhOWnJQVkp3VF9aWHJ0VlNwVmdBVWRoT251c2ZoalI5YkZQSTFJeHlfczExSlB4S09JeUNMVEtMN2NCWWlmNnltTmMtVDRQQTJHd2huYzd2UHBnYVFHTmVpUlU5UU5yUEFrMmdFcmNqUUFTVDFXUnc?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 19:29:00 GMT",
-      "description": "We called every coroner's office in Pa. about measles-associated deaths; here's what we found LancasterOnline",
+      "title": "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRHM3Mk0tQU8xRURad3UwdE5GZXhvOWlXSjBLOFM2WVZOTVctLUQxdGhTdkFaVGN5VzlmOWlzT3o3WEFOeU5uYTQ0WUtRejJzbXA3OWtrNExpb0NOMzNvcEZVbjJ4b2M4eXhWZ0k5d2xLVm11V0NyYUo0UEVTX0p1WVJQOUF6NktMLUpTMGUydjFzQXRIbGZJVVlGbDI0RGNfWnlPclVLaGZBSjFHRW9VbUt0YV9pZ9IBuwFBVV95cUxPR1piY0xOajBfWGYwYnM3Yi15RUFMN2ZvNVRjQkxqYm1Za2cxblZnOVNpOUNjU0tIQWdOMDc4ZDd1SnBDRjJqUzU1TWZlcWItNjl0RlJXd3QwWVhJRHV2TGZvaFJOLWdwWTIxaHdud2hKNG5IYzBmMy11WnhnX193N3JxbmZ5VFpuQmRacUNHdWt1eWNaWkZuMHBoa25feFdpamVSTVZRcE8zbk9IWnB5bU9ERW9GaG11R1BV?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 16:01:13 GMT",
+      "description": "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk 6abc Philadelphia",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -687,28 +570,37 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Pediatrician says RFK Jr. sowing doubt about measles-associated deaths - pbs.org",
+      "title": "Pediatrician says RFK Jr. sowing doubt about measles-associated deaths - PBS",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2NCQUlibk9RNW9pZ0NsZVNnZFNIVnZBcUlsMHAwTktFN2twZ2d5V3o0dmsxX2xwYjEwUnVHMlhHUHZ4OUFnckFLUWtFc1ZJaGJGR0N6Z3p5UzNRZE9RSFBvU0VkVVdmV0dSRW9tRGtidklPaUFMZ0ZlRl9FWUg5dkhuZjdYdGNBUE9WUG5hYTNaUl9pRzNHd3pqWVNhbThrNk5mbUhR?oc=5",
       "pubDate": "Wed, 02 Sep 2026 22:25:25 GMT",
-      "description": "Pediatrician says RFK Jr. sowing doubt about measles-associated deaths pbs.org",
+      "description": "Pediatrician says RFK Jr. sowing doubt about measles-associated deaths PBS",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "IDPH confirms measles outbreak in Douglas County - wandtv.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeTdiU3lpcUdNV1NfOURWRGotYVNiVmhzRjZZRTdMOHllOUxTVHFXUUhJeFN2SVpVdkFWU3hhdlpEb2ozeUdyTHFQZnFYdHJjUWc2cHVvenhOcDQ3eVZmZUo0eVBfV2pieE5jcF8zdmZlZk5zWGRWMnFXUjdvSkF2LUV5Ri0zRzQ?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 17:54:00 GMT",
-      "description": "IDPH confirms measles outbreak in Douglas County wandtv.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Trump’s new CDC director ordered delay in counting 2 measles-related deaths - cnn.com",
+      "title": "Trump’s new CDC director ordered delay in counting 2 measles-related deaths - CNN",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Bc1VOTkNXa2kyMHFzTFVWVzRwenNoN01HQjJVYktKclNqTzNHclNOYzdZaFZGY0w0RnZ4VlF3MlhKUFdwMFVhQmtCN29EbF9URVk3S0FpMUxQNThhaFpIX2hMOUJrSEk?oc=5",
       "pubDate": "Tue, 01 Sep 2026 18:38:46 GMT",
-      "description": "Trump’s new CDC director ordered delay in counting 2 measles-related deaths cnn.com",
+      "description": "Trump’s new CDC director ordered delay in counting 2 measles-related deaths CNN",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "As measles outbreaks grow in the U.S., maps and charts show a record number of cases in 2026 - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wUl9SNkNDNWZBT1Y5NVh0OGtLaTZuNHFyWkRxYXNFdks5SmtzOXp2Z1RFdnd2dW1EYWxhVmhYRWFyNzZVSmNMTlpPY0NFRzNBcTNYbC05YmdFQW5NUTBMZWVZSnNQNWZwNGc?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 18:17:50 GMT",
+      "description": "As measles outbreaks grow in the U.S., maps and charts show a record number of cases in 2026 CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "CIDRAP Op-Ed: How we can hear ‘high risk’ for measles and write it off - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPclI1LXNsaWtQaG1fd1RBcVpzV2lmT1VEUjE1MWZDU29WbG9uZDFlVW5WOTg4b3pWUDhyMlcwdFRPcmlHcktNcDV4NUwyanNlNEdrS3JjSGZCem5vQU9jcWthbndWSGFGOEM4bnczeGRCcmR0YnlsbzcxZ3NDYmkyWW1hNTBabkl3Zm5YNGJlQlpISzliMXZGLU5R?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 16:45:14 GMT",
+      "description": "CIDRAP Op-Ed: How we can hear ‘high risk’ for measles and write it off CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -723,10 +615,37 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Outbreaks: Common Questions & How to Protect Your Child - HealthyChildren.org",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYkxKemNQUnkzc1MxWTU0ZGQxdndLR1gxYzlhX01TcEp2WkVxQzRaYzhySXJQd3dBblBqek1LU0w1LXBod1pROXF5Vlg0X2IwYWYyOFFOclFCMmpBWTNkUjFaSWJMSGtQZTVDMG9qM0t0VjVTQlZYcURQcmdLVU5BYjlybG5fejhzQW1OTDlGX0pDSnNGTy1ka3pGS0xsVjFoR0gxSlFPNDNtS1hiS09NWHlqSHlXVlhlRTJXVlNaVVlaSHBkZmVYWGNkUUxRVEQ0MzZn?oc=5",
+      "title": "US health officials exclude measles-related deaths in Pennsylvania from counts - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUowQnc5cXpUWmpoRnpaX0Z6dVJyR1dWSkhRTlBLX3psaEZzX185czlxTWZnc2Q5azdXM2lVVS11dW4yNjlpaWxfS3hVVzQwcjZUenZhb193N3IzakF5VE9NVUtkR0JUbDlNYlpVZ2ptWDJrbTFWSWpVOUxKYmFmazFIVUY2WU9QeUhsUQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 20:31:00 GMT",
+      "description": "US health officials exclude measles-related deaths in Pennsylvania from counts The Guardian",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Conflicting information continues in measles-associated death of Pennsylvania newborn - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkdPZ19TeVdMUllJMzBMY2VtMkF5ZFhSbTM2MDZ6bW81OUdwcG14TVVfb2ZRZUdWdWQtOVp3dTJXeTJUUzZ3aWQ1ZTJ1SGJvSmUxai1UVzJxcmlZTlBYZVAzUWZxTTRkM1JycWlYWVQyUzQtU1hjSkNwQk9kRHE1bFBjNVVWZjZaT1JKRjFjdVk4d1ctRm9CTXhTd045ZlJ5RE9lMDFIQTRTTURfOHNaWGpUOS0?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 17:54:33 GMT",
+      "description": "Conflicting information continues in measles-associated death of Pennsylvania newborn CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles deaths reported in Pennsylvania spark feud among politicians and health officials - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHl6ZFdTUnlFN3JQbkVEN2FMQ0t4TzNXb3laQ19MRjdwNmlBbnQ4bW5tNVk1S0xsU05ZYVNlT0h2dWxDc1hmekJycHpqODBXVDYzRllVUWdONGdtTktYazl2bDBHWFdsWEFyRDRvQ3d2NGZVTjR6ZGg5SjI2TkRnZ05Sa195VUlNTXNLdWhXbnJqelZUVHBFMVlCMXJpS3RodWVBLURzd19YQVhHRWlXenNmYmkyYTBZcXc5MzdjWFVHdms?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 16:47:31 GMT",
+      "description": "Measles deaths reported in Pennsylvania spark feud among politicians and health officials PBS",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Update - August 2026 - Froedtert & MCW",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42SjlDd0Q5dFVsSFd5RWc5aVRSLU55UVByd0JTUkxsb0VBbjk5d0JCY2huN2hUd2VBSzFDeWxBaHctZFlfYlh4ajk5TzI4Zldnd2pGZWNwMVVZOFdjejRtQkhjNF9LaVI5Y2RfNw?oc=5",
       "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "description": "Measles Outbreaks: Common Questions & How to Protect Your Child HealthyChildren.org",
+      "description": "Measles Update - August 2026 Froedtert & MCW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
