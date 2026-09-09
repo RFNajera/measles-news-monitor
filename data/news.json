@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-09-09T03:26:01.393Z",
-  "itemCount": 76,
+  "updatedAt": "2026-09-09T04:26:03.654Z",
+  "itemCount": 83,
   "items": [
+    {
+      "title": "Bangladesh Measles Outbreak - Journal-News.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVmRJbWNwVm5ybHZUNE8wcmRsQUZPaExuUnYzdHh0VG9tVzlQQlZ5MG92T0dYSm5va0NWUFc3RDJJWUFwYkRjTUtqMnNQQllNQll0cDNncTdONS0zMVRYOWV1ZzM4cTdPMHhMUTdvMkVzRF9UcnhwMVhtV3pBdExOdzlxOTk1aEpyR2RwTWdCYi1fdzJPNG1JUUxSMnFTY3JXTExEVEJPbHhaN01ENVdDMUxmWnB2Z1pI?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 04:10:55 GMT",
+      "description": "Bangladesh Measles Outbreak Journal-News.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "2 Franklin County cases among rising measles outbreak in Pennsylvania - LocalNews1",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzJrMFhKZ2Nwbzd4a0xVTFpDanZGSXdPbHljUkxWZy1vbWFjd2pBVlB2ODBnZVpFb2xTUkZrUjN3Y1NZU1hWUXFkQjFRWnpJU3V0Wk8tWnIyRlFnTGlJTU5JU2k5MlJHSWxDZXFKaDJ6VDl2YUlaWjVfUTJmV1d2bkNmZ1VNczVtZ0tLMDd5Z1lIM00tT3EwTA?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 04:08:33 GMT",
+      "description": "2 Franklin County cases among rising measles outbreak in Pennsylvania LocalNews1",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases reach highest level in decades as possible Clarksville-area exposure raises concern - WKRN News 2",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSVFoU2o3REV6V0dtR0RHbEtHbDMxenNKSndrMThzcUhTMXd3SXpGa1ZydVpaZzFybkhHT3NWSVQ3ZThWUHN2emd6QXNrZ0xWSXVnT3kwZzlCOENFOTJ2d2JMUTZNVTN0UHRWOHBRd2pfWkUxMVdsdEE0TmVrQzA4MmhSQ0UxdDNrOU5DREk4cGxfVE92cnJFVG1PMHZLWE1QWVM5eHBoYnBGSjhNa2xQZDU2TXF4N25jQ0MzQzZyYTR4U0E0dXhtR3JqMXNZRjZi0gHWAUFVX3lxTE1YSG0wcnA2UUZZSVJkUGcxT2txSTJpTFE5aU45SnJYaG5oa3lwdFN4N1VHVTFuaXBESm5rRUhPSDBpWVhDQ2pmR2dtandsaWtZajJVSWJmTXQ0all4VFFRRTJUTHZCcjNXSjM3YnlaVHpuZlFENFZ0bXI0dnRtX1EzMG1WT2NoV3JGN2VUZndYcWl3MndLdURyUU5zS3JKNDMyUUtwYzl1NEQ0QUtydXJoN1lJekFxMFJrczRDaUZvZ1c3RHBWaHBabFJQNUhPTHkwWE1XU0E?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 03:46:50 GMT",
+      "description": "Measles cases reach highest level in decades as possible Clarksville-area exposure raises concern WKRN News 2",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles case in Clarksville possibly linked to outbreak in Kentucky - WKRN News 2",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVHJQMFh3emxHd2N4aEFPdUpROXJtQkhsTFRRcUFKOEIycnEwbEtqa2ZWaEw2VW9DWm0zanF6WGxCVm9MNG4xLTQ3Q1F1cm9Mb3NVNUVMODJNU3kxOEp5WElnZVpROThTVTFMZE9QVWJPOEZXaWJSdy1Yd3BnNHlCVWt6b2o3S3cwZTZmQ0VqYzZFNUx4ZHBZZWpfTUdMQ1ltclA0TG1uSQ?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 03:04:34 GMT",
+      "description": "Measles case in Clarksville possibly linked to outbreak in Kentucky WKRN News 2",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Two infants identified in Lancaster County measles-associated deaths - WGAL",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMGwtUk4td09pSWcwMXl4N2dFRGJJbU05VVp4Q1JoTnlhTVVqMEZPZFVXZlN3cGprRHZKRG1qUWd2QTh4Zk1yaGdyNjI5QVp6Sk9oN2lqSzAzcnBRcVNKOEZ4T2F4ZTZWTXRXQlVCZEw1Vmw5RUMxTjRSRW9OMXdxaTRVc1RMS0dSLXpzNWxnbw?oc=5",
@@ -32,7 +68,7 @@
     {
       "title": "Mom of infant exposed to measles at UPMC Children’s frustrated by hospital system response - TribLIVE.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWdBcnNrWldfdGFKRlgyMEkySS1FSUwtZ1U2Tzh0UWcxRHBEaXk3cG13LW1BS0FBbUtjYXhJNk5XNFltdWZKcGFHMHR6VnkzY3hvUkM5X25QVTB1T1V3NF9CMXBhNFF0NHN4OFVuWE9hYXV6cEZRZmtDdjFPNzJCMmxldUdyWERMMkV1eEJnd3BxbVpQeWo4SEFGcFRueXgwRW5oZU03dmhtcWVkUUFqVDNRWFp0OEVhSnlxb0NkUXR1RVFyT2c?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 23:23:48 GMT",
+      "pubDate": "Tue, 08 Sep 2026 23:37:36 GMT",
       "description": "Mom of infant exposed to measles at UPMC Children’s frustrated by hospital system response TribLIVE.com",
       "source": "news.google.com",
       "sourceType": "news",
@@ -48,10 +84,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Prepared to meet the new measles moment - pennmedicine.org",
+      "title": "Prepared to meet the new measles moment - Penn Medicine",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vRWJwOHNHWm5yVnVxQUE3ZThsYlhzc25meHZSX1hoM3BPN0lIMkFOLUoyX0lGeGxKOHhxQzVDY3Y0WndWbnMwR0FzOUZjNGpTSm1YZGhhMWVfVmJ3dzJPbWkxU3dKWjl5S2FEdDZkU3hUcGxwdUtEZW5XbUVadw?oc=5",
       "pubDate": "Tue, 08 Sep 2026 22:38:35 GMT",
-      "description": "Prepared to meet the new measles moment pennmedicine.org",
+      "description": "Prepared to meet the new measles moment Penn Medicine",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -93,19 +129,28 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Kaiser study finds Sonoma and Napa hotspots for potential measles spread - The Press Democrat",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenJ4QkVQQXhtUzhuRXFtUWFnYVBIOWFVTzNDRnZXQXV3V0xsLVhkZktlU3BGaTZqZHRzbWlob21VMlVhbEVEbTFmZVhTbXZnYnhMb0g5WW1ZeE03X1RHTEthTHVuUlA4YkpSUnNuYlNZdGQ4ZkxKZ0RLdW1lRkFDcU9nNjNDMGZJS084OUE1UnFpT3VkRUZOeFZWd2JXazAtX3VFbV9qSEZBa2g1UExINV9uUmNrR0lVa1Q5d1hNRjlJSFZrM05rdlI0a2lZeGx5enIwaDZFTnZNdw?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 21:23:46 GMT",
-      "description": "Kaiser study finds Sonoma and Napa hotspots for potential measles spread The Press Democrat",
+      "title": "Confirmed Pennsylvania measles cases near 600 - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWElMQVRNTkEzTzZEVWNCY0VOVDFrWE1lMDNhV3ZQRlJjMTdMYldQV2NNOEdPQnhXWHpDUkxPQVVhQmtCOUJhOFhmTllXYndHNlliUlpxdFhHZzhlMXFrTWU1U3lXQVM0NWRNdEdIQm9uYkJIMUR3ekJxQlBIejdPVFRITFFuQUpqY3F0bHllOVRFUGJCYl8tVzMzcw?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 21:28:24 GMT",
+      "description": "Confirmed Pennsylvania measles cases near 600 Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases continue to rise in Kentucky's worst outbreak in 35 years - LEX 18 News",
+      "title": "Kaiser study finds Sonoma and Napa hotspots for potential measles spread - pressdemocrat.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenJ4QkVQQXhtUzhuRXFtUWFnYVBIOWFVTzNDRnZXQXV3V0xsLVhkZktlU3BGaTZqZHRzbWlob21VMlVhbEVEbTFmZVhTbXZnYnhMb0g5WW1ZeE03X1RHTEthTHVuUlA4YkpSUnNuYlNZdGQ4ZkxKZ0RLdW1lRkFDcU9nNjNDMGZJS084OUE1UnFpT3VkRUZOeFZWd2JXazAtX3VFbV9qSEZBa2g1UExINV9uUmNrR0lVa1Q5d1hNRjlJSFZrM05rdlI0a2lZeGx5enIwaDZFTnZNdw?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 21:23:46 GMT",
+      "description": "Kaiser study finds Sonoma and Napa hotspots for potential measles spread pressdemocrat.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases continue to rise in Kentucky's worst outbreak in 35 years - lex18.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOamJjMEZLcS1tcEtCWjlqb1BQQzZGN1o2UnAtcE8wdEpLYmFZSFhzSUtrREptaTdGWmdKNDJ6dFlwN0JCQjJESHVVWTVDYUNfbTZxc09peFdiU0lKMWt3VDVVT1ZLTHhRblJmdG50THdnd05FM3ZROTRRbHVGVzdOQ0Q1YU9uSExCWEt1SVA1eWt2cFlkRGV1elBRSDNoanpvZXRqVHdOb2pmNnRwUEZUdzFYTXJvZw?oc=5",
       "pubDate": "Tue, 08 Sep 2026 21:12:39 GMT",
-      "description": "Measles cases continue to rise in Kentucky's worst outbreak in 35 years LEX 18 News",
+      "description": "Measles cases continue to rise in Kentucky's worst outbreak in 35 years lex18.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -124,6 +169,15 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOERZUzNuUEkxZmxZMnpfeXFGbkwtYzNHbk92R2lZYjJwZkpiQ2czS2wyb3RIZzlzSk5qb2FTb1lla3h6QmZ2d05rQklhdjVESFhWV19yb3lWQjM5ak9lVmlaUk9TV1Qta1JTQWJ2Q0s4S0VZMzF0S29hRnVBaENwSDl0Z0dpSmdfXzlEV2MtdUVZWnlsSEphbkM2SkhhalXSAbQBQVVfeXFMTVd2NmlUOWZtLVg5dzlWZS11RjRSMTVDSUtQZnZyTVR5RHhMN3VmUHd3Sm83OGItTXNtbjEzRlRfX0p5dTFVVVhuRGRnTzVLSUI2aFVlMnBxRzhhRFdGV3lWdXJyUk9yWWhVRW1ybFF4OXpXX1FFTGRCNWJtUDNmb0I2cFBoSWhSd2lyNkp0M25XamdpQ3c1Y0xoYS1BTlJoZDBhQlVSUVluc21jTC1oNlpxNk53?oc=5",
       "pubDate": "Tue, 08 Sep 2026 21:07:37 GMT",
       "description": "Measles Study Finds Low Vaccination Hotspots In 8 CA Counties Patch",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Confirmed Measles Cases Continue to Climb Statewide - erienewsnow.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT2dqWmtvWFVEVnpYTGtVQmQxR1hTZkhvWnlrUzRybGpyTTJmRXV3Ry02OVVFN3pkVnZnVzB0S2w1WGUwZTRmaGJJbnk1RDhOX3dqR3plSEVqMS1RLXoyRkI5QjNTbWh6Z01lUzhWNlBKN0JpT2tVX08tMU5wZUVPYWplRFZmLTBndXhQemI0aHlVREJic09Lak83ZmxMWVc1U19hdENUaGpLMjZXVWVsOUIwQUVDSGlIM2NKNWtFZXo4NXdybHJBNmRGRTRvYWs?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 21:03:00 GMT",
+      "description": "Confirmed Measles Cases Continue to Climb Statewide erienewsnow.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -237,10 +291,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Cayuga County confirms measles case; health officials urge vaccinations - Syracuse.com",
+      "title": "Cayuga County confirms measles case; health officials urge vaccinations - syracuse.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ0hJT2lSZzdPZE82cHloMGxyR2hCOHFhRExHSmtFNFR5Qk05MkRxRjYtQ1dxb05peW9IejNsU0w5bkNHLTUtOVoxRk5GNUt4VTRfRUd0SVBvSXVCY24teE5nZEw0WUhCT0FEcnRidThMWUpkZGZKNzlWcmlTdFdQb1I4Zk50dGlVUnFBTDdlRzBCVHdudFFOZmlWY3dYUXJ1YzMyZTE1TWtScE8wM3dFNzR2VdIBxwFBVV95cUxQQTBWanJlb0xPLWlOODBVVDJZc0ZlTG9NcE40Z29CQk02MllNTDV5ZzVzbFFhSG14UlF1ekR6M29tZFphNUM1d21Vam5qSExFRnV4RmprdzNkMmJfOXpNU0d0NFJnMlZ2ZlA2eklsalBpa2htS01xVlI5Mks0TEk4aWM4djBwLWhJWl9lZjFReUc5N2RPcDlwb0xWb0gzYkw2Y2ZNRU9xRjlPYkVfdHNnbFB1VndISEdtZEREdmV4cWhCaGRRV0g0?oc=5",
       "pubDate": "Tue, 08 Sep 2026 19:07:00 GMT",
-      "description": "Cayuga County confirms measles case; health officials urge vaccinations Syracuse.com",
+      "description": "Cayuga County confirms measles case; health officials urge vaccinations syracuse.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -264,15 +318,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles: The disease we can prevent together - Austin Daily Herald",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdGN4bjFYYUJYN3FSeHBTOE5rUmhjVnNBY0FDWE0xS3ExR1c1ak5GdmQ4WDFQQk1aYXY1VnFVMUdJYUplZFJhSDdRSVowNl8wSXgtRzV4VnNvRzFEV2ZjY1JKTGs1Rk0zenQxWS1IdWFIcFRheGtHTXBJNWw0dFRORzhZb2lvU21iUzE1QnI2bnJjZXRKMmN0S3pR?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 18:39:13 GMT",
-      "description": "Measles: The disease we can prevent together Austin Daily Herald",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "As measles cases rise, Lancaster County officials point to information gap - LancasterOnline",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT2VJWWtzZ21DRmdMS2xXR21zdWRBeFlHR3ZnM0NLUUNWSDJzXzk2amJ0eElvUnlQcUNQeUR0clRYMllCTHYxdmZKb2ZSNERsb0xFUm5xV2tJamlqUWs2YTAzYjNVZVdZM096eGxXaHJPaU9ZU1RueEpwdHF0VG4zYXJUU3FxelN3bTlLaW0tUk42T0FIRUhTYTlZOFZ6ZXlwZ2pBQTNKVmxoYm1fS2NlUl9VekExX19WMDNxTi1GMG5yQjh5eHp1RVh1UkpUbmVzMWc3MkQ3c3lfczZBSDZybk84LTVfRFBER2tReEtFRThrUnhHMnc?oc=5",
       "pubDate": "Tue, 08 Sep 2026 18:12:00 GMT",
@@ -291,10 +336,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases increasing across NYS - Sun Community News",
+      "title": "Measles cases increasing across NYS - suncommunitynews.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTlZCa3FENTJJaHhfRTg4M2pTMUVjdFJWVlZuSTUyb3dnakhyMTIzSkdlRnJwb3pwLVBrd05FR19TLV9reGQ4NzhGWmNsQktXaUV5SGNENVlzUmVnQjdTRllrSjFwWlNHdzA5MTlDbzF1cWc3TkFzLVR2Ny1EdlhJTVJOSQ?oc=5",
       "pubDate": "Tue, 08 Sep 2026 18:00:00 GMT",
-      "description": "Measles cases increasing across NYS Sun Community News",
+      "description": "Measles cases increasing across NYS suncommunitynews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -327,10 +372,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "The CDC and Measles Deaths - WNYC",
+      "title": "The CDC and Measles Deaths - wnyc.org",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGcycE9TQUNyblVnZi1xcWFtU2JqaXZ3QU5DTlVhdW5VcFcwcGVVaFlHYWJhM3BDSXdkMjIwbnV4eFVaOHRyNUlOMkl4dWpzeEw5cjJvUEpYbW03SG9EZXZRTk5EajFTQkRNZk1ZYTdLUDh6NW81QzNvQ3NBcHpHMWJUMmZFckVYY2xTRXpR?oc=5",
       "pubDate": "Tue, 08 Sep 2026 16:57:37 GMT",
-      "description": "The CDC and Measles Deaths WNYC",
+      "description": "The CDC and Measles Deaths wnyc.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Essex County Health Department confirms measles case, says it's \"controlled and contained\" - WPTZ",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkFjZVowWF9JSVQ5cXo3NWdvbzNIcm9vYzRsWkRkQld0RHhlVVNYYXZhbFc5bk1NZjZkQlUzYk53VkpxVXhhR2g3R2NmdDJHQ2NKU1NDOFE0bVJZQTBHMVNPNGF4dFpvRmlQNjg1TXlDc2NTYXREbkVuckVPU240VWdYREJ1V3MxUlVrMA?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 16:15:00 GMT",
+      "description": "Essex County Health Department confirms measles case, says it's \"controlled and contained\" WPTZ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -372,19 +426,28 @@
       "sourceLabel": "News"
     },
     {
-      "title": "JID for Clinicians: Reduced hepatitis B vaccine schedule for infants, measles transmission during travel and more - idsociety.org",
+      "title": "JID for Clinicians: Reduced hepatitis B vaccine schedule for infants, measles transmission during travel and more - IDSA",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcTBvQmgzbm15bjRsRE1na3JjWG1aMmdUeXZzSVdpeDlRQTFLVV9vVWE5amtNQ2hqa2k2NUFYUGNabnBIY1d5emZFNTYyQ3VRWXFkYWlYYmhiTGlmc3E0Ujc4b1J2d2UwRlFkV21wWmFDNDYxVmp2SE1sSWlaZEtmX2tSLXJYT2psTVM2VEJkQk5Bb3ZaQ3lTM2ZRQ3lkcGc3R0hkcWtCTnQweF9IelRuMFBIeDdqUUVra0R6Z0R1eHBVRzJkSVRrUTUyMTVLWFpqLUJVajNzS001alk0VjVlcUd1TGlPMjZCOWpXUTh0OVZEY2U3elE?oc=5",
       "pubDate": "Tue, 08 Sep 2026 14:48:04 GMT",
-      "description": "JID for Clinicians: Reduced hepatitis B vaccine schedule for infants, measles transmission during travel and more idsociety.org",
+      "description": "JID for Clinicians: Reduced hepatitis B vaccine schedule for infants, measles transmission during travel and more IDSA",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Declining MMR Rates Rely on Collaboration for Path Forward - drugtopics.com",
+      "title": "Declining MMR Rates Rely on Collaboration for Path Forward - Drug Topics",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM3pwRXpyNzZhTTBaRlpqMGhOQ2kyTFIwX2dNZHg5V0t4NV9yU3VvYnJJUGxKZ05sTmtkdy11anFSYTRlNGxGeVA1elQycVBmc1hEY2ctRm9YaVdodlpOM1hCYXhFREljUjdsRUtlTFA2XzdYbHZQeFZRakZmb3pQMTVBMVRfSEN1SGxBcmRpRnRsZlIx?oc=5",
       "pubDate": "Tue, 08 Sep 2026 14:36:56 GMT",
-      "description": "Declining MMR Rates Rely on Collaboration for Path Forward drugtopics.com",
+      "description": "Declining MMR Rates Rely on Collaboration for Path Forward Drug Topics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases linked to Atlanta area daycare outbreak rise to eight - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVTdoZGVYck53akhIVFhELXRqR0JoYTJSX3B4WGNNcnV1aHNyTm52TXJib2Q2ZlYzTGRUWWFPVndpcGVWVjlsbWd2bkFfYTZuRWhyRC0xRllwTHA4TGUycERQeE1NblR3M0lWamVId3QwN0xnNlhJV3ZyWjZDdHNFWHE5VmpaNXBHenhJNE1pV2RFZmw3RzMta0VQUV9nSEtLdmVHUGV5eFgwMEVLQ25ILUp2TE9Td0FobWQzQ3lVbGJhblU5Qm5OMXZtbm11SWlBQVZVOTZCRHhGaVgxQ1lkaTh3?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 14:13:00 GMT",
+      "description": "Measles cases linked to Atlanta area daycare outbreak rise to eight USA Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -403,15 +466,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmNZcDV1d253SGFRQmt1bUYxd3JQeFEyNFNqNk1HZVFuRUlTX2VXa3pVclBIVUQxM3lEb0VyeWRiT3FYZEFGWHd4OEp3dGJPMWp0MEVROGZLOG1oZWNqN0xUMEtlRnJERE1zNVE4eEYxVEZzcnhjRW1qallNeldRWkdLdVZyOUJ3ZkNxOEN3cGl3em9Ud2EycUcyQnZMTHBwSDdwcThSUmE?oc=5",
       "pubDate": "Tue, 08 Sep 2026 11:38:30 GMT",
       "description": "GA Confirms Three More Measles Cases in Atlanta Outbreak Valdosta Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania Measles Hospitalizations Reach 17 Percent of Cases, More Than Double the National Rate This Year - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeW82dVFNR3QyLXJ0b0E1NzNJcFdGTzl1RUdSTkRwYWZGRmVlNDc5MlRfTVlkTEVadEg0U0EwXzNOY1JETEVLdUtFZzNHeDRGNkRuWG1vSHg5M3ZEV0VlU0ptUWRzVEFHYTdKdEFuOXowSm5uN3VYd0FRMXlhZTVqSEx1Zm9sc2wtc2hSaDhlTDlNckphWkpNZmNuSHA?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 09:31:09 GMT",
-      "description": "Pennsylvania Measles Hospitalizations Reach 17 Percent of Cases, More Than Double the National Rate This Year Medical Daily",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -444,10 +498,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Utah measles cases are down, but health officials are still concerned - Utah Public Radio",
+      "title": "Utah measles cases are down, but health officials are still concerned - upr.org",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2FMNHBUS2xIQzNUN3YxZFhXaURKajJNOXFXdzVydVgzOV9TeFZsbmtVT1pSaUlKZ3FXQVBtaWphel8xcmVfVlNSeDUyRTBKYkJMa1oyel9LN2FSQl9Za1NUaFhMczN2TU1Lc0VqZU95SVdWYmRhNHk1QkN2UEZlNnZvUQ?oc=5",
       "pubDate": "Mon, 07 Sep 2026 21:00:00 GMT",
-      "description": "Utah measles cases are down, but health officials are still concerned Utah Public Radio",
+      "description": "Utah measles cases are down, but health officials are still concerned upr.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -498,10 +552,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Six-week-old child in Pennsylvania died from measles, coroner says - theguardian.com",
+      "title": "Six-week-old child in Pennsylvania died from measles, coroner says - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnVjQS1zeklNQnJ6aDN2TGF1Uy1KdHdDbUM3YUhFbXlfaXB6TDBlRzlHTVRBNEtVTjk4SFoxTXlJcHFZdjBmaVFZOUtHeG1jdmhYM1IyZTRCUDhteFBkcXI4YjJtODJtblJfbGdYMHdwbzJmY2F6OWFKVTlFWVAtUDJMX1BGZWRK?oc=5",
       "pubDate": "Sat, 05 Sep 2026 18:02:00 GMT",
-      "description": "Six-week-old child in Pennsylvania died from measles, coroner says theguardian.com",
+      "description": "Six-week-old child in Pennsylvania died from measles, coroner says The Guardian",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -588,10 +642,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+      "title": "DPH Confirms Additional Measles Cases in Georgia - coastalhealthdistrict.org",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeHY4YUwwcTkwc3BLczVTNnRFRW1LZk42d2ZKVElMWllEM3FJWGkzeHUwS0pPaUF5TDExTGdUUUo2RHVyQWI2SGVyOE9iUmsxdlF6ZWJ5SjFxMTRfRFJweFpsNG9Td1UzZWpTRVBPczNNNHJGZjl6NnR1MHNpMU1XMHZrUnlmdjJoNXBr?oc=5",
       "pubDate": "Fri, 04 Sep 2026 20:37:20 GMT",
-      "description": "DPH Confirms Additional Measles Cases in Georgia Georgia Coastal Health District",
+      "description": "DPH Confirms Additional Measles Cases in Georgia coastalhealthdistrict.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -609,7 +663,7 @@
       "title": "Lancaster County coroner says measles caused second infant death as US cases soar past 3,100 - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXNWdU5ha0o1aF9yb2YweDJnVmI2V0ppVzlrbUJscXRCejBsRWhmVzVnV0h5QnJlY3UwZ25NeWR4d3FMeHhGR3dYNW1aSEtGTkF4WlFQX1ZhNDVpQ3REdTZHV2NjQXRJaWpBTjRHdGNOc3JUSmVZSEY0cGVwQ1E0ajNibDFNVmUwbmZLb0hadUdjMEJhVF9yNE5lQ0c4UVhBSC1NTHZ0RzQzOEZURzZON1JJSGlZUFdkWTFFQnpsOVY?oc=5",
       "pubDate": "Fri, 04 Sep 2026 19:54:33 GMT",
-      "description": "Lancaster County coroner says measles caused second infant death as US cases soar past 3,100 CIDRAP Amish Country Is Seeing a Major Measles Outbreak. RFK Jr. Is Making It Worse. Truthout Six-Week-Old Infant Died From Measles, Lancaster Coroner Says The New York Times",
+      "description": "Lancaster County coroner says measles caused second infant death as US cases soar past 3,100 CIDRAP Amish Country Is Seeing a Major Measles Outbreak. RFK Jr. Is Making It Worse. Truthout SW Wis. Measles cases reach 144 The Monroe Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -633,6 +687,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Six-Week-Old Infant Died From Measles, Lancaster Coroner Says - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM29VQllNaTNMRF9GdDY1LVM3VzZGNS1wLWlCRDJseU1oRHVSdTdBM1FMUHFnSnlxLWZIS1BvaEM3VjNlYzZIcDdDMDY3eS0wMFYtZU1jMXNpUzFLZWlob2wxTmlDbXBRdEMxNUVkSVFpTG9La3RxSUpQWUpTc0RUMTYyTjU?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 17:08:30 GMT",
+      "description": "Six-Week-Old Infant Died From Measles, Lancaster Coroner Says The New York Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "6-week-old Amish child died from measles, Lancaster County coroner confirms - LancasterOnline",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdC1BU3k2Wm04OVVKNHZyQy1zOUNQMXBYeGdjbVpRTUFCb1E5Q1RTb3phQU1nNngxY2QyY09NeEZZM2pJbDMzcnMzNERnZUh3c0UyUjZiaG83NXZ0X1F4VVFKdjBCZDE0eHE2TU1VQ1BqRGZ5anpQY2RlNEs4WWlvelRiNV9iRVdpa3NzakZlYVJGQjRVXzBGaFJrR19MazdGaEl0MlN0SUZ4YXdtc2xjQ1RiN1ZUTFFVQmxlYnJydnZNUGdoUjJDSGlOang4QTRpT0Rsdy1aV2N0WnA5NnFPOEtGeEd3LW1GYzVncy1LNnJ0bHpQNGc?oc=5",
       "pubDate": "Fri, 04 Sep 2026 14:15:00 GMT",
@@ -642,10 +705,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "New report indicates 3 more measles cases in Iowa - KCCI",
+      "title": "New report indicates 3 more measles cases in Iowa - kcci.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNDV5eEtHbTVzQkYwNDFWMnR3WXBuVG53aVAzbkZUeWJ1c25XUWEwQTU0U3ZnNHpobWN0UVBOT0ViMWJvVElYU2YxT3NBR3hYMWM2M1FJYXNIYVVkRTBJdW9JcEZ0dVBKUlZqZUNkRFRNTzVMVFp1eld3V0xKSjUyTA?oc=5",
       "pubDate": "Fri, 04 Sep 2026 13:02:00 GMT",
-      "description": "New report indicates 3 more measles cases in Iowa KCCI",
+      "description": "New report indicates 3 more measles cases in Iowa kcci.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
