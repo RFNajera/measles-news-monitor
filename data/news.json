@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-09-09T15:21:38.665Z",
+  "updatedAt": "2026-09-09T16:24:29.501Z",
   "itemCount": 51,
   "items": [
+    {
+      "title": "Measles in Wisconsin: 151 cases confirmed, 6 probable as of Sept. 8 - FOX6 News Milwaukee",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1Wmx1TDJkUXN6M0JJYjVtbVJickpNYTdBTG1wdjd6dnQwdEVRcE03UUVhczZPMEpNNFBMZ09XWWZ4c3JkWDFmNXFHUzVGUTJxLTd2ZUhwZXREUQ?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 16:10:31 GMT",
+      "description": "Measles in Wisconsin: 151 cases confirmed, 6 probable as of Sept. 8 FOX6 News Milwaukee",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Emergency room patients potentially exposed to measles at Strong Memorial Hospital - 13wham.com",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMENyb3RqaFQ3NklzQ2dkblVpRmtHYXZsQVVkWmRCLUE3NWVoTnlUdnpPWFl2TkxhNm1YeUlpYTJSRUdRZi1CamZzVVY4aDNhd0JXMWt3Z0gtTXlqSlJzZkJSckdIOVhTRlQ4eVRKMFlFT2pweDlNVWswY1RBQzRta3B4OXFOWTM5X05UYW5kY0gyNlpRTmNaV1JDOHdlOGJySWtnR2cwNFZFT2MzTWJ6ZWp0ODZNU1FRakI0YnRMVXVibTFFemdWR3lteHFFcERKV1E1enpOWWhtV0FabFNyeDhlLTRWOWt0MWwyckpRQlVjNHRhZlZXbkJTUnZKU1llYkY3R0Zzaw?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 16:00:04 GMT",
+      "description": "Emergency room patients potentially exposed to measles at Strong Memorial Hospital 13wham.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "North Carolina's kindergarten vaccination rates show vulnerability to measles amid US outbreaks - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3lMelFNc3BpZzFfZEEtWkMxY2lJLWJwMmtWZms5eUlKM2UxQjk2aW4wQzA1REM4YkNRV051am81TVlqYmdvMFkwbWhzTjdUZk04c1FhZzY0NXJTbndMTGZtN0FIaEZrX00xclc2QzFIc3BKR05mVGZMdEZiTWNMdGlLYmkzX0c1OEk3aURfUQ?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 15:56:15 GMT",
+      "description": "North Carolina's kindergarten vaccination rates show vulnerability to measles amid US outbreaks WRAL",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Kane County reports 2nd measles case of 2026, connected to 1st case, in vaccinated patient - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QOTNjMW4zRnRKSFYzWWQ5Q1F2VDZsLWc2Uk1rYnQwSkdCZE80c051M0hLeGJ1S2tQYk1SeVp4akFBS0lCRXRlOENiTU9HUGctVEZyTHdKM09CY0w2VFZod2t1cXc0d1kwRXdaNXYxU0RsTVhWSXdHUUpuYw?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 15:37:32 GMT",
+      "description": "Kane County reports 2nd measles case of 2026, connected to 1st case, in vaccinated patient CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Resurgence Exposes US Vaccine Policy Risks, Experts Warn - drugtopics.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXpDZWdvTVhtS2JWSHF2UTB5XzN5X0ZVaUVPS2pyVDNIUkg0S0Y5M0gtdWxuUXN4RVF2YTFUc05iZ0M4NzdHc0pvTGd0NmVFSWlLZFFRbTEzbXVTclFHWkFkNTBVcGwwZFQ5SWJlVkc4UF82VmRLX3haMXdSQXQ5N0VkM2Q4dUk1N2FYZFBtLVl2d2lWc3VnMUNlWQ?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 15:22:54 GMT",
+      "description": "Measles Resurgence Exposes US Vaccine Policy Risks, Experts Warn drugtopics.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "County warns of measles exposure at Strong hospital - WXXI News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1dmaktXNVNPTWdxRmluMGdmNUQzSjkxTElkYnhvQnRIOEVhbTBWUV9aUmpURzlaLUxwY21BN2FBV0xWR0lpQUZqNGw2ckd2T0VITWNHak9razh6dC1va3pxc1dBU0dxaHNyVlUwM2xrTUhZbll5cElkalU5ekJjcnE3TWpjcW5qVEdrWGV0M0hZV0EzOXNkRzl6NUtZZGc?oc=5",
@@ -16,6 +61,15 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMHVEUE5TSGlDaU9MdXl4M1hlQURYbDB0dHREdk0wVlI4QjFrekJ5REk1ZldCa3JfV3dGV2JHSU54ODd4a0R4VE81eG50WWw5aWZnQkVMd1BzeDdSV0NIbGUyekZOc0VWNjdkTmFhU211d2FIS0w3c1EtUTJLQXJLV3AzRXAwMmg5NzF2d3lB?oc=5",
       "pubDate": "Wed, 09 Sep 2026 14:45:00 GMT",
       "description": "Measles deaths are the cost of poor public health leadership | Philadelphia Inquirer The Independent Record",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles deaths are the cost of poor public health leadership | Philadelphia Inquirer - Buffalo News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObExvWVNFYkFYV2MtNmF3dXB2bjZNa3pxNzlPRU9IMlIyLUZyaFFCWkR3UlNqYVp3QjYySFdkN0g2WHAtdnYzVEZHZ21XV0M5WDRGemFRRjh5ZnhpdVRXZllGZnd0V252MzVMSlJDRFBZTjhybTFrVDZqN2JGUlZWUFhPVW5oUWxSUDJQX3EtalZmQQ?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 14:45:00 GMT",
+      "description": "Measles deaths are the cost of poor public health leadership | Philadelphia Inquirer Buffalo News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -57,17 +111,26 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak - The Killeen Daily Herald",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaU9vUUFPMDJ6UDl5NlR4d3VmT21BTzFJMEVCNEswZ255bExrOExmMEdjU3p3QktJUzBPS1d0OVFjZGVyanZSbUY1SXR2RDZqS0JmUTFHLU9mbHhTRUJyRHNiaGh1WG1tLUJ0LU5DX2VsYkt3aHJfcTg3eDFkb0w4OTlBLTNXVjRPOEp1MVdzVjhxVmxkRFlEYjl1Q0hTcjBMbWExMFYwSVdKNWw5ZHBVMFNJZ0dfMGRGeWo2alA3NDhpYnlyLV9Tb3l1VzBCX1JwTnVhdExzQ2tOOHpJdUtSMTNJOE15Z0JqbnpDVHl2bGEtMTZVODV3SGdB?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 14:05:11 GMT",
-      "description": "Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak The Killeen Daily Herald",
+      "title": "Pennsylvania Measles Outbreak Surges Past 590 Cases - Audacy",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOWlpaVBaTVBQUWFiOEZMRGVscmJCOWNteURMMTVPLUtRdUx2M0cxS3B6QWd2aWJXVldnQzFPUDBEekhJQTZMWmZsLTRyYjI3QU4xMTJoZkxQc1lGWE1fYUwzYnp1bUpnUllMN1V2Q25SbFNQYm9BRHhwNllhbmstLThEVDFRdw?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 13:41:00 GMT",
+      "description": "Pennsylvania Measles Outbreak Surges Past 590 Cases Audacy",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Two Amish infants die in Pennsylvania measles-associated cases - anabaptistworld.org",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNlA1SC1ZTV81N1J0VzlxdFZ1blNuMnpKRTkwZHh5STQ3U3FxM0lMS0dfMFVRUlRDZDhNQ2M3SjBHMzVEeVphVzhoVTR3M2FEUFluN19zcFVjcFNvVWl0ZUVGRGVhU0tPcURYbF8tMUJUczhrUWJKTmJkOF90RWpSVURvYnRXYVVvc1NpT0I2Mmg4YndZOXc?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 13:37:22 GMT",
+      "description": "Two Amish infants die in Pennsylvania measles-associated cases anabaptistworld.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
       "title": "More than 1,000 children dead in Bangladesh measles crisis - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUtqS0RYTU13enBNd1p2YXMtZVpnZU5GVG5VajNiaGIwczBsZWVxX0dnc1ZxR1pBQm5CVzU0VGZnd0JOVFBsZnJjM09Od19rOWZDUXV4Y3ZjNmJyT3F6czE1SWwxaS1jTFRzdkZ2RV93Ukg3VUYtTDUtWi1ZNTZQeUItenYxaWNiM09pLTRSSUxxQVJJVlFhTW5MUnA0UWVLZGJrakpYNHhHSlE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUtqS0RYTU13enBNd1p2YXMtZVpnZU5GVG5VajNiaGIwczBsZWVxX0dnc1ZxR1pBQm5CVzU0VGZnd0JOVFBsZnJjM09Od19rOWZDUXV4Y3ZjNmJyT3F6czE1SWwxaS1jTFRzdkZ2RV93Ukg3VUYtTDUtWi1ZNTZQeUItenYxaWNiM09pLTRSSUxxQVJJVlFhTW5MUnA0UWVLZGJrakpYNHhHSlHSAasBQVVfeXFMTUpOYi1ZY3ZzNWlmRFc1RUZXb1gzaGtHQUtWRDNtWmtWLVV5WXF3RnZ5NmZoT2twSjhzN0NHV0NEckUwTHhMSzJaSGsyUDA4bHdPYUVVVGYxTnB4ODNKbWVCVzZaVi1fMVNzVmhsYnpUcVlNSGlydlM3R0RLSkYzdzlDNWN6TjUwXzJnd2pHNm1SVlRvLWM4RUFKVS1CX0NqN3o0VHVzdU5CdEVv?oc=5",
       "pubDate": "Wed, 09 Sep 2026 13:35:29 GMT",
       "description": "More than 1,000 children dead in Bangladesh measles crisis South China Morning Post",
       "source": "news.google.com",
@@ -88,15 +151,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQktkWGRkR2FlS0h0VEh2N1Q2QmVoY1pBQUUxR3VHZnRQUzhxUDBoX3h4d0l4LWRmU2d1QTg1UU1kUVY2c3h3YUZtZmRUZU5KOGNNbTQ4QmJ5alNPQnZlT2JZWHQ0ejFLNERTMVJFTzRPMG5BQmRPUktjdEhkbUl2c1NQakVRZ2Zwdk1rUEJkM29WQlR6ZnNaaTdkRHRlQTg?oc=5",
       "pubDate": "Wed, 09 Sep 2026 13:23:00 GMT",
       "description": "Another Possible Measles Exposure in Monroe County NewsRadio WHAM 1180",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Whatever happened to the measles outbreak that shocked a country this year? - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOTFObHpsOE5mbmdqb3NtcHIxRkdPcFZzZ0gwdDJlNFlfQ0J2bkNyTXFETWNaUUFuU0Q3cVo2R21NZjhuYXh0VzRFWm5WYUh4WHZlTVhDS0FDUC1TYzZZalctN3BsMWRmTHVMVGNKdDhFajc4TlFzWkwwZ2t5Vm5vS1NRdGtwbE55a3c?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 13:04:43 GMT",
-      "description": "Whatever happened to the measles outbreak that shocked a country this year? NPR",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -124,15 +178,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMUoxWDEyc0tvTS05ZGlTcVdhSnRkYlpGZ1dINVllaVVhWm1rbmxqbDJ5UWctM1kzRUU1TzNkaWc0MTEyMzdyWUUwakVMSjRhSXF0NDViUm9XU0dIU1RHbXQ3ZGo0ZDBXVDVjdmhvaEgwVzM5SkRDQjhlb0VIelNOYzNYODNqWGJrUy1n?oc=5",
       "pubDate": "Wed, 09 Sep 2026 11:53:03 GMT",
       "description": "Weekly measles and rubella situation report (week 35 of 2026) NICD",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Bangladesh measles crisis kills more than 1,000 children - France 24",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW1Tc2pRbGVWVkNkY3k3VmdDclV4RkdsbW1uTUZ0VUFDN3Rndk1XZ3VCYU4tUnZzRlNOR1JZZzUwSE84eHNFdVN5UHBEbEUweTBLZXJNbTlTTFJTdjJOU1BCM2RoVWpIUWs3VWFIRjBDRTJ6Mlo3eEY1RHBRVEl1dTRUMzVLUnNGZHBQUG43cUhLUm5tTmlCOFgzd1JWdmhiTmtOcVFR?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 11:49:11 GMT",
-      "description": "Bangladesh measles crisis kills more than 1,000 children France 24",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -174,10 +219,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Cases Growing in PA - ButlerRadio.com",
+      "title": "Measles Cases Growing in PA - butlerradio.com",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVVlJ6WWVUV0l6UHV5Mmk3YVlTeG5YZnFrdk16ZF9Nc0tvcVJNelI1M2RwTXhfX2ZMcDdCX2hKb0pWelBCTjRkT3Z5UTdzbENQZ2hSY25uWDVtTmdGS0VwMWJB?oc=5",
       "pubDate": "Wed, 09 Sep 2026 10:14:28 GMT",
-      "description": "Measles Cases Growing in PA ButlerRadio.com",
+      "description": "Measles Cases Growing in PA butlerradio.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -192,10 +237,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Bangladesh fights world's worst measles outbreak after vaccine gaps - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGIwa0FUYmhHLXV2c3NtZXIwZjJuNDFjRTFVOE5MWFl2Tlg2TTh1NnBOVkJJWFZPTnNxV1BicTRCNGdlUHNmWjRxdTZNcUNRT0VTek1PMkM1RTZuV0FoNUZLVi1Wc3VNRXhUaVdaRG9TME1zVWJvMWhVdzZMQ3RLMDBCSmw1bkJpWEhOVGNOTGs?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 09:54:38 GMT",
-      "description": "Bangladesh fights world's worst measles outbreak after vaccine gaps Yahoo",
+      "title": "Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak - Oskaloosa Herald",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRlNZNEhBYXFkblE1R21ETHp5S0hTY01wbWw3QlJ5V25sMnh1Q0xnMEh0MDJ3OHFsUWNZY0tXcUhsTG5CdVpqUUNHVlhtcm1MdnJNeGNDSFhrZEwyNnRacVNZTHZDeU1ZOURzMnZVam8yQ2ZKd3dyNGwwcnZwSlNPQ3VHcEsxeklkYW1LTC1aZ0lkb3JkWkJUaHlwUkRnbzYwZmt4ZlN3NU1CR2hBbjNDcGg3VENpYzVQT1R1d2xoYlZDVE9KSHRLZ2pTa3E1R1o1QlpMYlJfdGg0SFFuSDJMVkdqbVV1VUJGcnEzZFI4QzJHMjc4N01MQjhxMW5raVp2NUlSeGZpZ1Y4bE5X?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 10:01:16 GMT",
+      "description": "Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak Oskaloosa Herald",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak - Bozeman Daily Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQdDZZNmo1WVhKdk5GaUFUUDV4clF5bGxDaFdnOWJkWVBlU2lWQUN3dkF0S3ZZbk5weXlIRFkxdkpQSUg0RnJ3Yk9xQm5hVTl0eEl5azl3MGNKdU5fQ25ibnI1c2I0MERzT2tSbk0wcTJhLTBkVGR1SFJBbWlfRHk3RWgtenBmOTBGbk9lR0liTTV1QmNaVTVraW1aNDZqZVJ0bjF0SVAtRGx0M1BIZ2RNYWFwNnpHQlpjVFYzallOWGtzYWh1TER0Z1FCUGlnMlJzZndwdHd1UmRwMU5hTENTclE4U0M1b1dxdDhXYmJOOFFTcGtacnZMaklucUNudzJId1VZZWdQbTRPN2hIZnhHSnRxcEZqRkc0RG05Tw?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 09:38:30 GMT",
+      "description": "Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak Bozeman Daily Chronicle",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -219,28 +273,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak - Goshen News",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORXlBM3RialYzT04wb2pCd3NRNGEzWFRSellpQUdmaWxtWmxSRTV1S1VuekhERjMtUVM5MEdDQlUxcEJwM09kMUt0VEtBUVVEdkw0ZFVLcTZFZ3EtVGl2bV9vd0UyX2ZCXzFhX3ZHZmNET2ZYSmwyZGxxdlhzeGJjYUhUQXBSTld2WkxmODJTLXhaSlh0Um5SSEVGbURiQ1ZjbTc1LU1SejVwRXo1c1NheXA0ZVd2LU9pOFctUUpTYVNGaE5SeS1BUFpLMk1NYVJDSXdoVjlwWTdCOFhlU1I5WTV4dVI2T2tCbGJkaExubzJ2YmZKSDgzWDA0bEF4VHFxRXVwdDBocWtvVjBVQ2c?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 09:38:30 GMT",
-      "description": "Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak Goshen News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTU5PZE9RN2ctRVQtUkhHZWxidEpFMUxuaGRzSWQ0bGR4cDQ4cm9QTmVHS3VjY0Q0bmxWSFk4VTlLRV9SZjBzVU4wcERYTFJmMm53T2lDWXRHd3I5TUdQc25XRTZ4TTA4djd6bFBQQ0xQb2VqelBiUk9KMlpDYWw2X3EtT19INlVzdUdzZ0Q4Qlg?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 09:38:00 GMT",
-      "description": "Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak AP News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "No confirmed measles cases in Ashland County amid rise in Wayne County - ashlandsource.com",
+      "title": "No confirmed measles cases in Ashland County amid rise in Wayne County - Ashland Source",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGY3RHdwbUdjRnJrV1Q4OEpaVmlHb0I3LXkxN0plVG5EZmkyNW9tRDlTd2kxSGhxQmtybmRwS0ZVRkNucVFrT0lsSFFJY3ZrUjVTMzlPYzB0QnpHTXNIeV9QM3R1YjZvblFQZVBpc0FDc3lncVoweTU0MDhIYXJ4MkdPdkhzUkRGdlpnMU5fTnZJbXJCY2NRZXpQNXJOYmRzYnB6aHJmTFZuSE9oWF9pa3dB?oc=5",
       "pubDate": "Wed, 09 Sep 2026 09:00:00 GMT",
-      "description": "No confirmed measles cases in Ashland County amid rise in Wayne County ashlandsource.com",
+      "description": "No confirmed measles cases in Ashland County amid rise in Wayne County Ashland Source",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Bangladesh fights world’s worst measles outbreak as vaccination gaps fuel spread - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdi1VdzVnN2JlcDZJRnEyZDl1bzBWemwydml4eklhbWRtOUh2dUlBVjBwWmI0UFVsRkVMdlBOT1pkbFZSa2x0dFVvWkVubjEzeW9pVmNJWHlJcGEzejN5cUFnbkMtNWlCR29oenBPMXJxb1JrREdHN0xUMmNmc3ZtdGltTkVCa3cyVTdVTXdwRkd6NzVBM3o3ODdnVzBxNWNmcU1YUEo0ek4?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 08:38:00 GMT",
+      "description": "Bangladesh fights world’s worst measles outbreak as vaccination gaps fuel spread The Independent",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -249,7 +294,7 @@
       "title": "Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzVQbDljaXVGc3FMQ192cjE5aGJrZjIzWGdLd0pjcUdSQVRkS3pLRGRPdk5veFUyQV9EWldST1lZUXNicGROYWFMYlg5RXdvbDE1UlZMLXNwWUJVVEJpTzZCN2F1RkNSeWw5SFJkWG42dHItblBXMWlhTU1qZGlQbmgzbFF5RTNWdk1iUUt1RGc5YTF5SEJWQWNIbF9Ybi1qS2RDNTlCOHlLZWsyRjRIaWxyV296dS1FQXFuRHltMkUydlZsWnVTcGQxWkFSQTR5NklmVl85RVpsZWpjRUhLejZR?oc=5",
       "pubDate": "Wed, 09 Sep 2026 06:05:00 GMT",
-      "description": "Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread Reuters",
+      "description": "Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread Reuters Bangladesh measles deaths surpass 1,000 after vaccination drive falls short aljazeera.com Whatever happened to the measles outbreak that shocked a country this year? npr.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -264,10 +309,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases reach highest level in decades as possible Clarksville-area exposure raises concern - WKRN News 2",
+      "title": "Measles cases reach highest level in decades as possible Clarksville-area exposure raises concern - wkrn.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSVFoU2o3REV6V0dtR0RHbEtHbDMxenNKSndrMThzcUhTMXd3SXpGa1ZydVpaZzFybkhHT3NWSVQ3ZThWUHN2emd6QXNrZ0xWSXVnT3kwZzlCOENFOTJ2d2JMUTZNVTN0UHRWOHBRd2pfWkUxMVdsdEE0TmVrQzA4MmhSQ0UxdDNrOU5DREk4cGxfVE92cnJFVG1PMHZLWE1QWVM5eHBoYnBGSjhNa2xQZDU2TXF4N25jQ0MzQzZyYTR4U0E0dXhtR3JqMXNZRjZi0gHWAUFVX3lxTE1YSG0wcnA2UUZZSVJkUGcxT2txSTJpTFE5aU45SnJYaG5oa3lwdFN4N1VHVTFuaXBESm5rRUhPSDBpWVhDQ2pmR2dtandsaWtZajJVSWJmTXQ0all4VFFRRTJUTHZCcjNXSjM3YnlaVHpuZlFENFZ0bXI0dnRtX1EzMG1WT2NoV3JGN2VUZndYcWl3MndLdURyUU5zS3JKNDMyUUtwYzl1NEQ0QUtydXJoN1lJekFxMFJrczRDaUZvZ1c3RHBWaHBabFJQNUhPTHkwWE1XU0E?oc=5",
       "pubDate": "Wed, 09 Sep 2026 03:46:50 GMT",
-      "description": "Measles cases reach highest level in decades as possible Clarksville-area exposure raises concern WKRN News 2",
+      "description": "Measles cases reach highest level in decades as possible Clarksville-area exposure raises concern wkrn.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -282,10 +327,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Study Finds Low Vaccination Hotspots In Contra Costa County - Patch",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWlkWHN4R1JCV1Zmd0tpSy1HZWpKdTdEZGNLdE1LSzh6MlJxRWRQRDRpSTA1UW0yVVpoYzI2ZldJSDA0b1luZjNCbEhyNG0waGs1a3B2TnFlOWMzNF9UWldhVnlHUVVlMV9Hc1JZTjh1ZzJMTVdTRnh1SzNrQ2pIdHlwZEx0YzMtazJxX1I2dWlSdEJ0am1pOFBKS0NQMndkSUZ3Q0pUMNIBvAFBVV95cUxQYWhqNEtfV1BQZGdBaE9lT3poYjRLYUFqcnNUcEJxMmx3WkdvR0NFWjJIREoyYjZQcmszdEdJbk9vVm9kMEozd25tejRFbjFVSXloZEEtMEFpQ0szQzJ5OExWQnBQWTFjQ3o0ZGRRZ1RHV3ZVSVZqR1BKeWVDeTJYbUF1MTlPNmR4R1JoVjFvTFpvekFNY0FaRlhRemtYMG5qdW1CLWpGeEhfd0J3TjVtTUxIYzlNNXpTZDZOSw?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 02:18:00 GMT",
-      "description": "Measles Study Finds Low Vaccination Hotspots In Contra Costa County Patch",
+      "title": "Person with measles visited Strong’s emergency department, county health officials say - WHEC.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWZ5WVNTNEloRHZMOHpOSkVQRnBMc04yVkJfdVNaZ0dLQTBVd2NaUUhNMzBWaHM2V3Q0cXl2a25DZ1B5QUt3ZzVQRVNpSjdwa0xnRENXaEdPV2hBREhGTUxEZE8zRXN3YUwzLWtiUXNTSk1MaUduUjQtYWJKbVNaQnQ4ZFFucEdfdEt5SU5EMG9oeWdNRXJUckEzWDI5dU14MkdHUzBLUHZXUVZ2SC1adEpRU0dKUQ?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 00:06:57 GMT",
+      "description": "Person with measles visited Strong’s emergency department, county health officials say WHEC.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -309,10 +354,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Kaiser study finds Sonoma and Napa hotspots for potential measles spread - The Press Democrat",
+      "title": "Kaiser study finds Sonoma and Napa hotspots for potential measles spread - pressdemocrat.com",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenJ4QkVQQXhtUzhuRXFtUWFnYVBIOWFVTzNDRnZXQXV3V0xsLVhkZktlU3BGaTZqZHRzbWlob21VMlVhbEVEbTFmZVhTbXZnYnhMb0g5WW1ZeE03X1RHTEthTHVuUlA4YkpSUnNuYlNZdGQ4ZkxKZ0RLdW1lRkFDcU9nNjNDMGZJS084OUE1UnFpT3VkRUZOeFZWd2JXazAtX3VFbV9qSEZBa2g1UExINV9uUmNrR0lVa1Q5d1hNRjlJSFZrM05rdlI0a2lZeGx5enIwaDZFTnZNdw?oc=5",
       "pubDate": "Tue, 08 Sep 2026 21:23:46 GMT",
-      "description": "Kaiser study finds Sonoma and Napa hotspots for potential measles spread The Press Democrat",
+      "description": "Kaiser study finds Sonoma and Napa hotspots for potential measles spread pressdemocrat.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -327,24 +372,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "North Carolina's kindergarten vaccination rates show vulnerability to measles amid US outbreaks - WRAL",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3lMelFNc3BpZzFfZEEtWkMxY2lJLWJwMmtWZms5eUlKM2UxQjk2aW4wQzA1REM4YkNRV051am81TVlqYmdvMFkwbWhzTjdUZk04c1FhZzY0NXJTbndMTGZtN0FIaEZrX00xclc2QzFIc3BKR05mVGZMdEZiTWNMdGlLYmkzX0c1OEk3aURfUQ?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 20:39:18 GMT",
-      "description": "North Carolina's kindergarten vaccination rates show vulnerability to measles amid US outbreaks WRAL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Number of measles cases in Kentucky rise - WKYT",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9waVoydHQxZEFMQXVyLWVfLS1PX2RpV3dORmZqVjVJdE1UckhTSnVwUzRUWTdEcUc5MVh4eVE5UGdGdS1BREJ1TTh0UkVHdUN6c3p1VkZzZFRIaDgtR25DX0EyUHY3NVJuY1Z3WU9wU25nSGZWR2fSAYoBQVVfeXFMTVUybDZnZ1pLQlJJTzBsX3R1eUNxTDJDZ0VTaWVtMXdraXBoc29CZGJKS0s1Y001Y1NDU3I3bkdpSUxZczloM1NBczJieXNtOGtvWU1SZy00V2J1N3dVcW9lVC00NFdGODNzTWRkTDJjVzlPV0FRMl84dmhzb3VieTZZa2pFMHgwaWp3?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 20:14:00 GMT",
-      "description": "Number of measles cases in Kentucky rise WKYT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Cayuga County confirms measles case; health officials urge vaccinations - Syracuse.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ0hJT2lSZzdPZE82cHloMGxyR2hCOHFhRExHSmtFNFR5Qk05MkRxRjYtQ1dxb05peW9IejNsU0w5bkNHLTUtOVoxRk5GNUt4VTRfRUd0SVBvSXVCY24teE5nZEw0WUhCT0FEcnRidThMWUpkZGZKNzlWcmlTdFdQb1I4Zk50dGlVUnFBTDdlRzBCVHdudFFOZmlWY3dYUXJ1YzMyZTE1TWtScE8wM3dFNzR2VdIBxwFBVV95cUxQQTBWanJlb0xPLWlOODBVVDJZc0ZlTG9NcE40Z29CQk02MllNTDV5ZzVzbFFhSG14UlF1ekR6M29tZFphNUM1d21Vam5qSExFRnV4RmprdzNkMmJfOXpNU0d0NFJnMlZ2ZlA2eklsalBpa2htS01xVlI5Mks0TEk4aWM4djBwLWhJWl9lZjFReUc5N2RPcDlwb0xWb0gzYkw2Y2ZNRU9xRjlPYkVfdHNnbFB1VndISEdtZEREdmV4cWhCaGRRV0g0?oc=5",
       "pubDate": "Tue, 08 Sep 2026 19:07:00 GMT",
@@ -354,37 +381,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "No evidence linking illegal immigration to measles outbreak, despite Donalds’ comment - Tampa Bay Times",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzlxRFZYd3A1ZVZEQ2lzc1gzMDl0UjA4WWVqdExZT2t0RDFLaGdPR3BTSGpyaXdGVkQ0Q0VBclJMdEQ5TmxQbEZYUVdwbGhfSGh5c0JSRmRxdVdTazVTM2RBWHl1Q180R1hicjZyTFZLMEE4X094eFpDeENsZ1QwX1FSUUNTVTFaOXpaMjBnQ1pCdFdqb1plRmRDSkN2dm5KNm9IekpEU3l0aTNTT3hUT2lfVnNfOGQ3U2ZaNG5kX1I?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 18:41:19 GMT",
-      "description": "No evidence linking illegal immigration to measles outbreak, despite Donalds’ comment Tampa Bay Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "As measles cases rise, Lancaster County officials point to information gap - LancasterOnline",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT2VJWWtzZ21DRmdMS2xXR21zdWRBeFlHR3ZnM0NLUUNWSDJzXzk2amJ0eElvUnlQcUNQeUR0clRYMllCTHYxdmZKb2ZSNERsb0xFUm5xV2tJamlqUWs2YTAzYjNVZVdZM096eGxXaHJPaU9ZU1RueEpwdHF0VG4zYXJUU3FxelN3bTlLaW0tUk42T0FIRUhTYTlZOFZ6ZXlwZ2pBQTNKVmxoYm1fS2NlUl9VekExX19WMDNxTi1GMG5yQjh5eHp1RVh1UkpUbmVzMWc3MkQ3c3lfczZBSDZybk84LTVfRFBER2tReEtFRThrUnhHMnc?oc=5",
       "pubDate": "Tue, 08 Sep 2026 18:12:00 GMT",
       "description": "As measles cases rise, Lancaster County officials point to information gap LancasterOnline",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pittsburgh-area mother says her 2-month-old was exposed to measles at Children's Hospital - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZFZudzhOWnBmMnlJUXpDTWtsNzdocW1GTEpndlBkVGxjLThuZExQMWxNeU9kbThYVThVTF9UcFRjaGtUVlVlYW9HR3hyUXRtclFxWUl6NndrV2hxOGlEdGZQeHZpc29fWW9FX0ZfNkV5NWh2Vl9rWGtoLVdPRnU2VDJGUEdZNm4zTGc?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 03:41:10 GMT",
-      "description": "Pittsburgh-area mother says her 2-month-old was exposed to measles at Children's Hospital CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles case in Clarksville possibly linked to outbreak in Kentucky - WKRN News 2",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVHJQMFh3emxHd2N4aEFPdUpROXJtQkhsTFRRcUFKOEIycnEwbEtqa2ZWaEw2VW9DWm0zanF6WGxCVm9MNG4xLTQ3Q1F1cm9Mb3NVNUVMODJNU3kxOEp5WElnZVpROThTVTFMZE9QVWJPOEZXaWJSdy1Yd3BnNHlCVWt6b2o3S3cwZTZmQ0VqYzZFNUx4ZHBZZWpfTUdMQ1ltclA0TG1uSQ?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 21:52:30 GMT",
-      "description": "Measles case in Clarksville possibly linked to outbreak in Kentucky WKRN News 2",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
