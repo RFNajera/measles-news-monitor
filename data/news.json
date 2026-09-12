@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T12:27:56.301Z",
+  "updatedAt": "2026-09-12T13:18:13.091Z",
   "itemCount": 90,
   "items": [
     {
@@ -66,19 +66,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles case reported in Valencia County - KOB 4",
+      "title": "Measles case reported in Valencia County - kob.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yczlQWVVkUlRaOUN5dUFMdldYVnppaXVTVERkSmMwcTZlQWtWZzRNeHAtSnBSajkzRFlIUG9hcm5md21ZZWd4anM0Wktvem1Gd1ZISGg2aXdjX3J6VmVSWU40eDNyYlRpTEtBc1A3SUktNFpMTmppUFE5NnY?oc=5",
       "pubDate": "Sat, 12 Sep 2026 09:26:23 GMT",
-      "description": "Measles case reported in Valencia County KOB 4",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Love your neighbor by supporting measles vaccination [column] - LancasterOnline",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQm5VdmlHNk5UNUpTNE1nQlU1QjRKVmt3SGhIZUI1NWwtOHZaX1dLOXY4TnZzLWgwOHhlYXA2eV9XTFQ2MXlJODlBYUoteFVBY2pQckpuak93REpsaElPRDE5Rk9zNlJwWldNcnZxdkJVWWk1NFpYZC1UMVNWVk45ejRsZEJSV0FhZlVwS1BjSHlZNVBPa21MR1lDZVdtYnU0TzdnbTZCUmdNYWNBLUJrd1c2dmVJd2M4TXdiS2xCYWVfMFNRaFhrS1RzVGFQRXprSWhub0lZZHJCVWNodHBxbUZoQXkwVVJfZTFLLQ?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 09:00:00 GMT",
-      "description": "Love your neighbor by supporting measles vaccination [column] LancasterOnline",
+      "description": "Measles case reported in Valencia County kob.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -88,6 +79,15 @@
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdGFBWU9zYnJ0MGRmWHZTMDNHVHBPR3lpbi1BRDBYRm1VX0RGRjhZcHppVEZyMDRaUzE4WjZrVFlaeWh2MFpzVDBYWEFZbnRrLUJEMldtc2JDb1ZLN2Y5YldKZjVBZElZUkJPM0NZbFlxSDhQTl9oUUJSTFlZdG5oRHdSYjZKLTRmVElMRjJqa1RLemQ5TkNTU254ZVNKYnJmc01GYmNtLUZ6Y3R0aFFBdEF5QTAxSV80bzRrVzJTcFppRThLSkk1SUlXNENuNmxiR1BZRUJpMjRFS0g4TFNMSnJVNFM4MU5KZk8wem10UTAzeEtEVHJ5NVV2bHUtdw?oc=5",
       "pubDate": "Sat, 12 Sep 2026 09:00:00 GMT",
       "description": "Lancaster County schools lag behind the rest of the state in measles vaccination LancasterOnline",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Love your neighbor by supporting measles vaccination [column] - LancasterOnline",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQm5VdmlHNk5UNUpTNE1nQlU1QjRKVmt3SGhIZUI1NWwtOHZaX1dLOXY4TnZzLWgwOHhlYXA2eV9XTFQ2MXlJODlBYUoteFVBY2pQckpuak93REpsaElPRDE5Rk9zNlJwWldNcnZxdkJVWWk1NFpYZC1UMVNWVk45ejRsZEJSV0FhZlVwS1BjSHlZNVBPa21MR1lDZVdtYnU0TzdnbTZCUmdNYWNBLUJrd1c2dmVJd2M4TXdiS2xCYWVfMFNRaFhrS1RzVGFQRXprSWhub0lZZHJCVWNodHBxbUZoQXkwVVJfZTFLLQ?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 09:00:00 GMT",
+      "description": "Love your neighbor by supporting measles vaccination [column] LancasterOnline",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -183,10 +183,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Second Measles case confirmed in Travis County - kvue.com",
+      "title": "Second Measles case confirmed in Travis County - KVUE",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSUV6SGZuNDVLLVpabHV1UGl6dUxkNUdsUFpOZzNqMFNQbGNhbTREU2prOEtURXduMm44TEs2bXJxUUcxcWdJVHRBMzlsVlRITnlmSW15RUgyYjQwc1RDYXByV3RSdUFrZ1pDNVlqUkZpcUlTWGNDWVZwQ2VfUm9MaW1Bb0hXcy1Ca1Z1cjBOOTJfZUhhTE4zaTJ4Zm5uOXozVzQteVBXWjV3bWhiWk9wTUFjRTZZcG95MEZyRzJ1dmR3NHo4?oc=5",
       "pubDate": "Fri, 11 Sep 2026 23:08:00 GMT",
-      "description": "Second Measles case confirmed in Travis County kvue.com",
+      "description": "Second Measles case confirmed in Travis County KVUE",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -210,10 +210,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases continue to rise in Pa., ‘surge’ in vaccinations officials say - WTAJ",
+      "title": "Measles cases continue to rise in Pa., ‘surge’ in vaccinations officials say - wtaj.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclVGRm5DRGVRc0h1WTJoREQzZE82RUx3VHBab3ByZmRUS2NpMFRTWXlncVpLVU43OEFYNUdSOHotX2hEZU9lUmdtLWJ2OTVIMTJVblpqay15ZGRkQ2JlbC00dUl5d3ZXNW14T3JjT2lPQ1I1blhpV19UUDgwMGZPOWdHckk0aWp6cnRzT1FIcG02WVY3ZE5yb2ZDTlY1YXRTdE9lVjV1dkN5LTJDeGxDQ21nVdIBuAFBVV95cUxNUndCUlpJVmZJRjR2MHdUOVNmblh3YlBMeWZXTTAtWGtlXzQ2cDYwRVhaWUVpc3lnWVNtV0liY2hQSjBNYjJWYXlpOExBZHJBS2pUbnFmdHZoNjlHXzJ0bERBS3BocGhMX0V4LXUzT29mSDVaRnNZN3NmR3hMajFQTWo1NGFkQWZzcjNpVFFFSWkzbUE5cy1CVWNCMDc1dTRhV1ZOYVV2VGlEX3BVX2RlYzRjZy1oTnpX?oc=5",
       "pubDate": "Fri, 11 Sep 2026 21:47:14 GMT",
-      "description": "Measles cases continue to rise in Pa., ‘surge’ in vaccinations officials say WTAJ",
+      "description": "Measles cases continue to rise in Pa., ‘surge’ in vaccinations officials say wtaj.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -525,10 +525,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Kentucky has largest measles outbreak since the 90s, officials say - The Courier-Journal",
+      "title": "Kentucky has largest measles outbreak since the 90s, officials say - courier-journal.com",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOXdiQnFLQVhqTC1JY0RwMW91MDJNOF9SWXhCcFBCQkVJdkZOamIwUXJTX1Z6TEVBUXBrWjE2QzBDNTJxYlNQU0s3S09KcHhnZGtOckZmcldjU2hzM19OYmdkdU9aTHpsNzc0VzFtYU1GcXVUNzFxR1QyNVdBWmtEZnFFUVF6X1Vwbm44X1ZETkVMZmRPQXd5ZE1nRTJyb2p6Z2Nxa1FfU1lZNWxMTDdtX1lDemw4SjBCWGJPOXdUVzRxNndDc1FNa016ejFySk5tTGZYZXZIclFpRVg5VTNpT1pYbXR4WGR2cnNLNjVzR1ZaemF0aEtr?oc=5",
       "pubDate": "Fri, 11 Sep 2026 12:15:00 GMT",
-      "description": "Kentucky has largest measles outbreak since the 90s, officials say The Courier-Journal",
+      "description": "Kentucky has largest measles outbreak since the 90s, officials say courier-journal.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -543,10 +543,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outreach clinic coming to Southside Virginia on Monday - Cardinal News",
+      "title": "Measles outreach clinic coming to Southside Virginia on Monday - cardinalnews.org",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQlBFdzBJRXJ2OFBweENLOW9WMllHOG1XMmJzTUFGRHlJZjc1U2NzbmRldUNwT2VqeEQ4aTNucno4UG1aVDU1TVgzTWE5ZTJxRThLVWVUb0RGMGZ6MmJEZkVSa29xcUdoY3poSncyblU5VlQzWjlkci1pcXZJeExNRUhtRDJnd1c5Rndyay1FLUZKTnFnc2JYblhoaU42aEFR?oc=5",
       "pubDate": "Fri, 11 Sep 2026 08:00:00 GMT",
-      "description": "Measles outreach clinic coming to Southside Virginia on Monday Cardinal News",
+      "description": "Measles outreach clinic coming to Southside Virginia on Monday cardinalnews.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
