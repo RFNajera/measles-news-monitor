@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-26T00:55:18.043Z",
-  "itemCount": 93,
+  "updatedAt": "2026-09-26T01:30:34.333Z",
+  "itemCount": 92,
   "items": [
     {
       "title": "The tragic death of a Pennsylvania Amish woman stricken by measles - Pittsburgh Post-Gazette",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejdkdFozMG1CNWNhWXl6ZzVWSHRlektycUIycTgteDEtNXpfVGE3SDdVYmlWVElFSE1nNW4tX0JPTUpaN3R4eWFGZ05td3EyOFdLcUpDQ2JDSmt3YnU1T1ZUQmlJamJ4Y0kzWk1oYzZMUGxaaVZydDl1VVdJdnRVQVFmNVBHOVI5czZQbVpVVnc2N1pTeWZXRXVPMFVlWVBn?oc=5",
-      "pubDate": "Sat, 26 Sep 2026 00:12:04 GMT",
+      "pubDate": "Sat, 26 Sep 2026 01:20:19 GMT",
       "description": "The tragic death of a Pennsylvania Amish woman stricken by measles Pittsburgh Post-Gazette",
       "source": "news.google.com",
       "sourceType": "news",
@@ -93,10 +93,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Mass. doctor breaks down measles and West Nile risks - WCVB",
+      "title": "Mass. doctor breaks down measles and West Nile risks - wcvb.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbjZpbVN2YXV0UnphakZPUy1iZEh6N1MyeFpYeXVYSFhWRnRxYktRck1JTDhhVjQ4RDFMMFR6RHVNbU81T0NwTExYWFZCakhYNFJiNGdYMnU2YVlmcEZUMHNhWm1sdm9qb21WeFZCRlZpWU9PQk5XM0xnMnE3UV9uMk1aUXlQcHRuaHFCcXJDWkdzOWM?oc=5",
       "pubDate": "Fri, 25 Sep 2026 21:10:00 GMT",
-      "description": "Mass. doctor breaks down measles and West Nile risks WCVB",
+      "description": "Mass. doctor breaks down measles and West Nile risks wcvb.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "US measles cases continue to climb, topping 3,600 - cidrap.umn.edu",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbzJTZnNmaklKVUZRZy1VN1pvU0M3T1lCVDhyampYUDFYQ2ZiWWxnVURsTUQ4NkRQbW11ak5PaGhZQmtLbEw2ZG5maUExVHJ4WmJXSlRPQXBHVGtRaElMY2wyeTM2UlUzQ29QME5Ub09VeVhBa01GRTBPRjV0Yk5BdktzV282Zw?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 21:01:00 GMT",
+      "description": "US measles cases continue to climb, topping 3,600 cidrap.umn.edu",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -174,15 +183,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Kentucky sees uptick in measles cases as outbreak continues - Cleveland 19 News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZXZVS3lnbU1qeE5FNjNNTlVkS05rWW9DMHlla1RqcWM2R0N6cXBaQUhyZHFZTU1pTy1aUVBUZzFuTFZoRzFBWkcwc1VIWDdSbFVfMUdrN0txQzFxMWpyX25pb0tSU1ZEdXJQby0yQkdlTUd6UERQNDZKVDVvamJMLWhrbUFyVXpER2NlblRuWnJHZ01WekUwcnVBVUtGWkhN?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 20:23:00 GMT",
-      "description": "Kentucky sees uptick in measles cases as outbreak continues Cleveland 19 News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Kentucky sees uptick in measles cases as outbreak continues - WLOX",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3RfUU4xMWZieEZSc0hOYTVveDlRajUyb3JUYVVxSU9uaC1IT3NqRHYxSmVaZGlPd2lXeERsb1JmUTMyamhFRS1oLU0wMXZsVDJ4UUVKQ2RrY2JGT3g3NTRoWnRJNlZwOUExeVp1d3JETGF1QlBpSDdtSmVvZ083ODYzSUdwaFp5cFNRZGRvTnM1UEFmX2Zv?oc=5",
       "pubDate": "Fri, 25 Sep 2026 20:23:00 GMT",
@@ -249,7 +249,7 @@
       "title": "Pennsylvania measles outbreak grows to 890 cases with 55 new infections: Officials - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV0JPazlweWlGVTZoMkJEdGtQMzV6V0RUWHhMUzNzVUlsa2xaQ0dHLTBEX2pUWkNqVnZ2ZWpYcWEySnMyT19HT21RRDFXUXBZSmlwSG1Ddy1jWF9KYkJsR1d5S3M4bk5BaEE0dDl1Mk5faTBLa1BNNnBfU1k2X0RqbndNM0tUeDd6Umo3SnJoVDlVc1NLcHJ6S0NYVGRnUlHSAaQBQVVfeXFMUDU1Z1p3VFdvMzZqRUM4V0plVGNjanpmc0c3bDZUUUw0UkZPMTRJYWRBZ3VNcmJXOTF0Nnh5MkZ3ZHZOWkRJWkVVaFhNSWpJbXREMFI4SjBEOWtLRkxMN3BaWXlSdXFBV2UwZTM5VkoxZmZhaFBGM1lIVHNJMGlMb0hORXF1ZkdWdVl6U2ZiREpmNkkzeG82dFZOU2xwN0J3clRib0s?oc=5",
       "pubDate": "Fri, 25 Sep 2026 20:18:01 GMT",
-      "description": "Pennsylvania measles outbreak grows to 890 cases with 55 new infections: Officials ABC News - Breaking News, Latest News and Videos Doctors in Pennsylvania estimate at least six babies have been born with measles NBC News Measles is spreading through Pennsylvania’s Amish country.",
+      "description": "Pennsylvania measles outbreak grows to 890 cases with 55 new infections: Officials ABC News - Breaking News, Latest News and Videos Why the CDC is excluding measles deaths in Pennsylvania even as outbreak appears to be ‘accelerating’ The Guardian Measles is spreading through Penn",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -282,6 +282,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Schuylkill County schools preparing for possible measles cases in students - Republican Herald",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGdpM3pueW1JZWc0SnFGTW9DdkdZRXpPZlNxdWFGeUM4S0NQYVo1cEdTeGNHYmVqZlBBb2V1b0N5ME9Fekp5X1dEUHBYUHpERDFJc0RIeE00QWtiV09JM1RBWnNQUUF5a2U3b19zUjlwRUo3RkUzUHBqdzU4OGZTWUVWWVFJa3c3SlR6YVg5MWxZeThHYURIanRQeHd3QzY2REFwbWF0dnZpMlNQb0ZDX3R2SktRV1JORzNR?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 19:55:04 GMT",
+      "description": "Schuylkill County schools preparing for possible measles cases in students Republican Herald",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles exposure reported at Topeka hospital - WIBW",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GaTU5WVNFTTNleEYtTkQzbEMyMHVsZDA4ZFpOcWVnWTJpVDB5WTBmcTM4RXZSRGVfOVFFbWFXUGs5Z1RXUFcwakdIcmE0TlFLamJYNDlPNlJaNE9xb0dHTjdLSlcwMmdlZmhIenNHMnNPbTJxdGozdDJkSXhwalXSAZMBQVVfeXFMTlREZHE1WEh6OElEcGJtdzJjekdBcWxlSDFnWTU2aU1zaXNUNXp4YXd0NnlsaGdqaFhzM09BdWNnOFFkbDQySV9NLXdlTlhwRG9UWHo1TUNybWF5bHEtTHFDWW1DcTg4ZGpZeXJ1OWpRbjhTUW9DdU5MLXVvT1pfaHlsV3BRUEx3VGNKekFGbDg3eXU0?oc=5",
       "pubDate": "Fri, 25 Sep 2026 19:43:00 GMT",
@@ -300,37 +309,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Schuylkill County schools preparing for possible measles cases in students - Republican Herald",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGdpM3pueW1JZWc0SnFGTW9DdkdZRXpPZlNxdWFGeUM4S0NQYVo1cEdTeGNHYmVqZlBBb2V1b0N5ME9Fekp5X1dEUHBYUHpERDFJc0RIeE00QWtiV09JM1RBWnNQUUF5a2U3b19zUjlwRUo3RkUzUHBqdzU4OGZTWUVWWVFJa3c3SlR6YVg5MWxZeThHYURIanRQeHd3QzY2REFwbWF0dnZpMlNQb0ZDX3R2SktRV1JORzNR?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 19:21:47 GMT",
-      "description": "Schuylkill County schools preparing for possible measles cases in students Republican Herald",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "180 confirmed, 6 probable measles cases in southwest Wisconsin - Channel 3000",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVnJmS2dSV0FJWGliMWZzQkRFWDluSGVjLTAxSjhUTHFKMHk1T3gyZ3hOdVRMSVUyZHY1dEdJWk5ISms1dnY4THgzT3NNcmltdk9uWWhDS2JKcWxMM0dmV1dNMFlVcmRpVFMweS0xWXNKSUhYUkF1MXJNUjY5TjZqX05xM3JTdWlFdTkxSnRFRVQxSjNoUHkxaUwtcTEwdTZLdURKb0FNU1VtWkl3V2RRZ0xvbmdtVkJudFM5cXlNc1l3dm9yS2d3WWlaZ2xtVU1oLUY2NkdVdTdrdkVG?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 19:21:00 GMT",
-      "description": "180 confirmed, 6 probable measles cases in southwest Wisconsin Channel 3000",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "180 confirmed, 6 probable measles cases in southwest Wisconsin - news8000.com",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMmhzenVjWS1ubEc5aG13c09ZMFBEYW5EQlpVOGNRSnpQc1kxbEdLekE1Qy1aMWpiaGJrbEpJTi1CdTJvTVo0czA4MnhEZmJvMXQydFVnSzM0dmpCZml6WTI4YjgwZW1aZmowcHJ3T1RybXJ1LU51ZVFKZXhmYUNpWTZaSGNxZzhKLWQ0bEtuekJtdFU4T0QwZXlLaDZPaXRIU2I4UzJzNE56M25rNWlQU1VyaGdDbk9hWUlSZHFUYThXUUpUbTBMb0NJVGF3N0pnSThJRi1hMGNxb2loUmJUSHpkX2NRWEJa?oc=5",
       "pubDate": "Fri, 25 Sep 2026 19:21:00 GMT",
       "description": "180 confirmed, 6 probable measles cases in southwest Wisconsin news8000.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "US measles cases continue to climb, topping 3,600 - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbzJTZnNmaklKVUZRZy1VN1pvU0M3T1lCVDhyampYUDFYQ2ZiWWxnVURsTUQ4NkRQbW11ak5PaGhZQmtLbEw2ZG5maUExVHJ4WmJXSlRPQXBHVGtRaElMY2wyeTM2UlUzQ29QME5Ub09VeVhBa01GRTBPRjV0Yk5BdktzV282Zw?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 19:17:00 GMT",
-      "description": "US measles cases continue to climb, topping 3,600 CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -354,10 +336,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Pa.’s deadly measles outbreak: 55 new cases reported in 2 days - PennLive.com",
+      "title": "Pa.’s deadly measles outbreak: 55 new cases reported in 2 days - pennlive.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeU1qUFBMTGVvTFVlWkd2b2dRNlNydmZzYnZDTVV2Uk0tLU54c05qM0lxbENfR2h4a1lsbVg3NGFNaWd0eGMwRE5IWkRxWWxPd1ViYTVWWVNGWFRmdDRTeHFDTGROSWNGWWg1Q0RmamJEQXBBV1BxWm9UN0tzdjhxMDNSTnpkS1RSejUyUTlmcG9DaWNiNFlJLWttdjFwRlZfZnBRT3pydw?oc=5",
       "pubDate": "Fri, 25 Sep 2026 18:55:00 GMT",
-      "description": "Pa.’s deadly measles outbreak: 55 new cases reported in 2 days PennLive.com",
+      "description": "Pa.’s deadly measles outbreak: 55 new cases reported in 2 days pennlive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -390,10 +372,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Recent Measles Case Highlights Difficulty in Tracking Disease - KQED",
+      "title": "Recent Measles Case Highlights Difficulty in Tracking Disease - kqed.org",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWUszSDh4RkdfbWNPMERxTGhuNnFRODBLQUZxSGRGM29wclhGMFYyMWxYRWJaYW1xTDZoeXhTRTFmOHlnYUZlQmE5ZWVKam90Nng1anluQmZhZGVsQ2hCRFViX014djFFei1TRnVqN21HQkJFLVdnV1g2a2FfLTBXZEJDWW1mbXAzMV9tVFI5M2I3b29ja3htYTJselc?oc=5",
       "pubDate": "Fri, 25 Sep 2026 16:55:09 GMT",
-      "description": "Recent Measles Case Highlights Difficulty in Tracking Disease KQED",
+      "description": "Recent Measles Case Highlights Difficulty in Tracking Disease kqed.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -498,6 +480,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Doctors in Pennsylvania estimate at least six babies have been born with measles - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT09KSHFXQm43MHBUZ3gyVEFGVDhQelZOQ0FwLW4xdFljMEFFbTJScDNkLTFrQURjVkZYY0JXQzlLaHI4TFFUNFk4dFN5eVYyX0hHVDZjREk3cWRDbi1oMTlVbDBzbDA0T0oyMlJGcXd0YzQzcHAtLV93NUlQN2RHZWM4OUlmVjBUTVdKVklnWEI3T2dqV3V2aUZWOGxTTjIwaDVTWVdTbW5sdWlOUV9qX1Rvd2c0Q29jSW8zVUIxT0M?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 22:59:38 GMT",
+      "description": "Doctors in Pennsylvania estimate at least six babies have been born with measles NBC News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles case confirmed in Allen County - WANE 15",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBS2ZCR0U3bzVtVmpVTzNjWWRmUzZlMXFFcWZzUFp5RXp5M2lqb3E4S3NsMXBnelZhN1loX01kMHFNdFg0MTVUQ3lXTWs0SGNwblozWTRJeEtvUDdtZ1BHOEFRYWxfeHVZRGFFN3l6MHFOTE9qWHQ0bDQwMk5DY0HSAYQBQVVfeXFMTTJYeDI3ckpTMENIMkpOUWtBSFJvWFVXdzYyaWlDZWJheWtPT0JOWTRNR0IyQkZtOGFkenJUQkk4RG8xZk9pLWVORUFQNGtuWE1xWWk5aVNXaFlRN0phMFNJT2t0LS1NQllySHd6Z2NHeEZuTm9GYmFfX0JoR3pzam5GTTZa?oc=5",
       "pubDate": "Thu, 24 Sep 2026 22:00:47 GMT",
@@ -516,10 +507,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Pennsylvania tops 800 measles cases as CDC acknowledges only 1 measles death - CIDRAP",
+      "title": "Pennsylvania tops 800 measles cases as CDC acknowledges only 1 measles death - cidrap.umn.edu",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSnY3VVRMSnRjZkE0clJnS21HNHpRWmloandOaEp4Tzl4T2ZEcTU1empEOFkzempxZm8tR0hsN0Q1VTlvbkpBelN6aUFJZ0haaVBfU1ZGN29pZC1La25idGhlTm96ZXF4LXpEV2R2M3JzeTFrQXJ0LXp2YVlBU3VEVGY1VjBwNFNTdEUzUkVBVVV3S2kwUnFmR0NjdWtaNDJHVGd5bG5VQUFhXzhJ?oc=5",
       "pubDate": "Thu, 24 Sep 2026 20:20:00 GMT",
-      "description": "Pennsylvania tops 800 measles cases as CDC acknowledges only 1 measles death CIDRAP",
+      "description": "Pennsylvania tops 800 measles cases as CDC acknowledges only 1 measles death cidrap.umn.edu",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -660,19 +651,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "US CDC confirms first measles-related death of 2026, does not disclose state - Reuters",
+      "title": "US CDC confirms first measles-related death of 2026, does not disclose state - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDBOUG94WVAtSTFwTWhUOXB0MGtBelQxZ2g2R2J5YnlVMjJSdXd4U3pCQ3lkaWw1cVZiYUhOQ3VCYjJ3cEVGQTQ1cEhVY2lGTnNNN3RoZHE3OGwyanZOYmFQaWZvS0gzZVVsb09SWElTRDdWR2RZMXdNcnplTXZGdC1qQ2E1LV9zVFR5Z0VIdUJCZTBmNVFHcTA3VS13NjgtV3RQTVloOENnVW9GSVM1SFFkakJDQQ?oc=5",
       "pubDate": "Wed, 23 Sep 2026 20:54:59 GMT",
-      "description": "US CDC confirms first measles-related death of 2026, does not disclose state Reuters",
+      "description": "US CDC confirms first measles-related death of 2026, does not disclose state reuters.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak in Chicago shelter cost nearly $9 million, CDC estimates - CIDRAP",
+      "title": "Measles outbreak in Chicago shelter cost nearly $9 million, CDC estimates - cidrap.umn.edu",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYXpoWXdYc3VKZ3pLd0RpSzRfWl9jS2JsT3FfS3duaWw5NHlzZ2lEb25kRmF0RmFmNmF6WG9pZHFkc0J1aDJzTjNJeTBqdzZaTTMzMHF5S1FrLVJJS3lfbU0xbjhMYkd5Q2M2d2RZWFRjYnJVbFAxRDQtT3JUMnI0MEJTUjc4bHhIMzNvMjZaajFlLUt6Z2VTVUpSZGRRNzNwSVZsX0Z3?oc=5",
       "pubDate": "Wed, 23 Sep 2026 20:12:00 GMT",
-      "description": "Measles outbreak in Chicago shelter cost nearly $9 million, CDC estimates CIDRAP",
+      "description": "Measles outbreak in Chicago shelter cost nearly $9 million, CDC estimates cidrap.umn.edu",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -795,19 +786,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "2nd possible measles exposure reported in Philadelphia at airport - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdTIxRllkcURlQUVtOVhVcnJtcGVZd3dLRGRCMUdObFJudEZzdjdWdEtuYmxhY00yUXVxTFYzWmdMSkR4c0Z0aXZXUHZydjI5SzZiRHBJOG5hcEFva053aDFkYnU3MXhOWUx6S2xTcnNBcGRRZVlvWVdKTDN6NnJJNjJFbTd2ekVmdW5Pem1STFc4X2hwOEl1MlZwVGs2UlBvckphaG0zenRldw?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 13:47:34 GMT",
-      "description": "2nd possible measles exposure reported in Philadelphia at airport 6abc Philadelphia",
+      "title": "World’s most contagious virus hits major US airport as officials warn of possible exposure - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOalRUby1pdmxnM2lUaVZIaF9BZ3BUM3JHMU0tMjFncHRTZ0Z0SHBSb3hKMW5mMlQ1SDU3dmhTNzd3Ri1VcHM5TWJENnd4Sm51Ymh2b1BYeVVhbUwxbDRvTTY3TWhwYWJ1Vllza194aldNTl8xZDVMc1MtMF9sdTJPeFJ6UkZTbUowN0FXN1ZHWXRaX1VkYUxGYllTaUJUZ0FLOHNTcFBPNnpMZGxWMXpkVl9OeELSAboBQVVfeXFMUERzZDZCbExDcFRxaDNKRVVmMmRVbDlZMDBlS2YxRjk4bjU3Y2d2cUZOeE5EQU1vaExXamMwVGU4TVV3TWxvYURwNzB6dkQzLVM0ZEpQVEt6dk5KV2l6WHdhejlRUVZGWnowRnBuOWs2SXJCQklfU0RURWJFTmZnUHBNU1dsalZfVUxXalFsc1ZGUkFWd05wWDd5UC1CNkN0Q25PLTgwUHIwbFBBaXhLYkgwQmNFaGhtakFB?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 17:42:55 GMT",
+      "description": "World’s most contagious virus hits major US airport as officials warn of possible exposure Fox News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Why the CDC is excluding measles deaths in Pennsylvania even as outbreak appears to be ‘accelerating’ - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM1VSdE1rMjZFcVJyTElhYWxsU21aRTBDYktwLXV1NG1zSkQ2R0wyNG4wWW1XcEQ3OW9iZ2w5LXJVQldNcVZtOTVPQnBCNzBSYkhPRlBiT3VReVc3VU01dGUwQk1Vbzdta2d2QVZ6dTdfX0NuLWdlRV92WXI0V1ZIOWNkVkR5WnFpLWFiNHFUQWs?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 11:00:00 GMT",
-      "description": "Why the CDC is excluding measles deaths in Pennsylvania even as outbreak appears to be ‘accelerating’ The Guardian",
+      "title": "2nd possible measles exposure reported in Philadelphia at airport - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdTIxRllkcURlQUVtOVhVcnJtcGVZd3dLRGRCMUdObFJudEZzdjdWdEtuYmxhY00yUXVxTFYzWmdMSkR4c0Z0aXZXUHZydjI5SzZiRHBJOG5hcEFva053aDFkYnU3MXhOWUx6S2xTcnNBcGRRZVlvWVdKTDN6NnJJNjJFbTd2ekVmdW5Pem1STFc4X2hwOEl1MlZwVGs2UlBvckphaG0zenRldw?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 13:47:34 GMT",
+      "description": "2nd possible measles exposure reported in Philadelphia at airport 6abc Philadelphia",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
