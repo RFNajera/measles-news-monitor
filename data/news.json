@@ -1,21 +1,237 @@
 {
-  "updatedAt": "2026-10-05T18:31:06.080Z",
-  "itemCount": 85,
+  "updatedAt": "2026-10-05T19:23:10.051Z",
+  "itemCount": 76,
   "items": [
     {
-      "title": "UPDATE: Delaware Measles Cases Climb to 25 - WMDT",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdldTUFB1WkF2M1FPVWo0eDJZT0pLTjdETF9sdmNLME52Nk44MEJ0ZzUxTzIyMnU5SDdGVzBiV3lMTkVIbURxRm5MMmJuYnRaemF0OTM5VVZvaEYyWERWc2xTNFlXQmIwc093TE9UZ3Q4YnRLdlMxM3VBSWw5ZGlRSm1RWi1tVHAyazBJNUNSV05PUHQyLTN3ZjkxSXA4Zw?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 17:33:20 GMT",
-      "description": "UPDATE: Delaware Measles Cases Climb to 25 WMDT",
+      "title": "Measles cases surpass 1,000 in Pennsylvania as outbreak continues to spread - southernillinoisnow.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU3doR25sN3F2cGVsZkZqTUpCQjlfWFM4aWxjeUdidC1nb2Y4ZzFWUVNmN2JtcFVTYUNla2dRQ1dMd1ZMRUM1TDVLdXRtMjRkQU9HMzl0ZnFManJNQ3NGcXk4bGROVmRvLVo2eGJTSkFZaFFWcDYyNTlFYmYwZFZ2S1RPMWt3dTJRTnI1MncwUld0SGRmMFA5SmJqZW1qYmlkWkc2S2JSWVZwQllZTFpPdnhQQmhlWTZ5aFE?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 19:18:34 GMT",
+      "description": "Measles cases surpass 1,000 in Pennsylvania as outbreak continues to spread southernillinoisnow.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Commentary: Monique Yohanan: You can’t deceive your way to herd immunity - myjournalcourier.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjFDVFJqcHpIVkpZS0RwcWY4WGpTMDh6Mnk4OTRsYkdZZDRVbjBhYlJQNGhNZWpEQ1Itb2RIWnZtTUt0VExIZW5zaWJnSDFSOXBtREhLOVFBaFBGWHZSLWwwV1lHX0ZHenZpdjE1V0JHeGx2S1dyTDhlY2lycHRiQUdJdE80WlJOaGVyejM1MGo4dkFKODM3U2lKNWVpd05kSjlWUTBTQQ?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 17:26:15 GMT",
-      "description": "Commentary: Monique Yohanan: You can’t deceive your way to herd immunity myjournalcourier.com",
+      "title": "Pennsylvania’s measles outbreak is the largest in decades in the US - The Standard-Speaker",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVm5QYVJ2WlRPVGtISzdSN1hSREtKZnFHNTE2N2sxTHQ5dURPNGhmZVFrWEFTZTJFc3JkSTJSSlpSVkRsbExPUENYdkdtaGtVWmVuVmFKemdOY3lZT2pEZHJkM210RDhRbmNSYkx0dlZhcmxSWHhycndJMzlJalM4N3dhR0Q5SlNTcVRQeGY3QmJPM1FQdVFnMnFFcmgxdnNocVN5ekNKUEQ5UmdadEVB?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 19:17:54 GMT",
+      "description": "Pennsylvania’s measles outbreak is the largest in decades in the US The Standard-Speaker",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania's measles outbreak is the largest in decades in the US - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3poZkJjNENRdFJIclpCZ1RHUklIX3JQLV83eV9GYkVTczJYQlpLTjJjNE5tZzZlSHJRSTZtOWowSjd2d2pmc1VQbTJhZHVNQlRuVnNjNEpPT0k0ZHdrMUFEU1V0TVgyV3U2MjE2VmNfVkd1Y2dWb0dPZHR5UDljRFpqaW5mQlFpUmFRdWljdzhrQlV6LUQzZGU4T2Vmb0N2MnpBRg?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 19:14:03 GMT",
+      "description": "Pennsylvania's measles outbreak is the largest in decades in the US Dallas News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania measles cases rise to 1,004 as outbreak spreads - KSL News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZDFsUG9DS2NsNktJTjg3Ykt0eG1UazBKMmpPQmZpMU43dGxuU0JsU192R281RnJnZ3hzTzdZVWtEVVpJV3NDdEczb2dkTzQ2S3dmOVlaVUlycG9CR3VqVGJrM0w0ZlZOZ21ZdW5RUk16SDJsZFlKWFYyVEtoNnFiTTZjSFUxWTdoWkRrVTdITGRNQnFSSlFOVkdJeVA?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 19:06:35 GMT",
+      "description": "Pennsylvania measles cases rise to 1,004 as outbreak spreads KSL News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New York Declares State of Emergency Over Measles Outbreak - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0xRakdaMVJQOTMyb3cwREluVUpld1hHWnRlcVRkcWZha0M5QWlnNkhlbS1PTkhRWHBwYzJLX3FHQ2w0X2hKMU9pZF9iYzdqc1I4OWt1eDR5UW9aZWo4dTI2SzN6M1FlazI5UXg0UXk2NWxYbnhFcFkyLUVRWW92VkM2Y0VCQm92X09uU1lZdTd0Rlg4NTRReG5VbWx0NVdvamY1S2x5Ukh5Y2ZfLWc?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 19:03:52 GMT",
+      "description": "New York Declares State of Emergency Over Measles Outbreak Bloomberg.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania's measles outbreak is the largest in decades in the US - CT Insider",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMko3NE1sSXJKbnNyVTVCbkFqZTVKdEp6cG9LSFV4Zm5vUE9URF83OVdKbHlZZThONGZObXBfRmg1RVJudFR6eGYzMWk2UVNkNGJwWWZKNU5NMjhFRjRXU1FrLVBiQ3F1ajdtVXhqcUh6TjlLSl93cmtHNDh4OFp3OV9hcWFfZDllQ3AxSF9PbWpac19aOUZleW9UTWxvNlNoOTJTcnhWa2Iydw?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 19:01:36 GMT",
+      "description": "Pennsylvania's measles outbreak is the largest in decades in the US CT Insider",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania measles cases rise to 1,004 as outbreak spreads - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGpyUm5ta3BaZnY5UU1kZUdySVQ5SGt0TldPMG5hcVNteDhDbm13VGJZN2hDNENWa05PWDhLTVBTMUxLU2lvOEd4WWpDRnNLSUl0X0pMWnhnZFhjWU52Ql8wVnU1bl9oR3J6NmkweG55Y1czN3Z6OXlmcnhaRmxLa01CNThVci1fTERRMlhYU3FVb1RhTHJjTFNWdU50dGZKU0hDTUtlRnlrWVQwUmppbjRZbks0ODMtSFdmUTNUeGFGZFU?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 19:01:21 GMT",
+      "description": "Pennsylvania measles cases rise to 1,004 as outbreak spreads Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "With more than 1,000 measles cases, Pennsylvania now has the largest U.S. outbreak in 3 decades - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMlUtUVA3bjFzMXhYQVUxdHpRaVZjMDNZVDJjRVgzWF9Bd0xCTTZ5LVZJNDRkOGN5N2lTU01ZZXlxZ2xSYVdFQmM3d0xGSjdSLVpRd285VzFVVG9qaWk3ZHhRQnZYVnN0a1RoemV2OU5LaXI0d1c4dXRsSUEzX1RWNG1SeUpSZFRIbE80UE5vM2VTUHJtQUdNVWpjVTV6UDl6dExuSi1ZTjVBUEViaWc?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 19:00:03 GMT",
+      "description": "With more than 1,000 measles cases, Pennsylvania now has the largest U.S. outbreak in 3 decades Pittsburgh Post-Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Hochul declares emergency in measles outbreak - Audacy",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0oxNlhObVYxS3pxWmlFUUtHeXotRU0xZGpyZlE4Vm1qVHNyekwxMmlxVVNwVk9fbWJPbEE0Q1JELWlhaFV2Nm1jMXpVWjZBU0ZPVmNXM1RrSUNiNXhxeGlIRVlHQ0tqZ3c3QWZnbDdhS25OemE2V1ZYNmhWNEdrTE11UzRqaWV5U0I1Sg?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:54:00 GMT",
+      "description": "Hochul declares emergency in measles outbreak Audacy",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania’s measles outbreak is the largest in decades in the US - The Spec",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQck0tdmJ2MDFrTXlMcHJwTTF1UDdiQTNjcGZDRkl0YXZhNUxEQmNHSm9MNUxnS3U4U2xDX1hGVGlJbGU3b2YtQXJ4cUlGV2h6TkREOWxZUzVLdmdOZDdaZUJJdEFVZGNVQ09mOGkxdFkxMkJnalJGNUk4d2R1eFZ2Tm8tWi00SjZiTnNZLVVISUlZbm9iVFItNmVxLTVtZFBRTXFBZzEtcXFuTXpScDhZMldpVGF0UkJGbmM3NjhiUUR2SThlNGhQSEJ4WjlkZi04c1BhV19qazVHQWR6djRz?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:53:56 GMT",
+      "description": "Pennsylvania’s measles outbreak is the largest in decades in the US The Spec",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania's measles outbreak is the largest in decades in the US - The Daily Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQndGRnhsamRIZTZKMDl3NDBfVGtNTUlTSUdDOUgyX3VMVXI0LTdOMk14dFE5VkFjcDNiZGtBejRraFQtaVBRdHViUE1TYVdRQXpwVUZmS3dZeEVVU2N3ZEFZcEliZUdoVjNJSFM1RWJRbHBnR2Z6QmhmdFlwMVVhYjgzZnNwdG5ydUZqY3U3dzFIRW44cU1GcTg1b3ljVl9UdzVJbGJfZlFrdjQ4ZFF4X0QyRWtJZG9iZ3RpOTlCNVRCbHNLUXJ0TmFGU0x0OWwwdkktd3llMjlILTBqWVlyZkxPdmUxSXB1V0xNXzM0aXcwTGNTdUE?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:53:24 GMT",
+      "description": "Pennsylvania's measles outbreak is the largest in decades in the US The Daily Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania's measles outbreak is the largest in decades in the US - Weatherford Democrat",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYmtoM1FscUlEWExjUUNSam5JQ3E4LUJOYUtDQ3NrR1pOanZWeE9zdFJVbU9LUmxKSG9xNTl1WEtmOTY1Q0tBQXZteWstQlZMUWdKd0xIMV9DT0FLazM5eGZUcU9XQ3o1el9LN0k1RXpCandTSmJZd1FBcG5raGRQbnRmRDJOUVpOV2ZhT18wXzk2U0sxTzhNT2tra2ZGRnlXS29KWDR1SFk5dXBoSF85VElJQUx1aU5Nc0pod1dSNXVYVWpFcXJRdnNHQ2RYWXFYNUNHaTQwcU1FeUExSmlwTEliZjhvRzdYQWpFUnpXUmhLQzN1aGc?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:53:24 GMT",
+      "description": "Pennsylvania's measles outbreak is the largest in decades in the US Weatherford Democrat",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania's measles outbreak is the largest in decades in the US | National | dailygazette.com - The Daily Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYnFKOFd1dGZGUjZ2MGgzUEoxSlRZR3JienJTbEMyaE9OYV9oQnc0NEI2TUw4RV93amxzZ3hDZ0dvY3FPNmYyQ09USEtvQ1RwZWczczNMSDNrd3NWTzA0MHZpbFJGVjR6ZGg1NENpSDdTMWNqQ1JpY0FvNWRCTElDblhKc0Y4YTFjblVjbDNCcWJWZjVoUkNCOGFlZ2VWSnppb2hVMTZBQUlGZGZIeEZTMHRabjc3dFNYVFhHbjZtZmxFWEdUaXZIQTBJc28yX2cxLXBDTzVNb1YtanNBNFFfRnZfMDVLSk1Mcmtjbg?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:53:24 GMT",
+      "description": "Pennsylvania's measles outbreak is the largest in decades in the US | National | dailygazette.com The Daily Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pa. now tops 1,000 cases of measles in 2026; Lancaster County cases steady since Friday - LancasterOnline",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNDJ5SzVLSkZ3VTZRUHdPSGtMYVZLRVhZbmdXV2VORHluVlNvdUdrZzdwVUFmbUx3alF2R0JvYU9wZ3BXLVZXTkphcFNRaHJJRmtHb3c5QmYzdXRIUFk2ZklFb3Fpd0J5Z0hjY1VnOW9Jc0Z2YlpKREt4bDBTYzZ2OEV2d09CUEhCVFUxTWw0ZEhWTkhndHZBSGNXeVhIakR4ZV9FYTJ4c0llY2c4ZVROdW13aFBzWVhCR2F3clhvMWNtNEdvQk1tcnoyNGREdmc0SVdZa3NOLU9FRm56ZjkyU0RFQnJ6SC1saTFER092RmVzSktHYUJ1cDZENXA?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:51:00 GMT",
+      "description": "Pa. now tops 1,000 cases of measles in 2026; Lancaster County cases steady since Friday LancasterOnline",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New York declares state disaster emergency over growing measles outbreak - WGRZ",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYXRvU0ZuN3QxQjhWY3l1X1FWbERGdG9pcGZCUE1TR2c2SG9SaGV5TFd0MzNFS1NYNXlmQXB0emlaSFNNaEdkcWpRVXNoMXdOenpVV3hzSzVrWGZ6cEphOUVyV0s3WTRyaXh5Qk9XaDJVZDV6Z1JNakprYTdld0M5WjJ1dFJTNGVEbGdZWEtKaTlmWGpaT3Uxa3ExaFcxeUp2b2g1cUEyZkhjR2h3MDFmd1NqcnRLVVZsaDN4azZZdVFPYjJJQlhSR1VPcVBIcTJNS0E?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:50:00 GMT",
+      "description": "New York declares state disaster emergency over growing measles outbreak WGRZ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "PA Tops 1,000 Measles Cases as New York Declares Emergency - erienewsnow.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVpaVHREQnhUSHViQnhMWmNWbTlibG92UU5tenl3elJ5cFlSVmZ0RVN4ZmFTNHBWaDVNMnZvSms2bU1HcDY1X1l0TUFXd3YtOHA0NU1QVFFRVEloQmVEY2VrQUlSWU9XdDgyUXF1OWNkM29sX1VqUmRsOWhHZTdiaUdSVGhYTDhsT1hSZFY4S3ZBdEtjNHVUTlZBUkVJX0w4bHJZUk9rcHpwbUFwVHNleXQxX0JGYW9XRDRRTnIyU2ZuZlNuMEtVV2VyYXV0d3lMYmR3NVR2Sk0?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:45:00 GMT",
+      "description": "PA Tops 1,000 Measles Cases as New York Declares Emergency erienewsnow.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "State surpasses 1,000 measles cases - dailyitem.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMmhUbGduVVJybm1ZbEpnMEM3SXlLakZsY1pBUVRWczlheGU4THBjSnpaeFlBTUFMb0R4SHlqbEo4N2dIemFuZDRURWJzWlNiRU5ldDRvaEZ3Qm45UHp0NWxOMmUxYTduNzQyRENIUFNZQ3ZkZ2cwT0F5U0FLaXQwMGFhVWd5MUZSNmpfVXRTY2hSb3h6Y1k4Rk55X0hwcTVPSWtZanpCSk1yZFQ4cHlGS3hINDQwVW8?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:45:00 GMT",
+      "description": "State surpasses 1,000 measles cases dailyitem.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Hochul declares measles emergency as New York cases reach 108 - nny360.com",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNWkzbjdOd2c1ZDgwZFUxaTJianFLUEVYT1hTdC0yZ20xZlhHcTNhem5IVjd1VlR1TXRTY1pmcm9rOHBkWElDU0lTaGd6X2dVOFZrTHFCODlSYzlpZWk2d2xjUC1pRkJidENkdHI3dGFHNkFIYm9nc0xhRFNIeDl4WDNhSkRsaEw5WnRQN1JsQnlpWTZYS3V4ZGRyeXdRRll4R3JBeTJoYXQ5MjNaWS1lSlZ4ZHQwZENVUXB1YVdOaGxMUWpGV3JIWW5TMmV1aWhPRUFTOWJFd01xaGl6R1lsOU5ialJkSGVHY1hoWXNn?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:41:00 GMT",
+      "description": "Hochul declares measles emergency as New York cases reach 108 nny360.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Gov. Hochul Declares 'State Disaster Emergency' for Measles - WKTV",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWGc1NjVLVmtZTGdZVG1hTXhBWDZUdUp1YjNWclR5bjNSU3ZjcjNlSVk5WnlzWlFOOXdTZUtFR19XYzZ2Szk5cmtfa19XbmhJcmVxNVBMSllVWGVUYUZ1TW1iRnhTLVpjU1FySzVIZFlBNDlVTzVrbFJmTWZnRzZQOFBMbUxGZmstMGc2RXhKZk1GVTJLeGltT1dzWWE5Nkp2UVJZb1RncWpTV1NRVnNXRHJSRU4tMkw5a09laHNXbWg3ZXd5RUZ5Y1RCYTE3a0lObWxsTElR?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:41:00 GMT",
+      "description": "Gov. Hochul Declares 'State Disaster Emergency' for Measles WKTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Hochul declares State Disaster Emergency as NY surpasses 100 measles cases this year - Buffalo Toronto Public Media",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3hHRzh3Y3JfeUl6d1FCTXg1NEhNSHI3aTRSamdLcHFLYnB4WC1qTTM1OUhZMFBaMnJoUEQzM2h0RmpsUzdzeUpoWmtuNHAwUFpYREx5WHpON19heU16eDIydE1CTUVwei1ZSjl3MXZaQkFtX3NhbW5iXzBVRGdub0xpUXhaZ0czcjhLeGxzbjhXVnc0Q0t6WlozYUx5bHc3QmY0RGNJbmUwY0VyZmowUDRDY0otY3RaNUhRejRFaw?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:40:00 GMT",
+      "description": "Hochul declares State Disaster Emergency as NY surpasses 100 measles cases this year Buffalo Toronto Public Media",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases in deadly Pa. outbreak surpass 1,000 - pennlive.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcE1ZVUlwNjJoZm1jdFM3ZWd5MU1LZDFJMjdxcmFFYkRTZFU4OVB3b3VFVjJTaTBTaEQwaXQ0dGxLVUNoNEJSTExKMG91U0FlSF9XUHloMDQyR04wc1NHZ2U1cl9YZ0hMU1c5WERWTXI1SlFsdHE5WUQ2ZWZBQ2o2LW93dlZWTUlHV0xQd3VYaWlXVlBra0tLZw?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:25:00 GMT",
+      "description": "Measles cases in deadly Pa. outbreak surpass 1,000 pennlive.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "DOH: Measles cases surpass 1,000 in Pennsylvania - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZzBpSkl5Nk5sRHlSTVZWR1NiYVN4aU5GN0hKUmZOT0I3OGFPUjJQenV4NlpLd2Y4MkpfQ2l1VUFxUWx2aXFxc3AtZkQwRHNlQjQ4OVRLMkpnZEM2aWV2aWFnaFpzMjA5TC1URHVxU1NuZ1dxNlpxTXdPeVd6SUJfbTU5T2d4Qmt2dmVGSnRfUHRHX09WX2Zva01wSEVQclFSM3lVQm00TFNuUnc2SnZlNVZoNngzVFpESkRfVGFROUJtMjJkbWZYbThqbG42ZEFHcjNYRVBIU0Y?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:22:00 GMT",
+      "description": "DOH: Measles cases surpass 1,000 in Pennsylvania WFMZ.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles update: No new confirmed cases since initial case reported to Wood County Health Department - bgindependentmedia.org",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT0J3WnktZXlOVGpYT09tVV95cUl0R3pURjk3Y3pkVGFQcUg4c2taa2hxTGc1YXUxLUZwUEEtZ0E2bTNvMV91X2VlUHEzbHdRV0V4SUhNWkFVM0Y4T25yakt5bGtUcjFHcGUybUYzd1dLMzRPWURvQ2VxOXBPVnU1RHpmaTdoYklXNDZ4RVJjQ3NKMjlVMWRKOHhNc01JMEJXZHFNTWNVWFlLOEFKR2R6UFNYRkktcDFqWGJfcXJ5N0paMnNGRzQ0bHp3?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:20:35 GMT",
+      "description": "Measles update: No new confirmed cases since initial case reported to Wood County Health Department bgindependentmedia.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Holding the Line: Primary Care’s Response to Fragmented Immunization Guidance - Milbank Memorial Fund",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY3hxS0o0N0M0OEpnNE54ZmU1bTd4SUZER3RtZ2NFQXd4WEZUbS1nRzNLSHU1a0xjYUp1RG9TcDRLNk5IbjllZzV6dmppLTcxUW5kSTZXRmx6QTZvQXhZNy1fM1IwU25hQ2s5LXNmeEhBRXVDUDdwYnk4ZmtOWWJ2Z2dmaW1heTgtSXR0SUFGaDBFZGdqYjQtbUhuajZfc2gyQXhsZnhyWTNwRThlM1hfUml4RQ?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:05:23 GMT",
+      "description": "Holding the Line: Primary Care’s Response to Fragmented Immunization Guidance Milbank Memorial Fund",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Chester County Prepares for Measles Spillover From Lancaster - MyChesCo",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObE1ZdW5XLXV2WklRVmEwcXZDVmFaR0lheWxTUWxZbDFrYlpmUzlBSTYzaHk5T3hRenoxajFUVVc4TU9ua0liVmVocmFyOWNYaHFqN3JuUUY3b3QzVV9jTDhlR0ozZXdWek9iRU9pMjE4N2I2X2tTbW9VOHZ4WWtKY0pVX1NlZnZsbFk3NmhnXzZORGxGUGgwWGp2WGI0ZVNKMHoxSGs5aDRaOEtGNmt6SFlFM3FTOTFSVVZPbDZiLXlqVExGZkxB?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:00:00 GMT",
+      "description": "Chester County Prepares for Measles Spillover From Lancaster MyChesCo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "UPDATE: Delaware Measles Cases Climb to 25 - WMDT",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdldTUFB1WkF2M1FPVWo0eDJZT0pLTjdETF9sdmNLME52Nk44MEJ0ZzUxTzIyMnU5SDdGVzBiV3lMTkVIbURxRm5MMmJuYnRaemF0OTM5VVZvaEYyWERWc2xTNFlXQmIwc093TE9UZ3Q4YnRLdlMxM3VBSWw5ZGlRSm1RWi1tVHAyazBJNUNSV05PUHQyLTN3ZjkxSXA4Zw?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 17:33:20 GMT",
+      "description": "UPDATE: Delaware Measles Cases Climb to 25 WMDT",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -102,10 +318,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Poll: Are you concerned about local measles cases? - wfmj.com",
+      "title": "Poll: Are you concerned about local measles cases? - WFMJ",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVm8tQXl2dDNOdU1ycG9iS0hGbTZPYkZfV1RRYkJWMUJnTDZyQ2tuaXd1ZGpiNEN2V21uSktoWDlyS1FCQ3dSVlpGOWJYT0d5Y21LQmNmWW5uUWRIT0VlNGtHQk5CU2dlbm9BLTk5c29PV0VXUks0NUotVkRHczdzUjNuSkRVbmZmQlRWNl81RndjSnR2UDdZcGI2QTk4N3NTd2VYSE12LThudERwcDJQRFVVTnR2ZWN2YUZobVBBajNDSUI2cW0tcFdsMi1lQUpr?oc=5",
       "pubDate": "Mon, 05 Oct 2026 15:22:57 GMT",
-      "description": "Poll: Are you concerned about local measles cases? wfmj.com",
+      "description": "Poll: Are you concerned about local measles cases? WFMJ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -147,19 +363,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Launch of national Polio and measles campaign - mg.usembassy.gov",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UWExFMkNlbGQtaEViUjBTRDBmZHZYdEV5Z3hBOVA4T2lfX2c0WHpKWUFtVkJyZ2ZoS1N6QWJhV3JybUgxd1FlMjByMDFmekdrSUR1Q3NzNGdpbkZJa2ZnZ0lFdHltTV9UUE9SZVZzS3Fpa1cyYWFoalJzRQ?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 13:24:51 GMT",
-      "description": "Launch of national Polio and measles campaign mg.usembassy.gov",
+      "title": "North Dakota Department of Health and Human Services Says Person Who Traveled Through Minot On Amtrak Had Measles - knoxradio.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQUdxTUNEcXlxdVluWnhyS2ozUnBSempfTjJINVJpSnkwdi1YUlk0ZktnektGcjc2cm5oc2ZhRXp6dXllOWEzM3ZRcUh4bXNYMjctdEktVGpsaVNhQnRwQkdNSmhRR1FRemI2bGtWUHFkM3o5cGRRMDgwMU5od2JWbFJwQzZIS1lpNjAtWThZa2l6X3lPdDdLbXdEUl9Zb1R0STNFUHFaUkxtekNyS2Z0UTFBbmwxTmxxZDRWR2lzRExkTV9zb2pIYTZISXVUQkg1ejBR?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 13:39:03 GMT",
+      "description": "North Dakota Department of Health and Human Services Says Person Who Traveled Through Minot On Amtrak Had Measles knoxradio.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "North Dakota Department of Health and Human Services Says Person Who Traveled Through Minot On Amtrak Had Measles - knoxradio.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQUdxTUNEcXlxdVluWnhyS2ozUnBSempfTjJINVJpSnkwdi1YUlk0ZktnektGcjc2cm5oc2ZhRXp6dXllOWEzM3ZRcUh4bXNYMjctdEktVGpsaVNhQnRwQkdNSmhRR1FRemI2bGtWUHFkM3o5cGRRMDgwMU5od2JWbFJwQzZIS1lpNjAtWThZa2l6X3lPdDdLbXdEUl9Zb1R0STNFUHFaUkxtekNyS2Z0UTFBbmwxTmxxZDRWR2lzRExkTV9zb2pIYTZISXVUQkg1ejBR?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 13:22:20 GMT",
-      "description": "North Dakota Department of Health and Human Services Says Person Who Traveled Through Minot On Amtrak Had Measles knoxradio.com",
+      "title": "Launch of national Polio and measles campaign - U.S. Embassy in Madagascar (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UWExFMkNlbGQtaEViUjBTRDBmZHZYdEV5Z3hBOVA4T2lfX2c0WHpKWUFtVkJyZ2ZoS1N6QWJhV3JybUgxd1FlMjByMDFmekdrSUR1Q3NzNGdpbkZJa2ZnZ0lFdHltTV9UUE9SZVZzS3Fpa1cyYWFoalJzRQ?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 13:24:51 GMT",
+      "description": "Launch of national Polio and measles campaign U.S. Embassy in Madagascar (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -183,10 +399,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "PA Health Reporting 5th Measles Related Death, Nearly 1000 Cases - pennwatch.org",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHlGdXFsSFcweXVONnpGLWh1bVFsTHZHV0pucG1yeHZqcGNHOTBxX1dGWHowb3g2dkxVblhCd3RmZjUzNFBOSzJZSmVtZDBtMHF5WUo3a3piTjhWMGpvR0ZHS09EeUhlM3MyNUEyemhQMHZTMWQxMG5WeGRRQUd2a25uaXVwRkFZS1V5R3dKTQ?oc=5",
+      "title": "PA Health Reporting 5th Measles Related Death, More Than 1000 Cases - pennwatch.org",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMk5LTldlazJlTWFlcHdsSFpNZmtkSVhpNDg5WHhSNVFWaWhGOWZ5a0VvQW16OEFKSU8yTC1kRUJkSkt6RG5NVlhRMVFZb2g4c3NWbTd4LUZ4MFRCalN5OFFhSWhFSVFRSThiTy1XNTRmelF2OVc2QkpBVUtfY3QyU0VBNmVDVXM5WWgwRGxYVWM3dEE?oc=5",
       "pubDate": "Mon, 05 Oct 2026 12:30:43 GMT",
-      "description": "PA Health Reporting 5th Measles Related Death, Nearly 1000 Cases pennwatch.org",
+      "description": "PA Health Reporting 5th Measles Related Death, More Than 1000 Cases pennwatch.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -201,28 +417,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Wisconsin Measles Cases Climb to 243 Across Eight Counties as Local Officer Says True Count Is Likely Higher - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbG5hR0FBd01GVkYtTjdiN3VvOFo0WlE0SE5ON0huOHEzdU8zc1pVb2NSeVd1UkgwejZPbVkxY1BjNWwxcm5qOE1kOEpvTjFBZGNZX1NBcU5MMmZvWWl3STlaZ3hCRUJsbTVjeTVSZm5seWxGeVAtTUFtUnFxZ2l1OGhfckFmYVV5c0E?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 11:15:07 GMT",
-      "description": "Wisconsin Measles Cases Climb to 243 Across Eight Counties as Local Officer Says True Count Is Likely Higher Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles outbreak grows as doctors urge vaccination amid rising deaths - cbs19.tv",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWGVzVEp0ekk5NDRSZzFHR2tfeEJnN0hRdTdnd3BoT1RiQWltakNBNGotTFFUSFplQXM0UHFGbHkzc2NNSExFRlBKZ2JCZ1dHTzdjcmx6MGFZYkktSENGdzRCZWpDOS1ibXgxYlJQQ3lfSURVY3oxX1BwSWZvMEg4eUEzano0M0VQWnVpa29TZTN0Y3ZUanU5YS1vbGpJMHZqUEhIbjJyZjJNTWthMFI5bDc2bWw4MjIwMDMtaW9WZVg2S21KR2xxUDc4bHFUa3pOZnNZZlFCNUtSdkRlUExacUZn?oc=5",
       "pubDate": "Mon, 05 Oct 2026 11:14:00 GMT",
       "description": "Measles outbreak grows as doctors urge vaccination amid rising deaths cbs19.tv",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "CDC recommends earlier measles vaccine doses as Pennsylvania cases near 1,000 - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2J4M29pcUZ6VkZMdVhaSGRwY0I4Zk01R2lZbVhrWnBpekJKdWMwTngyRmFWbGJUdVFXS1hwSVZTVjZycDRENmRkQUNPVzM4WlN3UFdFMTZINlJGX0p2T0NWU1ZoeEQ4MU11a21vMTVtdXhZNC1TdW05TDllbUFnTGtZSFdpWHdaY3lYeElwaEZWamY2Yjkw?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 10:53:20 GMT",
-      "description": "CDC recommends earlier measles vaccine doses as Pennsylvania cases near 1,000 Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -237,19 +435,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Poll: Are you concerned about local measles cases? The U.S. is seeing its highest measles case count since 2019, with nearly 4,000 cases this year; locally, Trumbull County has 7 cases and Mercer County has 20. How concerned are you about the current m - wfmj.com",
+      "title": "Poll: Are you concerned about local measles cases? The U.S. is seeing its highest measles case count since 2019, with nearly 4,000 cases this year; locally, Trumbull County has 7 cases and Mercer County has 20. How concerned are you about the current m - WFMJ",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY3ZzSEVGTFpnTmJSRFVhUVZvXzdDMFlSUWhNVnpiemFtRGdERG1IQ1lJbzNWckdBaGw5Wkl1LTZMSlZlT3FwTmkyTVY1NWNIVjJORkFQOVRKVld1dk9ZSkotWjhmbjVDSTR5cUpyZndfQ0t4ekdBVl92NGFsckJ4Tk1kOWhCak9odVJHUG8zcUp5cExaSXY0dEVKTXVlQkl5clpKMHdiT0JmV1Rpd1pPZ2dQYnRVM1lrcThzR09sVlBGV2R2UVdKNTVLWlF1MjQ4VkRqanNpU25uaWotcG1kZHNCUE83WlJEMzcwYjBuQjFBTFYy?oc=5",
       "pubDate": "Mon, 05 Oct 2026 10:39:00 GMT",
-      "description": "Poll: Are you concerned about local measles cases? The U.S. is seeing its highest measles case count since 2019, with nearly 4,000 cases this year; locally, Trumbull County has 7 cases and Mercer County has 20. How concerned are you about the current m wfmj.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "📉 Temple’s retention woes | Morning Newsletter - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFZYSGpOZGlCRVUyU040NXJQN0QwMnhtUGxTeFphbmRSbE9QbFJmdXY2NXJKZjJkZ1UwSGpMOTE4Q3NrS1VLWnBTN2VDZnN6bUo0bS05a0RHc0ZDQWxjM3ZHTDRKV0hNZmlveEYweUFTMlNtQjJRMS0yTnd5WmpmTWlFUV9rNTRDRmY5OE9QWWFOMHpfVTh5VEZZb0FVeWd6dGpORlppZ1BMaXpPdnB3MHFORkU2eEpzdHktd0FvX2VSU3c?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 10:01:00 GMT",
-      "description": "📉 Temple’s retention woes | Morning Newsletter Inquirer.com",
+      "description": "Poll: Are you concerned about local measles cases? The U.S. is seeing its highest measles case count since 2019, with nearly 4,000 cases this year; locally, Trumbull County has 7 cases and Mercer County has 20. How concerned are you about the current m WFMJ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -273,15 +462,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles & Mumps: What Crawford County residents should know - Crawford County Now",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa0R4OVhCdzJUQk8wZkpMR1ZpbHpBV1cyWjNIaXFTc25NZkg0NDlRUWM5QmpOUTU4VnFON3A5QmdvOXpoU01VRjhJVFVPUWtyTFRGR0pTc2F4NTd0NDNaX3k5UUJqQlJtdEh2bG10ZTFWa19pM1JQNld6ZTdWTUxzVDEwWEE4VnFjSWF4Y2ZVQVRPYTNxX1poMg?oc=5",
-      "pubDate": "Sun, 04 Oct 2026 22:39:35 GMT",
-      "description": "Measles & Mumps: What Crawford County residents should know Crawford County Now",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles case confirmed in Findlay as Ohio cases rise - hometownstations.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSEFJdjFxNzgzN0FvNjIzcTRyeFBKcEllS1dXV2xyMU14RUhfU0ZpRWZRaHJtYWZUaTRLZDVQaE80aEJpTF95bDN2WWppeHJFZWtEcDBiTUUwbE40VG9LcXFzckN5MmJRTkEyY29fZmxfNWNxeHlEYzUwdHA2Vmg0cFh5YnJ1b0lHZFg4Y0E5UTlFbERQa1HSAaoBQVVfeXFMTVExelhOQ2R0b3EzenhCUHFFUUIzMnAtYmI2OWdOZ1JLSkFya1FiUl9iSlhudDYzWHhZeV9tWUk3TEJKVDZQUzNIUmlkb1preUczZm9XdzJmOXhtaTV5T3ZuVVRlRm51MEdKc1hScDM5RzdqMlE5Ukg2dndGXzNKb1NkM2tLbzdvaUtVVU1wQnU4Uzh5WHBER2Z0b1JJazRyT3hBNXdyWWlILUE?oc=5",
       "pubDate": "Sun, 04 Oct 2026 13:03:00 GMT",
@@ -300,10 +480,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Pennsylvania health officials brace themselves as measles outbreak expected to spread - The Guardian",
+      "title": "Pennsylvania health officials brace for expected spread of measles outbreak - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHZZbzctb1Fyc1Q3UnN1OTFpelZpLWVsc3dFZGk1eHc5ZjhUdlY4VlFtTEludmlLMzVYSVVKaWlaeHozSUtndFUzSWtUZ1VYYW9RZHdnUkJhZ0xCRHZGNUJoU2JqM242aEdwZHFROUxjamUxTy1uQkR2cUtmZ1BtOXFLNGpLWFJjWWpLU2Y0WGRtTUl6aTNvQVZ3?oc=5",
-      "pubDate": "Sun, 04 Oct 2026 10:02:00 GMT",
-      "description": "Pennsylvania health officials brace themselves as measles outbreak expected to spread The Guardian A 20-year-old Amish woman with leukemia got measles and died in Pa.’s largest outbreak in three decades Inquirer.com Western Pennsylvania experts say why measles is surging but mump",
+      "pubDate": "Sun, 04 Oct 2026 10:00:00 GMT",
+      "description": "Pennsylvania health officials brace for expected spread of measles outbreak The Guardian A 20-year-old Amish woman with leukemia got measles and died in Pa.’s largest outbreak in three decades Inquirer.com PA measles cases surpass 1,000. Has outbreak reached Pittsburgh? Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -363,10 +543,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases in 2026 are set to surpass last year's total. Here's why - abcnews.com",
+      "title": "Measles cases in 2026 are set to surpass last year's total. Here's why - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkZhYzdPU2RXVGxsUVIwTmFsd2VHbDRnNlZpZVJ4em53M0J6UTQzek5VYUd6eFg2WEZPeUhNeTl3Sl8wN1JkNjc0ZkIyN3pBeXdQWDVaZ2trYnd4d1owOE8tOTNQVGtPQ2JsLU5iRzB0a2dkeFRBTFZKSHI4dWlqbFNua3k2b0tMSndKZnE4X0p0Z9IBlwFBVV95cUxNMTdwcml0TEp4OXhMZXVHaG96MDBEVHJvQmZkaUZFc056MEladC1TbmJ2MUhSdThXWE1EVS1qYXc1dkRLNjZCa25QSFd6OVFpVUVLRGN2Wkk0UVBWU2NITzVsWGNfUjlPaExNUGtiUE1rUnpLc2NYeFVfb1VRV0d6S0hvbkxlWVFSU0R0SE0tN2JlTVI4Unk0?oc=5",
       "pubDate": "Sat, 03 Oct 2026 12:50:50 GMT",
-      "description": "Measles cases in 2026 are set to surpass last year's total. Here's why abcnews.com",
+      "description": "Measles cases in 2026 are set to surpass last year's total. Here's why ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -381,10 +561,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "10 new measles cases in Lewis County - WWNY",
+      "title": "10 new measles cases in Lewis County - wwnytv.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zclpROWc1VVZCQWt0QnlfZ09nblA4cExFOWdCd05PWUloNExnS1VDN29rQ3ZzcWZNczZUSjhpZ0pvWGFJNHJ4LXA3SmlXQzh6X2h5M0xlUmpLMFNIemdxSy1neGZXUVJIel9wQ0h3em1jRER4UnJv0gGLAUFVX3lxTFBLbTdobndjYnc5NzR4TGdGdnp4LWVmSGhyYUtiOXJQYkZTYm1pS25aOEdQaGpGN1BSNDRJNnloWkt6UzdjeHcwa3hPTll6dFZ5OWFWbmZuMlBhNVNBQVM5NVk3cjlpem9LVUlEc1B2cFFNTGRNckFGSklvU0M4VDBJbkE0MmdKN3p5anM?oc=5",
       "pubDate": "Sat, 03 Oct 2026 00:39:00 GMT",
-      "description": "10 new measles cases in Lewis County WWNY",
+      "description": "10 new measles cases in Lewis County wwnytv.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -408,37 +588,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "3 measles cases reported in southeastern Minnesota - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHloc3VrdkZyX2IzSVRhMGRPcTM1WWhiYUdZbGRSZkdRUlp0bEdVWmp5WXpWQVRJR0wtMkdHU2h3WXB6UktORWhUMWNtMTR1Sks0cjcyMUpXS0xndGFIVG1iMVJJYU5CUWE1VDdvMXM2OVY1WVRuMGJKS1pzazhpVVZlZlhfNm1RQ09UdHNKUFZENnc?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 20:59:52 GMT",
-      "description": "3 measles cases reported in southeastern Minnesota CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles milestones: US closes in on 4,000 cases as Pennsylvania nears 1,000 - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb1haSVY5Q0lHOUc4aVUwVWJQc3VWUUxPVlRKc3UxRl90cUVkWE5IT1J1R0ZLUmJnT2ZjczdMSDhJcFd4M2ZaMUdDMWxkQTlsZjhVZk5vbXJMMGdlVmZ1T01QRXNSM0VEdWF6ZHc1U0ljN2kxV0IzQlBYT2NQYlB5djl6Y2E1LUJyUlZSRWdBeFBDQzNkZlZFNWJMVlgyYVk?oc=5",
       "pubDate": "Fri, 02 Oct 2026 20:54:28 GMT",
       "description": "Measles milestones: US closes in on 4,000 cases as Pennsylvania nears 1,000 CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Deadly measles outbreak in Pa. nears 1,000 cases - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd2xOWUluTmktbWlsVW1lb09ZOFl2RDVlX0ZSRmZ4Q2RVTUdrenZyY2ZrbWNKZTBYckZpdEU1YVlDdWhGdS00WHJqbjVOd1lhQXZfbUhPUzZHbkRCcnk0VHhOeHZVbXRKNDI0YkotYnlxX2tzR21yZ0ViTkhDLWtTTFBDWEJYaGp4VWhDX0RhU3dCTmhMbEE?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 20:53:00 GMT",
-      "description": "Deadly measles outbreak in Pa. nears 1,000 cases PennLive.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "32 new measles cases in Lancaster County this week; state total nears 1,000 - LancasterOnline",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSlQzQ3FGeDF3cXZIbU92VVhqVzVyTDJuU1ctZk4xTDFrZFJaRGw3alNPdUhvN2dLZkgxMnY1dmprc3htRzdFejFQRmNObkk2VXN5Vlg1TWtKY2xkcnk5MVEwQTdCWEdtZGJ3OEh4QzRWVF9XRWVONTJLQjFOdWw3NGpXUVpicFlYMjh4TkpxUHJfRGxQcjFWYW1TSUpQWnlveUlZZzF0Ul81Wk1WOHByYWJfN242dFdqenZlaHZMYXlXbm9hdHN5UTluRXJIcFhkS196NmE1WnFkVmd4Z05mZFdvVy0yTVNvOUFXYWxTVGpzWUVueGhN?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 20:30:00 GMT",
-      "description": "32 new measles cases in Lancaster County this week; state total nears 1,000 LancasterOnline",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -462,37 +615,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Hancock Public Health confirms case of measles in Findlay - wtol.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa291dUpFT2dlZnRkQXhpYXFCV1R4M0lTejVuLWdHaWlVM1ppU3FmajZkcFlQQ0l5c2tUZnlzNlUzZ3R6WnFXc204RkJ1OWxGRW1JNDlVdHpIWm1TWVh1TXgtWkhvaTdCc0FrdlhuUVlKbGt4R2EyWjE5NjFkcVdoaXQ0TEl1RW5MbGlHMU90Mzlkd1BXbHZVMTFsYVJ4NTc3MkZISWlxaTNkOU9OLTNlZkVYdWJFbldCYXNNU3I3WTNHQVE5ZzdLd2FVWmZOU1A2cWoxaQ?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 18:25:00 GMT",
-      "description": "Hancock Public Health confirms case of measles in Findlay wtol.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Pennsylvania measles cases near 1,000 as outbreak spreads - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTVZaNHpvZTJ0V2kwNWZTbDNHYUgwZmdXV2lKdW9QMDFvN1lVRjhRU3FmZ1IzeU1od0FiVTNPSGo3aHh6NVhjQUVxczBtQ2w0TU54VjFsQjlnRFdOekx6MFB4VUxjSWRieGlIUjNoRTBjYm5ZRVFabnNKYUh4eHl2eGVVMEpHZkRWLWNqQ0lET25ZbVRQTmtvUEFSYURCV2UyM1hxa3FXZlRweUJnWUM2cUxGTEJlS2IzY0VDZVlpT3NRTkU?oc=5",
       "pubDate": "Fri, 02 Oct 2026 18:17:43 GMT",
       "description": "Pennsylvania measles cases near 1,000 as outbreak spreads Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "The Price of Forgetting Measles - Medscape",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLXdON1pMNlJJNFBHeW5TY1N6aGoyUmVyM1kyTjlhNHFPbllKckF0Vm8zX0ZWNlpiQ21oNEt5aHBfTTRXTWI4THJ2T25xSldORklBdFlaNktSWDZ3bmxYRzdneEtRYXN0dUloUXpzcmlqaS1xaVE0dDc2Y1ExcGdFU01LTkl6dw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 18:12:47 GMT",
-      "description": "The Price of Forgetting Measles Medscape",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles Update: October 2, 2026 - Contagion Live",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43M0JKWFNhWnVkc1hPYWFHdGtSMk1WYW16Q0JncFJRUDN0b1ZTTUFGZDgzRkxJSUY5bTdmUUQtS0xyYWgxRzFSNklkc0VKNUVZM2hLMlBhdUVEbmloTS1INDVLWlJpSU1GWDBtWk9Ed3VYQQ?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 17:15:06 GMT",
-      "description": "Measles Update: October 2, 2026 Contagion Live",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -507,28 +633,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Pennsylvania just hit a measles milestone that has health officials deeply concerned - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmxQYmxEbjdjNXhtRHNJcGQ1S0p1Uk4tQjF4MnZZX2pyaHdvbDZpMjJmbC1peHhySUtrMXZOWDJrazNtdjVVeTJqeDlRbWhrUG5Jek41OGg2NEw1Q2JYQkVRYXdSMnl3ajRid1h5VXZYdlhXbWpQWm85ZWk2cURwazhyOGt4ZnRiSXBCUmN5SFp3MF8zdHdKOHlnMnFDc2lyR2dGSHVVeGlraHVtQ3otRVNPeVlEblZpV0l2YnR6TXBvMUhrU2Nv0gHbAUFVX3lxTFBwU0tLMTFnTFdJejVMdU9MRUVXaHFSeTUzX1FrNzZ4M2hySkZoUEVxQmFZYWlWNWpPVlNZWjhLYWZDQXZUclgzaklmZDlxa0Q3cDcyb2gtQUFlUElZUE9tOENjMlQ5amxsZ0plZ1paQkxrQzREa090VGxzTGdHNXhveG1nVVVIUDBZYXpmSzk5TWJQbGtHeTN2cW95T2xHT2JxaWFxWGNYVkpxeFV6QnFBNm9CRU1yalA5UXNpb3p2RTRqcUgzbVZvLVVVd182R2tFM0Y0aF9OVVRqaw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 15:26:00 GMT",
-      "description": "Pennsylvania just hit a measles milestone that has health officials deeply concerned Cleveland.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Clinical Considerations for Measles: Presentation, Treatment, and Hospitalization - Contagion Live",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZGNaOF9hOTdCamF0T0Q4eFhHSFl3NEVILVgzZVgzWEJJTWgxVTJnVGhYRFdpTmtrRXR3bDNjUldUVlhldlV3eXBPVFM0N3JaMnh5SEFGSHJweGEta2RBbXZnUHdmMHZhaVVHbzlCaHNJZXRVdllXTl9ROGFtTmVtRzYwZk5MWTk3VnBCOVFDWUljeHh5M0U1R1V0dGZRNU8xbGdObEZzc0pZWUM4Yjc1aVR3Yw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 14:32:21 GMT",
-      "description": "Clinical Considerations for Measles: Presentation, Treatment, and Hospitalization Contagion Live",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Ohio measles cases spread to 4 more counties in latest ODH update - Akron Beacon Journal",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcnZkQWxnUkkyVHE2WlVUR3RSQTVLdExuZ1BueDdsZXU5Njkyamh5S0RRTnAtal9odmZGejAxSk1sX2tzTkdfMGc3Y2dkdU41R1dBLUVfaEpuRmY1V1JkQlZocDY0aWVxZ3hzNnNNU2dMMUVNREhKN2RWX2hOYUVieV9JM1pXWjBzVDczTVdEdTRNcmYyOGs1Yk9fUF92aUV6NHNQdmRKQTNtVmtrU0xCZlBweWlMTDRkUGw4Qi01ajZJNUl6blBabnVlZnYyd0k?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 14:21:00 GMT",
-      "description": "Ohio measles cases spread to 4 more counties in latest ODH update Akron Beacon Journal",
+      "title": "Three cases of measles confirmed in Fillmore County - KTTC | Rochester, MN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONFU2RjI4UDFJM1U3S2lMYTFySk9kUlBOQWxBOVFOMFVjb014SlNTUHIta3BNamE5VlIxczNQalJyN2JUeXhlN2lNYS1RU1BMd0NaQzNYMkVkUHozejRHdmRONXRxaDZ0VU4wSWNCYU5DUjBvTVR1NERJSDY2WG5IZGFwYU5odk90QUNB0gGfAUFVX3lxTFAySFd0b18tdW1GMUpoRGNvTmhUMVhMbHFFV3JsNlFyVWxwbzhWSDBINTlsdy1mRzRQRXZySURpbDZvQkk2blZIaC13VmR3R0kwczRVWi16VG1RWXYxS1VTM21vZGJuSG5uZ3p2N2RGWWRzMGRneUZTOUo2NGtLRnJwRktUTGROVS1tSGl6dkF6R28xbGJkTFVSTE52SDNIRQ?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 15:51:00 GMT",
+      "description": "Three cases of measles confirmed in Fillmore County KTTC | Rochester, MN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -538,24 +646,6 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mRGxNTlVzUnozNUoxRE1idjg1UjhMUkFtUEQtQ2FBTTNZcmRham9TVDNUQlJkMlpRcUJSYjhtRUNVQThVeW93MEZiRmRCUFdsVVhkcEg2RFFWQnlDZDdB?oc=5",
       "pubDate": "Fri, 02 Oct 2026 12:50:17 GMT",
       "description": "Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6−23 months: a pragmatic cluster-randomized trial Nature",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "How big is Pennsylvania’s measles outbreak? - statnews.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmg0TlA3b2RXdVNsZ3NMaEJhNklONTNvOFJvUVBCdEdhUmZmOHFkMWVfZWpYY2lhVkFDdU1BTWFHcjlHbWdMSVdnMHExVEoycEFHbUh2VkpINWRFdVd6Z3dWRnFzWWdXVUs2UVl4cHZSSWo1Rno1YzlxVGFESzdQaUxwdFROckZZMmgzQTNsT3dLdm8?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 11:58:07 GMT",
-      "description": "How big is Pennsylvania’s measles outbreak? statnews.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Delaware reaches 23 measles cases, still localized to Kent County - Spotlight Delaware",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUIwUmZvdG56Vm1mQTdRQzFmMFRHQ2lqeGNhOEl6V1V3cllSazhZWl9XY1hpdUFJanBYa2ptTHZpY3JRN1otQng0V0FMR1VDX3VtS0hjVTgxZmliMldvMWJJcXNtNkRfakhqUjlULUE3YmNfdEJxUXpFRHR0VlRSOGR4NU9waDNIb1hES3NINXE4RklxV0ZhTWNzYUdBYVNVb3dkVnM0TVU3QQ?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 10:00:00 GMT",
-      "description": "Delaware reaches 23 measles cases, still localized to Kent County Spotlight Delaware",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -579,87 +669,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Pennsylvania health workers bring vaccines to communities amid measles outbreak - NBC10 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOUhGOENqOXFlQlVlYTExMGxfaGJOakQxdHh4VmkyLVJzcUVHN0NPNEk0TlRGT0x5WkczMVZ6b3k1TmRYUE9va1ZaWmgyT0I2SzRlUGJKLV8wNjV3Q2Q1bFRmTWFWUFhwaXBrV1E3SE9FU3VwN3BieGJNVE1ldTNFVURVZUUzYUV0eTZBc0U5SWwxelpoMTR2eTE3N0xMREQyenFDWHlPeV90c0JNYTAwSkwzRDdOdXdQRS1tT2R0ZkdjelpiMlVGVV8tRjLSAdQBQVVfeXFMTUpNRVQ1M3NiNzlISnlvUS0zOVdzZUtya283S0tSYmFyYmdXMHVudl80aFcxSkxad01ZN1FRWlhMdXNCR0NGQmdBOW9YZURKT19RclRKUjZZZnpkbk56Rk9LNFR6ekpremkxLWRkb25rZVRnRVBieUtvVC03T0tYRU4tS2lfRkRuXzhXUXQ1d0gwSzRHNUp1ZHloYTY2UUo1dGJVSFhtd0Vsc01jaTVpbkNZWXp4VHlyU1VKMURSU0k2MFhFeDRsZ0JacWs1SHQ4NXB3cGc?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 19:29:17 GMT",
-      "description": "Pennsylvania health workers bring vaccines to communities amid measles outbreak NBC10 Philadelphia",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Chautauqua County Health Department Alerts Community of Potential Measles Exposures - Chautauqua County, NY (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX1l6UDdtMW1pZ3NUSXVJYjkwQmR5YVowYWlFb3FZcGtYWjI2ekpTUGhGTEkteFp6VGFMWXVMS1pQOHMwN29qQWtRaDVuZmpjMGc4eXc3U2g2UlYzTjc3ZHRVNmdkV0xYT2gwOFJKN0tNZk84bFJHaUNvOGp3QWd4WDJDMTRyTnRKLVJ2MlI1eVQwalFJdEJCMDVtbEt2TmN0MVAtcTVubDBQT21ZV1YxN1JyaHl2T2NjS2Ztc3N3Ym5YWi02YTU0TDh3?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 18:45:02 GMT",
-      "description": "Chautauqua County Health Department Alerts Community of Potential Measles Exposures Chautauqua County, NY (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Georgia measles cases have now doubled 2025's total - WABE",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEFfU1AxYU1sYm1HLXhDMGs1b3N5TUJsTm51Ql9GVTRmUFhPVXV3VDQ2R0E1N2N4T05jNkRCcmdZcm13S0p4YUtHMnhxeHcwUUUzMWZHX3ppRjMxMDhWSjRrRnhGeFVROWhfa3R5U3p6OGRLaWxDTmJ3QTAwdGFMNGliZFIxekU3WGFhbnAyWUlHOHdzTy1oVmR5WGI?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 17:58:51 GMT",
-      "description": "Georgia measles cases have now doubled 2025's total WABE",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania Confirms Fifth Measles Death as CDC Count Lags - Infectious Disease Special Edition",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVVJycV8xdHlHQ2xIdGVKMk0xZVFsTUxoSUQ2S1M0VVJJcW1rRkFNeGJ4RDdoZ3lrcGtjdWhSYjF4UWxHSG40WjkyM0t0VkdmTUVRVXhEelFqQVVkS0tDeFlqN1h2bWI1SjZlRkN4ZUJBTTlMZU5uX19wbHBnZENSQzB4aGd2QU9UUGNBczVYOFZDbzlhcHFiZktabWc1OVVFRWxXVkpxX28tSTFRV0FCdFZPWTNVWjFYM2c?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 16:18:04 GMT",
-      "description": "Pennsylvania Confirms Fifth Measles Death as CDC Count Lags Infectious Disease Special Edition",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Fifth Measles Death Reported As US Cases Reach New 35-Year High - usnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2tvX0lPekU1RVMwZGY0TDNJc20zYzlnVnZrc0hzWkwxSS1NZEgycFJYTG54Q2FtdlNWZUtPRUg5TFBqWk5Vc1ZQb2ljdzVWVzB6UUJzSExxb2I3X1YzbXJGdkczV3Q0eF9VRUpybzA1cDk3T3kwWlV4YXhod3JPeHdkZ0phWVdlNDlkeWh4SDdRcDBTeG1pMkJZVVNQOHoxbWVUSjFiZ2tZVjRNeVVaUTNHei1za3B6QzVwR2hiMXU?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 15:16:00 GMT",
-      "description": "Fifth Measles Death Reported As US Cases Reach New 35-Year High usnews.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "2 more northeast Indiana counties catch measles case - WANE 15",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ3E3M0VWMEVXbkstTk9EOTRTWHZTOUtrMHdxVWJSWHc4VVdpZzVZSXdIVFRjVDVmemJaMHZVdFRFcnZTaGpoSWlxVDRlTmNuUHJNeklLNUFPYXcteEo2YmFaYmV5eWJNaWRHaUw0akFiQkh6YWJqVlJiWUhGRkVfOFhfU2k1RVZXYVV3SDZGNHDSAZYBQVVfeXFMUHdVQjk2LXBGczh5T1c0WXd1dkJjYTcwZVhaTEpqbFFuSkEyUjBMN3NyRTNjNzRYZnh6dkZQUEEya29qTjJvVzd4T2xYa0xOM0lRNk5tN29wVzF0YUY4Vk9sNno5VktPakQzVmlEU3lZcE5WY0FwYkdZZ21yS1FzZVdZQ0o4N1c0bGJzYnhMSlFuazlYaHB3?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 14:29:29 GMT",
-      "description": "2 more northeast Indiana counties catch measles case WANE 15",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania confirms fifth measles-associated death as US outbreak grows - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcnUzXzBnMlNIeF9ialZjT2ItZkh2ODRFUDZEZHhqd2JlZkMzcGUyTlRaOU5mSFdYclVmcnBCX25NN0dzZ3lrSk9OTktsMnVUMHFXZ3djSEM0RWNLNkx5U3RPSVBONnp2WTVWMklIS0NWM2poTXRZOVhzNm56bGxZSlVmTFRuVjVUUDB5ai1naERwZXRHbWd6UG9PME1mRmdrWGpwTk1RUmFRNXRXVjNvbzZ4RXPSAboBQVVfeXFMTVVxZnRXNHoxZHdaS29jdnNTN2JuUGhlTHI4TmdkZURXVk9wN2owdHlKUHkwa2IwSkJvTzhtRHI2dkJma1kzQWlRcTBDY0RjYzB3eF9LWFMzajFETWE1dHNIOEVRYXR4Z3RZaXpMRGtMc2Y1enBodUZUTF84NnpMa3ViaExoZ3k5NFBneUYxdk1uXzNKOVFzSXlmY3FZQnhUTlc4NkUwVDdqMjA4VzhtbWIzUHRQbW1QTkVB?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 23:39:41 GMT",
-      "description": "Pennsylvania confirms fifth measles-associated death as US outbreak grows Al Jazeera",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania reports fifth measles-associated death as outbreak grows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRHVhb3lTV2g0aUFTaVhia0Fla2tENjVTOFo1V0U2dkJrZFYtQzlfaWZYRmJVUG54WndoRlpzdE1TRTgxX1FiRUNQeWw3OXh0Xzd6Z1dTTGdPbmt1RWxVRVdKQVFadVdZX3l0bnhVak1yZHBFWjI0VzFQRUE1R3BWQzNNWXdUSEhHZER1WTNkQ0hsYnZCdjRvSXZYc0YwOXRTWWxPam8wRnRZUGlubXVKZ3lwa2VTOWxRM0lWSnU0TFlwejVqX0NzTl9n?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 22:14:16 GMT",
-      "description": "Pennsylvania reports fifth measles-associated death as outbreak grows Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXFfelVMMjZpZUhLbmUxN1VSLUlCN1IxaVVEa2pEMGQ3TVdjUDlDMGtlcGhSem9obFMwaDkzeHZrS2Y5ZnlmUmsyeXFwcmptTjluUjNVbjJqUkhLTXBRRUpOWmlMZXB3Q1ItaDZ5alFUQUpaazZfaFc2eDd6c29WNHZjMnRoY2MzaWhicWJJVTlULW5xc3BvUzU3ZlZ1bUpLaG9LbnZRaG5zdldqVS1uVk1IclJvdw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 21:37:54 GMT",
-      "description": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths Ars Technica",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Pennsylvania reports fifth measles-related death of the year amid outbreak - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdnN3a1lRWTlwRTNyQ3NGR3NaVHZFXzVoLTRnZnU1MlZ0RlhRa2xRVXk4SndiWWxfRHllZEJBbmZqTzVKeWNkOTNTM3ZEUVl4NFZrOTZmYmkzSVhDbFMxUFhpN1M5VFJHQWZsY3U2RkNOX0pTeGlidWg4azh3U21qSmQzOFp5amxybkF1ekU5T0Ewc1pvcWpxSW1GM1I?oc=5",
       "pubDate": "Wed, 30 Sep 2026 20:55:00 GMT",
@@ -669,100 +678,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "5th measles-related death reported in Pennsylvania - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWjhrMXRZbFhVWG82SjVYTVB3RFcxdWdRVmZuTUlHaC15NjFPV0VGVFlpMEdsOVRBb2ZLX0tUZ2hVWW5mLTZ6TDBhLUpDeXIxamVSOGkzU1R5RFEySkJKS2VDTFo2aUJXNzh6b0NUc0FWZnJscnh1MFVtWHo5UzdCTkNlQkhPUdIBiwFBVV95cUxPOVFnSlBJWmdIYzRQTHRqcklTa0tIUXVSZjVGVGlrVlpoMjRVMThQbDNRT2l3eWhDR291M19qSWk3c08xaW95V2pqVF9DQ0t5OFhzSHlLR3RMMmtzWkk2RmFxUEZsT3hqemVsUXZNVW5iNXNKVW5MWEtqSUhUNjRBNG9PeklVUkkzbXBN?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 20:53:13 GMT",
-      "description": "5th measles-related death reported in Pennsylvania 6abc Philadelphia",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania reports 5th measles-related death in the state - nbcnews.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTc0eTFLaFc0VjAzdWxZTVV3YXZkRUx1bFRhRHI3akhkUVh2cnhhQlJod3Y5QU1yenhVOVhpY1VWLWItcXRUVHJ0RFlKaVhCeVdXemVoYW9iV3NnS1ZLRUk1MEtXZlZiWnExaVhJTFBpMXh4S2VhWk9LOTVNV1Z6ZFdIdVV1R1JDOThkOXM5MGZ4S2lVNWdzOVY4eTJqRWh4Tjd0dEd3dTNIQlow?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 20:34:20 GMT",
-      "description": "Pennsylvania reports 5th measles-related death in the state nbcnews.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania tallies a fifth death related to measles as outbreak approaches a thousand cases - CNN",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN2RiN3pKbmtCa2dWN1J6Z2pMci1fUWhneGpYTXljUmtPUEdWRmJPc2ozbC1OcndNV19DZXZSOHllNTVxbGR5RE9rVE1VZjJxWmsxenJIVnpJRjZub0lzUGwxTVRUSzRNdjAzdjlZa2l6VU02OFV2Si1sOEkta1VtRDVObFNXTjRKWWRxVEhsYUQtQQ?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 20:29:53 GMT",
-      "description": "Pennsylvania tallies a fifth death related to measles as outbreak approaches a thousand cases CNN",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Lancaster County reports Pennsylvania’s 5th measles-related death - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNS0tY1Y5b21qeUJ5S3lKNVN6Rmk2XzhGejV0Mk05U3NpLXBlNEI4Z2pBMHlZVUF0NjZHNUwxakFUX2d4MGVYOEZDNHlOUUN2VXZ6SVdPUVYxMmxwZmJRZV9nNmllSzFzbWdrbGx6N29lWUtqcGkwT1FzZEYtQTBXVEM0RTdIRzNoWkRoWmRJR3lKMVJwOG40Sm5WbGRXMXJkMEE?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 20:04:00 GMT",
-      "description": "Lancaster County reports Pennsylvania’s 5th measles-related death CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles disaster in Florida might not be far off, analysis finds - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmQtYnhtZE5rendBM0dobmVGWjg1RmcxRkdqSWNSenltVmE2UXYyOEVFTjZYaU9pY18weHhwV1Brc1VmcEtqN3E0VkF1WkcxbTJ5VWRiMmR6M0ZPZDNfN2VKWUdReDBXeFNSWG93WElPd01zTTFhMlFNN1Yyd0lrNEJER3U4Ymx3VnJZM1c3cEhjM0tCUmRveGl2ZHJGZw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 19:46:18 GMT",
-      "description": "Measles disaster in Florida might not be far off, analysis finds CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "5th measles-associated death reported in Pennsylvania, health officials say - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFFsMmJ6ZjY4NDU3Y2wzTk91RFI4VU5JaVE4QVRYYXprdTdWTkstc1VyX2hvcHNVV29pYmk1T09iTkc4czNVVTExaFhyc29DMHBmS2tzTy1XdGhaaHBnNDFmQWpyN1dRSjV5TlBSYjl0ZHI5dTMxNTJDV1NsbUxabzVvLTFuUQ?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 19:17:00 GMT",
-      "description": "5th measles-associated death reported in Pennsylvania, health officials say CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Health Department says zoo visitors possibly exposed to measles - WANE 15",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcnR5a2VfYWZmb0Rjbm4za19WQzFVU2xFaXF2U01BUEFCZk8wZ3ZNeERacjNRWXZCRjdTbHA5SXNfdnlkd3cybUd2SWxjWk1ZelB1OXRNS09nUG9lRGxrQ3N0SWdlNlR3NWV4ZmRBUFp5OU4tendzcEowM0dtZmVqcTU0Z1pmZ0IwREc1cHlfa1hlcnRoWlBRdDFFQndhd9IBowFBVV95cUxOSEFCQklsam9Ed2lXaVV5QzM3d3FGendaaW1LaGw3MHR2aTM5aUlRYmVYaFZOSHZ3b2l0WHE3Um1iUndnQ1RQclR4NDdfTVEzdEtxZW9oaDduUGNaeWlTVXVVREN4MEtnOGdTZDUzSWJwTHZzelhXSExGUmdKcGR6U3U2QmpjRTVValQ2YUUwY0FFV2dXdEpLbXFQRVRvOUlJTGl3?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 17:58:50 GMT",
-      "description": "Health Department says zoo visitors possibly exposed to measles WANE 15",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Children Are Back in School. Measles Is, Too - time.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONTJpeDlyRF9idGpMaGxRdEJJR1hGaFlZTHpfRWhSdWl0WVNFTDhOR0hZRk1wWDhMb1Z3UE5FZnBUT3Uwb1g5T3NnVjRycXQzU1JmX2lhSGdFNm50dVc2TDB2VkFzTkxxcFl0SlRsNXBBQkRmVkJWeTl6NF9MelBrT2RwalJwUVNDRTlKRE9oM1haTVRZX09WRGctUDVSZw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 13:50:07 GMT",
-      "description": "Children Are Back in School. Measles Is, Too time.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Travel plans? Here's what to know as measles exposures reach trains and games - NPR",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeExXWWhYZXdWQ2laSjNSMEdrUi03NmFZajkzcG9lVzlUcExzcGFqZlFjRjJpanZ2MC16R3dwWTZvQzZBWVlHREJudEdBdUFlbVRPNlhXXzNxczYzV0xqQ0FtZDFEZFJNSlFUNUtQU21JVm9vM1JnQWhjOGZVM1RWZE02ZzZlTk1YYTAwdW52UUFzTFdMTENHRmJ3bw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 11:00:00 GMT",
-      "description": "Travel plans? Here's what to know as measles exposures reach trains and games NPR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Most Americans confused about RFK Jr’s stance on measles vaccine as views dim of his ability to rein in outbreaks - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZU05RkVMd05SajBCNGEyT0pFbGRLR0FfaVJVNW9aemxxT0VqS2pMUEw3ZWRqTUU3NmpHZ1dncThvMGc3ZkQ2SmZOWll2em8wRmt0RjJKcU50VktSTWhNcGZYYkE3UFFyOGpodUxTa0ZQSFpRd1RuY2FFWFJqRlBUV0d5WmxfQXFkUHFHbUxvbHpqeUJ6MjVMdXlYN2lHb2tmM3dYemNONDhhQVhrQW1BWHVKUGpFTXlqYkhPbDd3?oc=5",
       "pubDate": "Tue, 29 Sep 2026 20:03:17 GMT",
       "description": "Most Americans confused about RFK Jr’s stance on measles vaccine as views dim of his ability to rein in outbreaks CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania surpasses 900 measles cases with 13 new confirmed infections: Officials - abcnews.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzlvdkY1WS12MEJoZUx3MVA2ZXlVbmRGWVd3MUp6dVNUV0l6MTAyTmNDRVhIR0FfUzFLa0ZFS0RFRTZEWjVXTGV6LUFzVnJDeGxaNmlUUklLS1V4Ym5lNFR5MXlQSEc4d2M4amxZRkJBREdINDdxR3h2aHRyS3k4dkZHUDVyWlNUVWJGaWxRRUpiMmhLMlVyUjQ3QnFRdDI3WkR1U3FR0gGrAUFVX3lxTE9rZEtzTTdpOVkwMjRMYzI0V1VydHFJWHg3Z3dXT1BCSWVBYnpUaVJCa2FieEZ0SDNfR3lFYXp2eTgtRFNLY1U5WllNQVlfdkQ5S1pGUUlFUWl4RXg5MzFXeFRDOWdnOHdDSkVyYnBnQzA5NGZnZEY1NlhSVTVTNjdCa2JFMDBJOTNRZUxMRjNFYTkyWDNDUU04TzN4UE4xdmdKV3Y0LU5sTHR0cw?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 18:39:47 GMT",
-      "description": "Pennsylvania surpasses 900 measles cases with 13 new confirmed infections: Officials abcnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
