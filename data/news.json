@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-10-07T17:25:25.768Z",
-  "itemCount": 96,
+  "updatedAt": "2026-10-07T18:30:29.345Z",
+  "itemCount": 97,
   "items": [
+    {
+      "title": "Measles update for Wisconsin - Civic Media",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwbVFzN0FQYkJxYXh4QmZpZ09lVnAzcnRRU2c0emlrNVAtNjdKRWNFVkh2bnE4Q2xxSjZnMmRsUElfbkx0eVNLbWFvby01MzR3QVVpT1FsZ1BfOW81NlJPNklXeVRjdEJ2MmVQZmVKdEltUUtn?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 18:25:00 GMT",
+      "description": "Measles update for Wisconsin Civic Media",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "3 children hospitalized with measles at Golisano in Rochester - Democrat and Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTUZSVzJjR0NaWU5HMVpNdndpN3M1ZnltbU9oeGNlcHJoS2ZUODlfbVpHRjNGSDNBbzQ5QTFmQnpyMksxaDJjYnhDY1M2cVdUQngwcDFjSEo5bHVWZ3lsX2s5M0J6Tm9MRlctTy1IU1N5UnJSVnZaVXY5YUhBTW1QcGx3OUkxSHMzZ2xyek9QTS1zYlZJR0o5amhwV0kzbElwNFBNejg4bXg1X3UzX3F3djh6amdZM0tRcjZraXlZSHd3Y2ZNVjZEUEZOMmcxQQ?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 18:20:00 GMT",
+      "description": "3 children hospitalized with measles at Golisano in Rochester Democrat and Chronicle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Press Release: Schrier, Bennet Seek CDC Answers on Childhood Vaccines and Measles Reporting - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNckJ4NWNxUW9IMS1Zd21nc1BKRGJpYksxM1dXeC1LN1lHcTJlaHNYR2VXbUQ5cVA0aklkODF2dEVOcGlrZ0ZGRzd4c3lwdk9tMTJGVE1jS0xwR0hjMUhlTWEzZEtKWGdwR1ZaM0xHaHVrbEZHbTBWWjlxMmdBcjJKZVpWS2wtZFZYOEhNaWJFSDQ2NEoyMTdRU2pQUzlKNzVOZUFhMG56SDFISzJPUzJUUjVLXzlRV0lNX1R0Y0J3NW5BUmx2RFNN?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 18:20:00 GMT",
+      "description": "Press Release: Schrier, Bennet Seek CDC Answers on Childhood Vaccines and Measles Reporting Quiver Quantitative",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Outbreak in Pennsylvania Is Now the Biggest in U.S. in 35 Years - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2F6U28tR1JiWktqUTZBRnpGRkJKdEt6cEpxMHJwZG9acDF3bkNkeThlUVBINzZEYm9Bbm1iUGpiUXVhLXU5OUotNVFWVUN0Y3IxNnpHUnh5bGlUazlqeEtKNXI5Y19IenhDTHFLYTBfSHZVbWFmQ1NMYTNmSlVERVJ5VHZtY2xaRmRyR0RXZ3VSb1hrdndNMGtFX1hEVERTZ2pYT204UFVTd00?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 17:50:03 GMT",
+      "description": "Measles Outbreak in Pennsylvania Is Now the Biggest in U.S. in 35 Years WSJ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Everything We Know About The New York Measles Outbreak - NewsOne",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2x4VmVFY2tPQTBGeGs2aTNUVWUydkdvc2RFcmFmWmp2bnUwSUprMUFGdF8wdjVQOWpuZDcwN1lQNUhNZjFYbVJ6eTJmaUxIZFZjMW5DUXB1bG56N2tLeWxCd0RUTncwc29mYUswd1d4QmZFMjFnMFpUMzhva3luTDhxcDZrbmp5UnlV?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 17:32:01 GMT",
+      "description": "Everything We Know About The New York Measles Outbreak NewsOne",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "3 Golisano patients have measles; health officials push vaccines – RochesterFirst - News 8 WROC",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNWNyRGpMZWdQdWtjTnMySzhQSG5CQkprQnhXUmItZzNvazRDN2tWX1VTTWREUkFaTzRwMG52QXN4MUFyeWxlUEZzUFNIVlFNZ29jeENjaVBidjFJZV9MTzdHWnljNVFDdkpKRjN3R2dMeVpMREtDcWROUkpfN0dDaWZYTmhwTzhTbHN5cmZydHdtMHRCaXZGQmtOS0x3YXVOT2N1UjVCa1hJeF9KTDNF?oc=5",
@@ -57,10 +102,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Heartland Health: What to know about measles - KFVS12",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzUyM0ZCSmR3eDNkaVBfVHNvQUJ0SkdYVDFpakRHNU1XamlhcXIwQTRZT0hJay1zcGtjUEpsakZtSjNGQU1HNzhMZFdjdlJTNG5oR1U1UTNTVk5qUlFGcjQxQ2NwbVVUaFpXczV3Sm5oSUFJdG96NG5vMnVjbnlJUzB1ZThvYm1P?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 16:09:26 GMT",
-      "description": "Heartland Health: What to know about measles KFVS12",
+      "title": "Highly contagious: Measles cases near 4K in US as outbreaks continue - MassLive.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaEZFQ1hNdnVJc2szQklUcTN0VWtmWG5WTURQb3pDalBFcXpDS0pNRDhGdlZzeEhCUjM0WUxoVUk1c0FqWlNUMjctWi1LUlMwN0VnM2xvZXNNNzBZRVpRb2xyU3JEUFgyRU5hOXB3Y0lkNzd5Y3AyS2hEbHdkRmhfZkpfUDd3QV9VcDVRWk9HVVRSdzF4RVQ3cEtWeGlOekxZUFdZcEtGeHBZMHluOWZN0gHDAUFVX3lxTE9meVVqU0ZZTWY5dTF1T21pN2ZZaThJalFNRTJWYXhMR19RVlhmWmtWYW5vb3poUE1pTkV3Q2tQSGhBTkoyUE5ISXBGc1czTUxaSnVodFNqbGhCemhsWXFlUFNocFE3bG1kVUQ0M2pIWFJmcnlkc1YwWXAwblBrRmRLQmlGVzZnMnNOZ0hMUERhdlppTjVHRkNDdjRlMTBxS3o0aEhEY3RCUmNuRHo0MG1EY1ZENTg3bi1CQndTcVdqNjF6VQ?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 15:53:00 GMT",
+      "description": "Highly contagious: Measles cases near 4K in US as outbreaks continue MassLive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -75,10 +120,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Highly contagious: Measles cases near 4K in US as outbreaks continue - MassLive.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaEZFQ1hNdnVJc2szQklUcTN0VWtmWG5WTURQb3pDalBFcXpDS0pNRDhGdlZzeEhCUjM0WUxoVUk1c0FqWlNUMjctWi1LUlMwN0VnM2xvZXNNNzBZRVpRb2xyU3JEUFgyRU5hOXB3Y0lkNzd5Y3AyS2hEbHdkRmhfZkpfUDd3QV9VcDVRWk9HVVRSdzF4RVQ3cEtWeGlOekxZUFdZcEtGeHBZMHluOWZN0gHDAUFVX3lxTE9meVVqU0ZZTWY5dTF1T21pN2ZZaThJalFNRTJWYXhMR19RVlhmWmtWYW5vb3poUE1pTkV3Q2tQSGhBTkoyUE5ISXBGc1czTUxaSnVodFNqbGhCemhsWXFlUFNocFE3bG1kVUQ0M2pIWFJmcnlkc1YwWXAwblBrRmRLQmlGVzZnMnNOZ0hMUERhdlppTjVHRkNDdjRlMTBxS3o0aEhEY3RCUmNuRHo0MG1EY1ZENTg3bi1CQndTcVdqNjF6VQ?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 15:53:00 GMT",
-      "description": "Highly contagious: Measles cases near 4K in US as outbreaks continue MassLive.com",
+      "title": "Pennsylvania’s measles outbreak shows no sign of slowing - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVUyNml3UC1yajI2TWlwb29XQlJyejdXR09ZTWxsMkZOaGFnUTJCS2twRTh2TGRTMWdMWXJicFh4dWJ2UmNodFE5LWdaVHYwSV9vNUtaMXlIZmVOcUdiUkRHem1EQ3AxU3NEQ1hZMkZQM1JmQ1FLT2VSLWhjamlvX2pIN1kxM2xDQXdDNHVJRjVYTnRYcDhFX21xd3RMaTB5dDdyOWRFOTRwQQ?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 15:47:39 GMT",
+      "description": "Pennsylvania’s measles outbreak shows no sign of slowing NBC News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -138,10 +183,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "New York Declares Statewide Emergency Around Measles - Newser",
+      "title": "Measles in NYS Just Became an Official 'Disaster' - Newser",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObUJqRDdHYzR5VUktRDBLSnFEWm9NcTYxcm5RdzUySkJUcGZVTE9tOXFlS0hqRFZtb2h5TWtqcHJDbUEwWDh2U3c5eVNOSlRTVlI1M1BQVnlyc2ZNbVJSU25FUk51MmMweFgwTk1STElmeEhJZHdqM2hMR3d5c3J0czNxcEhENHZ3Um5ERzZZc2JVekY3N1BfMw?oc=5",
       "pubDate": "Wed, 07 Oct 2026 14:10:00 GMT",
-      "description": "New York Declares Statewide Emergency Around Measles Newser",
+      "description": "Measles in NYS Just Became an Official 'Disaster' Newser",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -192,15 +237,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "South Carolina Reports 670 Measles Cases This Year - Fort Mill Sun",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLUdJSlZWcF9zNmFKczdfcV9zNXBiWHJVOEEwTVdjR2JIaEhST3ZLQzRfeHMwY0ZTdkZnQXJEUkV4X1dCVDhYbjRiTW9QVWlXZ25NaVd0d2w0U0djcnFETVJyNndLNktSMDlmQWRCdjd1QnEwTk9FelVnaXc5S3pBc2YzeWtTQ0w2THZRWnRkMDlnWTgw?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 13:19:40 GMT",
-      "description": "South Carolina Reports 670 Measles Cases This Year Fort Mill Sun",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "90 measles cases reported across KY in summer outbreak - The Courier-Journal",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWGozSFBKOHBtVFlVa2YyQXRqN09mRUZ5aElFQ0tOMnYtV1pXMVlTTmNLNS0wbW9aM2VPVTgyb2pDMnJWRE83STRheGRRSWNmRkVaV2s1dXdaVzJkQ2JJYUZzWGI0c2FwM1pQR2taNkFKOTBtdDM5TFJ4WFVWUy1xTUNVNW5HVEJtdkJHdXFwV2tnUGxhLVFsNEV4NXNqZVNScEo4ek5uVnBZbUgyQ0RkZm93Mk42ckdKSWJtaUs4QjBCNC1RempuXzVmM1dCVUdwNFdSVXdRWWY4bTh2MDQ5aA?oc=5",
       "pubDate": "Wed, 07 Oct 2026 12:54:00 GMT",
@@ -228,19 +264,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "School vaccination rates reveal hidden measles outbreak risks. But access depends on where you live. - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaHJ0dmNPelhGNi1lNExwMFNSbDBvaG9pMnR4NDA0NkpZVkk1VHk4YTVUbnByeDY3djhuc3paWlE2QUVJdWdzS2hxT0pCRThRS1cyNlg3V3FYUE9ISEcyUUtXLW1jWXViTFk4aktKekpCR0lsN2pIUUV6d0lBZXJ3WlRJeVhCRXRXY1U4TXBNYUZjRlBzdGt5RTFwM0VObjJSejN3Q3lmVUttR3dYYUZsNTRiQXhHQzRqY0tRY3VsNjZzYlltUHZkREpJR3JESlcyRUFObw?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 11:41:50 GMT",
-      "description": "School vaccination rates reveal hidden measles outbreak risks. But access depends on where you live. The Mercury News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "How do I know if I have been exposed to measles? Pittsburgh-area medical experts explain the symptoms - CBS News",
+      "title": "How do I know if I have been exposed to measles? Pittsburgh-area medical experts explain the symptoms. - CBS News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFFFQmxGNEZvY2lTUzBENlZ2aHFyQkdrdXN4dFQ4SndFUzZkczNBcUJmOEJ5RksxZW9DdENIWWpaLWpxT29iT3c0NV9TaHk4SWJZYkktN2tXNEJ4LUlnb2Y1QkVxWWt1Q2c2NEprVnhOVjVFa0tuRVY2OXZxNXRjbzJua082TGhCcHRMbmhNZ0k3NlBmMG04SUJjT1dVRW8?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 11:28:32 GMT",
-      "description": "How do I know if I have been exposed to measles? Pittsburgh-area medical experts explain the symptoms CBS News",
+      "pubDate": "Wed, 07 Oct 2026 11:28:00 GMT",
+      "description": "How do I know if I have been exposed to measles? Pittsburgh-area medical experts explain the symptoms. CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -327,15 +354,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Hochul declares state disaster emergency in response to ongoing measles outbreak - Niagara Frontier Publications",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNXl3LTZrZW44YnVSQ2pJbkJvd1l5SWVzVm45VDV6SXNNQ2ltbnlrSnZwRTR1dVI4aVdrUHdqRjZ2dEtoSkM2U1RVSDdOMHVQamVmN2thTUVNYndXY3o5RjVkZjdENDQ1QV9PTm1tNlgxeHkwclJISTlZZi1EX0wxWEJDWUh3aERfT0hFM3BrVXl4MWV6ZE5vZ0g4dFdiNjlKcnpXdGltNDlzOE9uODNSbjBibGdqTHhaZ0VCVVVJcnRFeXJkMTgzajFicVlRNU1rMGNYZm1VSk1rT1YxWlE?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 04:02:34 GMT",
-      "description": "Hochul declares state disaster emergency in response to ongoing measles outbreak Niagara Frontier Publications",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Fifth Measles Death Reported As US Cases Reach New 35-Year High - Neurology Advisor",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcGVRd2d6NzZWeGU0ZnYxU0ZsSTFpV2pfZDNrb1lOSldXQjNtdVMyOVpTY2hDa2hlMlF2Smo0RU1POHlxZnZnd2VSRVR2Znl1Q0dSc0lfU0pSSDAyUFZzMjRnZDJyUkdWNjV5MjVsb2pZNFRpV0RPbjhTT20xdnJ0UWlhSlk1T3JDM3g2Mk1tSzRoekV6OU1DRHlEQ1l4UHVESUFwRw?oc=5",
       "pubDate": "Wed, 07 Oct 2026 04:00:00 GMT",
@@ -349,6 +367,15 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXBCNkc1X1lJM004ZUhOaWZGRTJjSHYyTVp3bkFiRlgwdEpSUzQ1cTdxWUtYN1pkNG1fdWs0dXltME1pTldXeUxuSE5FLVdRcFY4cDQwSUp6azRBUFdza29zT1dKWjV0a1JqVFdrMVM2a2cyRGMxUlBCaWNaSk1WSEpueDVfc3ZJdURmejdnZTlFdUZpWWc?oc=5",
       "pubDate": "Wed, 07 Oct 2026 03:09:00 GMT",
       "description": "Measles case confirmed in Allegheny County with possible exposure at Target, health dept. says WTAE",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Heartland Health: What to know about measles - KFVS12",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzUyM0ZCSmR3eDNkaVBfVHNvQUJ0SkdYVDFpakRHNU1XamlhcXIwQTRZT0hJay1zcGtjUEpsakZtSjNGQU1HNzhMZFdjdlJTNG5oR1U1UTNTVk5qUlFGcjQxQ2NwbVVUaFpXczV3Sm5oSUFJdG96NG5vMnVjbnlJUzB1ZThvYm1P?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 00:29:26 GMT",
+      "description": "Heartland Health: What to know about measles KFVS12",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -390,46 +417,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "670 measles cases reported in South Carolina this year, second-highest in US - WLBT",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdkZqUHRWTHlSQklsZFpxOUFOQmtJNENfYTBfMDg3QkxCMjluT1RGTzNPNmg3QUJtSmF2TTJ3d2NxNFp5aW1LaHlRTGJCaUJ5WjM3LV9kOWFKYUtvMFdlRkw0QWZoaW5SS1UwallIY2hWbkRGeEdHNlNmMFR2LUVlUlpSaXhGdFN6X2hmSUhsS0QwQkgxejQtSkhNVTFoTElsSU1xQ2d4U3pNcC1v?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 21:51:00 GMT",
-      "description": "670 measles cases reported in South Carolina this year, second-highest in US WLBT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "670 measles cases reported in South Carolina this year, second-highest in US - WMBF",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMTZoNlhGU0VxbGhmT3NSMGpwdXVLdjlVbHdpU2UzejZMdTF6NkdWMF8zU0xBX3drX01hUXNHSVFmaWQ1N0NJVUxPa2lvTlZJSFB2aU1vNG9BRThMcmFxU3NtMGl5ZXVkdUdoQlE2ZzFkWW4tZF9fSmdGWThxanVXdkpDNmQteTNhTTlpN1ZHTHJLTHEyT3lLUmpKUkJyTmJvOXJZb2NVWnA5UdIBvgFBVV95cUxQaGIxY0RFaHd3ZlFUdnZoOE9oTl9ZVHREc2FKRnJrSDFNakNPR3EzOWJaYnpTc3NOYWd2VTZUN1N1OWZwbzlkLWZpRmFBOXBKX1B5Z1paLW5sS2dlaUNoamhnU2xpWDZCQnVUTkhPenVpU29yNGVzbGcxRGpPR2dtNlNCcDdfYkg0RmpMV1BnU2JJMlp0b1p0QUF6c3kxWi1ObVoxS0lVQnRBc1hVSGU0TjBCeXNzeWZvZVNIM2JR?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 21:51:00 GMT",
-      "description": "670 measles cases reported in South Carolina this year, second-highest in US WMBF",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "670 measles cases reported in South Carolina this year, second-highest in US - WLOX",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ21MOXdqYTlyT2ZPR2d5cHBQVVZCbXJJNHY2M1IxLTVENmdIY0x4eUFWdVVjdGNadVBPTzItZXJYdzd4SFRFeVJuX3QtZldiN21HOFFrQTFHdWZPV2Fab25MZXdwSjk4b1BQcUxGTTBUYUF1QVJfUElGdGZLSFJhbl9NZEQzM19DUU1mQllXN0lOWFlSQU13Q2dvaC1PTDNtQ2FlV3VHV1F1VTEz?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 21:51:00 GMT",
-      "description": "670 measles cases reported in South Carolina this year, second-highest in US WLOX",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Mass. doctor shares frustration over national surge in measles cases - WCVB",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUmpZT25oNjFHWXdjdEgtNFU0d05TLXdBN3huTzRoakZPM0xVVjhnd2x1b2VyZm9OQ3Q2ckVYd3lvZ2ptS0lYRFpLRHV6VjJoOE9BN0Q0RHhaZ2NfSWU3cTZiRnBZVUpjNEZXZ1NGalo2VzBfY3hQVGllR3lYNnBqakZiQlZTZ1A4ZEtjR1RJX05MTW1WVWs2LUZlMnhndw?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 21:34:00 GMT",
-      "description": "Mass. doctor shares frustration over national surge in measles cases WCVB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Tracking US Measles in 2026: 3,887 Cases Put Elimination Status at Risk | National News | U.S. News - U.S. News & World Report",
+      "title": "Tracking U.S. Measles 2026: 2,400 Cases Put Elimination Status at Risk - U.S. News & World Report",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGdtejlVNzBVQ3VILW9pM2hjWWdOVWR4SlYwU1VGOHYxMVNzNEZieHhXUV9fZ1JEMS1LWEtYV0Z4RmFORF9yQUtEd1FIOUhqQTZ3Y2tTdVotZDBWRi1wUkNTYXFLOGJEZHFrY2VIeTJVWkIwZWNGUl9GQWxmdzhHLVlmQk1SQ181MHRsaXNCVS1wZw?oc=5",
       "pubDate": "Tue, 06 Oct 2026 21:28:00 GMT",
-      "description": "Tracking US Measles in 2026: 3,887 Cases Put Elimination Status at Risk | National News | U.S. News U.S. News & World Report",
+      "description": "Tracking U.S. Measles 2026: 2,400 Cases Put Elimination Status at Risk U.S. News & World Report",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -484,6 +475,15 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcm9OZXoxbTF4eVZzc1Z3cWdJaDJoTHhjVG9CWVJ3VkFFV1ZtNWtNTnlzUFRMeGdxc0xWZFAtV3NfWm5USmo0QnFTYy1TaG5vNTF0ckVOSkZrMWl4V1BQd25RLXZaNnFiZ2IyMjczZUNTVFlhdVotaWJvY1VhX1R4WnhfZG4xem0tN1Z6Y25GendFOE5uYWpDSGxwVHpvQXdmbkhYX2J3?oc=5",
       "pubDate": "Tue, 06 Oct 2026 19:06:13 GMT",
       "description": "New York declares state disaster emergency over rising measles cases. Here's what that means ABC News - Breaking News, Latest News and Videos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Opinion | Pennsylvania’s measles outbreak looks scary. Doctors say the reality is worse. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXNwVVN6OTUzSjY3RU45OFIxNzhEZFl2VEZ1bFVxbjRwanVDTFlkdjhObFFmdTBxLWg0U2lxdFJ5bkhMWjFaVURYb2MzWEhSdWprWFp6dXh6aDgzS21lMXh5VFoyUUtQNGtTa2J2cDRhcFNVQzEwdHdNRU1qaEtmV0dFcFdIZHJpWmdFeHVDei1RN1dIVS03RGZfWjNRRkhCSUY1RHFvdVBNV3NWa2lRZ1p3?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 17:30:00 GMT",
+      "description": "Opinion | Pennsylvania’s measles outbreak looks scary. Doctors say the reality is worse. The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -597,6 +597,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "New York declares measles disaster emergency as cases surge in Pennsylvania - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0hkaEkzWjFyS2dXdGZNMXlxZGdjRnB2MVlRMjh0NUcxRHNHbktLajZYR180NHR3UDZxemo4blkwcmJnRW4yaTJMN1p6MzRLUEtBejNhOVpjTThqQWl2dU90RmN2WXVQVXptODdpMnhvZHpoYWJBT0Mtb1FLNkJpcGN4d3gtRXhDcWdlVlV6SkZzU1hUUkQ2dkprYV83dk1jeEHSAacBQVVfeXFMTk5CMDM3Z2U1UG9PM3lvU25CWjlYV1MzVldEci05eXBDWk91X0NSak52SDhSVWQtT0hRa0dCUzRUX2tzOUcxR0paM040bms4VHg3Q0draktlbVpSWmNQZV96eWZ4QWRfZ0FUV3B0dFV0YVhFTV9YMXlWMTlvZmpOM1pETnN0T1Brb2ZqTm91U1gtaTBaanVPRTM2RmxNV3htQUl3bjV4eWs?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 11:08:01 GMT",
+      "description": "New York declares measles disaster emergency as cases surge in Pennsylvania Fox News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "New York declares first U.S. measles disaster emergency since 2025 surge - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjBMV3BucC0wVWVYVzVEOUtrdjFCZ0d1Z2g3ZUlQcklSaGl3NzJKaDFzSEx6NXdCd2F2NFVMeUhfbWhIZmFGVXhzLUcxZnkxdVZlZDJOU1YtT19GUDRmVWswck5mTmE0NERtVjh0a3BvRllsTmlZOTkzUG1vSHVJYmNTUGJRclJfZlI0LXZjRGNZRUxFMWNscFJjenhlSUtmWDlBWmVaWnVEUzZtZDk3bXl3Sk5VNTRGRXc?oc=5",
       "pubDate": "Tue, 06 Oct 2026 09:39:59 GMT",
@@ -610,6 +619,15 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzlvdkY1WS12MEJoZUx3MVA2ZXlVbmRGWVd3MUp6dVNUV0l6MTAyTmNDRVhIR0FfUzFLa0ZFS0RFRTZEWjVXTGV6LUFzVnJDeGxaNmlUUklLS1V4Ym5lNFR5MXlQSEc4d2M4amxZRkJBREdINDdxR3h2aHRyS3k4dkZHUDVyWlNUVWJGaWxRRUpiMmhLMlVyUjQ3QnFRdDI3WkR1U3FR0gGrAUFVX3lxTE9rZEtzTTdpOVkwMjRMYzI0V1VydHFJWHg3Z3dXT1BCSWVBYnpUaVJCa2FieEZ0SDNfR3lFYXp2eTgtRFNLY1U5WllNQVlfdkQ5S1pGUUlFUWl4RXg5MzFXeFRDOWdnOHdDSkVyYnBnQzA5NGZnZEY1NlhSVTVTNjdCa2JFMDBJOTNRZUxMRjNFYTkyWDNDUU04TzN4UE4xdmdKV3Y0LU5sTHR0cw?oc=5",
       "pubDate": "Tue, 06 Oct 2026 06:04:24 GMT",
       "description": "Pennsylvania surpasses 900 measles cases with 13 new confirmed infections: Officials ABC News - Breaking News, Latest News and Videos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "NY declares state disaster emergency over measles outbreak in rural communities - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0xrNlF0SkZROVdrOHpMbC13dUhZTVk5a21IMzlSN3Q5Sk9YS05fbS1FUngxbkNQUlhYNGdDY1dkWE1kaDdOV3BsVHpQcVhkNk9IVUlBV0dETzNBMy1CUkMzWGFVVHBzSHljbXRXa2J4Z2VJWGR6Q2pINTU2a3loWFU3S0lENDc3X0hReDltal9WSUxlUE9JeVM3VGE0TVROZy1tenRwRnJLUFdiQmVESjdpN2MzNzJuUmc?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 05:42:07 GMT",
+      "description": "NY declares state disaster emergency over measles outbreak in rural communities New York Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -654,15 +672,15 @@
       "title": "Pennsylvania’s measles outbreak is the largest in decades in the US - AP News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRVQ5WVlhNnliWVN4dUlLS0taNVhLS0ZkRGZVMGdtakhpT1BYdmtvU202RGR4S2F0WTlqekxDSzI0aHcxeTJkaXdLX2g3WUtpcEZmQTNlQzdiRUJaWFpxbXR1ZjRGZFllMTJLYnZaYVlaRzhsNDJWa1hFbks1UXExWkRQU1FTaDFKUlB1N3RIQVdFOVk?oc=5",
       "pubDate": "Mon, 05 Oct 2026 22:23:00 GMT",
-      "description": "Pennsylvania’s measles outbreak is the largest in decades in the US AP News Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 The Guardian Opinion | Pennsylvania’s measles outbreak looks scary. Doctors say the reality is worse. The Washington Pos",
+      "description": "Pennsylvania’s measles outbreak is the largest in decades in the US AP News Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 The Guardian Highly contagious: Measles cases near 4K in US as outbreaks continue Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
       "title": "New York declares first US measles disaster emergency since 2025 surge - CNN",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdG92NFB6bWg4Ynd2RGU2ZTJuaVNvLU9jaE56T2Q4MHlzY3NaQzBsNmkyNHN0OHh6SnBBQU4yaFNUN1k0MElsSkZhN2FYRXU0UDJIbG5yMktRMy0wRlJmZDRKeUhibmRZcEpjZU1tS080LXVRNFlIdDNGRTAxMUdpNUp6bXdlTExsZTZKdThSTGIzbEkzRkV4cEZmNjlQYVo4ZnBRUnZoZkRXWWpY?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 22:05:26 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQclFpTlZuQTB0VHdiWkhIVlpEMmpzbGg2NWpoR0RVdHlfYTd5eVZEeGd0dkFVUjgyMXRLQ3ZCSXpCX3VMaXE0ZnhDb3BJVzd1MTFOT283NVRJcnJ5Uk96SFp3UmpEV25NWmt1ZTNaVC1Qd1FVOURGMUVqVWJzTGFCUF9uRGtfejJNbkRhUUdLN2Z1eGxTbllrYXVKeno5WUdsUVRoaEU1YVhpcXo4NTl3SU1B?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 22:08:26 GMT",
       "description": "New York declares first US measles disaster emergency since 2025 surge CNN",
       "source": "news.google.com",
       "sourceType": "news",
@@ -759,15 +777,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "New York declares first US measles disaster emergency since 2025 surge - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTF9Lb3Q1aHczRXRwVDlSaVFxUk5LUWFWb2t2RXlVd0hrUHNjdVg0RDRtXzRvbGQ0bUJ4LTAteHdBVE9JZXppTXU0TTg1NTFidHdsby0tS0luVVFsU2J6WlE5N3AtLVp6YkRSQmotXzUxNnZYaXpBYnotVnJyTExKSzlwN2JNSjB2UGx6RTZHZm9mazR4MllfRHNSaG1IVmN3UHZ4Y1JpYzFUdWYwZm1fRWh6V01MY216R2QzLWRuTThxMlJNNW8xOXN3?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 20:28:00 GMT",
-      "description": "New York declares first US measles disaster emergency since 2025 surge Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Hochul declares emergency over measles outbreak - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWxRSVBXOGVGYVdzMXdLUC15Y0lIQjh4bWZEMmxMaG93TXhBWHdZd1pqUXc0M0ZyV1RiOXRTam90Yk5pZEFjd1A2bVBvMzY0WUxoUWNhdkVjcmRSZU95ZU5XYWVhbjRJSC1UbVlld2VLemE0OUsyUzZHeEQ4ZFN3UHdYMGdOUEp3SEFFNmsyVnVtV0JocXNXdmtFQkxkY0k2c2RuN1Y3SHdYNDhQ?oc=5",
       "pubDate": "Mon, 05 Oct 2026 19:25:00 GMT",
@@ -789,7 +798,7 @@
       "title": "NY Gov. Hochul declares state disaster emergency over ongoing measles outbreak - ABC7 Eyewitness News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjN6b1hnblpMdkNvQ245TUpzNUhMek9YOURhWjhhdGpVUW0tYU9UdGdTd1UxOVJZTF9pQ2NUSWFzNjdiZFZDbUtNZ3NvaUNxdENMWUpJSmxnbm0wWUx5OUtaeXdpZkw4S290YUR5b1hISlRHM205dUxaZGVnN0dwY1FTTExwak1VMkxRT0FMRmx5LUZEb0k5NzRSYmZCbHVFRzBIRWphRWdxUdIBrwFBVV95cUxPV3NBTVAzN2lYc0dOMk91cDVBX2dHVDJtOWgzSUkxYVRFSXk4aF8teW1pcnJQQ0RKZ3pFaHhkNVBlS25PanZJVUl6VjE3UnA5dWxZWnVuSk16eThvamZYbEhGUmF6a1RRQkd4aWt3OE5SUHBNazlLck1GZVpyM0d6NUhKcXRqdTlQMVUxNGl1bVd3b0NvWUZNeHJzUFZCY1Ezem9yenlVbmpPcS1CZVBr?oc=5",
       "pubDate": "Mon, 05 Oct 2026 18:57:08 GMT",
-      "description": "NY Gov. Hochul declares state disaster emergency over ongoing measles outbreak ABC7 Eyewitness News New York declares measles disaster emergency as cases surge in Pennsylvania Fox News Hochul Declares a Measles Emergency as Cases Rise in Rural New York The New York Times",
+      "description": "NY Gov. Hochul declares state disaster emergency over ongoing measles outbreak ABC7 Eyewitness News New York declares first US measles disaster emergency since 2025 surge Reuters Hochul Declares a Measles Emergency as Cases Rise in Rural New York The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
