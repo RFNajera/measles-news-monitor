@@ -1,12 +1,57 @@
 {
-  "updatedAt": "2026-10-09T15:23:29.300Z",
-  "itemCount": 98,
+  "updatedAt": "2026-10-09T16:25:48.839Z",
+  "itemCount": 100,
   "items": [
     {
-      "title": "US Measles Cases Rise to 4,080, CDC says - GV Wire",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uNFRvM0lpWDJrWWUyZlMxNlNndzBfMXlRRlo4MUp6SDRYNmVKbTlLTlNCcTl6aWZzMC1vc1RjUTdRUWlya0lUOWNmUW13MWVGbXFPUklHNHJPNHRSNzlpM2FMakVFSmViSFNSOGVQZUFiN3JsN29Zaw?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 15:21:54 GMT",
-      "description": "US Measles Cases Rise to 4,080, CDC says GV Wire",
+      "title": "Second case of measles confirmed in Allegheny County, 11 people quarantined - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaDFqQ3ZKdGVmS0p4RmRZYzgwMHJlOGRtZlJqcmRwVW9xQURVWnc0eWktR05JcTY4Z2hVamEwUGJPSXZSRlBvMnBMcTJrblJPZnE4QkRldDhuZHdHbEdSMVliYmluTjdOSHJ6TUlleWZGSWpDa3ZiYTZRR05mV1kxRmsybktkVXlSNTdMYXRrTGJ2TVg2THg2VUpaSWpCeWY1UmdBVUpPbkYtclFSeGV2TzhQbWhiXzA?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 16:06:00 GMT",
+      "description": "Second case of measles confirmed in Allegheny County, 11 people quarantined CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles case confirmed in Oneida County - Rome Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUGszTkt0YTl1Vy1XdjFpSVVNM21KYkpKVHc5SUdyVXBMalM1U1YyR0hNSUx4YkNLcUhiSC1iUjNLZzV4NG9jVGVQVmVHTzFZZmZiQ0JWamVkZnBOb0JfSnRxaVpzMXZ3ZmFaV1lhVXF0R1hfX1c2YmRXODFCYk5pZFhFMVJDU3ppVlV6N0NFd0RzaTdjTkxScHZjQW9ZeGlMejMwRUZxZ0I?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 15:45:00 GMT",
+      "description": "Measles case confirmed in Oneida County Rome Sentinel",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "More measles cases confirmed in Laurel County add to Kentucky outbreak - LEX 18 News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWxkUGNTVDlfXzhVU3BQWG45eFR2SzUyd2JuNVdFVFpoTmtMV3ZYSjVVNXFNbWRhUkgtbDJ4YVEzcC1VUktVM3BXQTdrbGxPRFlvYU5vUW1NcUtLM0NVMEdnMGkxc3BPVC1vVFAwbVFwcHQ2MnRBWWVSaEhFUmdIeVg1SkZEWGVmVENESg?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 15:37:05 GMT",
+      "description": "More measles cases confirmed in Laurel County add to Kentucky outbreak LEX 18 News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "This Penn State Health pediatrician never thought he’d see measles. Now, he treats it every day. - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTBlSDRGUkk2ZXJWaFh4Z04tOVI2WE90SlhDREZEZXFGMl9aWmM5bnhPTWN3eHdSSVZiUkp5djZBS3NVRjhPekxfMU5hcE1tajY0Z2N4aVdPTjVRWDJHU3JqYmxqb1duNHY2WTZmdmU3LXBFa2ZucTRXZlo5WjluWnIwVXVjemgxcVdvUjB5eVBwYkx0emc5TTRRQktiUDUwVkE?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 15:33:07 GMT",
+      "description": "This Penn State Health pediatrician never thought he’d see measles. Now, he treats it every day. Pittsburgh Post-Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Cobb health official warns of measles, West Nile virus risks - Marietta Daily Journal",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdWJVa2NoaTRIYndZeWFtRGVmaERzU21VdUNkaUsyTVR0aWVGSFZNdF9GMWRsZzhSbUZDU0xNOG0tLUpDYVItbTFSRl9lcTJoaTJJckxaQXE5UGVCa2FvWk9GXzFpMW5tWHM1X05jVF9vV190VUNhekF6TkVDdlk4ZWtxYjBlSEpjRzNQYkFuWnNfMFJFaUQxRnhSblZNMUc0R1lSaXB1S0lnaHJsaWQ4Qmx4NmtYUGpzWTZfQmhvTy1HYVFYMnVNQWxfZ1g3ZndGTTZkcm5fekRoTFNpdUJN?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 15:23:00 GMT",
+      "description": "Cobb health official warns of measles, West Nile virus risks Marietta Daily Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Cases Double in Southeastern Minnesota County - KROC-AM",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vcUdSX04wSUQ0bi1Xd0puRnh3cU4wSU9WOEdDMTV0dl9vWVdhWnlINTRrelh6RXNCVGJxSWdaYkxwRlZQMnhOQkJJUGU5TzNJOWFYRHlkTlpvRzg4UkpVQzFheFJIUFJqWlhIYWhRSQ?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 15:22:53 GMT",
+      "description": "Measles Cases Double in Southeastern Minnesota County KROC-AM",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -16,6 +61,15 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWh2Tjk4M0tlQk0wR3ExREZmNVNTSUVGY3VuN0FTVEZtaEFZNjRXTkxFbmNZSjl4b1VrZ1lDQlBIUGpGTE1WN2F6THFGMXdwNUZzRGc2bFNFZXNLWG1ucTJ1cHBnWGs0VHl0QjBsQkRqRjlXMlpMWjFLSm5QVUVYVVdJazlOVlBBRUE?oc=5",
       "pubDate": "Fri, 09 Oct 2026 15:18:17 GMT",
       "description": "Measles hits the 100-case mark in Kentucky Kentucky Lantern",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "US surpasses 4,000 measles cases with infections confirmed in 45 states: CDC - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdnpfZ3VLOVFsUlByd1JjR2R3U1pCaTFsTXZWby1LVjNuc1VjYU9zZjhWWE1xelh0aThhM2EtUFlUUjlyZXlsSGMwQlFmV2pmOWUya2ZGOXFBWmQ1Smp6TDdBLWNJTklmcnNJOURfRkEta3JYYm43dlE1TUFJM00xQzhzZjczai1vdzFySkU0bTBEeWlITUI2c013UmdDM2g2SVVN0gGoAUFVX3lxTE5kU1c2aG5ZX19pLXdfWDQzMFlDZ0pRMjBER3RlY3ItX0RaS2kyazZrVkszVEdQSjlfQm04aXJpZl9GMmU2b3JWemJac09nRDJXZXJ6R19Pc1hNR2RnV3ZXejJRa2NKcDdoc0ZkdGdacVF0ZVkya3U4cmpkLVFPc2FHdktyNWJydXV1TVkxU2wwUUpQTVk5bDM2Y1JPb2tpdDRjTFUtZkQ2UA?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 15:02:02 GMT",
+      "description": "US surpasses 4,000 measles cases with infections confirmed in 45 states: CDC ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -43,6 +97,24 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenFsaHRTa2h6MnJkckY3T2V0ckpXblFMbjBHSno5WXMwQU05Qkowa2lpaFBEREFFalZWS0d6RlgzYUl5czlYYUVZbjJxYlB4LUhRMnd4ZmdWMlZ5eFdpVG1zZDdEMmtueFNPWHUyRk9zaVNfclIxdnlWQ3B4TDFLNmYwQXp3blBoV2FNdU92WEVCVWpMUDB0NmxVOGNuOFJi?oc=5",
       "pubDate": "Fri, 09 Oct 2026 14:53:18 GMT",
       "description": "Measles hits an Allegheny County school as outbreak accelerates Pittsburgh Post-Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "First measles case of 2026 confirmed in San Luis Obispo County - KSBY News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXNrWW1zV1R3ay16U2JpbERYOGRHUUE1MEdfWlViaDdGOGt5aENnRXhfQU1GcjlYSjRPVElzaWdGNlNhVTlzYVQ0TU5KZnV6OGcwSjk5RU1GcWhFVFh0cHRWNHNScnF0ODkwX1A3X2FsaXpBNFk3aEF2YV92OFo5TnZTNVFjWGlTeHRsTExUZ1dMaDlCSHM2cldzajYzRjV6?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 14:48:29 GMT",
+      "description": "First measles case of 2026 confirmed in San Luis Obispo County KSBY News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "US Measles Cases Rise to 4,080, CDC Says - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZy1ZUjVOUFB3eXhDYnZYS3o0NF9zSXJIMEtqZXU3TDdubFlXUVZsalpkRVg4TnB0b1oyYzZFNXZSX0lTYzd4WXM3NS1hTE13NXFPYmJLbXFDenZJWkQ0dW02Ql9IS3diQ1E2Nkdyci1ITDJucVdOZDdkd3BKYmJRUUZXZDhQUjV1RW1lVGFZbVBlYkda?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 14:45:18 GMT",
+      "description": "US Measles Cases Rise to 4,080, CDC Says U.S. News & World Report",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -84,15 +156,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "US surpasses 4,000 measles cases, infections confirmed in 45 states, CDC data shows - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ29IeExvQlpiUGdhWWdtT1EyOWx4bUVNQzJBdHlXSm1GbE51SUtOVFJtNXJidXRwcUt5ckhRU2VFYUwtaEluZjNoREdRRk5pWXpDTVlmUFVTd2FkdXVFVDY4N256bTFqREduTFBmbGJOS09SeEQyTmF2ejd4VWZzX3hZcjdRNkU?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 14:27:07 GMT",
-      "description": "US surpasses 4,000 measles cases, infections confirmed in 45 states, CDC data shows Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "2nd case of measles in Allegheny County confirmed, tied to 1st - Audacy",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXA0ektDX1drWEw4cmtEWlU3d1NFOUNRTkhxRHJvcTNHemhCQWhwX3J2dDUza1hNYmVMamJFUDJWWGFxU3ZPZ2hBVjIwYlJ5Z0xoVjd3WXJGRUI1MWV3OF80ZHNrMG8zLWhXMllKdXIzMHloM1BrekZBb0tmdjJHaHN2Y3FrZw?oc=5",
       "pubDate": "Fri, 09 Oct 2026 14:27:00 GMT",
@@ -102,19 +165,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak at nation’s highest total since 1991 - Las Vegas Review-Journal",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmc5ZkpGRm90RW1aVlBXNDA0S2lxekpwVVlDazdrSVJmUGQ4U0NBM0cyWDRwX21fWmozb2dJLTBRbEtsczdLZ3FvY0stLU9tYlhpdHlsc1JLTm0wcmt5LTFGS0VGNlhvLVRBd1NhdmctQ01CSnU0NlBEOWVGb3pJNlFweUxqRF9fbi1rVUxWb2UxTDRr?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 14:25:04 GMT",
-      "description": "Measles outbreak at nation’s highest total since 1991 Las Vegas Review-Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "This pediatrician never thought he’d see measles. Now, he treats it every day. - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTBlSDRGUkk2ZXJWaFh4Z04tOVI2WE90SlhDREZEZXFGMl9aWmM5bnhPTWN3eHdSSVZiUkp5djZBS3NVRjhPekxfMU5hcE1tajY0Z2N4aVdPTjVRWDJHU3JqYmxqb1duNHY2WTZmdmU3LXBFa2ZucTRXZlo5WjluWnIwVXVjemgxcVdvUjB5eVBwYkx0emc5TTRRQktiUDUwVkE?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 14:21:52 GMT",
-      "description": "This pediatrician never thought he’d see measles. Now, he treats it every day. Pittsburgh Post-Gazette",
+      "title": "Health Department: Both children with measles attended same school - Pittsburgh's Public Source",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxNWw1SVpxbW40NFA3Y09iWjZDbWVRU2xtdnlwUmp4RUhrdzBiaGZvd2REVnZpZGFUdzFzZ1piajFRNlRwd3NIM2RLME1CZjN1NmJyb1ZNc3lzXzkyVjVIVVhuaFZIZGZIeW1VUEJoeXZrSncwUmozSzhBbV8?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 14:22:33 GMT",
+      "description": "Health Department: Both children with measles attended same school Pittsburgh's Public Source",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -169,6 +223,15 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTBmbWlKQzFWeTNfMWR3YkM5U1F5TFRYX3N5dEpickNzZmF1c1lfTy1nanFhMFNaUmI2R0xEMFAzWm5BME9heTNKV0pqQjFJY1RsSF9rMnoxd1Q1N1lJNW1oeDYweV9hc1pkMEdaa1dXQXZoWFFRR1BwNG5iQXB4emRSaVZ3U2pteTE3NENxLVd3d2PSAZgBQVVfeXFMT1NfempiWnNwMEhKMTJ6MGlmLTVQYzY2WS1Id1ZueU5NZkVGMkdOQjhnZ3BpWHhNYVdhU0x3S1NDR3NObmNxUjdhbUMtVUcyakd0N2NJTHFvSUdlakNGamJLWnRZLVpNMWZFdndhcGt3S25xS0FaY1NwenpEb0FzQlJLOGt0SU15TGdXazE0ZFE3eF9yVXUtT0I?oc=5",
       "pubDate": "Fri, 09 Oct 2026 13:51:44 GMT",
       "description": "11 cases of measles confirmed in Chippewa County FOX2548 & WIProud",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Allegheny County school site of second confirmed measles case this week - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWNBZEp3akNMVndqZE8yNlVVMzVhMlVhcnFPR0VqRW9XM24wWXo2MnRncUdDVkk4TTVfdFlQT29iRmtsd1AybGRfSDF1Wm9UeU5HcGZSU3FBbmxER294WDE4TDhrVlZ5Ti1QaGV3bHZrQUVQeV9uTll0d1Z2YXBBSVhxRGdLRlA1dWJHMW90RE9nbDIxU3h5TGp3?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 13:49:12 GMT",
+      "description": "Allegheny County school site of second confirmed measles case this week Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -259,15 +322,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV29qbzlMVm9ZY2FqSEZ2UUJLd0g2WWktcjFhWXdCYkFNUkgxV2VCUVltWXF6eW0ydm9tUzBFdXFmdThBSkNjWVlhSVZGRUFFRGF4QnA2UldwSXFvdlQ3TE5MbjZzUU44djJMRVpZSzBGV3Zsc01NbF93NEZpN1pXS244ZTBtREg4LU42Vg?oc=5",
       "pubDate": "Fri, 09 Oct 2026 11:59:14 GMT",
       "description": "2nd measles case confirmed in Allegheny County TribLIVE.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "First measles case of 2026 confirmed in San Luis Obispo County - KSBY News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXNrWW1zV1R3ay16U2JpbERYOGRHUUE1MEdfWlViaDdGOGt5aENnRXhfQU1GcjlYSjRPVElzaWdGNlNhVTlzYVQ0TU5KZnV6OGcwSjk5RU1GcWhFVFh0cHRWNHNScnF0ODkwX1A3X2FsaXpBNFk3aEF2YV92OFo5TnZTNVFjWGlTeHRsTExUZ1dMaDlCSHM2cldzajYzRjV6?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 10:25:53 GMT",
-      "description": "First measles case of 2026 confirmed in San Luis Obispo County KSBY News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -372,28 +426,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Second case of measles reported in Allegheny County - WPXI",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZlpZVU5DTFYxZjZMRTBsTl9sSFVCRnEwX3JyWGYzeVhQaFhVM0FXQkx0S0ZtNnVtaEdEUTcwTmZtV3ZWU2ZXV00xeEJ5VVB2QTNCWkY4X0NGb2x5Q1lrZUI5NVpLZ2hCT01oX2Z1eDNUV3lkeTFGbzVkbnQ1Vzh2djdhSmEtVnlYUFY4bTc2WHk1cHRQdDc2WmNEenZQWkpZaUFkdUptdFfSAbwBQVVfeXFMTWRPMXFLOXQzcldrLXlCdGctRmdkNnpnUHhNRHhKRnI3TjgwRnZmc1RNbU1qRWNHd1pvaF92TVhSa2V4TENCYVNvN2U0YUY2UDhaNnVkM1lFU2d4ZUo0RlRlQXRGZUV4UGNMbVhIdjl5cFlJa0x1eF90OWlzNWdLcnFhdFRYcnpTMWcwMGoxMjNOM2RWSnhIWlNXdEFULTZhWTYzckQwT0JJZUV1blluX0g3blRyOXFma3N1ODQ?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 01:55:00 GMT",
-      "description": "Second case of measles reported in Allegheny County WPXI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "SLO County Public Health Confirms First Measles Case of 2026 - News Channel 3-12",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNazNubl9JaGV1ZjZDdVVoX3ZrSmhnd04zMk8tRGZGbVQxR094Um5uVGdYS0pTejBWa2hPaC01ZHpZRHRleUpldlE1UWlXS0FXaGtiMW92dmYybU92Nl8yMHpMQkwwemJWUFZyR3ZhVW9Hd1VVaEFyc2FjN1ptdS1TZFJqUXRLRzIwV2FPWF9sTURLcDVPdTBVRGMxWEptS0JkN2NBdTh3?oc=5",
       "pubDate": "Fri, 09 Oct 2026 01:07:45 GMT",
       "description": "SLO County Public Health Confirms First Measles Case of 2026 News Channel 3-12",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "First measles case, a downtown gas leak and rain on the way. Today’s top stories - San Luis Obispo Tribune",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XZkZndG5yb1ZZVGFmTUFJSUdHLVoxUUxLbF9rLUlFTmJzYWh3OHhTejJVUzZ3Rk5lVUNkR2JYZTQ5TjdhdWtFTnY5eEl4QnotVktEbFU2UVBOQnlkSkhZa2RlOTBNYzc3SWRtV01kUdIBb0FVX3lxTE5Od0Y3MjhnQl8zNzU4ZDJiWHNjQUhDaDE2NHNqcmJJbmRYbUJjblFGMUV0dnNVUlRzUlF4ZGtLSzNxazZjajZQMmpZanNnblpiVTJCWUhOeFpWejhkLVVWNG01NnJ0WUdIdlBJcVJ6dw?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 01:00:00 GMT",
-      "description": "First measles case, a downtown gas leak and rain on the way. Today’s top stories San Luis Obispo Tribune",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -453,15 +489,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "DHS Confirms 11 Measles Cases in Chippewa County - news8000.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM25RTmJ5RS1wQm1RM0JFbVY4MXdfaWVXNXBWOXFYTldPLTFvZ3Z3c05LVEhaS0tGOF9CNlI3Ty1FbTBVSlptREp4N0tJUU9rSXF0eVZWbDZpZzFEdjJLdWRCSlIyLUEzcU9fb1NhOUVta2Jqb2ZYRjJHUjVtVEtvcmx5QXB4ekJ3NTRCeTZzcEt5WFpHRTFkbF9vSzBxWFpaOG5DaU9wSWx4T3Q2YTJaVDJQM0cwdG43QmFoRkNYQnZTOUhX?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 22:08:00 GMT",
-      "description": "DHS Confirms 11 Measles Cases in Chippewa County news8000.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Statewide Update on Measles Outbreak as Cases Reach 1,078 in 41 Counties - Berks Community Television",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMjNFWWc5RGFLME1rTjhRUDhxRWhtdlYteGlOQjNFa3ZwZ0pGa1YxalB6QzhzMVJxQkZncTg2dDBQcmZIOXFBZ0t6X1VxR2ttMG50WXhBd3lHd2wza2s1YVlSOUJyN2ZJTVdwSVhNUTd2Vk9WV1B1R0FXbC1fMTIxOUdFYjhFbVNvUUw0d0tYVzJMd2J0N3BOTTlWbFNlaXBmSFVwaTlIOA?oc=5",
       "pubDate": "Thu, 08 Oct 2026 21:56:04 GMT",
@@ -480,19 +507,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Pike County health department reports confirmed measles case - 10TV",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDhmMlcxSVpwX2laN2t2WVFLaFY5aTNRNVM1cEg4U0hNVHJXWGNMRHpZVlNCenhTNE9VeUxobkZuRm5oY2xwUXM5WmxjdjlfNVhob3JOa1VfOHdaaTQ0bmdnQ3ZwZkxndjRJa0ZqbXdRcTVJcnhRMnp4REdnRUpGSFd0QjZEdkc5NUZxRzZ3X2tlNjZzVmRwVi1taUhGYy1hblFsQzgwaHlXTkRIQVZ2TFlYeEkzVy1JSFJBN3E3dTM?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 21:32:00 GMT",
-      "description": "Pike County health department reports confirmed measles case 10TV",
+      "title": "Kansas measles cases grow to five; community transmission not seen - Kansas Reflector",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUGxZSEU4ZW03d1V4anBRM182T0RCMUZBUlc2WC00YmtROU5KaDlXcWd6LXhSME5KR1BkUHppRk5qSVQ1RDRCWnk0S1laMDJsVjdvOEJKQnNRYnU0QU1NdTBwZnZkSTNlc3BwSTJXa0QxTWhtVEE3SXExTnBDWkt6bkdKU0NJa0ZUT1h3U3E5RUpUS0FnOHBrd1BLT01WbTJyb1pidllwRkk?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 21:24:27 GMT",
+      "description": "Kansas measles cases grow to five; community transmission not seen Kansas Reflector",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Kansas measles cases grow to five; community transmission not seen - Kansas Reflector",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUGxZSEU4ZW03d1V4anBRM182T0RCMUZBUlc2WC00YmtROU5KaDlXcWd6LXhSME5KR1BkUHppRk5qSVQ1RDRCWnk0S1laMDJsVjdvOEJKQnNRYnU0QU1NdTBwZnZkSTNlc3BwSTJXa0QxTWhtVEE3SXExTnBDWkt6bkdKU0NJa0ZUT1h3U3E5RUpUS0FnOHBrd1BLT01WbTJyb1pidllwRkk?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 21:24:27 GMT",
-      "description": "Kansas measles cases grow to five; community transmission not seen Kansas Reflector",
+      "title": "Elizabethtown Area School District says it's unsure where or when Bainbridge student contracted measles - LancasterOnline",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNeVEyT3dRR0ZZclVLNE5aanUwNjNlTEpMZWFkc1VLdE16NTkwRU15SElDUmJOaG5FNmJ1Tm8wLXVYa3pfNGJtMFNSMWtJZ0ZyWEZqZXVnT1VrbWJROVhtZnhZcXpxdHA0Q2xLZTFDZEpTVVk0WWtXdDh0VzNqVVM3STNpQU5hc0hVaHpNTk5sNmc1RTNEWXpCdW1DeEc4em53a3hpeUdaeEYtQURnMGIzZkdaU0RWWjN0VDNkNjBsZWU3Z1llTnJEaTVCRkJfY19FLTQwdjA3Ylh0TGtvMGhkWWcwcDlnb3JlTFFReUk2NW1Cbm41c2N2OHBfcjRNOU5BTDZyQjd6SlQ1OFQyRm9lWThxMHU0eTlPWGRN?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 21:15:00 GMT",
+      "description": "Elizabethtown Area School District says it's unsure where or when Bainbridge student contracted measles LancasterOnline",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -525,15 +552,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Florida's measles surge has 'Mr. Measles' celebrating vaccine debates - Daytona Beach News-Journal",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFV3TU9aQ3ZBbUV3QmJuLTg4dC1DaVhqdVZKaGQ0TDUwQm82WE4zMDg5UWt2eV9IV3pjUFFtb0xLTUZ4RzlkN0RmZE5pV3Y3NUdxX2NGOG9Ya3pUb2ZzUFl3V2ZVcGJrS2hocWRMWVpsdTRjX0JWOF81SzR0R1A2ZkRYS1hLZmR6VlFkZEo5dnhid1FENTRVc0EydWJyMGR0R0ZMbQ?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 19:56:00 GMT",
-      "description": "Florida's measles surge has 'Mr. Measles' celebrating vaccine debates Daytona Beach News-Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "C.D.C. Offers States $100 Million in Measles Support as Cases Climb - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNGl0Qzh0R0t1N2xKRGFXaXNjRnRaS250TC1pWkhtSm9taWxHUy0tXzZNeTNJT3k1cjV5SGdkamwwWVJMYWpFT3U5cXFpVmVkaFQxT2hPQWxLbmdfRlV0YVBaZDMyZXNHRWI5ZVA1ODJzNmxJMnY2RWZJRFJlNFRfR1FJRzE?oc=5",
       "pubDate": "Thu, 08 Oct 2026 19:38:11 GMT",
@@ -556,15 +574,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTXppZ213eGVmX0lIN1g1VDRqZmdjWmVORWY3LU9JakhwQ29LOTdubGxERDFSdXJHVFBOc3g4VllvTWszTnlTcU51eGRSZGRVd1NSeDZnTllHeGEtODZISEdYeE5mT3V4V2FTMTlJX1RVeUtNLUR4QUNQRDlTRHNqOUZ0X01uTXVPM2x1VDN3dTU4dEpQcTVqSk91Uk1LWkNxUmp6THk2anlsSWNyNDA1SkFnbWNaaEVZVlpj?oc=5",
       "pubDate": "Thu, 08 Oct 2026 18:44:00 GMT",
       "description": "Ohio measles cases increase 400% from last year in latest ODH update The Columbus Dispatch",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases reported in Chippewa County - WTMJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2Z2UEh0RXNIb0JJY0VqX0d6R0FCeThDN0p4S1YzcUI0Y0VYNDg4eEVkWHFoNTRMWW9pNlI4dGlfQXQ0c2JUUHNUQl9WSW1HZXFqRUp6TW12M2hnT1VkNXY3UkJYY0hqSWYtVDBQMGI0anAxaF96c3NEelh5anlVRUVLVXFpRi0yekljZDZya2h0dw?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 17:31:57 GMT",
-      "description": "Measles cases reported in Chippewa County WTMJ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -681,7 +690,7 @@
       "title": "Measles Outbreak in Pennsylvania Is Now the Biggest in U.S. in 35 Years - WSJ",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2F6U28tR1JiWktqUTZBRnpGRkJKdEt6cEpxMHJwZG9acDF3bkNkeThlUVBINzZEYm9Bbm1iUGpiUXVhLXU5OUotNVFWVUN0Y3IxNnpHUnh5bGlUazlqeEtKNXI5Y19IenhDTHFLYTBfSHZVbWFmQ1NMYTNmSlVERVJ5VHZtY2xaRmRyR0RXZ3VSb1hrdndNMGtFX1hEVERTZ2pYT204UFVTd00?oc=5",
       "pubDate": "Wed, 07 Oct 2026 17:48:00 GMT",
-      "description": "Measles Outbreak in Pennsylvania Is Now the Biggest in U.S. in 35 Years WSJ Health officials report 74 new measles cases in Pennsylvania ABC News - Breaking News, Latest News and Videos Allegheny County school site of second confirmed measles case this week USA Today",
+      "description": "Measles Outbreak in Pennsylvania Is Now the Biggest in U.S. in 35 Years WSJ Health officials report 74 new measles cases in Pennsylvania ABC News - Breaking News, Latest News and Videos U.S. measles cases top 4,000, far surpassing last year's total, CDC says CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -763,6 +772,15 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcm9OZXoxbTF4eVZzc1Z3cWdJaDJoTHhjVG9CWVJ3VkFFV1ZtNWtNTnlzUFRMeGdxc0xWZFAtV3NfWm5USmo0QnFTYy1TaG5vNTF0ckVOSkZrMWl4V1BQd25RLXZaNnFiZ2IyMjczZUNTVFlhdVotaWJvY1VhX1R4WnhfZG4xem0tN1Z6Y25GendFOE5uYWpDSGxwVHpvQXdmbkhYX2J3?oc=5",
       "pubDate": "Tue, 06 Oct 2026 19:06:13 GMT",
       "description": "New York declares state disaster emergency over rising measles cases. Here's what that means ABC News - Breaking News, Latest News and Videos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "NY declares measles emergency - CNN",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdldlY0Iza2hhZm1aZGp4N1pNRWh1S3Y4Mk1oRzhhd3NBNzQ1dEVTZ3BraEpUZzVvU0FrNXU1MHFhT1VkRWxVLThqZ1pNVk0xVkVtcXZlN29ZMVZPdy0yeU5ZWVpCNWNyRjR3aDJ2T3I3ZnRsaDNUVW1IcUd4WGZKVFowVTF0bzFjaTBQaFF0V0JfVXRtSGc?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 16:12:00 GMT",
+      "description": "NY declares measles emergency CNN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
