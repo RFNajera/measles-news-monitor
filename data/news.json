@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T12:31:53.224Z",
-  "itemCount": 100,
+  "updatedAt": "2026-10-10T13:21:54.137Z",
+  "itemCount": 99,
   "items": [
     {
       "title": "US surpasses 4,000 measles cases with infections confirmed in 45 states: CDC - Rural Radio Network",
@@ -88,6 +88,15 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOU9SdVpMQ0c0QkpVcVIydHM3bmZpQTZYdmEyM1JMaU5GMGRiZHBFNGlJM2hPaWRmZk9MT05raGhMV3Yzd0phWWZrQzRDcFB5aGJ1VVJuVXdjMHI4NDBwZXNvS25NWnFsbGJvVEZiR3ZleGNoMkQ2cHI1dWNnbms1SXo1RUpIN282THNoSTZTWHRCSW5UU0Q3Wm9la0dOSkxJSlE?oc=5",
       "pubDate": "Sat, 10 Oct 2026 03:07:00 GMT",
       "description": "Allegheny County's 2 measles cases connected to same school CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Medina County is reporting 2 new measles cases - WKYC",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUGlBRE85X3hRM3dSeEtvUEJ2elJIZERTS2U3MzhuMlh5Ny1vVWZnMEVSX0hkV29KanhhcjNZOE9WUVJ2SnVMWXBPY09QY2VPQy1CMVVYNlJwSmtMODhOdXgxMzZoQWQ5YVl0Y29VZ1p2V0t4czFHWllJcGpQNlFfTVVLVUJhTWF2eGZCYV82ZS1FYzQzazZVQmVWTUo0RXl2RnRFSjZFLUU0eURsbGpjdjdSX3FtR0p1MnVkMA?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 02:20:00 GMT",
+      "description": "Medina County is reporting 2 new measles cases WKYC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -597,15 +606,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "7 cases of measles confirmed in Southern Kentucky county - WKYT",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGRIcGdIQkR3ajZXd1VVNTNpS2kxNVZoVkRFbGFBM3lyTGI0RzBrRUh5Mmp5TVJvdm1lc3dYSlVCWFVHZUlsR0wwWWxLbXpIMy15Z3V3clBpeVJ2RTdrQzRDTURMTG9zLUNva2dKa0dteXZsdkxSX2NDUE5qbzIyNG1GWXQtZXpUYW9n?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 14:45:00 GMT",
-      "description": "7 cases of measles confirmed in Southern Kentucky county WKYT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Let’s Talk Measles - Ohio Department of Health (.gov)",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnpyWFRwRjhlbE95MGloLXJXbWJlY2VJMnRuZjZjY3pNNkExZ21KRnNYU3NmQXRyMXN1c0k3bHhBTmtiTFRETEgzUUoxVl83SEZkM1Z4VGZRQmdiNl82YVZPVzN0aWlJemtsaFZ0bzdDM2lQSl9DN3g4MTZYQnoxVmt2bGNuYUNSV0Q2M0E0cTh1LWQ0X1E?oc=5",
       "pubDate": "Fri, 09 Oct 2026 14:28:13 GMT",
@@ -682,15 +682,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONjAwVEQxTF9uNTFidmQ0cjRkSldKQkZDY1RwWHVSNHQxcnVXWUFNY0hlMXcxMmllZVhaOWhIM09jZXF5bDdEdFhoc0FsdjlNUDlvX0NDdzlCeklYdlNWbFN3dzJYcTNDYW1GZjBDNXZURVp0VzREczhtNFFwTFhtV2U0eGJQZERWZUZBTWZORUhKNUpGcnU3TG9kLVlzcmtkelVuZEpYcGp5QXBtWkk2U2xmMXFzcVN4aVNpTW03LUQ4N1ExX1k2UTdpQlVTcnZLMkZRUnA3ZXhyUQ?oc=5",
       "pubDate": "Thu, 08 Oct 2026 23:39:44 GMT",
       "description": "SLO County Public Health Confirms First Measles Case of 2026 County of San Luis Obispo (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "First measles case of 2026 confirmed in SLO County. Are you at risk? - San Luis Obispo Tribune",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkTHMtVDdvbDd6aFl5Q2pEa0V3QXJ4X2VybEFDT3ZIeUIwM0k2dHlfeW96U3F0eHNESGQ0MXFSVGR3bW45eklKeTRRQnBqNWJtSzg5UFh4V3VKSnU2THFNaGdUaFFPOGk3NERlZ2lPVdIBb0FVX3lxTE14RVh4S3BuendsbVpIS3pQdF9pRUZwLW5jR0hXejN1bWVoZGV5LVdIVVF3SkxIX0U3Ti1aVkFURkpUNHJyblVpSVVVdGxRN01IT2VaRGVDVnhGdVFydUc0ZklfZllVSm5zeG9yMkZ1Yw?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 22:49:00 GMT",
-      "description": "First measles case of 2026 confirmed in SLO County. Are you at risk? San Luis Obispo Tribune",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
