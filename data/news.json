@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-11T19:19:43.311Z",
-  "itemCount": 85,
+  "updatedAt": "2026-10-11T20:23:54.809Z",
+  "itemCount": 87,
   "items": [
+    {
+      "title": "Hochul declares measles emergency; Oneida, Madison counties report cases - Oneida Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMFUwdk1fVE9SaHBQWVAzN1FpczZiMThUX1FBNFJRVXkweWtNNHVsUS1adUppN3N4b2pEVXgzVllybUtLLTZfSEQzSGNuSVYxU0djQ1BxMktITXNTN3hINjhKa25IaGlxLU9adlZTNUQ5QWJlUnBsb2xBRkxveW5meDJ0aFNhc2plclN5alN0VDFYNlhpZDNrejRoNzlKTVdSbG0xNDBwbkhWOFNZZWpLT2VJRQ?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 16:50:20 GMT",
+      "description": "Hochul declares measles emergency; Oneida, Madison counties report cases Oneida Dispatch",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Measles cases in Ohio top 230 as Medina County reports first case of the year - Cleveland 19 News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2dKNHBjalBTcno1dDFSQWltNUkxaDc5cURJY013TFEzMVNTWml0VzRYRXJhZXdmQzU4aF9UMGRzNEQzeGxaTmF4NmhiN1RsNElWdWhBTlluRjV4andSVURiblZONncyZ0Zzb21Fbl9wUDQ1T1M2cXYwNFF3ZVJFckFVM19rSy1pQmJrVDhjNWZUcTRGSUlGcmpVczZnb2hJcVJfdHV6c9IBuwFBVV95cUxQWVEwd3Y0Smh2ei1kYmNZS1U1LWRZRjI1SjhVZjhXeHJzS01oLW9ub2ljWHN3X0s5MGJzTTRZMXdHOVo3blZVbnRHb2VxNnE0QUV0Zi1mZnVaRzFJQ1lfWU5qZWhiaEJfNmpsVFUwSWV2Nm80VURfbklxWGFiTncySGFBWWk4WGlIQmM5OVUyUHJ0TDcxSFJxcE0wSG11aWxIU2libnJNSGZKajJ1WWNuay01ZFRBVlN4WGp3?oc=5",
@@ -57,15 +66,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Hochul declares measles emergency; Oneida, Madison counties report cases - Oneida Dispatch",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMFUwdk1fVE9SaHBQWVAzN1FpczZiMThUX1FBNFJRVXkweWtNNHVsUS1adUppN3N4b2pEVXgzVllybUtLLTZfSEQzSGNuSVYxU0djQ1BxMktITXNTN3hINjhKa25IaGlxLU9adlZTNUQ5QWJlUnBsb2xBRkxveW5meDJ0aFNhc2plclN5alN0VDFYNlhpZDNrejRoNzlKTVdSbG0xNDBwbkhWOFNZZWpLT2VJRQ?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 14:19:30 GMT",
-      "description": "Hochul declares measles emergency; Oneida, Madison counties report cases Oneida Dispatch",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "New York and Pennsylvania's split screen approach to measles - Politico",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMEd4ajNwbnhENV9wNHBiZUxuOG5LMG1maUxvbjNNS0hFU1BZLTdLMEZ4bXpaQUdkaFA3c0l4ZTcyNklpRUNpel9SZEFpMG9BLW9hQmRFMTVTbG02QWp6bk5Kdi0zMjMtZWwtWVh2bnpzb19BZllUcGlVRTBhcl8xdGRRRzFDVmdzV0M5a3NwdmYwMWFxNnRaag?oc=5",
       "pubDate": "Sun, 11 Oct 2026 14:00:00 GMT",
@@ -114,7 +114,7 @@
       "title": "Measles outbreak suspected in another Minnesota county - Bring Me The News",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSnNySThjOEg4UHI0SnpHeDNRZEVuSFN0ZWJTdjVzdHRCZmpGZWd5TVExSVJHam8yenpKdGlZdm5OMGxaQ1hwOHJSN3hSQV9LNDU1MW41SmY2NkhjSkpHN2N2UFRQdG5mOFRRSHVTS2ZvMXhqVDdUX3doRzJ2MnBWS05zdll2N0JINGVZeWRnaEgyM1hGcHpPSHlTaUM?oc=5",
       "pubDate": "Sat, 10 Oct 2026 23:32:53 GMT",
-      "description": "Measles outbreak suspected in another Minnesota county Bring Me The News US surpasses 4,000 measles cases with infections confirmed in 45 states: CDC ABC News - Breaking News, Latest News and Videos U.S. measles cases surpass 4,000, with over 25 percent coming from Pennsylvania T",
+      "description": "Measles outbreak suspected in another Minnesota county Bring Me The News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -147,15 +147,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Health officials report 74 new measles cases in Pennsylvania - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMndFcnFqeFdqTUE0Y0ZmNFdhQ1ViX2dXWWJtbjQyelNpYUZ3TjlLMnRjamxHSmFvRTZzc3VHTFltckRKVkdFQzJLenB5UDhFUVd6dmhnLTZlbE92UzkzcVMwMWRXbkF6WDJlcEFDa3ZSZFkwLXRPYVVrVjlQUk1XakpXSl9Wd0tsa3ZHOUJzQUJHUWFkUjJ1cXZKelVxNGxKMlFDUmlR0gGrAUFVX3lxTE53WjhWUE9JcEJQYjFsVDU5amhWbWs5cldIbllpbTVrd0NvamFpVy1WTUFhMVdfSkFxdzhKeWhHY0ZlWUdYQ0JPV2E3am5QR0ZORjRISUI4S2ZVVy1IMTNyRUk4OC1taTlwbGk4N0VfempYekNwWmNnSUpBcmNUNnlZaEFiSVBhTWZkY1ZwOG5tN1ZmRml5cWhOLUEwVURETzZuQVN2bGp4VS1rSQ?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 16:36:21 GMT",
-      "description": "Health officials report 74 new measles cases in Pennsylvania ABC News - Breaking News, Latest News and Videos",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles cases reach a 35-year high in the U.S. - St. Louis American",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTkZ4enY5NWkwODd2VjVGR041Y2hka3BSOHUzUTgweVdQR2FEVGd1LTNFeFVqWHNGUzRkYWotTHdoUWZQa092eEN5bW1MeG5LbUFveDViMTgtdDQwY0tqQ1hGRWJPSjhsQ0Y3STc5NkdNNjBSUEJ0MjBoaFBaSk43ZDZydFBmMEVfWlNsaXlmOExoQS1iUWtDSm5R?oc=5",
       "pubDate": "Sat, 10 Oct 2026 15:29:53 GMT",
@@ -178,6 +169,15 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb1IwWmRCTkFmcG5udExMeDVwR3F4aTdmZDF5ci14RGEwY0lBU0tJeUo1dXBEV0x0bkJPREdGV0VVZG9uMktveEpGdDlLWEdJeE1nZ2h0YWJMMG1EYVVtdWxUYzJpbmpDZVFlVC0yLWlpWjBpT2R6NjBkQVFxY09UcU52eFpCRXpmaTFj?oc=5",
       "pubDate": "Sat, 10 Oct 2026 02:17:00 GMT",
       "description": "Central Minnesota county reports \"several cases of suspected measles\" CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Delaware Public Health District warns of possible measles exposure in Powell - The Columbus Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRkpxZGFaWjhoNm8tQnpzWUpzbmU1S3g1cnkxc3dUTW12N3ZZQWdYdmFRdmtFQTFfTDg4SV8wc1V0T2doNUdSZ3ZEZlpBTGZFUjgzd1M1ZWtiX1E2aXFycDhtU3RxZGoyQU5fa3o3cHBjUl92S3otSVdIa2lOLVkxMzZNY0tKcHR4SnhMNDNRUDViNXNTdVR4djJzVmQzX08wM1lJcUFkZzI?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 01:13:00 GMT",
+      "description": "Delaware Public Health District warns of possible measles exposure in Powell The Columbus Dispatch",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -336,10 +336,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Public warned about possible measles exposure at several Chester County, Pennsylvania stores - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlJKSTg5WnlJZWJQR09lNEt4VWlfenVxSjdjbGVUTmxmekwzb2xsbGZfR0tYcWhja3lKZE9kaThhLThKaDdhV182YWJWRnlvakJja0MyTG5tLThxWEpqZ09GOGpGZFdSYkx0ZlNTSGNySjdSaUlGS2VPanJsSV9LRTIxa0xJOGRjZ3AtOVB6SUVORlJUbDJ0MTEtczdCOUVCcUF4ZXYwM0RuRS1iTWw2RHJJNkLSAboBQVVfeXFMTjRqczRxd0VLdF9IaGVWeERUOUZUM0lKaUVMMFpYaHJwYW1rRHNvR1lWcng1SjdMUGdIa19oRF9KXzctbkxVMi12SkpiSVlWYTNXU0FBMnFtc2ozMGx4MVMyYlVteW9YQklZNGJEM2JMRDRPRVdSbW9OODFQYlY2UHlvdjJyemQwVGxVaXlFc1hfMEV4bThzWUlmaUJZOGFUdWZ3ZXJ0bjhHWlRoaXRnU2Nkb0xUQkM3VDln?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 19:05:03 GMT",
-      "description": "Public warned about possible measles exposure at several Chester County, Pennsylvania stores 6abc Philadelphia",
+      "title": "More Philly-area classrooms are seeing lower measles vaccination rates. How protected is your school? - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeU1DWlVFdUZfaDJySkYyc3VEWDgzUFk3UUZCclZjNlV0cUVjR2pIWHlfWHFscEZ4bnczdDBjNjU2UDd1QlVBQVVYd21JMVZwV005cXJaQXU5X1d3Y2otSU5UeXJPV3lzTmlKcDJ1bzJZWXc4RnZMYzYwbUdJN01YMzlNWElZbG5icktMdDVxLW1DdUZTclpJTg?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 19:32:19 GMT",
+      "description": "More Philly-area classrooms are seeing lower measles vaccination rates. How protected is your school? Inquirer.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -381,10 +381,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Medina County reports 1 confirmed, 1 probable measles case - Akron Beacon Journal",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU2h0RF9iTUxRRzlocWpYYzFaT2MyQ3R5OUMzQlp0WmdkQ2Frd1l4N2p1OEd1UlFjWnU4QjhVU2M2VU1wa1dJM21CR3NsNTItNnNza1RVenZMVTNCOTRiMDBXZFhFWkhEdVZVVXdWUFlRU2Q0UkdPN1YyUzJwcV9zRXFEcjhsSjllRjNqWDVTakk3eU9VbkR4a2YxRm5oRG5raG11eEJZZHBDQmh3MHVBY2pnZDljdU9WZzJoVEpEZi1YRF9Fai1wYm1TeGl6THhXS1RycmswVWdhcXlNZVpUZVhFY3BaUQ?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 18:25:00 GMT",
+      "description": "Medina County reports 1 confirmed, 1 probable measles case Akron Beacon Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Health advisory: Confirmed measles case in region - Wadena Pioneer Journal",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFR4RFBpcHRyTVh2ekpnbmFkMUxCRUZlUGJjWndQTzFObG1zTzhydGhVTEk0MDBvcWFYOU5JbGV3aWkxemZLR213RHIxWjl4Q3VGdFJOOGpWc3pUak5hY3FtSm42VEs3TkRxVWpTVkkzdTJlaWh3WlZfVlFDa2g0Q3J5V2wtVmFET1hRZGlfQ0dzM1g4NjVaUzlZZw?oc=5",
       "pubDate": "Fri, 09 Oct 2026 18:18:58 GMT",
       "description": "Health advisory: Confirmed measles case in region Wadena Pioneer Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania measles cases pass 1K mark amid outbreak - WKRN News 2",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWlo5cXdyYVQ4clluYWQtWUh4elBMd2lHc2dzc3lFWG1jYjh3R2tmcDVrTkt5ZTNqZ2o3QVNVMjdoN3MzMm1aTmRqUmtMSW9OaU9SbUVfNjVhQXZadWxRcS00Z1lNZFlHc2NEZ2JTT0dUT0xxVGdyWENYNm5pVFRJUm8tYWxCOU9ra2pHcEhjVUlIVTTSAZgBQVVfeXFMTkZEdGphdkJVd3drMXJtYTB3ckVfNERXN3lUQW1PaW9oMHhnMUtYcVdEOGVWRUhMdTZMbmNkWFZmYndMcE1vUjJobFF1MlZLZ3ZucEp5eDZ5ajltdEU4NTZpT252U2JIU0xLdVZEN1hoMFdSR2hIZHY5cTc0YjNFZEZUZWNoUmpfRko3UkZjSnh2eVN2N2FSbXI?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 18:15:58 GMT",
+      "description": "Pennsylvania measles cases pass 1K mark amid outbreak WKRN News 2",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -426,10 +444,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "SC has one of the highest measles case counts this year, CDC says. What to know - The State",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Rb1YwVHk0R1VPcjZPcHVEZEE1VXVSUDEtd2R0ekMzdmd3blBybUVrbGtwY20yZGhQYmpSc21OZTVScUZDeEZMWWNmTlNTa2RVWWxCa3ZTU191bXdva1B5MXdWVV9ySmxYdThIc3QyR3hZWEJ4SWVnV2hwR24?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 17:26:21 GMT",
-      "description": "SC has one of the highest measles case counts this year, CDC says. What to know The State",
+      "title": "US surpasses 4,000 measles cases with infections confirmed in 45 states: CDC - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdnpfZ3VLOVFsUlByd1JjR2R3U1pCaTFsTXZWby1LVjNuc1VjYU9zZjhWWE1xelh0aThhM2EtUFlUUjlyZXlsSGMwQlFmV2pmOWUya2ZGOXFBWmQ1Smp6TDdBLWNJTklmcnNJOURfRkEta3JYYm43dlE1TUFJM00xQzhzZjczai1vdzFySkU0bTBEeWlITUI2c013UmdDM2g2SVVN0gGoAUFVX3lxTE5kU1c2aG5ZX19pLXdfWDQzMFlDZ0pRMjBER3RlY3ItX0RaS2kyazZrVkszVEdQSjlfQm04aXJpZl9GMmU2b3JWemJac09nRDJXZXJ6R19Pc1hNR2RnV3ZXejJRa2NKcDdoc0ZkdGdacVF0ZVkya3U4cmpkLVFPc2FHdktyNWJydXV1TVkxU2wwUUpQTVk5bDM2Y1JPb2tpdDRjTFUtZkQ2UA?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 16:41:35 GMT",
+      "description": "US surpasses 4,000 measles cases with infections confirmed in 45 states: CDC ABC News - Breaking News, Latest News and Videos Measles hits an Allegheny County school as outbreak accelerates Pittsburgh Post-Gazette U.S. measles cases surpass 4,000, with over 25 percent coming from",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -466,15 +484,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWUFmR0NRYktVa2lfU2N3Nkc2V2RMQkdDbmVoRC1sM3pxUHdMUHJETTFfeHUybW1OLTA0cnVTdVhnbnpFeW82NmJjVEJ3WE9OQWFtQWRCV1Mza21RZnRlM1NFeUFwUDJ0eFduWWVoRWRJSWFDTGh1WmJUcTVZOVpsbWRJOA?oc=5",
       "pubDate": "Fri, 09 Oct 2026 15:00:50 GMT",
       "description": "Measles hits the 100-case mark in Kentucky News From The States",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles hits an Allegheny County school as outbreak accelerates - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenFsaHRTa2h6MnJkckY3T2V0ckpXblFMbjBHSno5WXMwQU05Qkowa2lpaFBEREFFalZWS0d6RlgzYUl5czlYYUVZbjJxYlB4LUhRMnd4ZmdWMlZ5eFdpVG1zZDdEMmtueFNPWHUyRk9zaVNfclIxdnlWQ3B4TDFLNmYwQXp3blBoV2FNdU92WEVCVWpMUDB0NmxVOGNuOFJi?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 14:53:18 GMT",
-      "description": "Measles hits an Allegheny County school as outbreak accelerates Pittsburgh Post-Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -637,6 +646,15 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11NGRhbGlIeHpILUdyOGNtWVg4bnMwU1BVNGNKV3Z2OGlIMGVTNDlYdW8xdEp4WFl3X25NNGt5bzVscTdXZ202VENIdDlLNzdsZHlvN1oyWklhTFE3azVQQjc0bGZlWktjdk9qY2pwNU9LNERfT3gwb3Z4YVA5Zw?oc=5",
       "pubDate": "Thu, 08 Oct 2026 18:58:06 GMT",
       "description": "Second measles case confirmed in Allegheny County Pittsburgh's Public Source",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Health officials report 74 new measles cases in Pennsylvania - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMndFcnFqeFdqTUE0Y0ZmNFdhQ1ViX2dXWWJtbjQyelNpYUZ3TjlLMnRjamxHSmFvRTZzc3VHTFltckRKVkdFQzJLenB5UDhFUVd6dmhnLTZlbE92UzkzcVMwMWRXbkF6WDJlcEFDa3ZSZFkwLXRPYVVrVjlQUk1XakpXSl9Wd0tsa3ZHOUJzQUJHUWFkUjJ1cXZKelVxNGxKMlFDUmlR0gGrAUFVX3lxTE53WjhWUE9JcEJQYjFsVDU5amhWbWs5cldIbllpbTVrd0NvamFpVy1WTUFhMVdfSkFxdzhKeWhHY0ZlWUdYQ0JPV2E3am5QR0ZORjRISUI4S2ZVVy1IMTNyRUk4OC1taTlwbGk4N0VfempYekNwWmNnSUpBcmNUNnlZaEFiSVBhTWZkY1ZwOG5tN1ZmRml5cWhOLUEwVURETzZuQVN2bGp4VS1rSQ?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 15:44:51 GMT",
+      "description": "Health officials report 74 new measles cases in Pennsylvania ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
