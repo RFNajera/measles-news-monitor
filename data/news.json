@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T16:24:54.224Z",
+  "updatedAt": "2026-10-11T17:20:30.587Z",
   "itemCount": 88,
   "items": [
     {
@@ -7,15 +7,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2dKNHBjalBTcno1dDFSQWltNUkxaDc5cURJY013TFEzMVNTWml0VzRYRXJhZXdmQzU4aF9UMGRzNEQzeGxaTmF4NmhiN1RsNElWdWhBTlluRjV4andSVURiblZONncyZ0Zzb21Fbl9wUDQ1T1M2cXYwNFF3ZVJFckFVM19rSy1pQmJrVDhjNWZUcTRGSUlGcmpVczZnb2hJcVJfdHV6c9IBuwFBVV95cUxQWVEwd3Y0Smh2ei1kYmNZS1U1LWRZRjI1SjhVZjhXeHJzS01oLW9ub2ljWHN3X0s5MGJzTTRZMXdHOVo3blZVbnRHb2VxNnE0QUV0Zi1mZnVaRzFJQ1lfWU5qZWhiaEJfNmpsVFUwSWV2Nm80VURfbklxWGFiTncySGFBWWk4WGlIQmM5OVUyUHJ0TDcxSFJxcE0wSG11aWxIU2libnJNSGZKajJ1WWNuay01ZFRBVlN4WGp3?oc=5",
       "pubDate": "Sun, 11 Oct 2026 15:44:00 GMT",
       "description": "Measles cases in Ohio top 230 as Medina County reports first case of the year Cleveland 19 News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases in Ohio top 230 as Medina County reports first case of the year - KPTV",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLUNpVGZaN2xZVlh0d3dPdTJSLVRrVnJTQmc5U1JIbThzOW9GMUpVYTN2U2MzMERJN1BYcmpQdUhaXy1hNEpISDB3OXBlcDY5NFZoOVQwaGF6UFdvQlJ2LUY2S0llTHJkTVBpRUVicFAxdlJLYUQyejlYcWV1WGlCdHBxZTFHcE9OOVg3R2ZPLXpNQTEwb0NUaHc1d0FnNm9KMTlGTVBR?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 15:43:00 GMT",
-      "description": "Measles cases in Ohio top 230 as Medina County reports first case of the year KPTV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -52,6 +43,15 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMEd4ajNwbnhENV9wNHBiZUxuOG5LMG1maUxvbjNNS0hFU1BZLTdLMEZ4bXpaQUdkaFA3c0l4ZTcyNklpRUNpel9SZEFpMG9BLW9hQmRFMTVTbG02QWp6bk5Kdi0zMjMtZWwtWVh2bnpzb19BZllUcGlVRTBhcl8xdGRRRzFDVmdzV0M5a3NwdmYwMWFxNnRaag?oc=5",
       "pubDate": "Sun, 11 Oct 2026 14:00:00 GMT",
       "description": "New York and Pennsylvania's split screen approach to measles Politico",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases in US reach 4,080 for the year — the highest in decades - St. George News",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeHJQRUI2NHNUWGs0Qm5naDAtR1hwTEd4VzR4MUx1N2dBUGZSdzN0bkxSX1BFWTF0X2pXTGZBUDlSa1lOWDBuMDE1LTdCUExBTGdUSVpuN0JYeS1zWTZRRkJOcTd0WkswOXJEeU1GSElRQ2NzY1NiLXE5aGtSVUZrVWc2SDhXOENZVjN4cmtLQjRUUWVHcnV3ak9aUC1jdDVPUkZNM2M4Rl80Vnk3UmhJVmtOM2M0NEVEemlVUWdUNUdES2dod2ljUXhodGxJRzhubDRCVm5haDhodmZXYlR3ZjVWTU5HOWRESlI1SE93?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 14:00:00 GMT",
+      "description": "Measles cases in US reach 4,080 for the year — the highest in decades St. George News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -122,7 +122,7 @@
     {
       "title": "Health officials report 74 new measles cases in Pennsylvania - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMndFcnFqeFdqTUE0Y0ZmNFdhQ1ViX2dXWWJtbjQyelNpYUZ3TjlLMnRjamxHSmFvRTZzc3VHTFltckRKVkdFQzJLenB5UDhFUVd6dmhnLTZlbE92UzkzcVMwMWRXbkF6WDJlcEFDa3ZSZFkwLXRPYVVrVjlQUk1XakpXSl9Wd0tsa3ZHOUJzQUJHUWFkUjJ1cXZKelVxNGxKMlFDUmlR0gGrAUFVX3lxTE53WjhWUE9JcEJQYjFsVDU5amhWbWs5cldIbllpbTVrd0NvamFpVy1WTUFhMVdfSkFxdzhKeWhHY0ZlWUdYQ0JPV2E3am5QR0ZORjRISUI4S2ZVVy1IMTNyRUk4OC1taTlwbGk4N0VfempYekNwWmNnSUpBcmNUNnlZaEFiSVBhTWZkY1ZwOG5tN1ZmRml5cWhOLUEwVURETzZuQVN2bGp4VS1rSQ?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 15:34:19 GMT",
+      "pubDate": "Sat, 10 Oct 2026 16:36:21 GMT",
       "description": "Health officials report 74 new measles cases in Pennsylvania ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
@@ -363,6 +363,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Pennsylvania measles cases pass 1K mark amid outbreak - WKRN News 2",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWlo5cXdyYVQ4clluYWQtWUh4elBMd2lHc2dzc3lFWG1jYjh3R2tmcDVrTkt5ZTNqZ2o3QVNVMjdoN3MzMm1aTmRqUmtMSW9OaU9SbUVfNjVhQXZadWxRcS00Z1lNZFlHc2NEZ2JTT0dUT0xxVGdyWENYNm5pVFRJUm8tYWxCOU9ra2pHcEhjVUlIVTTSAZgBQVVfeXFMTkZEdGphdkJVd3drMXJtYTB3ckVfNERXN3lUQW1PaW9oMHhnMUtYcVdEOGVWRUhMdTZMbmNkWFZmYndMcE1vUjJobFF1MlZLZ3ZucEp5eDZ5ajltdEU4NTZpT252U2JIU0xLdVZEN1hoMFdSR2hIZHY5cTc0YjNFZEZUZWNoUmpfRko3UkZjSnh2eVN2N2FSbXI?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 18:15:58 GMT",
+      "description": "Pennsylvania measles cases pass 1K mark amid outbreak WKRN News 2",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles confirmed in local school - WPXI",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnVEaVZHeFhFZlBoaVFMendWNDhOdUY3QmJHVEVnZC01SnlVeUcyZVJFN0NxVjRyODFiM0kyaDFSRlBBMms0dl9oXzUtNkJGdFBjeWp6U0xYUEVzamN5MGl3ZE5keXFHR3dsV3NMZUJFZGRTc3hzSnJMTzNndGJUM0U0VnVyYVp6TTFfTVhwN0RCdzFJTFIxWDVXVlBWQkJjU0hF0gG3AUFVX3lxTE5KYVo0UlRqR2hEQ2VUbV9Kbml2aEpPcGpKUW1DdndsbU9uaEk2R2RyUzJTaTd5Z05oZzRIOU5fYmlORC1CZTEzREFwMmZqWm40Ny1Za0I2b2psTlRubzBnOFJmZnhLQVR1eDlKT3Nsclo4SDJsZmk2cU9UUXpuMTBWRzFVemZWODBGN1BVQ0NQNkZDeEttQTBXQ3E5aFZRYkV2dUhRb1VJWG43MmtITmFhOVVBV0NfZw?oc=5",
       "pubDate": "Fri, 09 Oct 2026 18:11:43 GMT",
@@ -444,10 +453,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles hits the 100-case mark in Kentucky - Kentucky Lantern",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWh2Tjk4M0tlQk0wR3ExREZmNVNTSUVGY3VuN0FTVEZtaEFZNjRXTkxFbmNZSjl4b1VrZ1lDQlBIUGpGTE1WN2F6THFGMXdwNUZzRGc2bFNFZXNLWG1ucTJ1cHBnWGs0VHl0QjBsQkRqRjlXMlpMWjFLSm5QVUVYVVdJazlOVlBBRUE?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 15:18:17 GMT",
-      "description": "Measles hits the 100-case mark in Kentucky Kentucky Lantern",
+      "title": "Measles hits the 100-case mark in Kentucky - News From The States",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWUFmR0NRYktVa2lfU2N3Nkc2V2RMQkdDbmVoRC1sM3pxUHdMUHJETTFfeHUybW1OLTA0cnVTdVhnbnpFeW82NmJjVEJ3WE9OQWFtQWRCV1Mza21RZnRlM1NFeUFwUDJ0eFduWWVoRWRJSWFDTGh1WmJUcTVZOVpsbWRJOA?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 15:00:50 GMT",
+      "description": "Measles hits the 100-case mark in Kentucky News From The States",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -493,15 +502,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWWZSMk5FaEdZNnAwYnM4emVRcTFBcnh6QlBNSzFKQ01aeXFBd0hOc1p1enpvbEQ4bjdhWjJlN3BtM1hRcC1LVnpDVmxWSVR6aGlYZUVjVDlmTmxaNmhqS0tIM0dSRDZXaGVUN2ZPa2Nsd25GRUxNQmJydFYtczJkSV9uTVliYVNMdnlrOW9IVzM?oc=5",
       "pubDate": "Fri, 09 Oct 2026 10:00:00 GMT",
       "description": "In Wisconsin communities affected by measles, opinions on vaccines remain mixed WPR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "This Penn State Health pediatrician never thought he’d see measles. Now, he treats it every day. - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTBlSDRGUkk2ZXJWaFh4Z04tOVI2WE90SlhDREZEZXFGMl9aWmM5bnhPTWN3eHdSSVZiUkp5djZBS3NVRjhPekxfMU5hcE1tajY0Z2N4aVdPTjVRWDJHU3JqYmxqb1duNHY2WTZmdmU3LXBFa2ZucTRXZlo5WjluWnIwVXVjemgxcVdvUjB5eVBwYkx0emc5TTRRQktiUDUwVkE?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 08:00:00 GMT",
-      "description": "This Penn State Health pediatrician never thought he’d see measles. Now, he treats it every day. Pittsburgh Post-Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -615,15 +615,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Kansas measles cases grow to five; community transmission not seen - Kansas Reflector",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUGxZSEU4ZW03d1V4anBRM182T0RCMUZBUlc2WC00YmtROU5KaDlXcWd6LXhSME5KR1BkUHppRk5qSVQ1RDRCWnk0S1laMDJsVjdvOEJKQnNRYnU0QU1NdTBwZnZkSTNlc3BwSTJXa0QxTWhtVEE3SXExTnBDWkt6bkdKU0NJa0ZUT1h3U3E5RUpUS0FnOHBrd1BLT01WbTJyb1pidllwRkk?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 21:24:27 GMT",
-      "description": "Kansas measles cases grow to five; community transmission not seen Kansas Reflector",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Lawmakers want answers from CDC director on childhood vaccine recommendations, measles response - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFBoWXR5U2FwdlJ3bG1tQ3RtTHFTd1UzVXhCcDBtWGIyUmV2d2hKVmhrenNHdENhbTdtTUVPWXpsdUltVldmR1FrX3JVV3FPNHdibzRvWVIwcjZCUUhXRlNUSUZ6dXBwRm9vS1p6RDluaEQtZUctSG96R19NX3BscUZoS2hKWXBiUVlSQjhRMllsS1lEV2l2TjFPWndVTDNxM3BNd0hjVThyQVdJYzhRTjQ5NWtVU3I0VHN3Wk1VcUI?oc=5",
       "pubDate": "Thu, 08 Oct 2026 20:21:00 GMT",
@@ -655,6 +646,15 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3BvaFIxRlpNSEdmaGJodHF6OTJYd2NLT0VGRWMzeHhkd2NmMXdoWElqN3ZScHZZUUgzQkZRYlFxQVBDb2NFTnN6TDFJWmNpRGJpTnlwMURxdnhJZDkyakY4QVRMSmZNQkc2STRNeVlUc0t6SmJabWJ1dXdrRW9WQkJKa2E0RGRobWdpS3F2cm9HRF80SXRITVJPZFhNcU1oN1E?oc=5",
       "pubDate": "Thu, 08 Oct 2026 09:01:01 GMT",
       "description": "Pa. measles outbreak is nation’s worst, echoing deadly 1991 Philadelphia epidemic Inquirer.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pa. measles outbreak becomes largest, deadliest in country over last 30 years - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNDVuZWhBYnFFdkU1dkE1R3UwdlBIQXNrb0pYRDAzTU9zS05iRnp1Ukh2WHQyZ1Z2Q0l4aWpwOHJySHVNOW1paFZGVkdrcGI1aWNFbGhZM2lVOThFbF9ZSmI2SXIxQm03bGhwQkhTZElpTmNfX0ZDS3d4TXRvWm4yYXJ0endSMVZRTmdXRmxQX2ZrZlAxVTJJNFhFTEZnTnF6TE1OT3lzSy1pNVhjM2VoTTZTR0ZyZXNlOEc0NkRxYVA1MkxPbmoxOF9hcVRkQlRrX1ZoQ3VXOThkaV92Vk8xVzFhbFA0R2pxMHAtcWlPekZVNi01TFlHcWVscGVTUQ?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 02:15:00 GMT",
+      "description": "Pa. measles outbreak becomes largest, deadliest in country over last 30 years WFMZ.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
