@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-10-12T01:09:37.855Z",
-  "itemCount": 86,
+  "updatedAt": "2026-10-12T01:52:16.769Z",
+  "itemCount": 85,
   "items": [
     {
       "title": "Nationwide surge in measles cases - KIRO 7 News Seattle",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa0hEQVZFaVpwSWswN0x3NDYySEtUa29YREo5MHBabk5UeURHVzJ6YVVrQjBfbXVwbU8ySlp5bW5XYXZWTldXSHVtZnliX1d3VGdmZWdLNG1PUEVQdi1wZU1BSzNXQVlpWW1PTzNNejRuYTNuanF3bmJoaUV2eE9sOXlTUVhFUUswSldIamlzeF9yU3VWYzlCSjZTV0xKX2NRd0Nr?oc=5",
       "pubDate": "Mon, 12 Oct 2026 00:25:37 GMT",
       "description": "Nationwide surge in measles cases KIRO 7 News Seattle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Nationwide surge in measles cases - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcmtjU1RZVG82RjQzZmc5aGl3ODR0RnUwWmlTaW5BR1pNN3dCMzFNcndaTzUyUFpGZTNKVDR4VTVqUWNOd3FnU0FCNWgtUXJWYV8wd1ZRcFZCTVRTT29XeXhqcVNBaUprdnEzTXM1THpLUzJxRDZyM0p6eGpuQUZDTlNEUUh5Zw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 00:21:00 GMT",
+      "description": "Nationwide surge in measles cases Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -111,15 +120,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Editorial: Deadly measles surges are caused by Trump and RFK Jr. - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZTd1S3pTRUlJVThUR21WYnZDeENKMnRyaVc3S3J3TndaTkw0WFlPX19hUDE1N2pfQWdOb1NzUW9NSldNLXZPR0VSUVJMb19BTXQ2d19hUklQdmV3NmQtakk0bmZ1RmtoR2g1ZnMyZEhCSUx4aC1LRzB4NnY5b2Q1V09WaGp0R0t3OGVOVkptNXZDN195bGtv?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 08:00:00 GMT",
-      "description": "Editorial: Deadly measles surges are caused by Trump and RFK Jr. Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Our Opinion: Urgency, transparency from CDC needed in fight to slow measles - Scranton Times-Tribune",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQWxYTk1UQnhQcG84RkdaTGRGWXF3Rm9tYkhvVXlFU3dxMVg1NS1HYlZZbE5qU2E3OVplcmttU0c0V3ExeWV2blg0Vjd1WVdZSk5ZYnZDVFZxWENQYmw5VjF3N09yZmFiNlhhRHVMb0R4TW9pZ0RlWUxseUtHdHdRS0QzY0Mwa3BnUFFTSGs2UjBUVHBlRlZONHE1eUhXdTRHOWItT1VFcFllZk51ellXV0drX1BnR3dld0E?oc=5",
       "pubDate": "Sun, 11 Oct 2026 04:02:23 GMT",
@@ -169,15 +169,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb1IwWmRCTkFmcG5udExMeDVwR3F4aTdmZDF5ci14RGEwY0lBU0tJeUo1dXBEV0x0bkJPREdGV0VVZG9uMktveEpGdDlLWEdJeE1nZ2h0YWJMMG1EYVVtdWxUYzJpbmpDZVFlVC0yLWlpWjBpT2R6NjBkQVFxY09UcU52eFpCRXpmaTFj?oc=5",
       "pubDate": "Sat, 10 Oct 2026 02:17:00 GMT",
       "description": "Central Minnesota county reports \"several cases of suspected measles\" CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Delaware Public Health District warns of possible measles exposure in Powell - The Columbus Dispatch",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRkpxZGFaWjhoNm8tQnpzWUpzbmU1S3g1cnkxc3dUTW12N3ZZQWdYdmFRdmtFQTFfTDg4SV8wc1V0T2doNUdSZ3ZEZlpBTGZFUjgzd1M1ZWtiX1E2aXFycDhtU3RxZGoyQU5fa3o3cHBjUl92S3otSVdIa2lOLVkxMzZNY0tKcHR4SnhMNDNRUDViNXNTdVR4djJzVmQzX08wM1lJcUFkZzI?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 01:13:00 GMT",
-      "description": "Delaware Public Health District warns of possible measles exposure in Powell The Columbus Dispatch",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -606,10 +597,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Six total cases of measles in Fillmore County - KTTC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhcDF1RWxnVGM3bmlCazFTN2Zpd1dwTmtuUzY3MkhGQjlSREZaY2xlYTV6QVVIaXZKS3dfU01XLWVqR2plbEZydHVOSEtFb2dpS25oSEFjYzJEY0Z4Y2pZZUtaa0EtNjIwT2pFNURFR0NGQXBEZXZxMVZJRXfSAZABQVVfeXFMUHdsZU5KYXBqVUM0S1VQeWR5US1uT2pQOUp1VmJTdHQ1X19sQjE4QTBpMHJ6WHpVd01RTWdZMV94UlZxVFVYdjdmaGFnSzFQMm1sVGdzeUdUZDVIV2hBcTMwXzdQMzFPSVkwVWRQUzMxSGpXVXkzdFJyU1ljaDViZGRzMURUdHN2QjV5enVoOUhm?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 23:49:00 GMT",
-      "description": "Six total cases of measles in Fillmore County KTTC",
+      "title": "Oswego County health officials confirm second case of measles - Syracuse.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEpmVXJRbW9HTnZoZThkUV9oR0RyUmYzVU1WTjV4d2tJMkE4OVoweF95eWZrTUtCeVdXYzNMUDdHc2RRMUlWajk5TnNyTjhkVEFKczBTS3ZWNzRISUpzOEF4YlhfN20zMW5GWm5WeFVyZV9USlNvZkV1OUxIOTljLVVHUEVLTDAtdFRqc080aW15MHlCWnhocDJTZjc2eGluTFZYVnZraw?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 23:46:00 GMT",
+      "description": "Oswego County health officials confirm second case of measles Syracuse.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -619,15 +610,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONjAwVEQxTF9uNTFidmQ0cjRkSldKQkZDY1RwWHVSNHQxcnVXWUFNY0hlMXcxMmllZVhaOWhIM09jZXF5bDdEdFhoc0FsdjlNUDlvX0NDdzlCeklYdlNWbFN3dzJYcTNDYW1GZjBDNXZURVp0VzREczhtNFFwTFhtV2U0eGJQZERWZUZBTWZORUhKNUpGcnU3TG9kLVlzcmtkelVuZEpYcGp5QXBtWkk2U2xmMXFzcVN4aVNpTW03LUQ4N1ExX1k2UTdpQlVTcnZLMkZRUnA3ZXhyUQ?oc=5",
       "pubDate": "Thu, 08 Oct 2026 23:39:44 GMT",
       "description": "SLO County Public Health Confirms First Measles Case of 2026 County of San Luis Obispo (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "New York governor plans to seek federal help to tackle measles outbreak - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdnhCN2hzWmFEOGt1bkRSTGRJYlpmVkQzLW4tNUc3N1VHMkR0TndnOEVwNW5CX3lIWEd3Zkc1MmFHVHZRbVZYbTZkSGtYaDdhM2NSRmpKT1JtNHR6cTA1dnozUG9VTE9abzlGdUNpNDZtSERDdkdPbk9PMThXUnZZd2tBUG41WmktTV96VENXZldlYzR6TTFhSmlqQ2JrbllYZ29Bemg4YjhhYUhPblhaRkRuMDk?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 22:01:48 GMT",
-      "description": "New York governor plans to seek federal help to tackle measles outbreak Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -691,6 +673,15 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNlhpbEtmLWxfeVJzSDlyUWU1TkZRUWtvd1JPZ1BlZ0QxZmFNT2VONThIRVJQbFc5b0lOdHctVjE0aF9SMlk2WTlwSmlYMEl1eExucFpKSVd3VVE2eGxHUjl3ZU5IV1JuWm96X0xTS2FOcEZIbWNFOWVBSGVlbElrU3JLRUJDT2RSczJvaDFwVFhfNk9NS1hJZm1KOU4wRTFyNHFoa3ozMjZpazNwby13amZiNHBZZFk?oc=5",
       "pubDate": "Wed, 07 Oct 2026 21:24:32 GMT",
       "description": "Three children with measles being treated at Golisano Children’s Hospital in Rochester WHEC.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New York governor plans to seek federal help to tackle measles outbreak - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdnhCN2hzWmFEOGt1bkRSTGRJYlpmVkQzLW4tNUc3N1VHMkR0TndnOEVwNW5CX3lIWEd3Zkc1MmFHVHZRbVZYbTZkSGtYaDdhM2NSRmpKT1JtNHR6cTA1dnozUG9VTE9abzlGdUNpNDZtSERDdkdPbk9PMThXUnZZd2tBUG41WmktTV96VENXZldlYzR6TTFhSmlqQ2JrbllYZ29Bemg4YjhhYUhPblhaRkRuMDk?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 20:18:00 GMT",
+      "description": "New York governor plans to seek federal help to tackle measles outbreak Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
