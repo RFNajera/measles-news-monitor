@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-10-13T02:42:32.776Z",
-  "itemCount": 86,
+  "updatedAt": "2026-10-13T03:33:13.328Z",
+  "itemCount": 85,
   "items": [
     {
       "title": "6th measles death reported in Pennsylvania amid nation's largest outbreak in decades - cbs19.tv",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc1lCczRpVXdmZ0RPY002eHIxVG8wY3RESmNWZG1nY3pEc0paejVhYVVBam1PZllPM1NHRlVUbkNvMHU5ZHNkSjU3RGJpWExSVGFzVnZmaVd3UEJOcHZ4bFI4OVdSdmRDLUtHVS10THBUbWdxNnRYeEYta1k1c29EdXU3eVhuM3NGRE56QVpsdDljWnFlVUZHUXA2LXBzUmlPSzc4Z1NDMzl0eGlWcklYdHoxNURyZHVwQnRBbmc3SW1sVnM?oc=5",
       "pubDate": "Tue, 13 Oct 2026 02:27:00 GMT",
       "description": "6th measles death reported in Pennsylvania amid nation's largest outbreak in decades cbs19.tv",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Oneida County's first two confirmed measles cases in 30 years - WSTM",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fMWpLZnZfZDBFYWlfNkpGSkdxUEZUQ044TWNreldMeGxiS3BSVkxBLWExRU56bFNrNDdqQzFnaUlrcnZFbDRLSzBkQk5adnVOallodWpZSmhJNzJidXp1dmR3VGk3NERI?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 02:05:36 GMT",
+      "description": "Oneida County's first two confirmed measles cases in 30 years WSTM",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -151,15 +160,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSzBXa3F6ekQ5dnk3NFFVYktKZklJU0t4T2ItLWRfS3h6dWxCRkdpcmhISUt5R1FCTkxqVThiVmFRQmhETDRRcEtOanV5azg3dUN4TDhVMTNtRW44QmR2VnhfQjd1S1pJbEpFeFJFLTFqNVV5WFZpUjJ6Rm5YSzlOb1pVZnBLa1NiY2lKd1VWQlhPVGZZdUdJcVZUYkwyOWltQWVXRGxhdmlabi1HcXUwVGJ4M1QwR2M4eVdzNXFjRFUtZm12UTZEazM4dTJCM2d3QnZfZ0dZcEVtREN0Y3JB?oc=5",
       "pubDate": "Mon, 12 Oct 2026 21:08:00 GMT",
       "description": "Measles cases reach 4,080 for the year — the highest in decades Montrose Daily Press",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles-associated death reported in Franklin County amid ongoing Pa. outbreak - The Progress",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZnlhdVBHT2pnUlBmcDRuY0hKNTNPclFpcGMtdVNXTnBuaDYzb3RBa2x5N1JrU0RMUEx4WHNabHdBSm5QNEtobGRnYnFZUEV2UldWdHNucGo1TXNFNWl3d09XbDVDeHZpbFQtZ3JwOG5ZOUd1UDNLWHY3WEs3S0RPVkJhaE5HM0g0OGRSYlhqLVJFU2lkN2RFa2RoWEhJd1MzVzJoOHg5aWZON21TVTBPOVJjRk5GQmpqNkZ6OFlNbzFxbVpnRUhJdTg0ZldGVmplb2VVTHIxbjg0VzlidHEzTWNWOHMxSGx4QWktZGFkSEo?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 21:07:27 GMT",
-      "description": "Measles-associated death reported in Franklin County amid ongoing Pa. outbreak The Progress",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -336,6 +336,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles-associated death reported in Franklin County amid ongoing Pa. outbreak - The Progress",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZnlhdVBHT2pnUlBmcDRuY0hKNTNPclFpcGMtdVNXTnBuaDYzb3RBa2x5N1JrU0RMUEx4WHNabHdBSm5QNEtobGRnYnFZUEV2UldWdHNucGo1TXNFNWl3d09XbDVDeHZpbFQtZ3JwOG5ZOUd1UDNLWHY3WEs3S0RPVkJhaE5HM0g0OGRSYlhqLVJFU2lkN2RFa2RoWEhJd1MzVzJoOHg5aWZON21TVTBPOVJjRk5GQmpqNkZ6OFlNbzFxbVpnRUhJdTg0ZldGVmplb2VVTHIxbjg0VzlidHEzTWNWOHMxSGx4QWktZGFkSEo?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 17:06:00 GMT",
+      "description": "Measles-associated death reported in Franklin County amid ongoing Pa. outbreak The Progress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "6th measles-associated death in Pennsylvania reported in Franklin County - PHL17.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFdRVWdrSjFpRDRQX283UUk0WHBoQjkzUDNzTjBEal9DOUNLUjNWTERVdE1QNFVmLS14Q2kyZjdVUVh4Ymh2dGMzOGRVZG9JU2pmLWxKeGtKZmF5NUpGVHFqTFFNeE5CdE1kM283cmQzRzRtY2NSOGFlUUVJazhQUUtGMndWNm5sbm1aSndOa2I5Y1ZGN1ZtSkkzTHZkNUljeERrcw?oc=5",
       "pubDate": "Mon, 12 Oct 2026 16:30:50 GMT",
@@ -471,15 +480,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Pennsylvania's 6th measles death reported in Franklin County - Chambersburg Public Opinion",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnVGV25QQ0hOYTVoQkw4eHBubHJzdjhVUy1YUUs4R3JhQmtVNkRmSUF5d2pEMDI1U3hreUVoaElPU2gxbldudHdwZ0V4bmhXdm1SQm5mdVByS3VxNDM0c2xrYXZ2R0F2NHQxclVWNk14dnliOGhMY19sLVRHS1lnUm16N29DM0dKVlVNbS1VVmZHSHVfVzE2WjFrU0w0eG1zLUZBUmFOQlF1VkVaZWEtRTRuZkZiRTlMYnRSanRDTnU1LXNTSWJkMVhNUVA?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 13:21:00 GMT",
-      "description": "Pennsylvania's 6th measles death reported in Franklin County Chambersburg Public Opinion",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Franklin County woman's death marks 6th 'measles-associated' death in PA - WGAL",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSUpwTXk2djlJVkpCelNnc1NsUDNVUlk1Z0ZFclg2aV9YM2ZGVnl3Q3hmNTc3QkFzVUZxb2sxT3dGUFdyb2VLTUlzZHFaZVJSeFYwbE9JQ0hCNGhrRzNrbEJyOXRab0xuaHhFVjRUbE1WVVBqOEwyQWNoRlRQcVFnNnVIWHppUGJWOTFxRlE2R2o?oc=5",
       "pubDate": "Mon, 12 Oct 2026 12:49:13 GMT",
@@ -529,15 +529,6 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSnRmU0l0ck56NlotY3Y4Y1FLOVZCZ2ZZbGhlU1B5M3N0azBoSWRNY1JXTld0ZzVqX1VpZW8xOGkyenJyOEFNVS0xVzhqaUJVTVEtSE9WM1RpZWNfVWhvV210RkRDMWlPRV9Mb05STEtRa0VKQktyazJQMHJEa0ZqMjZPbG50ZExhWFZiMmdCLW5DRHN0YmVUeVc0WUgzc08zeWx3a3ZFcHgtelgxbk4tQlpIbkpMTU80TjJoMmtTU2FpakJaV3dhSTQ3NA?oc=5",
       "pubDate": "Mon, 12 Oct 2026 11:41:00 GMT",
       "description": "Why PA. measles outbreak isn’t a seasonal concern Delawareonline.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Oneida County's first two confirmed measles cases in 30 years - WSTM",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pZ2pmQTZ3cFZiQ2pNOWpSSkc3ZmFkYi1mTUpZelZtTXU3SUUzN2RNdlJlV3l2TVl4aGxuTGZwOHZCTmttUGRiY2paU1R3c1VYczVMbDdiM1RIaXlwLVM3MA?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 11:13:38 GMT",
-      "description": "Oneida County's first two confirmed measles cases in 30 years WSTM",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
