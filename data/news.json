@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-14T09:25:55.540Z",
-  "itemCount": 93,
+  "updatedAt": "2026-10-14T10:23:51.506Z",
+  "itemCount": 92,
   "items": [
+    {
+      "title": "Disabilities Beat: How New York is tackling measles through a state of emergency - Buffalo Toronto Public Media",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYXRJbXZEck0zTmY0blhhTFZfWU9LbERZVVlJbVpKN2IyVm85bDhaekEwMU5kOGtGNF9qSzFVOVhteGprNTJDZnBENDU2eWxMTlh6aFFzVF9OLUZ6RHJ3OV85SEFRLUg4TWZxSW9WUGhZTThoM0lnc1FVQS1QR2hwbU5oZVNNek5wamRUTUdZVmVHdUZ5cVcweWtsU1cyclVPSGU4N2pqR1pIRXduYTVmaFB4LU1meWU5?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 10:00:00 GMT",
+      "description": "Disabilities Beat: How New York is tackling measles through a state of emergency Buffalo Toronto Public Media",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Tompkins County still measles-free despite statewide increase - 607 News Now",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbkRrWHJqaHZ6TVVSdTBGcndtd1l5QVhzME1OT1FfUVpZd1NQLUhZYXpGejlwdXpfaXVyTFpQZHQwZ0o0Z1FETm1vVXpWeG81WGo4MEZNelBldWt1SE9BU0plSm4xX3V5WFV0TlliOGJkVExMeHhoX0p5cjJMZERkTEZiVFQ2dnZ4akdGSXlMSV80VjNnNFNqOGQ4aW5pUQ?oc=5",
@@ -43,15 +52,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUnNPQnZiN20xdWF2MnJieU1TYVYxTGtVZjJHZTZ6N2ZNcWJpSkFfZzVKVUl4RnlGTzdrd2IzNTJMclRMaEoyaTBscXliY2QyUHJkVkEwc2RudXJKd3lkN3NLNEdfdG0zX2xEWFNOcUpURl9lTVBFR0pzeElsSXZuNmEwbU12ZFpzNjFDMG1ycHJGTEYyMHhncEV1dHhFV3hMcDVJU2IyX1FIOFA1NGg4YkJPUllZbDdXQzhBSTBGeVU1eDZ4UlRR?oc=5",
       "pubDate": "Wed, 14 Oct 2026 03:52:14 GMT",
       "description": "Investigation underway in Laurel Co. amid 56 measles cases dating back to August LEX 18 News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Georgia health officials confirm new measles case, unvaccinated Macon resident, close contacts quarantined at home . - On Common Ground News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObjhZNTFla1FJM3hld1diT1VtVlA4QU81ckJ0SFhRUHd5cnN3RDRkUVliT2hNYk04aUxVUmRPUzhMbWtIZ2ZzSjdoZnN1eGtvazFVcEZGRUFxeVUzMjI4Y21EWmk0MkFFWlpucFdVcWdEMUh4VzVaLVlPTFVDems1d3dmTjFvY2QtNUtScG95cTNyUklxTmcxaFNEaXhnYURyLWJoMnNLYW10UlVqRXU5SHlTLTlDdDZUX0t1STBHamtGcDgxZS00YjYxX2ZDQQ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 03:39:20 GMT",
-      "description": "Georgia health officials confirm new measles case, unvaccinated Macon resident, close contacts quarantined at home . On Common Ground News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -445,7 +445,7 @@
     },
     {
       "title": "Five probable measles cases reported in Rock County - WIFR",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUFQ3TDZWQm9OWmVHVEVqU1pCMXJmYTVlZDBCN25hSzNyMDdmTGpJcnJ5eVZ4NmlUdWt0QTA3UU45ZkpFOWZLajYxYXdtUzVoNGtZR2loenFBR1dtdG1HX0szSUlOajlEUzNoQ3FiWHBZX1VWTWJpOEdBRUJZUHF0Y1JNY2ZISFQ5aWxMOFJFNlFveWxyenRRbFR3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUFQ3TDZWQm9OWmVHVEVqU1pCMXJmYTVlZDBCN25hSzNyMDdmTGpJcnJ5eVZ4NmlUdWt0QTA3UU45ZkpFOWZLajYxYXdtUzVoNGtZR2loenFBR1dtdG1HX0szSUlOajlEUzNoQ3FiWHBZX1VWTWJpOEdBRUJZUHF0Y1JNY2ZISFQ5aWxMOFJFNlFveWxyenRRbFR30gGuAUFVX3lxTE9USk5GcHFVUjRQU3huVS1rZnJqRnBLc2Q4RUJBakU0TllDbGlwRlFGbEo5Y1p0N2t6b3pvdGR0a1hfaWY5aXdsMjNnMUNOTHdUSzByS2xkZWRXUlFyMm1YMk4taW9obFJnZHhMVkJHZXV1RjR6dUJ1clkzV0hYNE44Qm1UTTJpa3hnTXJjWnhBWTFIdmVuSmRCVmNxbmtXRFZKX3lGX3pDdWRxcGZqZw?oc=5",
       "pubDate": "Tue, 13 Oct 2026 19:02:00 GMT",
       "description": "Five probable measles cases reported in Rock County WIFR",
       "source": "news.google.com",
@@ -561,15 +561,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "As measles continues to spread, health officials are seeing vaccine interest rise - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSnR5S0N2Rzl6dGdQUkdLdUZnTWg4ZW44eEVuWWZ2VmROSGwyR0k2V2NCOEtBdGVBcnBBR24wNWhwdnVlMG5RRElzdVFpYTRBUDRrOXNGZU9kMzFOMGNVZUx4b3VjRmJBZHJUb2NDSm1POWtVMG5EOThvYzFXQ1JRS2M3NHJ0NW02azJaRUNpcDVqU3FNdmNULWFFZ0VSbWN0clBSRlJZMUhHVzVOQUHSAbMBQVVfeXFMT2p1Qk5rTTJ2Y0xtWENTSmpYQ3Fsby14aWQ1WUlULVpSeEF6WGlSSUFLRzFiY08wSnFTRkJjQUswUHA0TW5JR0VwRzBva1VGQjVWajhwb25Kc01SQnduQWJHWktCeVhRVHN3c1BXUDBGWGVzSnhQZG5MZVREY0J6Sk1lcVhlWk9ldlFDbzVLQmtab00yalBUMmp6eFpsQTVpM2xvTG9Bc0ZPN2NPOEtaR2k1WXc?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 15:32:36 GMT",
-      "description": "As measles continues to spread, health officials are seeing vaccine interest rise ABC News - Breaking News, Latest News and Videos",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Pennsylvania Coroner Reports Sixth Measles-Related Death - Contagion Live",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbFJyTXlyblVmOHZuLXhONlA5R21RWmoxeEROTElVUHVyTXhuR1VHSG1PdUlFcDQtZE0taXdkN0F4NExXMzQzVkRhR3g1MGpJMVpEbzRVc2dSQWVqQlVqYzhiLXNGUmNYcWs4aEF2dWoxcHdCZlpTQ2VUem1WZGpXeWN4SDBvMVJ0UjI2cjRCVDJlTjJhRlE?oc=5",
       "pubDate": "Tue, 13 Oct 2026 13:43:56 GMT",
@@ -597,19 +588,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Oneida County's first two confirmed measles cases in 30 years - WSTM",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pZ2pmQTZ3cFZiQ2pNOWpSSkc3ZmFkYi1mTUpZelZtTXU3SUUzN2RNdlJlV3l2TVl4aGxuTGZwOHZCTmttUGRiY2paU1R3c1VYczVMbDdiM1RIaXlwLVM3MA?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 02:05:36 GMT",
-      "description": "Oneida County's first two confirmed measles cases in 30 years WSTM",
+      "title": "Sixth person who had measles has died in Pennsylvania, local coroner says - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUhEa1RIem5UNjF2UnZycExVX1RHZ2tUTkZveUlrNVdTODBwMFdHeGxCYXdmMnlMN2RqRnRkS0tjSnBPVGdRaWZSeWVzdW8yejRuQmVKaXdJZ2hmR3I3V2tTc3ZDRU1USUZ1clNzWnFWWk8zczhhQm96OXUtdkhFZW5Fdm1EdUdBRm9sY3BHX2YxNmt1X09DZ1BmVDMta1VVYzg3bTJTY3lFRjdRRm1BTTAzNDlMQQ?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 02:04:19 GMT",
+      "description": "Sixth person who had measles has died in Pennsylvania, local coroner says The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Sixth person who had measles has died in Pennsylvania, local coroner says - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUhEa1RIem5UNjF2UnZycExVX1RHZ2tUTkZveUlrNVdTODBwMFdHeGxCYXdmMnlMN2RqRnRkS0tjSnBPVGdRaWZSeWVzdW8yejRuQmVKaXdJZ2hmR3I3V2tTc3ZDRU1USUZ1clNzWnFWWk8zczhhQm96OXUtdkhFZW5Fdm1EdUdBRm9sY3BHX2YxNmt1X09DZ1BmVDMta1VVYzg3bTJTY3lFRjdRRm1BTTAzNDlMQQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 02:04:19 GMT",
-      "description": "Sixth person who had measles has died in Pennsylvania, local coroner says The Washington Post",
+      "title": "Vaccination urged as measles outbreak continues across Wisconsin and in Chippewa Co. - WQOW",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdUFmOGJ6eW1kNUhKYkRXdk15c0YwN0xZc1ZqMFNSLW5NRk05SmEwdGIzVkFGdjdlYy05NlVMLU9Yb3B3Z2FqZkV6QUxuaElvOXQ3dlNnN0VaNEFiY2x6eG9OV1E1NmZSNXB3UjZiZW92eWtDZEJZeGxnbnRTMWpoSXYyNHNIOTlQSTU5NGc4YTFWRmdLZnE5b194N3A2ZzgzYk0xcHI0WlRNeS1Tc180aXRTUHl1dHFqbzZTZDVkRktSTlpobWtEZTUyWjhkWmhYU01GcGpXVFExc2RKdW0yeWQxQzhoSnk1aEcta0xKbzg?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 00:58:00 GMT",
+      "description": "Vaccination urged as measles outbreak continues across Wisconsin and in Chippewa Co. WQOW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -633,6 +624,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaE5iSnVUZE05dGpRWE9oaFVOZ0YyZF9Hc2taQTZ4bUQxWTJTRm5XWFpWZzU1b3lnSi1JSGNRNWpkcHpSZXhhSVF4V0JOTW5Vci1BbGk4U0JvVG12d3FMQ0VsZEZ6dGpkem1GSEtXcDNMM05uRlNHNnVWNEZDM2NQUy0zR1ZvUVd4Q21CV0dCM09BYlJScS1HMlBqU0tTUVJUOGhHbVZOUE1RR1ppYnpDazF3?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 21:54:35 GMT",
+      "description": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania Ars Technica A sixth measles-related death is reported in Pennsylvania NBC News As measles continues to spread, health officials are seeing vaccine interest rise ABC News - Breaking News, Latest News and Vid",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Franklin County coroner announces measles-associated death, state Health Dept. still investigating - Pennsylvania Capital-Star",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQTFuYVYza0tjblJtbm1BQV9lSlpBQ1NsYjBTUEFtVnd5UmpLbEdCcDRCMkdaXzhxcC1SSkxSUV85RG91b1dKWW5oRjN2b1JOaWhuNmJEdUpYa25UZlN6UjIzSy10ZkZ2Smc4enJZYzJsbzVDVE1UU1NhQXFWMEJpQmdyTkRmT3lkZ1ZJSmZnTnFRTzIyaGVmZlRHVHdZWVBTQ3dHUlZ1R0M2Z0w0ZWVVRXpqcjUwcVhOUUpGTWctQThoLXAzOGFfRFpRVzhBZw?oc=5",
       "pubDate": "Mon, 12 Oct 2026 21:52:09 GMT",
@@ -642,19 +642,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "New York Declares Measles Emergency as U.S. Cases Grow Over 4,000 - Discover Magazine",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMThLNHFGa0Z1c2lIME5HOXZGbm1lc1h2SkZJcFpRQzVjR21xUWJ5Z1dyOGZjSERXZ1lTUklUekFHZ1VWMGRXR1hZTV9VZGxPQkZ3Q3NhN1VOTENnZndOMzZaNHZBNmdXZTJMZmh5RUpNQWp5SWVLdVRpQzNXU0lyRllFMFlOUmZ3T1hMZGJkZlRHZzVIM3ZuMVlGRTJDejZvTEp6RVFn?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 21:11:06 GMT",
-      "description": "New York Declares Measles Emergency as U.S. Cases Grow Over 4,000 Discover Magazine",
+      "title": "Pennsylvania records 6th measles-associated death this year, officials say - NBC10 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDJuU1k0RUtnTUJMOWFKS3Rxa2Fzb2stdFJjVFptZDVKUmk2LVlOUzN0Z0RLZHoxYUw4QzRKV1V6LWdFTnpQcFlfaDdsN2ItQ3VjX0hldGxBN1BqcF9DakNpc0lQeVRjT0poZjJMUWVFQnY5V29CTE1oaHplVTVwLUt1Rk5wSFdiNW5pS19zVVB6djF0MmlwTnp1cjZJcXNDY1BQU0FobzBLRUpxZlN4dGJhNmR4QTdjWnpwQkNkMnMyZnfSAcsBQVVfeXFMT3k2RHFNOGhia1cxaGFzUFZySHdjMkxHN1l1OWdYTFZlcFFDSEd6dTNFZWtQRHl4ZUVSeEtDNjZLaWtaMWtZSkZxUWdUWl91ZlhjT3BXZXk4R21LREZESldubGJ0MGpmaHM1R1RaRVN6RWppSkpWc1k1Z3pBaU5qdzN6WU5CZXpPOHcxSUtvY0hUMWZrM2tlTmFHcUpHOFlPNTB1bXBrT3JVU19uWVJ5V3Y5VHpZTFpySGNPV09vSjZvbF8wSGFjVnJNMVE?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 20:48:04 GMT",
+      "description": "Pennsylvania records 6th measles-associated death this year, officials say NBC10 Philadelphia",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Pennsylvania records 6th measles-associated death this year, officials say - NBC10 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDJuU1k0RUtnTUJMOWFKS3Rxa2Fzb2stdFJjVFptZDVKUmk2LVlOUzN0Z0RLZHoxYUw4QzRKV1V6LWdFTnpQcFlfaDdsN2ItQ3VjX0hldGxBN1BqcF9DakNpc0lQeVRjT0poZjJMUWVFQnY5V29CTE1oaHplVTVwLUt1Rk5wSFdiNW5pS19zVVB6djF0MmlwTnp1cjZJcXNDY1BQU0FobzBLRUpxZlN4dGJhNmR4QTdjWnpwQkNkMnMyZnfSAcsBQVVfeXFMT3k2RHFNOGhia1cxaGFzUFZySHdjMkxHN1l1OWdYTFZlcFFDSEd6dTNFZWtQRHl4ZUVSeEtDNjZLaWtaMWtZSkZxUWdUWl91ZlhjT3BXZXk4R21LREZESldubGJ0MGpmaHM1R1RaRVN6RWppSkpWc1k1Z3pBaU5qdzN6WU5CZXpPOHcxSUtvY0hUMWZrM2tlTmFHcUpHOFlPNTB1bXBrT3JVU19uWVJ5V3Y5VHpZTFpySGNPV09vSjZvbF8wSGFjVnJNMVE?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 20:48:04 GMT",
-      "description": "Pennsylvania records 6th measles-associated death this year, officials say NBC10 Philadelphia",
+      "title": "Pennsylvania reports its 6th measles death, in a Franklin County resident - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWlHVTR2b29sZEpsV3RSVlY0OWdqbk9Jenk4QmU3aGU0YXhGM0VIS1NzdjJwT1NMQjlWd2RKOFM3Q0Qya3lIQU1VQ0VheXRpX1Y0dkFaSy05VDh5SFRqVEhsMTZ6YmlXakRGTUhaNl81WXlhV3BPeFFoSkpBX1l4dTdaWVlCV08tTlpNeUxPVDRHaURBT2hiOUR4ZEMwZWh6cVZYaQ?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 20:38:23 GMT",
+      "description": "Pennsylvania reports its 6th measles death, in a Franklin County resident CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -705,10 +705,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "A sixth measles-related death is reported in Pennsylvania - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU29EckJJbW1TUC1hVjQ3NmEyWTYycjRJNlBhNEhHcVBDSXRGX0NiQkNKYmFXZjRMYUNDMlNVeEZtMXRUYUdYTzhON0Y3RXF4czJKTWl0cDVVdHR3dWJHZTN0UkMyblpFYUUzbV9OTXVqUlgzOHNLU3Z1R0t3Yk43Y21LX2hFQ0dxU0tPbmZJbkdvLUFUaHA4MDdOTWJOZW1lRU5UTUNR?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 18:46:33 GMT",
-      "description": "A sixth measles-related death is reported in Pennsylvania NBC News Pennsylvania reports its 6th measles death, in a Franklin County resident CIDRAP 39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania Ars Technica",
+      "title": "6th measles-related death reported in Franklin County as Pennsylvania outbreak intensifies - 90.5 WESA",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSl9KbmFhWllVUFZkM0JlZjVEbkhnZEVXNTBLeEhPaHJpX1RReUQ2TTFsWHo2U2NxVXBpRU9NZmNKNTdLNW9DajhhbTI2V1c5QUN3cS1UbExwckVuUlJnblRRTEowbmFYLU10UnlQZHVkWmxMRk9SbWt4MUIzZmZGbThocThHY2xHSlJQTFJwY0Z0bTFfNWdCa3B4a1BQak1Qemx0cHlhQVRjZ015RjY5MjJDT2NiZw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 18:33:00 GMT",
+      "description": "6th measles-related death reported in Franklin County as Pennsylvania outbreak intensifies 90.5 WESA",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -736,15 +736,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFJ4QS0tcUo4T0JGUjNlQ3FYV0NJU3JxX2ZHWUQ4OXdrMV9La0VhNmJVclE1U0VFRnlJOHlJaTNPWFdxTWhHMjZqMGxDRWkyRDM0S3BCMHRpLVp0VFl3WHpfQVlaUVQ2NUV6OWhEeEFOZHlsMU9OWkYxR3Z3dW9WeW5NUHFvSjZ6dHFPNk9EZzRxemVlcEJRN0RB?oc=5",
       "pubDate": "Mon, 12 Oct 2026 15:34:00 GMT",
       "description": "6th measles-associated death reported in Pennsylvania CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Oxford Area High School returns to in-person learning following measles case in school community - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTk9oT1oxOXdOV25DUTRIdDJDQkY4WXBlQVhqc0JiQkxlUzgyQlkyWDJYa2FEX1ROZGtzTlhPbG1XZk9MSjM1WE1rTUxlU0JaQXFTRWlvbmJtdXI3WmFIWFNudnRxd1MyNlFfSldXNk00a0pDeWFrMzJEaEF5SG9yTkNTRFFpWEJLZHp1ZVhMN19vbURxUlJ6RER3N1lFWUtEQzVqV3VGUXBPZGlqZmRJTzBn0gG3AUFVX3lxTFBya3hRaDF5QnMwVHhvbkIzb1VtSmd5RWUwUWk1X0dza1lnVVhZTnBaXzJjLU55a3hNWkMyT2FvMTUwaEVkLVdtTGd6dDgxLWpQT2U0ZDlsblJmRkxCd1JyeVRmS09kSktsZTh4ZVpvRUM2Vk5xUmpxZW5lbDVFRy04TVpkYWRmWTl2WGRoOUNwN2JtSEpldlp4WmNLTzRBQ2JFY0NQcXU1SkctQVB4NDZWdkZiMGpCNA?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 14:50:55 GMT",
-      "description": "Oxford Area High School returns to in-person learning following measles case in school community 6abc Philadelphia",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
