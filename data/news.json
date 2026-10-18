@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T13:18:51.624Z",
-  "itemCount": 83,
+  "updatedAt": "2026-10-18T14:19:20.296Z",
+  "itemCount": 80,
   "items": [
     {
       "title": "Measles cases in Wisconsin rise to 288 - Outbreak News Today",
@@ -16,6 +16,15 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejJ5dXhIenpoRmJOQ3pKS1RTSDNhNnN1YkpBbTlrNEQ1aG56S19nVnJacnBic2hPN0dWZ2ZKMWF6c3BoX09JTjVQdFhRYXBJckhPQXZwMUdSY2ZXcVFUUk5hMl9iUnVqN1d2MDdvRHRaSXFpa01hNlI2cGkzbWMyS0hKUjJCUzdmWDJqRXBXS3c1Tm42dml4RjMxMU9xX1NxT3ZmbmdWUWU?oc=5",
       "pubDate": "Sun, 18 Oct 2026 12:14:25 GMT",
       "description": "RFK Jr. says measles cases are spiking due to a lack of vaccinations ABC27",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "At the center of the state’s growing measles outbreak, it’s business as usual - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUcya21TWEJnc3Z6MVBXNEFDMWREZDNxRnBxWmVnSGlRRUlPTER1czdfZF95RG9wVmNMd2xmQ3NXQ1hYZzNzekNBVFE4djA1MEVvTjQxWUZjZWRWRW1tSkltLTZLSHY3YV92UFBPRDcwWnRxZlY4REVrZklERWpONG9KX2xCR091RDFJ?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 09:01:00 GMT",
+      "description": "At the center of the state’s growing measles outbreak, it’s business as usual Inquirer.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -75,15 +84,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Virginia reports confirmed measles case, traces potential exposures - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUDZFcGtLVFJsNDFQRDVCWGhELU9DVHVGN3BBWjE3MGJkbHlBNXpudFdxb1RKTjVTNFJCbXRLenkwUk9NMGxOanQyamdGX2YtVHdHTnRXWFZUOXhqRm5rWHU4SzkyVG1PRWluOElacFBncXRXN3lZR2hjUkJmeWNJMmVHekp4bU1xd1VHSld0bDY1clFXM19ocEJHZ2lLREt4VUp3eHBYWGpkMU81a3h2bWdXTXFOMWswY2JYblFnclRiT0JSdnV5SDNXbnNacDkydmc?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 21:23:20 GMT",
-      "description": "Virginia reports confirmed measles case, traces potential exposures TradingView",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Colorado Confirms 26th Measles Case of 2026 with Exposures at Denver Airport and an Arvada Urgent Care - Medical Daily",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYk5WNTZJel90TTA4ZFU3TEItaDVqal9QY0h4WTlmenktd2RYZF9lUGY5enJQOEdnbzVWZXdycUhCY05vR3BBRUxMT3dXTUc5dkhTMk8zWTI1dVJPTV9pVlJHVFJtaUp1dUFBalB4QV9jcnFBeElPeGZnT3ZJMDZ0M1VKSWFwcUFCT050Ym4ta2R3dw?oc=5",
       "pubDate": "Sat, 17 Oct 2026 19:24:56 GMT",
@@ -138,6 +138,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNHRzVfU3BUQV84MFNyU1JOTnp2UmY5RnZoQ3RGZWFLRWo4WFBaRU9KaHBPTHFtNzhNWDlwRnZaMkdMLVBSMmdtRnVCWkpMMXZyU21LaVZEN3hXYjh2RUlGMmtCTWVBM3VCSVVLX0hZZDZKdl9WRWI3NzNOREM4ZjZMbVZvbUxKNjc4cTUzalFOOV9O?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 12:00:00 GMT",
+      "description": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak The Guardian",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles Is Back In The U.S. — And This 1 Group Of Adults Might Want To Consider A Booster - HuffPost",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNEdqSTJDVldjUlV2X2I2VGNXYjhKOG9wT2diaHJtUUZOeE40MURUekUwbldqQ3I4b3pESDdjekY2WWEzMUJ2Q0RzclEwNG01bjlSYmlRRnNsUWMxT2piZTBBTlRpS2FGMXVMR1FfX3FTTFhIZF9YOU0wQTZPLTRBMFhna3IwajJyNVHSAY8BQVVfeXFMUFFRVl8xYThyX0s2cjMyUGt3SlNtRDJ1dzAxUzFfak9jT09JN3pyUXdqNkE2cFBnRnZaOExNZWVteVB6Y0Zrb0RhZ0RVbWpEQlU4czdGbXVBN0VwcGhmQlFoQ09YWFpFdzl6c19HU2NISXNqYmhzanNMV1ZPY0lDSUYyMklwM3MxU1dKSTRvck0?oc=5",
       "pubDate": "Sat, 17 Oct 2026 11:00:18 GMT",
@@ -183,6 +192,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Bangladesh is battling measles. It's a 'real warning' to other nations - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVdDQ0N6V1RSeHlVS2lLcmJqbjVyUlJ1ZFJFYWFlWFo0MUtWT3hmUW1MSzRxaXI5SGJza2N1dzdFUG1venFSTnpUSGlPUVpIUHRIZGV0TTBCVVc0Qk5valRHWlUwRjdDbVp6MUdRSmFiUm5MaTU0dC1mOHY0Si1kb1lqdUp2NXpDMmZaVTQzUWlMcTJUZ01JUFNUTWt4UTdqYlFlbU1R?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 01:23:47 GMT",
+      "description": "Bangladesh is battling measles. It's a 'real warning' to other nations Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "CDC to send a 'disease detective' to Pennsylvania - WGAL",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc24yLUtSN0FKTDIyMnBoZ3ZSMElGN21ycWNaT2w1QnZRdXdOSng1eGZBcFVHS2JMZ1JLNktKS203UnlfN2hlYWJZY1Y2ektNc3RkMDhUdThHcmM4cjdJSDZrdk1IYU90WC1ES1BkRXQzUTdYa3lZYjZjTUQwbGtPSmpSbmhuZTA?oc=5",
       "pubDate": "Sat, 17 Oct 2026 01:09:00 GMT",
@@ -210,10 +228,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Bangladesh is battling measles. It's a 'real warning' to other nations - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVdDQ0N6V1RSeHlVS2lLcmJqbjVyUlJ1ZFJFYWFlWFo0MUtWT3hmUW1MSzRxaXI5SGJza2N1dzdFUG1venFSTnpUSGlPUVpIUHRIZGV0TTBCVVc0Qk5valRHWlUwRjdDbVp6MUdRSmFiUm5MaTU0dC1mOHY0Si1kb1lqdUp2NXpDMmZaVTQzUWlMcTJUZ01JUFNUTWt4UTdqYlFlbU1R?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 01:00:00 GMT",
-      "description": "Bangladesh is battling measles. It's a 'real warning' to other nations Reuters",
+      "title": "Nassau County Reports Second Measles Case Of 2026 Warns Of Potential Exposure - News12 | Long Island",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb3pCS3RUTkpVZzhuSG42R2pHSDFXRG9fSzFOejNsOWdfMzNPZGtTeTdja1JZamsxZ0xiQU9abmhWMUoxY3o1cldySGlqSW1qQVdYdC1pLVRwOW1aRlk1QUJJaDU3Wkp2MFhoWFVGb1JFWnRZR3o3c1Jvb0hxbzhpUTY1blQzVUFPR0pVY0lpMHBTc0Q1OExLMnRCQ3U1S083YXlGNFlIdkVRVkNCQmRVTVdTTF9RRXNWZ21YQ19aYkQtRmRJQkM4QkJsOHpYUGpDT25xQ3M1VQ?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 00:29:10 GMT",
+      "description": "Nassau County Reports Second Measles Case Of 2026 Warns Of Potential Exposure News12 | Long Island",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -232,15 +250,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mcG0zWlFZa1FBSGFXc2k5bjJkSklhOFFNU1BUREpROUx1YzItU3dpZWdKcjNzNkhsR3k1UWtXN0l6V2dhY0F1X3VCdlNoWVU0U19zMjRFS0g4cExqakhBWXlkdG5CSnV3N05udW13ZXJJNi10MlRQM0otX0hCUQ?oc=5",
       "pubDate": "Fri, 16 Oct 2026 22:21:57 GMT",
       "description": "Sweden: Measles outbreak declared over Outbreak News Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles outbreak declared over in Manitoba - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQjl2eXQzcjJsS2RWRmhuNkJmRXJoTmFpbVdnTjBDaDhZNS0tc1c2dl9vRnVQeE1XMlN5V1BqdW91TFozV0x4XzhhWWtiWm9rNnNPYWd5ZUVIcW9pMHpZZWlQdklUa19rSXpaVWp2QURXd3pfQUM3ZFc2WWtFN2RlSDhibjJsc00?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 21:41:37 GMT",
-      "description": "Measles outbreak declared over in Manitoba CBC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -295,15 +304,6 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XUTlaVkt3OWFLYXBGUlVpanRtaTdqQXpuSkEyS3RqLUJadklNNjhQUkt3OFhOZWczRndyWVd4QmFjRW1oR0JDTk1MLVF4dzY3R3RVOTQyM2RYeVRJTktMdEFRUmoybzBjd0NPUDZJMjRqSWxfMTlvSA?oc=5",
       "pubDate": "Fri, 16 Oct 2026 20:36:03 GMT",
       "description": "Berks now at 7 measles cases Reading Eagle",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Cayuga County confirms second measles case - Auburn Citizen",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc0pPd01wMlQzOEhBdk5TOE5jRERiV05uM01UTGMzU1lGUGdQVlZCcG9SdzhIaXlySnRBdFA0ejZZTjNPWjRUR0QxOVZCTGhBc0xma3R3TURORWIzMkFWaVJOS3Bubnk4aWN0TWdKM0RkSGRSMnJxZkxDSXA4d2pVYnhMcFR6T095NXc?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 20:16:00 GMT",
-      "description": "Cayuga County confirms second measles case Auburn Citizen",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -381,28 +381,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "CDC reports 4,410 measles cases as outbreak grows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMzl2SmNXdEQteTVnOXpBOXJhMWdzZkVJbTRxdk1SZWJYZUIwRHNPZzVSV2VyNmxLT1JLdjBZOG1Pb2dIWGJNVS11azNhZEZFQVQwQUx3UmwySnhaYldMWVNWc0JFdGJvRzNRVjUzTFhSNHpTb0E1RGRPcW5jelhzVDJfeXdkZ2txV2Z0QklIZDcyQ1Y3cnlIcVktQ2RUVlk?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 17:27:29 GMT",
-      "description": "CDC reports 4,410 measles cases as outbreak grows Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles Update: October 16, 2026 - Contagion Live",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DZ1pmOWE4OFV4NXpQVGtET3lWaTlmaXRibFBHS0p0M0pRTE5JdGNBMmJRZ1JEME5LM3A5eWxVc2R5Vlk3Wnd5M3dhZnh3dE1NSlljUkdRZjhRdXNHSnJsc2JmSmYwNGtfVjUyeGhtTEJtd3M?oc=5",
       "pubDate": "Fri, 16 Oct 2026 17:21:04 GMT",
       "description": "Measles Update: October 16, 2026 Contagion Live",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "CDC sends a ‘disease detective’ to Pennsylvania amid measles outbreak - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUDZaS2RYWTFoTFd5cUJRbmdJLVhCWE5RNVA5U2tYMmxLSDVKRGx0NlBNM0F5OUR6RHRxYlZJeEdzd1FIWVJXakJGeUxXZzBZRElrU1BaWG9oZi11a194MFg3b1VEZEEyWjZrQUxpUnJrWVo4Z0FxNGF3WWpZM2ZZckw1UWtrYUNXVnJSUEpfaHFyZ9IBlwFBVV95cUxOcmdYODZJekYxeUtfbF9uV1JpNzBSSTNiNTdBOTJBbkloMGJ1eDJGNUNpR2pqYlFkVlpRRWU3RkJWeHpnRG5KZ3k3YlFjbFduY2dEVEZ6cnpsenJkU3hKeU9vamdrRWkzbkNzMGZQSVQ5U2ZCdVBzcUNlaFV0V1NQMHVWeHFPQktFU0xWU3hkVjBsT0tfbnY4?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 16:04:00 GMT",
-      "description": "CDC sends a ‘disease detective’ to Pennsylvania amid measles outbreak The Hill CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak The Guardian At the center of the state’s growing measles outbreak, it’s business as usual Inquirer.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -507,15 +489,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles case confirmed in Jefferson County resident, possible exposure at DIA - KDVR",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUGloRllZVmhZNHZ6eTlhYjQyRXo2TU5YUXZTUmhKYkwwS0w1X2xwYXhmY2hqTERWRkx0emJzY0pqaldWWDRjNDZEa3lFOG41cmhXNmdHcjRJbDdwWnhONWMtbS1tbDhJWnptc2pSYUwwTFV0di1VT080Q0hGME5KNFdlbGxTZE56aHBNR3g4eTdWQnA1akw2NnJGcXVvYWxFWUtSOEJBNG_SAa4BQVVfeXFMUHY3TzVOYzV6elo3VWJUb2FOMjkyN3h6NHFZaDgzdXJJakFtVGxVaDI0X0NfcUxKN05RMVBUdXlYckp4Z3otc0VfWUNaYWNEU2FJV2N0eGw2cHQ4M25VSk9qM3FabVJFRjBqRHJLbjNhc09lRVFMOEVvM3Q0bzdDdF9Cb2tUNWVZY0x5STZCYmxHNmRCMkVidWhnczl4eHg3UUNGbklpVmp6YzRhLTJB?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 02:16:17 GMT",
-      "description": "Measles case confirmed in Jefferson County resident, possible exposure at DIA KDVR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Possible measles exposures reported at Denver airport and Arvada urgent care - 9News",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORjVPQ1hpNm9WQ0ZxZ3lCazAzWW1kaWlpclRJYkZ6TVVfUl9odkFvMjJQUVhpenZMUXRyUm9NdmJTdHk4RHo5UU81azRZbV9WQ0hTMzdaWDRWUGZVTGVnVFBobUFqNnRsTUZmYjE0aGFUNGRReWFmdUdMdm9ZYm5GVHJvYVNSZzBiemsxZEIxOU5JQ0FWWEhsOEhqczVPZ2ZYSDEzdDVJVHl5b2dXczV3dkdMb2l1RDlvMUNr?oc=5",
       "pubDate": "Fri, 16 Oct 2026 01:42:00 GMT",
@@ -600,7 +573,7 @@
       "title": "CDC sending a ‘disease detective’ to help stop measles outbreak in Pennsylvania - NBC News",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS0RfTEN3SldHVXFfdnFZc3l3UHZtb21KZk1Ud245azAzaGtxU0VvaWVoVnJsam1FUDl0MnNnUGRJamFKM2RSV25CR2szb3BJQWRuSEF5eUlWT21va2ZZMTByLUlaY3VnaFlQaG5KaWNySXNMMHJpYVdiV2N5SnpqVUVoMVgtNzRmOVVqS2c1bmx2TU55dFczNDV3?oc=5",
       "pubDate": "Thu, 15 Oct 2026 20:34:33 GMT",
-      "description": "CDC sending a ‘disease detective’ to help stop measles outbreak in Pennsylvania NBC News",
+      "description": "CDC sending a ‘disease detective’ to help stop measles outbreak in Pennsylvania NBC News CDC sends a ‘disease detective’ to Pennsylvania amid measles outbreak The Hill CDC reports 4,410 measles cases as outbreak grows Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
