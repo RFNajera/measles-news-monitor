@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-18T11:17:58.314Z",
-  "itemCount": 82,
+  "updatedAt": "2026-10-18T12:28:30.271Z",
+  "itemCount": 81,
   "items": [
     {
-      "title": "At the center of the state’s growing measles outbreak, it’s business as usual - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUcya21TWEJnc3Z6MVBXNEFDMWREZDNxRnBxWmVnSGlRRUlPTER1czdfZF95RG9wVmNMd2xmQ3NXQ1hYZzNzekNBVFE4djA1MEVvTjQxWUZjZWRWRW1tSkltLTZLSHY3YV92UFBPRDcwWnRxZlY4REVrZklERWpONG9KX2xCR091RDFJ?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 09:01:00 GMT",
-      "description": "At the center of the state’s growing measles outbreak, it’s business as usual Inquirer.com",
+      "title": "RFK Jr. says measles cases are spiking due to a lack of vaccinations - ABC27",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejJ5dXhIenpoRmJOQ3pKS1RTSDNhNnN1YkpBbTlrNEQ1aG56S19nVnJacnBic2hPN0dWZ2ZKMWF6c3BoX09JTjVQdFhRYXBJckhPQXZwMUdSY2ZXcVFUUk5hMl9iUnVqN1d2MDdvRHRaSXFpa01hNlI2cGkzbWMyS0hKUjJCUzdmWDJqRXBXS3c1Tm42dml4RjMxMU9xX1NxT3ZmbmdWUWU?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 12:14:25 GMT",
+      "description": "RFK Jr. says measles cases are spiking due to a lack of vaccinations ABC27",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -363,6 +363,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "CDC reports 4,410 measles cases as outbreak grows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMzl2SmNXdEQteTVnOXpBOXJhMWdzZkVJbTRxdk1SZWJYZUIwRHNPZzVSV2VyNmxLT1JLdjBZOG1Pb2dIWGJNVS11azNhZEZFQVQwQUx3UmwySnhaYldMWVNWc0JFdGJvRzNRVjUzTFhSNHpTb0E1RGRPcW5jelhzVDJfeXdkZ2txV2Z0QklIZDcyQ1Y3cnlIcVktQ2RUVlk?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 17:27:29 GMT",
+      "description": "CDC reports 4,410 measles cases as outbreak grows Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles Update: October 16, 2026 - Contagion Live",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DZ1pmOWE4OFV4NXpQVGtET3lWaTlmaXRibFBHS0p0M0pRTE5JdGNBMmJRZ1JEME5LM3A5eWxVc2R5Vlk3Wnd5M3dhZnh3dE1NSlljUkdRZjhRdXNHSnJsc2JmSmYwNGtfVjUyeGhtTEJtd3M?oc=5",
       "pubDate": "Fri, 16 Oct 2026 17:21:04 GMT",
@@ -375,7 +384,7 @@
       "title": "CDC sends a ‘disease detective’ to Pennsylvania amid measles outbreak - The Hill",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUDZaS2RYWTFoTFd5cUJRbmdJLVhCWE5RNVA5U2tYMmxLSDVKRGx0NlBNM0F5OUR6RHRxYlZJeEdzd1FIWVJXakJGeUxXZzBZRElrU1BaWG9oZi11a194MFg3b1VEZEEyWjZrQUxpUnJrWVo4Z0FxNGF3WWpZM2ZZckw1UWtrYUNXVnJSUEpfaHFyZ9IBlwFBVV95cUxOcmdYODZJekYxeUtfbF9uV1JpNzBSSTNiNTdBOTJBbkloMGJ1eDJGNUNpR2pqYlFkVlpRRWU3RkJWeHpnRG5KZ3k3YlFjbFduY2dEVEZ6cnpsenJkU3hKeU9vamdrRWkzbkNzMGZQSVQ5U2ZCdVBzcUNlaFV0V1NQMHVWeHFPQktFU0xWU3hkVjBsT0tfbnY4?oc=5",
       "pubDate": "Fri, 16 Oct 2026 16:04:00 GMT",
-      "description": "CDC sends a ‘disease detective’ to Pennsylvania amid measles outbreak The Hill CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak The Guardian CDC reports 4,410 measles cases as outbreak grows Reuters",
+      "description": "CDC sends a ‘disease detective’ to Pennsylvania amid measles outbreak The Hill CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak The Guardian At the center of the state’s growing measles outbreak, it’s business as usual Inquirer.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -502,24 +511,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNkhBVnZMSFpUbUN4SGJRVVBYVkxVMWRRLVRlbGFfZlE3TnZjSmh0MVFVQlctVUhmcG1oMWlrM0d5QXJIazV6NGJCV0xtTElXT19MMy14dnBtaEFtR2UwLWpldlgtR2p3LTh1bWRIQ3d4Y0laLTNDVGFQSGgzTVRSNFhYX2k0V05naDk3ZUpxOUtOMXM?oc=5",
       "pubDate": "Fri, 16 Oct 2026 01:05:14 GMT",
       "description": "Alabama Department of Public Health discusses measles WBRC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "MDH reiterates recommendation for measles vaccine citing state cases - KTTC",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTBMVFZ2akZLV0lQd05GSVRJXzEtLWxoeVkzeWsxei1UcGV6Q2JlR2FXbmhJcVRkcjU3N2dSMmhUNG5aZzZrTDBBc0U0NGdOcC1wNmNZZTlfX0piUjRibklWOTFvb2hQX3FUaV9ZRE1HN2FUUzU5T0lVRVRQVTA2djVNRTBaVGtrbnZINHVySl92MG9aRlZQTmNUWE1GVVF2NmRpdl9B?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 23:44:00 GMT",
-      "description": "MDH reiterates recommendation for measles vaccine citing state cases KTTC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles Cases Climb Across New York, Clinton County Health Officials Urge Vaccination Awareness - MyChamplainValley.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNWpTVlZyQXgtSF83UWZ2SnM2WG1mWTlNcEtxMGtBTkJBT3MtNEViRzhxek1xdVRoOUd2Y1dOZTJ6M3RxUDJUMzh5OFB5cDZ6WmZub1hTeGVxeVd2T2R5Rmp2ZmxPQjBIaTQtZkxaWVUtVjhVaFJ4SmJ4VWU2NHdUc3VNalBJUkxVdnpOUVJCZjVhNllteWluM3JMMTlwbm5Eb2k2cjE4RGhuR2VDV0swTVU2d0JmMHJDank3dE1yUVlqc0Vtc2Nmam1XMFdOM0VNQjVMSjBWenc0OE8xbV8xUFVMNVA3Zkg3MWfSAe8BQVVfeXFMTnhVcUZveWJpekJKZmFnZzdGYU1QV3JzdVFNTmNtVUg3ZEVQSmhlTXluVERWVC1KbDlCenRnekxjeW1idFBhSEJwNFVGVW1uQi11elR6UzliM2phX2U2dzY1dG9HQjJ6T0psNEVVUFYtX1gyVUlqUjdPU2k1eXZSaGk2aHdwX1R6Nk9KdWZMbmk2ZXhjQXJRWlpYQW90WlZldWh0ODBoaVpkQkpqMzBsZ3JySzN1RFdlRGFSX0U0MkJXOFBJZjlyckFtczR5REtGX2UyRnNqd0t0OWJCWHZSOGwycG02MERNX19jRmMtaHc?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 23:19:54 GMT",
-      "description": "Measles Cases Climb Across New York, Clinton County Health Officials Urge Vaccination Awareness MyChamplainValley.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
