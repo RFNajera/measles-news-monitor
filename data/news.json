@@ -1,16 +1,7 @@
 {
-  "updatedAt": "2026-10-19T00:57:28.333Z",
-  "itemCount": 79,
+  "updatedAt": "2026-10-19T01:36:16.036Z",
+  "itemCount": 78,
   "items": [
-    {
-      "title": "Second measles case of the year confirmed in Nassau County, officials warn of potential exposure - Newsday",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYTlnWDJLbnlYcXpJOWFKUkZta0wwYk9hd0Q1MjN6RXRqZURBN1o2OHdwT0RPMVZISlZhUXlVaFpHMzRqc0dwcHNhU2RMT1RYQUJkMS1MaWFodEhKX1lBZWZHY2FSTnVwaHlPUEhBVXhUTDZ3SDRzWmNzMHduNEdjQjAxcVhsbFdaLUE?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 23:30:46 GMT",
-      "description": "Second measles case of the year confirmed in Nassau County, officials warn of potential exposure Newsday",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
     {
       "title": "Canada: Manitoba officials declare measles outbreak over - Outbreak News Today",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yTXdleU1SbkRpNkF2RTExMWc4ckJwZ2ZHSzN1Z252RFZTTEhSRXZzOHJIWm1BdWlRRTJQQUxXdXRMVUYtMHQxbE1xUW56MVNXYW5uOEp4ZU1Ib1JzN29LUFNmTXNPMldGRWxMTmk3NHJGbXY2YVlzOU5tRlZSVDA?oc=5",
@@ -246,15 +237,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Nassau County Reports Second Measles Case Of 2026 Warns Of Potential Exposure - News12 | Long Island",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb3pCS3RUTkpVZzhuSG42R2pHSDFXRG9fSzFOejNsOWdfMzNPZGtTeTdja1JZamsxZ0xiQU9abmhWMUoxY3o1cldySGlqSW1qQVdYdC1pLVRwOW1aRlk1QUJJaDU3Wkp2MFhoWFVGb1JFWnRZR3o3c1Jvb0hxbzhpUTY1blQzVUFPR0pVY0lpMHBTc0Q1OExLMnRCQ3U1S083YXlGNFlIdkVRVkNCQmRVTVdTTF9RRXNWZ21YQ19aYkQtRmRJQkM4QkJsOHpYUGpDT25xQ3M1VQ?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 00:29:10 GMT",
-      "description": "Nassau County Reports Second Measles Case Of 2026 Warns Of Potential Exposure News12 | Long Island",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Pa. accepts fed help, says CDC is ‘obscuring the seriousness’ of measles outbreak by not counting its deaths - Inquirer.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDNsVnNVY3p0N0RjcXd4RHQyZEdBUFdwandmOTRsU2RRb21IVFk2bkU1cW9BNlFWNmRzZU1kbTdLazlMRjhhYVk5RDRLS0VRQ0ZkaHZvdHZCVExGanpDZWVkQ2RzWGw4bEtRM01HSHc5VUxnOTgzR0txNUlWeVpfQllIdkNTMTJ5eUJCZk1B?oc=5",
       "pubDate": "Fri, 16 Oct 2026 22:44:17 GMT",
@@ -399,6 +381,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Alabama Department of Public Health confirms measles case in Huntsville - WVUA 23",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaTdDb05LRk1OYjcwX0tDN1JIaWctZlp3azlEUWw5Zm1vWmNUckllNVBpVE1lSWQ1YVdWV3AwNGZuWDBzMS1tVVJxOEwwZTMzMFJ4RmxxdHpBX1FyaUlubngyYkxWbGU3MW4yYXJORHYyVDlYM251Uk8wV19DZnpVM0g3RDBRbzZUUmpTbUdkaS1iVWN1UndHVU9TQ2xSdmluNDZHWUxINUNUSlpfNXB1RHpsZ09kSF9wbE5CdWtJSkxIUVFVenhzWm1LamFPWWxkNU1KSW9uenpQbWswaFVfQ25YQQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 17:54:00 GMT",
+      "description": "Alabama Department of Public Health confirms measles case in Huntsville WVUA 23",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "US records 4,410 measles cases as outbreak grows - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSlZlWkpjR3dJLWlTWnNFX1RUcTdiNHhtbm9wbHFpS2FtdzJhN2k2MFREaE5MM1FiZXJsc0ZoWUVOQWlpZlBJLVFTSFA1Q000UE05YWExczlTei1iTlIzOGhTMmw4MEVvOTBmVUdlelFxZEVyRE15VVVWZExzaXhjTHJqaFI4TF9PME9OTHh3STRibTjSAZgBQVVfeXFMTWREUWJHN2piZDEyWmdzVlZ6dUVQb25kNlNmTVRQRjVTMmgyVy1GN1FPYVotSkw5Q3JxVFFsYWNRdEp6NkIxTkZUaUF3VWRLRW11Zl9Ea1NZa29VT05hTVUxQzFBNGN4ajFEMEN1UmkyOVhIc0wtZjdxQmREUkROU2M5QTVMa0Z5R3FvbG5JcDZ5X3ZnSDdodWs?oc=5",
       "pubDate": "Fri, 16 Oct 2026 17:53:55 GMT",
@@ -520,15 +511,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2dqcm5Bcy1VQ01sOEY1SjNOMUtJQmRmbTlHNW9pclhjTy1mQ1c2dTRhUFltWXlHSlZkSjl2YURhQjFlcy1LQ2NRVkVWNjNqTER5cDJnVVZZekhWZnhIenBIYmkwLWYzMlVKbkhUakcwdnF1Wm5vbFFxN2pZWjQ1ajJVYkx0cE04RmdaWW0tNlFCOU1lQXZuc1lZWFpVeTVXMS02cFVB?oc=5",
       "pubDate": "Fri, 16 Oct 2026 11:18:00 GMT",
       "description": "MDH: Measles cases on the rise across two Minnesota counties Audacy",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT",
-      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -660,15 +642,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "DPH Confirms New Measles Case, Urges Vaccination - Georgia Coastal Health District",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeHY4YUwwcTkwc3BLczVTNnRFRW1LZk42d2ZKVElMWllEM3FJWGkzeHUwS0pPaUF5TDExTGdUUUo2RHVyQWI2SGVyOE9iUmsxdlF6ZWJ5SjFxMTRfRFJweFpsNG9Td1UzZWpTRVBPczNNNHJGZjl6NnR1MHNpMU1XMHZrUnlmdjJoNXBr?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "description": "DPH Confirms New Measles Case, Urges Vaccination Georgia Coastal Health District",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Global Measles Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2cyVktrSnlXRmg4VTg0bUJ1azB0RENCSFIxTXd4cmU4alMwdmVxcW00VWtrRmNRbUN1bDlXV1JORkRXbFJpcXZ1U3ByaUhhM2hWczQ1S1l0dVVrNmlUMFl4ZlMzQ21CTEMzMXBaTXZGTTFDVnV3YVNIMWRjTWtRYTVnTmZ2TWhnZnJxMHZLemtQZm05UnlBZWFTdTY?oc=5",
       "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
@@ -678,10 +651,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "DPH Confirms New Measles Case, Urges Vaccination - Georgia Coastal Health District",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeHY4YUwwcTkwc3BLczVTNnRFRW1LZk42d2ZKVElMWllEM3FJWGkzeHUwS0pPaUF5TDExTGdUUUo2RHVyQWI2SGVyOE9iUmsxdlF6ZWJ5SjFxMTRfRFJweFpsNG9Td1UzZWpTRVBPczNNNHJGZjl6NnR1MHNpMU1XMHZrUnlmdjJoNXBr?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "description": "DPH Confirms New Measles Case, Urges Vaccination Georgia Coastal Health District",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Sixth person who had measles has died in Pennsylvania, local coroner says - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUhEa1RIem5UNjF2UnZycExVX1RHZ2tUTkZveUlrNVdTODBwMFdHeGxCYXdmMnlMN2RqRnRkS0tjSnBPVGdRaWZSeWVzdW8yejRuQmVKaXdJZ2hmR3I3V2tTc3ZDRU1USUZ1clNzWnFWWk8zczhhQm96OXUtdkhFZW5Fdm1EdUdBRm9sY3BHX2YxNmt1X09DZ1BmVDMta1VVYzg3bTJTY3lFRjdRRm1BTTAzNDlMQQ?oc=5",
       "pubDate": "Tue, 13 Oct 2026 02:04:19 GMT",
       "description": "Sixth person who had measles has died in Pennsylvania, local coroner says The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania reports its 6th measles death, in a Franklin County resident - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWlHVTR2b29sZEpsV3RSVlY0OWdqbk9Jenk4QmU3aGU0YXhGM0VIS1NzdjJwT1NMQjlWd2RKOFM3Q0Qya3lIQU1VQ0VheXRpX1Y0dkFaSy05VDh5SFRqVEhsMTZ6YmlXakRGTUhaNl81WXlhV3BPeFFoSkpBX1l4dTdaWVlCV08tTlpNeUxPVDRHaURBT2hiOUR4ZEMwZWh6cVZYaQ?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 20:38:23 GMT",
+      "description": "Pennsylvania reports its 6th measles death, in a Franklin County resident CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
