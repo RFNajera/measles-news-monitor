@@ -1,12 +1,75 @@
 {
-  "updatedAt": "2026-10-20T13:25:28.487Z",
-  "itemCount": 82,
+  "updatedAt": "2026-10-20T14:23:23.658Z",
+  "itemCount": 80,
   "items": [
     {
-      "title": "US CDC confirms third measles-related deaths in 2026 - WSAU",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVo1ejYwSWF1dEdOY1lBcEUzSGFiWHF2WC1jc0hlYkppcWZSTVV4MjF1TklKd1VETFAzQXl0T3QxQWxadU9Bb3NxX1R6UXhJYUp0RGtkVUYtakZ1dFljekRCVDIwZUZWd1hIdUJGQlM0WmpqbTRyT0JUZnAzeVlWdFd4dDlsS21q?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 13:15:09 GMT",
-      "description": "US CDC confirms third measles-related deaths in 2026 WSAU",
+      "title": "US health agency confirms third measles-related death this year - 1470 & 100.3 WMBD",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOanhXRzJtbnMybllyNnpDNEVEbjdhWGtrNUFkeENvOFA0QzVKbHFmTTRLQ0RoLXdVR3ktUU92OXJQbDJSTnA2U051ODRwcldIOVJ5dWQ0dHNELVBGdUhKdFdSTTh0TXdRR3c3cC1TVWJPZTIwblBjM2s4dVZSUUlCbVpNQ1dsWHdwS055dkoxaw?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 14:17:39 GMT",
+      "description": "US health agency confirms third measles-related death this year 1470 & 100.3 WMBD",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Judgment day for measles elimination nears - Politico",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjR1d2VkMmxIRUFHYTlQSGJ4MXo2eEFDSjNOQUxVcWY5WTAwTVBXdTlFcEJpeUtiUE9saDZ0Z1RaWU52blBqZnU2RkFVU0V3OU1sUjlpaDg2ZGRKRTQ4WjZ1UzVvNVhqUGItYlNYLWF3cERzMEs1TlNTdzEzem5SQkxZMkI1VDJEOHQySUMxTGp0R202Y0ZFa21ZVVBRNmQydmE0NzAwYjVaalI0YTdxSzFEUTA?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 14:00:00 GMT",
+      "description": "Judgment day for measles elimination nears Politico",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles exposure possible at Perry LongHorn Steakhouse - 11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYklmSWZpWGs1c3drTGFCTnEwbk1XV2NwVUlTbzBxMkRzMHMwTUQ3eXkzQVZLLVNscE5QVktJU0tDYXlGWmFfY0FUSnhDdUkzV3RsQ0YxQzhpYkhKWGxxbDJER0JvdEpneFFpSHo4bS1SLWpDLUVONzJmR0wwVS1iNmRhQ2RQNHl3OWRWZm1xcDNTbWhiZkhsX2JteUxfUTM3ZUtocUV3ZVdFaVlkQkZyb1gwdkZKbFdha2lseXQzZHkyQ0J4SXJtazJNTjRoUHZSMHc?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 13:59:00 GMT",
+      "description": "Measles exposure possible at Perry LongHorn Steakhouse 11Alive.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "US health agency confirms third measles-related death for 2026 - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFJDcDhSWExoMU13RVB3OElxanFrdWZ6dFMzMkRyUEdkbGIwNnRYZ3gxeDcxVlFJRW8zenNlQ0dYUFVjMmhRYU82Y2VsZldqcFljMWFERUxsbFg5cmdpQjBMdlJtakFwNEZaZ2Q4RFN4RERQcUhEblo2V1VNaHBCcDlFME15RlhPaEpXN0plMUNGcTBXcS1meDFkQ1l6SlVBRWxyR1piNndndW55WXlHMw?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 13:59:00 GMT",
+      "description": "US health agency confirms third measles-related death for 2026 The Straits Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "US CDC confirms third measles-related deaths in 2026 - 93.3 The Drive",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcy1tVHYtVnlVWEVXWWVqUnJkZmRJR3l2QTJRc19XaU5TcjBKaEZ6aDY0ckxyMXQ0Ml8xN2ZMTlJQaFhPbDhsckhVYTd4dWYxdXdrdUdnSjZHRzk3bUNIZ2w0QXBMQUdCNzRPOFJnel92OEp4RkljSXlQNVhtQVdhLWQ0X0c4RGVEOHd5eFN2M0RTNnU3M3RJ?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 13:45:30 GMT",
+      "description": "US CDC confirms third measles-related deaths in 2026 93.3 The Drive",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Scientist Wins Defamation Suit; 1.5M Pounds of Meat Recalled; Measles May Cost Votes - MedPage Today",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53a2VNY0FfTUFZNXNjNG5jV2UzczhIQzY5RmJwQUZ2QUNnN0Fmelk1X1hsdkhzTlhmZnhDb2pKblZFM2NHT2l0MXFGU2RDRnVHMWxiUW00OTdSRkt2aGZsc2UxeGdwWnVNWTVjeWxR?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 13:41:43 GMT",
+      "description": "Scientist Wins Defamation Suit; 1.5M Pounds of Meat Recalled; Measles May Cost Votes MedPage Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "US CDC Confirms Third Death Due To Measles, Website Shows - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ29tMGwyR1c5dU9ILXFWVmZBUDBuUF9XRllheV9LeEhDNWxuZ3c5WWlPUmlhM3R5T2NxcENkS25ZRXhtVEczMll4LS1YWTB2TGo5ZHFWVlVNdnNvdWNxNlBDdkgwcE5UaUFYOUdKV25mT3QyRktmRFFBTldxVFVHRmhRcHhfMWREYkZXNkYwZk9TdVN1NXVsVEpVR0FTSEt4OWMwaV9oa3gwRXFudWwxaHJ0d3dGanNfbF94MXptYnMyT2dJ?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 13:22:04 GMT",
+      "description": "US CDC Confirms Third Death Due To Measles, Website Shows TradingView",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Cayuga County reports third measles case in two months - Auburn Citizen",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNHAxTm9UYkNmdmJhUDVMWFdXMlNkNTJUaG43Nkp5dXljbEFsUDJGWmUxLWNYeTkyeGxjdjVkMXBPdUNtcFBmYWZkOW0xRTFWTlNWR2pfWmktVzNUQ2I4WjhqQXM2eW5Cb3VlY1JzVTN1em0tU0xwaU52NjdHRDItTmxCckdydFBHMlE?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 13:11:00 GMT",
+      "description": "Cayuga County reports third measles case in two months Auburn Citizen",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -16,15 +79,6 @@
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWmplMEFERlN4YXVkZUVOLU5xZHdpVF9IY1dOZlVCeXZMMGRUNkFkZnJrUWVQbE9vZ2lDRVRQZzFjUE9wMGlBQTdSd2gteUMzRDVEczRGMjlnSW01RExVc0xodkNoaTVxdjIycTZNTldJSkJGRHFDU3hRaW5sZXVNWkV6MVV6OWVJN29FTGM5Tk9LU0IxZERtZHpZeUFRY2RyQzJmbzNicTN4alB4MGlGa0lyMU5KRThVVnlDNDd1SUJFYVh0andEOVRtMFd0a0dhV081SUhoa3ZFMklIYTBIQldsVjBFQmFoUzExbkxTQXlXUDA?oc=5",
       "pubDate": "Tue, 20 Oct 2026 12:40:00 GMT",
       "description": "Health officials link measles exposure to Longhorn restaurant in central Georgia 11Alive.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Minnesota DOH promotes measles vaccination - Grand Forks Herald",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWdsaUhROGpuWnhmam5FWXZfdm41YTEwMmljTGVCelZJLXpnN1I2czZnTEFHSG1sb180YU43RTZSRVdlMWRrRjRrWmlIT0J1ZS1TUWJORnF1RW4zdHN6aVp6SU9KN2pHOWo3V3VRNlhiWDJLakxrN2xHWlpUc2VRQjR3bWY3YmhtVjdxTFdWYnF5Ym9h?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 12:04:30 GMT",
-      "description": "Minnesota DOH promotes measles vaccination Grand Forks Herald",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -48,6 +102,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "What to know after person with measles visits Nassau medical offices - Newsday",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX1d1eHpKbHQ5VC0zZlhvQUFTZHJxQ1JhWVJUVlF1SlVtdHZjVzBzemczMWhJT193YWdId2l2TWZ1bmJJOG5UVXI1SHNBdjlBM3BhR2ZZRkRDRlE5SXVxQjlGSW9OenNaSDRqN1pVM0owdkdFbGdCQnZTTGZxMlZXVEJpSXdfXzRONF9nSzdoZGM3ZnowZFZIYVQtYW95UFJH?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 11:40:23 GMT",
+      "description": "What to know after person with measles visits Nassau medical offices Newsday",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Bangladesh battle against measles a ‘real warning’ to other nations - The Japan Times",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHNTZEhOT0hXME8yQjcwb2JhTHJmVGoxeUExeVBoeXdadTFfNHgwOUswNVdqTG5sVmp1eUVvNUJ5SHR5MTFuS0w2TmxITXlKZHRqTXpncHdtZE9wOFpBUmRLdFU0VFBMd3lRMDZkdTdMTHFrdEtpQ2xMa0hXZWJreVZfSU1ydkZZTlNXcFFBZDZ1dHFDS2QwdEtrNk1FYmVxUG9r?oc=5",
       "pubDate": "Tue, 20 Oct 2026 11:00:00 GMT",
@@ -61,15 +124,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGOFZzMWtRelZqNWltSE1aeklLenducTdfN2FrTnV1cnB6bDVPLWJMWm9sazZYbUtmZFYwREEtbGV1RjBpeFp6M0l3b2tXX1hFSXJkRWw2RWN3WkVrWmpudHQtSlpha3NWQ3NfUENn?oc=5",
       "pubDate": "Tue, 20 Oct 2026 10:16:26 GMT",
       "description": "Measles Outbreak Continues To Grow ButlerRadio.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "What to know after person with measles visits Nassau medical offices - Newsday",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX1d1eHpKbHQ5VC0zZlhvQUFTZHJxQ1JhWVJUVlF1SlVtdHZjVzBzemczMWhJT193YWdId2l2TWZ1bmJJOG5UVXI1SHNBdjlBM3BhR2ZZRkRDRlE5SXVxQjlGSW9OenNaSDRqN1pVM0owdkdFbGdCQnZTTGZxMlZXVEJpSXdfXzRONF9nSzdoZGM3ZnowZFZIYVQtYW95UFJH?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 10:14:55 GMT",
-      "description": "What to know after person with measles visits Nassau medical offices Newsday",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -122,7 +176,7 @@
     {
       "title": "Amish Families Pushed to Undo a Vaccine Law. Then Measles Arrived. - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWG5aS05MQ3V2eDdrN1BtbU51NnVjdFJPS0ZFM2VvcmhkYnFyNjVSeWhHT3pVTHpGNF81YTJackdCTlJVaV9SRVMtd29xVXVheXh2NXpuT0JwaHFJR2k5TVFLVmlXTTZ6VnBqQllQZzZBMkozMEJMU00yakl0a0FVLWxLQ1d6dzE0cUlyZzBWOGUxTlU?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 07:00:06 GMT",
+      "pubDate": "Tue, 20 Oct 2026 07:00:07 GMT",
       "description": "Amish Families Pushed to Undo a Vaccine Law. Then Measles Arrived. The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
@@ -169,24 +223,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPYzY3UmNZcGxqakVuWHlfbHJ1dUI1VHZkNXliMlBQQVNHQU9TVzl3TENfdHZsZXZqc0p3STNCRjVlQVppOGVzeTFwaVlNZk5IRU5KTFdPbzh1ck5zNWhpVUZUM1VKT0dzMHZybVZBY041V3JRc3ZCa2ttcjFCcHhfUzA1OTZPLTNObVBwVzljYWZ5Szk4V0JMMk1xbmRyUHlUWjdBcWU2NUF5Zld2Qm5CWFZlSWxpVFZmY0RfYmdZQnhTVS1EazVhd2p1dTNIdXdaMUxkS0lxc0pXck84a2RwMUxYZjBSdUUzajdRRmQxamx1RlpkbGRaOG5hYWVNYzFsSFlOV0xCRE9rUQ?oc=5",
       "pubDate": "Tue, 20 Oct 2026 00:27:15 GMT",
       "description": "CDC begins providing aid to Pennsylvania amid measles outbreak WHP Harrisburg",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "What every family needs to know about measles - Sedalia Democrat",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUE9QTHd2RDFpb3BZRGlvUXQ3Sm1xa2MtaHFkVndqWDQyc0JJTWJLWUlpNDRHUDJmb09aOFZVU1E3bV8tNEEzZ09yU2dZRml2SXZ2THZaTEp0OEcweTl5aWJ6SEVybGtwcHpFNGFtU0JFMzU0RnpENm5MRWx5QV9zRDJla3FZX3NUbWhEOG1B?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 23:43:17 GMT",
-      "description": "What every family needs to know about measles Sedalia Democrat",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania Department of Health Provides Statewide Update on Measles Outbreak as Cases Reach 1,286 in 42 Counties - Beaver County Radio",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMnRmYXdpdkZnR1J1MUxXbjZpZVJRVzIzOE1VVWdlV21TcW5MTklaY3FfUWJnT3FlZzlKa1hfMUltR1prUEVkUzcxWHJQV0lHcmZMSVFQUXdoTzV4RHNtT0RWXzk3WWg0WHZsM2FSX3h1WmF4aC12ejBOVzZDRDEzYlNyZnVyelBQWENzRWdtbzBfWmd6US1PNjFLaGItWUFLdlNBa0FQWWNvdnJNdTl1dUtNUzZsWjlGZUZ0WXBCcW93YW5XSlVqMWxxLVljRThuZVAtSU1ZRmhzMk9OcVRiMTJZeUs?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 23:10:43 GMT",
-      "description": "Pennsylvania Department of Health Provides Statewide Update on Measles Outbreak as Cases Reach 1,286 in 42 Counties Beaver County Radio",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -300,15 +336,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "35 measles cases reported in St. Mary’s - SoMdNews.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbWZFQ0lscUpkZk9UNnNwSXFubHFpb0xXSUdJN3JSc3dVbzJYand3TWdSU1RqeXVydk1hMUNqODRZVEM5TzJxczRhV2hmaklfWnhvc3F5dzZ2czNjemU2UEVfdVVkWFRlRVJMX3I5WHctWHU3cUJsSnhQNXM3ZjRUbVUyUjA2azNULUNmanFxVG1BaDBESGx6YjhiMW1BbjYzLUVzdEYwcVhPbTFaOThrS2VrMlNFTDlVbXNSOGNoLVU0Zl81LW9leU9nQnpwaHM?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 16:45:00 GMT",
-      "description": "35 measles cases reported in St. Mary’s SoMdNews.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Some Amish recall COVID dictates and question government on measles - WITF",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUFVPU25wM1doYW96T1UtVXY5U2lZdjNRV3pTbWtSQ0pWNU1NYXpaOURqOFUtem8zSEp0ZnVqVnRLZ0h6ejZJMkxPdXl2dTJDR1Z6a0hYcy1vNHcwX1BIVW5NLW1NaU8xTXUwOXo2Z3laZmxERTBaOEdoMFZNdnRBSWc4Z2dsNWZ3bTJzUEQtQnUyRnZlTFh5M19EYm1yOTRjeWc?oc=5",
       "pubDate": "Mon, 19 Oct 2026 16:38:22 GMT",
@@ -358,15 +385,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXRPM1RnT1ZCTXlFNkhrd1ozVV81U09NLUxhNXpVRUFTdEhYV0xhQ2hBeU8zbldNVTJWSE1ONjl0YjBJWWNZaDJyaTYwWDAweWdfdk5JV21xdkI0QlIxY1RobTItZHR4OWlFbEU0ZUROZ0lpdVFjMGxGNWhDempOVHBYZnVVN1VESTYxcWdFSnNHYnFsV3BFajhBRmhfeE1ibk1uZTVJUjNzVm16dVdoYkgyaw?oc=5",
       "pubDate": "Mon, 19 Oct 2026 15:29:00 GMT",
       "description": "Possible measles exposure linked to Georgia Longhorn restaurant, state officials say WALB.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Possible measles exposure linked to Georgia Longhorn restaurant, state officials say - Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV21RTTB2ZWhFd3BBM0l3Sk1LVXV1b3J3cnU4bElxdXV2T2tJX0FMWVlwUllIZTNyT3pBYkdDcWNXdGVIYi1BT0JpVDlkVHdmdTlTcDBvaHVCUTJqQWhTdUJvSWpLZmRLY0YxMDEtR0EzeWtvb2JBWVdXbUhvV3kwbnF0SzhfaWRvYUg5eVZOUG95Q25xTkJ4U2xnS3BQbXVEOVpBT01VaDZLa2FrYjJvNmdMa19CNVhvZkE?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 15:29:00 GMT",
-      "description": "Possible measles exposure linked to Georgia Longhorn restaurant, state officials say Atlanta News First",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -435,15 +453,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles exposure under investigation in Perry - WSAV-TV",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPakphaU9jb3AyZ0hqYUlxZ0ZmRmE3cTkwWDNmcVhocnM5b25PUV9KOGRrcXE0RzYxaXltbFFhSmx5Z0gxbVk0Nl9NSjJwVE1hd0EzY3RfbV9DeGJkMDY0eUI0bzgxalVjYW9zdERkYU1ySm01UnBtQl9MTjM0OUxia0ExcWdGU0NzaWJWTFRoMVBnYm5EZUdJanBkdVnSAaIBQVVfeXFMTkpDRU5wMFZfQWxDMGlTZlY5cVVxRFVidldkUmxJOHlCbVZKSVpvbHlzZmVxeW1yZ1Vmb0ZHTlBmdUN6b0tGTlhBQ2FvTGtfbmZEd1FCMXp0TFJMbk9Zb083RXVBQ3FrQm5lNXNFVW81SFg5eDNnTXpFQ0xKTDlzRXBjTnJOQTd0ampvSE9XT3RCVl84X053RU4tRlpZV2V0XzZ3?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 14:47:07 GMT",
-      "description": "Measles exposure under investigation in Perry WSAV-TV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles cases rise in Adams County - WANE 15",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kRkpVMWlYTVJlV3U3dmUtT1h4b1NMVnpONFFCU0ltNkh6bW9pTlNTMkdvZ2RNQ2l2NkkzdHFyQmI2aEprZ0poYWVlOU1meGI0bV9vNU5RMmdNaXNRZ2g4RlBteE43cUdjeTktZ09Ca0hlTjRpa0VWZm5ZR2bSAYIBQVVfeXFMUERDS2JnTkNxbmVONS1vcjZkUzJUcm1lVDdUY0pyN3lNWjNhclRRSGFuUm1oOWVYQ0dVSmkwd2ZwNGJDbGVfYnhsbC00WFpNLXNIVUFhanNma2RFaWR6MGV0MWZjcXhuRWQ3S3lkeWI3dE1tYUJBU1pJSExDZ0RpOTFIdw?oc=5",
       "pubDate": "Mon, 19 Oct 2026 14:28:41 GMT",
@@ -457,15 +466,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeW9rWFVzOURrUFJjWGRPeVp0YWNqVjNLVl8wNGJsU0QzQk5wY21QeS0tM0d2OU04SkZuMm1VZlczbUwtcmkwWXUzSGE1LXVLeUh4RFFac1JlMTBXa200UjhPcVZRbWVYRnhYRjEydGt5VTBlUThRNWw3UXBYY2FsMW02SGxEZGRyaFg1aXdId01nOEI4bWNGRldsamhhUjRWdkVwR0dZZVRYOUlLQnhn?oc=5",
       "pubDate": "Mon, 19 Oct 2026 14:13:14 GMT",
       "description": "Vaccines have been so successful that some people have forgotten why we need them Gavi, the Vaccine Alliance",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "CDC Confirms Over 4,000 Measles Cases Nationwide - Cleaning & Maintenance Management",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yRld1VjYwdVd2SXBQaWFmcEd0OC1ORDRZMnY0TFBZQURXYXNwM0pMaDhuU0hSVGxpY0Z4MG9qckJfVU5BSlZ3Q2VVQkNXZDk2V2xJOTUtS2M4Sk1rRW1CVmx1bFpfeTFjRVV6anZsZFY3OWlFWERPbFhEM3BoT1k?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 12:10:04 GMT",
-      "description": "CDC Confirms Over 4,000 Measles Cases Nationwide Cleaning & Maintenance Management",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -502,15 +502,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY3lyYXJJUFkzVUlnX3V6blBHSDJ5TmtULU9HVlEzZF9BVnM3b0FCZnJnM25OUWlvLXhnNXNLbkM1SUJzMmtnbG90UTVFRHdBRXBrMEtKTGtsZHkwUG9tcXVuZGE3aWs5aHFEcDgwMjZ2LVZLMjlGVlNpOElSdlRBcHZTSGkteHFLU2F5XzBrQlBsUW1WUlJfSDZVbF9fNzg?oc=5",
       "pubDate": "Mon, 19 Oct 2026 08:33:17 GMT",
       "description": "Measles is back — and becoming a midterm liability for Republicans STAT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Kentucky measles cases rise to over 170 so far this year - WKYT",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTDJvZFFxVUJ1N21lY1ZtTWdfaGRrV1NILU9MZmZVV3hsamVUa3JFd1BGbEtxTHAzeGJLejBsZ3dnTUV5b25rQ2taVEk1T1lMTEVCaVNuLW9rdmRNa2VsdlhjMnJ5UHpnU2dXVmJrbUtWS2Q4OE5GNUcxYTVWVEZId3cwLURkN3NNWmFaTy1oRGVyREdBMUhJ?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 00:21:10 GMT",
-      "description": "Kentucky measles cases rise to over 170 so far this year WKYT",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -691,15 +682,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTWc3cDRCVzlaM212WGVZa0NxcnZtOHNjQndaR1pBZUNuR3pLUVptMEEwWmtZOTcydUJXQVh0NG9hYkpIUGd5WTAxSHVpUEtQU252V1p6SWR5U3lvSl9HV2hlLUJPVFRsLXR6ckN4S01hazd1OVJCYVJqbXhhQ3FrZ1R2cE9iOTU5X2hJZW83X1lvRGRvSC00NmxEc9IBoAFBVV95cUxNaF95b3VHYWtEajJ1cnB1a1BOQkZxQjhuMmlid0VLU2dKdXVWbE5ES0VrbXNSa3NObmJtUHYwOVlWbXBlMWFYWVE1ejhQeFFGUFJhd0FPb2YxVGNWeFR3dVBaMVhmMTZPbmhveUthcnZjblBzam55MGlVYi1EaWpSVGxBbkgyOGlLbWxPUEs2WVE1ak9hTU9iNmFuY29qR0Nu?oc=5",
       "pubDate": "Fri, 16 Oct 2026 11:22:18 GMT",
       "description": "CDC to send 'disease detective' to Pennsylvania as measles outbreak soars 6abc Philadelphia",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT",
-      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
