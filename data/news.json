@@ -1,12 +1,57 @@
 {
-  "updatedAt": "2026-10-22T17:20:04.853Z",
-  "itemCount": 82,
+  "updatedAt": "2026-10-22T18:26:28.814Z",
+  "itemCount": 83,
   "items": [
     {
-      "title": "CDC denies approval for high volume measles test, ‘prioritizing emerging technologies’ - The Guardian",
+      "title": "Measles: It's more than a rash - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2SC1tY3p2SHFHUHBmUm9oTDV3aUNfT1R2NmxhUWVtQUVxcVFnMnRmeTFwdktVNDNrZUZwcnBkTWxjdW9GNThUUXcxWE1VbVpjb095c0V3UjdieXozZERtZXFRaFBhMVJDbEpnQTl6UQ?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 18:11:15 GMT",
+      "description": "Measles: It's more than a rash CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Hospital steps up screening as measles cluster widens in central Minnesota - Star Tribune",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVkNZQm1vUzE3dzd5YmdNY1hzZDdBWWdVQ3MySm15Q2g1WDY0akExY013WUdxY1oyWVZ0Um15SnFULU01dk1fZ1VlcnV6TC1nNjdCaXFZanpqMkZ1MmpvWWFaTzJwNVFGMC11Mko0MUhBWS1NbzB1TVBoVTNqQmVlMFk5aTRrWG5GeUFIRjVyUmctODhwX01BTWw3Yk5ZU1BjTGNxdVE1c29wVGItRkVKbnpR?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 17:47:21 GMT",
+      "description": "Hospital steps up screening as measles cluster widens in central Minnesota Star Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "3 measles cases confirmed in Michigan's Delta County, bringing state total to 20 - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWllZU19qdHMtN0pteDhpckxrWmhta01PeWlGY3kyQlNrTlR3WGFMTXBTWXhTQk03VUZJYkh2aUkxeEpNY0hYOEJIdEZkeXBnUngyYVRxeDRYWk9NU2NBSnZSeW1tWFlXQ0tJQjZ4MVdSMl90WlpDYlB3aUo0VmpxUFAxU0RLWHZvMnRKM3VNT0Z0MExGLXpneDdR?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 17:36:58 GMT",
+      "description": "3 measles cases confirmed in Michigan's Delta County, bringing state total to 20 Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "3 measles cases confirmed in Michigan's Delta County, bringing state total to 20 - WZZM13.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWFY4RTZCaU5pcmhiWm5CZnJZQVJfRFVRM3RzakRYVDVWalVrMVg5MXNIQ04tYWlsT2F2b25IalNzckNLVzR5MEVwWE1mZDI2eVZiVmI5bjNDek04aDcxRkV0Y2ZTc3ZiMmxHMVVHMHI4QnItX3duc29ZbW5nQ0M0dEhCQ3RZRnhrMm42akRiclAzOERob3I4dmZwYXAwTUc4VlpYc1hfNjFDdWk0TlVWSUx4UzgxNExrRWdOOGV4VDhwaFJOTi04cld2QmtNbHQtVGc?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 17:36:00 GMT",
+      "description": "3 measles cases confirmed in Michigan's Delta County, bringing state total to 20 WZZM13.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "CDC denies approval for high-volume measles test, citing ‘other priorities’ - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUaXBlRzN4YjlsTUlwZGVjblkxZi1zWGJsNmg5NUhiUmU0emtyTXVNTkUyVWVHVzAxWnJIUWpEb2hld0xza05ZTlp6b2lJdHRyVThsaWVhT1RSRDhZUHpDX2U1TlFELW9xakloSUluNTd5eTUwdVk1U1pYdw?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 16:51:00 GMT",
-      "description": "CDC denies approval for high volume measles test, ‘prioritizing emerging technologies’ The Guardian",
+      "pubDate": "Thu, 22 Oct 2026 17:20:00 GMT",
+      "description": "CDC denies approval for high-volume measles test, citing ‘other priorities’ The Guardian",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Now In Eight Wisconsin Counties - Door County Pulse",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YUmNQWk50Y1ZyUnV5ZTR5N0R4YjgxZV9iZ3dWbVNtYllaUDhINHQyRDc4ajBFZEVmNGxEXzBVY3I3M0V1Y3NsT25talp1ai1PWTdReFdJSEFDZzRSZ281UmxtWi1OQkliTjBjT05Tc1VNaDBTSTVF?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 17:00:00 GMT",
+      "description": "Measles Now In Eight Wisconsin Counties Door County Pulse",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -309,15 +354,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "C.D.C. Ignored Request From States to Validate a New Measles Test - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsYkx0Rk56aHlmTjR2WWJCX2dNUGl3a09yQXBibjliZ2dVVm1KTFllZ0lKZVdrNmY3YURRZlZjVUFjeEU2ekluN1o5MjhmME1SNldmMUpWR1AxSUQ1QXBTM05rcEdaazU0RmRGcG14ZEs?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 20:17:01 GMT",
-      "description": "C.D.C. Ignored Request From States to Validate a New Measles Test The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Medina County Health Department reports 18 measles cases - Akron Beacon Journal",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNazlpNXhVQTUtbW5XVEVrVnZ3YmxlbldFRlROVTh3MVZISXc2RnZwMEZzYktuQzdib1dScWc1T1ZfRjNxQnB5eGw2UUZJbmxuOVhSNTZOeElBeU8zc0VDOUp2bjRYVGlJUk5tMDhoLTZmM3ZxTHRtbmROTDU4N2h5NUNNRERUTUtHNzZpbmNTTlJJUmFTUEFSX2hULXJpR0NDdVJBRjJDajEzSDYyVUN1WllvWDNDR3NWRVByY2dqWjBmOXI3TzZSZlZYZ0M?oc=5",
       "pubDate": "Wed, 21 Oct 2026 20:17:00 GMT",
@@ -354,19 +390,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "With two active measles clusters in the state, many Minnesota school districts have low vaccine coverage - Post Bulletin",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS0ZVbWNsM1dfV2pXTEpjUlctNjRMam9oQ0ZKWXh0MGM3bER6ZTF1eVltand5b1pXWGpwQXRRbmxVMndqUnVNZkpnbHFwZmRXMWxSNUMxSEtlcXZfQURiMDB4TjJkZ09WWWZNRTNjTS1NN2h0Nk1fSlZhQU5RZk9URmF5aTl5bzlLODVEVGRyeDV1dnhDS3kyaUViVVM1TUlGd05jSEJjQjZ6Y3VIMmZXWW1NbmlhNDNJb2I1bGcxVEpQWDRWVWZBZWdYVDVPOHBDak5JbExR?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 19:51:09 GMT",
-      "description": "With two active measles clusters in the state, many Minnesota school districts have low vaccine coverage Post Bulletin",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "More than 1,300 measles cases reported in Pa.’s 6-month outbreak - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLXlmRXNaWEJRYzJhYXZHT2tST3NfUTRYRjhhR0FkR2c0T3hnVTFVaUpxNm91Z3Y2VzRKbG5GX3JYbHpPdEF2Tm1nWHQ4MGNZQm5nbGh5QnFycUxwYVFQZHJmLS01QTY1ODdvbjZzSFl2ekd1dE1POEdUZVUtaXdYTkN4akRoN05GNC1yb1FRRlVkbnhIU0ZpNFBtRXZsWWktbGhvWDlOX0FOQQ?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 19:43:00 GMT",
-      "description": "More than 1,300 measles cases reported in Pa.’s 6-month outbreak PennLive.com",
+      "title": "C.D.C. Ignored Request From States to Validate a New Measles Test - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsYkx0Rk56aHlmTjR2WWJCX2dNUGl3a09yQXBibjliZ2dVVm1KTFllZ0lKZVdrNmY3YURRZlZjVUFjeEU2ekluN1o5MjhmME1SNldmMUpWR1AxSUQ1QXBTM05rcEdaazU0RmRGcG14ZEs?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 19:42:32 GMT",
+      "description": "C.D.C. Ignored Request From States to Validate a New Measles Test The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -457,6 +484,15 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVU1qYVF6d2lkdm9BZDk0eWtvZ0U1R05XMWtvWG5UeUZmV2U1RmVEYlVMMmlrMmgyVEVBQnNGV1VheDZ0el9DRUpGY0Y1Szh0R211eGhDNGpMczNPNU02ZFd6OElOaFZXVjBOYTVWVldCa2R1bGVCVE1Rd2hTNHhpRlZ3b0ItYTFpWUFCbjNLcw?oc=5",
       "pubDate": "Wed, 21 Oct 2026 15:21:00 GMT",
       "description": "Kentucky measles cases rise to over 180 so far this year WKYT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania warns doctors about rising rates of rare congenital measles - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0lJcVY5akd6SUxoTFA0RGlOTWtKdnlRcWd3YU96amRZVzN1R1RMY0FNWFZZX1l2a1RPQV9pZS03aTdFc2JXQ1hDc2xhUUlubDhyNF9KYko2WkJLdm9FckMyaVEtWU1EZ0RQZUVRY1pQNkVUUDZQSVpuQlI5ZFM2QUhJTTNVdmVBUUxYQ1B1VTbSAZYBQVVfeXFMT21UaVhPdmN0TG5mOFZhRTBHWmpPY1lpS1d0ODdHYVVDWll4TkhJNmNSZmdDV2ZqUHFRYzhlMEdzd29XSlZfdUVWejIxRV8wZm9OOUdXYWp2Z3hTamM4RklZdmJfYzdvQkM5eThQVUpoYmNoa2xucHhUbUNQeUVzeTRVQTN3Nm41dUZLNUJzcklsVjVJS19B?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 14:55:00 GMT",
+      "description": "Pennsylvania warns doctors about rising rates of rare congenital measles The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -570,24 +606,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Minnesota measles cases surpass 40 - Pioneer Press",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hX2szRFlVTW5xNXZuWDJGSzEwNC15b25SRkJ3THNReWJoQkI2VVlhU0dSUTA0cE45R3dFbXdIOTB3OGNXajRHUE1WUFRrclBBY00yVUpBeGJQeE9idHB3Qi1kaXFCUmxHRk1Qb05VTktiWWYw?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 19:48:50 GMT",
-      "description": "Minnesota measles cases surpass 40 Pioneer Press",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Amish families pushed to undo a vaccine law. Then measles arrived - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjlHb1lwUTBxT0tyOV9Td21pa3hnbzYxU09HSTlUNzItS3pQa1BvWFNiSXlMeFJlMm84YXhhNFNpWWpJaWNLZXZUMERrdHVvTGVmdWxvR09PX0M4MHpRWUJpR3o3cDVOdE5tZGxrd3o0MnhYVVpQa3NmYS0zeDdNb2Zxbkx0cXd4MV9mX1pqYzEyS0FUSmNua1hWYWtqZFAtMU9FVjlpQk9VSUk?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 19:38:47 GMT",
-      "description": "Amish families pushed to undo a vaccine law. Then measles arrived The Seattle Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "US health agency confirms third measles-related death this year - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3pvTHhNNHB4SDFDNGdUeHBfUTV1VS1ZUTFYakFRUnZsUjVybGRyLTBXMmVMTWlNV2VXY2w5R1FxWTdHRGhVR21FZTZ3MWlrS3JRYzhYb1FiNDlNMHo1SkRRSTZyRi1SN3BpcktIUkFLakQ0UTNmNzBVYzNaaFpuNVI3MzZKY1FGWDVQclpCc0lnQWRTX1NKLWFHUmJSM2F3QXdkbTBEc1FDamxXQzY2c2VUSERKemZMaUhhUTBn?oc=5",
       "pubDate": "Tue, 20 Oct 2026 18:39:34 GMT",
@@ -619,6 +637,15 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHVYS1BxNURjVDdoanVISFdLZ21ESXRYQVV5UnJfS05tTUd1UmE0bFdadnhaUlQzQzB1WTU4eC0zbTczUzdSODI2Q0VlX2ZFNHg2TkRxZXhzMWwtZWVVNmxTUjIwbTU4Sl85b3VoZUV0NmtNNmJUdnQ5QUN0Mkt6SGlQcGhkVkpUSzJDT2JNYldfbXBoTi13bWJ30gGfAUFVX3lxTE1VYVpidGlpZnFsa3hGQmtMZlRURjhHWE9xekY5WU84Z2JQTk9GR0lJdGZmeWd1UWJlRmI4bjJjc0hWYXB4UUEtRS1Ed3JOdmVqNG54T0tkY0gyeHR1SHJQNmtQOUdHRE15ZnBHbWQyYkNvcDFHWThqLXRzY3VCRDQ4anpZWmlJeV8tek1DWEpEQ0VTcVFJYzdzMHdxSmdmdw?oc=5",
       "pubDate": "Tue, 20 Oct 2026 16:27:05 GMT",
       "description": "6th measles-related death reported in PA as local school reopens following confirmed case FOX 29 Philadelphia",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Judgment day for measles elimination nears - Politico",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjR1d2VkMmxIRUFHYTlQSGJ4MXo2eEFDSjNOQUxVcWY5WTAwTVBXdTlFcEJpeUtiUE9saDZ0Z1RaWU52blBqZnU2RkFVU0V3OU1sUjlpaDg2ZGRKRTQ4WjZ1UzVvNVhqUGItYlNYLWF3cERzMEs1TlNTdzEzem5SQkxZMkI1VDJEOHQySUMxTGp0R202Y0ZFa21ZVVBRNmQydmE0NzAwYjVaalI0YTdxSzFEUTA?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 14:00:00 GMT",
+      "description": "Judgment day for measles elimination nears Politico",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -664,24 +691,6 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGdIZ0tjQ3lBOE5NX2dabzNqNVlVblRwYi1rSFg0cTVaRWxPVXN1RkhhQWQ5YTE0T0VzaW1kbzE4dGtJQVZlUVRhUmFKZFBqUmUtNzRLZEtwaDVTc3pUMWRxemhESG83T2k2NVpWS09NWVhxOHJhczZ3RXRKNzEzZTlaZDBOV1VLYWVRNmNFempHLTRxR3dyQWlZdzNhV053bU01bTdvQjVNb21IY3IzSElsTWhxSmN3RmVwa3lTUWFKLXVtenfSAdoBQVVfeXFMTm5OR0xMbmhJTlZkZ2VrQ0dRTFBoZ0VfMm4yZ0F3aVNpcC1MY1JpbFViZzYyTG1iQnB0Uk9rUkk2eWRPMXh3Q05OSXA0cHVBTkhMUXpMUG83MFRxYXNYT0Yzdy1udUFaT3pqRTlNUEtCRU9QNTFqNHBkcjZsQkpuWXN5VnpkanBlM2ZqdlVsNVBlZEplRjhueWo5b2tndzdRYjM3S3RKZnFzTldLUF9lekdwZUFRYjFXYlhWOUZrQUlTSnJMbFN0cnpHMFJvd0xnZ1hCcWMtLTNpcEE?oc=5",
       "pubDate": "Mon, 19 Oct 2026 15:09:14 GMT",
       "description": "Diners at Georgia Longhorn Steakhouse could have been exposed to measles WSB-TV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles exposure reported at LongHorn Steakhouse in Perry - FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFoyd0JIc0pYS0ZGM0Vja3ZyZ2ViZjYydWJsRFVUWWRGQVg5aTd4dzNVVUlxRFhmbGlGNlB2d1BaeVlSQkxlSThjbW9IUHdGWVliWTg0M0lUdzJBazlOZjFiUFY4ZERiZTUzQmRNTjJxTkNEV3pMeEdOUV9tNGpFWTJBd2JsMjgxWWEzYQ?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 15:02:43 GMT",
-      "description": "Measles exposure reported at LongHorn Steakhouse in Perry FOX 5 Atlanta",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Person infected with measles visits Perry restaurant, causing exposure: DPH - 13WMAZ",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWEZScUptU0Z1TGRHV0RHRUNQNjhrVnExZVRoR2tkV05LdE9STG1xT3d1QVZTQWtYV3NVcTlHV2JobXFEQ25BeXAzemotTWFoLVF2OFRER0R3RWhJUWJtWkJ3RGw5VnY2UG1Ga2ZQaTZwRXBScHBwWTQ5Yk5ldVMzWlR3WGJ3ZFZoLVRtOHJCNjRlemljcmY2ZXNNc1V2OTZqZnhXOHpMWkh2NDZDdFpBcWo3Z3o2dWdwaFR0NlN5Zk1MYk5XenJhNnNYYWNDTDd0?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 14:53:00 GMT",
-      "description": "Person infected with measles visits Perry restaurant, causing exposure: DPH 13WMAZ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
