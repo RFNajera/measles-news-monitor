@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T04:25:44.114Z",
+  "updatedAt": "2026-10-22T05:23:07.475Z",
   "itemCount": 86,
   "items": [
     {
@@ -61,6 +61,15 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORGdGckwwQUtVQW5EOFpWRXc0N2pzcm8xbFpMSmw0XzFWYUtlWS1GUF9qblU2clZtUmJIeTV2ZTBNREZJclpQZEVSc3NhN1Zab0xKUEI2b3IwNnBQX1F2amltTVNaenFxSW1fdG5YOEdVazZwNW40dmRnTGc3eWMzeFBGVDNTcUEwX2NCc05Qd19sdw?oc=5",
       "pubDate": "Thu, 22 Oct 2026 00:04:45 GMT",
       "description": "Benton County reports 4 measles cases ABC17NEWS",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania warns of congenital measles risk as cases rise - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbXNCc3RoYmFQMk1uNjYtWHRrY3pVT0FDUkx6MEpHODRwZW9HNTNuSElpRjhjZTZEQkhrZU1pNkxCZDZleENHZEtlVkh2akxJVmZ5bC1pUGIzcU5TRFE4eWhzS1pualBpY0VsZjluVjI1NE9STVhEMHdVQ2I5RkFHUzVGZW9MZkRNclV3STZ5d0hXRUY3WENySFpB0gGfAUFVX3lxTE4tRlBYRU5iWnoyOTNFVmh6aEVBM0dqOGxra3VjUEZ5MmFNWDV0NXQzeUo2bXgxV2txbGl5UVo5ZGJZNTdlb29BN0R2OHFYbVZWQlZOSm1Kd214bFVMMG1ZemltWHFZRU1JeVk3T0tqV2I1U3duWlZDQ2k0N0RYT2tlSXFyeGE1UWw0aVZkUTNpOVFaZ0gxNGYzN0hsNVhoMA?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 23:01:00 GMT",
+      "description": "Pennsylvania warns of congenital measles risk as cases rise The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -129,15 +138,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "C.D.C. Ignored Request From States to Validate a New Measles Test - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsYkx0Rk56aHlmTjR2WWJCX2dNUGl3a09yQXBibjliZ2dVVm1KTFllZ0lKZVdrNmY3YURRZlZjVUFjeEU2ekluN1o5MjhmME1SNldmMUpWR1AxSUQ1QXBTM05rcEdaazU0RmRGcG14ZEs?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 20:17:01 GMT",
-      "description": "C.D.C. Ignored Request From States to Validate a New Measles Test The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Medina County Health Department reports 18 measles cases - Akron Beacon Journal",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNazlpNXhVQTUtbW5XVEVrVnZ3YmxlbldFRlROVTh3MVZISXc2RnZwMEZzYktuQzdib1dScWc1T1ZfRjNxQnB5eGw2UUZJbmxuOVhSNTZOeElBeU8zc0VDOUp2bjRYVGlJUk5tMDhoLTZmM3ZxTHRtbmROTDU4N2h5NUNNRERUTUtHNzZpbmNTTlJJUmFTUEFSX2hULXJpR0NDdVJBRjJDajEzSDYyVUN1WllvWDNDR3NWRVByY2dqWjBmOXI3TzZSZlZYZ0M?oc=5",
       "pubDate": "Wed, 21 Oct 2026 20:17:00 GMT",
@@ -174,15 +174,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Childhood measles vaccination rates fall worldwide post COVID-19 - UQ News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWG8xX1dlWEFfcDI1MnV0YzU4YmJPakRSUlRJZ0ptQmxkNVZzaGdJOWhPbk9GYk1yQm9PZGFuZGhVc1ctRENHNmRKYU9tSVNOc1dVaFdxbU5KRURVSS11czJaM3lkZktRZC1pbDY2TDZCaGp3Ukc0TF9vdmVzcEZXMXpoUGRwbkcyS255Vmw1b1VlTWtrcnBEcUNjbw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 20:00:00 GMT",
-      "description": "Childhood measles vaccination rates fall worldwide post COVID-19 UQ News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Pennsylvania measles cases rise to 1,317, state health department says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeHFMT0dhenQ4S052Q3lLdklSOTN1a0lmRExpQ3pmU1VLUUQwMlEtN2UxUDJwQm9EUHl4T2lRbkRFNkVSU1RMdGM3MWhXcFM0RlI2c3RIWE5IaWVKSi1vNnFmR1lhYy0xQUl4dTZfLW96X3RDWnVWYmRxdWNGQnEwSzRMdkZfeW5XVndZQm1NRkh2N181d0hvSVRid2FfdHlaVHFVczhBSWlieFNSa3B0RTdWREJYTTY2TE12QWdTREZxZFhRU0VuSnlZT0dPeTlwY1FB?oc=5",
       "pubDate": "Wed, 21 Oct 2026 19:52:41 GMT",
@@ -205,6 +196,15 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVFo4R1Y3RkM0dXRLVVVLNkxCejZ2SVU4Y2szLVJ0SEJyeHJlWjF2dUJaZWtLWExJWjdfcXd1V0h6Y0hlalBKMWVBMFU0UWczMWFqWVE4YURJMGxRanhhYm1QRTRjN0xBYU8xdFV2c0Eyamg4dUJXUUZ3eXhqZWxwN1h4Q2JQT1U0UVE?oc=5",
       "pubDate": "Wed, 21 Oct 2026 19:45:39 GMT",
       "description": "New York Measles Cases Reach 162 Twelve Days After Disaster Emergency as Hochul Asks RFK Jr. for Staffing Medical Daily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "C.D.C. Ignored Request From States to Validate a New Measles Test - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsYkx0Rk56aHlmTjR2WWJCX2dNUGl3a09yQXBibjliZ2dVVm1KTFllZ0lKZVdrNmY3YURRZlZjVUFjeEU2ekluN1o5MjhmME1SNldmMUpWR1AxSUQ1QXBTM05rcEdaazU0RmRGcG14ZEs?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 19:42:32 GMT",
+      "description": "C.D.C. Ignored Request From States to Validate a New Measles Test The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -474,7 +474,7 @@
       "title": "One US measles outbreak is proving particularly deadly. Here’s why - CNN",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xWWx2TWVnYVpORHdhVUhxWDlwaXJGTDc2d3hjOFN0WVhwem5BaU5aOEFvdjZpOUtGUmV4alVyV2NIT0JzUEQxU2d1d3VhSU84eXhvbnBMdld6ZFFJUm5hOVNwaFM3SmljOG1TaEc5R0RUSTZUQ2JvYkJsaWh2Zw?oc=5",
       "pubDate": "Wed, 21 Oct 2026 10:00:45 GMT",
-      "description": "One US measles outbreak is proving particularly deadly. Here’s why CNN Pennsylvania warns of congenital measles risk as cases rise The Hill First measles case found in Crawford County, PA passes 1,300 cases WJET/WFXP/YourErie.com",
+      "description": "One US measles outbreak is proving particularly deadly. Here’s why CNN US health agency confirms third measles-related death this year Reuters First measles case found in Crawford County, PA passes 1,300 cases WJET/WFXP/YourErie.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -579,19 +579,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Amish families pushed to undo a vaccine law. Then measles arrived - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjlHb1lwUTBxT0tyOV9Td21pa3hnbzYxU09HSTlUNzItS3pQa1BvWFNiSXlMeFJlMm84YXhhNFNpWWpJaWNLZXZUMERrdHVvTGVmdWxvR09PX0M4MHpRWUJpR3o3cDVOdE5tZGxrd3o0MnhYVVpQa3NmYS0zeDdNb2Zxbkx0cXd4MV9mX1pqYzEyS0FUSmNua1hWYWtqZFAtMU9FVjlpQk9VSUk?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 19:38:47 GMT",
-      "description": "Amish families pushed to undo a vaccine law. Then measles arrived The Seattle Times",
+      "title": "Minnesota measles cases surpass 40 - Pioneer Press",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hX2szRFlVTW5xNXZuWDJGSzEwNC15b25SRkJ3THNReWJoQkI2VVlhU0dSUTA0cE45R3dFbXdIOTB3OGNXajRHUE1WUFRrclBBY00yVUpBeGJQeE9idHB3Qi1kaXFCUmxHRk1Qb05VTktiWWYw?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 19:48:50 GMT",
+      "description": "Minnesota measles cases surpass 40 Pioneer Press",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "US health agency confirms third measles-related death this year - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3pvTHhNNHB4SDFDNGdUeHBfUTV1VS1ZUTFYakFRUnZsUjVybGRyLTBXMmVMTWlNV2VXY2w5R1FxWTdHRGhVR21FZTZ3MWlrS3JRYzhYb1FiNDlNMHo1SkRRSTZyRi1SN3BpcktIUkFLakQ0UTNmNzBVYzNaaFpuNVI3MzZKY1FGWDVQclpCc0lnQWRTX1NKLWFHUmJSM2F3QXdkbTBEc1FDamxXQzY2c2VUSERKemZMaUhhUTBn?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 18:39:34 GMT",
-      "description": "US health agency confirms third measles-related death this year Reuters",
+      "title": "Amish families pushed to undo a vaccine law. Then measles arrived - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjlHb1lwUTBxT0tyOV9Td21pa3hnbzYxU09HSTlUNzItS3pQa1BvWFNiSXlMeFJlMm84YXhhNFNpWWpJaWNLZXZUMERrdHVvTGVmdWxvR09PX0M4MHpRWUJpR3o3cDVOdE5tZGxrd3o0MnhYVVpQa3NmYS0zeDdNb2Zxbkx0cXd4MV9mX1pqYzEyS0FUSmNua1hWYWtqZFAtMU9FVjlpQk9VSUk?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 19:38:47 GMT",
+      "description": "Amish families pushed to undo a vaccine law. Then measles arrived The Seattle Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
