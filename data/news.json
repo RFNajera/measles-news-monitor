@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T05:22:40.131Z",
+  "updatedAt": "2026-10-23T06:36:42.743Z",
   "itemCount": 81,
   "items": [
     {
@@ -7,6 +7,15 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmpVaXZfZWlFV3U2RmFjQnFQNU12ZUpzLVlIbm5LcURsY01UNzdHSG5JUnVKOUdtU3I3SFlKZlg5NXhRY2hLc1NvUWJwalZVeURTd0dObXpBdG01b19naV80ZURzaUt0X3JQai0wbVVXaFk2YUxHaUd1S0NqSzN0Nk1vN0hwMW5aMVFzSGs2Ml9ZLVZDaXc?oc=5",
       "pubDate": "Fri, 23 Oct 2026 05:11:17 GMT",
       "description": "Measles Cases Top 4,400 as Communicators Urge Franker Messaging and Data Show MMR Rates Fell in 1,614 Counties Medical Daily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Washington County has first confirmed measles case - Observer-Reporter",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTy1HWlB4Vy1NeG0wUVhFU2w0Skg2b0Joc1BfREF2UXFjYnZvWDZUSjBHRXlDLW5ITVpPalBpcTFwSHM0cjI4TFdTQ01fVzltRjROSG9VM0k5Z3d1X29vMThuTmhNdGc4QzhtUV9ZWU9YT01Ua3ZaNUdvQUNDV2hHVVVGbG0zZ1A4ZWVHeF91NVdKVm43UWkwdjF5N2xkdWVpMnZ2ZUJkVWFNWXJnWW1N?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 04:55:56 GMT",
+      "description": "Washington County has first confirmed measles case Observer-Reporter",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -102,24 +111,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Washington County has first confirmed measles case - Herald-Standard",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3ZoQ0p4MzRTc1o3dXMwUUNGd19XT01GenZmN0lDb0tmNnpzeEh3TGlHX0tVcURfMGpDLXo5a196MjNlQWNtZzN4ZnJqYzZDU0pvY0hVWnRLNDk2aEIydzIwc3NKVWdxeTNIM1lMR29PZkRDckNrRktYaU8wZFM2WnFTb0JJTk9pTmh2czB3bGszNWR2aExieVZRNktMbFpwa3kwQ29FX0ZFek5sLVo0?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 00:56:52 GMT",
-      "description": "Washington County has first confirmed measles case Herald-Standard",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Kentucky's measles outbreak nears 200 reported cases this year, up from 13 in 2025 - News Channel 5 Nashville",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRkI2MUhkSUxkR3ZPa2lVRmcyNUU2SjJHMk14WnA0cG5vLW1hMlZaanh4R19Hanh2SGRUc0lhcm55eEdmTmVmWDJLWV9WMGx6dDhBbGZfc2FoMFptZWhPQUN6R0wza1lXbXRad210N08zRXFXM1J5NXdYYk5Od3lqQ3BBeklhNDF2RXZvNDV1ZVBQQkxPdTZhclkwbVhJcTBlZ1ZmSU85VkJSYnd1NEE0M0NqUnFHS0VlQzNOeU5IMk8tb28?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 23:35:40 GMT",
-      "description": "Kentucky's measles outbreak nears 200 reported cases this year, up from 13 in 2025 News Channel 5 Nashville",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Medina County confirms 3 new measles cases - WKYC",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOamZWN253UFZKUWtDcDg5TUQ5UVNFM3BkTHJlUl9XNTJNX21IMFVjazF6UkhhY1VjcGxKR21LeGNkT01FM3UtcGxHNUFDRkF2bHlPeVQ0bW5RbXVRMkU0QXRES0tuVHBWQ2F2dEZuZE5iZmcya19JTUlFMTJYTEVBNk1YQlVETUVWT0U3cV9jc3YyNlZSNzJiVFJiUjYzWkl0WHZzUWQ5RmxfU1ZvZkZyb2lYSWt6Yng1SktrZzVR?oc=5",
       "pubDate": "Thu, 22 Oct 2026 23:07:00 GMT",
@@ -129,10 +120,19 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Kentucky's measles outbreak nears 200 reported cases this year, up from 13 in 2025 - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRkI2MUhkSUxkR3ZPa2lVRmcyNUU2SjJHMk14WnA0cG5vLW1hMlZaanh4R19Hanh2SGRUc0lhcm55eEdmTmVmWDJLWV9WMGx6dDhBbGZfc2FoMFptZWhPQUN6R0wza1lXbXRad210N08zRXFXM1J5NXdYYk5Od3lqQ3BBeklhNDF2RXZvNDV1ZVBQQkxPdTZhclkwbVhJcTBlZ1ZmSU85VkJSYnd1NEE0M0NqUnFHS0VlQzNOeU5IMk8tb28?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 21:25:00 GMT",
+      "description": "Kentucky's measles outbreak nears 200 reported cases this year, up from 13 in 2025 News Channel 5 Nashville",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Why measles outbreak in Pennsylvania poses risks beyond US borders - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTVVVDVfMEtjeEFBZS1hd29UR3FwTFlreEFiN2xJQjR1QXh3UDh2R0JLMUxmenEwWTdMaU4tU2E5Q1cxa2M0aUoxYk1OSVNwdkxBRVhpT1JoX2lOVHZhLXB6ZHN3OG42NEpPVlFoU3ZZeFBwb3JpYUlYNWpwUkY5b3RvVWtJSXV4bXJXbDAtVDRaVjVNVW9XRmF3dmg1bDF0V0s5SkZjeVpfZ0Jt0gGyAUFVX3lxTE5hV0F5TEF1d1ZVOGZPR0ktc0hSMGRzVi1fZlNrVm5oQllwbk1IdFJuTEFVVmdBVlFTMUdpRDR2bEkzUzFpcVFJMU9XOFRhSXV5NEdFZ2FKbkFHdnhGUTZ3c1VMQ3M2NHJyTUZQUVdrSTV3R0hnRGIzSlBvT1BTOXo4SVBXbFpwemFwMEs2ZjlxSWNUZmVSdjQwVWVOZ2hZZmpTeGg5MGhBZlhqekpWVWd4ZFE?oc=5",
       "pubDate": "Thu, 22 Oct 2026 21:16:07 GMT",
-      "description": "Why measles outbreak in Pennsylvania poses risks beyond US borders Al Jazeera Measles is thought of as a childhood illness, but more Pa. adults are getting sick Inquirer.com Experts alarmed by ‘less transparent’ CDC as US measles deaths rise The Guardian",
+      "description": "Why measles outbreak in Pennsylvania poses risks beyond US borders Al Jazeera Experts alarmed by ‘less transparent’ CDC as US measles deaths rise The Guardian One US measles outbreak is proving particularly deadly. Here’s why CNN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -151,15 +151,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQThRbTFlRjc0a1c3T1NMOXpiamJSTXlxSVU2NV9uQnRhWjdRaHNpdDhGYnNNZmpHbnU3X3E2MzFqdG5WMFFzemNCZ1FCRWdJa1hxYlh3VTJaUHdEbWJVRGlZUFdHWHpTQzROVmI0UzVLQTFWa3BJalJrSVlaaVVCOFA5VFdKaTd3SGVGdjU3dUg4a1N2SjU4MkxzSjhtS19saF8xSWlYazRsUWZ3UXRTN1V0S1V0TVl2QnNpTG13aWVRWml5d0xSTl9rZjk?oc=5",
       "pubDate": "Thu, 22 Oct 2026 20:14:33 GMT",
       "description": "Video: Health Officials Urge Caution and Vaccination as Measles Cases Inch Closer to the Region Ozark Radio News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Otsego County is Offering Free MMR Vaccines on October 31 - WKTV",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSFFJVXZTYWQtM1NQYjQycjUyNjBZVFpoWlRYbjc2WDhKOW0yTF9DN3l5cFBlUUNqLTY2N2JyNmRqdkxxdmNic3RaQWJzNDkxV0VCZnFfMmJpMEZZaTZaa3RJV1MtOVBNUzByNWxMQ21IeW1VV0pKb0Utc1RuSkg3TS1CbFhrd25kZFpnak5qcVFWQi1fcHl2Ry1QdnpDTm41eDlhN2s3WlpNTXFIMElQbWxsOWVKcWJ2VHBmblROUU5Pd0tyLUVnZTlHQnlXT1MwZTJaXzUxZw?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 20:12:00 GMT",
-      "description": "Otsego County is Offering Free MMR Vaccines on October 31 WKTV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -259,15 +250,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUnRnNDNHWkVIN2RsNnFuNUJuLUVPTWF1dHRvVTliTHpoMjY4Rlp4dmNqWDdfMGN4LUVqYXVSSWFXaUh3emlGRG5YTlVucXRWeHpJbDFpaGpHUE41ZU1GMDhtVWR3NkljQmdfNjhpaFA1WF9JdE8xb1BaYXV6ZnVyME5MMTdJQjBzYlhQLV9haElRTkxwT05DRDFWczNfdw?oc=5",
       "pubDate": "Thu, 22 Oct 2026 15:18:07 GMT",
       "description": "Measles updated Daily Courier",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "States Waited Two Months For CDC Help On A Faster Measles Test, It Never Came - HealthDay",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbXFPemJUOGI1ejRza0hMZHhtWVBQZ2kzN05MYU4welFSSWRubzhRUllYVUlvYmJhU2ozQVczcUwzU2dCU2Jnc3MzalZtRG1WTXd5WjF4RTkyT2dKOUw2QTkxOThienFCNzhkSldwVXRQdE9xTDQ4UUhKT1B4M2pXaWI0Q0J0SnJRQ1laSVRNaUdZWS1SMUFhcDdrY2dxMWVtVmFGQTBBMEZVWTgwU3o1TTRnU0YzVEwzUG1ubVVrZnctcWNGSVdV?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 15:05:03 GMT",
-      "description": "States Waited Two Months For CDC Help On A Faster Measles Test, It Never Came HealthDay",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -417,6 +399,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles is thought of as a childhood illness, but more Pa. adults are getting sick - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGE4STh4Q2dpZG5ZOUZnOFpocVBMUmM0NnBzM3NkQ200dmVUWGE4aGdNTTVjX2VWY3lfdDBTQTA4anRNb01KaGNXN0J4WmlvcnFrQnBBdllmSXNKNXZyekpMVVl1TkZvcFdZcUh3d1NyWThST2k4VFlFSnFLeFEwYlJXRGZ4d0dXQkhvSVRtQWpnNmlHUUpN?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 09:01:01 GMT",
+      "description": "Measles is thought of as a childhood illness, but more Pa. adults are getting sick Inquirer.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Medina County reports 3 confirmed, 15 probable measles cases: Here's what health officials want you to know - WKYC",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdVdrWjlGMkZUdElMTFVucVFRVlJ0dWRQYXY3OWlFZHBydURnRTZYNS11Mkp0czBaQlNhRmlxMmNjRFF1WlJvZ2RDeHVmLVBaUVY3SVVVSzYtNmZya1I1ZkRwMHVMRUtJR0tCR1VjX3FvOHM3VTBoa3VhaFNIWFF1N3E3VVlqR3BiRG9XRE1reWtpZ0w1VGdiQ2JtQ0kzd2otdUhYblUybHFrUzJMWTNIa2JKR3R5UzRUQ2dsdDZZWTUyT2gzcW80ajhXRGpteUoxaFBfb1VPNFdPZVZ6dTdaUWMwMHFoaHFZaTg3Q3hGaDh2MklsM0E?oc=5",
       "pubDate": "Thu, 22 Oct 2026 01:53:00 GMT",
@@ -439,6 +430,15 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdGJCYzdJeWVDaUN2eTNlTW9lSmVmbzdseEc2eTdvZmQ5WDBfWkY5TXBBRTk1NEJYUThDY1F4Q0RCSnJXaFczcmJ1ZTdJLTZnZ2hsYlZJbTdOQzBZLXNUdHp1LWpySmpGc25QTW1RNnROMEJYY0tNU2tPaXQ0dXJSRlVtZW5kdzFrNFp6TEQyN1ZnTXZVeHQ0WUQ4WjJoTlRQSmNMaVJBclF0a3l0TXRyNjBybEJjbHd2bTU1MGJsTlRfRGpmTUthazZHRDN0NnI4aVQxWWlR?oc=5",
       "pubDate": "Thu, 22 Oct 2026 01:04:00 GMT",
       "description": "DuPage County confirms measles case for vaccinated resident who traveled through O'Hare Airport Chicago Sun-Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "PA measles cases surpass 1,300 for the year; DOH has administered 10,000 vaccines - ABC27",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbEUwcHdoSDFlVHZPenc1TWF4U3lidlZ0a0lOcjlpckRIdnU0NHp4OXdFcmZNSURpWjBDSUhvM19vaDFucnRPTzJwbXFoa2hfYTE1YUUwQV9YOW1DYmJmQ0FGa3Y4UmkwRFMxSTVnUWdEaUtNanhVMHI1VklvQnA3UUhGcUJEMGo3U0xQa21FQXYxbHFnR0VORFdfWGVpeDlOM3hob21qd3R5N0tTTXdsSmZNUEYwZ3dKYXfSAb8BQVVfeXFMTk1YOExuQ0tlUmtrYlNudjJQY0h2dmhGUnVkME80cEtOZjBlVmd2WnpudHZ4b2Nkb3YyQnFiX2xvYW5ueWVuM0NfaUxuUjM0WDdWWkJiaXhFS1R1eGE0RWt5bV9xSUtIWEJmYXJfc1hmanBabmpZd3NNdWhINlFDaW9yV25tS0VtVFpxWTkzaU1XSHprdy1tUVI4cmdrb2pPRjNtQTFwR3hsa0VUYnhrRDYwckNzQktGaEZTV0V4eW8?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 22:17:44 GMT",
+      "description": "PA measles cases surpass 1,300 for the year; DOH has administered 10,000 vaccines ABC27",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -507,6 +507,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles case reported in DuPage County in ‘rare breakthrough infection’ of vaccinated individual - Chicago Tribune",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42TG5XZ0RaZTBERmhYQUtCRjk1N3dQdDNqVHlQTTB3Si1ZcHpwVURNcFNkT1J0ZWtHSzJraG54NXc4OEs1WEFoR0g0LTZITThYdHpfX3QxUTBvU0VwZ0s4STF4Vlc1NDZ0UnE3RTM2dEx3bEFKSFFOdQ?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 18:55:21 GMT",
+      "description": "Measles case reported in DuPage County in ‘rare breakthrough infection’ of vaccinated individual Chicago Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Childhood measles vaccination rates fall worldwide post-COVID-19 - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRlQ0X29tTkEwOWRTS1UtWDRXTGxHUFN4UkctaHlvNXRmdHllUVpDcElmN1BSSkcyeEI5cjZFRjJ3emRnai1lNmJvRWdWeGVDX2o0djNsVXhfSklFOW4wRGYtVlo4Tnhobk9YLVlBQW0tb21VZ2NGbGswZXRSNFlNVEdkc0NqUjNnb1lXOGthOVk4QQ?oc=5",
       "pubDate": "Wed, 21 Oct 2026 18:20:04 GMT",
@@ -520,6 +529,15 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVkJtamZBS2dUbWNfal80RXZLRWwxNk5NSEdNVmtaN0Nmb0tnb3JISG9Gam1ielptN0NlRlNwM3BBYWt1S0ZoYUNTTUZmOTFWaGVTal84VkstbXRGUVdoMEN0U1FiNEkyZk5VajRRVC1fNGR0TW13NEhDdzdVU1VSUkVaTy1iZVBFUkZrM0J4TWtIeGlvRE1ucnVmWGhCMDFTZ21zWVEtMXFmSlZTUFRjN1dNcHlqTWVEQ01YRWJOeTNSZ9IBxwFBVV95cUxNT3JpYXVDdkljamg5enFPVUpWVWlKck5RS0U3czc5eWdhWnBONFNRTWk0bUhoM3NidTNKeGNSVVlWaU9KV3RYSHN3TGtFOW5rS0F3SGZzbG93WDhiWk9FaWFKRmN4NmlXWDhJUWxjVzJKSjFWX1RNMHhIb21KYlNoWDhuaXlmZzRnclRBc1pURmlyaFdDbW1ZVmVmM29ZZ1NrQnl2TW40UWgxRlo4Ti1pQWxMT0lmQjJYMjRTc3BKN1lHT18yN1BV?oc=5",
       "pubDate": "Wed, 21 Oct 2026 18:05:54 GMT",
       "description": "Women’s Health Wednesday: Protecting against the measles NEWS10 ABC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "One US measles outbreak is proving particularly deadly. Here’s why - Scripps News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3FGSkRfRlhUa29jbkduZmZDd080RVdZMnozNFBqX01xWDFfYWE0Y2RtcnB3NDV1R1cyVWhxcVZ4b0ZydUw1ZXN0VVEyUUNnOTBjVFNFbTV2VGJuaThLRWhQbG8yN3ZFNHpzMTBkTEZFcUYzb09aaFREVUYyYkpKN0pEVzEwN1lpWjBMYWZsWW5UemJHeWRmT2dPQ3Ewb3Nw?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 17:56:23 GMT",
+      "description": "One US measles outbreak is proving particularly deadly. Here’s why Scripps News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -583,15 +601,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaVNqdmhIWkQwdUtUTVJpQWFnejFFWWI2OVpwU054Y3gtUWlpZEtHVldpOHZpUU11Q3dtVUFBOV9teHh2S0pUVGtXTlZCdjl4UnQtaXFWUFZSMzJWWXZfLTVEdVFnT1diN0oyRDk0ZDJDd2IxLXlqbzZSZjRSR3k1Z2FsQXV5V1VDLUY0WEFpcHM2YWxWX2FFaG9lQzRBb1FHTGd0XzkwWk5ySWRieF9mb3lqLXZPNmRmMklHNXNuOUk5NHdFWWlyeE91VEZXSkhVQU9GYWV3aXlsVW1F?oc=5",
       "pubDate": "Wed, 21 Oct 2026 10:30:00 GMT",
       "description": "Minnesota measles cases climb as officials urge shots St. Cloud Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "One US measles outbreak is proving particularly deadly. Here’s why - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xWWx2TWVnYVpORHdhVUhxWDlwaXJGTDc2d3hjOFN0WVhwem5BaU5aOEFvdjZpOUtGUmV4alVyV2NIT0JzUEQxU2d1d3VhSU84eXhvbnBMdld6ZFFJUm5hOVNwaFM3SmljOG1TaEc5R0RUSTZUQ2JvYkJsaWh2Zw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 10:00:45 GMT",
-      "description": "One US measles outbreak is proving particularly deadly. Here’s why CNN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -709,15 +718,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVdDQ0N6V1RSeHlVS2lLcmJqbjVyUlJ1ZFJFYWFlWFo0MUtWT3hmUW1MSzRxaXI5SGJza2N1dzdFUG1venFSTnpUSGlPUVpIUHRIZGV0TTBCVVc0Qk5valRHWlUwRjdDbVp6MUdRSmFiUm5MaTU0dC1mOHY0Si1kb1lqdUp2NXpDMmZaVTQzUWlMcTJUZ01JUFNUTWt4UTdqYlFlbU1R?oc=5",
       "pubDate": "Sun, 18 Oct 2026 07:00:00 GMT",
       "description": "Bangladesh is battling measles. It's a 'real warning' to other nations Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNHRzVfU3BUQV84MFNyU1JOTnp2UmY5RnZoQ3RGZWFLRWo4WFBaRU9KaHBPTHFtNzhNWDlwRnZaMkdMLVBSMmdtRnVCWkpMMXZyU21LaVZEN3hXYjh2RUlGMmtCTWVBM3VCSVVLX0hZZDZKdl9WRWI3NzNOREM4ZjZMbVZvbUxKNjc4cTUzalFOOV9O?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 12:00:00 GMT",
-      "description": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak The Guardian",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
