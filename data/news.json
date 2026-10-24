@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-24T22:19:19.021Z",
-  "itemCount": 75,
+  "updatedAt": "2026-10-24T23:17:57.172Z",
+  "itemCount": 74,
   "items": [
     {
       "title": "Florida could face its worst measles epidemic in nearly 50 years - Earth.com",
@@ -60,7 +60,7 @@
       "title": "Additional 178 cases of measles reported by US health authorities amid outbreak - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BX2FfNHd6TlpjcmFhZXVRR00tcEhVTTgxZEtEVFRLWHItS0VCVVI4NjN3Sk5zd3ZLUlpqRWxsakZkd2RCTElxOGZKLWg5aTB3emw3X1ozV1JrTWdjN29nZkR3cnEyQ25oUkFhaGh3NjJacGxOUThuQWphcnltZkE?oc=5",
       "pubDate": "Sat, 24 Oct 2026 12:02:00 GMT",
-      "description": "Additional 178 cases of measles reported by US health authorities amid outbreak The Guardian Why a measles outbreak in Pennsylvania poses risks beyond US borders Al Jazeera US CDC says measles cases rise to 4,588 as outbreak continues Reuters",
+      "description": "Additional 178 cases of measles reported by US health authorities amid outbreak The Guardian Why a measles outbreak in Pennsylvania poses risks beyond US borders Al Jazeera US measles cases hit 4,588, more than twice last year’s total CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -174,15 +174,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "US measles cases hit 4,588, more than twice last year’s total - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUVhRMWxfUzNER0llakRzWVp5SE1YcnVwbUFpUUJtX3F1MWI3OHpNZGhndUdxLXBpWnRPTHp2dzRuMnVib0N2Q3Y1dHoya2xMclp3Vk9rdldaWUJiX1hfMzBTTkxOWGFjUllvc1MwMEx0MEZEVDc0OEZxU0NwV0pYOE1XcTZCeElNQndFcjF3U3I5NWM?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 20:49:07 GMT",
-      "description": "US measles cases hit 4,588, more than twice last year’s total CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles cases top 310 as outbreak continues in southwestern Wisconsin - WKOW",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNGItMjJPVDdjUUVUaHpNcXotTENuN3V3d2VUOE94eXE2QnAxbW5ERUN5Zjd1VnJhSVk3TkxVVDJya1h4TjhuSTQ5WmlucDhTallVY0dOaXIxZFJoVmM4WmRFWTNNUW03QUxNc0hwTkp3N0UtUDFVS1NlQ2NJSkh1Y3hhVVE2V21yRTF3T2VQb2hmajFNUW5wenZmV3VxcmZvMWE2ZXFvUTNQTk5WalFUZEh4cXNhQzBrNzdSUDJ4WC1pMXVJTHZYemZuWVltbk9WQVJ6WkJUdExFdENTUS0xOUk0U0xjWTQ?oc=5",
       "pubDate": "Fri, 23 Oct 2026 20:46:00 GMT",
@@ -232,6 +223,15 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV2ctRkRUU2d0N0NRQVk0amJQcnZoQzVJb3FEb3d5TnVOb292ZHYxaWQzUHdReFdQT1FwSlF5LVI5c1k2V2ZIRFVtZDRIS1BlQVFmZEtXT0VGOXM4UUxYU3JXdFVzRUNKQjBVb1g5V28xVWJGelRjTElaSTJjYWh6MUk2cG9SUGFjWmJqMUFB?oc=5",
       "pubDate": "Fri, 23 Oct 2026 18:18:00 GMT",
       "description": "22 confirmed measles cases reported in Pike County, Ohio WSAZ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "US CDC says measles cases rise to 4,588 as outbreak continues - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmllVVNoU2J5OHFVeWNyMWZUcmhEVWFwNzlKTDM2OFBpSkNJZ1N4ZmZ4aUV2QjEtdXpoRTB5cTVydmtuV0xGTGlwYmVaU21TalRLWElfdS1FVVQ3NlM2VGVRUGZ0dFVQS0JLaURtMFYyTDUwYk4zU29SM1VYeTZnWkk5NEZ4emV0VjgtSlIySlFOVjlYUFpVU2NNZlV2VzBqd0R4bTFuUFIzVEE?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 17:28:49 GMT",
+      "description": "US CDC says measles cases rise to 4,588 as outbreak continues Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -448,15 +448,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONnhYekt2RDJQSkRmME04dXdvbUVWMjdVOTlUTGFZYnllczFRTGVEamdEd3pLWEQ2SVRoMXB0VkJaR2FuSlgwaTFrNmRrN2JJbHNfaDZDRU1aSGNWVVVHa2VLQmRKU2ROLWVLaDQ2eXgxMVRlcVVNME1ZaE1RVGN4Q1lXaU02LTFSNjlqSDEyczJUOXdMMFQ3MEJ0RGJUS2lmdS02TVBicVFkOTZYcEFtcFVJRWtzRk41YTEtM3VHcTV0WGh4QlUzaU1UV2NUSXBv?oc=5",
       "pubDate": "Thu, 22 Oct 2026 12:27:00 GMT",
       "description": "PHDM: Three measles cases confirmed in Delta County myupnow.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania poll: Shapiro leads Garrity while voters oppose Flock cameras, support measles vaccinations - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHR1dk5La3MxaDVwSzBDaFVLa2JreVZib0RsbndVU0V4YUp2M0hJMFpwQVMxUk5MSjdSN1RCT0NfN3NpdWlENjdDb3hwUUxQWjNxLWZRU2l1N09vNkNYdWFPTkpUQkZFT1B1d1NpbFpCcWItTGU4Sy1YdG1qVUp1N0RkMkwyRFNDNjRhaS0tX2NiYUVUeE5JN3ZMbjU5VzQ?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 11:38:00 GMT",
-      "description": "Pennsylvania poll: Shapiro leads Garrity while voters oppose Flock cameras, support measles vaccinations WGAL",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
