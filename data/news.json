@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-24T03:25:15.451Z",
-  "itemCount": 84,
+  "updatedAt": "2026-10-24T04:23:49.800Z",
+  "itemCount": 83,
   "items": [
     {
       "title": "Geisinger issues a measles-exposure alert for two facilities in Pa. - PennLive.com",
@@ -43,6 +43,15 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1ZhaWltUlRqZW5kb3RBWXpDcjdSdDE1ZGZxd3BkbzFIV09IZFZnVEc2RS1pQ1o4TU9UY1hoRkZfb0JWTjdWNkprLVlKV2I2Y3VCbUZFVVRBeUdWdDhpM0dlOEt5cWJkOFJXeFVvWFF0b1EzS0xpTTB1VmYzWDJUOGdqcTA4b21fMGlwV1N6XzF6dw?oc=5",
       "pubDate": "Fri, 23 Oct 2026 21:41:00 GMT",
       "description": "Measles cases now double last year's total as health experts urge vaccination WCVB",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Washington County records 1st confirmed measles case - TribLIVE.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQi1jOVpsWjZGdzg1Sm56MkNFeTZERTl0WWhvTnBvQTFGMW5jOVo4bGVZTTZMTlVibXNxQUdEUGxockRyRGdOTVNuWjZNRW1VMjE5cGplOEpwV0pEQUlNV05EWFpuR05pUG8wUVlBZklqaWxQS01WczJ5WHZySnl4RTVqQWIxT25Hc29yM1RMSndtTVZ6NFNF?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 21:32:54 GMT",
+      "description": "Washington County records 1st confirmed measles case TribLIVE.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -111,28 +120,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "US measles cases hit 4,588, more than twice last year’s total - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUVhRMWxfUzNER0llakRzWVp5SE1YcnVwbUFpUUJtX3F1MWI3OHpNZGhndUdxLXBpWnRPTHp2dzRuMnVib0N2Q3Y1dHoya2xMclp3Vk9rdldaWUJiX1hfMzBTTkxOWGFjUllvc1MwMEx0MEZEVDc0OEZxU0NwV0pYOE1XcTZCeElNQndFcjF3U3I5NWM?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 20:49:07 GMT",
-      "description": "US measles cases hit 4,588, more than twice last year’s total CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles cases top 310 as outbreak continues in southwestern Wisconsin - WKOW",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNGItMjJPVDdjUUVUaHpNcXotTENuN3V3d2VUOE94eXE2QnAxbW5ERUN5Zjd1VnJhSVk3TkxVVDJya1h4TjhuSTQ5WmlucDhTallVY0dOaXIxZFJoVmM4WmRFWTNNUW03QUxNc0hwTkp3N0UtUDFVS1NlQ2NJSkh1Y3hhVVE2V21yRTF3T2VQb2hmajFNUW5wenZmV3VxcmZvMWE2ZXFvUTNQTk5WalFUZEh4cXNhQzBrNzdSUDJ4WC1pMXVJTHZYemZuWVltbk9WQVJ6WkJUdExFdENTUS0xOUk0U0xjWTQ?oc=5",
       "pubDate": "Fri, 23 Oct 2026 20:46:00 GMT",
       "description": "Measles cases top 310 as outbreak continues in southwestern Wisconsin WKOW",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Washington County records 1st confirmed measles case - TribLIVE.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iWW9GV3NCeVZvVFVPb0FUa1lqbl9kaXozRjRlc1pUYV9BTnNRd0NNb0NUa1F3X0JBZ3hoaURwT015cWpxUldMQUZWQ2xBZXVNS19LVXJ3?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 20:31:33 GMT",
-      "description": "Washington County records 1st confirmed measles case TribLIVE.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -213,7 +204,7 @@
       "title": "US CDC says measles cases rise to 4,588 as outbreak continues - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmllVVNoU2J5OHFVeWNyMWZUcmhEVWFwNzlKTDM2OFBpSkNJZ1N4ZmZ4aUV2QjEtdXpoRTB5cTVydmtuV0xGTGlwYmVaU21TalRLWElfdS1FVVQ3NlM2VGVRUGZ0dFVQS0JLaURtMFYyTDUwYk4zU29SM1VYeTZnWkk5NEZ4emV0VjgtSlIySlFOVjlYUFpVU2NNZlV2VzBqd0R4bTFuUFIzVEE?oc=5",
       "pubDate": "Fri, 23 Oct 2026 17:28:49 GMT",
-      "description": "US CDC says measles cases rise to 4,588 as outbreak continues Reuters Why a measles outbreak in Pennsylvania poses risks beyond US borders Al Jazeera Experts alarmed by ‘less transparent’ CDC as US measles deaths rise The Guardian",
+      "description": "US CDC says measles cases rise to 4,588 as outbreak continues Reuters Why a measles outbreak in Pennsylvania poses risks beyond US borders Al Jazeera US measles cases hit 4,588, more than twice last year’s total CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -264,10 +255,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "New Ohio measles cases slow, but state still sees increase - Cincinnati Enquirer",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS3I4UXlON2drNktiVV9MMXhKWGI1SDVSdDZoeVFOa0ZSLVIyNE94amhtT3pFR1g1clRuSC1wRFh5R3JjbFptcDhWTDkyV05YM3g1bWptMnlZYzJiNDVOWkZWYmRLS0haNG1CV0JtbFZJVlE3TDBRakhzSk9tSFF4ZnpkR1l4Ty1rM29odkhmakZGSTFNem5RZ1RLOElxWlgtR1lSVF9GX2U?oc=5",
+      "title": "New Ohio measles cases slow, but state still sees increase - The Columbus Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0otMmFRVkpubDhyWVF4cmRWOXVacXVHSmJPT3lmYVBaSHBRb0diZVpaWmdIR196Skc0a0REZTNtcllpVjBQLVd3TlY1cjlIYzZCdWlaNzc1RlI2NlFOTmNmcW9KNWpuRUJTRjdzaUFReWI3ejhYbXJ2MTJ4dFo4dVlSQU1ETU9ibWxiZDZoVHlkMy1Pa25wVTVkRU5iUUUwM0ZhR3JR?oc=5",
       "pubDate": "Fri, 23 Oct 2026 11:21:00 GMT",
-      "description": "New Ohio measles cases slow, but state still sees increase Cincinnati Enquirer",
+      "description": "New Ohio measles cases slow, but state still sees increase The Columbus Dispatch",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -340,6 +331,24 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0ptcnhKaUJ5bDhNZXZUZVF0OVN2dnJaRk9jak5zQ1pVRzk1RGNMMkEyNWhoWlMtNFZaODh3Y2trXzd6eEZxbEU5LU5iZVU1RXNncmFibWU4aGNSQzA3T3ZWTDhKc0N0ZW5fZFp0d3NVemNNNWREM2FtcVNrTXg2bl92bXpRa2xXNHJZZjNzT2FOQzN5bG1qU2JTMzQzTVZwaWZWcnQ3ZDRCOW54LUtqRGp5OERhcXN5aUMtSGtpVGI2d9IBxwFBVV95cUxNaFpQaGxYaFk5TzN3aDhYZWZRUTc0WUtXYUJweVo3enFWeXVtWEJZZkJDNDVPWlowVUwyeEJGUnpKUENSVkhJRlpRUzRmaC1zUURTWWdYQTlmOHJyRFhJZGxnaFFsLVphcVEtSi01ekJHR2kzSGtNamZ0NHlreUhTblMtNWF5RVBHMC1WRURlNVBzUTR4NnV5RkxjS0lhR3VwSVExb0dvYmowSm9WYmtHcDNiZXdiY3IzanNpTGc2U2tkY3BuNW40?oc=5",
       "pubDate": "Fri, 23 Oct 2026 03:33:02 GMT",
       "description": "DuPage County measles case prompts exposure alert at Chicago O'Hare International Airport ABC7 Chicago",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania surpasses 900 measles cases with 13 new confirmed infections: Officials - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzlvdkY1WS12MEJoZUx3MVA2ZXlVbmRGWVd3MUp6dVNUV0l6MTAyTmNDRVhIR0FfUzFLa0ZFS0RFRTZEWjVXTGV6LUFzVnJDeGxaNmlUUklLS1V4Ym5lNFR5MXlQSEc4d2M4amxZRkJBREdINDdxR3h2aHRyS3k4dkZHUDVyWlNUVWJGaWxRRUpiMmhLMlVyUjQ3QnFRdDI3WkR1U3FR0gGrAUFVX3lxTE9rZEtzTTdpOVkwMjRMYzI0V1VydHFJWHg3Z3dXT1BCSWVBYnpUaVJCa2FieEZ0SDNfR3lFYXp2eTgtRFNLY1U5WllNQVlfdkQ5S1pGUUlFUWl4RXg5MzFXeFRDOWdnOHdDSkVyYnBnQzA5NGZnZEY1NlhSVTVTNjdCa2JFMDBJOTNRZUxMRjNFYTkyWDNDUU04TzN4UE4xdmdKV3Y0LU5sTHR0cw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 03:31:00 GMT",
+      "description": "Pennsylvania surpasses 900 measles cases with 13 new confirmed infections: Officials ABC News - Breaking News, Latest News and Videos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Health officials report 74 new measles cases in Pennsylvania - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMndFcnFqeFdqTUE0Y0ZmNFdhQ1ViX2dXWWJtbjQyelNpYUZ3TjlLMnRjamxHSmFvRTZzc3VHTFltckRKVkdFQzJLenB5UDhFUVd6dmhnLTZlbE92UzkzcVMwMWRXbkF6WDJlcEFDa3ZSZFkwLXRPYVVrVjlQUk1XakpXSl9Wd0tsa3ZHOUJzQUJHUWFkUjJ1cXZKelVxNGxKMlFDUmlR0gGrAUFVX3lxTE53WjhWUE9JcEJQYjFsVDU5amhWbWs5cldIbllpbTVrd0NvamFpVy1WTUFhMVdfSkFxdzhKeWhHY0ZlWUdYQ0JPV2E3am5QR0ZORjRISUI4S2ZVVy1IMTNyRUk4OC1taTlwbGk4N0VfempYekNwWmNnSUpBcmNUNnlZaEFiSVBhTWZkY1ZwOG5tN1ZmRml5cWhOLUEwVURETzZuQVN2bGp4VS1rSQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 00:58:35 GMT",
+      "description": "Health officials report 74 new measles cases in Pennsylvania ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -421,6 +430,15 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YUmNQWk50Y1ZyUnV5ZTR5N0R4YjgxZV9iZ3dWbVNtYllaUDhINHQyRDc4ajBFZEVmNGxEXzBVY3I3M0V1Y3NsT25talp1ai1PWTdReFdJSEFDZzRSZ281UmxtWi1OQkliTjBjT05Tc1VNaDBTSTVF?oc=5",
       "pubDate": "Thu, 22 Oct 2026 17:00:00 GMT",
       "description": "Measles Now In Eight Wisconsin Counties Door County Pulse",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Experts alarmed by ‘less transparent’ CDC as US measles deaths rise - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR2pNMHc1c3FrX1p5eGZxNlNhYnhtd0ZTRUV1dzBmOTM3dVNwcGdSanVaVHk1NnYyMUcyVVlJMVZDRkFPZDBTQ2VXd2VMeE1qbmdqRVZkc3YxUkdOR19QWElLbmdSRlkwa0h1OXRkeHdFVkQ1anZ6ZXVtVzNSb3BaZjUwbHFSNkR5aU1DbG93?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 16:52:00 GMT",
+      "description": "Experts alarmed by ‘less transparent’ CDC as US measles deaths rise The Guardian",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -525,15 +543,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "CDC ignored request from WA, California to validate a new measles test - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeDhQd3hQNzNoTlhWYm1ab0dJMVE2eTQwZklUSkZWZGlXa1NEdW9hdkZKVFgyOVh1cWVHb3NUdVdzRFBJSUt4TGR1Xzc5elJqOWZBb1Z4WndjZ3BUbVNZZVNnYk9OZURMUmhpWldGWU13bEVRSXNZU18wT3pRSm1adUszdXVnN2RtOGVDZm9tUHBwOXQ0LU9rZ3NRZ2QwR00xeU5hZnFTaVQtVkFVU040SDRSQ0RjN1lpOTZyNkdqcHRRNEhselVj?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 01:12:22 GMT",
-      "description": "CDC ignored request from WA, California to validate a new measles test The Seattle Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "DuPage County confirms measles case for vaccinated resident who traveled through O'Hare Airport - Chicago Sun-Times",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdGJCYzdJeWVDaUN2eTNlTW9lSmVmbzdseEc2eTdvZmQ5WDBfWkY5TXBBRTk1NEJYUThDY1F4Q0RCSnJXaFczcmJ1ZTdJLTZnZ2hsYlZJbTdOQzBZLXNUdHp1LWpySmpGc25QTW1RNnROMEJYY0tNU2tPaXQ0dXJSRlVtZW5kdzFrNFp6TEQyN1ZnTXZVeHQ0WUQ4WjJoTlRQSmNMaVJBclF0a3l0TXRyNjBybEJjbHd2bTU1MGJsTlRfRGpmTUthazZHRDN0NnI4aVQxWWlR?oc=5",
       "pubDate": "Thu, 22 Oct 2026 01:04:00 GMT",
@@ -556,15 +565,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMklNazcwSGlial9JcFlWZWdkNlBsVWdLdWRTZ1N2SW4xeXZta0xyaWFiOHdQNmVLMmN4ZXYtNVVwbjBBVUdGSzI2bm00cnJpYTBhX1lZd1lSTC03WG9USHU2NHk2R2g2b2lldHlnSmRLZXM0QzlrNGhJVEdjYjNIUlpaNFd5RUNpYXNHREttUWk0ckY3b3N0M2pYZXJrWjRhelJCcUR5Vi13MDdTRkE?oc=5",
       "pubDate": "Wed, 21 Oct 2026 20:06:10 GMT",
       "description": "As measles soars in Pennsylvania, some parents are vaccinating their babies early CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Global measles cases in children under 5 up 40% since COVID-19 - Contemporary Pediatrics",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTThXQlFLNGh3WmJOc2VMczluNHRmWDFKY1RDaVNIYU13REVvUlQ2Szg5Z1BPQVRwczB6SzVfSW41bmhvaWU1c1JYSHJUOVFybjAxeUVob3A3YzdHdkZ0Q1I2ZHlMMkNRY25JNkQyS3pzelVpeWEwaWp4dU9NUlNScHhnOW14NmVoX2VDMEtGTmFOa1JKQXZqVWl0WDBvVDhNU0tqU2VUcXE?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 20:04:42 GMT",
-      "description": "Global measles cases in children under 5 up 40% since COVID-19 Contemporary Pediatrics",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -615,19 +615,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Women’s Health Wednesday: Protecting against the measles - NEWS10 ABC",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVkJtamZBS2dUbWNfal80RXZLRWwxNk5NSEdNVmtaN0Nmb0tnb3JISG9Gam1ielptN0NlRlNwM3BBYWt1S0ZoYUNTTUZmOTFWaGVTal84VkstbXRGUVdoMEN0U1FiNEkyZk5VajRRVC1fNGR0TW13NEhDdzdVU1VSUkVaTy1iZVBFUkZrM0J4TWtIeGlvRE1ucnVmWGhCMDFTZ21zWVEtMXFmSlZTUFRjN1dNcHlqTWVEQ01YRWJOeTNSZ9IBxwFBVV95cUxNT3JpYXVDdkljamg5enFPVUpWVWlKck5RS0U3czc5eWdhWnBONFNRTWk0bUhoM3NidTNKeGNSVVlWaU9KV3RYSHN3TGtFOW5rS0F3SGZzbG93WDhiWk9FaWFKRmN4NmlXWDhJUWxjVzJKSjFWX1RNMHhIb21KYlNoWDhuaXlmZzRnclRBc1pURmlyaFdDbW1ZVmVmM29ZZ1NrQnl2TW40UWgxRlo4Ti1pQWxMT0lmQjJYMjRTc3BKN1lHT18yN1BV?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 18:05:54 GMT",
-      "description": "Women’s Health Wednesday: Protecting against the measles NEWS10 ABC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "One US measles outbreak is proving particularly deadly. Here’s why - ABC15 Arizona",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZW1ZTHJ3Vy1RT3YyX0d5S3ZhZ0cxbm1XSldNRVVaV3VHb2hIMzcxc0JIRnIybFpmR1F1eUdYT3FFbjRHMzI0T2JPRnMwUzUyTnUzLTJiRHh5a2QwOHNrZFNYelVZOGtFaFNWbW8yRjBVRWowdEdDcU50R3Zxc2xfOTlTR0xtcFdBVEh0WXcyY0stNFRmTXlEZHNBZFRIcUxi?oc=5",
+      "title": "One US measles outbreak is proving particularly deadly. Here’s why - WPTV",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZjNtdnc2N1UwQkJ6NDlLem10R2NyaDNBbFRkWjh0cXlOUGtNNmpHUHhPWWdkQm1VQzBINjVXRjY5c0Y4VHJtS3I5X25KYXB3cXpVdkFSY1pQODBIQklldTNjM1lvbUlrNUw4a3FDblpuZlo4bmZWckNYb3N6SGFOeVlTdHpURGluam5xVllVRHFGajFuSDdJUGptVElNeGM?oc=5",
       "pubDate": "Wed, 21 Oct 2026 17:35:15 GMT",
-      "description": "One US measles outbreak is proving particularly deadly. Here’s why ABC15 Arizona",
+      "description": "One US measles outbreak is proving particularly deadly. Here’s why WPTV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
