@@ -1,12 +1,57 @@
 {
-  "updatedAt": "2026-10-30T10:17:18.484Z",
-  "itemCount": 84,
+  "updatedAt": "2026-10-30T11:14:22.132Z",
+  "itemCount": 77,
   "items": [
     {
-      "title": "Takeaways from AP's reporting on measles in Pennsylvania's Amish country - CT Insider",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkl0YlhZRWg0LVNtTG1MZ1FUMi15UDVSYlNkTTc3d3h3b3c3NzQ5NjJYb1NnQ1BKdVY2cUFfckF4bi0tSFpSSnUydXUxbndhLWdicldwSXNUTTZzY1hVZjNoRER3dkFoUmNrcTFKaC1DQ2tIdnVQSkpnRFV6Uy1uY3VqdWdkQTRZNEFhTWFoQ0xFdThWMHhOQnpIaw?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 10:13:07 GMT",
-      "description": "Takeaways from AP's reporting on measles in Pennsylvania's Amish country CT Insider",
+      "title": "'No one should feel safe': 5 dead as Amish country measles horror explodes past 1,350 cases - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZGNUbHpQOG5WbVZtMHNTazF1YkRFQ2dtTzJDcjBIV0pvbjVpTXZQY3FFTUhSSnl5WUR2VUp0VlZveHdTd1ZtRDl3ZXdfeUlPRlVFTUlVX1BXVndGcWtjVDRiSVdNMlFiQm1aMWVNeDVVQWc0MjFGNC1YRWRnZGdKZGdQSnpJMUhjOGZ2MnA2WnNSTEtkVGxkZU1hNndSWTNGMHJ1TzdTWURxRVE?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 11:03:00 GMT",
+      "description": "'No one should feel safe': 5 dead as Amish country measles horror explodes past 1,350 cases The Independent",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Families in the US are opting for earlier measles vaccinations amid outbreak - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNGtleUZFc3lXVzVQTU9KZU1yYUw3YmhxdE5lUFRBQ0t5OEl3ZHR1Skk0OTg1bW1KSVprV0RTOWdSMWI0UnBhOVlGYklJbmplTVVtdWJDUENIX2VSU1RMQUtueE85QzJGX1ZHdGpZOHhNOHlVdDhaejRKcUNYVXFDUkR3?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 11:01:00 GMT",
+      "description": "Families in the US are opting for earlier measles vaccinations amid outbreak The Guardian",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Babies Are Catching Measles in Utero for the First Time in Decades - The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS0VJN0Fxdno0Tm1IWjFjejV1Wk5OR1hCQllMbWJjd2xCVXdsWmpXQkhXc0czODNLTmJSWThIblhjSHM5V0Y5TDE5d1hhSU5vaDVtNlJZcTlSaUR2WkZaZlBOcTN4cmZRNU5GYmdWUGFtRGtaT19jdTRWY1gzNlNza3owX3l5TFdraGRxSFdnc0hkdw?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 11:00:00 GMT",
+      "description": "Babies Are Catching Measles in Utero for the First Time in Decades The Atlantic",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFhlMGw2LWVlLVYxbWZ0OXo3aFhYb3ZWYXV0TEpzX19NdHJ5VTNsRF9EYjVONjBXUlFjQUVXT1J5SC1PODJEazltN2NvVkFERWRKeUVyaUdsM2FZcmd0VWxWeXNkNVBGVVdCZnR1R3lraThTOFZSbHRhRF9pb2JoNjFJTkxSTG1ERzBZMktjaVVMNzlKY1ktWnB6UFUzY3ZOMWVnVEFFOUJsOFBQQXE1ZkRoZ0ZQZ2ZO?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 10:45:50 GMT",
+      "description": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines AP News As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines The Seattle Times Health directors say Pittsburgh region is ‘well-protected’ from ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Minnesota sees the most confirmed measles cases in 36 years - The Mighty 790 KFGO",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV3luQm82eUdTQUtpN05LUVpMUkFVN0thTGczSGYzeXhFa25hY0lIdHptckVEamV1X090eGpCNjFDam10eEVjTV9Lcy1uQk1aUWlrbmdnNF9fSXhRRF9WOTMxc1ZncG9jNjAtdHY2c3A3eC1HQ3BIam1uOTduV2JzbWEzd21keURic1ZnYmloS1lrdw?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 10:45:02 GMT",
+      "description": "Minnesota sees the most confirmed measles cases in 36 years The Mighty 790 KFGO",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Takeaways from AP's reporting on measles in Pennsylvania's Amish country - New Haven Register",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUHhuOTRaMHBUOXpEaV9iVGZDYloxNlQ3SVBvOS01VHFYMHZTT3QxZy1lZ2lfd2RZbkdDdVNhZkNJUnNITnpkalh6ZzV6RWNmWF80M19rZUt5NzVGY2ljdnZtTjFCd3NBakNrX1cwR3ZsYzNOUEYwRHRQaDNTU2VYaG5rc0RJRkl3YnRwUEJMUVhkeEhFSlNyMW85LXo?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 10:17:28 GMT",
+      "description": "Takeaways from AP's reporting on measles in Pennsylvania's Amish country New Haven Register",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -21,46 +66,64 @@
       "sourceLabel": "News"
     },
     {
-      "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines - WRAL",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRXhSYl9CWGFCbEltRFhwM1dtVXZueHFoWEVrMER6enphcHRTcGpwSFFCU3FJQ1B1dU1kc2d5Y1kwcUIwWENoMGtZWUJLamdmVWxfcGZKaFktWFYzaW1sU2dnVWJWakFpOWRGdEVab3gwRU9weGkxN3lHR0RzWXg1b2tWc0p0Rm16S0NybDhsOF9hVmdRdUFSVGNvZzBmSGVJUWd0YXVxLVdpMFNmTDhoTFFDZ1JTUFB0QVRkNGMtMURJTXNGY3BfVA?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 10:08:21 GMT",
-      "description": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines WRAL",
+      "title": "Takeaways from AP’s reporting on measles in Pennsylvania’s Amish country - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNM0ZIVm5VeDVqaGpKc01NakNsazZ2M1B0QWltVnhzQjctMjdxWmM2SENUM0pGdkdSeEQ2dk8zbktXZ3FpbUJVa1otcEV6ZzVnSU9xM2lNYTFXZU0zc3RZTi1SZ1ozT1kzczhTUUxqTWpoMmdDR2gzeXJsQlBvRDNiWG9NRm1zMFVGQ0g5NDFweks2ZjZSYldoMTItOHlnX2xndEZORTJuazZDRWlsSDc1b0tJZ29yYzZhb05pVGp4a3JVYk9PN1g5NHRCUDhXNUNxbWZIMWFyblZFNldKU0tKck5QR3BMVThhZmhZYWRR?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 10:03:58 GMT",
+      "description": "Takeaways from AP’s reporting on measles in Pennsylvania’s Amish country Toronto Star",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Takeaways from AP's reporting on measles in Pennsylvania's Amish country - Star Beacon",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORkV1OUJlcm5YU0N0X20tVlJNeWM1enFOUnlkTVZjc0lKenB1Xy1SZDFMRVc2cHN6Zml0SzNLS3NYMkNpX3RYX0MxQ25LUEJYemJGa1pkdG1rLXV1VDRwTDFobDRxV2g3NFZyODRYbDFqNE9aQ1NSWnE0WVZMSVE4bUxyWHdiRDBMdzNnOE9iUTM1eEhiSjQ1QmduV3dmS3AzVVhIV3UxWUZhTVJxbnJ6czFKNHBqVHFCQ1hUSl9DMWE3a1RNeE9obFRWRmJSZ3Rqd25oaVJPV2k5R0s5QW45c1JVU2w2ZDhLVkE?oc=5",
+      "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPOF9OSEEyOHpEUllxSUdmVEtkMWl6RzFIRVF3N1BzMW1Wa1BNWWJiaHByelE1T0VaSWdHRGFwUl9XMjZJOVU0dzlCN0RUY09lQmdwMmEtcjhlaVFCdjQ1dzhTMGwzQ29QcnQ1WmdYMjZNUG9wZnZHNlR0TVd1T2prQjE5eVktSVYxNDBWUUt0UnIyaVZIalRvQU53SWZLbGZnMmF5NGNYMmtZcEc0dGxzQnFVWTViVTU4bzc5aFBBWWxSWWNZWlJTdDZQLXV3cjJ0cnN2WURCaTJndldFcHItbnJBN0M1NVBuaFY0c0JHUjNrM01rZU9FVElHckpURFplRGdQRDVOXzBldw?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 10:03:02 GMT",
+      "description": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines Toronto Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Takeaways from AP's reporting on measles in Pennsylvania's Amish country - Marietta Daily Journal",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRUFYX2pJRWYzVEhuR3pPczZGYURiWThlNnBOaUNJeTh5MW8wem8zY3lrVFllV1lZc3h1OG1NbnozUHBENUFaQUFudjEyVkFMeFg3ZGEzZkVSZS1wdTZ1Z2hTQjNVaXZIbk9MSERpNHFDQVhGLXpZNWZfTHdsTXA1Y3V0M29yelFfbVRpelVSbWdkSV8wemdmM2JGaE91X29jT1ZsU0dLTmpQeWVTSDhBdFRUTzlRZXI2MWZ6R3o2cjRlWFJlSEthbm16bFFaVEQ4cmJsT3RtTlpaRFVoazh4ejVxLTVldV8yNV9YWlk4ZFBvdw?oc=5",
       "pubDate": "Fri, 30 Oct 2026 10:02:24 GMT",
-      "description": "Takeaways from AP's reporting on measles in Pennsylvania's Amish country Star Beacon",
+      "description": "Takeaways from AP's reporting on measles in Pennsylvania's Amish country Marietta Daily Journal",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Takeaways from AP's reporting on measles in Pennsylvania's Amish country - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeW9ZdkxFc0VKTXViNVZnTjlvWVRObEhueWg3eDZCOENORHVuT1FLWFJleEdCQW1kWlpMUWpVRHZ6WnpraW81MExmbkNEY3BvWS0wZ2l1Z0d2LTN0MlFYZE92cTlNMTdQVTZ3TXdYeUZaei11S1ZBNlRnQndDeVNpM2VjcGtYTVlTNWpreWxGZDRpY3pmYWtsYzB1MEJCNFlsMkI2b3ZWSQ?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 10:02:23 GMT",
-      "description": "Takeaways from AP's reporting on measles in Pennsylvania's Amish country Yahoo",
+      "title": "Takeaways from AP's reporting on measles in Pennsylvania's Amish country - Ottumwa Courier",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcE8xTjhmbTRVVUJpWlFTbTRxWi1VdmtNWEdyM0JPZUc4eG9oOVZXWUJQZWtCZm5EUHpnNVNwMUZqNWQ2cGtNSDlQVnN3ZjUwWXEtTHpzU19NMGtmaGNoN3Y1YnAwZGFqWEdibHZteWxBSjRheVNBQjg4Q1NDcTN0c25NWmRuNWJYWFM3eWg3NXY0UWdNSThSXzV4T2lpZk5YLUV4aGpNQU9ONjRKUWVmR0RkekFEMXFtY0oxTWRkNHp5Vm5TR3k1QkctdXMxMW56aUlYaEthZWU1dHRXamdZUG5PUXlnRXczWXlCdXprRnAwRXJIX09lMzdDRUxJODA?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 10:02:24 GMT",
+      "description": "Takeaways from AP's reporting on measles in Pennsylvania's Amish country Ottumwa Courier",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines - Traverse City Record-Eagle",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOR1FQR0puSUNHNVNTelRDN1p0N2ZCd3M1bzFHNkRaVkpxV25OZFVRT3ZlMGU2cE1EeURlb0ZNNmZFeXhnRlFuY3YwUklqRVFvZnlZQWg5Mkh2QmpRMEFDNy1keGFpeTQ0aXFoeWlkZ0JTMUdkNnpCbmUxcHYyNW00VjlBSG85dVhVZGtDTXNzel9BeUlndERqdURWckpHNFcyR2RxMnpSUUxOTy1LS2RDMnJ2aHZnT0hCU2lMODcyT3czV0p2QW9aZU9WRm5idVJyaU1jbnVJb1FTTUhxMHRwaEtpM3NEd3dnNXlYTkRNYjVlVFlMSl8zY2pFLWhNemRFLUVERUhEbnpnOXFIMkVmNzFB?oc=5",
+      "title": "Takeaways from AP's reporting on measles in Pennsylvania's Amish country - Bozeman Daily Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUVZrcXVrazhJMUhwMVV3dkVYRk9RVTZBYUo1ZC1GRGpOZ19hVzJtSFI2OHRxQ3pEYThDQllIaDZNNWhjOGpIV2w0YUw3aGlsekxMNVdaeDNjbV9qU0lWRllEVWM5VEJ6QmpLQlNwVDZXV3BoQUs4UTB5UmZtVmxuNW85WlJtZExxOUpoU0pCUlQ5MGhJcElNdnBmUTBvellvTFpiWlp0c0Y1TDliMEUzY3dEajUzdHkwQk03dmpXSDliTk13eHNZcHFIUVVOckx4MFRRQ05wWnlDOUNmRHRqUGNEV0NwcVdnZEt2ck5GcU8yRHllbkhEc0pKQUM?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 10:02:24 GMT",
+      "description": "Takeaways from AP's reporting on measles in Pennsylvania's Amish country Bozeman Daily Chronicle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines - Marietta Daily Journal",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNTVZlZFVCTDFXNGtNX2I2MGFIS2dWUm96RkFhRnJyd3U0Z1dua3JFSER4N0JJc3oxYmhaZy01NzFZSFhHNmZWLVpDNjJ1Nzd1MV92R1JXSk1Jbi1faXB0blQzektoRHpTSlVISENIOGVNRi1PVE5IcmxwbmVuX2g3Y1NjS3BBMmhrQVdkUEkxX0Y0NE4zYy1CNUZYMUg2dDdlSTFFdGVMZ0o2MkdQX05XeVMyMWhsNWx2Sk4zcnp3em9TQlA4S2h0c2x0M21sdlUzSUN0Q3lRZ2ZRSGpUODNZMXFOLUhqV2hSWEdIYlpGMVh3WUVjN0lZNWYzVzFLdF9hQmJOWlNVQXRvZmp6cWNHeg?oc=5",
       "pubDate": "Fri, 30 Oct 2026 10:01:10 GMT",
-      "description": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines Traverse City Record-Eagle",
+      "description": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines Marietta Daily Journal",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines - News4JAX",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd1lxWUJqdE9Ud3FLR0g0VlYzZ3oteGp4WU8wY2sxTF9YN3B2TmRuby0tRGNoeFotYVJTbTF6V0d5aHlFSlZxczZsaW5VQjAzNm93U1dkemJ2anB2dS1oYTloTVNEODgyRmJxdG4zYjBGQkROS0hhMVFMLWlIOUdnUGtnSG1KM3BsdG5mbjg4UDNLRnJhN0dKTlNXa2FIQ1VyMkxTRnhvNlBPNDAtWWRyZEFOR3lNNUVPU1VFcXFKSm9XTkhnUFpIempQN2QwYV9Scllv?oc=5",
+      "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines - Bozeman Daily Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNenBTYVB5YUZwN2pka1RvcFV6SGZWRW12cTZ2S0pSbEg5d01uTXZ1ZFkxdTdrRTJjWWVXTlZ6R1BHamUwQllUaEMxSmplcE1YSVhhRzdKeUxEdVIyTmVnaUZreUJnUkNYNmNJYVhWMjRNN2FZSU1TbEg5MGE1eDJoQlNiX2lfOGFFanVQSGlPMUNNZ3AxQzA1MUd5RUxRUVVDdzEzWG11Z1Q2MWZPemNJdW01a2FibnVGeWZyeTFFYWd5LW5KaE41RkJkaXBJbVZ6RXRfaXZfb2R2UDF1WkdGdkFFT3gxTUVBVUZEX24wTmoyVnZMb3B4MjAzTTlKVHJvTUFUSnZvUUw0dExBbFJwLU1nWTA2QXZxRzg0?oc=5",
       "pubDate": "Fri, 30 Oct 2026 10:01:10 GMT",
-      "description": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines News4JAX",
+      "description": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines Bozeman Daily Chronicle",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -84,19 +147,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFhlMGw2LWVlLVYxbWZ0OXo3aFhYb3ZWYXV0TEpzX19NdHJ5VTNsRF9EYjVONjBXUlFjQUVXT1J5SC1PODJEazltN2NvVkFERWRKeUVyaUdsM2FZcmd0VWxWeXNkNVBGVVdCZnR1R3lraThTOFZSbHRhRF9pb2JoNjFJTkxSTG1ERzBZMktjaVVMNzlKY1ktWnB6UFUzY3ZOMWVnVEFFOUJsOFBQQXE1ZkRoZ0ZQZ2ZO?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 10:01:00 GMT",
-      "description": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines AP News",
+      "title": "In Todd County, vaccine skepticism fuels measles surge - MPR News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0pWd3EyZnctS1F4dmZzNzZodXNwZUI1a0Z0SHdpNXdXcWZZajQtVmF5ZVpRVW5yd1JUcnV0TWFNUk9EYkJkNnFpb01hYmlVR3lUandBVHFlbGdZYkhMZ3BwUU9nYUpOMThTV2h0cUwwM3Z1UXc2VHplbVIxZ1ZvWjBUZ1ljN0pyUEpZaWdkbmhSUWZscXYzZl9fSmF1WVRk?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "description": "In Todd County, vaccine skepticism fuels measles surge MPR News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "In Todd County, vaccine skepticism fuels measles surge - MPR News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0pWd3EyZnctS1F4dmZzNzZodXNwZUI1a0Z0SHdpNXdXcWZZajQtVmF5ZVpRVW5yd1JUcnV0TWFNUk9EYkJkNnFpb01hYmlVR3lUandBVHFlbGdZYkhMZ3BwUU9nYUpOMThTV2h0cUwwM3Z1UXc2VHplbVIxZ1ZvWjBUZ1ljN0pyUEpZaWdkbmhSUWZscXYzZl9fSmF1WVRk?oc=5",
+      "title": "Health department urges measles shots now, ahead of holiday travel - What's Up Newp",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaTZ6RE14a051cHVvcW1ZMVdKQy1raTU4OGQyVWlMMWtlTmI1YkdJa2ZfcWNEaGlQU1V4OExnNmtDdjBFVTVYM0JDSDhTbHVpeTRzQ3N6SS1kcnZXdFdkcUxHZk02UDBqSTRMWGdVbkZHTnJBeDgzOXAtQ3BOWWpwTEY3X2xEamdDN3JILWlWRURncW5mSFFQdl9OSHg4YXc?oc=5",
       "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
-      "description": "In Todd County, vaccine skepticism fuels measles surge MPR News",
+      "description": "Health department urges measles shots now, ahead of holiday travel What's Up Newp",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -120,19 +183,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Worst measles outbreak in decades hits Pennsylvania Amish country - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUDlxemhHRHF6SVRENzU3aUMwTUxwSGZnNV9ncEhKZXRZUVM2TVFKZ3diby1GV2FaOTlSdjRqaVhiRjJySXZwMkZkeko3bnZZWWc0aFVHWmVmWEgwLWxoTzU5MzF0SVVqQnBZWnpLTmdETFJOVjlVWmltb1Zya092a213?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 07:03:12 GMT",
-      "description": "Worst measles outbreak in decades hits Pennsylvania Amish country Yahoo News Canada",
+      "title": "Measles-Amish Country - Rutland Herald",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzJ3Tk9RQUgwZVo1bmZyVk5Jc25Ua1dEalpaS2N2Rm1BMndYX3o5akd5U0ZKRU54SU5MVVdLdUxZb00xWTM1NFVlbU1vdXJacTAwLWtCTnFsd3VHZ1FEUERzVTF4emh6MGtmUDZ3T1JOMnpNLUticGV1T1QwbTFYLVE5bEx4YnNTTDk4ay1CU19DbHlQUXd3YmZKOWllODhrUjQ1RERqWmV6bm1IaExfcw?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 08:12:57 GMT",
+      "description": "Measles-Amish Country Rutland Herald",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles-Amish Country - dailyrecordnews.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVFRUUTdnN01zRjVYYUI0UThhZ1NvaWlLY2VBZnNKbXEtaGRpQWVSbXlwbm43MFdoU3ZGV05tUnlKQXljRnJtdlFmMERCcDRPRlYzYTZ6R0ZIaGlWTktjUUVaZjRhX2NGU2dqYlNWcHB4NTJEaGFpNWZfQUxHYzFHZkZia05NMF9qTGwxUml5ajY4cFRTdmw2OXd0WGwtQUVhSk5lcXhib1dBaXNMQ3E2U1d3?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 07:00:29 GMT",
-      "description": "Measles-Amish Country dailyrecordnews.com",
+      "title": "Worst measles outbreak in decades hits Pennsylvania Amish country - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUDlxemhHRHF6SVRENzU3aUMwTUxwSGZnNV9ncEhKZXRZUVM2TVFKZ3diby1GV2FaOTlSdjRqaVhiRjJySXZwMkZkeko3bnZZWWc0aFVHWmVmWEgwLWxoTzU5MzF0SVVqQnBZWnpLTmdETFJOVjlVWmltb1Zya092a213?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 07:03:12 GMT",
+      "description": "Worst measles outbreak in decades hits Pennsylvania Amish country Yahoo News Canada",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -187,15 +250,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUFUaFpZaUxrMWw0NlJGRnZCSkh4TVRYemdndE1DR0hFVFp5Q3Axc0pVU0tRWjNRaHBzSFRzamQ5bVJTNVByTFVYZVM0cFJSWTJMMmlTc21iVEZseXFwNV9UYmxSSHQ0TFFiSjBCM1N1RkNsaFVWVTd0VnlKMmtwV096aVpFNklEdmpfcDZ1UGhwYlJaR1FEZUMtNA?oc=5",
       "pubDate": "Fri, 30 Oct 2026 04:06:05 GMT",
       "description": "With measles cases on the rise, CHOP physicians urge vaccination The Daily Pennsylvanian",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Minnesota sees highest number of measles cases in 36 years - 5 EYEWITNESS NEWS",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObFhjVmhsNXRybVZURVhCMTBzRmFxaGpmbDdxbW9ObUJsMWliYVBxdENFN0pSNU1BcERMelNyQWJzQ0plc0lLeWRjQnQyTjV0dWs3YjJiYzZmdHFzNGFUSXNTbXV6ZUk1Uno1Z2tvOElGUmk0TzE2b0N3ZnZCak8xNTF6VW1hMmtFaEQ4dG5qNkUxVVNZZnBKcXU0LVBPQQ?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 03:51:16 GMT",
-      "description": "Minnesota sees highest number of measles cases in 36 years 5 EYEWITNESS NEWS",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -264,15 +318,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Indiana's measles outbreak expands to 12 counties as cases rise to 74 - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uN3poa1lHY3gzZ25kWC1vNnRyaFNEZEhWTzFnX2dwaHg3NU5DV2l0VmM2N3pmTDZvS2pPeEh6ZHBxdE1xSHFhekN4STFKNFBsRzQ1RVJqLWpDXy1IYWQzM2o3X0E1a01GSWxQLW9rd1d1SjdzNEJLYkJoYkR6YlU?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 00:41:49 GMT",
-      "description": "Indiana's measles outbreak expands to 12 counties as cases rise to 74 Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Sanilac County investigates measles case, tracing exposures with state health officials - WSMH",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOTBBNXVDNmFUTkZNU0YtaHY1NFFrVmY1MTVFa3JQNy1lZHZRY0d2OEdYUV9QYUNJVzUyNFRmcS04Vlcxb1Z5LWdHYWhoYkRPTW1UamFIQTZrNmJyM2gtQjBBSzBCVkt4TzA1RjZiOXVkdnl5UktrTndRQjJWWWtCX01sRkFVS3JHY0EySThGTlBJNUNpQTVKZ1Y2SXF4ZmlBUFBwQktHOWtzRElnVFpVUWgtdEUtWlFnY0NsaDdmenZ4UQ?oc=5",
       "pubDate": "Thu, 29 Oct 2026 23:30:25 GMT",
@@ -300,10 +345,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Minnesota sees highest number of measles cases in 36 years - 5 EYEWITNESS NEWS",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObFhjVmhsNXRybVZURVhCMTBzRmFxaGpmbDdxbW9ObUJsMWliYVBxdENFN0pSNU1BcERMelNyQWJzQ0plc0lLeWRjQnQyTjV0dWs3YjJiYzZmdHFzNGFUSXNTbXV6ZUk1Uno1Z2tvOElGUmk0TzE2b0N3ZnZCak8xNTF6VW1hMmtFaEQ4dG5qNkUxVVNZZnBKcXU0LVBPQQ?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 22:50:32 GMT",
+      "description": "Minnesota sees highest number of measles cases in 36 years 5 EYEWITNESS NEWS",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Two measles cases confirmed in Hillsdale County; health officials urge vaccination checks - WILX",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbllXX2ZuYTJ3Z2FPVV9EcS1ORFBncnNvc1JRb3J2YVZZc1pEa2ZhMHNEUHV2Z3A4bFUza1J3NWd1ZjRpLUx0MGRMVXBack8wbk1lb18yQ0Rpa1dQMnh0aDAzTVk3Y0tLVWZzSEVacjhyTTdORE5mRVdfbWNGN0FPa2lrcTJFOTZmT1ZxZ241b3F5aF94VllURmNlYzhLZElRM2psUU5NV0RRRXNWM0k1YzZiTGYxZG1BY2c?oc=5",
       "pubDate": "Thu, 29 Oct 2026 22:03:00 GMT",
       "description": "Two measles cases confirmed in Hillsdale County; health officials urge vaccination checks WILX",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases in Minnesota hit the highest total in 36 years - KROX",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZTcxODEzX0ZqNFdEeUNFT2IzeVRpaW45SjlRXzJFekFpTmhJcy1jcTZabGctRmRXcmU5Z3dhNGNvSEhYQVlwNUE2NmNBc2Y3LUpla0NGbkhoMEJNQnRYUXFBRF9ieFoyUUNaYS1JQ2lpT0xlcnM4UWtKUi0tNngwNS1B?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 21:59:18 GMT",
+      "description": "Measles cases in Minnesota hit the highest total in 36 years KROX",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -354,15 +417,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Nashville hospital treats child with confirmed measles case - The Tennessean",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdTM1SHhGdEFSUDAtaVJwdWZrMjUzQlpSbGJDZ19IN1B0ZWdmS3JrYVdpUFJBSDlUdzRYSFk5S1lJUW5hcllNUnZjSUVFUHNUSzhDbGVfZGhEOU1wM0dmc1dsMU5INHZmNmlZWmhCbnd2V2tuOEpFcWdQc1EzVUhSSWNWWHJZZkRUTmhtN0V0UXVZdG40T1hGV191WTZWdjdDd01N?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 21:28:00 GMT",
-      "description": "Nashville hospital treats child with confirmed measles case The Tennessean",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Patient treated for measles discharged from Monroe Carell Jr. Children’s Hospital at Vanderbilt - WKRN News 2",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZlFjY3JwcnFzMmNhblNraTdoS3hJd1hfbUo5QlUwVExqTDB5akZfMGlUMXdWWFJvNmZTZFlEQ3FtM2YwQjBBbGUwbTlqUTV6UGg0ZjY3cG44bWRRQ1FPdkxTbjREcm92b2QyUHVqcjFmb2R4Rmx3MUZsZ0hCa3hIWER3U1FlVWpZdWdYM3c2ZVc5UDFGVWdBNExLdGxYcXBxTFlhUEdoZnVzbmE2VW9sUDVaUGk4SkgtNWNISjlWTUliX3RZenkwalJlWDJaRFJCUnlOMjQ4WWPSAd4BQVVfeXFMTmRSMHctWUo2VmI0RERZaTZvTjAzTFRfaG1zTHpmc3hvZ244QzZpaUZIV21IakNaNEt3YVBYaWI0a2ttcWVZSDRtYTZyUno1MWIxOEhibVJWTFNIdjJFWlRWcGtoajBWM245ME9sNWpwb19NRjRFQzBlaU53dmdoZE1SZzN5aDdNTkxadUlNX0xkeUVVQTJ5dDBSLWZoc2NsOURnZUxxdUpwM3l5elJVRnlhZVloYmFzcUpsRWVLXzZWOG1wTVRPa1NvTWNFNzlLWVAtaTRsY3hEQWc2b0RB?oc=5",
       "pubDate": "Thu, 29 Oct 2026 21:19:06 GMT",
@@ -394,15 +448,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUU4yME9JZE1hX2ZPR1VVS0N1WGV0SXRsNmhiMExfNnl6WjBzMTgwVnRYY3Z0emVtSWk0V24xaUQxaTVYMHpWaHVpZl9FNjJzNGNkOXc4WjNIRHRja25HTllQdHlmVFE1WGJwOEZZWmNTRTUtbWRmSzZzdmVzSTRLSXpoQVJvUHlvSFpaNE9faXVYVDFCV2VXMw?oc=5",
       "pubDate": "Thu, 29 Oct 2026 21:12:00 GMT",
       "description": "Measles cases in Minnesota hit highest totals in 30+ years Dakota News Now",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Minnesota Measles Cases Reach 80, Highest Total Since 1990 - KROC-AM",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2cTQ0cjhfVjVMN0ZUekktX3BmTHpGNnhGWjB6aVBxb1MzbnBhc0xhVzdjeExObUgyN05QLWRZaHJRcnFCcWwxYW9tUzZXOVZGSWxNd2FMNmxxZ3JGZTNVZGpYaS1XNDU4amVNVHV2NmJMQQ?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 21:01:05 GMT",
-      "description": "Minnesota Measles Cases Reach 80, Highest Total Since 1990 KROC-AM",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -453,19 +498,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "PA Department of Health reports potential measles exposure at Lebanon County Target - fox43.com",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOEU0ZHN2d09CZ2ZQVnRMVEtMSUc4OHFlT1lEck9aV2tSOGlaMlpPNnhhVVIzRkdVUlU4Z003WGp5c0FkeE0taW5ZV0RqaVFMRUQyTTd0TWM4a0E5cmNVbXBvTGU1Vlo4bDRvZXQ4dUxmc01lNk5lbjM2QmVkZW1pa0p3TDdEenZnTmwyZWJrMzktSFBybHB1N1FQazF6NUtZVTVZNGc3RVJQUFIwak1DVktBVUs4OWpSYVp4Z3Z4R2NGMVZhVHB3cXdnZ19hbnVYSkJ4eGJUVS1MYXdKN2pvdm9KbWxxTVhOMlF0NjJ5M1Jzc0daVjNwMzJB?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 19:24:00 GMT",
-      "description": "PA Department of Health reports potential measles exposure at Lebanon County Target fox43.com",
+      "title": "Measles cases detected in Hillsdale County - WLNS 6 News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRllyZXBqN0hZMzEtWU1UdEhaWFUyZDRmZGxldVozMF9MVVdpV3VIQlVoNWwwWGMwaFRQRjRJZHBud1BXbVJMbm5SRlNOM2VCNzh5UkNqRW1PWHhUWnRIaDRxNS1CekxKdjNWUDhCUHdQdFIweFpiM1lta1hlTjhQazhJYVZMUjDSAYwBQVVfeXFMT1lISnlyTTVHM3FjR3JIeHJPZ29iNklWcjh1dGlxRmsxZ3FtandTYlNqMXowNGt0UzJRamxKb2hpZlRPcmRLVHBOSUVYQWlGLWtqMmxoeGhKUG9JSG1TR0t5NmxnVjhBME5XbGxrVFlZTDk0LUFRVFJORU9lWlFicGZKVS1odlZKZG1Ld20?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 19:46:44 GMT",
+      "description": "Measles cases detected in Hillsdale County WLNS 6 News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "RIDOH: Measles Shots Vital For Traveling Kids - WarwickPost.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtbk4tbnJ2N0NvSk9leXRnZlNsUVNBUVlJVDNTRTZFempiODJIdmIxMXlIWWl0ZWRMVGo1ZGw0QWp2NEhBR0VQbk00VzJNYUd1RFJSLU1nZ1ZjZ0dGR2o2UUdTQXVDeFpxTk1XVm42NlNHeW9OOFpUag?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 19:01:02 GMT",
-      "description": "RIDOH: Measles Shots Vital For Traveling Kids WarwickPost.com",
+      "title": "PA Department of Health reports potential measles exposure at Lebanon County Target - fox43.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOEU0ZHN2d09CZ2ZQVnRMVEtMSUc4OHFlT1lEck9aV2tSOGlaMlpPNnhhVVIzRkdVUlU4Z003WGp5c0FkeE0taW5ZV0RqaVFMRUQyTTd0TWM4a0E5cmNVbXBvTGU1Vlo4bDRvZXQ4dUxmc01lNk5lbjM2QmVkZW1pa0p3TDdEenZnTmwyZWJrMzktSFBybHB1N1FQazF6NUtZVTVZNGc3RVJQUFIwak1DVktBVUs4OWpSYVp4Z3Z4R2NGMVZhVHB3cXdnZ19hbnVYSkJ4eGJUVS1MYXdKN2pvdm9KbWxxTVhOMlF0NjJ5M1Jzc0daVjNwMzJB?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 19:24:00 GMT",
+      "description": "PA Department of Health reports potential measles exposure at Lebanon County Target fox43.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -534,15 +579,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Potential measles exposure reported at Lebanon County grocery store - WHP Harrisburg",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeVhmY2xaSzVrbE1rY1k5ME1wYlVGb21nNThSS1oxV0h2bzVFRzdUWVVpekx6SkxjLVdFNVRrNWJJenVuWGtkMVBOV1NJZ2RZQnVlcEsybGZsVUdRcmlwQmo2eU43RDBwdmZSelQzVUhNY2Z5bldXYkhEZmltalVNSDlReDhMdFV4WGZMTWRUUFpuZjB3RGlFdWY5Mk1HTXd3YVhDLW43ZVlmaDhiSWYwd0p0eHFENUtJdGRfbHVQRzQtMTV0SjJIcnJZVFBnWjJWa0V2UmFha1p6cEgyRmtLSE40clZzN3dSOXpQMlpyLWhWN3BVb0R0QzM2RFdhcmFJLTVsNjlKMjE?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 15:09:43 GMT",
-      "description": "Potential measles exposure reported at Lebanon County grocery store WHP Harrisburg",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles case confirmed in child at Nashville hospital - WSMV",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNFB6b3B2WHMwR0dqdUZrb0t4Tlc0aFhEUG90NUdBMVMzMTRha3M2ZkNlenA2SjJmYzFzakZmdEZ2eW1zQkJOaUltbTFDdkwtQU00NzVsbGNvZlZRYkxKVFRCWlhobUNCR1lEM1ZldWg2QnRHWUhNOEVZek93ZXdqc2YyMGlYX3c?oc=5",
       "pubDate": "Thu, 29 Oct 2026 15:04:00 GMT",
@@ -570,37 +606,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "US measles surge reminds of Europe’s vaccination gaps - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMk9Pd2NJS05xU1QwVTdaQmJsZUFCSkpRTUZ0UWwwQTYyaDdUVW4xTVVvQk5FLW5rb0ZzNWNDWUdVRkNXTGg4MnAyclpUMUhpQ0U3RUZjZFhwMXJSQkhmVVRKdlV4Um8tYWJWdGFUYnc4ZVRLUU9pOWR5MVF4VGpwVFBhaGZKNUJBRmZ6Z0R4VE9ydw?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 09:47:33 GMT",
-      "description": "US measles surge reminds of Europe’s vaccination gaps Euronews.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Bangladesh Measles Outbreak Is a ‘Warning Sign’ - Foreign Policy",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSG81TWJiSjhuMlFLdTltSnlUQVh4MDNabW1PYVZTTFZJRFR2MVpjY1AxREdIUThlMTVmby1ONHQ4cmlkS0JIb2VBSjAxRkc1Z2xJbEhSV3RfZ0VFTlZGUEpxZDhpRzdsek41Tm9TbmdVTmRCTnFCYzFkQjNsU25ldWxOaXhiS3I1OVJDS2tNV3c1akVmZ2c?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 07:35:24 GMT",
-      "description": "Bangladesh Measles Outbreak Is a ‘Warning Sign’ Foreign Policy",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "How Canada Can Prevent the Next Measles Outbreak - Medscape",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY2Jyc2xzdHh3RTBsaDA4YVlWcVZxQU5RZlJwTEplbUFuQ0RGYTBUSC1xZkJxc3IycHFPcV9ZN05sSWZWWTVDTjZFZFVMUWZ3dThuaFkyRUZHNThHV1ZoMXRiYVZCM2FjeU51ZmRRR1ZlX0JnYUg5LXl3dkNOME9yQzZsN3VKVlZBQjNBS3ctLWVaMk1OdEIxS3V3?oc=5",
       "pubDate": "Thu, 29 Oct 2026 06:15:01 GMT",
       "description": "How Canada Can Prevent the Next Measles Outbreak Medscape",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Canada's measles outbreak exposes vulnerabilities in disease elimination efforts - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON2l1SkxDak1xWk1iZTRZc21SLXdSSXNySm05RnlfVTBNVGM3QVI4SElrQkJRcWJyQmpSckZrQnpfUmhVQnd6U1BoMjhGbk5uOVdyMWJNb1cwbnN4TDdHSWFncGJ5NnlLalliWW11ZHQ0RkItYlV0QlFfVzZrQWdHNlE1NHRNU0VxU1VMMHNOTHBfbV9FMG1SOWVQemlkUDRINk9qeGtwaUtsNVRiX3hZamRBUXM3aFJpc3dWWXlEeHpmOFk4WXc?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 02:45:00 GMT",
-      "description": "Canada's measles outbreak exposes vulnerabilities in disease elimination efforts News-Medical",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -624,24 +633,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles outbreak that contributed to Canada losing elimination status highlights risks from persistent immunity gaps - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0JBNU5zamVqM3B2cEpPczF5SFpubzY0REVmb0JNQlc4TjZpSWJoMWowRkJQMDA2NFJHN1pnRE5TSkpuU3RhV3ZyNlRxMTBOU1ZWQlBLalpIUDBZM2VvWVNQUTlxTlBEWWMzTU5JSHIxSDFMR3kyeEtXc0NKaUV3N1B1dnItaXFsbnVOS1JLSQ?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 22:30:02 GMT",
-      "description": "Measles outbreak that contributed to Canada losing elimination status highlights risks from persistent immunity gaps Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania measles outbreak nears 1400 cases - Outbreak News Today",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYWxMQk9zelhXdVhIZnllLUgtd1pHRzdMbG1OU3l0QXE2WFlMMnZjNU9SeDh3YTFRS01CNGsxQ2w5MzctUnVvQ0dla1ZtempReU5Yb0FUUmprM1ZGZGtHMVB5elVJQ2pXVlI5VVY3ZnBCQVpxMXU2aklfWWNmMHpzMG9R?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 19:20:45 GMT",
-      "description": "Pennsylvania measles outbreak nears 1400 cases Outbreak News Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Pennsylvania measles cases near 1,400, state health department says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWEh5dGRyeDR5cVU2WDBLaFhtZUw5NFBVNExZQWhKUWVxRW9PSnFFZ25zU0tNUm9mSHdUQlJLd3Zrd2tGSlZFaTY1QUFDMmFHemZBNXN5U1B1ZEFTVmhoS3BYaV8yYkJmemVzRDRxelJOall4QkpMWTR0QjZNTWN3WDUzcVF0NXpUMXAxQnBsSG0xTkp6WHpkbkFmTUNTY2ZlYUVTS2tpYUtFek9Tb2VkOFFHT1pNT2xxdF9BQ0xIUXV1Rjh3OWJVSEM3eHE0MTliWnQw?oc=5",
       "pubDate": "Wed, 28 Oct 2026 19:04:22 GMT",
@@ -651,55 +642,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles PCR Testing Climbs as Positivity Rises in National Lab Data - Contagion Live",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb0lCaElfd3pfS0lrWl9JUm05TEp0TDg5dXdvSWNjT09KMmlibVl2Z1lxV2FLVnBSbGNZSnVadjd6azFrWHVrYWFNWWdXb1dXZmxHeF9BSko2Mk1NbmUwOHduYW9UdDlLR20wNXdVWUhIbTJGRmptejB3UmdDaUg3ZUZGa1ZnLVhEM2EyU1d3cUJfSHpqTktIN21YeXhQdXBuQUlPQw?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 18:07:44 GMT",
-      "description": "Measles PCR Testing Climbs as Positivity Rises in National Lab Data Contagion Live",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Elkhart County reports first measles case of the year - WNDU",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObVRwN1BmV2E3UjVwQ2tjU3pncFZ3ZWlvWjRPY1BBSXZWdDQzeXlIcVFJNGZuV3hCNVhMSE5SZ01xbEtpaDR0NDJrYzUwMllTNlcxWFpDYk55THp3YmpmdzcxOG8wSzRreHZKdzRnUHlVRXB6c1JsVVhEcGRpYnNFeXY3Yk11Zw?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 16:56:00 GMT",
-      "description": "Elkhart County reports first measles case of the year WNDU",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles case confirmed in Kosciusko County - WANE 15",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNelBmenV4LUJXRkUxZDdvdUNOcmF6bUdieHBGRy0wRUFscUV2M3AtdG9vUDF5NDNUQllxSUhUa1lTeE5ZbkJndmo1eFRRUjFTRk4wZ3RjajlJM3pQNHhhVzM3YXkzaVMyUGJCcGtOR1JlWGo5YUp4WXQ2LXpOVUZORkxB0gGHAUFVX3lxTFBsZDhPaU9DMnR0a2VGYWdmWDFMcHJ5QnlDX2V0ODFWak9LX3RzZks2UDZlLU1OOVpMZzRaRjNyZzA5ZUVlM09PX05WZDVMWUNiTEd0N1J6WGZVQXJtd0gxUEdqR0JmTEg2ak1UMHhOUXdob0JCNzJsOWk3a1dqaDd5bGRFcXV0VQ?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 16:28:40 GMT",
-      "description": "Measles case confirmed in Kosciusko County WANE 15",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases rising in Indiana - Fox 59",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TWHpLSTVZVXprYXFqdE5LQVdVdVFocUh5aTFhZFpLNEdDS2hyc0VEdjh6eTVBX3ZyUGZZSW1rQUgyRnlHbkFUWjB5MUl5dHFneUhXOTdDRE12MWJRbUlLc0VaSzZmT1ROWHphaDNTMVDSAXZBVV95cUxPQ25VTkNjM0VseF9mak16cHlrMW85YWtGaFVFMEdtbThZZ2ZwLTJ5T0RCYjFmTFB1bURwNFE3Q0VlRFpMajVuYi1vWmNuNHoxVTZKT1ZWaTkybkJDOW9NejlEWHRRQ2loc0s4NWplNUFoUkpSVDNB?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 12:45:24 GMT",
-      "description": "Measles cases rising in Indiana Fox 59",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Georgia health department reports 25 cases of measles so far this year - Georgia Public Broadcasting",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmFORlhjb2JiTlB0aUtCdnRRcG1tLXA1UWRWOEZRb2dMamUxSkRSZlNKUUdOQzBMYUFnNkN2aXFwWjdva1ZVZUlTT2U3VUJiNjFGdVlFSzQ2QmZpeTVORXZsNi14UmFFbXpVTWJCTXJKLVNmQ2dVZ0hNUHE4QWxZem03REg1R2l6TWdMdVNzSXpBb21Hc1czYVVLMFMxRDYyZjFV?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 12:07:00 GMT",
-      "description": "Georgia health department reports 25 cases of measles so far this year Georgia Public Broadcasting",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "How pediatricians like me are helping families stay calm and informed about measles - STAT",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUFA1dUExMElHUGs0RVhXakhRS0VKalYyOGZ2bURjR2pscGVyUjJwVVRvSzlfRE80ZXZ3azltTWRYdVlQR0c5UFJnLXFOX1VCeURTMnp3emlEcHV2anltZE8zTjhXQnU4dVdvNFBkUlhaX0huUlVfc25SMjNLaU84YXBjM1hpd0NxdzFkbm9BTHhKa1hD?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 08:34:21 GMT",
-      "description": "How pediatricians like me are helping families stay calm and informed about measles STAT",
+      "title": "Measles cases surpass 1,000 in Pennsylvania amid the state's largest outbreak in decades - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWZnWjVwU3ZKQ19SWkFOWTVrb2FIMUhadkN5bHBIc0JxUWV1c09mTDBiVElxRFE1WEhITHRVZWNqZlFxM2Rxb2FoWGFZeTk2Q0lKT1Q2dDYxdkREVGR3Tmk3d3Vzd0lWWER0M2FSSGxDVWNmRW41WHdEajBycklPSjhRMUl5dEhEc0tTc1RTTVVtdy1lODhMdEgyZm12SXJoeFNBYXI1RF9xX3hPQnZfWtIBtgFBVV95cUxQWWpCTk1xMHhwU2JrQVVmNGlod1R6cmVIdTd0ZzlMVUIyT2hGUmE4RXF1UllUS1FfQ0RxYlppUEk0MTVidmdQQ2J2LVZJMG9mUTJ2YlR5dEM0Z0xiQkxYTTdSVGE4Q2R6VjZ3dDQzSFBQT0RMblBfZVd0bXhkNVlzWG41LS1fdWRPY290STN3MWpDNzhWa3NpcUVSMGNfeWVXRGpNNElyTC1tZTJnX0c5Q3hhUGdYdw?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 15:51:16 GMT",
+      "description": "Measles cases surpass 1,000 in Pennsylvania amid the state's largest outbreak in decades ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -714,46 +660,37 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Ga. measles outbreak grows to 3 more cases - WRDW",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RRGNUQnp0QUJYTVJLUlZQeDdQTkdSYkpzVE1MXzJIN1JxZDlvV09WdFhISDY1REM4VU04MW9JSWotWjZyUGtSX29tNXFpbFpRSXVwRVc5SVhqaTdVWnVWVGZwcmx4MEM4czZjNlVWOEw4bXdyUEIwVmJLUdIBjwFBVV95cUxPMEhhNnpPNVJpWGFUNmhEUFlSSk5ZcVh2Y2hIOWhOQUJZMks5SjNORWtRcWt1bGFIejNBa08wUG1ob2c0RlozNUZtQUxpUWhCYUNZYlZ3RmpvbVlaYV9YdHJ3WVBSMVR3V2RacHRVaHVaY3l3X3ZCUWQyVWRYcVZLTnM1UmxWMTBsaU1PNGxzNA?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 19:47:00 GMT",
-      "description": "Ga. measles outbreak grows to 3 more cases WRDW",
+      "title": "Measles cases in 2026 are set to surpass last year's total. Here's why - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkZhYzdPU2RXVGxsUVIwTmFsd2VHbDRnNlZpZVJ4em53M0J6UTQzek5VYUd6eFg2WEZPeUhNeTl3Sl8wN1JkNjc0ZkIyN3pBeXdQWDVaZ2trYnd4d1owOE8tOTNQVGtPQ2JsLU5iRzB0a2dkeFRBTFZKSHI4dWlqbFNua3k2b0tMSndKZnE4X0p0Z9IBlwFBVV95cUxNMTdwcml0TEp4OXhMZXVHaG96MDBEVHJvQmZkaUZFc056MEladC1TbmJ2MUhSdThXWE1EVS1qYXc1dkRLNjZCa25QSFd6OVFpVUVLRGN2Wkk0UVBWU2NITzVsWGNfUjlPaExNUGtiUE1rUnpLc2NYeFVfb1VRV0d6S0hvbkxlWVFSU0R0SE0tN2JlTVI4Unk0?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 12:10:55 GMT",
+      "description": "Measles cases in 2026 are set to surpass last year's total. Here's why ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles spreads to Richland County as officials warn of exposure risk amid growing outbreak - WKOW",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYkhlY2d4aWVfQWNMNTJ4bEVsTWpPNi1WVFdKMkpCdzFydTM1OXpqY0hPRXV2WFdYLUpMSWpsZ21yWnhDbXVNaW50Yzc4T2FoUG51Y19FdThRY1dXZHFpbDctaU1ISlFqLXhsUS1JREVxaG5sN3NqMVRVempHUHJ5WFZOLTRMVDFpbE4xMDB3bWtydXNvUjhUUG5uMDBsVmd6ZmdBdFJrdi1wUHpXdWVyRGo5N3NjRXpoaGdkZzVtRmtUNFU4UV9zMkRWbWdBbTRLY2s1QW9fX0gtTW9YTlk0TEJtdnNvYXBOOW1jVXJFTjFYTF9DdGJpSFp2ZFZUcHpLUU12Rg?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 14:39:00 GMT",
-      "description": "Measles spreads to Richland County as officials warn of exposure risk amid growing outbreak WKOW",
+      "title": "U.S. measles cases more than double what they were last year as outbreak spreads - NPR",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10dmpQc05kNFNxUnFFY0tJLUtBNkhta21ZTl9SUEd4OGpZZ3czU0M2SUZnTGhzaG40VEJLVFhjN1lBODdROHJHRm8xTHFZNmVjNXJkMlQ1dlFCOFh0OS0ybHRMRmxTcjB1amtQaFZKVUFaRGJzWEw2SUhEVVpQeDQ?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 20:35:35 GMT",
+      "description": "U.S. measles cases more than double what they were last year as outbreak spreads NPR",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Global measles cases in kids rose 40% from 2020 to 2023, study estimates - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORVRGaEdKeTRhbXVZdWtVaXZ2OHRldnoxVUNVRlhZRWExaS1ZNWc4RnB3dkZfUHNVQk5Wd2xOcU45aTFGUkwxaU85QzlleDdUWElIM1pseXhocjUzSlFSQmdZUVhrZVg3cnBDM2JyT3FVQVVOYnhtRG9xdUxtVWI2WTVrUGFPZlZrdDlqdUFiWjU5S21QdHFTNkNB?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 13:32:39 GMT",
-      "description": "Global measles cases in kids rose 40% from 2020 to 2023, study estimates CIDRAP",
+      "title": "Additional 178 cases of measles reported by US health authorities amid outbreak - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BX2FfNHd6TlpjcmFhZXVRR00tcEhVTTgxZEtEVFRLWHItS0VCVVI4NjN3Sk5zd3ZLUlpqRWxsakZkd2RCTElxOGZKLWg5aTB3emw3X1ozV1JrTWdjN29nZkR3cnEyQ25oUkFhaGh3NjJacGxOUThuQWphcnltZkE?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 12:02:00 GMT",
+      "description": "Additional 178 cases of measles reported by US health authorities amid outbreak The Guardian",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQeHFFY0VET0lSLXBsNG1vc0paTjJVOFFrOEd6QlpEZUs5QW9sU0QwTzhqdTloQUhuTFNXTHpKYm1rc1pwQUdMSkt2VHVlWWREa1AtLUpodWU4MTZhOVZYRU5naXNDRmdHOWFOcFhB0gFzQVVfeXFMUFB5ZS1HUWVsSnE0Q0xIa1ZDY1ZhRXV3a3VXeVFJb0VBaGtvS05pOHZhUHRsR2tNSU4xN1NlMnFVYjhzcThDTm5XeUhYMG1Ka1B6UUhtdkMzU19lbmd2X2RvaC1mNnRSblB0cy0zbU5JTzNINA?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 11:00:01 GMT",
-      "description": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say CNBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles outbreak confirms 3 infected in the U.P. - Upper Michigan's Source",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORUQ0UTZfQnBLMWR4TGJndk40QkhocnhIVFNnaFJZZVhQZzdjdGE0alVfQk1ORnlQN01mUnpZMmU0bUplQmFOWURHc0s1dUVGZU9pRlhtLWVfbV9jWXFVQWZKZlprcUwtcVhvUV81UGdia1ltU08tMVZLbTZDODJzbktnaVB1SDBfRmVDTGJodElCUQ?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 00:37:00 GMT",
-      "description": "Measles outbreak confirms 3 infected in the U.P. Upper Michigan's Source",
+      "title": "US measles cases hit 4,588, more than twice last year’s total - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUVhRMWxfUzNER0llakRzWVp5SE1YcnVwbUFpUUJtX3F1MWI3OHpNZGhndUdxLXBpWnRPTHp2dzRuMnVib0N2Q3Y1dHoya2xMclp3Vk9rdldaWUJiX1hfMzBTTkxOWGFjUllvc1MwMEx0MEZEVDc0OEZxU0NwV0pYOE1XcTZCeElNQndFcjF3U3I5NWM?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 20:49:07 GMT",
+      "description": "US measles cases hit 4,588, more than twice last year’s total CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
