@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-31T20:13:21.395Z",
-  "itemCount": 68,
+  "updatedAt": "2026-10-31T21:11:49.112Z",
+  "itemCount": 69,
   "items": [
     {
-      "title": "Midterms measles - Daily Kos",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXhHNjBUSjlweWFmUnI3R0ZQQzBjZjB4SXNGUTNsTHU2Snl6Z2hiLWU5MmRBZDB5TVVYNFdHd2lyNnBqdVp1dU92WUg4RDh5QkpYODh1dVhYYnF4LTlSdlpXOTlYYU40RHJoclRQZ1ZSbEd3NXZZb1UxLUVnRjVVRExneTdNUQ?oc=5",
-      "pubDate": "Sat, 31 Oct 2026 19:19:47 GMT",
-      "description": "Midterms measles Daily Kos",
+      "title": "Vernon County health officials track 14 measles cases, confirm spread remains contained - VernonReporter",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTm5vRzdmNmNlVlFRTExtWTZJOVhJblAyLXFGQ2lQbTFZa05ydUNkNzU3enlJRUhSa2RRdWxaTzNhWTlRSUQyOXpKaXRpVnkteGNsSldCT1l6U2VfTXVQN0NSMDRfdklFNl9ESjZpQVduaExLekZGQ0tGTTRfYmVtWVpJdWE1MWIweW1MXy1RMWpjU3RWSTFDUzgwcE5SZVFrZnNfaHNSTnJ1Y3VSZnp4QjA3LXE?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 20:34:09 GMT",
+      "description": "Vernon County health officials track 14 measles cases, confirm spread remains contained VernonReporter",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -21,6 +21,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Midterms measles - Daily Kos",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXhHNjBUSjlweWFmUnI3R0ZQQzBjZjB4SXNGUTNsTHU2Snl6Z2hiLWU5MmRBZDB5TVVYNFdHd2lyNnBqdVp1dU92WUg4RDh5QkpYODh1dVhYYnF4LTlSdlpXOTlYYU40RHJoclRQZ1ZSbEd3NXZZb1UxLUVnRjVVRExneTdNUQ?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 18:55:00 GMT",
+      "description": "Midterms measles Daily Kos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Pennsylvania Measles Outbreak Prompts Amish Families to Reconsider Vaccination - La Voce di New York",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRnpkbVBxTndHcEFkVkR3bUF6Tm9oQ0U5YzktQ1ZNS0V3aGNCc0Zfbmt1Nm9VS2NVaHMxdFM5Y3JwdTFsQnZjZUctZTNGa3UtaDJhT3diUE00Nng4S0pDUWtFNklUMG1rQTIzT2MyUlVJWG16MDE3NFIwUjJOazlJd0JyTWRPN3dpR1hzTXJGbTlFeEJ2RGVSYTk5bVRucWtOQnRoTzJxc2NGODk5aVpiY1pXdHUyY0kyS2JVcGs2dnRaZm1h?oc=5",
       "pubDate": "Sat, 31 Oct 2026 17:07:27 GMT",
@@ -30,10 +39,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Georgia’s measles cases reach 25 for 2026 as three more identified - thecurrentga.org",
+      "title": "Georgia’s measles cases reach 25 for 2026 as three more identified - The Current",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaEVWOExRcWk1T1NGQkZUcnZTaHkzc19rMGhkNFRaeFFmOXF3ZFNpTEVhemx6QjVOOXJRNmVCaE12cHpHRXpKdU9WUVlITUJwNVVldVlGNjZmdm51RHpHSUZ1UERRa3c2dWdWTURKRW8wVTV3dlQxbGwyc09ub0gxSHZJZnJLWFVySEZhQW1hYURFV3p0dnJKZHVCYnhGbFh0bGJYUQ?oc=5",
       "pubDate": "Sat, 31 Oct 2026 17:01:01 GMT",
-      "description": "Georgia’s measles cases reach 25 for 2026 as three more identified thecurrentga.org",
+      "description": "Georgia’s measles cases reach 25 for 2026 as three more identified The Current",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -151,15 +160,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLWhIbUUtQlh2dmlmUDI0YVRhLWpBa28yWG8yMjhqWXlEa1J4S0hXQWpoYmxYWDhoa0VIaVVrTHVaaUlkem93ZnBiZ0VVZFp2QWNJTGVVWGZZQ0draUFDTUNjOFdpcWpoLWQyWWxKTV8zMUs0NDVRSkl1aDQzRER2Wk02RF9NeWQ1SU5tU0wtaGkzMG1yb2o2cTJJN2ViY1JVMDJ2X3BEWXdydkNUS3otcU80QkUtdS1oOEdWeGRKZzdmMmN5RjhV?oc=5",
       "pubDate": "Fri, 30 Oct 2026 22:53:00 GMT",
       "description": "US measles surge continues, with 96% of cases among unvaccinated or unknown-status patients Arab News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Department of Health warn of potential measles exposure at a Lebanon County Target - fox43.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQVXNWOUZsRk1PWHBhYnBuejVCU2UtcXZtWnQ2SmRienZNUVM2UVRudlhQQ1ZhYTMtejdWNUk1cnhNYkJoc01jZV90WGxPYThCY201S1oyeDI5SDNtZnEwY0dZV2syOTlYUEtiSEVTbGVPSGV1UXYzQXRvbnpydzgxNVBJdmlndDNiNHRUa2w3c3M0Zk41NE1KMjJtNC1kc2NWOTBvVFBoTVFXNU1peDJxN3FUUGFqVEZrWGQ5OHJ2eWlXQlVHaEhQMkJsVW80NXp2MXhPWElJZG5kNEdWalJDelY3ckxNRnlMU3FTUzFtTWhWOUpOVjM1bzlTYkM0dGZEMzU5c2JvVEk?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 22:51:00 GMT",
-      "description": "Department of Health warn of potential measles exposure at a Lebanon County Target fox43.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -372,10 +372,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Minnesota has highest number of measles cases in 36 years - Willmar Radio",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWHg4djBGQ2VmMnE4bXJSZ2lSMWtMUHliY254Q0dlNjUyMkRTYkY3cUdpbDVRQXpuUWM1bUhFUzg3bUUzS2NxMDZDakJQdk05VVd6RG0wOEw5S0EwQzFPeHgtSG13NlU3LUpWa2tOT1B3dnU0c29CU0FhZ0tPWW90VlJNa0FJQ2ZXYWZYOGJhYmthVy12TkdrUk9BbmtvTjdaVjh6UHNGNkR3bjl2SWNyZU9GcjNpaTA2NWJsTXNOanRUR0QxUXFjT2hnSW5KYTFObmhXYUM1eHM?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 12:04:00 GMT",
-      "description": "Minnesota has highest number of measles cases in 36 years Willmar Radio",
+      "title": "'No one should feel safe': 5 dead as Amish country measles horror explodes past 1,350 cases - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZGNUbHpQOG5WbVZtMHNTazF1YkRFQ2dtTzJDcjBIV0pvbjVpTXZQY3FFTUhSSnl5WUR2VUp0VlZveHdTd1ZtRDl3ZXdfeUlPRlVFTUlVX1BXVndGcWtjVDRiSVdNMlFiQm1aMWVNeDVVQWc0MjFGNC1YRWRnZGdKZGdQSnpJMUhjOGZ2MnA2WnNSTEtkVGxkZU1hNndSWTNGMHJ1TzdTWURxRVE?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 11:08:00 GMT",
+      "description": "'No one should feel safe': 5 dead as Amish country measles horror explodes past 1,350 cases The Independent",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -583,6 +583,15 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkZhYzdPU2RXVGxsUVIwTmFsd2VHbDRnNlZpZVJ4em53M0J6UTQzek5VYUd6eFg2WEZPeUhNeTl3Sl8wN1JkNjc0ZkIyN3pBeXdQWDVaZ2trYnd4d1owOE8tOTNQVGtPQ2JsLU5iRzB0a2dkeFRBTFZKSHI4dWlqbFNua3k2b0tMSndKZnE4X0p0Z9IBlwFBVV95cUxNMTdwcml0TEp4OXhMZXVHaG96MDBEVHJvQmZkaUZFc056MEladC1TbmJ2MUhSdThXWE1EVS1qYXc1dkRLNjZCa25QSFd6OVFpVUVLRGN2Wkk0UVBWU2NITzVsWGNfUjlPaExNUGtiUE1rUnpLc2NYeFVfb1VRV0d6S0hvbkxlWVFSU0R0SE0tN2JlTVI4Unk0?oc=5",
       "pubDate": "Tue, 27 Oct 2026 12:10:55 GMT",
       "description": "Measles cases in 2026 are set to surpass last year's total. Here's why ABC News - Breaking News, Latest News and Videos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles outbreak confirms 3 infected in the U.P. - Upper Michigan's Source",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORUQ0UTZfQnBLMWR4TGJndk40QkhocnhIVFNnaFJZZVhQZzdjdGE0alVfQk1ORnlQN01mUnpZMmU0bUplQmFOWURHc0s1dUVGZU9pRlhtLWVfbV9jWXFVQWZKZlprcUwtcVhvUV81UGdia1ltU08tMVZLbTZDODJzbktnaVB1SDBfRmVDTGJodElCUQ?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 00:37:00 GMT",
+      "description": "Measles outbreak confirms 3 infected in the U.P. Upper Michigan's Source",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
