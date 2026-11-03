@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-11-03T10:14:48.228Z",
-  "itemCount": 84,
+  "updatedAt": "2026-11-03T11:14:21.145Z",
+  "itemCount": 86,
   "items": [
+    {
+      "title": "New York Child Dies of Measles: First Such Death in 30 Years - La Voce di New York",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSW5QMW9NcHVHYkZMa252RTVMcU1OOUllLW8xZVF3akhkOE9RVnFWMUxveGJMalpOcHZPNUZTVjJ0aVpYUW5sdmJCbGRiS3VBUVdSQjFwRzdUWXRmN2gwQXpPbkF0NGM3N1hVU1dCc0wxVmRMNThabGxHVS13YVVXLXlqVEhmM20wa25FWVVxSXRFZWl1MHRSb3JrMlprbGJNOFR5WTJZaHRGQk5pWnNWYQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 11:06:25 GMT",
+      "description": "New York Child Dies of Measles: First Such Death in 30 Years La Voce di New York",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New York reports first measles-linked death in over 30 years - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnlxZEl4aE5NcFYxWmpZY01GbVEzdVBnUWtLdGNuSC01UHAxb1FjeUR0aXdLTEtLX1djeFFyTEZNcjl1ODlJQTFWX1RWU001QzBvcl9POEd2NEg4VUdVdnd1dnplYUVMMUZaSjRhOElpTDRwOFVhSkc0dGc2Y2tpazJ4NlQzc0dhT2V5d3FaV3Y4dDgxTDdzMW83ZWRnSDA?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 11:01:08 GMT",
+      "description": "New York reports first measles-linked death in over 30 years Seeking Alpha",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New York Reports First Measles Death In More Than 30 Years - News12 | Brooklyn",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVlAxUjltN0JHM19GZjlTcXEzMDREZkw3WU9YbVFUbjZDejFPQ1ZseGVLS2t0bjA1MWZkbU9aX19hUE9iVVp1c1UyeWFIdkdqaTMxVFE0d0w4aVlnZkpuYWdfSndiMXFEdk9rc3ZoRUxhS19jMnZQdmEyZV9aaU9sMHptb2VLREp0UjcyX0FzWQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 11:00:11 GMT",
+      "description": "New York Reports First Measles Death In More Than 30 Years News12 | Brooklyn",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Child dies from measles in New York, marking first case of death in 30 years - WION",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUTVISVJqT3lzZWFISVJ4Q3pHV1FtdkZvWnRfcjVabl9Ca3MycnJkTEZ2amlvM3dyRXJtMjBEelp3MjlpeFJIQW9zbk8tay1vUVdCSjQtVE5IcE9BVmhXdnI0SXFwWlBzQXBxeGo4Q1dxckExdFdwcGVDTmY0SG91ZTFQb1NvYjJXZkltSmlMS0ZET28xdWxYaWdVdFVyY2p0N1ZxZWJsOXlzeWtSTnhuRnJ5M3FMMG9reklJ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 10:31:00 GMT",
+      "description": "Child dies from measles in New York, marking first case of death in 30 years WION",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Child dies from measles in New York - WKRN News 2",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNzZzY1BOcV9xc2JjYm91eldPbXRnbUJtR2pRNTNWczh5M0ozd1VvNmc2aEcySUZadC03Q2xCeXJ4MGgyWERRa1hHRC1VNEI2c3RDTWtsVUdHeXBfSjFZVmZZNGtnRnhiLV90M2F0MnY5LWh0aDdzb1hIei0?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 10:16:41 GMT",
+      "description": "Child dies from measles in New York WKRN News 2",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Authorities confirm Lewis County child has died from Measles - Flack Broadcasting",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTlNuek0tNkxMajI0NDdORTJxTmVoblZrc2poT0tLZ1ZERmVFOTNjcFJUYnJXbzZGSS1Vb1VZS2E4YkxrYk54bWhuWi1aSmYwTnZxVXpjYXBXY0lGTUlQRjg4VGw5UTlkN3FxMGtMRm1Yck9yd2pKYVd4T0xRdm1ib0VGb21SOXIzamdBdXZyTHZqVE9aV2p3aWZjMA?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 10:16:11 GMT",
+      "description": "Authorities confirm Lewis County child has died from Measles Flack Broadcasting",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Pennsylvania’s long lack of funding to combat measles contributed to this epidemic [letter] - LancasterOnline",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNX3BnX0VIWGlHdWFOVXB6ZGFLZUVfNTBPRTF1V2ZzaFE3clF4LVdfTE5LMWhEeTdaaTVDaWZfUWxVNnZUanlmaF80bkpUcVp0dGwwZDZOMDk1cW1nV21LQWdzUFlzSHBlYWFRN1RSRzIyZkZqR05ETGM5RjZFVFJfdE9UVjJTMENWOGFVWjR3bW1jdzctNEhVYTUtSjhMb1ByV3FRdEp2X01EMmgzMnZVUEFVbmhIUWFfYTMtRTktZDNSZFVTOUtWMEFxWjBMQmpzOFBpcVhEMi1MNjlvSVJIa0FTbWVwVUVDbHdyLTcxRHRjc292WkZTX2JMVHVTUndTaTFLYURpcGtjS0pBRGlvYmNicDNuX3RKcGtRWHB3?oc=5",
@@ -12,37 +66,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "‘Deeply saddened’: Child dies in New York’s first measles-related fatality in more than 30 years - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWFWbzBRdUdRRVBXWmpwSmtGZFlJd0pGc0htUHVvSG1vSGFvSk5PeUdQVFlYVlJDZGc3dndtYVFlTWFYNlBMTUFodEFnRUJOUW44WVFtaVFJQW1kenlfMC1HV1hubHhGVk5HRWxjcGtTSC05NFhDOUhVLWxoTVFmYw?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 09:30:20 GMT",
-      "description": "‘Deeply saddened’: Child dies in New York’s first measles-related fatality in more than 30 years AOL.com",
+      "title": "Child dies in New York’s first measles-linked death in over 30 years - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlRTNnpQV1Bwb0s1Uk5Wc1hxM0R6LXc4MFg0b0tReTdUQU9MWHRVLXZNeHNhUDE4eGJsXzktSTZPTWVkZW1INzNhWUJmb0hxM3BLejJPZmdVQlJUanhWMVY5cGlDZDE4MWt3eFFmRUJQQzNMZklDc0F6QTBFb3R1N0dSVGlraERaaURMd2E4OWpsTjRlRWhsOWgya0JsRmJNbmpKdWN3?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 09:18:33 GMT",
+      "description": "Child dies in New York’s first measles-linked death in over 30 years Euronews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "New York reports first measles-linked death in over 30 years — here's when you should get your child vacci - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNV1RVV2lHRVppSjh0NGVkS2laU1RzaXRDdUJmVmRBTmJLYmFOX29oaUVsaG43Y201VWpPUzNPSVBqSzBHVWZ5QzRTWWlRNWtrS1pzdmhaeXY4T3hjUlhPUTdlNi1jOEtkb0hseER1bndQa3k3RS13eW55ZHd5QkJVNTh6MU9EeV9XcWFrc3JPQ0ViSUIwSkdUQlZoOF8wZms0RnlMbkRyZnlrMjVwbEpnWFU2RTVhWHotRlpXQkZqRnBxSC1zSVdfdkxIclpOaU90Wm95TzM1MVlLMVpLN3ZKUG0za2t1Q0tEakdVTWVCZV9yYmwzMlNiTVJJNzZxcnlFanRvRzA0Vkp4MU1iQjNrN2dTa3I0RU9I0gGeAkFVX3lxTE9EOS1Lbmg0V2FvcXN6RjBHcjZrR0pVZjNBZG5Bc0d2THRhY2RlN0dDYmN5SXlOVjdSWGtycTJSSUhkUGV5N29SZ3FUQ29aeUxvYkFHSnZtZmRpXy11dE5OQVZqZnN0T0h2SUxBRkowZGFGRWd6SnhMbUtqaHl5QkRCMWlLcDJRdnFibkdQcUJnUWRPeWNqVUpldlpUd1ZOR3U2WFZkUEU0bmJYaHNLeUQ4eVQ1bzFKVFNna0xCRm5vVTNvQWpiQ0E5RjhFN1ZMU3FPNUFyelZhczIxMkRIWjg0SzFaUlVtM25jUlZlUlU1T0FqczFGNVJsbm54Q3hTbmV6cHBTWDVOM3I0UjFBVGozcC1vMkhXZHJpZGZzSEE?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 09:30:00 GMT",
-      "description": "New York reports first measles-linked death in over 30 years — here's when you should get your child vacci The Economic Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "New York sees first measles death in 30 years after unvaccinated child dies - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91azZ5NlVPY3FzSWxiN0lUSDVobDhJbmZ6YlJnS2dQLXlwYm5GVG00aEJOYngxR29xWWxHOTluWWI4SGpkaXh1Q0F1SGhreXZtRzhIWlJKOUhmTnpQbFBCbTZUdTdjREExNFhvaHRma0o3ckxudjNBZFZ6RDh0Zw?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 09:18:53 GMT",
-      "description": "New York sees first measles death in 30 years after unvaccinated child dies AOL.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "NY Sees First Measles Death In 30+ Years - 650 KENI",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdlZxY3FIWjFWOGRrUnFBdTZUZUt3UkYtaDJnZnlkMm1zTFhGRkpaM2EtZUVpYkNKcDJQVVRjV0gwWXJsSEJId0M4NTNUekEyemU0RlBpSXF4Mlc1RGVtQ1BxXzR6eVc1bmJXNDdzd1pmV0lYRGVYUkJTa2Zxd3RuR0dnaTJCLWxsMVVBRGQ2RQ?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 08:47:39 GMT",
-      "description": "NY Sees First Measles Death In 30+ Years 650 KENI",
+      "title": "NY Sees First Measles Death In 30+ Years - Newsradio WOOD 1300 and 106.9 FM",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWDFHUlNmN0l3RVc0WEdOUS1QcHJQVFNxcFpPX1dPVC04bW5ndm5xZHBUdk5neWtBOTRWSzZEQlk0Skx2UkRZbUZVc1RLaDZ3eF9PZm5rZ3o0Q3Y3V19SeGdUM2U1NDhBSXpVWGo4bk9uREhZM3NCWlY4Qnl2MVdKQ05ka1JwcWdWOVdTZTlmZHRkQQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 08:31:00 GMT",
+      "description": "NY Sees First Measles Death In 30+ Years Newsradio WOOD 1300 and 106.9 FM",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -57,37 +93,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "New York reports first measles-related death in 30 years - Kuwait Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTERDbllfQmZ2WDhhaWpEMC1aOWxwUkhkSDJMV0ZqdUdieFNqaGJ1aUxhQ0NJWTgxX0JpQmF4NWhKUkFnQWU1YlJncGN4MnN3U0ZJNnZ4WFZENGV1eWNoQ0F1OHRMNE16SktyY29CRjNiQk51N3NrZGwzcmJFb3NmMDhoSDNNWkhwdnptZEExSjFLeUNVNU1qcldsR1I0Zl9OVUdR0gGnAUFVX3lxTE9QY3NZY0NSeS01ZEFJbng2bVZoRHF4ZEpiNjV0R0JkeXZWSkQ4aTRHY2dkV3RKaDRNQWRxTy1JZURyQmRaT3l4Y0hNMjFUY1phbVowRWpIaFV4bWxaTzI4TmRiSEdtZm5Bd0JHb1kzSTh6Q242UW0zN1FQcjZwOTd4RjZfWFF5M2k4TlVLeXNUbDlSUXdWRnpXNzlleng4SlNoY0MyS0tV?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 08:12:57 GMT",
-      "description": "New York reports first measles-related death in 30 years Kuwait Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Child dies of measles in New York's first in 30 years - The Independent",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWtnTm5fcXM3WUhSYUFKSko0dUlYTzhyUHVLVG55dE5SUTk4MDR2Q1V0dFphMzZtaWs3em9pNUIwYl9ZeVJxLUFNZGpxSDFXbUxyZWZsX2tORXduVDhYaXNDTWp1MnlEN19KbGFhVHJiQ2FLZDg2M2kzOUFSMDNYSnI4bnltTHFieXZCTjJOWHJlVTFwR3ZFZFdpdi14bmh4?oc=5",
       "pubDate": "Tue, 03 Nov 2026 07:44:00 GMT",
       "description": "Child dies of measles in New York's first in 30 years The Independent",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "High number of measles cases are misdiagnosed, alarming new study finds - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNnZnZGhkNFJnejc1bnluSGNyT1lfRUY1b2hNTmJYd1F2ZTNwdjlIRzAzU2xZcUdBakNvNklYM2dnTHpSSlRZQTk0cVYxTHhVWUE1d2h6UGlRZHFuS2ZmRk41djE2SVVzWWNWR3NObFo2SUdiNENyUk5HblptMl9NV3BIRnpxS1BqUWlJSTBvUlA5VXcz?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 07:39:00 GMT",
-      "description": "High number of measles cases are misdiagnosed, alarming new study finds The Independent",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "New York Reports First Measles-Related Death In 30 Years - Channels Television",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMVZlcXhmbENWdFlneTd6Nk45QVNOTWRWR2VBZWtyaHo1RnVWbHNZMFpUeXpxUVJBZ1ZPYTd6Z3piU1hsMHViOVVwWl92N3JuVEpzVnA4aGRINVRjeHY5N2t5MUhsSXZHR0pNUmptQU9wVEhCSC1CTGRsN1RNMjRQcW9ENnRQcld1cXM5LXJBTGFnYWNZSXR0bV82WQ?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 07:28:48 GMT",
-      "description": "New York Reports First Measles-Related Death In 30 Years Channels Television",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -111,15 +120,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Belize reports 19 measles cases in 2026 - Caribbean National Weekly",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0IxemlqUkg3aW41Wmpkd2tBcmxVR0o5bGtLWE9RSFNOb3hkZTNGby04clV6b1RfamRLeUZoOXVRV3FXbEZmeTFLMkFDbEZKWXp3RFhnMHNfQUF3R2swVkFaaF93U09aUXpMYTFQMGJ6d2h5bDRxNTVvSG5xWkg2d0xiQ3NvZERQOGVwRTl3?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 06:53:21 GMT",
-      "description": "Belize reports 19 measles cases in 2026 Caribbean National Weekly",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Child Dies in New York's First Measles Death in Decades - Newser",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGt6bi1laVNvZW5GS1pCdEF3NWZWMUx5LUNTY0wxOFpHZVlHSzhKTGNsdjQtZ215d0h5amdFRlJSX0lNTFJlSTRLZElPZUo0YnM4cVd6SnNtbFFlZXR5eWR1Y08yU1NtWWR2Um1qRjdJellZOURveW1aZ2hOSXh0ZlZiNTd1Y2l5bXdNUW9CVHBGdzJjbXpkb1FNQQ?oc=5",
       "pubDate": "Tue, 03 Nov 2026 06:30:00 GMT",
@@ -133,6 +133,15 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14SFBtMjBmejlnekc4LTVjQ0VLdENWSDRPdVpGU0ViY3dYb05YczZoVjFqYUkxSXpLYzJjRTg5NmFZd1MxeGQ3X1hXOEMyNXNyUUpXZW9wTEQxdHBzNEJneUFCQnVzc1JzT3c?oc=5",
       "pubDate": "Tue, 03 Nov 2026 06:11:41 GMT",
       "description": "Child dies of measles in upstate New York, in region home to Amish community Ynetnews",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New York child dies from measles in state’s first fatal case in 30 years - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUktvLXA4bEZ0cTlYdlM3VGQ1SWtLSnhNaVcwX2tXMkU0OS1hM1pobjh0TVJBQkRZUTBSXzNsUklmWGIyRENicFVseTdpNmpEcS1EdDlRYng0RzZMejJVXzJMOEJOSkpLRkpySFZKM1JPRU1sUFNOVlVLLVFtclpkUkgyQUF6Zzh5eG1qRzViSWRJMFFzdFc2ZGZ3?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 06:09:00 GMT",
+      "description": "New York child dies from measles in state’s first fatal case in 30 years The Guardian",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -219,24 +228,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "New York reports first measles death in 30 years - WOWT",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNnNrSXpSUXFoRUNUY1EtSURubUdzLWJMNkE5MTVMRDZxRWN1eHc3NF9UNjE1bHliVlpjNENKYk9tOUsyOHlONF9MeUNNd3JySVN0LUVlbUk0ZDNVNWpySHkzblRJYUVCUHNXeXBGeWJJa2ZoeEdwUUN5VGwxNUNHdHZwOWlDTEl0Ym1VcQ?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 04:19:00 GMT",
-      "description": "New York reports first measles death in 30 years WOWT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "New York reports first measles death in 30 years - FOX19 | Cincinnati",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY19RdGtOYzFLYXVjRGtudjJNTDJ6aWd1ZzUtcWFORUJUc29yVGxkQXVLeWRRTjNnNF85ck9Td1pLZHBrbS1VR1ZpLTk2MlBad2FLaUFhcWp5QmVkdzlXc0JqLS01RDdhNE14NHBOc2Z5MHZlb1NiQmhnNFFsZnFMM0sxMmZQeXVrLTQxM1F3?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 04:19:00 GMT",
-      "description": "New York reports first measles death in 30 years FOX19 | Cincinnati",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "New York reports first measles death in 30 years - KTTC | Rochester, MN",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3pjcmxOOGJvZ0dtSHhEanVaWnBOQVhlTTN0WHFaeHlkdUwzMkY3RzBPb0FtaTJjc2p6NkcwVWR6YUlmZ0h5c1ByWk5Od191UTlWUDVlcFRJTG1Eb251M2xvQTA0R1JGTzBPNGZKMXJGS0piYno2VUN1andBMnRjeFZMSG5CM29kNGxwMw?oc=5",
       "pubDate": "Tue, 03 Nov 2026 04:19:00 GMT",
@@ -300,6 +291,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Child dies of measles in New York’s first such death in 30 years - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPR3ZpN3p2cjlYOUtCLWZrOTgxTmpNZWJKRUF6QlRPY1UydHRJcUU2YTVwY0ZrYWRoVGtPcDBNVmM0a3h5ZVlJLXhadjhIeDNvQzRUa1IxUi1xVkUtUExPOVJNLXBaRmJmN0NuYzFXcHNESk9heF83YXF0b09QRFRmRDdrSExyM3MwdUY3MEZrQjBzVlMtdmlxZUdTQ1pYTnlFTFZwUC05cDdfeEZyR1RzLWp5VTh2dlF4amNVcjBjN3ZxWXFxbW9FZ0VTd0szUEh3cG90YjgzTTBCRms5bHlrNmpxNEpENFZnZ2pmenJFajQ2Y0hmZUE?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 03:37:27 GMT",
+      "description": "Child dies of measles in New York’s first such death in 30 years Toronto Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Child dies of measles in New York's first such death in 30 years - The Killeen Daily Herald",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeGZvRjFjMjcwdkJ5QnFHRDI4ekVMSjNZNndJM0NFaFY5ckttY3ZhOXExSlZMcS1id2ZWTkxmMTNNaFZrbjlwSGM2TExUQlRKY21Jbnphei1PV0JKcFJPZ1R4OF85dkpDOFd3VU5qNnBUcDlmNTFydnBKaTA1c1NKM0lMTkxSWThJaldyTldlQWNEMkRWcEFWaWJfak8wTGxIZXJfb2RCY0lwRUpDU2xnUUN3RUVxWVpLVXlRMWJxZDdSWHl4d3JmUDJqT0RJalNnVmRBQ256SDV0Z2JFaVE?oc=5",
       "pubDate": "Tue, 03 Nov 2026 03:32:48 GMT",
@@ -318,28 +318,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Child dies of measles in New York's first such death in 30 years - Ottumwa Courier",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVUlZZ3pqTE5RdWtza00yazhJdDNDQnVLYmhXR2tZZk9UU2U5REl6NXMzUUhGVEk2ZHNjQ1p3T3VzTUQwd0dkSms0bUZRbDNCQzg5Nmo2OS1QbjM1di1IY05tOTBKSTBqSUxSWUxEc3NKTElRdUwtQVBld0pSM1BkZ05ybzUxR000Sm1lX3VZdUpoMDBscWphWGk2MXFkdEktYXNfR1E1WS0xS0tZWE9NU3JjWnhtUDRDNkdnTHh2eW1vQ0JiU1ZuWUZOaWdqMHNUQ2VFeXhwWG9rdlBhX0ZmNi1GYVpRVkd0SGcta3BoRUNqVENIVHc?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 03:32:48 GMT",
-      "description": "Child dies of measles in New York's first such death in 30 years Ottumwa Courier",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Child dies of measles in New York's first such death in 30 years - morning-times.com",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQlUySzRXUkVjc3haVVN4UnMyQVE1MlZiYXB0a0ZneVJzUjRLOEszaWZMeXg1NFJhblNVaUhnU1VWalZjbWdvNnQ1QTVEYXhFYmJOT0tqejRQUVM0R2lBaXlDX3B3cW9Sd2pNTThuNDA3Tm5VU1dhcmxaLWdRUlh1NXNIOXJKTHM5bmZmdzUxcmpHM2hkaFE1N2NyTTEyd2dfVW9OXzN3Nm5hY1NmY2o0cElWQ3ZZLWIzanFoSG1ya0hLaHBzOGlhV1I0QWZTS25UdllUUzkwNVFnQks2NXozMjZtVE9YYTJ3eVc0?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 03:32:48 GMT",
-      "description": "Child dies of measles in New York's first such death in 30 years morning-times.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Child dies of measles in New York's first such death in 30 years - Bozeman Daily Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMTB1UFhOdm1HT0xPamZJbDZJS3QtNjRDc3Z5N2MwZ2l5ZlE1R19YQmtIZ0YwMHphZ1h6aW9LYU5faldkeVcxVFlxRml0Qlk4dEJub0NmZW02RVNNS2dUS3lRRmY2REY3NXMyVTlRM1c5MHNXYUY5NlM3aVVlTXp0by1fTkNpWnJQN2NIWW9uY0JkT3pRUi1pWVBJeXJsRXNDNnRhaWpULW9JQjJwVUhXRjNTbEJ3a2ZPYlZfaXd4RVNwd3Q2MXk5VldHcFFyTDgzTG9hSnNKUkhmM2tXYUsySVRLZ09MYUhnSFRYWDJObXVuZ2s?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 03:32:48 GMT",
-      "description": "Child dies of measles in New York's first such death in 30 years Bozeman Daily Chronicle",
+      "title": "Child dies of measles in New York’s first such death in 30 years - AP News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX2NzZW1CM3NSS3J4QmI1aWk2TXR4bkFWNFYyY3N1bE9Ea3lqVVNUUlJncDNtYlpTMlFTS05PREw0Zkl5dXdjNHVreVp1UHFCcjBCY0hvbG1MX21tNWdQREdodHRiaG91Y0ktRy1YUjM1X0Vqd0JPd3BZaVVoR3E0TGpVSldxcGstckRVc3pTRTZ1cU1jV1h4V0t3ajFGZw?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 03:32:00 GMT",
+      "description": "Child dies of measles in New York’s first such death in 30 years AP News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -417,15 +399,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Child death linked to measles reported in New York State — Jerusalem Post - UA.NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObF9mZ1VVQ2c1Y3g1WFR5TVhHNVFpUEhfMFVOTnZuX3dPMy10T2ZXbGJUSXFMUUZrRWVIc2JEZVJBRHNiWWtEVU15elZob09VVy1acmRMd0FOc2JsZWR5dlV6RkllaC1heFR4UlI4U0Nkalhwd0UwYnE0WlQ0QjFITUdqcmJBMnJpRk9qaEoyVnlmX1RFZkRLTl93NEYtNHIzZlNz?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 01:55:30 GMT",
-      "description": "Child death linked to measles reported in New York State — Jerusalem Post UA.NEWS",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Child dies from measles in Lewis County, the first death from measles in 30 years - WRVO",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWF8xVTFuLTdQQ0tNcmhhQVcxc2cwLVlCcl93VFlTQ2ZSRDktaHhjWDFCdHo5ZG13T294MnZnRDFaWGVST3NSdnBrSU9kYmh0N2d0bFA2UThVOUtyaEZpOGp2d2RORVVXc0RCWXM4Sjd3N2gzNkhDYm9ybnFrYzZHMDhNYnQxLTVadEVkQnFzcnZ2NWRJcllrODJIRUtua0VlZ1M2WEFhVDRjTGFpNGp6RDln?oc=5",
       "pubDate": "Tue, 03 Nov 2026 01:51:00 GMT",
@@ -471,6 +444,24 @@
       "sourceLabel": "News"
     },
     {
+      "title": "New York state reports 1st measles-associated death in over 30 years - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNFlGcHJNYzA2TmNVMlEweW5JLVIwQUFiWi13R01GWlNWc0ltLTNmWHpNa1Z1YjZYTmRSODg4MFZxaDAxbDd6OElTU2l6RzBCSHAzYzd6eFdlaTBPYjVHQ1ZhdlNfalk5VnBtaUFOU25wV0t5VGM3cEpuX2l3U0ZXbWNRa3Fya3RCdGxTMXltSExhU2vSAZgBQVVfeXFMT3ZTd0V2a0NjbW1DM0g1ZTVaZ05zZ2ZUNFhBX0NDNWlxMjNwWGpHRWFNQlBWeW8zMWt5NWRsbF9vT1VUMDFqLUYxbl9aT09MTUhZeFVkSGFEdGtOOENoUlBqVGhOdVN1UmJtOXFGR2JMRlA0T25YT1ZyYVd6S3pWRnRRRFA1Q0NadU1QVXl5S3F0STd5LVVkclc?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 01:14:18 GMT",
+      "description": "New York state reports 1st measles-associated death in over 30 years ABC News - Breaking News, Latest News and Videos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Child Dies From Measles in New York State’s First Fatal Case in 30 Years - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVVZleHVjVVBOcC1SUnB0UzZxeU9VOTQ1TWRMaEtHNlp2WmZXX1JEaXZMX3ZwbGpHeGExOVlEM1ctdGE0MW40X3F2eklVMFFDd2xWOUlFN2VvcTJpVTRlSVFvMzkwT1RWSU1iUjNlYVZ0bHE0a1U1OExMbUNzdjFoQkZqM05objR5RDNDM2VLOENONkpi?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 01:04:47 GMT",
+      "description": "Child Dies From Measles in New York State’s First Fatal Case in 30 Years The New York Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "A surprisingly high number of measles cases are misdiagnosed, study finds - The Independent",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0NxQ3c4d1pxaUhiR0VnRFd1ajBMWnNTMGFMejU2ZVQyVlNLSG81ZC01WFVsbzV2RkJRZTlIODY4cTJSN0htLXNuN2xWbFNuWnk5aWpyZVRDYzhqZVhGWTZlNTVldGZmcW9SVFZuMy1DQ2YwRjlVUjNjc2JDWTF5am1GTFhBQV9weENjZFZEaGlndw?oc=5",
       "pubDate": "Tue, 03 Nov 2026 01:00:00 GMT",
@@ -489,10 +480,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "New York Reports First Measles Death in 30 Years During Outbreak - Bloomberg.com",
+      "title": "New York Reports First Measles Death in 30 Years During Outbreak - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjBjWXpSeFhDZzU3MTRTbmhPX3JsOWN5Qm5QcS14UENZYktjbncxTDJ5aTNILXotS042Y0NOQ09tRHJBdlo3ZXlGaXQ4WXMwbzhhZkpLSktJeHNDTlJoMDVOTXo0REl2TUNfaTllLTFLb0dKYmRPNUNnaE9ybWRrcUNTTUMtVGRDdDh3VGtXT0N4bDMxZ2UxaTBtRG5kUWJXNDZTa2Y2RVR2bkZzQnJPN1RtNkdTQQ?oc=5",
       "pubDate": "Tue, 03 Nov 2026 00:37:00 GMT",
-      "description": "New York Reports First Measles Death in 30 Years During Outbreak Bloomberg.com",
+      "description": "New York Reports First Measles Death in 30 Years During Outbreak Bloomberg",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -573,7 +564,7 @@
       "title": "Child in New York dies after contracting measles, the state’s first such death in 30 years - CNN",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PQVo5eVZwaENLQXpldXB6YzUxQXhvVEFkUnhlckJQd3BPZHlZMzc5OXJDZWtrbUZTOVdFT2JVQXhtYVh2RzVHN1NOcEx2a0pFTTE4RDdLbFFzTzFLWm9veTRlOE5DMzUxMFMyYg?oc=5",
       "pubDate": "Mon, 02 Nov 2026 23:58:48 GMT",
-      "description": "Child in New York dies after contracting measles, the state’s first such death in 30 years CNN NY child dies of measles, marking state’s first death from the disease in 30 years New York Post Child Dies From Measles in New York State’s First Fatal Case in 30 Years The New York Ti",
+      "description": "Child in New York dies after contracting measles, the state’s first such death in 30 years CNN NY child dies of measles, marking state’s first death from the disease in 30 years New York Post New York state reports 1st measles-associated death in over 30 years 6abc Philadelphia",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -583,6 +574,15 @@
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcFd4UlViOXU0Vmo4N19PdDRwZ0FQVzRCeW5DbTc3Sm9YeE90UGY0NkVOSGQySGNGVjlRWUVHbVpZWjJpZC1SaUJhR1YwV2VoS2VRM2xQWm8wZERPQVZGaWxPNm5xZmViQ1l1MmR6Z3BCcG1QQ19famw1TFlzZkpHbEthOXlkZlpkbG00c2ozV2ZsbjRiMkRJMXRtVVhnV2YtcDBlU1FQRVJiMlBXNGEzNFRCN3FEVkx6Y3JSVTVGMGI3UkR6VlU2cU54c3BzZlhJMjJqR25BMFhiYjBoSDVOekdVWDhPSjBJVmJRY190S3BEdw?oc=5",
       "pubDate": "Mon, 02 Nov 2026 23:52:42 GMT",
       "description": "Lewis County child’s death linked to measles, first in New York in more than 30 years | Top Stories | nny360.com nny360.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New York reports first measles death in more than 30 years - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkZBTG12OHh5aTBCa0FKTTYxREhxZjlnSWxCRjBjcF9BYWk3OXJ6bFV4eFl4eE1jSGhOb2pHVlc0MGJTWTlnZUp3YVFFUHBrMEtPZnJ4Q0I1MFRyNC12dFc2MTdQMDBTTjdxTVRMQ1VGVEZINkxnQ2lWdVBPdy13VkhR?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 23:52:36 GMT",
+      "description": "New York reports first measles death in more than 30 years NBC News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -642,6 +642,24 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Lewis County child is New York’s first measles death in more than 30 years - WSYR",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTTIzWkNvWGpoaEJ4azV0X3BGVGxjWnBCejJHdkkxcG5FLXlfaEhlQWJ3YW41OGJ6V3dReU9ROG1aWllJMDFlcWYyVDByRG85OUw5Z0hoMGpkaUZndExiamJOZGw5c09IdFVXdUhwT3d4Yy01WklBOTEyMnlfclBuYVozNjN0MGZPcW9mcUJvcV9NeFJWTENiQzdYVVptLUdKNUJrLTRhRVduVHBsZjhnaWhiTWZwd9IBuwFBVV95cUxOYkJ4d2s5R2lhSko1dWF1OE9YSEk2czM5ZUlfQ01ObTBfS2lrb1Z3VVZud0I5ZzBrU1hILThfdkVxVEp1MUx1VEl3WElHVzNBLVprbkdJeEtXeHlGd0Z3OTZRV09SN29XbFcxakZfdnlFaU9fMzdUTnQ3ci1hMGN4RUd6NmdmUzBDaktGSWsyZ3dlb2ducVNyc2FvWUJRYzROMGZGc21kQk9Cb29sZzVGbVBrNjBSU1BpQVZJ?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 23:20:07 GMT",
+      "description": "Lewis County child is New York’s first measles death in more than 30 years WSYR",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Just 7 PA measles cases added in newest update - ABC27",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa3BOQlhrT1pfbl9XVDYwNnA5a2N2dWh4Q0c2SVk4eHNzamJZbjB2UmlGTE5wc2U0TmhTTXVBMEphZ2VVbjF4WVNTa0VJZUJvWlFDZUtnRVNsdE5pUWxXTm1jcXhJZWptc1l6NVJYLWZaVnZJMmVPMEh3M2gxVDJlV044M0E4bWpNVmk3Rw?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 23:08:04 GMT",
+      "description": "Just 7 PA measles cases added in newest update ABC27",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Health officials push MMR vaccine amid Chippewa County Measles outbreak - WEAU",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQXA4TXpUSXdJRGwyeUUxSXExN1FDV1pJeXh4S1FNMEdvRHV1QnBRMnpoT3JXZ25VWXBXWHlxdkNORll4QXZQWENnaWprbXk0c3luOXBnbHRqZHNPVjNUTE5CMEhESjRGbnRYMF84WDA3NTFvU0xQVHItWk01N3lJdVo3MVdtbllkcUN4V0tSUTZlLVhXdG1KQWdqdXZpVGRiN0NVLTBWd9IBuwFBVV95cUxQTk1PQ0hONnVNZ0pQSUZMYnlXc3lYdnNFb0pfWWZNZnRCRmVsR0dsbHExLW55UDczaEhPNTZGMHp0cUQxUksxUFhHeVBFSFAtc3RqVkJCbUplTUxNYVQwQVpxQTlwck9pb3NhWWpCT2cxeEZCekNnR3pEa0tQbmg5OW44U2pVNkNJRXhhMFdCVUMzQkJQWnBsVkVqcTllZ2NyZzdnYVhCbV93NEZtVWhpQlZ6UGEwMXg0bHVJ?oc=5",
       "pubDate": "Mon, 02 Nov 2026 22:34:00 GMT",
@@ -660,55 +678,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Just 7 PA measles cases added in newest update - ABC27",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVW4yc3NzVzdRaTNOOWstaldOczZHTGRHNVQyZEloY3NMSW4wUUdReVR3Wkw5NXRXYl9NX19LaGlLU1lUNGVoZTNYMFJIR0I5Vi1wWWxSVlJVYWJFeTdQMmcxekZnTVI2QWYzTTRnYmM1OHBVd1gycnNNSE1HYmRnTUVUa1JQWi1rZVHSAY8BQVVfeXFMUHJ2SkFYWXJ4WGIwT1pKRy11WEtJaXhUNFd3dUljRmdyOXNUelJXdDRfYjNaZEZHcTVILVhmUjB1OE1BQmtrZzdLNDBpdmtnRHBRQ2ZCM2FQbDY2ZHFyRjVXV3hCbXE3VlpUdFg3ZmFiaHpaQWJuTGV0ZlBQMmRScE5PZ0lQYVh5Z0VrVjR3VE0?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 21:14:29 GMT",
-      "description": "Just 7 PA measles cases added in newest update ABC27",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Lancaster County measles cases up by 18 in the past week - LancasterOnline",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYTZnZmw4elcxTmlLZHVaVGh0eEh3dTFoNFc1SWotMUtlUGFQR283UmVwOGp6NXMyVUh5OVA2V2UxbmVEMWRLWjdzMVJQM21pcXRYNEVISC1XNWVhNjlYdVdhTTF4NWwwRmhpQjFCS1ViVFhiU0VyNU1mN2hsRkh6MERxQnh4X1ZPZFM3aWRzX3p6Sy1oeFJwbVFiTFBGM1k2V1g4bkFiZm1RUzMyMkROTlRRTHBEMzQxbTdOSWxDLW9TYjc4WGgtZUprV2pfSkNBZ3Z3TjV5LXB1bVFMeGtF?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 20:51:00 GMT",
-      "description": "Lancaster County measles cases up by 18 in the past week LancasterOnline",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania measles cases rise to 1,433, state health department says By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWdwUFR2bW1WWndDaUkwTXhaMzhkRjNzaEdXbXQwX3hWOFMydU4wQUtTYWdELVdaZmZFd1o2Q3pSWmhVLWd4c3M0bl8tSFgtVzFuZEdscl81cFdNYjdMNHhKaUt2Szk4UHdESm8yN3d0TnpKa2hnZGx4azhfUG9rR0hNekVrYmJSdmtKcm5RREgyWVh0WE9fUkZQOU9TT2ZiUkFySkNsMXBPaUFJU3FrLThWZkZUbkVyZzE4d3h1bGMxblU?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 19:30:50 GMT",
-      "description": "Pennsylvania measles cases rise to 1,433, state health department says By Reuters Investing.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania measles cases rise to 1,433, state health department says - Taylorville Daily News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVmJJb3VVYXRISV9oQXVvdTRsQkZ1LVNmXzdfNXpaa3lLMjlkemFiWUZoLUtBaEhrVVNINXhOcHVrNTFVa2Y4eWZ1M1RhcmNWX0xuQjQ3R1N2Z2tZN1ZtMVQ0SDk2eUUwYkZWbnZvVmhUWHNsVF9nNUdjdlhxcVR4NzZYZXktaDNwamx2SGlrTmJmU29INFhYR3J0a0ltY3IwTmt4RWNtWHhWdw?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 18:22:47 GMT",
-      "description": "Pennsylvania measles cases rise to 1,433, state health department says Taylorville Daily News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "What are measles symptoms? What to do if you've been exposed in PA - Yahoo Health",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU1lROVpKb3g3bGNtd205RWVXX3pBMC1FQnZFVWx5MVg5alVNdmpwUEx2N3RFNXdKbWNCdE42NGZtRXo1NTNKTnY2dXBXamlkaG42WUVDWTZndXIzSHp1aHBTcnZHbWhDMTN3WUl3ZmwxTzY5WkRtZ3ZCOWR3el8zdTM0MkJackJ1U2tnLWtrVnRrY3lSRWJiNm9CTkpId3oxc0J3UEdwTmRJSnpZVDktaXJB?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 14:56:33 GMT",
-      "description": "What are measles symptoms? What to do if you've been exposed in PA Yahoo Health",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "‘It’s clear they are under-vaccinated’: Amish under spotlight amid Pennsylvania measles outbreak - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2dwNUwwVmVRS0NLODVpMHY4WlNIVVBEOFA1aEtuN29tZHZXcEtGdTNvVmRDOEpheUFQc3dDb0REOFBOcFVpdW5SMUZPNXl6SkF6RmhHSUJlYkx6TmR5RTM1ZVl1T2poNGxXYW9ubmxuOXp0cjIwRnMtUlJiRFRDZzJ5eXZiSjVvd3BJ?oc=5",
       "pubDate": "Mon, 02 Nov 2026 13:51:00 GMT",
       "description": "‘It’s clear they are under-vaccinated’: Amish under spotlight amid Pennsylvania measles outbreak The Guardian",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Monday’s Iowa Headlines: Murder Investigation, EMS Blood Transfusions, Measles Outbreak and Early Voting - KSOM",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSVB2Y2JEWXpNRWFyZlFSMmo2cEhwOHQwaWQ5cnRabkliODBtOUhKZjRjT1pTY19HWjJkcjV1bXhIemMwWWJYWlNTUWZyekJRVWVVWjJSLUE5bVRTYmVlOXlSbjVicWlkV3haMlVJd01KQm1XU0tSRjYwWVBCY3RYYU9GOWhoSnkydDE0SnhFS2t3S2EtNENYUTRLRzVNeUJGLTJMWk1kQnd4MDRLSFBYUlU1ZTd3X1BmNFU2c0NnWE8zbkwxM0xoaTZReXpmWTM1Y1hMcl9xdkI?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 11:18:05 GMT",
+      "description": "Monday’s Iowa Headlines: Murder Investigation, EMS Blood Transfusions, Measles Outbreak and Early Voting KSOM",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -732,6 +714,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Pennsylvania surpasses 900 measles cases with 13 new confirmed infections: Officials - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzlvdkY1WS12MEJoZUx3MVA2ZXlVbmRGWVd3MUp6dVNUV0l6MTAyTmNDRVhIR0FfUzFLa0ZFS0RFRTZEWjVXTGV6LUFzVnJDeGxaNmlUUklLS1V4Ym5lNFR5MXlQSEc4d2M4amxZRkJBREdINDdxR3h2aHRyS3k4dkZHUDVyWlNUVWJGaWxRRUpiMmhLMlVyUjQ3QnFRdDI3WkR1U3FR0gGrAUFVX3lxTE9rZEtzTTdpOVkwMjRMYzI0V1VydHFJWHg3Z3dXT1BCSWVBYnpUaVJCa2FieEZ0SDNfR3lFYXp2eTgtRFNLY1U5WllNQVlfdkQ5S1pGUUlFUWl4RXg5MzFXeFRDOWdnOHdDSkVyYnBnQzA5NGZnZEY1NlhSVTVTNjdCa2JFMDBJOTNRZUxMRjNFYTkyWDNDUU04TzN4UE4xdmdKV3Y0LU5sTHR0cw?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 04:46:28 GMT",
+      "description": "Pennsylvania surpasses 900 measles cases with 13 new confirmed infections: Officials ABC News - Breaking News, Latest News and Videos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Wisconsin measles cases near 400 - Channel 3000",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa2ZnYWkyLUhRbkRGc0djLVdzZXVGYTlLa0pHZ1UzTVZKY2tia2dQelFHMmFlcjJxZnh2M0ZiaWpubXI1aHBCM2s3MEk1UUl0QWVObFJ1TUFTWWxTcEpQRnJ2Ymt3cXlPbnRGOGljX3EzUU9DU21HUzZOeWF2Mjk0YkhablExUlN1VkVtcWNXRjFTQTUtX1ZGMWZsVkVUTTNVVHoyaHlIbVNTZFREMkczaWNxWWVvUQ?oc=5",
       "pubDate": "Sun, 01 Nov 2026 21:32:00 GMT",
@@ -750,10 +741,37 @@
       "sourceLabel": "News"
     },
     {
+      "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFhlMGw2LWVlLVYxbWZ0OXo3aFhYb3ZWYXV0TEpzX19NdHJ5VTNsRF9EYjVONjBXUlFjQUVXT1J5SC1PODJEazltN2NvVkFERWRKeUVyaUdsM2FZcmd0VWxWeXNkNVBGVVdCZnR1R3lraThTOFZSbHRhRF9pb2JoNjFJTkxSTG1ERzBZMktjaVVMNzlKY1ktWnB6UFUzY3ZOMWVnVEFFOUJsOFBQQXE1ZkRoZ0ZQZ2ZO?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 17:13:00 GMT",
+      "description": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines AP News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "In Todd County, vaccine skepticism fuels measles surge - MPR News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0pWd3EyZnctS1F4dmZzNzZodXNwZUI1a0Z0SHdpNXdXcWZZajQtVmF5ZVpRVW5yd1JUcnV0TWFNUk9EYkJkNnFpb01hYmlVR3lUandBVHFlbGdZYkhMZ3BwUU9nYUpOMThTV2h0cUwwM3Z1UXc2VHplbVIxZ1ZvWjBUZ1ljN0pyUEpZaWdkbmhSUWZscXYzZl9fSmF1WVRk?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "description": "In Todd County, vaccine skepticism fuels measles surge MPR News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
       "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT",
       "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "As measles outbreaks grow in the U.S., maps and charts show a record number of cases in 2026 - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wUl9SNkNDNWZBT1Y5NVh0OGtLaTZuNHFyWkRxYXNFdks5SmtzOXp2Z1RFdnd2dW1EYWxhVmhYRWFyNzZVSmNMTlpPY0NFRzNBcTNYbC05YmdFQW5NUTBMZWVZSnNQNWZwNGc?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 18:04:35 GMT",
+      "description": "As measles outbreaks grow in the U.S., maps and charts show a record number of cases in 2026 CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
