@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-08T01:14:51.481Z",
-  "itemCount": 96,
+  "updatedAt": "2026-11-08T02:19:34.232Z",
+  "itemCount": 98,
   "items": [
     {
       "title": "Measles cases in the US top 5000 cases - Outbreak News Today",
@@ -48,15 +48,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases surge to dangerous high as cases top 5,000 - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV3VlTnFERG5xU0p0X1VwMVdIbERVS1ZDeHZ6WHcxZ0tndjdEaEhrZEFyVW5zOEkyanlmQzMxSFAyeHlaR1lZdGg5U2JydnlKSzcyZnQ4M0lOTHU4N183b1BuQW1GcklSQUpwZHhtaVlSX3NxazRselN0SWRWWkM3VWxldmdJbVcybHkw?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 00:15:00 GMT",
-      "description": "Measles cases surge to dangerous high as cases top 5,000 Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "More than 5K measles cases reported in U.S. this year, the most since 1991 - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVl6eTZLaS01R2Ffano2X1hJUko5ck00TlZlRTZhaWNPSWtYVnEwMUtOT1pBdHV3M19VSG9Fd2VtMWl5YUFZRmY0QmV6VlNaV1BsajV4RlNQYXAxRTI0RmxQS05iakpIVFB6ODQ4VVg2cm5Bc3pyd1IyWk00ZDJQV1dWOTN6SkNlMjhhWGxnRnd3c1JETUtPRVgxUTZnN3hyRDVrTjNtSjRTczVwcjliU2ZFaw?oc=5",
       "pubDate": "Sun, 08 Nov 2026 00:08:00 GMT",
@@ -70,6 +61,15 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaEM0QnhjTk5NaGhMbDJ5UVpiY3BYLWtzZTJnNFJra3lwaVEyNk1rWXI3QmgxejE1MHNQWFZGWnA1RDBsb0F6aVNrMFpKNG1NR0RTdXhuQXVMekNQM0kzT0dYMk9jM2dBclNLaURSS3lPTVhSaW9hLWF4cGIyQlBsaVh6X2NlRHdJWm9iQXpTYzFKdGV4aEh4WlNBWFp0V3BDZ2tPbkNfb0JsUll2S2UyZ1JMX0tpR0tqRkZ3UjVNd205OGxOWXF0dUV2MVhrNURhSkhMYWVR?oc=5",
       "pubDate": "Sat, 07 Nov 2026 23:50:00 GMT",
       "description": "Measles outbreak continues to grow; deaths reported in Pennsylvania, Wisconsin, New York this week CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Were you at these locations on Nov. 3? You may have been exposed to measles - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVUdmTXNWVTdNZUZJZlp1dlU2a2F2YWdYTjVDaGx2SGRMcUdZSF9hdWNWWmp5M05PUDd6ZVVsWms4TTdJNXpMeUtHRGE0VkNBNEJFc2VrMnI2SFVPbVNCZWZqdnZ2U0dZeHhfcnBhT3l6cExWMlp4WEpmWTRSX1dBSjdlSi1yNHVPdE9jTE9iY3hyZm5RX0F2aHozOFhSdWNjbjJSaGZLeWFLOUhmeEc1eVV6RloyN1NpbFVKSXZyR1hWZlZj?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 23:44:58 GMT",
+      "description": "Were you at these locations on Nov. 3? You may have been exposed to measles CTV News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -301,7 +301,7 @@
     },
     {
       "title": "Public health officials confirm infant death from measles outbreak was from Grant County - WMTV 15 NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmJqRzhvS1hKNnI2S193c3FDQW5SMVByV1BRQl9ES05JdzM3U1RSc2ZzVHR1UG8wS3pNMnJMcG01UHFWMkVrQkp3RGtkejVhSjNfVFNNcFZsTUFBTEtsaUlkVUdPQzhBUVNvNjZvMXdpdzVLZE9hY3VjMkh2R2gtYVlCSWR6NEVXYzBOQXhrU3F5MVVIMDN3NC1NUzUwOHpHaEJwX2tkSEZZTnlTQWRyWVYwdWJUbFI5?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmJqRzhvS1hKNnI2S193c3FDQW5SMVByV1BRQl9ES05JdzM3U1RSc2ZzVHR1UG8wS3pNMnJMcG01UHFWMkVrQkp3RGtkejVhSjNfVFNNcFZsTUFBTEtsaUlkVUdPQzhBUVNvNjZvMXdpdzVLZE9hY3VjMkh2R2gtYVlCSWR6NEVXYzBOQXhrU3F5MVVIMDN3NC1NUzUwOHpHaEJwX2tkSEZZTnlTQWRyWVYwdWJUbFI50gHMAUFVX3lxTE9UUVlFVUYyeHNudEpQX2VBNG9QMldvVUF3aGlqbDJxbmRBRlVjSHk3dXVZaHgycDBmdms0WFQyRUREeGVQRnJjbjNSUWg1TnI2d2E4b08zR2RIQ2ZOZnZVMThISWx6dVZwVW5USW81RzNCYmxRcW5rQnpqUDEwY3BDVmZ0UmtqZVRnNEdEWnhmSW1EYTB5Q0RmelF1RHdaSlpKNklmU2RXNF94ajF1cmRzaHZIbGo1U0hsaHN2bW9fWWZ4RHBHZThEUW43cw?oc=5",
       "pubDate": "Sat, 07 Nov 2026 02:36:00 GMT",
       "description": "Public health officials confirm infant death from measles outbreak was from Grant County WMTV 15 NEWS",
       "source": "news.google.com",
@@ -393,7 +393,7 @@
       "title": "What parents need to know as measles outbreaks spread across the US - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaXFzTGVaQlFTZGRSa1V0WDdTbWRrWlo0RkY0WWg4cF9HRlFOMDJScmtPMlFHNTBVSVJHeE4yTFdXWWN4ZUF2TmlabUtxYTVJYVRIdTZpVUhRaG1SS2tuNUZXVUVFOGM3ZXNGbHBWb2cwZzdHUXppSlZ3dWplVUhVZkRYMDhTdlVMa3dxbDkyX1_SAZYBQVVfeXFMTjNJckRESmRsWEFCYXVMb3RqamxPeHkyVHhuSjVWVVVhVXB4SEVFN3BGNGllQjU1QWhOSWc4cWd1YTUyV0VFN2dZcExjNlloaXlhRXhfak16d1g5ck1LUzhjTlpOZy14a2w1Xy1pWlhSM3FxNHVRMnZUbGZYdHZReHV4VzNXRFlicW5RVl9GdjlCZFZhRWdn?oc=5",
       "pubDate": "Fri, 06 Nov 2026 22:35:01 GMT",
-      "description": "What parents need to know as measles outbreaks spread across the US ABC News - Breaking News, Latest News and Videos",
+      "description": "What parents need to know as measles outbreaks spread across the US ABC News - Breaking News, Latest News and Videos The CDC has recorded more than 5,000 measles cases this year The Washington Post U.S. set to lose measles-free status thanks to another communicable disease: minsi",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -408,10 +408,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Keokuk Hy-Vee identified as potential measles exposure location - KWQC",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeDdoZkxRa2FWc3Zic0NVR29qQ0p1eUZKdHotV08xQnlBMThsaUN3MkhXb3NuM2o1aWxJbWZMdHQ5V0Zpdm45Y1RxY1I5ZC1jOHdRME5fRDc3SFR4Zy1LdEd2bFdGZHQ3dWt1bGt6M3RqbWxmcGJ3VXNkQ21qODhoRVBDLXFGbVNGYmlPVkltNzRfVmlVOUlOONIBrAFBVV95cUxPVWJJYVhNb3pyMzVrNFJ2U0JIeTJXQU02TG1QNmRPRmZ1UEliRXozU0Jxa1MzaTJXMGhwdi0wRlNPTGNmUUw0M0pJdlc5c1lycHdFLUpEZ1QwcFFfX1BkWElTMXBlR1g4NDY3MDZUcnVRSmozSXRyNWV4Z1Q3UG5fUDBhdEJuZC1ldmlyeUpuV2hzRFBUa0YwNWZSN3FFaGE1LUctaGpMSF9mU3N0?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 21:57:00 GMT",
-      "description": "Keokuk Hy-Vee identified as potential measles exposure location KWQC",
+      "title": "Lancaster County continues to lead Pennsylvania in measles cases - WGAL",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTUVQR2MwMlo1Q0V3eXp4Z3lOTDRBQmlRQ0w0dVBMVHdQUDRhMS04cTBic1VmZHBNNmlpeWpuTjdyYlY0V0xCYlE3cmJUQUlqUjBLUmMyR2F4bVBRWnA1MzVfZVppQ0phUFB1SWVMYUhnLXZaNUJHd1htSmJQSFd5WXdNT0JrMDBwMXluSzN3?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 22:03:00 GMT",
+      "description": "Lancaster County continues to lead Pennsylvania in measles cases WGAL",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -448,15 +448,6 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUEtWckYyV3BzNXpiTTdmb2FMcHVVdE9iY01vM2ZwWHdvS1VuZFhSaWJ6QkIzLVA1bWRycFVtSXhBS0x3NjJVRFhsTFhBcFZPSGdJMDRCOGkwREo4QlFJOVl5SUtERG01a256c2cyVUpvX2lMdlVacFUwX0dHYW5laW02dWc1RHRNdjBMamR4TXY0M2ozQkJiRVpWc3lNSUd3VDB5MDRtaDJ1VTNfb3FCZlM2MUxFLUdSSUNTQ0ZwQnI5M3B2RHc?oc=5",
       "pubDate": "Fri, 06 Nov 2026 20:51:00 GMT",
       "description": "Measles detected in three new counties: Columbia, Green Lake and Sauk Milwaukee Journal Sentinel",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "U.S. set to lose measles-free status thanks to another communicable disease: minsinformation. - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZjJ1WXBYUDRTYVRGNXprZHZBQU1mRldVN2M5VWJvQm1KZFlCeVpDSU1rLWsyX1BUalFiS3ZGd2tNMkYzazBhVzhNN1dmWTBhMmw1NGRpclVtN0luSVh3b3I0c0xGZFMwd01CV1BkVlpBZDhiTjcyeG5VZkk3LU5LbVRrNWxrcFc0OVIwMGxPakplNnZNR0NlaGhFUU5La2xCUnh0VXFqdHYyZw?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 20:46:23 GMT",
-      "description": "U.S. set to lose measles-free status thanks to another communicable disease: minsinformation. NBC News Measles cases surpass 5,000 in the US with infections confirmed in 45 states: CDC ABC News - Breaking News, Latest News and Videos The CDC has recorded more than 5,000 measles c",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -502,6 +493,15 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQm1sZ19Xb2hRQ3FucFppR2lCTXNIcVNTUEFBem5JOWR1dUVaVWs3c0ZVRnVUZjFxbENWV3RXdV81YlRtUWpBeVNkZ2Nna3Yydm9QNGlBM0p4SmF1UnlKaENzQ1ctX29YNGt1czdwd2lsU1o0LVMxaEhlWnU1YlI1QjdDS2RSaFBPUWdLdU85SVBJN3Z3a1VINnNSWWJaVUZLRzBqTQ?oc=5",
       "pubDate": "Fri, 06 Nov 2026 19:06:14 GMT",
       "description": "After a Wisconsin infant dies from measles, health officials urge people to get vaccinated | WUWM 89.7 FM WUWM",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases surpass 5,000 in the US with infections confirmed in 45 states: CDC - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNam04U195WmFPM0xEajVHdWRqVkMxclhhN3NRcjdxdm9iNWhiVFlYeHU4YzJiazFONE5TcE9hbzJXZjlucjJSazRkeG5YbnRFRHhfSFNIZE1XeXYwUlVXTVJhNmFfS1JHakszV250ZWN4YlZlQS1wMTJZeGpnR29naHJPMWNjNDJrRV9Hb056RUhHdlJsWF80bFVKelNwT2Y40gGmAUFVX3lxTE9ILTMybEowTF8wSGFSLVg0cmcwLUFrWUtGcnlMVWdNQVhxUjVzU0YyVWI2azZkSmJJTXFfVHVYc2Y0VGpxMGlDNXlMNDZodTdTc1NXcjQ2UjViUmQ2WEZhVnFKUGNSQ2dhcmRhWGc3ZkU2MDdLYlRYVzVFb3NMQ0l3U240dHRaaU5ZaGZGUWVvQ0F2RjVVYkppUlBneXlfOUpoYldtc0E?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 18:52:43 GMT",
+      "description": "Measles cases surpass 5,000 in the US with infections confirmed in 45 states: CDC ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -646,6 +646,15 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzNtZ2I5Mi1GS20yTVA1V1RTcDlIbXQ1LVFFTGxGczdqZkRyeUphakphR3RyTlRpX3dPMTQwSU5QNl85bFp0N3JvbFFVSHJWdW1neGRGMFFJMk80el93eXpmMV8wak5ocnpGSXFIWThQRUZQb2tyUDNLd1pEOUpFU2hxazZBbXhlNlBFcEZKZUFWQi1KR2VGbVZWQ3RtaWxHN1paaTNTRHpDNF81WlZDN0VqNDQxZ0o5Z0E?oc=5",
       "pubDate": "Fri, 06 Nov 2026 06:29:48 GMT",
       "description": "Wisconsin reports infant measles death, first in more than three decades The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Low vaccination rates are driving measles outbreak, experts say - WKOW",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV3VnbDBQaUoxb0JRREFTdjY0dTF2QlhOdkk3YUxGUEVxdmxWNHlNdjZXc2VnT2hTcHI4VWRVUl95Rlo4ZDVTS0JJeXFiWHhKMFJNeVBBdTZRQ3VzOVNSQS1mczVQSWJzOXB4VXhBdEoyak96aWdqQktwV3pWVUZGUmdpUFlrNUttQ214TXQ4Tmx6QUpKSVE5dzhDSl9xd191Rk5CNlhzTDQ1OGZaVDBJUlJsWDUtZmRLaFltM3J6Vjl1eTBBSm5vNDhXWnlQTFc4SEg5TXdBWXA5UDU4QlE?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 05:09:37 GMT",
+      "description": "Low vaccination rates are driving measles outbreak, experts say WKOW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -826,6 +835,15 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa19pSG5QZjhzbS10MTFYM3RVcktsQ3Byd1FsY1R4dkpqTGdTNkUzdzdKTjNPQmczelZpQm1JNUVKbkhiRTlGR1BBVk9rX2ZNcTRLUVlDRmQtS2JmdGJJVGR0V3RiZUNCOG1HdFJPMUdtQXFwNHBIM0xEdlJsTldHUXI0dmdpNWpEMkxtRmdGR2hQTjNpc081Q0FKYkh2Q0pZ0gG0AUFVX3lxTE5pM2hBcEVHaE93V2RWRTJ0RXJPRkJBRFNtUUlrdXpOUTBkdGpMVXROYXFpb19wOEhiam81WDMxQ3BFU1hhUHJHSU43cXk1bG9YYmUwZXItLUFsMU8yQ0xvRlU1LWdzckljRXNHaTFSTUo5cndJR3U5SUdlSW4yZjYxMldmLXZJSndadnVGZFF4NEw5dnA4aE1WaTc2d1EtTzV4R3BOenZEZUtyRE1VZERjNzNlRQ?oc=5",
       "pubDate": "Thu, 05 Nov 2026 17:58:00 GMT",
       "description": "Infant dies in Wisconsin measles outbreak, first such death since 1990 WBAY",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "DHS confirms infant death tied to measles outbreak in Wisconsin - WEAU",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbGlUeGdyU2ZNWnVXUkl3QmJwWDhCSzRvcExCRUxiMVVKWk83Ui1JQnVUZDFidTRlM3ZIOGRwakozcmJWZkNuemY0RUdKelFiSERCLUFRTE16d0w1RmE0eHlSX01ybDl6eVN1eEIzSERWblZ2RXJiTGRubEhXeTY2NzVUeEhQSE9ZRGNuT3IxUkpOdmtO0gGoAUFVX3lxTE5BWGZoRHFjZmNKd2dUWEwyVFhBSk5RRGVTTkhoQ2lHNGxxZTN5T09BaEYwRDYtaVR3VkRkLVhrdDF6bldnSEZtakZHeVhHSGw2Y1FzTmlxbmJlZUdyNkdfckg2Sm9TaHdVWDdMZ1lGWTRvdGRDSHBvbzd5elp2T040NFVnWjljb0w0UWU2WUpuazJHTElXRzNfSDk0TlNZTHBtQ1hXNTJ3Tw?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 17:45:00 GMT",
+      "description": "DHS confirms infant death tied to measles outbreak in Wisconsin WEAU",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
