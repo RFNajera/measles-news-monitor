@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-11-08T03:17:31.959Z",
-  "itemCount": 98,
+  "updatedAt": "2026-11-08T04:15:55.457Z",
+  "itemCount": 99,
   "items": [
     {
-      "title": "Measles cases surge to dangerous high as cases top 5,000 - Modern Ghana",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05RWhsTUhsc1BETkU4NXBzbzBxWEhxa3ExZ09lcXFKR2E4NURMcHhya0xwSGVnSDZxY3NBQWpmNXVHVm4zSk83NDFMTlJwU1ZXTFVQTVJ0b0p2NVo3RDMw0gFcQVVfeXFMUE16cVNIN0lMc0xMaUNfc29qMEJvMUR6T3YzVXV4RUNFdUJrR2p2QURZdndiZk5OcktieXRtMHN2NFY0U2JicVZzUnMwNERWX1ZPWWxYMDRScDc0N1I?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 02:10:00 GMT",
-      "description": "Measles cases surge to dangerous high as cases top 5,000 Modern Ghana",
+      "title": "Measles cases reach highest level in over 3 decades as vaccination rates decline - WUSA9",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZWxsa1piWGVhRlA3MmxJZFJSeGotSV9BNk1QNWlmczdnc3RHTF83VDE0cjl4ZWdIQktPcHlNbHR4Y0pkSlMwWERoQWVJYzZaVThxZlJsY3UzNi1EaDVkcFpVSjlWTE1maXlNWVpieVJydElPcGg0czdEa1N4cy1SQkNNcjlNRVVCd1Y0eTR2aEVZSmpET1dyWUttdUlPbWl0emhHcE1oUUp0dVNtcy15UXNIcDcydHhoVkY1UzVXTERKd0tKS1Iwcm1sVENnSGU2V0hlYVlwVE1zYnItU09fdjhvcVgtYnM0RFNCcTR0S3ZUQQ?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 04:06:00 GMT",
+      "description": "Measles cases reach highest level in over 3 decades as vaccination rates decline WUSA9",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "At least 5,000 measles cases reported across USA, health experts - WHIO TV",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTm16eFUtOGVUeGpuZGdkdm1uUzBnb3RTNGJUZzVHWXowWUU3b0hFdnI0UDYtR0tRNnBWTlo5OTNTU1c5eUF6Y3lKRkNBd2stcFVPWXVxeFBMUkJXUlY0LVhnYmNiUlNKRm80WDBpdTdPbURNQXAyQ1BDLVljZDlsMk9rNHlvQUhfRkpsWnlxclRsaWZjM3JRM25fMmVjTnM3bVB5MmRfWGpXckpUNkJvUlBLSzQya1UwdDBQcmdTVnI?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 03:26:54 GMT",
+      "description": "At least 5,000 measles cases reported across USA, health experts WHIO TV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -88,15 +97,6 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeUcwanFnenNkd2Y5NF9uYTBWMGF4RXBaYWNjVzhUUE4wREFBRVhKNzBLcWEzS0Z5NU1zbEdfeDBEZzZIdmtYS242VVg1WnkyeU92dENFejE0UmJITVhvak1tQm45MS1aaGdYRHMtbVFqZDBiN19PSjIzc2dkREV4ZkdPbjJKVm1HczRDSE5IV1dFeThLQjRvdXh0NWs2dnVNcEJCdGZLOUp4bUdJVy1Ia0lJMGFESDI2OGltY24yUVZiQTQwVHhWeGNB?oc=5",
       "pubDate": "Sat, 07 Nov 2026 23:42:00 GMT",
       "description": "Two cases of measles in St. Joseph's County, Michigan WZZM13.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "The CDC has recorded more than 5,000 measles cases this year - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFhxRWNVa2pJcVBtU1IyUWZEMnh5Z1lBc0dBT2kyZDY3bHB5Q3IxZV9OUE9LTW9FLWQtM0lYVDBObW54RVVCZ2Z4RFQzTEVxaWxwdE93eG52QXF1N016QlR4Uy1nWUhfUGNtYXQ3dGJEX0VTVnBJY1ZGTFRQdEhYcHcwM0lSY3Awb2h5cDJPU3BKSVNFRHp6bW9WU1hVb3FzN0wyQmdfZ3k?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 23:30:00 GMT",
-      "description": "The CDC has recorded more than 5,000 measles cases this year The Washington Post U.S. set to lose measles-free status thanks to another communicable disease: minsinformation. NBC News What parents need to know as measles outbreaks spread across the US ABC News - Breaking News, La",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -246,6 +246,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Tale of two outbreaks: Canada stamps out measles while cases grow in the U.S. - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMlFxQWRhX1RnNkJPdVZSaXp6bHYzQUhKWmNLY0U3ZUFQaXNwUk9JaVdXZmUzQUZLN3g0elJWdXVZUnBqTGU0WHZtZG9IMENCb2xsdUkzYXRvVEx3ZzQ0YTE1aVMwRTNta041WWtNWmgwc0plSFBDNHZuOWVLc0lJYVZJc1F3UktZV0ZZeDdEb2M4dUNJbEdYWjZ5SG94ZmEySmVKMHdyazY?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 11:15:00 GMT",
+      "description": "Tale of two outbreaks: Canada stamps out measles while cases grow in the U.S. The Globe and Mail",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "US reports highest number of measles cases in 35 years - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50ak9Ec0kzd3EwcGhTMGg4R2JsZklPcXhWS3ZQaFAtNlRPRWZoajhMQ0NyYmgxMlU0Y3pzZll1OTR5dkxnSjlfU1JpYkwtWmpBcTNtbnlIVHRlcnBfS1ZUXzVGaXdPY3hfRW1TdDN4LXlFcEI2eTczQUItYw?oc=5",
       "pubDate": "Sat, 07 Nov 2026 11:08:22 GMT",
@@ -268,15 +277,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbWFSc21tQm92R1Q3MkJNQjkwN041X2hxbnViUEN1MFBkRlJ6QmJFbXJ6T3paWnNVNDZIeG1JVWxoMm9pVk9ScWxIc3k2YTBfaWhha29aenlaSmZiM1I3WXdYRHZpQk04TVFPNHZfd2ZSMUZCeDJZc3RtclhyOFZOanlGb2M?oc=5",
       "pubDate": "Sat, 07 Nov 2026 10:12:25 GMT",
       "description": "Health Agency to offer measles and flu vaccines WTVB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases top 5,000 as US set to lose elimination status - Yahoo Lifestyle Canada",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PajFwblphekdtZlN6STNadkJEY01RYUJaa01mX25xWXdzSk42Ui1pSkl1VG4weDJfaV9TZE9yRG5ZWTdOZUI4QkhwZDRpWXhMaFNIOFFyMEhmVEhxMG05Tmw0Rjk1ZUJMM29LR1ZsOUxlVEk?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 09:20:25 GMT",
-      "description": "Measles cases top 5,000 as US set to lose elimination status Yahoo Lifestyle Canada",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -399,19 +399,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles death reported in Southwest Wisconsin - Outbreak News Today",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQnkyS0RlVTRFSGhQTFR3S05KTHVNS043VWtyRHZTbkxMVW5EOWlQUjlDaUlZaWhmU0p4NlptSTRKeFBoWEUwX2ZNREpCUENfSERGVUdKVXNBSlFabTA0X29wcnJsNFJSVmFxc2VVLUF2aE9LbTVUdTBLVjRoVkF6ZXd3?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 22:18:56 GMT",
-      "description": "Measles death reported in Southwest Wisconsin Outbreak News Today",
+      "title": "What parents need to know as measles outbreaks spread across the US - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaXFzTGVaQlFTZGRSa1V0WDdTbWRrWlo0RkY0WWg4cF9HRlFOMDJScmtPMlFHNTBVSVJHeE4yTFdXWWN4ZUF2TmlabUtxYTVJYVRIdTZpVUhRaG1SS2tuNUZXVUVFOGM3ZXNGbHBWb2cwZzdHUXppSlZ3dWplVUhVZkRYMDhTdlVMa3dxbDkyX1_SAZYBQVVfeXFMTjNJckRESmRsWEFCYXVMb3RqamxPeHkyVHhuSjVWVVVhVXB4SEVFN3BGNGllQjU1QWhOSWc4cWd1YTUyV0VFN2dZcExjNlloaXlhRXhfak16d1g5ck1LUzhjTlpOZy14a2w1Xy1pWlhSM3FxNHVRMnZUbGZYdHZReHV4VzNXRFlicW5RVl9GdjlCZFZhRWdn?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 22:35:01 GMT",
+      "description": "What parents need to know as measles outbreaks spread across the US ABC News - Breaking News, Latest News and Videos U.S. set to lose measles-free status thanks to another communicable disease: minsinformation. NBC News The CDC has recorded more than 5,000 measles cases this year",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Lancaster County continues to lead Pennsylvania in measles cases - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTUVQR2MwMlo1Q0V3eXp4Z3lOTDRBQmlRQ0w0dVBMVHdQUDRhMS04cTBic1VmZHBNNmlpeWpuTjdyYlY0V0xCYlE3cmJUQUlqUjBLUmMyR2F4bVBRWnA1MzVfZVppQ0phUFB1SWVMYUhnLXZaNUJHd1htSmJQSFd5WXdNT0JrMDBwMXluSzN3?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 22:03:00 GMT",
-      "description": "Lancaster County continues to lead Pennsylvania in measles cases WGAL",
+      "title": "Measles death reported in Southwest Wisconsin - Outbreak News Today",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQnkyS0RlVTRFSGhQTFR3S05KTHVNS043VWtyRHZTbkxMVW5EOWlQUjlDaUlZaWhmU0p4NlptSTRKeFBoWEUwX2ZNREpCUENfSERGVUdKVXNBSlFabTA0X29wcnJsNFJSVmFxc2VVLUF2aE9LbTVUdTBLVjRoVkF6ZXd3?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 22:18:56 GMT",
+      "description": "Measles death reported in Southwest Wisconsin Outbreak News Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -673,6 +673,15 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVlxd0hrYk1IWG1ZT0xQaXl5MXNHT2xnekIteW1pZXJFQzBGVE9DTUZVYUFGem9CblV6OTMzLXl1SkdOWVpjenlPZ1NHQzF1OU5xM2ZwNVZoRV82aXlCZEhNYWdfTUlDQ3hDemN1ODUxd3lXcU9leVRrclk5LVI5bG9VeTQwRDZ6al9sZDBxbjJFN2V3eWRKSDJyT0VrWllqSTZPVWFtb3dFc3M?oc=5",
       "pubDate": "Thu, 05 Nov 2026 23:37:00 GMT",
       "description": "Wisconsin reports infant death linked to measles outbreak Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Check the list: Health officials flag 7 Middle Tennessee locations for possible measles exposure - WKRN News 2",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT1BZZUllWkVrVTZfaTMxUUFva3JBajYxS3luOFBsU0JJQ2lZWmJ4S1A1dDg3S1BNUGsxYjlSR2M3Q2d1al82eDB1TEc5REZybWRmUHB4eFhCam1GNnNsaTYxa1p4Sk1Ka2tZU2hQSTlBREtia0xROWtQS1V5eFNHZUZ3aTZoZ3FRUWJNNHRhNDJuZ1Ja0gGaAUFVX3lxTE5nNzZod0FwZ2RCNzBpdFdjQWRwUjZTVTJuZEV3My1UUnZseUphb1VFV0N2TEN4YVNVajlhMjhHTUxNLXJBNzl3cmx5ZHAyWTJuM1dvQnM1Ri14TUdrcG92aFFZS3JvNHoyZnhHUEs5SFI0NFBMMlFNa0RUOXhIOGRTb044UV93VF95S0NEZ0lwNUdDZy1BemVyYmc?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 22:45:04 GMT",
+      "description": "Check the list: Health officials flag 7 Middle Tennessee locations for possible measles exposure WKRN News 2",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
