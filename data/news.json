@@ -1,7 +1,79 @@
 {
-  "updatedAt": "2026-11-09T21:12:56.717Z",
-  "itemCount": 97,
+  "updatedAt": "2026-11-09T22:12:47.867Z",
+  "itemCount": 96,
   "items": [
+    {
+      "title": "Iowa health officials release new measles exposure location - www.thegazette.com",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaExfTHd1QzAyZmJ1TGlPNExQQUkyQXdWX0VBWnZXRTcyc3llSkhaNEt1Tk5DcnJiVU9TV0dMZ3lvak1FNTVPVFJqUkZRcDFwR0p4NUhvVUI5MzFCQlZhd1lMakRYSDdZV0tTclU2Z016UUhJYlM2MmhveDlVS0xDLXN4TnpXMmlRQThUODB2WkFRVGlKSjRxdTg4UlZ5OC1RaDdXLTFWSG9iWHo3NnVZZU5IQlp3NXJnaEJhTEc3N3NhdWpoN015blJtSVlZS19pWHB1U3FBV2JFbWVMWmdvLWhJXzE3czQ?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 22:00:00 GMT",
+      "description": "Iowa health officials release new measles exposure location www.thegazette.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "WJJQ - WJJQ Radio",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQkoyNGpLSkVzOWtSNnRZU1JYbGh5UlhDNUVaT2FqWXlJc1pXRXFEbzFpYUdjYXlJamFxX0VpWmhYZHU1dGZKZm16WW4xZ240Szdrd0NYRENwZFphQkM5SFJ3b0xFSGEwQWdUa3pvV2F6TjhxSTJFb1lVU1dOTmxET01feTVpbTQzN3VyeWFzUGtsbEhjcWVvSnFKMzQxaU9WWGJVckFyRjJ1ZmJ6aC16YW1QUWp0RjR0UDFnc1lzYTJqckxaZk9haVpyRF84SDgx?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 21:55:57 GMT",
+      "description": "WJJQ WJJQ Radio",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles cases continue to rise across Ohio as experts urge vaccination - NBC4 WCMH-TV",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHhSelJ6WjBVQVpZQ3FVcE1waVVJX090TVhDVmk0VDBJT0lLZVhkWmF2U3k2aEE4UndMTkRqSE9IVk1TZ2RENHVySEMwRzJBakFFMkJZZG5ITmJZcHBTQ2lFUXRZODhBbEdiM1lFUk9ZVEFrQUtaVEFXVUNEYzJqYWpNTTg2WHBhVUZFSGhaZG1qLWhIdkVucVI4dnZJSi1EcDJrU2ZneXl2LTNK?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 21:49:24 GMT",
+      "description": "Measles cases continue to rise across Ohio as experts urge vaccination NBC4 WCMH-TV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles vaccination status may be hard to find for some people - WKRC",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPX1JfX3Y2U0M2d0VSYmlhY2xZUkphN21FSEFfdmxyRmlHd2ZMSjhXSjBaczlZMjI0d0p0QkstMFlFMjMwb0sxb1B5YVVVTnpnNHEwYW10WjQ4TjZjT0xXMHB6b2NMWlJubEEwdGljbUFQVGRUSi10LXZpT285WWZwVDFoYlE2cjY3c1VIdmt4bmZ4N09XZUZsMVZZR2VJZURyQXNsbjBoYmJIb0theXd3aE5ObElSVUVZTGFiQUhxQ2xST05tdlpZd2M3U1lmcE5OSlNHcXhyRW9JWHlUekFUR2ZENDU1S1FvTGwwTGc0bFJiRG4zeHhEa0g5VmN2SWctREE5ci1Wb0VPRjZmZHB3ZTBZR20xb1NuRzF5cUJ2RkVRTHBCWWNzSktneGlDZVpTTHdXbW15Uy1RQ1cxWUE?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 21:43:05 GMT",
+      "description": "Measles vaccination status may be hard to find for some people WKRC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "18 more confirmed measles cases found statewide in latest Dept. of Health update - FOX43",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGJUeV9JVVJOaUtMYkJtLW1KNU5XSktzalNwU25CcWxsNk10d2hJb05oU0diRjJlM2RXRjkydnlPUDdqWHZETnJxZkRoa0FvZHJsTXVOeThKOE12TTUyd1ktXzNtckd5N2VZQm5KUHVtbUt3NEd3OF9LMkRrd1FETjJHSXR4RlNEM2E4MHFkZEVscklEaWh4N2pCSzdFYU9qaC1SdVhVb1FpXy1FaUFHWVpIUDYzQ0t4TF9GM1dyeDJnZW5IWkNqSEFfMlVodw?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 21:32:00 GMT",
+      "description": "18 more confirmed measles cases found statewide in latest Dept. of Health update FOX43",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania measles outbreak reaches 1,505 cases, six deaths across 45 counties - fox56.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSmluTWIzOVlKMkJuV05FaTNjUEJweUdGcnpMdTJjUzN4eDdyZjd3WmVUU3NuSHRsYVVaMGRWSElMMXlKVzd4M2FrSGdUY0JWSnlEV19kQnBULWQydEVrc202N3FoZ21NdHhlSDdaMUhzd3pBRlZHRjZjZ3k4eTVEQWFPb1Nza2pSY25wZGlWa0RXQjRSY0NoZDJGV1NSOFcyS3pUU0ZseVNuZHc?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 21:23:26 GMT",
+      "description": "Pennsylvania measles outbreak reaches 1,505 cases, six deaths across 45 counties fox56.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles: What it is, how it spreads and what to do if you suspect it - FireRescue1",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWFPWDZBcDJYNGd2cjFqYVVXQWMxbmR4dGsyZzBPQkhvWDhfdzV3N1dZOU1WZW9ORDRKQURLVUp6bEdiQ1JNNDBMdDRKVFVwU1lnLVZQYnBTZUs1Skc4eFVLT1oxaExTdUJ2MzBHZHp0dmZPN3g5S2lTbkxUc3hZVHdZUTVIb0lNSGNzZ2h2cVplZWRNM3hOVE82amZWYlFQeG02ZDZjb1VIS3NzTzBSSEVqWQ?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 21:15:25 GMT",
+      "description": "Measles: What it is, how it spreads and what to do if you suspect it FireRescue1",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "PA measles cases pass 1,500 for the year - ABC27",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUprYTl5U3lxcm9iU1dXR1hzREhEalYwelAtb3hmNXVvMjZ3NGJuVHBfWXVUVW9lWjF0aGthWUNZUmZIRzh1WnBzbk4xOWZtOF9keUFxc0tvSmxMYW4teXM2UlJOWklnTFJwdjdtaV9NZWFSOGpRWmlVYkRYVEF1MtIBhgFBVV95cUxPMTJGNHJzUkxGWjlyaTBTNWhDTkpJTlZjOFp4Rk9EcGxaWEdUWk1fVm9naGo2OE5iLUIwSjNJbkdhQS02RG9SWWRfZldFbzBBUVQtcUtYbG5HS0FxdFllM1FYcXdsako4UlFGcDlLRzZqbkhNV2hMMFZsRjFoQmpLWGkwVzB1UQ?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 21:11:32 GMT",
+      "description": "PA measles cases pass 1,500 for the year ABC27",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Pennsylvania tops 1,500 measles cases as the U.S. could lose its measles elimination status this week - Inquirer.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejJOVnZWWFdXWmFseGlMZ09mdGtEUkN1aERLV1JFZHJoYzA4M1M0dnFJbGtmeG1QbXVGZ1IzRHVEakVfV2txZFJWdkJKWkcxbXo1dnJrVDl2YXVLQW5LaXA1bWMwa0pabW11RU9XM2VmR01ET0F2eHEtS21QeTFuQUlLS3B0eWdGRlFJUFJzSm56cFN2eEJ3eHNQTHNxVFFUem5n?oc=5",
@@ -12,19 +84,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Bucks County reports its first measles case of the year - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DMnRnY080SDhOMnlSS201Q2VkLWItNWNJRzdEXzZXcDROb19wOWp2Wnp6ZHc4Sk5nQTdmTlNMMDdBZDQ2eEZEU1ZBMkptTVpTQ2R6V21uQkxoOTRYT2hVRFV5VWR4MlJna1l3?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 20:54:01 GMT",
-      "description": "Bucks County reports its first measles case of the year PhillyVoice",
+      "title": "5 measles cases now confirmed in Butler County as infections top 1,500 across Pa. - TribLIVE.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFZTbTQyNV8yR29fbUtNTU9HVDJqY05jWklldjF6OW5FYllMT3dwWmxYNDhVQkczcm94aW9xajlKY3lsQkFpMU9XZG9TMU5kcjRDbjNnZHk2WFVfTmF3c0RNTkZCWHdVM0xCZ2QtQ19CcThSbEZBMjlTSkd4UENRZ0E1akdGYmNSMENGWjNBUDZsdXNJenJLV3ZOWF9QNDd2cGJ6cFRrc3NCWFNZamNKTkxBLUxQUEU?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 20:48:52 GMT",
+      "description": "5 measles cases now confirmed in Butler County as infections top 1,500 across Pa. TribLIVE.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "5 measles cases now confirmed in Butler County as infections top 1,500 across Pa. - TribLIVE.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFZTbTQyNV8yR29fbUtNTU9HVDJqY05jWklldjF6OW5FYllMT3dwWmxYNDhVQkczcm94aW9xajlKY3lsQkFpMU9XZG9TMU5kcjRDbjNnZHk2WFVfTmF3c0RNTkZCWHdVM0xCZ2QtQ19CcThSbEZBMjlTSkd4UENRZ0E1akdGYmNSMENGWjNBUDZsdXNJenJLV3ZOWF9QNDd2cGJ6cFRrc3NCWFNZamNKTkxBLUxQUEU?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 20:48:52 GMT",
-      "description": "5 measles cases now confirmed in Butler County as infections top 1,500 across Pa. TribLIVE.com",
+      "title": "Clark County Health Department to offer measles vaccine pop-up clinic - News and Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVlNYd0FJWEtQQlg4UkRBZFlsZTNaZjgwVXUtcVBEclpqM2hxbTFWcW5MV2dCQTRjMzAtRkk0ZUhTVWNJbEI5MFVIaEJyRGlHM0xNaTZKWlJIbjVYM2xfMGtsZUVZbG16RHVsQ1hlZTZ5NWZQaE1VdXlyOE5mVjBKeVFkQ3didGpiME9hQU5wVWtLLVhLTmlrZThFYzB1elJJdEJ6UGJTZ1hhOUg2WkcybktUMDhUbWpzaVVPNW9xTHRiUzZ4MDZ3TURwUkV4ZllHaHNqVTgwdjZkR1lVeWlRLVZIZUZDQlFhUExV?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 20:44:00 GMT",
+      "description": "Clark County Health Department to offer measles vaccine pop-up clinic News and Tribune",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -48,19 +120,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles detected in Sanilac County - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUdnQXRQTHhPVTVqdzFZVTBtZWRndFR3UVo1YW55TnpUN0FQemhkN3ZwNjhkTjZZam1ERFpDZ1MxQmFaQ0p1RlFJOWxJZW9pUjd2TmFrME9JbUNLMldOM0M4WWstOTAtcUIyT3NPTmJ3TnFGUXAwNmx4bWxxd2NZN1RvXzk1cXhIVlFKQVhn?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 20:12:27 GMT",
-      "description": "Measles detected in Sanilac County Yahoo",
+      "title": "Measles detected in Sanilac County - Times Herald",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV3c1cEo1QVdsVnlXVXhySzFpMjg4aG9VY3B1eDk2ZjVmX1VBNTh6U1ZqMUJkQ29UU3NoTklQNUJYb1hySVB4V016NzhLaVVUeC15eXVlWUZwRFJFckNKVk4wVllDclJldWd3ejllRnFzRnlnSEN5a0dQNWNxaWw2d0dHVWI1dE9HaVdCVjN4NzVOYS1La25pbmo0dDZERWNhYzlzejRLUnV3NFBMejJlYWRYVnhTZw?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 20:12:00 GMT",
+      "description": "Measles detected in Sanilac County Times Herald",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Measles detected in Sanilac County - Times Herald",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV3c1cEo1QVdsVnlXVXhySzFpMjg4aG9VY3B1eDk2ZjVmX1VBNTh6U1ZqMUJkQ29UU3NoTklQNUJYb1hySVB4V016NzhLaVVUeC15eXVlWUZwRFJFckNKVk4wVllDclJldWd3ejllRnFzRnlnSEN5a0dQNWNxaWw2d0dHVWI1dE9HaVdCVjN4NzVOYS1La25pbmo0dDZERWNhYzlzejRLUnV3NFBMejJlYWRYVnhTZw?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 20:12:00 GMT",
-      "description": "Measles detected in Sanilac County Times Herald",
+      "title": "Measles cases keep rising in latest DOH update - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcER4T1VaYkhrbm1Uc1FTdjJaX3hkdzVEeXBGU2p2M2MxNE1nTFJnTEdIUUNQODNmdVFsa0Jwc3QtMXdNcEZSbjU3ZFhSQ1U2eVc4Mk54VnI2QmVaOHdublpsOHNfLS1zQmxQak5hNGJXWWlRMDBJVVNRYVZLVlpYblFB?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 20:08:37 GMT",
+      "description": "Measles cases keep rising in latest DOH update AOL.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -78,7 +150,7 @@
       "title": "Bucks County resident tests positive for measles after traveling to central Pennsylvania - CBS News",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlo2NllIZzUyMEs0c01GRk5JM1R0ZVRmaEZ5LUtrM3ZWY3VhQ0UzX1hwdnplRmlxdzVrbnVLUDViOU1sTTJQbFIyYlNRQ1hOa2c1WlhFYmQ2aGRULVlFdndzX3AwSUs1ZW1CRGQ3dnBDWE1aMUxqRWw2el9tUm80Wi1xWWdhcGNfNmxaZw?oc=5",
       "pubDate": "Mon, 09 Nov 2026 19:58:21 GMT",
-      "description": "Bucks County resident tests positive for measles after traveling to central Pennsylvania CBS News",
+      "description": "Bucks County resident tests positive for measles after traveling to central Pennsylvania CBS News Bucks County reports its first measles case of the year PhillyVoice PA measles cases pass 1,500 for the year Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -174,10 +246,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "24 confirmed measles cases reported in Pike County, OH, other top stories - WSAZ",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUNxU2pEeUt1aTR2T1gxeWtNYU1pVnhLWU5fU0Z4TG0wN01JOU1oYUNGaXgxQ3ZqeldTZmsybHhoNlFHNXdfSlB3VmgtN1FxWlp0RzV1eG4zY1FsOEJtZ201Wlo3WjhaeFkwWHBZcDdLXzgwZkFZZWRuSkVhQVl3UWI3dkFHUGJQemhjTkVEdlg4RGhuRFlxMXNvdGV0T3ltdGEtMnJSSjFFUQ?oc=5",
+      "title": "Public Health announces possible measles exposure at multiple locations in Wayne County - Times of Wayne County",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3FmenRXXzNVVW1JX3VjZ2R2MWd2X0N4SXFid2NHS2lTeHFCb1FpRjVaekJhX2E1Z256WUxYY0JXa0U2OGdWeU9wYkZFOHJ0Y1lPSFgzRjZjN0dSdUdwa1VfZW9TR0FkamlackZnQTdwVWdqUktHdTR6U3ZTcmZuemFQblFsQ1JtOWppM2lvY1VVV1E0dTR5Ry1RT2h6TW9sLUJJQllkZ0dheUEwQW5uN2dmcmxTSTQ?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 18:32:38 GMT",
+      "description": "Public Health announces possible measles exposure at multiple locations in Wayne County Times of Wayne County",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "WSAZ+ | 24 confirmed measles cases reported in Pike County, OH, other top stories - WSAZ",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUNxU2pEeUt1aTR2T1gxeWtNYU1pVnhLWU5fU0Z4TG0wN01JOU1oYUNGaXgxQ3ZqeldTZmsybHhoNlFHNXdfSlB3VmgtN1FxWlp0RzV1eG4zY1FsOEJtZ201Wlo3WjhaeFkwWHBZcDdLXzgwZkFZZWRuSkVhQVl3UWI3dkFHUGJQemhjTkVEdlg4RGhuRFlxMXNvdGV0T3ltdGEtMnJSSjFFUdIBvgFBVV95cUxQeVZnTmNMc1gwOVhGdjVfSmhGRVhmcGJkSnlBRFdjcE5CZWZOMEZBM3RvVFJoVEZlOUZnOW54TFYtWEZXM0N2TGpmVjRLMUc1VDVlWi1ZTlBDelh5Umo1Sjg1UmJEWXFMOWJCYWhzZlZXQk8yOTVLeS1OUnhZbUJFUjh6MlhSNTR3dnhrNmw5RzlzdlpxS2dCNk1NaWIwRjBETzlMa0xNejFMOS1BdVlvR1oyOUVOOXB4QnJjaEFB?oc=5",
       "pubDate": "Mon, 09 Nov 2026 18:19:00 GMT",
-      "description": "24 confirmed measles cases reported in Pike County, OH, other top stories WSAZ",
+      "description": "WSAZ+ | 24 confirmed measles cases reported in Pike County, OH, other top stories WSAZ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -237,42 +318,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "US-NEWS-MED-US-MEASLES-FILEPIC-GET - Wisconsin State Journal",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pWFk0TWItT19nRVNhWGhScUlycGp0a2Q2ZVoxSEt0d2tGcGpFX2NXYUZVaVZ1OXlhRkF2SkhId3c5RFFOTUxPZ1lPeEFwR2NBd2FmNHlzMFFZSjkwMXc3Ukp2LU1pSWU5XzA2UlltZ1VqX0hGRXc?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 16:56:51 GMT",
-      "description": "US-NEWS-MED-US-MEASLES-FILEPIC-GET Wisconsin State Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "US-NEWS-MED-US-MEASLES-FILEPIC-GET - nwitimes.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX3VidTRRSnJ0dW4yYTRxZFhNSVZLSXpSM0hkLUZjMmtFS1pLQ2drd3NkVjFJeWN3dzZER094d1RnbkprYkZpYy1TbjYzWE1mRF9ZVFYtaGZPanZ6V0d5WW9PeS1Ea3hhMmtSMFdla0hoellwNmxtaDZqQTZmUWR4VnRUR3VnX1NlREZKTklXcw?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 16:56:25 GMT",
-      "description": "US-NEWS-MED-US-MEASLES-FILEPIC-GET nwitimes.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "US-NEWS-MED-US-MEASLES-FILEPIC-GET - Roanoke Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS091bkUxbjVNSWIwQjJJSGlvVktMZ1JjS0Y1aV90S19RUVZGNmFhRlFGUXVjMkk5cXlhWkUydkp4Y2d2TXFaeG5td3lwcTZCcmRrODllTDJJUG4yVUd1aHY0aDF2YkNVNlBCVlp0a0xXa1ctcWFGX1BsUEktazZGcURGTi10RlhQWXJuQjdR?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 16:56:02 GMT",
-      "description": "US-NEWS-MED-US-MEASLES-FILEPIC-GET Roanoke Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "US-NEWS-MED-US-MEASLES-FILEPIC-GET - Omaha World-Herald",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM2lGU0FyOFdtTVRNcVJ1SjVNR2VKY3lxRWFESUpNV2hLZm5fY3VnaGRQSU90czkycWtKTXdmbWp6VFhRckpmWjM4Z2w3ZmdBbmUzUWZHaFlqYnM0VVRhbDk1RndBQ0R5SjRLYTkzUndTZkhCX3NnQ05PVndWVUJjdGExa0FCTW9UeEpn?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 16:36:38 GMT",
-      "description": "US-NEWS-MED-US-MEASLES-FILEPIC-GET Omaha World-Herald",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Shawano County Confirms Measles Case, Possible Public Exposure Identified - TCH Daily News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2Z5OFlZdkZrUGNUQXJ4WjZKSzkxZFhTUE5PeWNXWEhLTEJpajZQTmlMU1V4WGk5eFF3RlNVTEpyLTNMRkl0Qm1ZMFpQekNDbDR4TnBsMzN3ZzNIdTlINzFqS21CYjFteWJudFZrSUV1VnZhR3JINlpEWGhxWHRNMlpTaVBIX05YZXNxb0hIVTMyWklHUzg1YVpEUFFYR291WGxWag?oc=5",
       "pubDate": "Mon, 09 Nov 2026 16:25:44 GMT",
@@ -327,10 +372,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles cases top 5,000 as disease spreads nationwide - KING5.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWFVwcVNURWw1dkJ0X09sU21SSms2OWI1bHF3ZHJxbm5YS3dndVlFYVhIVzdGMkZBTXo2dXBsQkZnaEc0S3ozQXczcHl0UllyWHV1Z2Vhc3V1dy1ibWRlYnpyOXU5d3JXUlFJbW9kTjFCcWZ0NHlsNkVIZ1FDaW1UY3c4bEp2d1U3OERQemhrSUVBTXlNLXlDSHNRN3Rra3NGNHVXZnEybW9sSkFZTDhwUTVFTVRVUWVtNHM4dldybEF1LXpIR1Q5RDNFOFpXdw?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 15:50:00 GMT",
+      "description": "Measles cases top 5,000 as disease spreads nationwide KING5.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Possible measles exposure reported at Marshfield Medical Center-Weston - Wausau Pilot & Review",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ2JpcWctcFJNQkpHT1o0Rng0MF9INUNmOU9IWm5iZDl3SXIwRTZaNDlfR2hDWEFqZkV3b3p1NFpET3QzalFFZFoxLTZ6YnQ0NjN6aU9yQ0pBanRVTlRtLUNOWTFFcDZLV0ZTWHBwa3RLUGI3U2dyUml2THdGWG8tVEZSdnVfMTJqMnBYelJGVTF3RnlmemF6cGRMWks4Z2tCc3R3LWdBdS1JbHNkclZ6REh1WXhXUQ?oc=5",
       "pubDate": "Mon, 09 Nov 2026 15:47:52 GMT",
       "description": "Possible measles exposure reported at Marshfield Medical Center-Weston Wausau Pilot & Review",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Two measles cases confirmed in St. Joseph County, Michigan - WNDU",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0FveWo0akxKaWVaMjRKekZRV3NjbWFsWjNHX2IwdlBzcVB4ckJNS2c2SzVpQmRlSEdxUlF5cGtwV1VmelV3WmZfRzI3bXVfenBoRTdJbmdmbERzRHk3U3QyaDBsby1CRDR0bzZzZjRyQnpSdHVPMjVZdHFNcHJkUk5qTVBPNE40LWNCSElRUdIBowFBVV95cUxQMmJIdW5rZVNXeDlDV2xZbnh1NEtzWkwwT0oyYUVoUDlIYkZ0WmdmUGdmcHBwZ3BoUGNDSzBIZjlrV2lsZFpCTFNlRzZLQjVjcGZtYWllR3Y3Q1NFZnlGQW5HelBEQ1BsbWJiOFZhQV9lQ2lZeUplc2RuSjZJcnAwdzJBR1ByVU9qVm0ybGpNdXNlUm9iVVV1SldPel9qcjU1M2dn?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 15:38:00 GMT",
+      "description": "Two measles cases confirmed in St. Joseph County, Michigan WNDU",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -349,15 +412,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ycHZlOHY5cl9sVzBTUnFzM2ttUFBPSWF3NmlKT3pvLTQzZTA4NlI0OXFrNDdkSVBoYm5LZzA5R2s2VlotM3czdGFLVjYwWWhwa1FyS1VRazhPRkg0d2dJb3ZIdzV4UmJReFhVNGpFMHdReVNP?oc=5",
       "pubDate": "Mon, 09 Nov 2026 14:29:44 GMT",
       "description": "FBI Investigates Doc's Death; Measles Cases Top 5,000; Can Flu Shot Fight Cancer? MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania Department of Health Provides Statewide Update on Measles Outbreak as Cases Reach 1,487 in 45 Counties - Beaver County Radio",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZlpFeVFHRTd4VWNNMDhxZ1lGbG5mZ2d1b3lqNDhkekowZHJ1bUxSeHF1SUR1ejF5enZha0ZQWDhRSThhSk5GRUhxZUtmVFJlc1hjS3lLUlRBTXkyVkJNVHB6bTNrTkk0bW1MUExfdDhoUko3TlZIVXF6aGM1c29DTEl2b2lZUlhtNFZBakpKeTRHTHZFeDl3RVdqaWx4ck1nYW9JVU9jZ3RVbTdQem1xZnNaZU5mUThnTVVTSmw3QWNsVWVYN1RIOENqQUhrRWQxMVVGU3VIYUU2bGlfV25haEZnUlE?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 13:37:31 GMT",
-      "description": "Pennsylvania Department of Health Provides Statewide Update on Measles Outbreak as Cases Reach 1,487 in 45 Counties Beaver County Radio",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -462,6 +516,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "The return of measles in the US and the bipartisan dismantling of public health - World Socialist Web Site",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40VjFmRmFxai1mTE5KaTVlc0s4R2FWd3NHWE1GMUFkaUlTbmdrMjlDZHZOZkg2MDNCbkpZemFQQUFPQkJQbU0yWUNFazNTUXd6bEozVDN3UUFaZUdTV0tKSHZORk54NmtC?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 04:58:23 GMT",
+      "description": "The return of measles in the US and the bipartisan dismantling of public health World Socialist Web Site",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "US May Lose Measles Elimination Status This Week - Respiratory Therapy",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUVpFanFHZWR5OWtLNDB0NDJZSHdkMXB1anJoeGN2WHJ3NlNwYnE5NWFrUXJxRUJhbDJZeEs0U05obkpWWGR4TEdLZ3hUNW9LeF84blFvY0lOVDkyQUFtYUZBalBvM0thb3hNMkdRYURqVHhIQXJGaFFZb2w2dndPYnBXYlVvM1NIdExlTlNLVWRzUk94Z1BVRWZrN0ZHNmtxWDJHU3RkcUc4Tmt3N2xNdDJjZ185WFlYYTVaN3p2S3g1a25oR1dCRTNVS2w4UFhMWTZR?oc=5",
       "pubDate": "Mon, 09 Nov 2026 01:37:09 GMT",
@@ -501,16 +564,7 @@
       "title": "In America’s measles epidemic, RFK Jr. is now on trial - Politico",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORl9ka0F3Ymx3bmJqU2k5UnZCX01VR0JlMVNEVkx1NFMtb21TRGtGZ2VmcWRMZXBTbUR2dDJUWTV2TUZyUk9Zbk9LZHo3LXlwS295d0tmN1pBdXdpazdtV2pTWXdCcy05MTBkNFZsQVlQeS1SSDRZbEEta3dwYnRKeEp0SjR0Y1QxUFY5c0wtMVR0Wnd5QndLbUZwQQ?oc=5",
       "pubDate": "Sun, 08 Nov 2026 21:00:00 GMT",
-      "description": "In America’s measles epidemic, RFK Jr. is now on trial Politico The return of measles in the US and the bipartisan dismantling of public health World Socialist Web Site The CDC has recorded more than 5,000 measles cases this year The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "DHS reports death connected to ongoing Measles Outbreak - The Racquet Press",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbkEtNHFjVGJxZFM1SndnSGFGRFRXRkRpUTFMa3pYdGtEbHJ5MXV1OWFIZlJYT0NobDNSV3c0Q0xiZUZpNHVzZ2daWVJrbDhZSnlET0ZVRS01Tl9wdEk1MkpTM1NXS2RpWVg3NWZfOGdScms4cHN4X2hKNHN4clItRk1zWWJxdXdqQW5UWmJBTFg0M1Fm?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 19:14:45 GMT",
-      "description": "DHS reports death connected to ongoing Measles Outbreak The Racquet Press",
+      "description": "In America’s measles epidemic, RFK Jr. is now on trial Politico The CDC has recorded more than 5,000 measles cases this year The Washington Post More than 5,000 measles cases confirmed in the U.S., CDC reports ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -579,15 +633,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "US reports highest number of measles cases in 35 years - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50ak9Ec0kzd3EwcGhTMGg4R2JsZklPcXhWS3ZQaFAtNlRPRWZoajhMQ0NyYmgxMlU0Y3pzZll1OTR5dkxnSjlfU1JpYkwtWmpBcTNtbnlIVHRlcnBfS1ZUXzVGaXdPY3hfRW1TdDN4LXlFcEI2eTczQUItYw?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 11:08:22 GMT",
-      "description": "US reports highest number of measles cases in 35 years Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "CDC reports more than 5,000 measles cases, highest number in 35 years - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGdTMVVFUlVIN1hESU1ieUlPUUR0ajlnUHN1RnhDT2NZRWJYQ1JmVkxyc1NYWEZPSndQeV84QUlYZ2U2X2puLVhtbENfbzZocjQtZ0JubGdueHI5X2lRcVJ3cF9zZzQwcEpHM0RmUVZBclNfNVpNQXdTUUxYclh5cGluZUNzTkpGZndjRm0wb0haMm1fTGQ3WEMwRHU2MFR2aGNZTWRQTGs4czhU0gGyAUFVX3lxTE0yVnJOd3ZFNjlVX1oybGp6c2x1by1aa2ZkT2MtMHFhMjFtclBsWUFSaktjT2tJVk1hbnpSb0FlNzRDbnRFakJjYWxsLTdnWjJSNllpQW40TXNMRzkzbHk0amhsTi0zUTNrdEZrcjE5aGpBekd4aGZqY3dIZ2Z6bm84TUo4ZmJMV01ONzdqeUZWYVI3SWtoVUNUWXJaWWxXaW41Q0prS3ZUSGpaUWFjbzJPSnc?oc=5",
       "pubDate": "Sat, 07 Nov 2026 02:11:21 GMT",
@@ -606,28 +651,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases hit 36-year high in Minnesota; Northland providers stress vaccination - Northern News Now",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVpxSWJMMWE5empfNEs1bGdrX1kxWjlwQll6bkJxWUNBU0lhVkFzX0gzOE1RVHBfNXkxS3VJY1pxUENuaU81eThseFNManZxY2F3N2NNUUtUWGd4Nm1iU3Z3c2hyMVJhTzdWUVE0T21YS0c0XzYwYmk3Z0psNlBjVVI4WmFERUhaa2tOYXNoVGpnZ0ZQdEFEdW9QSkdRUmRJa1lDUUtSLUlpOHFIdTc3dWpRaUttNDQ2VllsWHNGd2XSAdQBQVVfeXFMTlhoR1RhZzdmZm5UQTlSaW9KaEVjYkJzSV9kaXdXeXgzTUgwZUhzbmY4VWVxZG94S2N5N1lYM1otQ0dmZnZXTlppRjhFX0RfWGc1aG5TYnFLNkFnMzdPSkFqMjhUaHBVOVZrYlVESVpiVUxuTlFORkVSSmhmWWhtUTZJU1NTRHFHaFFGS1dMaXdSZVJnSDI4RE0wRFpTN2NSMjlPSFppRWRqVm5POExlOXpPV2xnTjJESFJvc3N3THJ3ZTdvLXM4d1JxUmV4V0U1ejRNYVk?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 00:57:00 GMT",
-      "description": "Measles cases hit 36-year high in Minnesota; Northland providers stress vaccination Northern News Now",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "US measles status to go up for review - The Hill",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOangxd0dWUTJJdnhzWUYwcjJWbXk3M1RzeG5yNm1rUHJyMENLMmdiTWhhb0VNRzhHNVRaLU8zV0ZrUWpkaFcwS1NWazFfMFRRZDRyRm9nYXdDNXdLVEN5TmJrRnBzVmIzSjNlWU9zMFZKWm9ETkI1UkFLOGUzdW92RGlZLXpVSlZTUFBz0gGQAUFVX3lxTFBPUmRuNW5YQ051dXZvalh2NGNsNDNaMERPSWctN1hkckY3RkpScTQyMTBMYUF2eEFLb21YVGg4MHV5VkdEcFp2QVZjZFpGTkUtd2NfYTR6RTZxLWN6ZmpNTzhFTDN5R0lKNExPSXlLekdrbW5KVUhCWnBWQm9xdmxYMm9icV8wc0xHbjRZbjgyRg?oc=5",
       "pubDate": "Sat, 07 Nov 2026 00:56:00 GMT",
       "description": "US measles status to go up for review The Hill",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Possible measles exposure at Wisconsin hospital emergency room - FOX 9 Minneapolis-St. Paul",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdlNNakJfREsyb01ncU5hMF84ZVFUYkk2SEY3TWFxaDNqeWVxMFhYYnlBcHA3cktMbmZjblVwQjVlMTFla0dwWXJVT2hKbDVaelV4aHcxVEh3QmY3VU14NVVXU1JqMUw5clZMMnZlOHJJWElzcTdUdURqaWd2emZJWXQ2V0FFY1Y1b1RKcXZn?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 00:50:20 GMT",
-      "description": "Possible measles exposure at Wisconsin hospital emergency room FOX 9 Minneapolis-St. Paul",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -741,24 +768,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Cases Top 5,000—A 35-Year High—As Illness Spreads In These States - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWHpvLTVCSVRNQmtFWEYwcFJfQUlGTXRKUFlCNFROMlRMWXAtWVVMX05hbTFFb3lIVzVIUnQ0a0lMbDVzWmFuVDNiYUN1c3ZKSlg0eWdFSjViQTZoZEZ3N19DdVgxYmlEejhVTkFjR0JNVUtWdHctUGRfRWVLQXV5aWNWMDBHSnJKZE1xR29xVXJuWjZHNHJjY05WM0kzdF8tWnNSbVRvd1lsSG5IbnM1cm94U1lXUDRHWGwwcXlQeC0wRzc5NUVxZ0lISkFLdzkwY0E?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 17:40:04 GMT",
-      "description": "Measles Cases Top 5,000—A 35-Year High—As Illness Spreads In These States Forbes",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Wisconsin reports measles death of a baby, first death in over 35 years - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU9Vbm5zSFB3TTg4ekxyOGVGQ1JiX0p1cHBtNzFRcVlNVm8tRzRLQWVINnE5ZWFSNk9xUEJoTGF0NHJ1WTBZRGhvVmM0b05EM0VTMTdIWG96aTFWQ2hrYkxEUzhLOHdmYXF0ZHJkZzZ4cmRfTTY1LWM5UEdIZVk4UXVYaC04bk1VODBXY3pzS0hDUW9mM1JWYkhDMUhqZnZQb3hIRnZVeFVKRTZEbExV?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 17:06:32 GMT",
-      "description": "Wisconsin reports measles death of a baby, first death in over 35 years Ars Technica",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "A once almost-forgotten disease is spiking in the US. See latest numbers - USA Today",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOek9qQUhnX2FVMFZBaEhkUVVCeC13a2VldUJvRkNFUzFLVHNlUEJlNDJ4eV80dklCS2JRc045c3pUY2c5cnZuUnZaUnk2VTJHcjdtU0wyendPN3d3dUt4czJFZ0JyRjVMQ0JWNWNJN3Q3ZHNKa3F2RU5wd1hpanpBZVd0RlkyTWo1VmFUVDJJakc0bmR2S3YxLQ?oc=5",
       "pubDate": "Fri, 06 Nov 2026 16:50:00 GMT",
@@ -813,15 +822,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Minnesota measles count soars, with 80% of cases reported in Todd County - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWlJpTFZNbEVhcU5tS08zN1l4Sjg5TXpEMXE5Y29ydk9SRi1wTmh0VjBkSm5JS0c1T0NybXNiNDhrZUJBdlU4Yk9nNng1dVNDU0VtWmFFMXA4eDdFbFFwWHpYOEl1ai0zaVZmclk3ZXV1SldaLW5KcGp0OFdDbnZCZHhPQQ?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 02:20:00 GMT",
-      "description": "Minnesota measles count soars, with 80% of cases reported in Todd County CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Wisconsin reports its first measles death in decades, the third in the U.S. this week - NBC News",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUDhlYWlRSDEtX3REZ0FVZ2wxVDM0SjZDVHBuSGZVVDNZUjFIYWVXcmNhVVFBWmlLak54a2Q5QTkzQ09IRlZtMHQ3M01HaC1CamVneUN0V2pfOXpON1Bra3hBamZoYXNSdHBPa1NzTXBqb1laOVFBcGhUVGlOdzE2ZnA2QzVfbXlmZjVzcm1makp5TlAzQ0E?oc=5",
       "pubDate": "Thu, 05 Nov 2026 22:24:21 GMT",
@@ -853,15 +853,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc0hmZFhNUmxGbV95SjVMVHRBczRmYlpScVk0eEgtcS1PY3lTaXVnbVptc1pjWEczcFRNdHMtX1FvTUtMYkZOQmdYcTlNMERtT0UyUmNSbmZwQjZIdWRQLVBkSVJPUXh2MmZhUlRYQWpmMVh2ZkdyNnI1M0dRbkJSaElGcVVkaEFVa2c?oc=5",
       "pubDate": "Thu, 05 Nov 2026 18:56:00 GMT",
       "description": "Infant’s death linked to measles outbreak in southwest Wisconsin WPR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Infant dies in Wisconsin measles outbreak, first such death since 1990 - WBAY",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa19pSG5QZjhzbS10MTFYM3RVcktsQ3Byd1FsY1R4dkpqTGdTNkUzdzdKTjNPQmczelZpQm1JNUVKbkhiRTlGR1BBVk9rX2ZNcTRLUVlDRmQtS2JmdGJJVGR0V3RiZUNCOG1HdFJPMUdtQXFwNHBIM0xEdlJsTldHUXI0dmdpNWpEMkxtRmdGR2hQTjNpc081Q0FKYkh2Q0pZ0gG0AUFVX3lxTE5pM2hBcEVHaE93V2RWRTJ0RXJPRkJBRFNtUUlrdXpOUTBkdGpMVXROYXFpb19wOEhiam81WDMxQ3BFU1hhUHJHSU43cXk1bG9YYmUwZXItLUFsMU8yQ0xvRlU1LWdzckljRXNHaTFSTUo5cndJR3U5SUdlSW4yZjYxMldmLXZJSndadnVGZFF4NEw5dnA4aE1WaTc2d1EtTzV4R3BOenZEZUtyRE1VZERjNzNlRQ?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 17:58:00 GMT",
-      "description": "Infant dies in Wisconsin measles outbreak, first such death since 1990 WBAY",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
