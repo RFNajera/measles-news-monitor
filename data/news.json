@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-10T00:33:52.113Z",
-  "itemCount": 97,
+  "updatedAt": "2026-11-10T01:14:36.295Z",
+  "itemCount": 96,
   "items": [
     {
       "title": "Measles reported in Shawano County amid Wisconsin outbreak - NBC26",
@@ -48,15 +48,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases top 5,000 as disease continues to spread - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hZ2lWVzdEcy1faS1BNDA5RXZLaHBXQTZUOVVQZHMyY1dTUGV5ME9KM3R6eGU3UjlHWkhNS3MtUlFrcGVZYzhnZ0FhQXl3WXlETm5uaXBSeENSWDBnbWh1eUk5SC1rNXUxRlNybEZvT3NVNW1wUHN2bFYySVE?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 23:12:38 GMT",
-      "description": "Measles cases top 5,000 as disease continues to spread Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "U.S. measles deaths raise to 8; CVS pharmacists discuss common patient concerns - WJAC",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS1h5ZEEwRkdTZGdRbzdqeWpBUWlFUmxYVHBNRXBQTFZEUG5heFVCRHN5cEw2RURDTkh6eThHU1h4Y1VDQ09HTmVMXzJMVklOdE1NSnNiai1UdHk4Nkgxd3JUWTdZVU91c3NzdTl3OVJLamFJcDk3Q21SNUlFNGF2T3JFdGg1SU9KQ1BIZFlzZlVIU2dLZTZyS0tDWjdGQ3Y5Q1BlcjNBWTVmQQ?oc=5",
       "pubDate": "Mon, 09 Nov 2026 23:10:45 GMT",
@@ -79,6 +70,15 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQzhqQWxCckJBYksxbjFfX05JQUlzZDNDbTZhTW4xenVGNG9XRWRCQ2JuazNweFFTbEhfY3Q0SW5rc3BYQXRvTnY4S0JZeGRrMVg0YXJONXVxVThtbEc0RXJZczhpQ1RWS3FXanUtWkwzYjRQaUtRMm1PNTRDUVNWYWFNUmZIaS1BLUdERW9ITHkzNDM2Vlc1NUJjUGI2dE8xVkRQdWhXQlllVllkR29la1RmYTcxTzFXR1ZXaVZBU3FUcXRJeFZwN21Lcw?oc=5",
       "pubDate": "Mon, 09 Nov 2026 23:02:00 GMT",
       "description": "Health officials speak about measles in Marathon County WAOW",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Vermont health authorities confirm first measles cases this fall - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEF6SmZIbzZVSVY5SzNYd1JNdjRDSlZhb2twa0lBeHhqaXZKUHBuRHV1WDhBT0djR3h0RkZid0VsSGdFWnEwT2ZzNC0tMktHMTFoMHNTd2pKcS1sdWhsNXZRM1o4eklrVG1kdTkxbXRiN05XdnNnLVNuR1B3OWd2YlhzRjN1Tzl5amVvVWJpNU1LZkJQQk1wLVpR?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 22:54:46 GMT",
+      "description": "Vermont health authorities confirm first measles cases this fall Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -131,7 +131,7 @@
     {
       "title": "Pa DOH warns of possible measles exposure at Penn Highlands DuBois ob-gyn & lab clinic - WJAC",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZFlVSmo0QmNUdlMwdGppWnAxOUJUZzg3VEplLTdGSEhma21oSURyUDB0YXlPemNjQTJCSnBDWVRscmhuVUJONlRJa3FUbGwyOTh5WEl3SUM0SS1jNGdQZGljQXAyXzFuYnVmNmYwUlowdGhybjFfMmNtQ2tjRC14VWdKRlc3Ml9OekI5VkJvZW5uZzNxazUyYy15S1JmeW1YcGxabkFWa0RzV2FSaWItM0cyNUw?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 22:23:18 GMT",
+      "pubDate": "Mon, 09 Nov 2026 22:23:56 GMT",
       "description": "Pa DOH warns of possible measles exposure at Penn Highlands DuBois ob-gyn & lab clinic WJAC",
       "source": "news.google.com",
       "sourceType": "news",
@@ -231,7 +231,7 @@
       "title": "Pennsylvania tops 1,500 measles cases as the U.S. could lose its measles elimination status this week - Inquirer.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejJOVnZWWFdXWmFseGlMZ09mdGtEUkN1aERLV1JFZHJoYzA4M1M0dnFJbGtmeG1QbXVGZ1IzRHVEakVfV2txZFJWdkJKWkcxbXo1dnJrVDl2YXVLQW5LaXA1bWMwa0pabW11RU9XM2VmR01ET0F2eHEtS21QeTFuQUlLS3B0eWdGRlFJUFJzSm56cFN2eEJ3eHNQTHNxVFFUem5n?oc=5",
       "pubDate": "Mon, 09 Nov 2026 21:02:55 GMT",
-      "description": "Pennsylvania tops 1,500 measles cases as the U.S. could lose its measles elimination status this week Inquirer.com",
+      "description": "Pennsylvania tops 1,500 measles cases as the U.S. could lose its measles elimination status this week Inquirer.com Pennsylvania measles cases surpass 1,500, state health department says Reuters Health officials report the first measles case in Bucks County WFMZ.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -291,10 +291,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Vermont confirms Essex County measles cases - WCAX",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWtTNjJfdnpfbnV0bTVZSUJmUVRqRlVuc25PMl9OSVZuMHIyakpqOWM0a2ZsOUlySW9xcTdoS1ZXeFZLNl9heDZuUXRHUzVMTXRGWFoxZzJGMzNRbzVEM3ZSZ2t6by1QWGxvQ3FURXJWLTJhU1VFTVIwOEdTbUE1ekRB0gGWAUFVX3lxTFB4bW1aWlVsV2lPZG9OcGNHRGYxZkZmUHF1UFhQVnRGRC12d29Iam1rYkpLR3BZQ0k4ZXl5SUk3eU1PajhuNGRUdEVBWjFNV21Lbm1ZYTNVQWJPX3dHeUxzb0IwQkdyajV1UkZRdlZiRHVtODZZMFI0ME5YY1JYS0c4RVBYbzdPSTR5OXpTTzNSRXZqa09iZw?oc=5",
+      "title": "Vermont confirms Orleans County measles cases - WCAX",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUlptOVpVdWRTcWRhM0drT2tTcUNIZTVUdkp4WTNycmZPbnlXd1FwRW1wY3hWRks0STRaUlJidGxYVEtlS1RUYUw5Z0NvdlBVWDdFSUV2Sy1Bc1lpS1h2cjZNMlNlS0hyZkhLMS1KdGZBdXpyRmZBQkliM3lrS3pzZE1wZU3SAZgBQVVfeXFMUF83WXgzZndIT05KOFpIR1JaVnZCN3UxelBlRWg0TWlrOFliRWJocWd0MzNaeC1MMm1oN2JqUUlpTDhoQzhhSXZHWU85SHRlcWEyT0tzRWZFWU1YOWNqM2wxRGFVYmx2OEVYenJWM21OYWY4T2FKeDZVQy1DY3g2TFVFREd1UUI5b3ZyME5Ja2NJTWVzV2c1MWY?oc=5",
       "pubDate": "Mon, 09 Nov 2026 20:00:00 GMT",
-      "description": "Vermont confirms Essex County measles cases WCAX",
+      "description": "Vermont confirms Orleans County measles cases WCAX",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -304,6 +304,15 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQThZWUpqZWhzSk1ES0FpME5vQTZhQVZ3WGdXWTZuS1JJWjNsRUJBcXdJOGNrczMtNG0zUXM2bElFT0ZvR0E2cWdhdFVoV0NZTXlxT2p1OXNKZnYtUFB0NG8wMm5yNmZBaG1XMHdsWjZQTDRHU3BqVlV1YXU4dXNQVWQtVWhPS0pHalE?oc=5",
       "pubDate": "Mon, 09 Nov 2026 20:00:00 GMT",
       "description": "North Country Hospital screening visitors for measles WCAX",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Bucks County resident tests positive for measles after traveling to central Pennsylvania - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlo2NllIZzUyMEs0c01GRk5JM1R0ZVRmaEZ5LUtrM3ZWY3VhQ0UzX1hwdnplRmlxdzVrbnVLUDViOU1sTTJQbFIyYlNRQ1hOa2c1WlhFYmQ2aGRULVlFdndzX3AwSUs1ZW1CRGQ3dnBDWE1aMUxqRWw2el9tUm80Wi1xWWdhcGNfNmxaZw?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 19:58:21 GMT",
+      "description": "Bucks County resident tests positive for measles after traveling to central Pennsylvania CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -322,15 +331,6 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTUZKMjN3ODlsd1NQRktDQnQ0N3F2VHJ5MG51UUtOVEZGby1oUC1jUXc2UE9Na1QwcWd3bDltTnhCWmF3SGQ5X0xQdnMwRlhGWmdKOGNLV3Q1YjZvb1hzUEUtT2NYUGt5V1FMay1IVkpLOF9uMDBNaE9qYkowS0FQVC1mUFpwbzFPUVBhRW9RYnR3YjU4dDE1YlpxbmJDY21KczFkeGNtNm05ZVZFWEtxd0I5RGY2VWxwX1dNcjBGUnZJeW1PenhqRUVR?oc=5",
       "pubDate": "Mon, 09 Nov 2026 19:44:00 GMT",
       "description": "Indiana is fighting a surge in measles as cases spike to 145 IndyStar",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania measles cases surpass 1,500, state health department says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZlBDc1VkbUNucExONmUyUzZkdXNaTlFaUjlGTWdSMmxNTDZFdW9Qdk9KWWlsOTJzWEtpakNnLUlkTWo4dWJMcGdQZTZNX28wbmktSlVFS0RFNm1nSDN3M1R1MnBxeEJjOEhVOF9xNU15dnh6aTladUxoaGNoSGxwYXNWQ1RmLVlLTWdkREdxMkliSFRJT2xwVjlZU29nU1k0OUlWVHUwNUtmLTExT1hSVjg1ZU8tT2dINUxCSTF3?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 19:35:43 GMT",
-      "description": "Pennsylvania measles cases surpass 1,500, state health department says Reuters Bucks County resident tests positive for measles after traveling to central Pennsylvania CBS News Health officials report the first measles case in Bucks County WFMZ.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -844,15 +844,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
       "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
       "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Wisconsin reports its first measles death in decades, the third in the U.S. this week - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUDhlYWlRSDEtX3REZ0FVZ2wxVDM0SjZDVHBuSGZVVDNZUjFIYWVXcmNhVVFBWmlLak54a2Q5QTkzQ09IRlZtMHQ3M01HaC1CamVneUN0V2pfOXpON1Bra3hBamZoYXNSdHBPa1NzTXBqb1laOVFBcGhUVGlOdzE2ZnA2QzVfbXlmZjVzcm1makp5TlAzQ0E?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 22:24:21 GMT",
-      "description": "Wisconsin reports its first measles death in decades, the third in the U.S. this week NBC News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
