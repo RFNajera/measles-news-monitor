@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-11T06:23:50.805Z",
-  "itemCount": 97,
+  "updatedAt": "2026-11-11T07:15:37.183Z",
+  "itemCount": 98,
   "items": [
+    {
+      "title": "Health officials warn of possible measles exposure at Sturgis urgent care and Three Rivers ER - Medical Daily",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONThMM3Q4NDI5WkxXd2ZlZkdPWE5tWXNmUUZ5d0JOWGtrMDQzdF9FS0FTZHE0dGtULXFObGpkeGJHTlJYeWMtY2gwWm1yV281TU5RUTJkeXpJWXg5UGlBck52OWRzVG5sVkY4cHU0ajJLX0JGVEVWdmhTeWZLdkpCWUhoX05BanFnLVpJZGNR?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 06:17:53 GMT",
+      "description": "Health officials warn of possible measles exposure at Sturgis urgent care and Three Rivers ER Medical Daily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "America’s biggest measles outbreaks have very different death tolls. Why? - KTVZ",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHJ2ZjB0QkVESDlvdEJlWldHb041TUpDUnRzSENUU0JLb3AzVTVXMVBGVEZqd01SdWZBc2s4c181ZEVWUUJLRnhOQ1BCdHJOVlZITnJnR21YUmdtU3Z5RXVLaGVJZTBaOGYyY18tX09NY0NPMDNjU0F2bXpEZHZ4M19WNERMRkVNd1pzVzM0STdhY2tyb191bi1lYV9fTHV4RG1BZU9GY3l0bmtjZ0dlUHlGVnE?oc=5",
@@ -174,15 +183,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "The U.S. Has Lost Its Measles-Elimination Status, Data Suggests - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbVV0WUVWekthbnc5OWE0U3FxNzRDMzJIaTZyZGZuTTJfMW1BbVZCdHNXcExlQXhUWVVDSEU4MWxKRlliUWFNTUxXZ3RncXplUnVBM2JEbHlJRVBSRkpDdVZLUDNxcjhLd3VFTkthc0ZlQm1BNFhsRTVSTkoyYkdKaHNvZDlUb1haQ2k5Yw?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 23:00:41 GMT",
-      "description": "The U.S. Has Lost Its Measles-Elimination Status, Data Suggests The New York Times CDC chief says agency will not change measles response if US loses elimination status CNN America defeated measles in 2000. Vaccine opposition brought it roaring back. NBC News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "US risks losing measles elimination status as cases climb - KVUE",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3VhRlpVdkN4MlZQMFdsRUtQTGdHMWxlUV9HNjBFWTF2OHhGS2dQMTFqcVVEV0FtaXpUQ1lSVm16RGM4bVFQZWxsSjR2VUVNQW01QmhJOERXeGtOSHBIeVRLcEtnQlR3QXJqLVQtWVYtNXpkdVJpSzlFZ3NodVhiOVFFRC1CbDNwQTlXUXotMm1heWoxYTU0eEtKbDVxdTZmYklqclFMcmMtVE5oaVE?oc=5",
       "pubDate": "Tue, 10 Nov 2026 22:58:34 GMT",
@@ -264,6 +264,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "DPH: Three more measles cases confirmed in Macon County - 13WMAZ",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaGtiZWxIcEFLRG9UMVJ6SnZMcnAxcElZc09YYjN4TWE5Y2V3TXZmUWtELWNHX20yQVF3S1VIWDc0QjdWaXRzOW0zMjRQc2VkVFNZLW9UYzEzc0FUaGUyNlNCckFaNUFqWXpBcUttdXY5Zm9LUlRfNXJucW9zdlJZaXQ4Tm85MkdKR3BvWkVWVjFBNEoyRXZLaVhZZjdBcElHOVROdkZzTDZEZGNxWTBFYy1tYkkxR1ZXcThjU1gxTlpicmJZWlE?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 22:16:00 GMT",
+      "description": "DPH: Three more measles cases confirmed in Macon County 13WMAZ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Will the US lose its measles elimination status? | Newswise - Newswise",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUzJSc0JtaDJ4bEM3eW9iQjA3dmJadFVhTEZNTHhBS0RESjBKZU9BOW55Y2x0U2FPZUFfTWg0RzYwNVhhaDFVLWxENFhHWEs2VnNoV04tcmdLdjEtTDhZSncwZU05bjg2SVZpLVRVcEllSXhTMTEzUnI0bTh4NDVGU3A5cXc3czlE0gGIAUFVX3lxTE5TMlJzQm1oMnhsQzd5b2JCMDd2Ylp0VWFMRk1MeEFLRERKMEplT0E5bnljbHRTYU9lQV9NaDRHNjA1WGFoMVUtbEQ0WEdYSzZWc2hXTi1yZ0t2MS1MOFlKdzBlTTluODZJVmktVFVwSWVJeFMxMTNScjRtOHg0NUZTcDlxdzdzOUQ?oc=5",
       "pubDate": "Tue, 10 Nov 2026 22:15:00 GMT",
@@ -277,6 +286,15 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdDc0U3ZDbkRiYzlHM2FhWXVwRkhJUlZoalRVQmMtTjdHaDlaSmlpdkVnMjY2TmtEd0g2akJvYTdRSmh3N3I3VWNnWFhYYWxkOVU5MlpfUHB2NjBoZERLcms1aXZRU19RNUtpTzZJcmNMQkFITXl1UzNuRE9SN0JLWjVMRGxYWlFreXJGckdwYUU3X1E2aU5tUVBmaVZCaGxlNU5WbXRmS0N3a29KQW1ENDJyMVpDVmdENk9j0gG7AUFVX3lxTE90NzRTdkNuRGJjOUczYWFZdXBGSElSVmhqVFVCYy1ON0doOVpKaWl2RWcyNjZOa0R3SDZqQm9hN1FKaHc3cjdVY2dYWFhhbGQ5VTkyWl9QcHY2MGhkREtyazVpdlFTX1E1S2lPNklyY0xCQUhNeXVTM25ET1I3QktaNUxEbFhaUWt5ckZyR3BhRTdfUTZpTm1RUGZpVkJobGU1TlZtdGZLQ3drb0pBbUQ0MnIxWkNWZ0Q2T2M?oc=5",
       "pubDate": "Tue, 10 Nov 2026 22:15:00 GMT",
       "description": "Measles Outbreak: UWF Experts Available to Discuss Transmission and Vaccine Hesitation | Newswise Newswise",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New close contacts of previous Macon County measles case brings Georgia’s total this year to 28 - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWG9YUHdoTmdDcWtSYzdXVmdPNHJFSFRBRFFDaWs2UHV4VjE2akF4al9TZ0tKcFNKM1A5NlpBenF4aEJSNU5GR3RkRzhEMV93TzRDUXZkaGJqVFkyeEthdGhiNW54WDhFMHJNNnBRYmo0Y3BzM1lMdWt1R3M2ODdyNm5nQ2JFdGR0OEN4Njh0ZGo0aTBH?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 22:11:22 GMT",
+      "description": "New close contacts of previous Macon County measles case brings Georgia’s total this year to 28 Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -309,6 +327,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "America defeated measles in 2000. Vaccine opposition brought it roaring back. - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZFZpR3hpVjRmWGtRUE53enJzSC0yX1BVV3paRlY1NnRnY3pIOEdwekZRYnpzbnl3ck9GOVBJb2NQQ2ZlZ2N1RUFLUk5Ec2ZNdWpUMkNwUVFiZVFHTnRmSVpzakxuM0t6MWs2UkZSQm9qMi11WW9ETGJYRVFEekJJRFhxTmlpWTQ4c0c1TkdNaXdyMDhiRWsyM0RBVDZLcUxtQkFySzdrNk0?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 22:02:55 GMT",
+      "description": "America defeated measles in 2000. Vaccine opposition brought it roaring back. NBC News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "What are childhood vaccination rates in your community and schools? - NBC News",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZW1OeWIxR1BmZXVHdE9YRFBUcVlLQ0dSdEZZWWZITE02dkwxT3kzdWRmNXF2VjlmNTFxOE5xXzNFSm51RFZ3QUhnV0l4bFZialJGbi1ZSzM3TnZZSG9WWVJRUFJrbXJhcG9LMlVwcEg2WTNvWWhSY1NyWENOVDU4NlQ2NVpMNVdZSEJJdVdIQmhmeElDX1h2aVVGTUQ5NUxUYVIxSzBCU2hJVHhES0JITHMxaXo?oc=5",
       "pubDate": "Tue, 10 Nov 2026 22:00:40 GMT",
@@ -336,10 +363,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Despite risk of US losing measles-free status, CDC says will not change response - The Jerusalem Post",
+      "title": "US CDC will not change measles response even if it loses measles-free status, director says - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbjhtVG83dVFRTV8yanN3ZmhROU1WN2F1eHFCRTcyM2Y0SmVxLXZ0SEVpSnlXMGFQNEJ5eEtBQkNuUnpEZVZhSDZ5dEUtMWZpMjUxQThWYUV4N3lVc0lHYmNrRy1UV0Fjc3hPQ3VvWW5WeUZSNVFPV256MDdodlFaME9PN2pud3A2SmFkS182UXZIdVhpZnVyUw?oc=5",
       "pubDate": "Tue, 10 Nov 2026 21:57:26 GMT",
-      "description": "Despite risk of US losing measles-free status, CDC says will not change response The Jerusalem Post",
+      "description": "US CDC will not change measles response even if it loses measles-free status, director says The Jerusalem Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -471,15 +498,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Kentucky measles cases rise to 207 as Bath County reports new infections - Eyewitness News (WEHT/WTVW)",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGltUW4zdGg2UUtjdHZ3bjdCXzNGMUF0a0tza1NweXI0U3dhdXJ6Q204UTdweUpfNEF0V0tFNlFLRzFJZTcwRGFLZ3Y2TjNhb1pTMGNXNUJWaXJ4cDB4YV9fQkM1dzVrQkhBbERoQUxrc2ZBdHNURFNNVTRkSmpsRlYwUHR6Q2xwOUtPWXk5cVZ4c2Z5ZFFURmstai1hOFpta0FLVkhYcDdoVERMS25RUNIBtgFBVV95cUxNbDNzd3NIdlRXeUtYdnBqeTBDTFd1NVRMbnRYYjUtaDZDbUJjTi1kRTJFNXdnLThtOHdLb1hkSHEtNTNKV01xaENfQWxJYjR3NzA2aGZIYUNNcjRDZTBaUVBKYXI5QzBEamtNeXVOVHJtaU14dEF0T0F2VXkwNldGVGliU0ZramFUa0YxczdTZVJwNzRBSkxEbzRpS2lLdERHVFcxbTFnZWlGdS1yRG1vZGJQUEVmZw?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 20:54:20 GMT",
-      "description": "Kentucky measles cases rise to 207 as Bath County reports new infections Eyewitness News (WEHT/WTVW)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "US measles cases surpass 5,000 in 2026, reaching highest annual total in decades - kens5.com",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV1E1M1VUdHJWUHA5Vnl2Z3lySDNCOExBc2Z0c3hob2FoSDREdzJzQVl2b1JEcTA5TzJiOHBrd3piV1dZd2Vrck1FSmxIVktKTEdaSGxmNXhPbjUzcHU5YTV6cVUwX2NzVnphbGJpN254Z1FCS09qZ05pcUE3MUEzZ1dzRTlDRWpqTmFxWWRTQjFYNmNsNmFEd25IWFZrLTBZT01RLTdQcFpsMHVTMUlRQ2pFV1FVSFdRSWZuX0FwVlhQbTJadmc0dDR0dV96UURMT1NHckVRSFpaUUEwT1M4TmlKS2J2dmI1eDQ1WmVpdWo0SUZmM3hr?oc=5",
       "pubDate": "Tue, 10 Nov 2026 20:19:01 GMT",
@@ -509,7 +527,7 @@
     {
       "title": "Todd County experiencing a measles outbreak - Alexandria Echo Press",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeVNQckNKcWhCVFpYc0RpVy1EYU5KcENfVDJsdmF6T3Qzek50NWNmOUVGWUl6TVFEbGNxU0FNdWxuby0zazBuRnQzNUJnaDJ3UEhYT2sxQ2R6bmd6U184SnVMd2dWWVMyUHJwamRDbzhWVTRtWkhCako1dWJfb2d6eUszS2JGbGM?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 18:49:10 GMT",
+      "pubDate": "Tue, 10 Nov 2026 18:48:00 GMT",
       "description": "Todd County experiencing a measles outbreak Alexandria Echo Press",
       "source": "news.google.com",
       "sourceType": "news",
@@ -543,15 +561,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "The U.S. may be on the cusp of losing its measles elimination status - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjBhdEU3TmhkMlFHa3lVbWVBbXV4MGlCRjJ6MXVxRHpsMkFuT1BRcjRFMFNhT05OVW81a3hpVXdZVFlaTTRUSnJQRUNmVVNCUmFwUTNzekJLWWswZUpLN0hHdm15NGh0azQ5d2E1MW1NUHBXSEt4VWZpaUhmYlhHSnFKVTNKckdpelhvQQ?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 17:30:00 GMT",
-      "description": "The U.S. may be on the cusp of losing its measles elimination status Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Bucks County reports measles case; resident had visited Central PA - Bucks County Herald newspaper",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMG80bTl5aXdiSDlWLU5lS3ZFQXhsWHJENVVMWjN2VmZKbl9nNlNCQXZWd0hoS2Q0MVdTT0NQTlo3WWNNaE53aUN0X1lJWVk4ZDBHcGlBVDFLeWt3NDMzYWNlRzlNUlUtRm5lZHBOWGowZnBUQzVrSzg5Y1dheDdXd0h2aDN5dFBHSFdBUWpGbVhfRHQ0bnV2cWJIc3VuMUtrbjJ2YnFPLVB0b3N0V0ZkY1pqXzlpSl9PT3BKWkthMXFLdFo1OUxudDhFMUtzQjhJYlduVU1YMDBGeVJyZU1oTEZYdDhQRG1jel9CNm9Pb1NLYU5rcE1UQkpjMkVWWTA?oc=5",
       "pubDate": "Tue, 10 Nov 2026 17:30:00 GMT",
@@ -561,10 +570,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Forges a Deadly Trail Across America, Exposing Fractured Health System - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZTVVOXNOYXdzVE1SSjhzVGxiQy05eG55Vk5nMnAwdUR0alQ4MDI1ZDZmQ2M5ZC1uZTJSVzhSRU4zMk92cXZqNERqSUxxWnFmbF9UUmdmMHJnUURWaTNqc1lPbXZROUF2WlotTUNUMkxrR0VfUGNnVWV2V2N2ZlRtbTN4SWZaN210eVlPeE1CWExoZ1B3X3loSzNtME4wZWVlSjUyMFVlamlsR3o5eU9nOGJyWUdNbDBDTHhQRw?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 17:17:14 GMT",
-      "description": "Measles Forges a Deadly Trail Across America, Exposing Fractured Health System Bloomberg.com",
+      "title": "The U.S. may be on the cusp of losing its measles elimination status - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjBhdEU3TmhkMlFHa3lVbWVBbXV4MGlCRjJ6MXVxRHpsMkFuT1BRcjRFMFNhT05OVW81a3hpVXdZVFlaTTRUSnJQRUNmVVNCUmFwUTNzekJLWWswZUpLN0hHdm15NGh0azQ5d2E1MW1NUHBXSEt4VWZpaUhmYlhHSnFKVTNKckdpelhvQQ?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 17:30:00 GMT",
+      "description": "The U.S. may be on the cusp of losing its measles elimination status Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -579,19 +588,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles cases pass 300 in Ohio as US is poised to lose elimination status - Ideastream",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTzB2c2FSRVJNV2Y3NFV2REJiWXFpX1lJQ2pGWVRHSVFhMXFCbWZVdGl1TGxzWjFyR3dyUTRFSlJlN2VHejNzYVBLUi1VU0c1NUd4MmVBSXpKZlpTVklDd0F5Z0VRa3hZNkJPUmhNYmp3cnVHVW52eUx2SXRERjFiQWFlRklreGVHcVJUTjRrOURyRy1iZ0tRWGkyLV83cTBnSmxlaGM3bDV1dUNWRHQzQ3g0X2d5NTFZcXFN?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 16:12:00 GMT",
-      "description": "Measles cases pass 300 in Ohio as US is poised to lose elimination status Ideastream",
+      "title": "The U.S. Has Lost Its Measles-Elimination Status, Data Suggests - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbVV0WUVWekthbnc5OWE0U3FxNzRDMzJIaTZyZGZuTTJfMW1BbVZCdHNXcExlQXhUWVVDSEU4MWxKRlliUWFNTUxXZ3RncXplUnVBM2JEbHlJRVBSRkpDdVZLUDNxcjhLd3VFTkthc0ZlQm1BNFhsRTVSTkoyYkdKaHNvZDlUb1haQ2k5Yw?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 16:14:17 GMT",
+      "description": "The U.S. Has Lost Its Measles-Elimination Status, Data Suggests The New York Times CDC chief says agency will not change measles response if US loses elimination status CNN Measles Forges a Deadly Trail Across America, Exposing Fractured Health System Bloomberg.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Bucks County reports first measles case - NBC10 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZzVXbmpFZ0J3ZEhOQjdyZ2Rxdmw1aTA4ZGpUODJyR3ljd09iNzRnSEpFWWNQaHFfVVJUcXlvdEtMOE9Ddnlna2ZHbWtIekdyTXBESlVMdml2UTlUQlRxZDJvZ3hjY2w5a1FETUdzVnp0NXdqYUFkalJucThBNVVHd2lrYUFJekVIM3hsV1k0T1dyNDZiWHZSOWluUTZZUdIBpgFBVV95cUxNTWw4QzNZbmRqX0lmWGY1WDdtR1NmamxCWVJjV21MYWs4RzNBX1VOckR3UmphZWhFV0ROenlZWVFSSG42dlFFLXZ6MXkwVTFLVG0wWWNoNE9jUnM2OEZjMUJwNmFvajJHMGZKbjhnTGJIUWtCemg4SDJOMkpFc1VienprZ2YtVjM5VEN0RVVUbjVTYm9GVFVvQmlQUWwwajRrRzg2WmZB?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 16:11:07 GMT",
-      "description": "Bucks County reports first measles case NBC10 Philadelphia",
+      "title": "Measles cases pass 300 in Ohio as US is poised to lose elimination status - Ideastream",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTzB2c2FSRVJNV2Y3NFV2REJiWXFpX1lJQ2pGWVRHSVFhMXFCbWZVdGl1TGxzWjFyR3dyUTRFSlJlN2VHejNzYVBLUi1VU0c1NUd4MmVBSXpKZlpTVklDd0F5Z0VRa3hZNkJPUmhNYmp3cnVHVW52eUx2SXRERjFiQWFlRklreGVHcVJUTjRrOURyRy1iZ0tRWGkyLV83cTBnSmxlaGM3bDV1dUNWRHQzQ3g0X2d5NTFZcXFN?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 16:12:00 GMT",
+      "description": "Measles cases pass 300 in Ohio as US is poised to lose elimination status Ideastream",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -732,15 +741,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Video Latest on measles outbreak - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fcXQ0YjQ1RkM0VldvSXl4NVRIUWFQTko4TnBXZ3hPNk5nS2Qyb3BGQVNXTEZVSWsya0NXSDhDYmcyLXFmZUZTaDRJU1Y?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 12:31:20 GMT",
-      "description": "Video Latest on measles outbreak ABC News - Breaking News, Latest News and Videos",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "8th measles case reported in Berks - Reading Eagle",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTJROFFRMGc5T0RUV0pEQ3BSdEh1UUFFa3BCOWgtVUdXTUU4NEtIUHplbmJnR0pDbTUycEtBcVN1cHNUMWctdjFRdzMzaGhmYkpHSmR0a01OVUtkb2w2UUt6aF9IVjRmUlpBWmxoa3dwX3NBM0tXV2trUU53dDdYQQ?oc=5",
       "pubDate": "Tue, 10 Nov 2026 12:30:42 GMT",
@@ -790,6 +790,15 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcEpRMnd6ZUhfTFJyTlhPekkwaEVRWWFSN0xSVi1kQzlGS3RvYnp0cGVRVHE2RTRlMVBNWUxUVEtkUU9pVWpDWE5iUmFxTTZiV0k2d1dFVlFGN1ktMjRkWU82eG9nTGR6S3o1UE9nTUc5dTFsNjNrcUZ6UkxiTTRGV3pqdWlTTHJuMC0wR3oxMUpLYjIzcHZF?oc=5",
       "pubDate": "Mon, 09 Nov 2026 23:20:24 GMT",
       "description": "Measles cases found in Orleans County, health officials warn VTDigger",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles outbreak hits Bucks County, as Pennsylvania tops 1,500 cases - PhillyBurbs",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTzJrMEkwdkVQdjZrcGVBVUw0OXJmYmFOWWZhWWh0amg4cndwUWlxcTU3MWJ1Uzgya3BaSVQ4UVM5Tkx3OGlfSC1ZdloyOFJwTjVEWDJsQ3NhdUVMN0RyRTlPUlpySWdKd3pMdkRBOHFtZTZCbjFvVjBOLTVoMVVtU2RaMXRsYkRyUnBDRDMxc3ZzRHV2bE40Y05rTVFoVFJTUnllOFJ1Y2VKMDFNY3JJanVfMHYxNEtwcy13MEhIUDdZVTgwREtTX1g2S05NQ2EwaVl4TnB2ZDI0T1h4SHE1ejZYbmczQkV1aHBVVFI1cFdUTTJkd2NKUEtMeFRHWnkwUG9LVg?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 22:37:00 GMT",
+      "description": "Measles outbreak hits Bucks County, as Pennsylvania tops 1,500 cases PhillyBurbs",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
