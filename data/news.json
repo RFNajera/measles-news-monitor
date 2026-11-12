@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T06:24:19.558Z",
+  "updatedAt": "2026-11-12T07:15:57.688Z",
   "itemCount": 93,
   "items": [
     {
@@ -7,15 +7,6 @@
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUG9xWTMyZ19FMG0wWUZKSHVKMGxRTUNtMl9EY0ktUjNJa1o1ZFk0QnByYVcyb0trMWxlSnJDZVZNX3dnWTQ5M2hOOExNb2xUakptQlV3ZHR0LWJuSzBFNVRkYlA0V041XzlvLVpJclRuaU92SV9LWDdNTVJNb2N1Yll4VmZkOTc4bnctc3ZTNTVEN0xHbkhaNVQ1SUh6THRBeHhldVNxaVdad1BhazJvQzA1VGE1RE0zQmJzRVprNm1VQ0t5UzdaaVBMaGxDZERKSGtzdmNkbFVkUlRvMmJFaHUyaVA4bkRTaVE5aDNSa0lnWEZIeXc?oc=5",
       "pubDate": "Thu, 12 Nov 2026 05:04:00 GMT",
       "description": "Measles outbreak, including 1.5K cases in Pa., threatens U.S. elimination status WFMZ.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Lurie Children’s Infectious Disease Specialist Dr. Larry Kociolek discusses measles classification - WGN-TV",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUEwxUFhnSzJUN1NQanp5ZkxzWF96RHFqRGU1QW42aVhGU0VJRVlsLU5vM3FkWVVfQ0ExbV84WTFrZW5NZ1pNSzRObXNYUVlRYXRpYzVjSXhjSXREZGZnOF9oZ2hyS2dLMDZUYklGVkhHVzFBeXNPZ2RvUmlQYzlITDkwVTlZUmFhX3R2b1NFRnRGajZPa1RkYUVnNlNkS2hQNzRicS0wX01CVTZrVS1DNTY1WE1NUk1rbWw1b1VLclRmOS1GV0UwMG91ZTQ2MzDSAdQBQVVfeXFMT1lmcFVFLXFvQVNMRjgtTEJHU2lkRTR2T1dOMW5aMDEzVkFjelZiMWdBNWtNa2ZRdEQ4a3UzSnpjTjVFRm9ZX3RTSS1GdG9xdVVZSjhkWWRpeDMwWDdaNEVaYk8zOGR4STdVWTJBM01xVFNfY3M0bGVxSUJVUmY4bzZGeDhIN3ZvalFKcDZTejAzdmIzdzZBSXVUZVU4SFg5bnM1d0tZUnZ0dlJTXzNlWGQ3Qlp2RDMteUR4cTkzaXdKTm5yTzZxcU9pX245NnpDV216Vi0?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 04:34:03 GMT",
-      "description": "Lurie Children’s Infectious Disease Specialist Dr. Larry Kociolek discusses measles classification WGN-TV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -39,6 +30,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles case confirmed in Polk County - weareiowa.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWXRHMzQ5emZaNVByQ2hBc2xkdGQwVFZqcHdFdTVoVnU0MmYyaklZMG1wWER5ejUwbkZVZmJGTzlsTEg0XzU0VGdLWVp0ZjR2d2NGaXZNajNENUdJS3RfUms3eVliTl9zcFcxWkRWZ3UzMmw0MXF5dzAtQ2ZyZXZYYkJaYm9PTnFlb3lHdWcwLW1VVVdIRWxiT2l2NVhxNXFGbmVIYlV2T3JnOTZLZUMzc1lMSm9pbUVnaGtOS21KOA?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 04:04:00 GMT",
+      "description": "Measles case confirmed in Polk County weareiowa.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Health experts encourage vaccination as Iowa sees 50th measles case this year - KCCI",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUlBCdS1ObXVySWNOR3Jfb0tyVnZUbi1qZWRmQ0x2MUFtT0h1QzVvdWcwYmpHWjFpeVByNkxudFU0UkExVHVyZjMxYkZITk1DaTZUbi0ySnlJc2lrdVN0ZER0eEQ0WHJTMzIxbHlscHRlS2hVOE1VRnJSNGJHQVMtdk1SeXFYU3ZHMVRtaGRPbkJYdlgyQlhnWWV1cC1MQ1VFMmlrNkFIV0NPWUY0Sk9oUEc1dXlEQQ?oc=5",
       "pubDate": "Thu, 12 Nov 2026 03:13:00 GMT",
@@ -52,6 +52,15 @@
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZTRzakNUWDBOc0lQcG1BY3Z5WjNQTUJwREN4ZnBDV3pQbTRHUGhXandfdDJBU3Vjak5BMkVsYUQ2X2JkM3Q4N2VMY3hiN09zZVM5cXAyNjJCdlVTTjdLNTJQeTZWZ1JVVGdXbWROSUM2a2taWXVOU1RtbERHbWR0SExfNHBUaEhHVkk5dFpmSV9VSVZhS3N6OXZ6RzRNTXpsOExHdzA2TF82VE5WSFVvWFpCRHpvZG1mSk96U2R1cERicUNDVkp4MVBRUHJvVEFISVVkYWVwZzVlTDlTV1dtaEZhSDNZZV96WHk5NGt5WFRpNFNC?oc=5",
       "pubDate": "Thu, 12 Nov 2026 02:59:00 GMT",
       "description": "Potential measles exposure reported at Intermountain Health Bozeman Daily Chronicle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles herd immunity slipping across the US, doctors warn as cases climb - KSDK",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcWk0X01iZjBXcVFtWC1KcWtsSFljekw3YkNpV3dvbEhlSDBMcTlveEQzVGdDT2p2QUMwSUpXcml1TGw3UFdlc2t5WF9aaFpaZ2dHTERHQmJzaWwxakdMLXpjTHZ1UjVlR0NfcHZMY1Z6MUFLazliNWxlYnB5bTZpS1FjRFgzZ2V3ejNHbGFBNzVqVmtVMnRZT3JJRkhTT2pZdnQ5U3c2NTFPSGs2WVdCUkJ3UTBsa28zXzBDekRVc0VqNG5pcXNHRVRtU29pREx6SndWT25IRVhpOS0wX3Q0bk9udE1ITjNu?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 02:23:04 GMT",
+      "description": "Measles herd immunity slipping across the US, doctors warn as cases climb KSDK",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -79,24 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYUotd2JmRUEtc0tSdmdyczd1M2E5RHlNRlg0U0cxSUhpajVwU25vcWg5ZUdVNkJ2dmhYMmNtR01QdE1hR25yVFNlUTd3UFBRTjAyOWFiUFNRaGtTY0hxM1ZDTF9rYkVLSmRmLXlKUHZaOU5zWHUxamlEUEc1U0RmMWx4a1hPazdHeFVZakZfMkgwZ2UxbjNEVnF6WjFYc0FfX2lVQ2FpVkNrOGRmc01ZZF95UUVlZE5sM1pLWUhKd0hDOG1QZFl6SExIQmNkbnZjaFpHZExycTRsQ3NvUy1CYlUtbVc5X1JReHhLeGZFS1NSU2c?oc=5",
       "pubDate": "Thu, 12 Nov 2026 00:45:00 GMT",
       "description": "Southwest Washington data shows vaccine divide amid nationwide measles surge KGW",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles herd immunity slipping across the U.S., doctors warn as cases climb - KSDK",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcWk0X01iZjBXcVFtWC1KcWtsSFljekw3YkNpV3dvbEhlSDBMcTlveEQzVGdDT2p2QUMwSUpXcml1TGw3UFdlc2t5WF9aaFpaZ2dHTERHQmJzaWwxakdMLXpjTHZ1UjVlR0NfcHZMY1Z6MUFLazliNWxlYnB5bTZpS1FjRFgzZ2V3ejNHbGFBNzVqVmtVMnRZT3JJRkhTT2pZdnQ5U3c2NTFPSGs2WVdCUkJ3UTBsa28zXzBDekRVc0VqNG5pcXNHRVRtU29pREx6SndWT25IRVhpOS0wX3Q0bk9udE1ITjNu?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 00:41:46 GMT",
-      "description": "Measles herd immunity slipping across the U.S., doctors warn as cases climb KSDK",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "St. Louis doctors urge vaccination as US measles cases rise - KSDK",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORUpkQ1lCOURYanBmdEw3cFpFN0JFWGQ1T3Ffcm1NVVdIQTAxaHVOV090WnFQM1liQnBsZVpXQXZldHRCckVVNnNUemYzeWtlYkF2dWVJbG92YTlfRWJxU2xoRVA0QzNVRHlEbkZNeGxYWG9pRUIyc1FvNGlwSi1wN3RUdGVpYklSODduZXo3UWs?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 00:37:45 GMT",
-      "description": "St. Louis doctors urge vaccination as US measles cases rise KSDK",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -345,6 +336,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Potential measles exposure at St. Vincent hospital in Billings - Billings Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODU1RU96YjZBd0ItVXVoaGhZUzNVWmxxVHBHc2dHMllSUk5kZi16SWtSVXdFZDYzYXoxOGRlSFdFNVdYQTBIUjAyWWZqeUxSZDBfOS15YzVXNlNEUzB3cG5wMUYxSkF5UVd5WE1ObDZFV0prcGc0SS02eW1aWjN4Tjd4TTltNjFvSEdfV09nWUs3RDJPNVhKMU1UZTFyZThqYU9zcno3NkNOWG5paGc?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 20:59:00 GMT",
+      "description": "Potential measles exposure at St. Vincent hospital in Billings Billings Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles case confirmed in Polk County child; exposure locations listed - KGAN",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUZ4d04tYmQycFNWaTdiNGQ1cFhfUTlkSkIxRFVrNkpXZUtNOHNBOFhSU2JLUjM1eFBuNWVYRlMyWEw3amFTSHJjZDFhRmNMQ0hURTJGSFdodVAyNk1XcUU0NFI3THY1aDUzcldUazdsTVg2VUJ2d014VC1kQUhXcWh4VGxGSEhsUHNRc2xsSTBvUm4zaEhlME9wWUlkdDRaVGk0?oc=5",
       "pubDate": "Wed, 11 Nov 2026 20:50:35 GMT",
@@ -358,15 +358,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeFB0M0xvbkRSZXdQdHpZNXh2cy1tLXdOVVNCdXM3d19iY0lDWlUzV0FqOXl2SWUxTld5NXFEc183NjFMSU1VN0ZGZGpSWFAzMWhlQ0lDM0pKZFJsaF9LOGRqLWp0Y1RrdHRDUHQ0cVNFcExINS1UeUl1YTBoU25DYzZZMEVwX0plNnBCQWs2YkkwN1FNNWY5YUJQSTdfdDNiUTVUdEtuZ1Y1S3ZrZ2lBUnZJaDR5Z1RWM0tVUmplZEhSSldJ?oc=5",
       "pubDate": "Wed, 11 Nov 2026 20:48:00 GMT",
       "description": "Polk County Health Department confirms case of measles in child The Des Moines Register",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "‘A tremendous step backwards’: US could lose measles elimination status under RFK Jr’s leadership - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlJTZU90X3plSHJFUlZnYjRPZkRQNGFPX2R6MDNzTWhRVG1ackVYUVNVazVnZlNzQTF6LVZ6R0JaQ0s3bG9PRUwxZlZ1bm9Sb0VoYlk0ZmpQNk9GdG8zdmZYcDRWdlhtallrWWF5Yld0ajdjUUxKTC1NTzdxdGw4OGtMc0JYc2hmR2dHOHNPUEtMcVk?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 20:40:00 GMT",
-      "description": "‘A tremendous step backwards’: US could lose measles elimination status under RFK Jr’s leadership The Guardian",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -394,6 +385,15 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVjVEcFdCQTFuUm9BeEt5R0R4cmFSS2RQYnk5c2puZ0RIRndSTUNTWUVKQ2hoaWFaOFJkQ1Y0SURWX1VIU0N6Vm9EWUdSaHY3SHNINGNwVEhackYxZGdIZzZzM3NfbHQ3OWdrRXRyQ1p4OThmLVE2ZnRoNk5xTi1odGl1blNPVUJSWk5xWmF1OGFwVTVHRmJLSVJyZ1RtbzFwNW9RS09EMWRMa0RLaUJNa1FaMNIBuAFBVV95cUxNY3JXUHVMZlpWV0t6TU94emdTQnFUYWcwejRuSTB5WC04X0dwVmhWTGhyNEJvVWcyMmRzZGtMbmwzU212bkhqT3RzOGZFRXEyY24zRlk0Y2dycS12TTdpX3lidWxkM1M4OUVkZ1ctV3l2TjJ3MUQzbFFQOUljWnFkSFdmRTkzNXRtdExyWkk3Qml3NUh0WVZ2MFI3Mi03OW81SGdxVXBOV0dLbnA4V0diRWgyQndsZlpO?oc=5",
       "pubDate": "Wed, 11 Nov 2026 20:13:18 GMT",
       "description": "First Measles case identified in Polk County, 3 potential exposure sites listed WHO13.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Polk County Health Department warns of measles exposure risk - weareiowa.com",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeFhJS1h0MjhtSkJ5ZkVNeFFxb0dkM0dHejFUVWJvVHpHOFVHOE0xM21TalA2VlB3REstVjhJSHRQMUttSFVNMldWeEg5cHJ3azBKMjl1ZWYxUks2ZkF3aTFqX3NOaTdvQmJYZXhOdDhIeEdUTHp4aktEeV9rbG1fRDY0bjMySjZnZFZubXE2am9oSVB0bEc5WjY2c2w1TFNWMjZkYVFobEVSSUk1YjVVWXZlcXdEMEFlN3FYRC1zV2w5amVxWUpGMlpTTGU5S2RoSnM3Tjg2RHNSYVFEWE90NFJTRmJnellKN3JOMWN3?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 19:46:00 GMT",
+      "description": "Polk County Health Department warns of measles exposure risk weareiowa.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -448,6 +448,15 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOWxQNjBLRkh0VHN4VWczVG1WTW14NUYzeXV0SW1pRnJrdnVkVHVuTWppeW9iVmhieVJQLWZvdlR0aTd1QTRac01GNVJkN0NaMXVXR1VIY3pYNHZXbTJ1d3YtZlZBUXF0cmJxRHJ0aVJ6TWlkbXV4dHRiVGF5UDZvM01ZY3VldlZsX2lNd2wzMNIBlAFBVV95cUxQdWxkTy13bEZxaGRxc0lmZW9CWU83bWpNeFBqVENIc2dVbnZKeEo1TTJJRzRSRXlyVzVwbk0tb3N4UzAyM1htdThtZ21RN21PVDVqQ1FhTlM2djdZTzZLRzdPUzBNNkZnelhQcGc0R0tLR2QzSWlMa2F2VHg4ai1EdjZFOTBJSi1IR1gteHFGa0lwZ1FI?oc=5",
       "pubDate": "Wed, 11 Nov 2026 17:59:00 GMT",
       "description": "CDC chief: No measles response change if elimination status lost The Hill",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "U.S. may lose measles elimination status - WFTV",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOS13X1RUazBvNVlrZ1JmcFRpbF9pbjJxNTBiZGJQcVlqamV3dlpxQXQzaGNIRHlYdDRwY25KT05yZ0pIb0dWM01Ldno3T0ZGYThsbDVqamoyN1ozTmZTVFp1d3ZDRHluZ1JWMjhlbTlNcUUyc2twMFFhMWlFVFNyanpLTl9uU0ZnMTlwTWRxRVI3WEk0SVNjWEFtdG52ZDTSAbMBQVVfeXFMTUhvVExuY2xLcVROalY3MHZ6SXp1NlFfVTNIMkZ5c2o4WEpaSWFiNERicUNmTkhVZXBCelNRUUFQWlRPU1ROQURrYXdhNUxuM0pUVUk2VnlTc2RCclAtenFEUGtmcDJBWXExcmRjRjZTUW9nQy1BTzN6SkVEYmdEWlljUkFmQmRyTzN5MjF5SUxMbG9UMkFFSUdESFk5TjN1Q0NPOTJOdE5rZVRmV2YzTTJzWHc?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 17:46:19 GMT",
+      "description": "U.S. may lose measles elimination status WFTV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -525,15 +534,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "An Investigational Drug to Tackle Measles Outbreaks - The Des Moines Register",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOWpFYUQ0SDkxNTl5RWF3eHJTM0ExNHdZOXowUDFqNWFCZTBadWZ6WTNqc0dHajZvV2xjZ0MxMXprRUZvWURTV1YzRktwSnRoUmdxZDQxaDhrS1F1dnFyTHplcFRPVUkzUGVhZXpsb1BwaDRjaktfQ1JkdjRfOFEyMHRaVEtsUlJIZTJOQWs0NEltUnVoYjJPYi00ZzB0aXJqOERKRVJjRjdrNVVtRFVNT18zSQ?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 13:44:24 GMT",
-      "description": "An Investigational Drug to Tackle Measles Outbreaks The Des Moines Register",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "2 measles cases confirmed in Carbon County, health officials urge vaccination - NBC Montana",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVXkxUS16Z0U1eEljUDA2S1FYUFBFMGR6Q2hfMGgzaFBPZDVQc1REc0VkZXhrM0l5RGdISUthSkhhamx3bWtsckpTeS15eFdicms4YzFONGs5cG83WXBMOV9MLUhFTjhheEdhdHZrc3Vralc0aC05Uy1kd0NJX1hzMGRaWk53ekM2aDVKSVpmdXpNYzFqa1BXSGphUWg1QWFfMTE3YjhkenpSMGFyU3lR?oc=5",
       "pubDate": "Wed, 11 Nov 2026 13:26:57 GMT",
@@ -547,15 +547,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnRPek84WWQ4enk1bTJzWkluX1EtSVVrNkI2bGlvZ2E4VkxlcU1DNXRWdURYLUZOQ2xoVGZSTHlzNDhfQ0RpWVhJUXpIME4wZ0RaUGhaQzZUSkdrdlNoT3VKRFJSenBqOUMzbEs4UDVueFFIYkJvQm1rRGFEaTVBRnRxeWZxOGRqMGVnUWRNMi04cHR4bWMw?oc=5",
       "pubDate": "Wed, 11 Nov 2026 13:00:08 GMT",
       "description": "The U.S. may soon lose measles elimination status STAT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Three new measles cases confirmed in Georgia - 11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZEV0ejdVaUxLTG4tcFZKb0ZNcjlfSHo2bW5sMTNzcGVpZnhKa0ZObkxnM1c4LUhzX3lObGN4NUctTTdlVjdRYkJKU0tEX0NnbC1MbWZPRTEyYVlXR0ZaV0RtYVYzSnotNUhhTTdsdmJxSDFBS0d3eTlSU2xOczI1dFVFYkNWa2Z2UTJqblgzUU1PamhIVlRqQ3E0UkNidzd3cEJ5Y3hNakFZdldiUXdtOUdtUkV1ajdXOE9wS0g5QjZkcWxU?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 12:34:00 GMT",
-      "description": "Three new measles cases confirmed in Georgia 11Alive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -642,15 +633,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "CDC chief says agency will not change measles response if US loses elimination status - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RVk4tNmM1Q2tybk1wWEhORHJBeHl1VXozTWoweE04NFRWbTBtWWxPTHJsaUNMZXI3V2RvTTNwM0ZzZ2ZkUUY2Q2ZvVVRvRHJPVnh0TnNnU3FqV194N01QNWlLS2lTNjZLTURTUWtQb1REUVF0WXRweldR?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 22:05:43 GMT",
-      "description": "CDC chief says agency will not change measles response if US loses elimination status CNN The U.S. Has Lost Its Measles-Elimination Status, Data Suggests The New York Times Measles is surging in the U.S. — and outbreaks can cost millions CNBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "America defeated measles in 2000. Vaccine opposition brought it roaring back. - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZFZpR3hpVjRmWGtRUE53enJzSC0yX1BVV3paRlY1NnRnY3pIOEdwekZRYnpzbnl3ck9GOVBJb2NQQ2ZlZ2N1RUFLUk5Ec2ZNdWpUMkNwUVFiZVFHTnRmSVpzakxuM0t6MWs2UkZSQm9qMi11WW9ETGJYRVFEekJJRFhxTmlpWTQ4c0c1TkdNaXdyMDhiRWsyM0RBVDZLcUxtQkFySzdrNk0?oc=5",
       "pubDate": "Tue, 10 Nov 2026 22:02:55 GMT",
@@ -687,6 +669,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles is spreading rapidly. In Pa., some health officials are fighting it quietly - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5waDUzTnRFb1ZSU1NVMWplVWZ0QS1vVVJDUE1tZVdxN0pWQ2Fjd1VYZURPVTl1SGNlbGs2OWNMZzhvV1p5bTZuUkdCenY1RWlSdmxBaThuaXc?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 21:07:05 GMT",
+      "description": "Measles is spreading rapidly. In Pa., some health officials are fighting it quietly NPR",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "EXCLUSIVE: CDC chief says agency will not change measles response if US loses elimination status - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaTg0ZE42aEZ1bTRlRk1yeXR0Nk5qUXFWbFl0SGJhQXN3TkFfZlVLUHlhTDROT09CdjBIMXR4Q1FhMHF6Z3ZaRTNqOFE1Tk9tdVNoRTBnRlNRVENRRFFleWRHakxsdHg5cC1DaVlfYlhqNkl0RWJONTViUHZySzFxMGFnT096YnVQeFd4NzlncXhpSUlxTkJlOXhZaXFqT0NFZEZvTTVWQm16OXZYWWFSTE9rZFlSd2hEZVEtZQ?oc=5",
       "pubDate": "Tue, 10 Nov 2026 21:03:00 GMT",
@@ -709,6 +700,15 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0dKWE1BSWtnTmVDSGZhUDV2cFFhUFA1UW5UakZLUF9aNU5FUGF0RGdYMmtrRVhBeW5sSU5wVk1QUmZHemxacENjVHpXNV83UVg2RlBmNFM3S2luWHNrdzc1T0s3eXIwbW8wdDZaMldHLTMwTUt6RDFlRHBzTk9ZU2ZtV0hyc21wdmxpRWkxOXhoWGZwNWpiUHNwM2Z4RlloWnQtMk5UMl9ZMUJmbkItQg?oc=5",
       "pubDate": "Tue, 10 Nov 2026 17:30:00 GMT",
       "description": "The U.S. may be on the cusp of losing its measles elimination status Scientific American",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "The U.S. Has Lost Its Measles-Elimination Status, Data Suggests - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbVV0WUVWekthbnc5OWE0U3FxNzRDMzJIaTZyZGZuTTJfMW1BbVZCdHNXcExlQXhUWVVDSEU4MWxKRlliUWFNTUxXZ3RncXplUnVBM2JEbHlJRVBSRkpDdVZLUDNxcjhLd3VFTkthc0ZlQm1BNFhsRTVSTkoyYkdKaHNvZDlUb1haQ2k5Yw?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 16:14:17 GMT",
+      "description": "The U.S. Has Lost Its Measles-Elimination Status, Data Suggests The New York Times ‘A tremendous step backwards’: US could lose measles elimination status under RFK Jr’s leadership The Guardian Measles is surging in the U.S. — and outbreaks can cost millions CNBC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
