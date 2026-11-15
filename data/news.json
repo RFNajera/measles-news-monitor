@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-15T13:12:29.315Z",
-  "itemCount": 85,
+  "updatedAt": "2026-11-15T14:13:02.843Z",
+  "itemCount": 92,
   "items": [
+    {
+      "title": "Pennsylvania Department of Health Confirms Seventh Measles-Associated Death - pennwatch.org",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEI1ajVrNmowWlhLVGstamZQaXd6d3U0azNvM1V0c3BOdmdzWXk4cUp1M01QVHZvY0dmLWhQN0JMNEt6b2Z5Z2NZd0FGQzVjZGpWdlduU1l6MmJsZTBBZE1ISjZDWnVhRlRkQWFtUlY3WGo5TDhkYzJyS1o1Q0UyUFpJaGY1S1FSRUZ3SjQxMzA1cTFGaEcwRWFLMlI3MVU?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 13:54:11 GMT",
+      "description": "Pennsylvania Department of Health Confirms Seventh Measles-Associated Death pennwatch.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Measles Is Officially Back — to America’s Shame - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1VlN0JEbHhMbndlS2FrZHhMZWYydnU0VEMtejBvMTR6UU84YVM4X3BJRFBwWVR3OWlxWC1nSGpzdzhlVmVpUUNJcGIzWHcyRHZBbW5KSHJKdnRKc2Y0UHZ4QkV5bmxQQVpyZmRMVWJabHhZVGFnd3NSVi05NVhrNEllR2lXS2k3dHV2cG4yMzd0LVl3Y2NmVFBjekZvbk9qVWVyV0EzWEVwUnZNSnY3bnJ2cHhCNERLUzJzZE9R?oc=5",
@@ -21,10 +30,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "8 more die with measles-like symptoms - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1V2OEs0enFtZ2YxVnVaSzRRZVNMNDZIcVNYcXhGZFZyMWZJdjlwalBtQWdyWDdTMFR0aWJYLUJjbEd5N29HYldTUFFUY1Y2RkllX0I0RzI0ZVdFYjl4b3g1QnNrVjQ2THdOa0lXS1RVbklmY0RlSVRIUUJOQ3o0dTRnOVZVMl9kRV9xNlJMVTNsY3EtLWJ6aA?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 11:47:57 GMT",
-      "description": "8 more die with measles-like symptoms The Daily Star",
+      "title": "What It Took for America to Wipe Out Measles - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LanprM1MtQ0ZhYU5vYnIxTGxaM0wwZmVLbVByeFF1Z25pbHpnSWw1QWdVandsa2NMeUxjMjhoOE54amtveGFMTzlBX0pBa3MwTm9xYXgyX2RvTmk5enhaQVM0a1RJV0p1VGhzanB6VkdseTByLWc?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 10:00:29 GMT",
+      "description": "What It Took for America to Wipe Out Measles The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -246,6 +255,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "The U.S. loses measles elimination status after death count rises to 10 in 2026 - KBOI",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVl83RnJJRTVqNzd2QUN0azgwNG40M0JMTkpqWVdnS0NMN1NnMFBaajcxdDlxZ0ZabHhwVjJUSVkyUXB0Y3ZmR2YtRllwaFJWNFFmNlV2Zm1MeVBIbXBTWkoydVliOWhrdFBQUUpSY1VZcnoxbWlKaF9rLWlaclFTa1l4bEtFa2tsa0xUYUtXZlRldlh1TnhCVmJsNGtVTm03OURBNGR1Q0FoeWFodjdHcmk2aXktR25UenIybFlVLVR3ay1IYnRiRUdhcEZ2ZE5qdzl5Zkgxa2Y2TzBiRG1YLVAybl8xMm1PR29lVFlmWmJPcXUtSnJ0eGNpaw?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 20:09:36 GMT",
+      "description": "The U.S. loses measles elimination status after death count rises to 10 in 2026 KBOI",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "US reportedly loses longstanding measles elimination status as cases surge nationwide - Fox News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1paM3hXYjY3dHVpbVQtUk5KVEdQSktuMU10bjhuNXltSjVkczBnQWlnMmxJcnBzREVtZlBwYUZJOGMyalFwSjZWMWMzYUl5NVRfUXhOTFZJcDRpWVoyRk1pQU5yejZ5VFY5bENBbm96VzdOVTZraE8tbXMzN2x6ei16T0wzQ0c5MVZTa1cwZld1SVJPVHRtQUVrTkgtOFh1R0hxVtIBqgFBVV95cUxQVVZrbUNsSGFJWlhjaWMycmNZOFhmX1IzYWkzemtEa3ZpTXhvQk5ubXR4VTdLd1RoSWl0eDFzWDdBX3J1TlRYS2pSRF9KWkZ6MmVNSktXNzFuVlFCUGZ5dHoyVzNoN1lvbi1aYVRQT1lrZ3h4aXZ0N2pXN1ZkajFBWG1jWnFCYkpmT0NNQVc3OXo1VFdPcWdvUTlHX1lwUm5vWnROSGUwZEVpQQ?oc=5",
       "pubDate": "Sat, 14 Nov 2026 19:17:16 GMT",
@@ -282,10 +300,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "US to lose measles-free status - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcHM3emVBTHpRNjRrWWp4RkNGdTU4VW1JczFUVmkwR3dJdlJEaVFDLU80Q1QwdTlwSW9rQlY1NjZLenJnb1BBVWI1cy1aMk1wQzE1VmZNR3VBT2ZTX0JaakFtVk0teWd3aEM5R3hXQWw2ZGNGWDNnYWxWM3E2cGFrZmdUbDlIVnc3?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 18:12:38 GMT",
-      "description": "US to lose measles-free status Yahoo",
+      "title": "Measles cases nationwide top 5,400 as deaths rise to 10 - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUJzZmtiTDZkanRDY2dTbXZKZmxMVWFxaUVmS3g0dlRtbF8tbDVhUFdrUEhWRkRwYm9LY0R2TDBOTkFVRENFWHk1R2VESlJySktqRFA2bTZUelRacjBmTERqVXNWX1dQdmpzM0ZobUEtaExpbC1kQkNTNGtoZEUxTWNFRlctMlV3OVA5V1hpdWhYcnpncGFBZ3E4dzZXNG1Y0gGmAUFVX3lxTE1Odm5wa1RPSDRKejRMZDNDRWRsT0pyNXVuUUdybTA3bjNGeEpUc0EzMzA0dlMxVmNFdnlsX09Hd2hKNXd4VGtjN3Q2eGFnX29SenNjQ1BFVDh5eGdqSlRKdzlKM0dPdDlOLWxLZloxa2Rvck41UTRRcEhxVF9nZ1A0ZmlhX2pCSDhrd0stUFkyMzR5ZDByaWZxZDI1SDhPQ2ZjVmpVRmc?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 18:23:12 GMT",
+      "description": "Measles cases nationwide top 5,400 as deaths rise to 10 ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -345,10 +363,28 @@
       "sourceLabel": "News"
     },
     {
+      "title": "The U.S. has lost measles elimination status. Here's what that means and who is most at risk. - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lLVBscUhhTi1PZldLT25LVkgzdDdwVUh4ZDVVd2JUQV9uY2puOE9NejY5eVhTOTNBcm5SaWNyRnNsN3NoTFlia1ZwYS1WaEtyTVdiaXFMUWx4TUhHSmowbzJXTmdZWkJqQjFDUUVYZ2Y4Q1lTTmF1eFRB?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 16:11:00 GMT",
+      "description": "The U.S. has lost measles elimination status. Here's what that means and who is most at risk. CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Second child dies to the Wisconsin measles outbreak, health officials say - 5 EYEWITNESS NEWS",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjJkdUZIVzZlSWJ0NlBBdTVlWFhDZjFvOElOUkFLWEhvVEdLQ05sQkgwREhyenlrYmFPaWstblBCY0pseWMxSmkxcDN6QktpajdRZVdzVmQwb3V3RWM2SzVXVDhkVTE3S20wQXdCNGJmWDZNN1BibnhHbVRobTFVd2lTOFZESjNOLXFjQ1ByMXFielNBdlVSalVINmkxWDUzcFdvU3lSZmc?oc=5",
       "pubDate": "Sat, 14 Nov 2026 16:03:18 GMT",
       "description": "Second child dies to the Wisconsin measles outbreak, health officials say 5 EYEWITNESS NEWS",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "RFK Jr. Failed America on Measles - The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSVVvTWFaUFBRYVJLMWVRRUpwbjItWkZlTmVrSkpDLUNvRHZ0ZFBrcDhLQTh0ZEJMYlJMRURuUmxlSHYzcmJGYTFDT3hvSmZicm1qOUpyTFdKQTR4bDU5T3hQeHpraWF5N0dWQ0p0NGVjdVN0b2U0V25LSG1TZ09HVFpGZDkzMmtSWUttalpqdXdtNFFONHlHNg?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 16:00:56 GMT",
+      "description": "RFK Jr. Failed America on Measles The Atlantic",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -376,6 +412,15 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObXlWenZlelR1R2FMczFjYXRtTXZFdXloWHk0aXpkU0JiVkh6SGg3Z2dUNlprbUtEdzd4NTY5b19vejdXZkVxNnBnYXNkZl9OM1c1U3Q4Y0x5US1SU1htX3hNaDBWUXJFX0FuTmlGbngwTHRhZTV2Mkd3NVI2TG1YeVlWVTZfQ21INkNqdXZWaVdITU12T2c?oc=5",
       "pubDate": "Sat, 14 Nov 2026 15:07:00 GMT",
       "description": "US Loses Measles Elimination Status After 26 Years Newser",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "U.S. and Mexico risk losing a major health victory: What to know - MPR News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGV6N3BDOVpCclpYd3NqZkltZ0xvWVlzQTBRWUY0YW1lUU9oSmp5QjczSzdLSzdjTW9BSUNEenh6X1VxaWl6ZzlZMFlaN1BMdUhOMnJlZFRQaXY5NjJ3LVF5ZEtHVDVJVDVlZ09MTUFzaHBzblRhMGkwNGd3U0RLdGlYbXhsNExoc0pRMWRwYjdYdGwyVV9hckF4MHhhOVlqSEN0Yw?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 14:33:00 GMT",
+      "description": "U.S. and Mexico risk losing a major health victory: What to know MPR News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -453,15 +498,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "US loses its measles elimination status as cases surge - kens5.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObjAxMXlUaERwdmV1LTBwQWxaOTRHZzZkaFdxanhOTklNQXpIaG5MY1BsOXJuWmhGblduSXI1cE95Ty15bTY0TENKTVJsS0J5TWhYM0RYVzhmRC0zOGRDWWhrSTh5R0lXZE4xeWNHeGdlTnpWdE1qRlkwbVNFQllOV3FJdXV2QUEwQVRVZ3pMM3Q3Z2ZfcGt6cmtaWUV5bmhWNTF4a25nY2FneExOUzRZcmFtdzdPOW1BUk5sVkJydDJqOXdT?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 08:47:23 GMT",
-      "description": "US loses its measles elimination status as cases surge kens5.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "U.S. loses measles-elimination status, erasing a landmark public health achievement - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTm85QlZZUTBTbGs4UEtXbVpSc09JV3VEQTB0WW04M1ZTRmNRaURzY1A5bXZaSlBuaklXTDhkYlJaSU5yV2tXNE45STZEejBmOXpTQWc4MWYydC01cjJjQnNSRk9WU2tRaHJoLVFBdlZ1Nk9VSUZwcE5kSXFhbUstVlZNd3N5TGszSERWbFlUekFKd05ENEJzcnRUejh1YXRJWjB5NU5wYVRBVHBRWFpWR1FYUmo?oc=5",
       "pubDate": "Sat, 14 Nov 2026 07:20:00 GMT",
@@ -498,6 +534,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "After 26 years, the US has lost its measles elimination status - CNN",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWSzVyZHgxOG16NGU3a2o1NUpOMVhsVnV0LXh3aWJFZ3ZQN0dwVW03aGRWMjFEYW05OHFMLXczRmlEc2MwMlRSUWJ2UENrYm81bTFqV1JPSS1uRWVURW5zc0dKYWNhWjJxTk91czNsOUFmRzZubnc?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 01:22:00 GMT",
+      "description": "After 26 years, the US has lost its measles elimination status CNN",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "NJ warns of potential measles exposures at Morris County Walgreens, LegionsCon - ABC7 New York",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzY2NTEtelBjX3lXUG5hWENZOEhTR0hKUTQzVlNoUER0cF9vcXd0Y3dDRDNnNXVvSFdjWC1iWmdhRXFTdG9TMnQyb2h3bTdVVkJJc1FTNzdoVDEzR0ZPVHBxRmo5QlJKSDRMdVpyRXlsUm1CWGhFTmc5SWExY05IS29qdW5UZkt2OENZcVNUN3JmNVhWRURUVEtVc3JPY1R5NlcwcGktZUrSAa4BQVVfeXFMUEp1YXJ2ZXRZVFNkQlpKdmdsbXNpVlJJb2liQ2ZSNU1SRklCVU1zRmx0NEFIbG9Hc3pNWWVXTWNTQWFZcGtjY0N0V1JUMV9nNGNwME5OSjlxYzlxMjdjSzRvMTk2X2RSRDZ4VFpDMDJpLWVTSktCM1c5VnhrNkxVQjBGbjIwQmxMNjY3NWdtTXg2OGdjeHlTclFSbTFPb00tNkVUV3k2bS1PMlRONTJ3?oc=5",
       "pubDate": "Sat, 14 Nov 2026 00:33:00 GMT",
@@ -519,7 +564,7 @@
       "title": "Exclusive | U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands - WSJ",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMXlKX3BJeGxyUWR0NDlUZGVEMS1SRXJZbDJEX0dabk5YNFRWYXN4SGFJekJHM2JCcHU4dnpfYnFmUl9sNVlJcWFnWXdkeUdrNEVOM0JraVg5TElvaHFhVDFxZm9QNkdXczlFNWhQZVg4Q1NSZUdLcG5XVVAwdFZwUzdNSER5czQxNG50b3dZOXZyTXgwcE80Qzg3YXVXUDV0NmU2SE1LU043eFZJdFhkVVRaQQ?oc=5",
       "pubDate": "Sat, 14 Nov 2026 00:30:00 GMT",
-      "description": "Exclusive | U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands WSJ The U.S. has lost measles elimination status. Here's what that means and who is most at risk. CBS News What It Took for America to Wipe Out Measles The New York Times Surging measles ca",
+      "description": "Exclusive | U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands WSJ U.S. loses measles elimination status Axios Surging measles cases are forcing doctors to treat conditions they’ve never seen The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -723,6 +768,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
+      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Doctor on frontlines of Todd County measles outbreak says it could ‘overwhelm’ health system - MPR News",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX2ppWVBKQU5Uc1djYWJONzRXUmpwNWIxYWVfZ0piRmFpbTdmbXlBdmJJZGlaX2pGa1A0bDRyWEtfdGY5Vi1fd2RWcTNTNU45V2xxNEtBRGgxemtBVTFYSkN2bi1KNzllTVlfc0NHUEZ2d3lxeC02dkJkTDlBOGpCM3hXeGdxQncyT0hMWHZicFBYbzc1OWRLN1ZYeHVaeENDTXpwS1Z2SU94M08xNzBXbW5UYTl4MmpJSk4tU0hCUlN3N2E4bWg2bDBqendSdw?oc=5",
       "pubDate": "Thu, 12 Nov 2026 21:12:00 GMT",
@@ -736,6 +790,15 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0lzbUdfSFlUNEctb1Q1VGc2ckZVZlIxaFQ2MFpsb01Yb0tFZWV2dFRJM1lrc2F3R1AtTGl5Tk5mZlhKSW5uNnFaajl5NEdXZ2U4RC15SXRuU013Uld1ay1QUUxfTzF3eW9BTUF1bHhmR1oxOXc1MkY3ck1KMVdYLXViaG9paGFRR1BjZm5GVkRqUGg0dEZEa1NQaU9MQXFlRFB1OTlWb3Q1NnZudGFWVGI2ZGFDYnVfMmtyYVZOVW8?oc=5",
       "pubDate": "Thu, 12 Nov 2026 18:56:13 GMT",
       "description": "Measles elimination at risk—and what a Florida study truly shows about Pfizer’s COVID vaccine: The State of US Vaccine Policy CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Measles Outbreaks Archives - American Community Media",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FWUFUeW9DNnROWm1DcU1MamJYYk1XTGo4MDE5TGx3NDdLeE02QVVLQlRVTmNRNDlIRWFaYXFmTXp4b3VYSXBoVEpJa3NuVXliQUxxUnJ5Mk1NT3lMN0xLcUN1b0M2ZlVt?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 18:51:47 GMT",
+      "description": "Measles Outbreaks Archives American Community Media",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
