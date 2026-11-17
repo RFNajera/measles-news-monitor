@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-11-17T01:17:02.094Z",
-  "itemCount": 98,
+  "updatedAt": "2026-11-17T02:20:13.819Z",
+  "itemCount": 96,
   "items": [
+    {
+      "title": "N.C. reports 24 measles cases since December; possible Catawba County child case probed - WXLV",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcW8wSTE5SzdibnRtZWVYXzlOaWwwOVFkUktQRm8yMmsxSmNaNTY4SzJTTC04aGR3cW1rVGU3SjlNQWY2dU9jNnVCVWY1LXRvRWhMTFRORTU2QlZ1Vjk2V1VTQ3Q3TXZyMjYyME11UVJLMF9PUTJLN0dXTE1MVWxJTG1ENVdaTGJhcU1vNlVFZWFDWnBQZXFReEFqVE56bmZkU3g2a2V4b1habko0RUNnYUpoSQ?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 02:00:46 GMT",
+      "description": "N.C. reports 24 measles cases since December; possible Catawba County child case probed WXLV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Catawba County child subject of measles investigation; possible exposures at church, pediatric clinic - Queen City News",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFNScThfZy1ER054UWpaOGlXak5lN3J6X3lFVkQwcHpLUHNZRkU1cllvci03YVliV1hNQkVib0FIMXN6MWk3bHh0cTRNRDBjRXlaQV8yeVdpNzJDSlZBbmwwZEE0aExNdnhHbG1ENm5INTJQbEZtcDFGd1Y4YklQU3p2d1poOGhMc0E5X2VWdVhwQmtYVGRIcjE2TWlYSWpJRHJ0QXBfSjBmeVdHM3ZBWE5zYWdTeWlFX25mcF9fN0dTUXN3X21SWUNHTGVPdk55a2hPeF9UV0dacUIxdUQ5aG12SUZOYUNiRUhDM3g3RUFvQVVt?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 01:53:01 GMT",
+      "description": "Catawba County child subject of measles investigation; possible exposures at church, pediatric clinic Queen City News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Oklahoma doctors concerned as U.S. loses measles elimination status - KFOR.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1JEaHVoeXN6bXFTWDk4ZUwyR2JMSlJtbnJ1RW11ZVU2MGF2T2RUQ0IxcHFHbTEtcXRjV2hLaHJXbkNiMzUzaHM3SEFDa3hfalBjdlJMUkk4TXhRb0hrcFJaSEtlaFJvY3NHdTRyN0NmSmZqTzhnQVZhSTBaZmlVTWRiYldBdmZpRlNBR2lDbHYwbWg3d0IwSU5YWdIBoAFBVV95cUxNSWx0eEtyS0pKbFpRU2hEN2NBZlpVNXhaV3pQR3d4akVlVUU4TnhiRGwwNEdGNDREWDgzNGtGb0JXR0w1YUlHUTVHWklzWllwSE45QTV5dXBFVG5TaG1uYkc4SFQybURlenZQTG9KMHlpMkhjRm5nRE9ieThQNXJCdkJiM3JjX1Rudi1hMFQ5S0t0eHBRbE13M2k5cnFqZ1Br?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 01:46:09 GMT",
+      "description": "Oklahoma doctors concerned as U.S. loses measles elimination status KFOR.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Possible measles case in Catawba County child, NCDHHS says - WITN",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVk5zeGZkbmUwQlZiNTU3NVhIMmpWY3ExUEtjMldVLS1hUGN3V0hfUUpoLXU1M0VfSjhzLXhxd3ViMUxuaFFxcWs3NW9ydkdCYWtnNnZ2MTVtcVdKNldSLS1DODUtNlNORU91X01rUjd6Y2FFU2Qtb3k0ZmtSdk4zd2lDUmdWV2JMWVRfcmdvSUw?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 01:37:00 GMT",
+      "description": "Possible measles case in Catawba County child, NCDHHS says WITN",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Illinois measles cases more than double as Southern Illinois schools report vaccination gaps - KBSI Fox 23 Cape Girardeau News | Paducah News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMFpoRTJYSDBQdkRWaUVHSHBWMF9LVDF4M2VaeFhzczRvd2xvbDhqYXRtdDBmUFI5ZVNrN3Nna0tPOGx0Y2c5UWxEdi1kZnlxeXM4ZE5GQmkwT1dIM2tDNk5QMUJSTkMzcXFJWUhhblE1ejlReUxnMW5MczFueWhXMTAtUFNpbm55S3lWMVhyMDYwWHZnX2gyWXE2N1g0djlld28tZ1dWbUx4a3J5NHFkQjNqTnNFcXR3OE1tQTRB?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 01:20:34 GMT",
+      "description": "Illinois measles cases more than double as Southern Illinois schools report vaccination gaps KBSI Fox 23 Cape Girardeau News | Paducah News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Measles spread across England despite decades of vaccination. What changed? - News-Medical",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdllMZTNGTThvMnFvbVFDS2lGVGJvelpwSHBWUWtOTklvdVN4UGFWZUVFQW1xbU1zUnhIVUNYa2MxZEhZY2tlbnBUNE9SbHU4UlZPU0ZrSk9PR0J0QnFFZmdoa0RmSlRmRlNfcGpra3FYNVBsZUZaT2x4QnNTNzhQQnFMSG1mWlpoRVRwMExPMjdTbmpfOWdNZDNCM1NKNGVKQTJqY2ZVYnVtVmpMeGxWRHZVVnlXMllxdy1LclF3?oc=5",
@@ -24,7 +69,7 @@
       "title": "U.S. loses measles-elimination status, erasing decades of progress - NBC News",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU3EtY1JzbmcwVS1OQWZ3dlAzWUNxSmNOOG9WNXRxMzY2R3l6WU1IcWFYQ0VPeXZqVnUzVnF6YUM0WWJYNkFOTU1iSWVZUGRMcnEtSUJETGxoOU9pZnBoMlBzMFBlVjdrRmFyZU8yRWJjU1oxdVFnXzNWQlkxMUsxeFlwSkVKRTR0Y2h5VTFB?oc=5",
       "pubDate": "Tue, 17 Nov 2026 00:41:00 GMT",
-      "description": "U.S. loses measles-elimination status, erasing decades of progress NBC News As the U.S. reportedly loses its measles elimination status, RFK Jr. has some explaining to do MS NOW The U.S. has lost measles elimination status. Here's what that means and who is most at risk. CBS News",
+      "description": "U.S. loses measles-elimination status, erasing decades of progress NBC News US braces for loss of measles elimination status amid worst outbreak in decades The Hill The U.S. has lost measles elimination status. Here's what that means and who is most at risk. CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -156,6 +201,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Doctor speaks on US losing official elimination status for measles - WCVB",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVdYRE56SnFsSWhOSXhtWDBwa090NUVUbC01YllOVnZOalU1ZVFlSGJqakNTQTZXMUR2Ri1kSU1PZ3JIeHZycHI1RGV5MXN1Y3hRUWF3NGJzenFFVW1hUl95bzNHVmVWbG1jT3MwbDhOa0F5dDVZVHBTZzRzRXA0dno3dzFTOWlDWGxESlNBMWRzSUdsYVMyRWIyQ05sNGVBSnVUalJiSQ?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 22:54:00 GMT",
+      "description": "Doctor speaks on US losing official elimination status for measles WCVB",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "CDC Researchers Sound the Alarm on Congenital Measles - MedPage Today",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWdINF9vSUVBRG5kMVRZMllIcUoyZWF3cy1KNzkzcU9tUWl0M2owdHg2SWJhWk5VNUxxNW1iZ1lQY1pWXzlJaFptSFBFQzhyNEE5MUlraW9LR2tMQThFeGpfMl9DbGxQVkRWZmJsaWRCU1FlS0ljVEx0WEp6NHhXR2o4aVo?oc=5",
       "pubDate": "Mon, 16 Nov 2026 22:44:51 GMT",
@@ -165,10 +219,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Experts Available to Discuss U.S. Losing Measles Elimination Status | Newswise - Newswise",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFBpYWJKV3gtN0lxLTBtX2lkLWZ3UWxlYnp3MVcwY3pBaWFSSld1RW1KWXRUdFM1a1RLSWJlZGhsZ1NpNHVuYWlpeUxPeUI2MHBzd25QMlNUYjNDazE3NUd5TFhSZUxyaHpBN0lZdUdHVnZsblJXcEh0ekRCdzkxR2lSVHZ1clhFUTNrMVpSNEI5VUZ2dWpJN1Fha3Jfa0JVckHSAaIBQVVfeXFMTkxQaWFiSld4LTdJcS0wbV9pZC1md1FsZWJ6dzFXMGN6QWlhUkpXdUVtSll0VHRTNWtUS0liZWRobGdTaTR1bmFpaXlMT3lCNjBwc3duUDJTVGIzQ2sxNzVHeUxYUmVMcmh6QTdJWXVHR1Z2bG5SV3BIdHpEQnc5MUdpUlR2dXJYRVEzazFaUjRCOVVGdnVqSTdRYWtyX2tCVXJB?oc=5",
+      "title": "Dr. Deborah Birx on U.S. loss of measles elimination status - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR0pGQVU0SFJDX2REQjRFQTNjMnZvcVNqa1FObkxobENXbnZ3RHkxWDRUQWpraFRXLXRYeHRDOWFfV0haaUFSamlURFFYbUFYWmxDZm84Y1VhNnBEZ1FZczZ1dUpVdGJNZWRiaDVsMnp6SllOLXFnZTFFQUpCdlM4OENhNW1iQk83RDNxRXcxWFo?oc=5",
       "pubDate": "Mon, 16 Nov 2026 22:40:00 GMT",
-      "description": "Experts Available to Discuss U.S. Losing Measles Elimination Status | Newswise Newswise",
+      "description": "Dr. Deborah Birx on U.S. loss of measles elimination status CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -183,10 +237,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Kentucky’s measles numbers continue to rise - WKRN News 2",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ2ctYXc4TzZBMERockNhWFRoTXQwRWVKUDJHZ3pPSkhWTS1oZ05JQ0lPcTVlLTlvcHVadDk2QWRlN0dlVGdYRklnc3hIVm5neE5WNWE2bWVUbGY0SDJ0amhTUEZXQzRGRVpXbU9XTjZ3LVMxY19FZ1BGUGN4M0tVR2JFbUY4dw?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 22:27:08 GMT",
-      "description": "Kentucky’s measles numbers continue to rise WKRN News 2",
+      "title": "What to know about measles vaccination as cases rise - WPRI.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkt3MlhBelhBX0FGaXVYZFFEc1d3SmxaQjl2NVpXTThHMHdOX0ZoRzQzN3BqVmVtTTRYSVlZWFdRRXhOY3pyRW9lZDBwNG1EU09VUEhmTzdObmZYYmt0Mi0tSkk2Um1icFlOa3hXNl9mWmN1NklsR1VqSUVMTFBqZ1FGQzY2QUZM0gGOAUFVX3lxTE16WjI5Q1NTRjREbFpLNzJmaXNGWHl5TVp0SkczdmlhREYySzVObmtVWDJqYXc5azdJVHZYUzd2a3Q5Wk5LZENVRlpnMWdia3dVTVQ3UHRyY0lHb01pczhOVFFRME1NVURuUzlGem84OGktemtHZGVNSGp5S0dmSTgzTTMwN2ZERmhoQ3NKR0E?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 22:25:13 GMT",
+      "description": "What to know about measles vaccination as cases rise WPRI.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -255,10 +309,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Tennessee sees record number of measles cases for second year in a row - Hawaii News Now",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFVHZXFiUVB1eEVhR0E1WTBESElGUG5TdWVQOHgweVk1QVBKU0VYdHAwVl9OWVJqODJnTHRvMWZQQnNNWEswODNhZ2hHS1doRmpSZlFHVE9KM09ISFVCVUFXNTN2M2NYUGpZODI0cUJWMVpNYjBYZEtqb01FTU1qblo3WWdiNmRLaDBpRVYxNE5YaU9YNExRd05VWVhKMEdlYWlwQnlkMDB4Zw?oc=5",
+      "title": "Tennessee sees record number of measles cases for second year in a row - FOX5 Vegas",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFNkdXhqMklxOXNuYkk2RTNwdmtDUEItRFdfMXlnZ2dSbWthS1BJV2lfQzlSUVc1ejB3VEQzbTFzN2RhZk1aTy1zWmVkeXRQVUZRV1I3aGJ2eVFKOFlBMEV4cGZVVHdfOGlNYWxIS3k2eHVRRUUxZTNackFwbW1MV0wySTcwZkpxZjBhNWxCTEJoQ2lPRTE3ZWp6YjF1M0tlTUlHcQ?oc=5",
       "pubDate": "Mon, 16 Nov 2026 21:52:00 GMT",
-      "description": "Tennessee sees record number of measles cases for second year in a row Hawaii News Now",
+      "description": "Tennessee sees record number of measles cases for second year in a row FOX5 Vegas",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -273,10 +327,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Tennessee sees record number of measles cases for second year in a row - FOX5 Vegas",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFNkdXhqMklxOXNuYkk2RTNwdmtDUEItRFdfMXlnZ2dSbWthS1BJV2lfQzlSUVc1ejB3VEQzbTFzN2RhZk1aTy1zWmVkeXRQVUZRV1I3aGJ2eVFKOFlBMEV4cGZVVHdfOGlNYWxIS3k2eHVRRUUxZTNackFwbW1MV0wySTcwZkpxZjBhNWxCTEJoQ2lPRTE3ZWp6YjF1M0tlTUlHcQ?oc=5",
+      "title": "Tennessee sees record number of measles cases for second year in a row - Hawaii News Now",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFVHZXFiUVB1eEVhR0E1WTBESElGUG5TdWVQOHgweVk1QVBKU0VYdHAwVl9OWVJqODJnTHRvMWZQQnNNWEswODNhZ2hHS1doRmpSZlFHVE9KM09ISFVCVUFXNTN2M2NYUGpZODI0cUJWMVpNYjBYZEtqb01FTU1qblo3WWdiNmRLaDBpRVYxNE5YaU9YNExRd05VWVhKMEdlYWlwQnlkMDB4Zw?oc=5",
       "pubDate": "Mon, 16 Nov 2026 21:52:00 GMT",
-      "description": "Tennessee sees record number of measles cases for second year in a row FOX5 Vegas",
+      "description": "Tennessee sees record number of measles cases for second year in a row Hawaii News Now",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -300,15 +354,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Tennessee sees record number of measles cases for second year in a row - Alaska's News Source",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHBUU0RmQk8yOHpaWG1GUkwxNlhqaEpsZWhsVzJ5TmxZTWtCend6TmEtcGdwSGxEaTBacDA5Q3hNNVZFXzJaUnJjQ0UxX1Z0R0ZvSkQxcDJCVGotZFdrT3hDNHh5ZEh5Ymw1TXlicXRsT0ZUZ2NpeFh2UGdXVk1sNGJfNm45QTZINjdHTTVMUWt3OTRVUmtqbDlwVEh6OWduZ0laNVVjVVRlMjZPMU1V?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 21:52:00 GMT",
-      "description": "Tennessee sees record number of measles cases for second year in a row Alaska's News Source",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Tennessee sees record number of measles cases for second year in a row - KTTC",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObE12SHk4Y3JDaGIxYjZLRVhjX0FYU0JTTU02WC03TUhZM3lsY3pGcUI1cUxYRVdOLW15UUVmQTh0dml0cXdsZmdCV3RrR0FkOU1HemlXR25tWDFzb1UyT1pDVGxrcGFCbEZJVDZHa0paR2ZPVWV4dll5NlktNV8yVmFhXzJpUWVzUUVaUDNGMkwxT0lYWG4yYmo0V2QtZw?oc=5",
       "pubDate": "Mon, 16 Nov 2026 21:52:00 GMT",
@@ -327,15 +372,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Tennessee sees record number of measles cases for second year in a row - WKYT",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclNMRU5TOXd4Z3pGbndoWkNlVG9CWFJaQ2xEU19CTnNHaXlVT0pDUVEzbWVtQUQzaXY0V2gxbkpQMVVyQUVwTDlHVURzM0NLVDc2bVE0eWxVTm5RMUJSQWJBbFIzMTFUZ2xsaFg0WjhuQUtlYnV3Zl8xOHlJWFYxR3BxWXA3UDlvWGIxWnB1QUtQdEdueG8xUDZON3ZyQQ?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 21:52:00 GMT",
-      "description": "Tennessee sees record number of measles cases for second year in a row WKYT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Tennessee sees record number of measles cases for second year in a row - KKTV",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM3NJak9IUEVoNWlCbEpoV0hiTEx0Mk9YRmNBVHJhd0xBcURESS0yakZybExMZUhIQ0pfV08yRE9NWWJ4TDdIV0h5T2ZhMTN5YUhER2VTQ1ZTMDlaN1h5Qm1DQTdhaS1ybU94OEVLb2RSVjdIbTlGZUR1OE9vRXZITXNYa2EyMUdVSDBpUXMyQnM2OUExdTRfb0tKTFJMUQ?oc=5",
       "pubDate": "Mon, 16 Nov 2026 21:52:00 GMT",
@@ -349,6 +385,42 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTWJFa2poNHdqN0kxQ2dUVHA4aXFvNkR5LWxfQmNKb0xQVDdKcWxhUUZ5QVBENWdUMnN2Nkwwc2JhX19JNzZ0dzgzZHNxMXh4RWc4eTBKYTlSUXk2NFhMR1d6RmkwbzkzM2dONWhVM3V4OXB3X2k0YTNfLURqdzlCem5LaGEyMi1uTVVCMzlBb0Z3c0d2b2VvTXBCTFYyQQ?oc=5",
       "pubDate": "Mon, 16 Nov 2026 21:52:00 GMT",
       "description": "Tennessee sees record number of measles cases for second year in a row KCRG",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Tennessee sees record number of measles cases for second year in a row - Alaska's News Source",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHBUU0RmQk8yOHpaWG1GUkwxNlhqaEpsZWhsVzJ5TmxZTWtCend6TmEtcGdwSGxEaTBacDA5Q3hNNVZFXzJaUnJjQ0UxX1Z0R0ZvSkQxcDJCVGotZFdrT3hDNHh5ZEh5Ymw1TXlicXRsT0ZUZ2NpeFh2UGdXVk1sNGJfNm45QTZINjdHTTVMUWt3OTRVUmtqbDlwVEh6OWduZ0laNVVjVVRlMjZPMU1V?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 21:52:00 GMT",
+      "description": "Tennessee sees record number of measles cases for second year in a row Alaska's News Source",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Tennessee sees record number of measles cases for second year in a row - WKYT",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclNMRU5TOXd4Z3pGbndoWkNlVG9CWFJaQ2xEU19CTnNHaXlVT0pDUVEzbWVtQUQzaXY0V2gxbkpQMVVyQUVwTDlHVURzM0NLVDc2bVE0eWxVTm5RMUJSQWJBbFIzMTFUZ2xsaFg0WjhuQUtlYnV3Zl8xOHlJWFYxR3BxWXA3UDlvWGIxWnB1QUtQdEdueG8xUDZON3ZyQQ?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 21:52:00 GMT",
+      "description": "Tennessee sees record number of measles cases for second year in a row WKYT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Tennessee sees record number of measles cases for second year in a row - KFDA | NewsChannel 10",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVjZNWDNTUG0xYnh0UF9FT0ZCdWNUdG93NC1lYURaTjdKQjlKYm5RdzlaNERfQ3VqNjNDRGs5OS1IMUtoUzR1RDhyaUNLSDdRVUhNcmZxWTNUUlItVXhPMDczekk4bWx2XzlxZ3NHWVRBaXNUYkxCdlNrdnhmUGl6ZzR6QkFxcGxGejN0S2JYNDlWdkR5d05hcUZ4WV9TcTRSOGZFZ1pmTlFJUQ?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 21:52:00 GMT",
+      "description": "Tennessee sees record number of measles cases for second year in a row KFDA | NewsChannel 10",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Tennessee sees record number of measles cases for second year in a row - WDBJ7",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNalE3NGVtWGc2OEdpckEwdndFejZXNHBTb2dyb0RUNGE4VHNBalNYUjRNLXp4RXN3aFhqN0hHTEdOTDhiTzJGNjdldVNhUndNb00wcVRoWFBlU0Y1T3oxY1B6X3NnVThfQzRkMmRkOWV3SGswUHcwN0l1S3l0bDdQUUhiSkV4U3FoUkpnUWNsNlI4UV8tbThvYkM1cDJOcXM?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 21:52:00 GMT",
+      "description": "Tennessee sees record number of measles cases for second year in a row WDBJ7",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -444,10 +516,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "US poised to lose measles-free status. How we got here - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNenVEaTZmWDRSSGthVzRrME9aR1NLZ1YtSTFoNFNyTlh3QnVvU3prckhJVDVNMTkwRnpqemFWUWk4cXRVOXpyVDRnMm1ScWJ3RDZGUnpKN0FDb0NwVDRJZU1JbnlYYWI2MTZ4RjBZd1R1SThDU19BVlJzZGlqTkpLelFVMFFwMEE3ZWM3akkxMmFhNDV5d1VBSVctUGFHaDJsenc5UUJaOA?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 20:58:00 GMT",
-      "description": "US poised to lose measles-free status. How we got here USA Today",
+      "title": "US poised to lose measles-free status. How we got here - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3c3V1lTdlR6ZjY1R3l1SW94dmc5YW5FU2gxcGdleEZUdl9BanZQVFFhZ0dEdEN5RmVEOElPOHluMW1zS2tJMFhmaG5lOGJtdWl1MG1hX2QxMmhaQUJjSzQ5b3p3cTY5WWk5X3pGcksyX2JYVVQzSndERGl5RDhEOXBtaVdGWDNl?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 20:58:18 GMT",
+      "description": "US poised to lose measles-free status. How we got here Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -507,10 +579,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "US loses measles elimination status as Pennsylvania reports 7th death - York Daily Record",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZkVsNFZ5djZjUy1OalJmYTYtX3RZcXZTaDV6RVhxR0d4TnJmNUp4ZUZ1dThfam8zN0FXR2M1ZXQwaEF6cEYtMThja2w0cHQxSE1kbkVaQ3YwSzhVMTl0Mk1HWmRLYkNxQmREU0l3MnU2WDBISHUzRVQ3U3gxN3pUWjRXeE5QMGoyOVFMUXJZR0xmWW92cDV0X09pRW5maUtpanRzM2Z4T29nOHFaQXJEQUlRVmFKWF9HTHN5VTRTRDVRdHhsOFMzSWNCYmFfeWxFa0RQWmJzcDNob3dWNlE?oc=5",
+      "title": "US loses measles-elimination status as Pennsylvania records 7th death - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObFJQYWduVDZrUllBWTM5ZDMzNGRYVDh6NmUwUmdxWHl2ZE1KRzYwTXhhYTI0MlZqR29nQnZuZUx0aW0xa1p2bzBTaGdtYnZBYXZaek0yNUY4LTBXTGExQk0wNFJmMU9nN0Y5TnljbnlJVTBRRk14Nm92MFNrb1ZkUHYtTnNUWkJLMlBuT3NDakY3UkJNa1dPbldRbGNGQmcwZDgwbkMyaUFXQXF5VGJJR2hmU0h4REw0Y1JJanZ0a00tSnpsWHgyYUlQWVN0SmdZUV9ra2xsejMwZw?oc=5",
       "pubDate": "Mon, 16 Nov 2026 19:58:00 GMT",
-      "description": "US loses measles elimination status as Pennsylvania reports 7th death York Daily Record",
+      "description": "US loses measles-elimination status as Pennsylvania records 7th death USA Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -529,6 +601,15 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGYjFnXzNyUTZWWEF5NlZmdGJrbDRnenFBRnJmbWp4YmdIMVRVM2M2Q05qWlVCWW0xRUJLdnJsV1RZSW9xWGV0QUs5bWJCTm9OLUI1c1A1SndNbFZ5aEJsa0duMmlHVVRPdTR6ZExqTUZzMUhlYXJOMExhaw?oc=5",
       "pubDate": "Mon, 16 Nov 2026 19:45:51 GMT",
       "description": "Berks records 9th measles case Reading Eagle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Pennsylvania measles cases rise to 1,561, state health department says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmZjQkZYVUZ3ZzZ2UUZsTE9TNTV0WUMtNUpaT2lwVHFveDJSRFlCZURNZTUyVVVtaHVDbWhJeXZDZmpfanFYSG9taU1nRXZaVVNwdGdOSHdrdkFpX0pMLWd2aVlYZU1mQUtHQmZiVGdrbzFHeE1PZnBsbE9La1hYeGcySElpUW5DQklmVDFlR3dIeUNUZ05yd0JfT01rRnh0Yzd1S1QzTk5XSExOVVE2RUkzWUpBODN4MHc?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 19:40:09 GMT",
+      "description": "Pennsylvania measles cases rise to 1,561, state health department says Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -597,15 +678,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "US braces for loss of measles elimination status amid worst outbreak in decades - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjdrT3QwSm9QTVNDUkRmZFhZb2tieU9zRzhra1lBM3dTZ0dTejYtY1RsQVFjLWpyUm82eDBaYzhlWXBjWmZvS2VkMU16blZSaVB0OEVQajNDaWtIOUNlSGhNM0dzNWFFa0l4cld2YU1mNGF4NjJYbU5PVWhLVU80bEVMWENuRDRndU5j0gGQAUFVX3lxTE1xN2RVMDN3RjRTRkdobFM4TmFzWW1pYzZHZmZrUFpkcm8yOFhIVFc1YUFYU21vUk9OY01rbE9fTUZJeTZCU0VIeXNWRHhfeFE2RC0xTlJrcHRYbWpIbS0wX2txdmp3Q1VVdXpBVjFsYUEweUFQNS10NC1OS29Ua3ZIZi1waFVUYnY4c1VvekN6RA?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 18:27:00 GMT",
-      "description": "US braces for loss of measles elimination status amid worst outbreak in decades The Hill",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Opinion | The U.S. Just Lost Its Measles Elimination Status. Here's How to Get It Back. - MedPage Today",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLSlBRdll1c1N1TzRhRnZOVWpYLU9VOFluam1SQ0xSRjAxcHNDczVWSE5wZ3NxYlU4eE02eXJFekFTYU9KRjZYSDJ0cGJDRHFWZTJWUGpoR3czTndJeHlPd0NHMzR6UkNYR2RB?oc=5",
       "pubDate": "Mon, 16 Nov 2026 18:08:45 GMT",
@@ -633,37 +705,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Older immigrants may be more susceptible to measles, but are not the ones spreading the disease - Northwest Asian Weekly",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2REZV9TNnNPdUR6NjYyaWdGNVFwUlQ4b24wTnZsOHZ5VWluUjVNQi00WjJYazlPSDhuWjZHVXNhdWhKb2RsaFQ4QTd5TnppRThaajNWOEFWal9LMzVCMXdEUWg2R2puZV85Qm11UUd6bjhnR3E5cWlhZFdKaDZSUDcwTFVxZ1QwQ0staUlyWlVIVE45T0FOUzFWZE5VdkZsa1lXeURBRTJ6N0FlUUxUbU9jbklBRXdOMV9FRklUa05kLXEtZzNfYQ?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 17:39:21 GMT",
-      "description": "Older immigrants may be more susceptible to measles, but are not the ones spreading the disease Northwest Asian Weekly",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Why losing measles elimination status matters for families - Deseret News",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelM4a1puZVdoZlBKOS1paC03NktMTFZrc3FKeXc1V20xRjZPODd2SUlwZEp0clhsWFFyc3FCRldIY2hjbnFMN2RDREtvZ1cxMENyMTczdWR3V1hwNzJzWW5pZnZkWjhJenF6bG4tSWhLVXBiMnh6aFJ0amFRNG9HZ1JIRGJ2dzNuNW9QMDRJMEdLNGhBWUFmUy1hV0FTQ1ZKMHQ1OHpMc1FtTEF3X3d5OGxMbFo5TXZhNzNiZDV1Vlo?oc=5",
       "pubDate": "Mon, 16 Nov 2026 17:28:18 GMT",
       "description": "Why losing measles elimination status matters for families Deseret News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "U.S. loses measles elimination status, according to reports, as Pa. battles largest outbreak in 3 decades - WPSU",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWnVwaXRXd1ZRRzdJd2thMzUwS0VMSnh4UVl4SGU1dVo4NE5YZDhFTUMzQzI0dDdmV2xMekhwQk9ZM0s0c2JaWFcyRnllMFVUNHNLNEFVUTJLekJXYVRjLW1tTGZCS2tCWlp2Zk9YeVRMaHprTjhvbEUtWTNXcVp2UTBkNjNsUHNvQ2JZWkRvWndBWVk5SnJWal9qV1U2TkRFNXhieXRMODFBR1NxTFZCUUNzQXR6ck5oSHVPVV9NdmJWeFF1X0w4TnJUMUVwTWZD?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 17:22:00 GMT",
-      "description": "U.S. loses measles elimination status, according to reports, as Pa. battles largest outbreak in 3 decades WPSU",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "US loses measles elimination status; ACOG releases statement - Contemporary OB/GYN",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZUFyOFo1Z3p3SmdiQ0RfT2dPUnNoNW1TZW5PV1J0eTRNYlMxbm9sMVdXZWwxdnNtR3BzVTFRaXdzX0FQRDYwNE5GN1ZxOHJxcXU0ZTEyRHAzQUFiU3Q1UV9Pb3JTQWVkbHRYcE5haHhIYWEya2lFWFlLRjR6T1hKYzZyWEJ6dnVHMTJxdzlVTFlkSlhicGFLM3hmY2Q3UHc?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 17:04:45 GMT",
-      "description": "US loses measles elimination status; ACOG releases statement Contemporary OB/GYN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -687,24 +732,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Tracking Ohio’s measles cases as U.S. loses ‘elimination’ status - Cleveland 19 News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXZ1RmpQbU9jR3pIUmhpNUpzb1dfQ0laWi1nMlhEZWhJM21vM0VaS25ZNm1Rc3JoY1U1QkpqVVl0NVlwTXlmV05PUlN2YmthYUV6dHpxMkpLckRaTVh3RnhZR011c0JKUjlLYmJNc3JRWUtOc016VFhPMGRfcDFTdEFFejVQcHZSZWpXTVktUldUYzVaUjNaalRFdU0?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 16:33:00 GMT",
-      "description": "Tracking Ohio’s measles cases as U.S. loses ‘elimination’ status Cleveland 19 News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Live Webinar Nov. 17: Measles Elimination Status Revoked - MedPage Today",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMUkZocHQ1d2hoaWlXSlRCSTRZOGluLXZldGJyeVhfZ3FUMk1lOHhkVTdZSmdSQVdQaXlyS0F4VUpuRE9tdEp0WThmMF9td2lYdTJRNDhicUxMMDc1SG4zVUNDTDVLUjJKdWdXT1ZpcnJwTV9O?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 16:32:50 GMT",
-      "description": "Live Webinar Nov. 17: Measles Elimination Status Revoked MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "What It Took for America to Wipe Out Measles - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LanprM1MtQ0ZhYU5vYnIxTGxaM0wwZmVLbVByeFF1Z25pbHpnSWw1QWdVandsa2NMeUxjMjhoOE54amtveGFMTzlBX0pBa3MwTm9xYXgyX2RvTmk5enhaQVM0a1RJV0p1VGhzanB6VkdseTByLWc?oc=5",
       "pubDate": "Mon, 16 Nov 2026 16:31:00 GMT",
@@ -714,37 +741,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "After 26 Years, U.S. Loses Its Measles Elimination Status, Report Says - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYk00dkNyWU1JblRnakptOGZTV1ZVZ0hSV2lSNFJfNXFVc0QzT0djdVd6MEpwUE9obUNYcUw3SjhoRUQza2VPcWNNYzFHcnEweEw2Y0FENmpfcUVxN2JFYlV5OEZEbjIydTlmdTFCTnZxc3pNeHVFb29MWkpIWmFmcFFhT3hHdjRPNG80M3VqLXJHcGpyNVFGY0c0bzVJS1VBcXZ6UE9jUWFQX19zMEpLRm16cDRCNG5mTHhPQm1rMDFJb2lQaEE?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 16:27:00 GMT",
-      "description": "After 26 Years, U.S. Loses Its Measles Elimination Status, Report Says U.S. News & World Report",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "US Measles Response: How Can Health Systems Close MMR Vaccination Gaps? - Infection Control Today",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT3FVcVJBY3NLNERMSVRZSlo5UUhKR1JkaW5jSnRpVUN3U2diNjRydkp4S3dvWlFyTmN2ZUotZXlid1J4SDlqQ0IyWG1yZDU5enMwX0hMR3RON3FLLUhlWmtXeWZYWWt0UW5zQzNiM0lMcVVpaXBmZngxNWt5a2QwbHVJZFRlaktPY1h5alFtOVpMV2tDdENTVFdzbXAzb2kzNzMwUmEyUFphaWNWdFE2RjZROA?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 16:08:15 GMT",
-      "description": "US Measles Response: How Can Health Systems Close MMR Vaccination Gaps? Infection Control Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Bera, Democratic Doctors Caucus Demand Accountability After U.S. Measles Elimination Status Is Dropped - U.S. Representative Ami Bera (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX3lRay1TLTQ1SE1acUg1MGUxdVIwU0ZOYnp2aDhaWGtUd254d0RKQjQxX21jX2p1bXdmMTlfbFlydTJXMm9udmR4UUZtUmZWU19ZTGstTW43cVp3YUg5d2tsUXVicW00eUJKVEhGWXB2S1VzWk10akgwV0FXOVBPZ3o1VGR0QXctU0xkc1l0TEZKeHFILUJ1YXBBNjZqbGlZcWt0NlE3MnJCNkpjTTFFWndxc0NsQjZCMVdjenpMQzVHRWtlQk1HYmpNU2NaZXdDMUt4VEJLWlRSdw?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 16:06:43 GMT",
-      "description": "Bera, Democratic Doctors Caucus Demand Accountability After U.S. Measles Elimination Status Is Dropped U.S. Representative Ami Bera (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "U.S. loses measles-elimination status, WSJ reports - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbEdScWRrdVNPbzNKdm9EN1U3ZnZUME1zc0FBbXRfcDlLNE5uWHVrS1lJRVhwYnJIejlJVWg2UzdoTkZ6bE0wTEpCMzg1anB3VnpSUVRtOFNUQVBKeHN3Q1VZLXNSWi1zSnBSckFuWko4TnoxSmRGcW0xcFN4ckdiUFdnWU52QTNkTUpfNmIwYnVOX3p0SUE?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 16:03:21 GMT",
-      "description": "U.S. loses measles-elimination status, WSJ reports NBC News",
+      "title": "As the U.S. reportedly loses its measles elimination status, RFK Jr. has some explaining to do - MS NOW",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXdCOG9XRDhudU8tUTdQcjFBbnNIVkJ4ejNDNGVhaVVpUVpLTE5kLUtibVUzNUF0MHNCRHFxbE5MMmJxS29jcU5aVTZnOTY5NnZMRVBYU3pkWnRPdDNueHUyQmRGVU8xOU9ZaUh3NEJzTXg0alQtNTZxaUFYLVh3c19Jb0ZzTTFfdDdGV1AyUGptbzlpdE1hQ3BzSmRLdUhTQmZfWmpCVkQ?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 14:48:52 GMT",
+      "description": "As the U.S. reportedly loses its measles elimination status, RFK Jr. has some explaining to do MS NOW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -772,15 +772,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTljOFp2YzN4S3lLOHlpMHpUb0tBV1g2N09VeHhrYUoyV3piMmNFTWVxZ0VELUlka1pteUZkdER2YnpQaVBjUHQtMnJPdDN6bFdtTGkzVHllZ1cxVl9NUEZTS0xqbE5lNlF3V2JvREdBbTVyQVpYM0NkT3l0cVZ2ZEdYOE1hNzR3U2J3ODFCdw?oc=5",
       "pubDate": "Mon, 16 Nov 2026 05:00:00 GMT",
       "description": "US Loses Measles Elimination Status Amid Endemic Spread Infectious Disease Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "US reportedly loses measles elimination status after Maricopa County cases hit 30-year high - AZ Family",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1h4RktFVDU0RngyeC05T1hXYmRTdldPTXhDOUhjOW94M05ZZEtDcUVjc3lWZ0FuZkZOMkpCbG5OMHBIMkpzNXZObWYxaEhMLVlQR2UxdW11M2xBMEg3UjFZYW44dlhoUTB1c1MwRU84VmQ2QlN4RGZRckdvLUU0Ym05aDVyMWNxYmh4MVZoaGwyTHRmYXJRZU1SY0psRTBZT3h5Y1JLTDAtZ3lrTlVIOEVJX3VxUjJ5WTVVT2lOQQ?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 21:42:00 GMT",
-      "description": "US reportedly loses measles elimination status after Maricopa County cases hit 30-year high AZ Family",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -844,15 +835,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVZ6cjNTQjJITDJILWl0VGluQ1ZqYmdadENBQlpKODkxc3VXcVJiN0lKdGRuMldxdUJqeHdEMGtOaExDSDJjU0FIc3d6M0gyb3NtSVNyVUpveDhIZ0Z4Vm0yNGFya3lLcDhwdFhCazlXUWNGMWwyT0J1ZjI4OXFlZHJxdXo0ZTJERjlOZzNCTFh6dHZySEcwaDEtOGt3bjRzUy04?oc=5",
       "pubDate": "Fri, 13 Nov 2026 21:45:00 GMT",
       "description": "The US and Mexico are on the verge of forfeiting a major health victory. Here’s what to know AP News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases nationwide top 5,400 as deaths rise to 10 - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUJzZmtiTDZkanRDY2dTbXZKZmxMVWFxaUVmS3g0dlRtbF8tbDVhUFdrUEhWRkRwYm9LY0R2TDBOTkFVRENFWHk1R2VESlJySktqRFA2bTZUelRacjBmTERqVXNWX1dQdmpzM0ZobUEtaExpbC1kQkNTNGtoZEUxTWNFRlctMlV3OVA5V1hpdWhYcnpncGFBZ3E4dzZXNG1Y0gGmAUFVX3lxTE1Odm5wa1RPSDRKejRMZDNDRWRsT0pyNXVuUUdybTA3bjNGeEpUc0EzMzA0dlMxVmNFdnlsX09Hd2hKNXd4VGtjN3Q2eGFnX29SenNjQ1BFVDh5eGdqSlRKdzlKM0dPdDlOLWxLZloxa2Rvck41UTRRcEhxVF9nZ1A0ZmlhX2pCSDhrd0stUFkyMzR5ZDByaWZxZDI1SDhPQ2ZjVmpVRmc?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 18:09:59 GMT",
-      "description": "Measles cases nationwide top 5,400 as deaths rise to 10 ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
