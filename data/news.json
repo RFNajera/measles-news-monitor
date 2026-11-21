@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-21T20:14:13.131Z",
-  "itemCount": 90,
+  "updatedAt": "2026-11-21T21:12:32.730Z",
+  "itemCount": 89,
   "items": [
     {
       "title": "Child dead of measles in Virginia, its first such death since 1978 - Washington Times",
@@ -48,15 +48,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Virginia child dies in state’s first measles-associated death of 2026 - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEU1RXFwUGlBR3N0WHBXWnFPa1kxX3lkb1ZaUnQ5T1lQVlU4LXJWVHZXZ0tVYk5NZy1qdGlxUWpJaTNzUzZHMzhIM25lQzFCeUtoNXpBdDlfb056LVo5b0RRWTViV3VSSkdmS0JiU29rdnAyYWZYUjRyemtMTHJERg?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 15:30:00 GMT",
-      "description": "Virginia child dies in state’s first measles-associated death of 2026 The Guardian Child with measles dies in Virginia, marking state's 1st measles-related death this year ABC News - Breaking News, Latest News and Videos Virginia reports young child has died of measles, first sin",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles is making a comeback in Ohio, and everyone is paying for it - Mahoning Matters",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xZ3cwNFM0N0x3NW1wbkp3NXRSS3VRMXhidmtBUG5fT3gxWXA4NkVpOXNITHB2WjVOX1BrbWFLS0llaGlkaFV4OWdOS0Y4SHZXUzJzUWd1UnA5STNSNEh0RFZTRXMxd09FX1l4Xy12SmZIdw?oc=5",
       "pubDate": "Sat, 21 Nov 2026 15:00:00 GMT",
@@ -70,6 +61,15 @@
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcFh4Rzk4VVFiMGZYQmhHWlJlSnpwT2dJajl5NnNUNjNCbXc0UXVyWjJRVjlaTG10RkU4ckRKdEFGNjNoRGtZZHp0QVZlcnFrZHM2TVdtMk9JcEkyd1I0MXVUR29vS3ppQjJNWkhQc2t6WXpRdTNSeUp1UTlVblU0Y3RDa1hjek5Yb0VqckJQOHV3WThHbUZMWDNLN2hXWVlRdV9EcHlzdUtLRS1KeFdpdTR5YXUxb2E2cUJEWUx3M1FGYi1NMHpabWlILTM3MEdlOVMtWnJKM0htZVNTY2ZiTHNMR1FIOHJDVlIxN05TSQ?oc=5",
       "pubDate": "Sat, 21 Nov 2026 14:51:00 GMT",
       "description": "U.S. loses its measles elimination status after more than 25 years chronicleonline.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Virginia reports first measles-associated death since 1978 - WJLA",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbGlhdUlBR1JnZm9jRllHaVc4LWJKWG1yY2RjOS1QSTlVM2k1akZFcDYzU0xsUUxCWFRXNUQ0X1hqWkRPVEtRRFZXeFBra0dMZ0x2bF9BbDFhX3RLVTdNSzJJUWlfOXNRZDVRRkhuVGVjY3lfdDMzc3R6SFNYWTh0OHUtVWxMaEYxOTRGejBoQkc3Wi1FMVRKNUdlVFd6NzFWOFdLejFHU2dYQzRublBUTjFxTGNwcldfMkFaQ3JHTW9QNmlWcGJVeExubzh2aDVEekFXTzlJalkwWjg5a3psTDBoVmE4SXJVOXc?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 14:33:52 GMT",
+      "description": "Virginia reports first measles-associated death since 1978 WJLA",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -167,7 +167,7 @@
     {
       "title": "Map: Measles cases in each U.S. state - Axios",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJTGFIRzc4akdjV1ZiTi1ickJvMjNKX1pzc2VENndYd0MwSmFxaTlEYW9HOVBfcTFBYWdrZGlUYmEwaGowQ1Z5ZXNEcWxwOFBMSFAwallBLXJSRTRlUFdEWndLR0t4OGlza2RWVDgyc3lkTG5uNEZhRjJQYnZsZVU?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 10:30:26 GMT",
+      "pubDate": "Sat, 21 Nov 2026 10:20:30 GMT",
       "description": "Map: Measles cases in each U.S. state Axios",
       "source": "news.google.com",
       "sourceType": "news",
@@ -291,15 +291,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Idaho’s measles vaccine conversation spans parental choice, herd immunity and treatment - Idaho News 6",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGZjN3JOcjVNUkdfWW5iaEFaM2pqc0VSejJzV3NUVDhVLWFaOWkyTzFsNERzV2VIaC1ZcnRDc3NuMkpqUkxPRmlseGFrN1RZSmZycnNBRUlPaEdjb21aUmRBM2N0NXllMGMyZFA4Qnp0Q0V0VUhMYzZoMllMcUpoWDhKNFpTdnR5bUFxVlRoeGJpclVtSGhaWEpncVZwV2RMN0Z4Y0JnN0NselZ4RTN1SzVBUQ?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 00:04:33 GMT",
-      "description": "Idaho’s measles vaccine conversation spans parental choice, herd immunity and treatment Idaho News 6",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Wisconsin measles cases reach 832 - WBAY",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tdFladDBGRTBjRk9aUUJNOF9XRnFaQ1BQQmI1WWxXVThjLWxfaWw5MEt4cy1NanZlSTB1Y3JhbVl0dnZ3QXpqUFZaWDJmcWE4MlFwN09CVmZ4MU5UZ1dOcUsyblBZMDdQZ2tnbU9ITm9yM3JD0gGIAUFVX3lxTE5jeDB6RGg2TWhSWFlUTG9oTlhkVldjcGhWS2VlXzh2bHlaRVhnQ0FaejFNdk16MDNCVFNDQTFnWjY3NU1wOXZxYTJRQ0paWjJzUXAzT09HRV9pT2ZFbVNDejJFYjM1U2xGTmZhV2J2Z0dVem9PVGFPcXNhYXpka2k0cTF1NVBMQ2k?oc=5",
       "pubDate": "Fri, 20 Nov 2026 23:57:00 GMT",
@@ -390,19 +381,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Pennsylvania reports 8th measles death as outbreak continues - American Hospital Association",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1NudWpibE9yTlVLNTBhbVZEanJsWi1uMWtVdEF4Ymw2VXAxTFpTei1FVmtFQ0o5eXA5QzItVXpXQWRCM3U0TU4wekZneDgwaDE4VUwyVHNnTGdDUk16Mm5VcG9LaC1zTEF6dVRHRzZWOENSYVhEc1RZZ2Y0SXlKYmxOc1RCcFgyOFZGYXhVSlNtalM2aHREWGFBdHVZZkZ3dlpqdA?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 22:01:56 GMT",
-      "description": "Pennsylvania reports 8th measles death as outbreak continues American Hospital Association",
+      "title": "Young child dies of measles, marking first death of year in Virginia, VDH says - WJLA",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2MyaDhQMXMzYlNrM2E0UWhzZ2JjMGU4QjIwV1FKM0x3M2paN0hlaVFJcHdtZFdOLTlqUjZoN2Q0Y093QmRvYy1tNGc2azVRNFlyR0hPWE9PNHBxSlRPUTRoN0hhQ0JxZTVLcF93TzdfNThpUGhJWktNTmJKa0xROGhOdHJzQjVrZGJhcU1nLTNvMFRTZllUSzk2cHRaYkZwN0pNNA?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 22:14:48 GMT",
+      "description": "Young child dies of measles, marking first death of year in Virginia, VDH says WJLA Virginia child dies in state’s first measles-associated death of 2026 The Guardian Virginia reports young child has died of measles, first since 1978 The Washington Post Child with measles dies in",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "The U.S. lost “elimination status” for measles. How is Pima County faring? - AZPM",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONTFRcUNjZVI1azJnSzY0bmZOMDdDRG1hOXU1bk05WWJOc2ppVnplQ1hjajV2TGIzTFdacEktV1NrYTIyZk1BSEdnb1VQSmlDTS1YdFJoRUxRaUtoVEhxMWFFb2pqdUhuRk42WEx2TUI3VEZ1bTNkcm5PSkJ4MVhvbnBXR2JraDkwOU80NnE2aDZTOXB3M0EzUlVuZFZOZmt3NWVxNFVXdmhvT0NXYVVxYlRSVFR4amhT?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 21:59:00 GMT",
-      "description": "The U.S. lost “elimination status” for measles. How is Pima County faring? AZPM",
+      "title": "Pennsylvania reports 8th measles death as outbreak continues - American Hospital Association",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1NudWpibE9yTlVLNTBhbVZEanJsWi1uMWtVdEF4Ymw2VXAxTFpTei1FVmtFQ0o5eXA5QzItVXpXQWRCM3U0TU4wekZneDgwaDE4VUwyVHNnTGdDUk16Mm5VcG9LaC1zTEF6dVRHRzZWOENSYVhEc1RZZ2Y0SXlKYmxOc1RCcFgyOFZGYXhVSlNtalM2aHREWGFBdHVZZkZ3dlpqdA?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 22:01:56 GMT",
+      "description": "Pennsylvania reports 8th measles death as outbreak continues American Hospital Association",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -430,15 +421,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVJEbjdWOFVrc3FXd24tY2RsYnh1d2tITEkyYmxJQWwyLW9qYXFmOHBzUHB0R2FrejNuVXRBQmtIa0VENG9GVTM0bEoyUEVjTXVhYzVmTF9ucHVTQTFJTWQwZEJaazczUUdhSzR5c2l1WFFOV19uVlVVWGJiZmNCaTRjWVYtM3EzM2xyQmVuSWM4UEhFNU00NHdjbXBaQWln?oc=5",
       "pubDate": "Fri, 20 Nov 2026 21:42:52 GMT",
       "description": "Wisconsin sees triple-digit measles increase as US nears 6,000 cases CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Child’s death marks Virginia’s first measles-related fatality of 2026 - FOX 5 DC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnZUM05LOFotYi0tSGI3c1FvcURmQUZxREpsSWlZNkhzSVZYVy1rN3hrOGRmN2I3c3ROWWlUa0F6b1hQVnRnQThITVVhSVIzQkFKODZ6SnhmS2pGWm16YUFTcHl5dlhwM2JVMFk5eFctUkRoMzA1VGJFdnhKXzJDVHBPNk02UQ?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 21:36:12 GMT",
-      "description": "Child’s death marks Virginia’s first measles-related fatality of 2026 FOX 5 DC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -552,6 +534,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Ohio measles cases up 700% from 2025 as US loses elimination status - The Columbus Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDE5V3B1bmtWbVFYcm9iZTBCQUN0Y1VMVjFpell6V1VGZllzdGNJempoX0J5cWZmZ3FOMzg1aXZ3azVpTTdrMlhPWVlSWGQ5NFc0QkpPUTdtQnNYQXhjRC0zS0NiaFFLWUVuOUpwYks4RV8xXzNLeUp3OGlTcm55Q204RlF4SkpTYlN5N01BRTFjNjhFTWR4RGtlcTUtZHI1bzNMbkZGc200NUhjZWVmUmlQZmcySk1OSWc?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 17:50:00 GMT",
+      "description": "Ohio measles cases up 700% from 2025 as US loses elimination status The Columbus Dispatch",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Measles Update: November 20, 2026 - Contagion Live",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzWXNQOFkzalp5ekhveU9IT2xRZEQ3UjJ6ZGpfUUJWcXA4LWFkOXZLbjlLcXZNTHNoZUxaSFdjTjZXa3FoQmNSUlhaZmhBV1k1azdJTjNKRkZIRTVSS2MzZ1NZSm4wZzRKQTU2bUZYV0pDY1Qw?oc=5",
       "pubDate": "Fri, 20 Nov 2026 17:45:53 GMT",
@@ -570,6 +561,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Loss of measles elimination status threatens pregnant women and infants - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZEYydXRIUXgwRHl2MG5SV0xzWm5mRU81VFFmVlhGclRCWlJaUU1JOW10eVZtTDZ5QXp4N09pcnY1QWNvX0o1a1RHbTlDLXNSM2JZZEJ4aVR0YnNOMW4yaGMtT3dXTkhvbWVzbHM1RmNqT0dFdzdhTEVqeDJtYjNsSXZOMXhyXzJXR0FmeTlIdXZZNE4wOTdLLWxYMTFsSm1aTWRlbTlZV0RteEZpVHRiQWRiR2ZtV21oWXJn?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 16:53:00 GMT",
+      "description": "Loss of measles elimination status threatens pregnant women and infants News-Medical",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "With U.S. loss of measles elimination status, here’s what virus expert wants you to know - The Medical University of South Carolina",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZHdPVnpnVk8wZldaVGZhR2tQSDMxVHozRkpQU2R5NmZEMFJaSnhILXNQeGRINlU1cTFocXRsLVE3MW1jbThUY1o1SDBjM1luRWhwLS03cklnX3hQTTdaY2JoWHhPZ21iSEI0WVU3OFVkY3g5WHpRUlZURGg0VTJRdUhyM2owZjhpUGVFdFQxamd2RW1lTmJDbTl6djFGNGxrRWZudlM1OHQzWnRvaHBMM0VmbmJQTTdvVUxmNElubVlQTGF5X2VrOWM5cE0tUQ?oc=5",
       "pubDate": "Fri, 20 Nov 2026 15:37:49 GMT",
@@ -583,6 +583,15 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUhFYXdIb2N1VHRXM0ZfWWtPTmliajFhTm5yQnlEcHdfNkVSZWp0WUxMRFNvNGZ1XzZabHkxbi13R3NMcnBCZGZBX1NzdTRtYTllT2pnZmJkdG1aR1dOZ0lfRTVTbl9sRThjeS1fUGUzNURIcl9tT2pXMmpEbzBUUG9mb3F2VzRDb2xWenNqcm5lX0puTjVfZkV2alhmdG13LUhMVTNUSC1hNE4tTjRN?oc=5",
       "pubDate": "Fri, 20 Nov 2026 14:40:22 GMT",
       "description": "Measles outbreak hits Indiana. Here’s where the confirmed cases are Indiana Public Radio",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "The U.S. Loses Its Measles Elimination Status - The American Action Forum",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdXBHX3Zmc01MRFVZeDN4MmNoVnl6WGt5bmszR1lCdkl0LTQxTkJjS2ZYclpGdUJPbVBGWUI0ZEJqZm1TSE10enJwWXdLbnZ6QUtZN3plcFcwSWJlMUMxTUFqYnBDb0RxV0RnLW9rWTBnZXU5clBRTzc0VHd4bEVZZEY5aExYWS1DNkM0aHd4TmxmYUJNZzB3Mzk4VGc?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 13:59:05 GMT",
+      "description": "The U.S. Loses Its Measles Elimination Status The American Action Forum",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -696,15 +705,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles: What Parents Need to Know - HealthyChildren.org",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOE9qeUk0aTNFNFBNckNHc1QtNnowNlZXUTJuVGpEUDhyVUJDam9kTWRleTFYT1JZemUtdm50ekhKeWZ2X1RIdjVaYTVZNVl0U0RWYUhIVmwwZWtxX1FQQzhZdDc0MmQ0VmJzRGx6T2I2R3lCcHV5MDFvaDE2WEFsb29pX0x2MVk2ZGl0VnI3YUduR3dqV2RReWM5enBMcHBqV19B?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT",
-      "description": "Measles: What Parents Need to Know HealthyChildren.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Pennsylvania logs another measles death as survey finds few Americans fully understand the disease’s risks - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1EyVUFvRHoxM3VEZmI5emxLY0tENVF2Ynl3Z3F6aU9jbGFHN3NfY2pVZFY1SlRtY0FYZHp2cThxY2dhMXN1bmJ6MWlyYjk1dUZjWXlkM09saHg4b3FvVlZiUldaYXNTSmNvYVNKRFVvZVVzaTBqdHRadEE2Sm04U2VXYXFmUGtaVFpwQXFoQ0RnUzZ6Xzk4M2dhQmJ0TEdSVkxvanZkYXNDYS1RQmZZeWxyNUhuem5xcnNHZGRRNDNJbEF0?oc=5",
       "pubDate": "Wed, 18 Nov 2026 21:29:50 GMT",
@@ -781,15 +781,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVW5LZlFrVno4ZlB0S01KOHljc1UzenMtRmNsQzBnRS13eG12aWplb1FxSkpQNmJxQWo3Qy1KVVFyS1BFRWpTUWctT2EtRzdNT2dJa1c0V2h2THhaSUNfR1pSenZfcElXLXZDbDMteGNSbUpoeUQ2ZHBSYnl2X3JQZVY0ZWM5N2xadTVtYU1lQlhHNG11aVk3UGNBTmtiV2FHaENxUV9TWER2RFo5QjZiMm02bFpTYVhHbWhVMDVB?oc=5",
       "pubDate": "Tue, 17 Nov 2026 15:12:22 GMT",
       "description": "Measles in the Americas: Questions and Answers – Technical Reference for Journalists and the Public Pan American Health Organization (PAHO)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "How the Measles Virus Erases Immunity to Other Diseases - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOGdLdWF4SDhpRHhXY2hGdFF6VDNPZ1AzcTNaM3VjZEZQTDQ1bm5NeXBlQTVVY1oyYUpjWHp5eDBCaEZPZHVaVmRMR2VmdjJKaUx4b3dPc1ZnMTJ0d0NmWUR3WDZ5OW5weFZ0REpKMnIyN053WXZ1WUstcEpDRnA1UA?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 10:02:07 GMT",
-      "description": "How the Measles Virus Erases Immunity to Other Diseases The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
