@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-11-25T06:25:01.440Z",
-  "itemCount": 91,
+  "updatedAt": "2026-11-25T07:17:34.025Z",
+  "itemCount": 85,
   "items": [
     {
       "title": "Measles returns as gaps remain in Montana vaccination data - KTVQ",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQnJCbjJaVDY3R2J0WFI1TnJZdkFITGt6Q0E5Q0VEQ3p1eDROcUFlZXJHSHJpeHQyWnF4Z3B1MUF4bWNsY1l5aUVPdlhvbjhaRjlZbVNyMTZpM3IwTUFzaWhiUGQxMld0OW1sanNvbHA5V3E1YlA5REE0Y3psWXZHQXkwUjRsdFlnbklNZA?oc=5",
       "pubDate": "Wed, 25 Nov 2026 05:58:49 GMT",
       "description": "Measles returns as gaps remain in Montana vaccination data KTVQ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "3rd measles death reported in Wisconsin - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOS1reTNVVWg3OFh0LWI4djI3eXJMVTdBU3Y5d2ZiZEFJbkp2NDJHNGt3eXBKX1pWNHZnd09lNE1ldUdWSGpJTy1razgzMTNDRzNHSEg0ZGI4c05TOC1OZWFGMFdwNF82QWg5MVNjdzFLVTN5MWF1V08zZHdoWG9lUGdXamdlY28?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 04:34:00 GMT",
+      "description": "3rd measles death reported in Wisconsin CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -34,15 +43,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbm9Zc09jT052V2xjdlJROWdhY25zaXdlX212RlI1SEFIUXVvWl9XZWFzdnN2WGlaVHFPb3g5YTJjMURNUl9XZGxUTlhSbEpPVGQ2X1lNdHo0aVlfN2VvbjdXSVROYl9pQnhOdFYwUjBPMEc5NGZZSUdfZm5vQ2hZbHlKczkxdjh2QUpWUHZ3SVDSAZYBQVVfeXFMTVRsLVBMZ3JvUmlNYnBOengtbXJ5YmN2cFlfMl9RQ2RyQk5qREFfYjI0OFM1Tm1BTnItTHNqT3hrRlQ3Wmg4ZW5xSi00cHJkNkVvYW5pM0tmN0RkRzZoOVRySVhESFNzYzVmTFJHbmFsemxNbmVJN3p1N1lBOC1DUkJ6MGFWOXV3UzRlV184aTVKbzlENDdR?oc=5",
       "pubDate": "Wed, 25 Nov 2026 04:16:05 GMT",
       "description": "Wisconsin reports 3rd measles-related death amid worsening outbreak upi",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Berrien County health officials give measles prevention tips after confirmed case - WSBT",
-      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPcTVNa2lFdlpsMkJWdDluaTBWZnh3VU4zOWxhNjVITXo4RDJmN1ZBQmtwT09kOEp0RUJfT3hyNG9tM2ZYRVdmM2FiSXdqSnJJMUlIb0luWlZnNGthYUNCV3oxdHllQloyUjhzSncwQzdldm5BS193bHB0UzlqQnpGaWVhV2FWQ3RaWEp4M0kxSzN2OGlPaGRKQnA1VF92aFlOX0FKRHRQV2hZa1RURzBPNWtKT1FOM0pkb3A5Qjd4NFF3eVRIamp1TzVHaEpsSVc0emZ4TTRUM0gwREJiS0Z1R09mRG1VdXRpa2l5LXVRYnkyNlFSTXI1V3JNT0RkXzdRdGh1dlFudzl5cVppdzdzTThXVWJFSmRWdldQbUtiaERpUUpYNE41QmlZNkQ1ZGlZQ3RhSnF4OXUtcEtrb3V1NkNTMU9rbzh5LUlVT2VFd0VnVnpiSHMxRnU1V205cnQxZC1IZU43U0xnMnVYZE4ySkJfdzRiUjVqRHNRNXA1SUJuNlpEc21iWjZqQ0NXdw?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 03:16:16 GMT",
-      "description": "Berrien County health officials give measles prevention tips after confirmed case WSBT",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -138,6 +138,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Questions mount on RFK Jr.’s plan to regain measles elimination status - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRU1SQmEtY1hpVGJPRVBZTDYxX3FJWmJ2aU9mbzRiNk0wMjBDUHlKUmVSbnA5R3Z2Ti1XcWZsZWFPanJHRGhwc0JLeGllUVZ0UncyTFpPc1FvYS1GRGVyMjFKRU9rei1kbThMU21OTV9uM3paU1J5ZGdsd1JBNndkcFp5YXNVc2dHTVZhM2ExSEZpUdIBlwFBVV95cUxQOFc4TTM5UlhIdjRRTW15MVZPd0lGeEo0M2dUS08zZUc0WFZwUi0xVlY4cTRVakx5Z3YwLV9lS0tGSGN3X0tSU2sxbGl2dV9hOUxHUWRNaU4yRi0wVnJTaUduVndRRW1aOG56bkQ2ckZ3SmxqbUhISXhMd3J1dXRzN0ZpWTluSFkwQjNaeWVTZ2ZvZWNjMkNn?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 23:52:00 GMT",
+      "description": "Questions mount on RFK Jr.’s plan to regain measles elimination status The Hill",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Third person dies as Wisconsin’s measles outbreak approaches 1,000 cases - Wisconsin Examiner",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2RzTURZWXlOczZvTGo3Y2dYVXJ3cWtvbFJqMHY4SUQxYWs5ZEVnd3JlejVuQ2QtQXM1a21MVEI4LS1wU0h2X1VQaHluc3NIOEo1RUdaa3JTa1g4SWdhTVFVbGt2WjRTRXlxUEVjd0R6TFhUa3UyNWtKOUpRUXZldVZfV29wQmppNWV1bzkzMElYQk5FTURHZVotVF9MOHZVaDk1N1hhdEw3VVZ5MXNVYjRn?oc=5",
       "pubDate": "Tue, 24 Nov 2026 23:46:02 GMT",
@@ -147,28 +156,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Calhoun County Public Health Department confirms measles cases and healthcare exposure location - WTVB",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pSUd4VkJmVFY5YUFWbTlVeTVNUkVRMU5aVnVRSnQ4a2piZ3haazJDWV9sXzlhQUZWXzZHdVVPMl9FX0I5cU1Yc0tGVXRZQQ?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 23:45:19 GMT",
-      "description": "Calhoun County Public Health Department confirms measles cases and healthcare exposure location WTVB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Do older adults need another measles vaccine? A doctor explains - WCVB",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWWNSSjd5ams3VS11WlBHMTZxU3FTTU9VaXNyQ2VmLUJWSmlvZXB2Ql9iMzl5b25pMWpacGFBQ1VqLVlCeTRPcERlM0tCSHl6U3pOUWRLQ3V0ajNiaHNEYlNjUWM3NVE0bzEtc3lXWVVQZ2dUMFhnUWVlMURfWEtlYmNn?oc=5",
       "pubDate": "Tue, 24 Nov 2026 23:45:00 GMT",
       "description": "Do older adults need another measles vaccine? A doctor explains WCVB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Massachusetts doctor explains which adults should consider getting measles booster - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlOVEdjZnY0M0xsTHBqZk96TjZWRnJVTnphOWdQRV9GeWl6Y2NKX2pfbHQ0Rm5YMnZfODVhSlhWRE9CRE1rS0J5TjhJX0lzS2lCTmR0dVEtWVgzZS1EYmt3VTY0LUpuNlVyZGhvTjZLbjlRSmhLNEtsQnVNUTFqLUpqLXJJeHphRDV0Ylhac0VubDN0dEx1LXlJZjA1T0VwWWdhQ29ScEUwTm1KZC14b2lCSlZaRXFHUzZjRA?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 23:30:00 GMT",
-      "description": "Massachusetts doctor explains which adults should consider getting measles booster CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -249,7 +240,7 @@
       "title": "Wisconsin reports 3rd measles death, as illnesses spread to the general public - NBC News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQckZNQ1V3YTBhZVlUT3VyR2ZNZDduUjJDazUxd0lnUzJEVGJhWGZfdXVUdGM2MFlqbG1JdmFjejQ1SDlWV1B1ZTdRMENpNVJkOFZhaUR1NW9Fc1lYeTk0WXRibmcwclkxWVhaNE5TY0lGUjVnZWo4WTU3NklrZm5ycGwwTFpEMWFUajZJaG1WQ05QYzBYWk5fdjgxSFJtenJlYkJEdw?oc=5",
       "pubDate": "Tue, 24 Nov 2026 23:02:54 GMT",
-      "description": "Wisconsin reports 3rd measles death, as illnesses spread to the general public NBC News Wisconsin Department of Health Services confirms third measles death in the state WMTV 15 NEWS 3rd measles death reported in Wisconsin CBS News",
+      "description": "Wisconsin reports 3rd measles death, as illnesses spread to the general public NBC News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -264,10 +255,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "With Thanksgiving two days away, indoor gatherings could fuel spread of measles - WKOW",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeXppaExuSmZTUjZNcXo2d3pkV2dCUFRoaWJudTVtSnR4S29acU5QVEZLY3hERU5MLXc2bkZRUnpPTDVFSDZSZk5lZXN2cWdKQlN1dkV4OV95S2Q4bXpjODFOQ0twZ0ZrdzdFWl93NXk3dzJuc0Y3Y2dYQXlpUHNNQTVOdzZUM210Z3I5UkVHbTIxQjlZYlFtd3Z1elFBSHFDMjZJSzJOa1hyaVB6WVJLZDZPTF9aQWRqcVVFdEt3RXNCQ3BtaThaQktjWTNrbTJjTko0Qmc0M250bEdrcUhCMkdwb0d4eGJ6Ujk0RTBmTzJUSjFQWU55OFFn?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 23:01:38 GMT",
-      "description": "With Thanksgiving two days away, indoor gatherings could fuel spread of measles WKOW",
+      "title": "3rd measles death reported in Wisconsin amid growing outbreak - WEAU",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeHhPbDhGSkFqNmhCQi0yTmt0NDZzM3pIN1BDTVpnT1VjVExCMV9xenVQTXVmdTFuY2hTTGZjZTduOE1tOFJqQ3pQZnVIZC1YZ2tKUlVHY0lXNXJkNFFKV3R4QkY5T0ZHenVlcHg0eUtrM0FZbTUxemc1eUtkd1FMRWpBdWJDZjZMR1YtaTFFQzc1ZWhsX1HSAaoBQVVfeXFMTkFzX1MwSzRLUWRmNWVoMmEtbGE5Nlc2aHpaa1cxVlNKTVlhYWpQTjJKcFRnQldGUVVYSGdwelJSUFQwZjIxWU5lZGJuVHdVbmZNMUdDWUNWTWhNNnRhWmZBZkM0R1dERXBTbUR0M0Rmb2NSTUY4UzNKdW9yaDV4bVhEVGtxbzVKMG9odDZ2QUcyRDBkSnExYl9MREFhMU9jZUJwXy1lRDR3SWc?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 22:56:00 GMT",
+      "description": "3rd measles death reported in Wisconsin amid growing outbreak WEAU",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -336,15 +327,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Wisconsin DHS reports third measles death - Greater Milwaukee Today",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3pfZzN3OXZESlhwa0cyTmNaX215dWZEYXBScXZZSkpqcGJSYkpZZ1JJUE9ycUczS3VzUnlSVHk1RmY0aFBPY3pHV1lBWGd6NXpvUmZVeVJ0cXZycU1iN2FIVjBjdGhrNDhLWHdZSjZlSldhUkpxbTB3NHJGcDhpMGVRdEpDOTAxcy1QekQzdXA5RmZFbWZvVnRCaWJmUTQ5YUFnV1llR3F6NnR0a01JOXo5VzU?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 21:00:00 GMT",
-      "description": "Wisconsin DHS reports third measles death Greater Milwaukee Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "3rd measles death confirmed by Wisconsin health officials as outbreak continues - FOX 9 Minneapolis-St. Paul",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV1FQeWEzNm9uY2hWQlBFODViVWx6UFZhQ2FwblpWN0NFY0NiRDdsenRFVnFKTlktNHpNT3ZFVXpGMXpKc3UtOUZkbm9feHB3d2x4VTlmRERZTE0yRlZGVWg2RDhtbjZ5QUhpVEJTRHdTekZBbm5kLVRWTm5DaWNsV0JKdGNzX3JjVXJ5dFdzMjlKcDBiRE5WNU94ZmZrejFRY3hJ?oc=5",
       "pubDate": "Tue, 24 Nov 2026 20:58:12 GMT",
@@ -358,15 +340,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSXM0N3hMVHhTdGpBSlhBTm5TRHB5SnpIS1FvU21SamkzVHY4OEgyaWs1MmE3aGZXVjVXZnBDaElCQVdNUWtXSXRRNUg2VHg5eHhRdGJvMlRkWFAzandsRXR2SVFtcm05YVN0cngyMXRvUThYZURRdkFsUVB2Z19uVDlZMmVpZVdraWlkeTllU3RBWWVqY0tZeFdSQmtvV2Mya1ZqSlhFLWsyV2xoMnhnTGNKU2p3cFJweVRzTw?oc=5",
       "pubDate": "Tue, 24 Nov 2026 20:58:00 GMT",
       "description": "Wisconsin reports third measles death, a Lafayette County adult Milwaukee Journal Sentinel",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Price County sees spike in measles, 21 confirmed cases - wjfw.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM1B1U3ZyZW12YTFndUVRZzdzemEyREVPR2ZBUzA1TGVOQ1pPQ3ZFUlZtTG9FbFFnRnp0ZVozczNuRWVYdjhRQi14OHlsSjhSWkVJZ1R3bVgxNmpKSDZTU1NIdDRwbkd0RUFSOEFqXzdPbWxIbXdhSTFoM2dWSE82d2JYX2xFcHQ4MVhvZThwTW1zWVNnNGhSaTFsbkVkbVMzQ1hYeC1EV01TaG4tcDIzSnBiSTMwMG5aZDJ1OTRpLWlNQ3hfcUVzbHJUdDZUQ2Vr?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 20:45:00 GMT",
-      "description": "Price County sees spike in measles, 21 confirmed cases wjfw.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -408,10 +381,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Opinion | It’s not just measles. RFK Jr.’s vaccine policies could bring back another disease. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEVDclJRcDEtdU1wNmVoOWhUaE5WcFl1cnBJMXE5MFRNb3dzQ2NScWxGNTB5VUJUOTU0T1l0ZFB6QkdhQlpjQXBEbW9ydGR5dnRPbE1BZnNKYjNOQ0VyUHRKU1FQSU1LVG5Sak8wSmtYWXcxazktdURuZlZJYW53dDRFNlF3Q3E3U212Zk5SUnp6a0c4bzVzclRQeHpJSVViY2Q3OGkzWW53TzRlNkpGNmNmNzRmSnFYcXc?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 19:45:00 GMT",
-      "description": "Opinion | It’s not just measles. RFK Jr.’s vaccine policies could bring back another disease. The Washington Post",
+      "title": "Wisconsin Department of Health Services confirms third measles death in the state - WMTV 15 NEWS",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObVBnSWtETndMVWhndHBsNm5CNXNCS0t6M1JEd2QyUWpkQ1VkRmFabVM1eDhFemxBUFcyN0tnc1dMd2RWbkRpWFRlQmtaOW51X2h6OUpaRjdONDE3ejliVHl4UW4xalp4S2RYWkM0UzIxSVNramJnbXBCMXBrLWk4cWIxOHhKdmU3SW9uSUJ6YTI3T3R5dlFkX2RPcURpdXlub0dnTWZBVW5sdVQzMmlr0gHDAUFVX3lxTFBuTlZrWnhRNVN5Y2NxV2Jzck5OY21xd0xMdFpuRi1SRXByR0ZBR0lzcVNxeTdiRG9QVTVLVkpnMFktRUZlLXNPVnB3T18tZ1Y4Y3hBdi1mR3ktblRkb204QzRoSTNzTXJJOXpoRjNfYXpGZF9SdHBDQ1ZzOFhsUk8weHFpLUdQRWJWTVZfWHFtdzVwUUJCRDVGSEt6ZGJYV3ZOeF9GSFJYLUw5NS1UaFUtUFRqeUdMMUpqTS14a0hsTG1hZw?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 19:44:00 GMT",
+      "description": "Wisconsin Department of Health Services confirms third measles death in the state WMTV 15 NEWS",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -462,15 +435,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles Outbreak in Orleans County Grows to 13 Cases - Seven Days Vermont",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUmREYmM4X05FLXR2SUFfYlVERHZVcTdEVkJEbXNueGpLazAtdE9YaWpmRzJMU09kQnY2M3RvNy00Q2xlQkdaV2xVdEJLYTRleHlXUVktVGU4M0JEWGNEVGdzSzJ0UlRneGpSY01raTY1Yy01ZTE2RUV1bUFxcERhUENWYzhBZWRIZmUteUhJZmU5cGctekNxX1BrYjJsQQ?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 18:19:04 GMT",
-      "description": "Measles Outbreak in Orleans County Grows to 13 Cases Seven Days Vermont",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "California has confirmed 60 measles cases this year, more than the last two years combined - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNME5wbmg4Si1zMm11bE5lSmpiTlpLMm9EVDZGTXNKSTZBYWxJclVwMXBjb3ZUYnB1dWtKbGtZZ3ZxMVhCcmkxTS00ejFWdVBLeDFyZzNkQUpHSWZJNExWbEw4bHVMYXo4ZWg3R0tMbjhDei1pSWd2M3dLTTZwYkl6UzFHWURTQXVOYXRNU2RITGw1cHVXT09BdUk4aUxVZy1vbkRuRUpqSHNTaU9KQjNVd2NHaUJSLUhCbXFUNzdzdnQ2cHlDZ2o2WVln?oc=5",
       "pubDate": "Tue, 24 Nov 2026 18:00:00 GMT",
@@ -489,10 +453,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Holidays raise concerns about measles’ spread in 2-state region - WRDW",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmlmVWdNMDBSRWllWGxvTi14bDFkcmZOVG9ON2wzQW1NbExjd2xnMlJNWHZ5bUNqX2Q1LTBYUS01WFI2TEtNZGtWb1ZxUDBkWkc0OVlycUMwQVFoYjRlMkhWcE9uU19PUDhuZHRaZzhwczJyb2U2ZzN4MElEWno5dzd5bkh3aU9PUVpYRlV6OHZkU3A4bHhB0gGrAUFVX3lxTE9EeFFGRGJudWt5MmlubjZiUWJ1WkhDM1pKYlprcmNoOU80WGF4UG1Xa0NveEdQSG5LOUplSDVmcVlvTTNzU19jQUg2WjdoaDV5cHNnTFdQQUdxQ1NhanZnck5tbEJtdGo3LUZSZWc0UmlPWURZbXVUZXJ1c2M3aktZSHBoV2dibGg4VGxnb192QUZpYVVhQ0tuZ1ZiLXFYYjRYaV9Mb2g5MzdGWQ?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 17:20:00 GMT",
-      "description": "Holidays raise concerns about measles’ spread in 2-state region WRDW",
+      "title": "Mexico reports 12 active measles cases, 90% of population vaccinated - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdkQwaktwRGJsZEEzdGtVT1VtQWswZUY0bWhPX1U2U202enU1M21lclpiSDMzb0FvQ1l4b2FnSVBBT3ZtdjRsSTVLbDM3Nzh4cGxzNUtmQTlCSHNLMEM5dk5CSm91NS16TFRQV0JZSzVET2R2cW1JY0RMM19OTDRiYm1GYU5WUHpwQy01cFh2T2I1dW5KVUx3b2FxcHd0MklYdnB4cGREYVRZWVpITXdDZlpmdDhrYWk5R3UxeDBqTnQ3dkRCcENENA?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 17:47:03 GMT",
+      "description": "Mexico reports 12 active measles cases, 90% of population vaccinated Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -624,46 +588,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Too young to be vaccinated for measles? How babies face growing threats from outbreaks - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN0pUUUswZ0g3ekZtSDdTLThGOHdxY0dGQ1BaQWF1RUdLZ0ladWlKV2xya0YyVFRETEdyYnZZODMyUEVIbjhkZXFnU2N6dk1RNldSdUcwNXZCM0w0MngweDdsakdyM3hfSnVId1BVWTI4ME9QSDVxUXJTNklRbjJaZlNTaWtraW9HZi1yTEtWLV8tOGxzcU55aDl5SUNCbmgx?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 10:30:41 GMT",
-      "description": "Too young to be vaccinated for measles? How babies face growing threats from outbreaks NBC News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles cases are surging. Do you, or your baby, need a booster? - The Baltimore Banner",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjZmdU5uZ3o3VUlYUURZM0dHdE1iODJtb2VtRG9Bd3FTWVd4dFNVeEhZaUt4SFBLSU5YTFJjbi03akJ0VTRNOXFsb0ptLVc1RF9jd2M1WUJGZmFyZDhQX2YtZ1ExLVZJUWJwOXdrSUFuOHd2alc5Z1p0aGNPcldhbFQxOHZhbUVpUXl4Ri1XMjJ2UFpSXzY4NWctS3RkaXNnWk84QQ?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 10:30:00 GMT",
-      "description": "Measles cases are surging. Do you, or your baby, need a booster? The Baltimore Banner",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania reports ninth measles death in ongoing state outbreak - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDJrMHJRRmVQdjBiV0RZT3paRmp6R21DblU5Ull5dV9GQ2cwTENkemEwOXNoeklBelFtNmpaREJucU1ScGxnU3dwN3J2azFBTFozV0JneS01TEtyMHBucHotcFRzVnJVdHo1aFV5Q0E0d29KcTcwSUFFU0lVQVpnLTRJc1p4V3VJWkRzZ3FGY1ppQWF4RGwzWXpZNVNVMVJlYTRCNHVBaF9zam9f0gGyAUFVX3lxTE5CYlZuSkZfSTUySlNJd254Tmd4LXk3QWZXRkJkYnF5YzI4Yk9OdHJ2WENUQzZUUVU0RXIxelZSTFlDSzREMTlNRkU1V0JodUxPdzZLenZIczdnQmx6a0taWHBpeEZJSWR6eFJlMVJNQjZLNVctTm8zYU5iaUNxdjdfSS1meDZYZVZNWEQyR3RwYkhHdjRudFBIVmdEOVNMOUxGbEl6ai1HcDdVRzlKU0xRd1E?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 05:02:39 GMT",
-      "description": "Pennsylvania reports ninth measles death in ongoing state outbreak Al Jazeera",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "9th measles death recorded in Pennsylvania as outbreak surpasses 1,600 cases in the state - CBS News",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBueVBOMEptSEZKSHRySGJVdXNYQ0V5RVYtN3lGNmptME9EbXlwTUdocmYzMHFlNFhRVW1kUXU4Y0kxeEM4N19DdWx3cGhRZjd2R2E5Qjl6cXI1alBkVzI2aF83UnB4dlVFUmhsOVdmRV96dEk?oc=5",
       "pubDate": "Tue, 24 Nov 2026 01:26:00 GMT",
       "description": "9th measles death recorded in Pennsylvania as outbreak surpasses 1,600 cases in the state CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Measles Is Spreading Across the US, and Adults Born Before 1989 Face a Hidden Risk - Yahoo Health",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaFpLZG9LTnF1b1VVajRGTVdZT3M0cHJTRGlaemtaN1dZXzBPbXFBOW81ajk4c3ZzR3FnX1BDMTJjMVFGeTFpcGlnajYxUDdRMjYwWmFJai0wdzBSTUtWcDJ5OW93V1RETlduTWpCemFoQU9fdmdQckxjSmkzeXZkWU81Y1FDajRzU1JnWTVwOEs4Z0R2RkpDZkJVR0xkUmZqVlp2Z0JrbXIySzYtTF9vbUxPOA?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 00:59:33 GMT",
-      "description": "Measles Is Spreading Across the US, and Adults Born Before 1989 Face a Hidden Risk Yahoo Health",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -681,7 +609,7 @@
       "title": "Measles Is a Growing Risk for Adults in the United States - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGtaQzBHT0syWURzekZ3WkxPWEVlcXFlZXRGVXZHNGh1akRVTlA4c2dxNHlJbzNNWnBIekU5Wi1VRkhOUEhNU0lPNmRsVnE2TXJIVURzYkFWektCTk1fVXMwQmFBMmdpUXdUcndKemV5R2g4eXBRVmRzSnN6S0c3QjRVN28?oc=5",
       "pubDate": "Mon, 23 Nov 2026 15:20:00 GMT",
-      "description": "Measles Is a Growing Risk for Adults in the United States The New York Times Mexico reports 12 active measles cases, 90% of population vaccinated Reuters Questions mount on RFK Jr.’s plan to regain measles elimination status The Hill",
+      "description": "Measles Is a Growing Risk for Adults in the United States The New York Times Too young to be vaccinated for measles? How babies face growing threats from outbreaks NBC News As the US Loses Measles Elimination Status, These 7 Childhood Illnesses Could Also Come Back, Doctor Says T",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -691,6 +619,15 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNWVjeHFSaHlEN3czQmUxeDFUV0NoRHZPR1hVZVBXblBiMjQ1SVhhQVVIMDBPb3lpMXI4a05RRlZETHVhMDFoeTBBUmpfZHk3bmdHY2RRRXNvMEhZc3d0UXlwY0xqdHlELTJKcUUtRkVscXdpRFFhSEYtRWRvanlsc25GQWlINEZ5cnB1Zk9PU0I?oc=5",
       "pubDate": "Mon, 23 Nov 2026 13:00:00 GMT",
       "description": "What does the U.S. losing measles elimination status mean for California? CalMatters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Politics and misinformation shadowed the measles response in Pa. The fix won’t be easy. - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMlFLMld5UkFxc3RZODNRNHNlSVJHeEFsYml2aERJdjY5bGlYaXN1bmpqc1hlc1JRSDk3aTRCTUFEVE5QZ0FVUzh3a05uNUdGOVEtcUdydmp4Z0V3ZUE1bVRyMEFkZDU4MC1QZVczU29qU3BEamEwWDdId3B3czk3TjIxNUhQb1BFcDQ4aTU1NExTVVZhUHE3YTFjSjg1VEFa?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 10:01:00 GMT",
+      "description": "Politics and misinformation shadowed the measles response in Pa. The fix won’t be easy. Inquirer.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -727,6 +664,15 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1NudWpibE9yTlVLNTBhbVZEanJsWi1uMWtVdEF4Ymw2VXAxTFpTei1FVmtFQ0o5eXA5QzItVXpXQWRCM3U0TU4wekZneDgwaDE4VUwyVHNnTGdDUk16Mm5VcG9LaC1zTEF6dVRHRzZWOENSYVhEc1RZZ2Y0SXlKYmxOc1RCcFgyOFZGYXhVSlNtalM2aHREWGFBdHVZZkZ3dlpqdA?oc=5",
       "pubDate": "Fri, 20 Nov 2026 22:01:56 GMT",
       "description": "Pennsylvania reports 8th measles death as outbreak continues American Hospital Association",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "As measles outbreaks grow in the U.S., maps and charts show a record number of cases in 2026 - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wUl9SNkNDNWZBT1Y5NVh0OGtLaTZuNHFyWkRxYXNFdks5SmtzOXp2Z1RFdnd2dW1EYWxhVmhYRWFyNzZVSmNMTlpPY0NFRzNBcTNYbC05YmdFQW5NUTBMZWVZSnNQNWZwNGc?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 17:49:57 GMT",
+      "description": "As measles outbreaks grow in the U.S., maps and charts show a record number of cases in 2026 CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
