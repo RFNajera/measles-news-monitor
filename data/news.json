@@ -1,7 +1,70 @@
 {
-  "updatedAt": "2026-11-27T17:14:14.759Z",
-  "itemCount": 91,
+  "updatedAt": "2026-11-27T18:17:49.895Z",
+  "itemCount": 92,
   "items": [
+    {
+      "title": "MN, WI report new measles cases - kare11.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWtfNUk0bFpfVHlnbk13TmpuNERNZ0JSNW50Z1U2ZnpQUE9UeEx4TDZPdjF5eElGRlhSd1I5NjhpOU01TFZQVlBDeUdiWjdfRE9iR1ZTMFl1MzMxbmJvR1JueXFnWUdpOHhvSXZ5WUtyMEdnZi15TmtoZnRHc1lJRl9wQmsyNExsbWdyYnFrMFJwTjlIZmVUblRJaTU2NGUwSC1qQWN5d0tCNEhvWm9uMnM1RQ?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 17:50:28 GMT",
+      "description": "MN, WI report new measles cases kare11.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "US and Europe in the WHO’s sights over the fight against measles - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXhCa1JiMjRXMy1vWWtPQ1RkWVJ4a0dOSWd5SUVxNnVQaF91Z3pyVzFrc3lJbjdZV19fRHhoeWJuYThjY19sc0FkQ3dTMzJQY2pjOUVzdS1xSS1FaG02R1E1VldsSXVqMUFRRjFZeTJtMHJWa2dGZ01rOWtCRDA4UEswdUhqT05DS2YzYg?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 17:48:39 GMT",
+      "description": "US and Europe in the WHO’s sights over the fight against measles Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Global Measles Vaccine Coverage Remains Fragile, Even as Global Deaths Hit Historic Low - Health Policy Watch",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObDUxX0V1eDIwQlFzWmtJbGZkTUNxTDdGTktKTWpaUzQxNTNrSENjV18wTHlaMHpUZUh2eE1CQ0RsZXQySHBrZzZQRDJEd2JNczk0Mldfc0hQWkVCNFF6NWotVndkUHNCY0ExOEY2MzNOVVhOWjRpX3FiUUhlaE9VNHJxWUx5cTZvY2RzVGllYVlVbXZwck40anhMd1F2QlFwRWpyNUJSTGU5R3M?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 17:45:40 GMT",
+      "description": "Global Measles Vaccine Coverage Remains Fragile, Even as Global Deaths Hit Historic Low Health Policy Watch",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Historic low in measles deaths, but immunization gaps threaten progress - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW5kVGpfcm0wWUtVQVhMUHlsM0hpcXZoX2gycHRaNkNjWVlaejB0T0M0bmRsRFFqVkF4ZEYyWm9sMF9TYTBJOUlkYWtCTzhLTkF3bWx5aU5UYVl5bkJnb2pnSWVvYjljWl9xYy02dWNvR2cyV1EwY2E3MF8zX2pSd2lBekJaTndGaDZlcW85TUJsaklCZkozMzNRUGtWRElKYUZXVV9UeHFhaWswemFENXBB?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 17:44:01 GMT",
+      "description": "Historic low in measles deaths, but immunization gaps threaten progress World Health Organization (WHO)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Global measles deaths fall to historic low in 2025, WHO says - SRN News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVWRZallTc283OVVjVVlwVTlxa24wV3lMaE5NeXJtS1cwR3BacThBQ2ZlUEhiVTJaRHdJNXJoWnlQMlpzN09KS0pyR0RvVnhQRmVWYXN4dHdNYmVoUEUzSFRpemJqY3NJMGtBWlFZcmtNTFFXREhmRnc2QTQ2Ny1UMVJfMzNJOU0?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 17:26:37 GMT",
+      "description": "Global measles deaths fall to historic low in 2025, WHO says SRN News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Berrien County Health Department works to contain measles exposure reported in Niles - WNDU",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVm9GWUk2eWJfcWJ2RDRFSUQzeXZxaU9Bak5DRXUtTnUyWkZKYmp4eGgzSkpXbTZmSzBlVE1BWGRuVFBIdUlhWXFlREdCMlQwbUhCUFEta1pKSGJSR09DRnhHZ0todGpfVzZ0Tlo3eWFRWTBSM3JTRkRHQkcxNVFQRVE3MUhaNVc5SDVnT08yMVNsbDh3WlVWam9BeWRkM2k2NTlBNExjSTBieGZOVTBRadIBxAFBVV95cUxNYm5LZjh4ei1OWE1BT2dfLVZnbUNpa0JXNEJKNjZEMDNsRWlkdUVRN0h6YzUzWm1UTlpadktXclBMWVMwa21UY2NhVnItcFlqZ3o4Tzh2clhCV1hZQTB3ZlBNNnFneFhBYU53MDJqelBVNjBzdlYxVUxBODlhcHRMVFRPTnQtTm56eFBsR1VQenVoaDhCT1AxaFpfS2twOTU2cHJodTVTTFUwNFFxMTBQRWl3V0F0TFZVcGI1WHdKVTB3dUF4?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 17:16:00 GMT",
+      "description": "Berrien County Health Department works to contain measles exposure reported in Niles WNDU",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Plain Talk: 'It's actually an embarrassment,' NDSU expert says of the return of measles - InForum",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZlBOUFJKVVJwM0QyODkzcnNoaGZOOU15SVlzV1JNcG5YcHRmMEJQSXhVbE43ZXhxQ2FYME1rMlZ5NFNxSF9yVHhOSmI0SUFuS3hGa0R1c0J6V2dLYlRTdmdjNHl4N3c4c21NdVdpR2JqT1RvNzBqQm9meDhZc3JfcEM0cjBaUEwyTlhOT3ZfTFFqdDc5QkotZG1YOGlETWlNR1ZobzBiSGd1QjE3QU5aYXJvdGMyUHVaaXZhTGxNTQ?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 17:15:07 GMT",
+      "description": "Plain Talk: 'It's actually an embarrassment,' NDSU expert says of the return of measles InForum",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "Global measles deaths fall to historic low in 2025, WHO says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ0VpWWFrSUdzVFJHSFV5QUs4emE0SkozVjJIQ25OeVh5ZDQ4OUFDQlEtT3kzd2lqVG9HQ01LbTd6Rkc0cHpfYUpacmhwcGs5QlBiOG1aa3kwMmxrSlJITmNYOVUya1BKWHh3UkZya2FNdE5xYlVoSDM5b3gzeFA1Y0U2QldldV95ZVN5ekpVWmgxcWJQNVU3UzUteExuTDVqaDExWW9RN2ZGQQ?oc=5",
@@ -16,6 +79,15 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmhIVzYxRmFqNW11dVhNRmZkWThoNHA0NVRlbThNQ1pJVFJMSjRDdzB6ZExkbWxwMTMwM3Z0bEZ1a2ZpdUJCeFJSLUdwMGstVXdJOElfS0pneXRET2xUZ3JmaENLbE5XNGd3a1F5WUtKYVo2d2xKdjhfWGlFZlJNT0phdTczXzZJZHhHSWVn?oc=5",
       "pubDate": "Fri, 27 Nov 2026 17:00:17 GMT",
       "description": "Measles moraminn.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Vaccine gaps fuelling global measles resurgence, WHO warns - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSW5xaFFnNlhEb0pSZFlkaHZmY3NiT0MyS2puVFZJRlRnbzM5RkZYWEFTaC1lalh1QzZ1bVZOZVdLMnVwNU9EanBBS3JQYWRXVGZzSXUwVWtwajFWWFFjVTNuTXN3ZnlKdVVEbUFlOFM1SUFaZElXMTJnUnFfWjYxRm1YVVZ5TEs5Z3NlbjBwejZPaGU2NFg2bQ?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 17:00:00 GMT",
+      "description": "Vaccine gaps fuelling global measles resurgence, WHO warns Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -43,15 +115,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNVpKdzF5dzFQVXRVT3lidVZpSUtYRl80LW5QZUlmVGlWeUFuWUlERFR0M2dNd184YkUtUVViSEdVNGVyZ2J6UVAzTmdLMkxnUWE1UkpLMTZJSFdOcWhFRzdsTDUyQVJaN3NFN3ZXYkR2NWZDY1lYMVNyMGtuemp0OUVnSDdWWk1taDYzbjR6U1VKaG9kbGg5VkFLQ2dSMGxvOFppTG83dU5rNms?oc=5",
       "pubDate": "Fri, 27 Nov 2026 17:00:00 GMT",
       "description": "Health Officials Urging Folks To Check Measles Vaccine Status Newsradio 95 WXTK",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Global measles deaths fall to historic low in 2025, WHO says - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZFFMcDUxRU9YanF1X3Y2VFR1U3hpUThHcG1WQWtuVUxvVFdOM25hSWJEelNJWVdsYnlKMFBub0lPZGRCaTNXMmNINTJDaUJzNXl5YUxMODBVdHJKTW9meTl4TmplYXU0RE5kRHQ2bGh4X2RRMUxwU1h0SWxmelI3WFp4V2VXem5LUDJ3azZNNE0zcERDMktINFBWRlplRE0yNDNOaGxOQTc1WG9RajdoV290REpXR0s3UmdQT2ZzVngya1Bzd3ZDUw?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 17:00:00 GMT",
-      "description": "Global measles deaths fall to historic low in 2025, WHO says TradingView",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -115,15 +178,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnYyRHgzQVZKREpzVGl3ZDYxWkFmalpwNmRJN0kwdVN6YjZpdnNTM3JXeDkzemh0VWZFTmo0SkRha3FpeUY3VnhWc1I3eFpMQmUwT0FBTmtrd09zM3pRcmpBZXg4cnRMWTRZODhoQkpMbTdxem9seVZkdDFVNGhFTmZubmw1c3hrRkxRYnd0UQ?oc=5",
       "pubDate": "Fri, 27 Nov 2026 15:42:29 GMT",
       "description": "Unvaccinated and Dying: How Pennsylvania Became the Worst Measles Outbreak in Decades Latin Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "CDC confirms ninth measles-linked death for 2026 as case count tops 6,000 - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTWFBX0xWSmdCNEF6bTRQeUhoY1k5cGp2WGkxdFBBdGRHV0FzVHVReUJ2cnJtSmc3cVZDYTlQNkQtbFJnN2Z3NjJ2SGVfQkl1RUVQSDA5LTRTVFdFNHBlcGc1aFFVdno2cXF2aWw0R0lpZ0oyNUs3TXVTdTRFT1E5Qmk5RmhFWHNvZ3hUaTZ2RUJPWFBzOW1LZnJWcjg3MHNUc1k2VTlvRGlXUFpfUmpHLW0yaw?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 15:35:19 GMT",
-      "description": "CDC confirms ninth measles-linked death for 2026 as case count tops 6,000 Seeking Alpha",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -228,6 +282,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Survey: Americans say loss of measles elimination status was preventable - WSMV",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQnNxRVIyTE1aVGd5U1dJVENIaEdmSFpwN3lVWUtRLXdLeU9LLVdhOExoemQ2UnVrcEppVTU1SngxM2w1dzNHbTh3SUNySkhQQ054ZnBYRnZZRmU5eUVFUnRuaWpNMzNxTUZvcmtQcFcwZzcxQmI0RU1SQkU0N252VmFDUjQ5R0RpYl8yMXM3Ti1ZaTRKTUtpM2ZPRnZlUUNzUVJRNC1FaXl6Vnc?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 12:17:20 GMT",
+      "description": "Survey: Americans say loss of measles elimination status was preventable WSMV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Wastewater sequencing enables scalable measles surveillance - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83b2RlRWo2aUxuMnRXTTR2cXF6cGw2bXZYTnMtUUhrSkNzNy0xVlgzaTZaZlBZb243T0VoUHNYaVpEYzFaTThyVzlMekJ0cTFyZ3V4eHY4eklqVWlEc2NB?oc=5",
       "pubDate": "Fri, 27 Nov 2026 10:58:17 GMT",
@@ -291,15 +354,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Pennsylvania Races to Stem Measles Outbreak as Amish Wedding Season Draws Crowds - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2MtOVVfTzdhZmJEcVhnalp2NndsOFQya3ZobTFEN2RIcVVjbGpoWE52MXpIMVlTdXNqaHh2TVVvTkZnOFlPUDJjNVg5c3A4a2xBRlh0WDZacm5fSngtbmM5Vk51cmNGSmx5WHoxZm5ZSzlQZS14YWlJZlRqSTF1aFZ6OENkM3NOeTAyRnliaUx0amJieGdHcWx0Rk90MHhtMC1vMVczVzA0QjBUeENFX1pOdTZuOXM?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 03:01:27 GMT",
-      "description": "Pennsylvania Races to Stem Measles Outbreak as Amish Wedding Season Draws Crowds WSJ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Measles resurges worldwide despite shrinking viral genetic diversity - News-Medical",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbzdLRUozUUtDc3N6WkFNWDRCVkw4WlV6eWgwbm5SeElDWFp6VU1IeFhwbWFzOGZweENoRjFBS2cxZlMyQ2JzTHg0ZUVRenQ3MXFObmxYWTNEVFM4TFUwaUd6LXh3TW5kdS1TaXlsaG5RMmFmWDNIMUhhWmo0TXVjTF9vdHZuM2VWbER4aUpuRnZaSFloQ0ttMVpUNnVoaDIwWHdQZDVXbV9JZVE5QUdFQm91eFlCZ1U?oc=5",
       "pubDate": "Fri, 27 Nov 2026 01:29:00 GMT",
@@ -309,10 +363,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Visitors to Two Central Wisconsin Hospitals May Have Been Exposed to Measles—Here Are the Dates to Watch - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGtyNmRqN2gwSDc5cXRRZ2RuWmVhSzVVaTQtZlhrZE9HSndFd0hfZzlLS0d3dkRWeGRqcXNSenhUeUFMTFRTblJXOFo5STFTVG0tLUlvbHZ1UXdteW43emhHZWd0ejN6WTV6Z2ZnOWFSU1Z0VXRxWWxQbHp3OWwyV3JIVm1lcElkSWVjakNWemRBeXE4c3lJelJn?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 21:58:42 GMT",
-      "description": "Visitors to Two Central Wisconsin Hospitals May Have Been Exposed to Measles—Here Are the Dates to Watch Medical Daily",
+      "title": "Pennsylvania Races to Stem Measles Outbreak as Amish Wedding Season Draws Crowds - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2MtOVVfTzdhZmJEcVhnalp2NndsOFQya3ZobTFEN2RIcVVjbGpoWE52MXpIMVlTdXNqaHh2TVVvTkZnOFlPUDJjNVg5c3A4a2xBRlh0WDZacm5fSngtbmM5Vk51cmNGSmx5WHoxZm5ZSzlQZS14YWlJZlRqSTF1aFZ6OENkM3NOeTAyRnliaUx0amJieGdHcWx0Rk90MHhtMC1vMVczVzA0QjBUeENFX1pOdTZuOXM?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 01:00:00 GMT",
+      "description": "Pennsylvania Races to Stem Measles Outbreak as Amish Wedding Season Draws Crowds WSJ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -435,6 +489,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "The U.S. Has Lost Measles Elimination Status. Here’s What That Means for Chaffee County - by Community Contributor - Ark Valley Voice",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWtSc3lfU2wtWVlaUkswcGVxaXZwcmotSmh5R3c3S0w4cnh6Yk5nRnA1LWowQ2NSaXdpOXozTDFLNXFDY3Zfckk5ankwZXZfS0ViaUhXXzVoOVFqbkRLUmpHWWV4dk9MVzZQeXNSVGdBWVBFV3hJbjlzal9OQ0hpQVc5MVFvaTZUalJEeC03TVlHTTkwMmFuUWJMY01JSDNvWWZ1bFhXeXp0RVk2cE1lMVVR?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 21:28:25 GMT",
+      "description": "The U.S. Has Lost Measles Elimination Status. Here’s What That Means for Chaffee County - by Community Contributor Ark Valley Voice",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "City measles cases remain low, but sparse childhood vaccination in some areas poses risk - Crain's New York",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3NzRy1WSEFmM1BpLW5qNnlJRUxsM0toUnpURm5mVkxEN1JhV0phRkNadThQSmlkTEt2VlVuWFo4VlVtNXFqbGJMZE1ranVtZEY2ell4SlJ1Zllib0xsU2hJTEpFb1RIZjdkTHNWVUFIMThndlAxWVk4XzVRQjYtczFDYzNydU50X1lJ?oc=5",
       "pubDate": "Wed, 25 Nov 2026 20:08:00 GMT",
@@ -448,15 +511,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWhKdG1VWG1uSC1iSnhucnNvMlhGdTVqS0sxX1p4a2pHMnVTbzZWWV91a242TElSTl80bjNSS1ZSaGlodjVkdmV3QkFObzB1T2g1NGZxTWtkM1pqSFRQNVhFX1V2QUxFZk9tX0tQTlNZV2RGVjBRRWJaaFY0UTVuQVd1MHBnNkh6UlJycEFhSkZ0bGtrOTdudVc4Rm12VVRGeFFCbTNWc2JBS0g4WmlKakJGUFMteElhckE?oc=5",
       "pubDate": "Wed, 25 Nov 2026 19:12:00 GMT",
       "description": "Nonmedical measles vaccine exemptions for kindergarteners tied to 16% higher risk of outbreaks CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Wisconsin Announces Third Measles-Associated Death, Bringing Total to 14 U.S. Deaths This Year - Infectious Disease Special Edition",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQendxMno1bE5LcS1wV1VCcjlpSzFySGxhblc3cDJYVUxNclJpeXh5MHVDTDR0VkpFbkFrZFYxWFFBSUJ5dmZxa2ZCSFRtTTlEczFhMHhxYkY4Q1JWVUZMNzRhUUtSQmhrZXZOeDBaTTZRM3V4SXpRRmlTM2hoUUFRQW5TVkVwRHBnMkIzS2lVRVVMek1UQ3JKa25uRU9lNDhGN0d4b0cxYnpkSEpfQlhyTDlJR01WTHZMVFo3R290WFBscWdPaExPdDBMZkh6YkxTS1Fna2pBTzBPanNlcVRuUV9vUTloQQ?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 18:18:35 GMT",
-      "description": "Wisconsin Announces Third Measles-Associated Death, Bringing Total to 14 U.S. Deaths This Year Infectious Disease Special Edition",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -520,15 +574,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYTZoXzF4NkdiM3ViY3VKQ194R29hSVg5NC1ST0JTa1pKNi1OSWFHOERydm5pdndVaGRzNVNQWThUbjRhR29IRHZsY2JZb3E2WVVmd1JMMlFRTTlOaWQyd1BDdHBMY3Eza0NGUllteUV2SWJqN1BGX0NEd1pRX2FtVE5RV0p2STBLQXl3V2Vn0gGTAUFVX3lxTFBvSG51MWFtbVNPSk1IYndUMXJGN0YyNVVzaWEwdFI4Wk50X2ltN0FIaTV2b1RHTWtqYWJfU0xzRHlKUFpjbTZPWFhyOEYxWTJsdGkzV1c3LWlUeFhMM1YzZV9lUnhKYmxRUXJtZnRxY0kxWEtqSzAxVkNRQ2RlVzBGc3lXWkZ3Q1ZWNHc4OVozM2g1bw?oc=5",
       "pubDate": "Wed, 25 Nov 2026 16:52:00 GMT",
       "description": "Democratic senator demands ‘action plan’ to regain measles elimination status The Hill",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Many healthcare providers encounter measles for the first time as cases continue to climb - Audacy",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdWg0RVd6aXdZNXV6ZWdvaVk3OW8yeWRxbGJNNzZhUUMtWTRYNldQaEtvSHpBdEkzNG1BOGpWT3N5aHhaWml2UFJSWUg3NWFyZGFjUkZGSHZMVnBQbThud1QzR2xoeHRTLTRUbGNTelRfWlVuS25zRWRsT1JxYzBQek1MY2hpZ1dRaEc4?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 16:47:00 GMT",
-      "description": "Many healthcare providers encounter measles for the first time as cases continue to climb Audacy",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -633,24 +678,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles on the rise again in Virginia, sickening dozens in just over a month - WRIC ABC 8News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEZDJWMmZYTDNnNWR3Sm9aSGZ0WFJ3WTN3VG9yel9VbnhXMDhXQy1BSy1TY2tnY2RtQkpSdGl2ZFVwNmQ5MVdiemltbnlUUzRzYzNEcnpNMUJDamNPNVFILUpOVXF4cEw1SmJldm1tUFVpWUNjdGtEeW5JQ1XSAYIBQVVfeXFMTUZBNEZBcHJUMmljb0VKZmdXVnNvXzl2alBWdkltMThlTWZiMGc5VWJSb0xfOEhoZHFxdFNuT2NUdzhHU1dsWEJCd2M4WEExZEp2Vy1ycWE1MF9sN2lTWmV6aTVEMFA3LXNTbEtTM2syWkQ5bk5iblh4WG9nT0xCU0cyUQ?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 04:26:52 GMT",
-      "description": "Measles on the rise again in Virginia, sickening dozens in just over a month WRIC ABC 8News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Adult dies from measles in Wisconsin outbreak - WISN",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWEpnS283T2ZxR3ZzcG9wNkd3UW54N3IxNDZRX2pYRHlocE94TXFyWnFNRVN4bTlqWVhQMVhKaEdhMFN2TlJKVkd3RVo1UGFDSTVyUTVTMFZJQWp0dkVYcGRTa3RERkhTWWwxQ2ZTcVdMMk1vZFRxbjlyQnBUSXlUcG1KZlV4WjMxbFN3Mg?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 01:34:42 GMT",
-      "description": "Adult dies from measles in Wisconsin outbreak WISN",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Questions mount on RFK Jr.’s plan to regain measles elimination status - The Hill",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRU1SQmEtY1hpVGJPRVBZTDYxX3FJWmJ2aU9mbzRiNk0wMjBDUHlKUmVSbnA5R3Z2Ti1XcWZsZWFPanJHRGhwc0JLeGllUVZ0UncyTFpPc1FvYS1GRGVyMjFKRU9rei1kbThMU21OTV9uM3paU1J5ZGdsd1JBNndkcFp5YXNVc2dHTVZhM2ExSEZpUdIBlwFBVV95cUxQOFc4TTM5UlhIdjRRTW15MVZPd0lGeEo0M2dUS08zZUc0WFZwUi0xVlY4cTRVakx5Z3YwLV9lS0tGSGN3X0tSU2sxbGl2dV9hOUxHUWRNaU4yRi0wVnJTaUduVndRRW1aOG56bkQ2ckZ3SmxqbUhISXhMd3J1dXRzN0ZpWTluSFkwQjNaeWVTZ2ZvZWNjMkNn?oc=5",
       "pubDate": "Tue, 24 Nov 2026 23:52:00 GMT",
@@ -732,15 +759,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "CDC looks to bolster employee morale after U.S. loses measles elimination status - Government Executive",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRm1QTUUxWHpIYmwwTlEtYnBfeDZOdkZzY0FiMGp2bHRNVTlPNC1DZjc1ZDh5cGllX0pUY25wSFlfU1MwTUhpTlNvOHl6SkZUemEtZV91U1hZTHdLQlFLSHFjWF9TMTJiTU82dE1PdkwyNDVKWHd4Nm1pbG9wcGxlRU80QkRRak9PUGxhQWQwSG9wbkl2WFNFeWplaGYyYVUydzFzOVNQQkFMSE8xdFh4LWd3YmRtYUdhQm9DM0RCdXZlUXZC?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 14:49:33 GMT",
-      "description": "CDC looks to bolster employee morale after U.S. loses measles elimination status Government Executive",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "What the Return of Measles Means for the U.S. - Time Magazine",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSDFQVFlfWVFkY3lNYzN5ZFhjclNNQXQ5TkNwcE9xMEhScFpiX0dFY3JHSVhra3BLYnl4ZVN6clFLR21saWtvalFkb2RPMjVpWi1HQVpUNlFPZkxLM1JYVmVWLXdHWU1VRE9GRFRicmlTbVRSSDlKTVJxMXZpZVQ4VVhXOTM2QQ?oc=5",
       "pubDate": "Tue, 24 Nov 2026 12:00:03 GMT",
@@ -754,15 +772,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN0pUUUswZ0g3ekZtSDdTLThGOHdxY0dGQ1BaQWF1RUdLZ0ladWlKV2xya0YyVFRETEdyYnZZODMyUEVIbjhkZXFnU2N6dk1RNldSdUcwNXZCM0w0MngweDdsakdyM3hfSnVId1BVWTI4ME9QSDVxUXJTNklRbjJaZlNTaWtraW9HZi1yTEtWLV8tOGxzcU55aDl5SUNCbmgx?oc=5",
       "pubDate": "Tue, 24 Nov 2026 10:30:41 GMT",
       "description": "Too young to be vaccinated for measles? How babies face growing threats from outbreaks NBC News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Pennsylvania reports ninth measles death in ongoing state outbreak - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDJrMHJRRmVQdjBiV0RZT3paRmp6R21DblU5Ull5dV9GQ2cwTENkemEwOXNoeklBelFtNmpaREJucU1ScGxnU3dwN3J2azFBTFozV0JneS01TEtyMHBucHotcFRzVnJVdHo1aFV5Q0E0d29KcTcwSUFFU0lVQVpnLTRJc1p4V3VJWkRzZ3FGY1ppQWF4RGwzWXpZNVNVMVJlYTRCNHVBaF9zam9f0gGyAUFVX3lxTE5CYlZuSkZfSTUySlNJd254Tmd4LXk3QWZXRkJkYnF5YzI4Yk9OdHJ2WENUQzZUUVU0RXIxelZSTFlDSzREMTlNRkU1V0JodUxPdzZLenZIczdnQmx6a0taWHBpeEZJSWR6eFJlMVJNQjZLNVctTm8zYU5iaUNxdjdfSS1meDZYZVZNWEQyR3RwYkhHdjRudFBIVmdEOVNMOUxGbEl6ai1HcDdVRzlKU0xRd1E?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 05:02:39 GMT",
-      "description": "Pennsylvania reports ninth measles death in ongoing state outbreak Al Jazeera",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
