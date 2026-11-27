@@ -1,12 +1,75 @@
 {
-  "updatedAt": "2026-11-27T15:14:52.660Z",
-  "itemCount": 71,
+  "updatedAt": "2026-11-27T16:16:43.963Z",
+  "itemCount": 73,
   "items": [
+    {
+      "title": "DHS investigating possible measles exposure in La Crosse County - WEAU",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0g5SGY0UWo0c1pHU3NxWENVbi1QU1djMUptWktodGJLbnB5S0J5bGRic1c4dmFZUVRnejZFbVktekxyaUl4emRWSWZYa21CeVB3dE5wZVNuSTl3Q1pET1RHYjlDcENTTkNNZ2htMDVueVFYVl96dUZCOWlFQU1wNmlhWTdWSl9nVmduaFl1ODlKUEVQQ2ZaUNIBrAFBVV95cUxNbWN6TGMxbnQyUEtBcXgzM3RZZXl5bDNxVmxQMTJ2Nl91RHNRZWVjRjhybm5qU2ZMaWhGS2FNbVM3MGVhVHNlRGVVWkhXZ2dfVktrTlpsMWpRdGZpS1h2ejBfczZPUU85dU14SHZ0dUNjdzJXRE1JY01VX0tCYXpFU2JqZ0p1ZTJobWszSFFpUWU4RFB1VmJCclQ4MkZkM2JHVWtNbWNBem1tTVIz?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 15:57:00 GMT",
+      "description": "DHS investigating possible measles exposure in La Crosse County WEAU",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "U.S. loses measles-free status after 26 years, UTEP expert warns of fading immunity - KFOX",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWjhaell3TUkwdm83TDgwV3p0Vl9MZWFQZXBYZXN2SlljTHZZbWFWMFRwZ3g0akdXQjlOOUlNb3RjN0Fxd3pQdlJ0c2pFcEEyQUdoYUo2SGpxU1JabmRtV3B4TlBEYXNJMFlVTFRLY19fb2JDNEhoSXNHMndLZjdRSjVVWVk1U0hHaG0zaFF3VUdtUXpzeVJ3Mkw5a18xX0pVZlg0aFVTZmNHNEt4LTFv?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 15:56:48 GMT",
+      "description": "U.S. loses measles-free status after 26 years, UTEP expert warns of fading immunity KFOX",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Unvaccinated and Dying: How Pennsylvania Became the Worst Measles Outbreak in Decades - Latin Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnYyRHgzQVZKREpzVGl3ZDYxWkFmalpwNmRJN0kwdVN6YjZpdnNTM3JXeDkzemh0VWZFTmo0SkRha3FpeUY3VnhWc1I3eFpMQmUwT0FBTmtrd09zM3pRcmpBZXg4cnRMWTRZODhoQkpMbTdxem9seVZkdDFVNGhFTmZubmw1c3hrRkxRYnd0UQ?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 15:42:29 GMT",
+      "description": "Unvaccinated and Dying: How Pennsylvania Became the Worst Measles Outbreak in Decades Latin Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Gundersen La Crosse ER visitors on Nov. 23 face possible measles exposure - WXOW",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdEFJS3BYSVJ3SzBkbzJpTXVXa1owcGFPS2RMdHpGc2xGU0xXRzZIODAwRlRyaHAtX0hGOGFwQkJFNzNZVldFcVFmZm1xYmtCMjVhNzhDc04taXU0bDFnNEJweF84dmZpWjVBcUFBY0YxeFFVdXdOdXVYRE1taC1jUHNkelpvQWhfRXI5LW9kdHhwbjE4Y2ZOWks4WGhUMXl2WC1KR2pPSVNPMjlTNDVxVnJ3aDJkcHZQdWlydEVtZmFnUG4zZ2dkOVVVQ20yY3FYM0lLbEIza2NOX192cTVYTTBR?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 15:24:00 GMT",
+      "description": "Gundersen La Crosse ER visitors on Nov. 23 face possible measles exposure WXOW",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Hickory child cleared of measles - WSOC TV",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN1NpWlpPUUFPc2RLcHdlQ1hDQjVMUGt2TVJlb0wtbzgwVVpDUVFTYV8zczUyazdIVm9mdlRwOUoyV0FIaUl3Ymt6YmwyNTNpT1lMSGpkdThwUTMxbGp3ZEVCSjJMbHR0cVBYaklXYTQxY19JTXVDTTRoVXNDUXdmLWFielNyWHFfemdnWkh5Vk9ST09weXfSAaoBQVVfeXFMUFhqVU1JaEZ6NVVwV1RzRWI1S0tiM3B6RjVWcjNIdUNNbjFraU1ITTRuN0VORktTV3F0a01wMFlndWZlNW5uUTFRNmV5c0RUaktvaXQwQk9tTGZwRHkycF84Mlo3RUtzOU1qN1o1UzZFVW5oaG1OeGpuTXRvQTM2YlRCdlRjX3BQa0JDN0pkRHJKMEVRcmJIQWdFMVlIZHkybDFUbEFvQnVDSmc?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 15:04:19 GMT",
+      "description": "Hickory child cleared of measles WSOC TV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "New Ohio measles cases this week nearly match total from 2025 - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUlNUQnNPM3ZHVWt6NzZnR1FCekgxQWJ1SWxrUVRlQ0xyZTRic0M2NzJmN3JRcDFmUmFvVzhDOEhwQ3doaklpZ2JJTlI1NkdzZnZENHFtWWdkYnVYUU53QnpFdjc5ZWNFSWVvMW5ycGFLRlBSRnRtcFFLTVhqX21WLWFsbERadHY3V0FuWA?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 15:02:49 GMT",
+      "description": "New Ohio measles cases this week nearly match total from 2025 Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
     {
       "title": "New Ohio measles cases this week nearly match total from 2025 - The Columbus Dispatch",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVW1NaHozLThscFFFeUxUaXNpZnFQXzVObGY3bC1ZNFZ3ZDEyaW5ZRDR5VFRQX3JjQ3VTM0hXRmxwTFd2cWJPcTJjd0w5a00xbWZwaGRzT2N2c2M2STRULVRUNTg5c3NPbzZxaUZKWHlsYnc0RzhZWUp6a2swbEFhT1BaLWsxemFiS1E4a05fcC1lbjVvQXgtOHk3LVJRT3k0aTlWZEU2bGtOWkU?oc=5",
       "pubDate": "Fri, 27 Nov 2026 15:02:00 GMT",
       "description": "New Ohio measles cases this week nearly match total from 2025 The Columbus Dispatch",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "DHS investigating possible measles exposure at Emplify Health by Gundersen Emergency Department - news8000.com",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUmdhM2JGLWNmNVdxZWtJaFR6M1NCQ2pMeVJabk5QUG9IZ2E2NExib3U2SUhQSDRod0lNOUlCemk2UU1nb0xiRWlIOFNodERySEIyb2ZJZW96V01Cd3dNbVhRTGgxbERpZVlveWQ1VlFtWUV2cUtxaUpNdnQ3VV9aRk9ISEM3NHUwWWItem01SDdTWTJaMXVnSXBvOUkyU254V3hMUlQxOXVjYTIyTUpOVmpMODROTl9vcm83TUx5YWZlUVJaN2tfTWtLeW1uVklaTW52UlVsc2xLS1lWd1hpWkRTSDFBYWczYUhYaGFhaUsyUTM4czVacW5pcnVsTXg0M3NkOGlQTXRKal9IeVBubFctTkNlZw?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 15:02:00 GMT",
+      "description": "DHS investigating possible measles exposure at Emplify Health by Gundersen Emergency Department news8000.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -93,15 +156,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Texas County, Missouri, Confirms Its First Measles Case of 2026, Which Would Be the State's 26th This Year - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWk9sLW94Tkd2RjI0WllRbXNITzlGTVBHM2lZWl9rc0pyQUJTajh5MXRsRmxjM1lyRzJCR2h5bHpvS3AyNElWR0hEbVFCTGRON2t3aGxvZm5icXdYckhqTnBZaFhMXzVCY2JnSjY2djQ3M1k3SUZDc2NxTHVWNHlLOWthVjJsNEFF?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 05:47:49 GMT",
-      "description": "Texas County, Missouri, Confirms Its First Measles Case of 2026, Which Would Be the State's 26th This Year Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Why the CDC and states disagree on the 2026 measles death toll - Medical Daily",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcUF6Rzdyem0wQ2hPSTZHY1Z4Unh0WWg4ekFYUFlNV0NTNjNITzd0V3lwV3R2OTFVRnVWVi1PRTBOY2NsaFJyMDg0Q0ZZYW1FSnRhckdIaVlZUktBeHdyM2kyY091anJ3Zk5SQW9iRzhtMEE1MTdtZWJUVlF5d3lsVnAtdUw0RzdTZ3c?oc=5",
       "pubDate": "Fri, 27 Nov 2026 05:39:32 GMT",
@@ -129,19 +183,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Measles resurges worldwide despite shrinking viral genetic diversity - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbzdLRUozUUtDc3N6WkFNWDRCVkw4WlV6eWgwbm5SeElDWFp6VU1IeFhwbWFzOGZweENoRjFBS2cxZlMyQ2JzTHg0ZUVRenQ3MXFObmxYWTNEVFM4TFUwaUd6LXh3TW5kdS1TaXlsaG5RMmFmWDNIMUhhWmo0TXVjTF9vdHZuM2VWbER4aUpuRnZaSFloQ0ttMVpUNnVoaDIwWHdQZDVXbV9JZVE5QUdFQm91eFlCZ1U?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 01:29:00 GMT",
-      "description": "Measles resurges worldwide despite shrinking viral genetic diversity News-Medical",
+      "title": "Pennsylvania Races to Stem Measles Outbreak as Amish Wedding Season Draws Crowds - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2MtOVVfTzdhZmJEcVhnalp2NndsOFQya3ZobTFEN2RIcVVjbGpoWE52MXpIMVlTdXNqaHh2TVVvTkZnOFlPUDJjNVg5c3A4a2xBRlh0WDZacm5fSngtbmM5Vk51cmNGSmx5WHoxZm5ZSzlQZS14YWlJZlRqSTF1aFZ6OENkM3NOeTAyRnliaUx0amJieGdHcWx0Rk90MHhtMC1vMVczVzA0QjBUeENFX1pOdTZuOXM?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 03:01:27 GMT",
+      "description": "Pennsylvania Races to Stem Measles Outbreak as Amish Wedding Season Draws Crowds WSJ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Pennsylvania Races to Stem Measles Outbreak as Amish Wedding Season Draws Crowds - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2MtOVVfTzdhZmJEcVhnalp2NndsOFQya3ZobTFEN2RIcVVjbGpoWE52MXpIMVlTdXNqaHh2TVVvTkZnOFlPUDJjNVg5c3A4a2xBRlh0WDZacm5fSngtbmM5Vk51cmNGSmx5WHoxZm5ZSzlQZS14YWlJZlRqSTF1aFZ6OENkM3NOeTAyRnliaUx0amJieGdHcWx0Rk90MHhtMC1vMVczVzA0QjBUeENFX1pOdTZuOXM?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 01:00:00 GMT",
-      "description": "Pennsylvania Races to Stem Measles Outbreak as Amish Wedding Season Draws Crowds WSJ",
+      "title": "Measles resurges worldwide despite shrinking viral genetic diversity - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbzdLRUozUUtDc3N6WkFNWDRCVkw4WlV6eWgwbm5SeElDWFp6VU1IeFhwbWFzOGZweENoRjFBS2cxZlMyQ2JzTHg0ZUVRenQ3MXFObmxYWTNEVFM4TFUwaUd6LXh3TW5kdS1TaXlsaG5RMmFmWDNIMUhhWmo0TXVjTF9vdHZuM2VWbER4aUpuRnZaSFloQ0ttMVpUNnVoaDIwWHdQZDVXbV9JZVE5QUdFQm91eFlCZ1U?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 01:29:00 GMT",
+      "description": "Measles resurges worldwide despite shrinking viral genetic diversity News-Medical",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -214,15 +268,6 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92YXFVN3dfVDVnY2ktUlV5aEtOdm1xUUtYX2pnWHJEaExlaUZXbkZoMlA2a2ZkWFYteTd6YUpGTm10QzZJYUp6YzRfQnI2eW41cGRPbkptV3VZSjFYTE5lWVpyQXNzX0p0UUpIVXFhb1VEYWczR2tpd1FxRHLSAZABQVVfeXFMT1VFd3RKWlptcUhQNmo0b2d0ZlllY29XZUk3bC1sM2gwTmE3TndEYm4xc2E4VXdydDdOVUJmSmJ1WmlzQ25JY0NlTHM1Y1QyUTJpbHE3d0Y4WGVDMnRMNEFJcTJHcG9DWjVVRnBYc3pJdmpyWDBqSGlscWNBUDVMNkl0dmhBdTltRWhXbzZ4NWJD?oc=5",
       "pubDate": "Thu, 26 Nov 2026 00:04:00 GMT",
       "description": "Public measles exposure in Marathon County WSAW",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Wisconsin reports 14 cases of measles in pregnancy, 1 baby born with it - Milwaukee Journal Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONHVSamtzakZxdTR3VHZkUnVjQ2xHZEFJcW9VVUtMbTMxcDZvRV9ZcmpTRmJMZVlKemc4UWpnNGJYVXhhT3VqUW1mZkVtSWl2c0NIdG90b3ZpYkpZREJCSTdpY0k4NHV2QURRVG05UHhVY2Zyd0RDOWw1OGdQbnpBUDdHMGhBNWtfMVBKZ0oxbXhIVUQ3SFBHd3h1OEtPc2FBSlI0RWlZSEluRjVMaXExa3RQNENGS3lpWnBCUUhMWGdCalhXRm93S05vY292N2s?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 23:31:00 GMT",
-      "description": "Wisconsin reports 14 cases of measles in pregnancy, 1 baby born with it Milwaukee Journal Sentinel",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -408,10 +453,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "With Measles on the Rise, Some Families Are Forgoing Thanksgiving Travel - The New York Times",
+      "title": "This Thanksgiving, Some Families Wonder: Should I Stay Home With My Baby? - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wNnV6cmNOR2NIVXd0T2F0bVNNeFhFOWdvSGg4d0ZwUGVzZFphR2Y5MjFIQ0dvQ1M4UEFMWUZOeVRZV3hvekNVVEw3YWN6a19kZURJVVU2Y1dobnJVM2FUemZraDVRRW4zR2dkcTExN0xlUkM1NFQxdA?oc=5",
       "pubDate": "Wed, 25 Nov 2026 10:04:04 GMT",
-      "description": "With Measles on the Rise, Some Families Are Forgoing Thanksgiving Travel The New York Times",
+      "description": "This Thanksgiving, Some Families Wonder: Should I Stay Home With My Baby? The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -453,19 +498,19 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Third person dies as Wisconsin’s measles outbreak approaches 1,000 cases - Wisconsin Examiner",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2RzTURZWXlOczZvTGo3Y2dYVXJ3cWtvbFJqMHY4SUQxYWs5ZEVnd3JlejVuQ2QtQXM1a21MVEI4LS1wU0h2X1VQaHluc3NIOEo1RUdaa3JTa1g4SWdhTVFVbGt2WjRTRXlxUEVjd0R6TFhUa3UyNWtKOUpRUXZldVZfV29wQmppNWV1bzkzMElYQk5FTURHZVotVF9MOHZVaDk1N1hhdEw3VVZ5MXNVYjRn?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 23:46:02 GMT",
-      "description": "Third person dies as Wisconsin’s measles outbreak approaches 1,000 cases Wisconsin Examiner",
+      "title": "Wisconsin reports 3rd measles death, as illnesses spread to the general public - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQckZNQ1V3YTBhZVlUT3VyR2ZNZDduUjJDazUxd0lnUzJEVGJhWGZfdXVUdGM2MFlqbG1JdmFjejQ1SDlWV1B1ZTdRMENpNVJkOFZhaUR1NW9Fc1lYeTk0WXRibmcwclkxWVhaNE5TY0lGUjVnZWo4WTU3NklrZm5ycGwwTFpEMWFUajZJaG1WQ05QYzBYWk5fdjgxSFJtenJlYkJEdw?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 23:02:54 GMT",
+      "description": "Wisconsin reports 3rd measles death, as illnesses spread to the general public NBC News Wisconsin confirms its 3rd measles-related death as its 2026 case count reaches 920 CIDRAP Measles exposure under investigation at Wisconsin restaurant Bring Me The News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
     },
     {
-      "title": "Wisconsin reports 3rd measles death, as illnesses spread to the general public - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQckZNQ1V3YTBhZVlUT3VyR2ZNZDduUjJDazUxd0lnUzJEVGJhWGZfdXVUdGM2MFlqbG1JdmFjejQ1SDlWV1B1ZTdRMENpNVJkOFZhaUR1NW9Fc1lYeTk0WXRibmcwclkxWVhaNE5TY0lGUjVnZWo4WTU3NklrZm5ycGwwTFpEMWFUajZJaG1WQ05QYzBYWk5fdjgxSFJtenJlYkJEdw?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 23:02:54 GMT",
-      "description": "Wisconsin reports 3rd measles death, as illnesses spread to the general public NBC News Wisconsin confirms its 3rd measles-related death as its 2026 case count reaches 920 CIDRAP Back-to-back measles deaths is our new reality; US tally now at 14 Ars Technica",
+      "title": "Back-to-back measles deaths is our new reality; US tally now at 14 - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM2t5S0pNSHRlQzg4QkpTUXJjQW56UXlvSlQ5SjR2aElpTWZvS3VQZ2pwczg2bTNjZlRRN0FQY25uNzFYdjFCYzZOaWZ5c1E3SDJzbFV0WUdKR0tTSE9xMHZTNVY4cktEOHR2dmM3SVVMbFBZMjIyS09RVXhlcHdZRkd0YnhSak1yOTlyMHh5LW9XcVFpVklGcldubkRFT21GVGVEeE9aVQ?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 20:00:18 GMT",
+      "description": "Back-to-back measles deaths is our new reality; US tally now at 14 Ars Technica",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -480,28 +525,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Mexico reports 12 active measles cases, 90% of population vaccinated - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdkQwaktwRGJsZEEzdGtVT1VtQWswZUY0bWhPX1U2U202enU1M21lclpiSDMzb0FvQ1l4b2FnSVBBT3ZtdjRsSTVLbDM3Nzh4cGxzNUtmQTlCSHNLMEM5dk5CSm91NS16TFRQV0JZSzVET2R2cW1JY0RMM19OTDRiYm1GYU5WUHpwQy01cFh2T2I1dW5KVUx3b2FxcHd0MklYdnB4cGREYVRZWVpITXdDZlpmdDhrYWk5R3UxeDBqTnQ3dkRCcENENA?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 17:47:03 GMT",
-      "description": "Mexico reports 12 active measles cases, 90% of population vaccinated Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Vermont is experiencing its first measles outbreak in decades - Vermont Public",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWNwMy0wUTR3MEgzckRXNk5PNm81dGtFNllLREJESjI2YmJWcWVRMjF6QnAyY0ZwVEFEdlpHOGJYQmNwRk1sNjBpcUJGaUZsX2R5dGI0VnNnd1Q3V0ZiNzRlOEU3aUlMajFvQUdkbTQwUVk1RDhiUjdOZ0lkQzQwTUprSk4xelNo?oc=5",
       "pubDate": "Tue, 24 Nov 2026 16:09:00 GMT",
       "description": "Vermont is experiencing its first measles outbreak in decades Vermont Public",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Vermont measles outbreak grows to 13 cases in Orleans County - WCAX",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWRXa043c19jZkxNV0laaUpUMGk3OG0wS1dCR3N6bFpudXBmbjBQLThsS1hmSWVUdEpXOGxibk9ndmhFWjd3amplektJZENPWGZlRGN5clFyWFphdjN3SXZub3otOFBfTGxYUFpsMzdLSFZFN2FoeXFUUmI4MEFkUTY0akZXMTVHYnNZQURmWWjSAaQBQVVfeXFMUGtUXzFZNHRSdGpmcVNNbFdPeHZnMmd1TE5oSGlnRnVORC1nZFVaX0p0WVBweXN6eS11ZGt1RWlzSGZZTUNpS2x2ZnVCbGxJdmstaTNvVHJMWktuTVNPaUpVc2Y2elVBWDVDY1MtZ0p1N3Y3S3ltcDBaanRRbTFNRlFKUG9QcnlELVJTb0VZYm1nUnZmS2lYSWszU195eER6NGlBTnM?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 16:04:00 GMT",
-      "description": "Vermont measles outbreak grows to 13 cases in Orleans County WCAX",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -565,15 +592,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOejlYQVdLMHJkYmV4a3V3cmlxbGdPNVMzYTNKYmN1UmNiV1JKT3BXaGIxeW5OT3N4RHZhOHI2TE15cDhIV2Jtaktla2R0MjUydWZFSjc3ano5UU9MYXNzQTBhbnJoUTVSbjRnR2lWN3JEQVFiRFRmLUY4ZEVOVTl3ejQwYV9xak90OFJZOGljYnN1UdIBlwFBVV95cUxQWnhOMzNvWG5IOUE1VTgxaEx6b1RQNjA5RGtvU2l4Rk15WWtsQWl2M1MzNTc2VjRZb3RiZDV4WEpIYzRfeV9vVXVDSzYyQXBhVVNjQXlPazVjZDFDajhOb0ZWaURmVHZySmZ5MGhwdnJSZ29qc2V0WUxqWWFHcXFZRmx6NUJ1VXlHWEhUYzBieXd1bUlqTWpN?oc=5",
       "pubDate": "Tue, 24 Nov 2026 00:01:00 GMT",
       "description": "Pennsylvania confirms 9th measles-related death The Hill",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
-      "title": "Virginia, Pennsylvania report new measles deaths, bringing US total to 13 - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlQxLUN1NFJzZFB4dHZELVR6NV9WRG55bDJvWk9lc1dTUnVGUXY4VXNUcFNxRFNiTlFOVTRZbDBHUFNXZ3NWYXhueHFzZ0xIVllGbjdyaWo4eVk3WWRFR0lFWXdrUThNeXpGcTh3U2xydVQyLTR6ck9NbUVkWGZkejZfbEo2ZUZDcWQ5UWtYZkE1QU9fQUVoNzZWaGlzZ3IxMkVoWjZn?oc=5",
-      "pubDate": "Mon, 23 Nov 2026 21:03:00 GMT",
-      "description": "Virginia, Pennsylvania report new measles deaths, bringing US total to 13 CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
