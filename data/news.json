@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T02:19:45.806Z",
+  "updatedAt": "2026-11-28T03:16:51.937Z",
   "itemCount": 93,
   "items": [
     {
@@ -192,15 +192,6 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Tribune editorial: Measles is back. The way to reverse that is with widespread vaccination. - The Salt Lake Tribune",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOXhWUWhyQmtYWUcyMUN4Ym54UnNmMXd3bUtodEFPM1FDYU5BeEgwbFU2RlZSNjVwbldJOWFnOHQ0MnpjdERQN21yQ05nWTdxakRFLVJUbnlfRXd5LWJpTVFNd1BMVk91YkNnck5lNU82YjJJZXRwaHJHTkh2aUFtczctR2xJSlZCQ3hsdmkzOA?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 17:19:26 GMT",
-      "description": "Tribune editorial: Measles is back. The way to reverse that is with widespread vaccination. The Salt Lake Tribune",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Berrien County Health Department works to contain measles exposure reported in Niles - WNDU",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVm9GWUk2eWJfcWJ2RDRFSUQzeXZxaU9Bak5DRXUtTnUyWkZKYmp4eGgzSkpXbTZmSzBlVE1BWGRuVFBIdUlhWXFlREdCMlQwbUhCUFEta1pKSGJSR09DRnhHZ0todGpfVzZ0Tlo3eWFRWTBSM3JTRkRHQkcxNVFQRVE3MUhaNVc5SDVnT08yMVNsbDh3WlVWam9BeWRkM2k2NTlBNExjSTBieGZOVTBRadIBxAFBVV95cUxNYm5LZjh4ei1OWE1BT2dfLVZnbUNpa0JXNEJKNjZEMDNsRWlkdUVRN0h6YzUzWm1UTlpadktXclBMWVMwa21UY2NhVnItcFlqZ3o4Tzh2clhCV1hZQTB3ZlBNNnFneFhBYU53MDJqelBVNjBzdlYxVUxBODlhcHRMVFRPTnQtTm56eFBsR1VQenVoaDhCT1AxaFpfS2twOTU2cHJodTVTTFUwNFFxMTBQRWl3V0F0TFZVcGI1WHdKVTB3dUF4?oc=5",
       "pubDate": "Fri, 27 Nov 2026 17:16:00 GMT",
@@ -237,17 +228,8 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Confirmed Measles (Rubeola) Case in Kanabec County - moraminn.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOFJ4V2RuRDhqY3lGQ2JwOW9TMER1aVRnZmVIWHdWUjk0ZjM4cnQxdHBqRGhLaDNnRW00b3JZdzB4ajYtZkdZSU5fa3hkX29Td282el91UmdoRWMzOXFwcWtaRU1ET3ZadC1VZGh2Q0p1Vk50Tms3NTJnM0xRZi1oYXk4N2VxLWRRWWtWMzlCVGFIUVNjbG1QQmRhMlJQSkFhLW4ybU1nNW56eDRiOGFKQXNLZTJiNWo1S0ZFV1VkQkxuZWdLVk5r?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 16:40:00 GMT",
-      "description": "Confirmed Measles (Rubeola) Case in Kanabec County moraminn.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News"
-    },
-    {
       "title": "Catawba County child’s ‘possible’ positive measles test linked to vaccination, officials say - WBTV",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWFuSTFvSnJDd2tiNWdOa0M3TVhqZXAxWVpxUnUwWkZjTlFiYXpXaVVYQnJqc3AtT1IwN05kY2VwYTZUbDVFTlpRV280ZXlWMklPMnRWRFREX0lUYVYyMDlYQm90RE5xQzVXRFpkWUV4LXBmT3gxSFZXWTFfLUNtWmtQTDJraWQwd2V3Uk56SWdSVGRuSHFVTXQ2Z3pkNkpIY1dheXUzM1FWMXp5T2c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWFuSTFvSnJDd2tiNWdOa0M3TVhqZXAxWVpxUnUwWkZjTlFiYXpXaVVYQnJqc3AtT1IwN05kY2VwYTZUbDVFTlpRV280ZXlWMklPMnRWRFREX0lUYVYyMDlYQm90RE5xQzVXRFpkWUV4LXBmT3gxSFZXWTFfLUNtWmtQTDJraWQwd2V3Uk56SWdSVGRuSHFVTXQ2Z3pkNkpIY1dheXUzM1FWMXp5T2fSAcIBQVVfeXFMUHpIVnJqWFpLTlYwckFDTjVtV1Y4UmFYZkNHa0U0RDZQV0FFOUVnczVIVG9NZHVVQUlQUXdwai1QVGVOejF3Z1hQUXZIbks0SUVVVk9POTdKVE41YlJoOWk4MXdkNjFYY195TFpqQWUzLXB3Z21LV2p0Z1dPTGZCLWp2RTdvdC0zY1pxZlYtV29ENzhXcUE1OVpFUkZySExzdnJDVjVfV3VjRG5FeE5WNnMzWWpUZVBYbnFET0VmTWRqYkE?oc=5",
       "pubDate": "Fri, 27 Nov 2026 16:28:00 GMT",
       "description": "Catawba County child’s ‘possible’ positive measles test linked to vaccination, officials say WBTV",
       "source": "news.google.com",
@@ -300,10 +282,10 @@
       "sourceLabel": "News"
     },
     {
-      "title": "Gundersen La Crosse ER visitors on Nov. 23 face possible measles exposure - WXOW",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdEFJS3BYSVJ3SzBkbzJpTXVXa1owcGFPS2RMdHpGc2xGU0xXRzZIODAwRlRyaHAtX0hGOGFwQkJFNzNZVldFcVFmZm1xYmtCMjVhNzhDc04taXU0bDFnNEJweF84dmZpWjVBcUFBY0YxeFFVdXdOdXVYRE1taC1jUHNkelpvQWhfRXI5LW9kdHhwbjE4Y2ZOWks4WGhUMXl2WC1KR2pPSVNPMjlTNDVxVnJ3aDJkcHZQdWlydEVtZmFnUG4zZ2dkOVVVQ20yY3FYM0lLbEIza2NOX192cTVYTTBR?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 15:24:00 GMT",
-      "description": "Gundersen La Crosse ER visitors on Nov. 23 face possible measles exposure WXOW",
+      "title": "WIS360 Top Stories: A popular restaurant in Chippewa County is now a public measles exposure site - WEAU",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUXVERGFLRzE2eE90bVhWOGd4MkRYMlN6Rk5HX2lpY3liRDhMcllGQVVXdllHWlkzcHZpd0xQR1VPZDB4dWNSZlI5cENTQmZSS2k4WVpteS0xbWwzYzlqdjlYa3hkVVNXNGNUSmE2eWJrVnY5a001VXAydzdVVHlhbms2cTI5N3dTZ2w1NHFWTldBOVN4a25SVFJ5U3JzU3YzMGhKZmtGQlFtRmx1T3JseGR5XzBxajdBeDJnSEN3UdIB0wFBVV95cUxQcGJQMmZtUkhCeHFSVFhoT2J4VS1GYlc5dHhzT2xscmZubUw4WE9PM211VlpMOEQzVHpSZE1HQ0o2aURhNUxmLThpUUl4ZzY5aXVJQjI3NXR3Z0RfSldCRUR2WjVSLUFHNDdEdi1xcERTQ3pKWHpPeWxGamRydTk1bVlycU8wU1lPX29QNENSMXZjTmZFbmVpQUJIOGhKMHB4Y3hrNDAyUHhOQjhFWlF0ZjZVTU53ZHhXRlBBZHlQYUlMM1RxaUpwdUUwWHlyeVNqZVFj?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 15:22:00 GMT",
+      "description": "WIS360 Top Stories: A popular restaurant in Chippewa County is now a public measles exposure site WEAU",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
@@ -363,6 +345,15 @@
       "sourceLabel": "News"
     },
     {
+      "title": "Tribune editorial: Measles are back. The way to reverse that is with widespread vaccination. - The Salt Lake Tribune",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUmJocW53dmlndXVFMUN1VTM5MmhDS2s5ckJwbGxTRm1JZlBPaW1waFo4YzRscVNzUDFGeXltZjBhMllZTXpuZjBPRUV2NGhvdlFCVEQwYWRwS1hzUTBMaFlkX3NkQWt0RV9Ra0FYZ3E1YXNySFA0LVN2WmtRdHJRVDI3cVllMzY5ZEI2ME13?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 13:06:17 GMT",
+      "description": "Tribune editorial: Measles are back. The way to reverse that is with widespread vaccination. The Salt Lake Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
       "title": "Colorado parents navigate vaccine concerns as state's childhood vaccination rates sit among nation's lowest - Rocky Mountain PBS",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY2x3TEhPdVZLY3F5dFM4WHdoejdfS2lpZHUwOVl2cEFEdEs5Y24xcGdxSHN2NEd5R3E0ZjZhOW1EYXF4X0FNN2R6MzU5NkdkTlRDQ2JibkxvOFpZbUREYWJxUHZKaDE4bjRRSmQyVk1Mel9keUt6b3RCc3dlN3NXLQ?oc=5",
       "pubDate": "Fri, 27 Nov 2026 13:00:00 GMT",
@@ -410,7 +401,7 @@
     {
       "title": "Pennsylvania Races to Stem Measles Outbreak as Amish Wedding Season Draws Crowds - WSJ",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2MtOVVfTzdhZmJEcVhnalp2NndsOFQya3ZobTFEN2RIcVVjbGpoWE52MXpIMVlTdXNqaHh2TVVvTkZnOFlPUDJjNVg5c3A4a2xBRlh0WDZacm5fSngtbmM5Vk51cmNGSmx5WHoxZm5ZSzlQZS14YWlJZlRqSTF1aFZ6OENkM3NOeTAyRnliaUx0amJieGdHcWx0Rk90MHhtMC1vMVczVzA0QjBUeENFX1pOdTZuOXM?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 04:01:27 GMT",
+      "pubDate": "Fri, 27 Nov 2026 05:31:27 GMT",
       "description": "Pennsylvania Races to Stem Measles Outbreak as Amish Wedding Season Draws Crowds WSJ",
       "source": "news.google.com",
       "sourceType": "news",
@@ -610,6 +601,15 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYTZoXzF4NkdiM3ViY3VKQ194R29hSVg5NC1ST0JTa1pKNi1OSWFHOERydm5pdndVaGRzNVNQWThUbjRhR29IRHZsY2JZb3E2WVVmd1JMMlFRTTlOaWQyd1BDdHBMY3Eza0NGUllteUV2SWJqN1BGX0NEd1pRX2FtVE5RV0p2STBLQXl3V2Vn0gGTAUFVX3lxTFBvSG51MWFtbVNPSk1IYndUMXJGN0YyNVVzaWEwdFI4Wk50X2ltN0FIaTV2b1RHTWtqYWJfU0xzRHlKUFpjbTZPWFhyOEYxWTJsdGkzV1c3LWlUeFhMM1YzZV9lUnhKYmxRUXJtZnRxY0kxWEtqSzAxVkNRQ2RlVzBGc3lXWkZ3Q1ZWNHc4OVozM2g1bw?oc=5",
       "pubDate": "Wed, 25 Nov 2026 16:52:00 GMT",
       "description": "Democratic senator demands ‘action plan’ to regain measles elimination status The Hill",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News"
+    },
+    {
+      "title": "Virginia Reported Its First Measles Death in 48 Years. Should You Be Concerned? - Northern Virginia Magazine",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMUEwZzBzdnhhODNXY1dEX2lENWVwazRvbVR2aDZkUVQyZVQ2MlluWDRzODlEOFNVZzUwRDZDNmtyeTJ4WHRFZUlEYjk1aVZPeTdGNkg1TzA0RzFTYW1oUExrWE8zdjR2azJ0OEx1OWstSXlxS1h0X1AtN3RuNFkxZzJObmFpUkJMSjgxbFk1TzZsMWlGcndfSnV0aVdHeGVpeHBCSXozOVR2amxQWXhGV2I5VFFMWktXaVlJQTBB?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 16:46:03 GMT",
+      "description": "Virginia Reported Its First Measles Death in 48 Years. Should You Be Concerned? Northern Virginia Magazine",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News"
